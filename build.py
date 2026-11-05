@@ -252,7 +252,7 @@ def markt_daten(cfg):
 
     def fred(series, name):
         try:
-            r = requests.get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}", headers=UA, timeout=20)
+            r = requests.get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}", headers=UA, timeout=12)
             r.raise_for_status()
             rows = [l.split(",") for l in r.text.strip().splitlines()[1:]]
             for d, v in reversed(rows):
@@ -286,19 +286,33 @@ def markt_daten(cfg):
 
     yahoo("GC%3DF", "Gold", "usd")
 
-    # Zinsen: erst FRED (ohne Key), dann EZB-Schnittstelle als Reserve
-    if not fred("ECBDFR", "EZB Einlagesatz"):
-        try:
-            r = requests.get(
-                "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?lastNObservations=1&format=jsondata",
-                headers={**UA, "Accept": "application/json"}, timeout=20)
-            r.raise_for_status()
-            series = next(iter(r.json()["dataSets"][0]["series"].values()))
-            val = next(iter(series["observations"].values()))[0]
-            add("EZB Einlagesatz", de(val, 2) + " %")
-        except Exception as ex:
-            fail("EZB (Reserve)", ex)
-    fred("DFF", "Fed Funds")
+    # Zinsen: EZB direkt (klappt), FRED nur als Reserve
+    ezb_ok = False
+    try:
+        r = requests.get(
+            "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?lastNObservations=1&format=jsondata",
+            headers={**UA, "Accept": "application/json"}, timeout=15)
+        r.raise_for_status()
+        series = next(iter(r.json()["dataSets"][0]["series"].values()))
+        val = next(iter(series["observations"].values()))[0]
+        add("EZB Einlagesatz", de(val, 2) + " %")
+        ezb_ok = True
+    except Exception as ex:
+        fail("EZB", ex)
+    if not ezb_ok:
+        fred("ECBDFR", "EZB Einlagesatz")
+
+    # Fed: Effective Federal Funds Rate direkt von der New Yorker Fed, FRED als Reserve
+    fed_ok = False
+    try:
+        r = requests.get("https://markets.newyorkfed.org/api/rates/unsecured/effr/last/1.json", headers=UA, timeout=15)
+        r.raise_for_status()
+        add("Fed Funds", de(float(r.json()["refRates"][0]["percentRate"]), 2) + " %")
+        fed_ok = True
+    except Exception as ex:
+        fail("Fed (NY Fed)", ex)
+    if not fed_ok:
+        fred("DFF", "Fed Funds")
     yahoo("%5ETNX", "US 10J-Rendite", "rate")
 
     bz = cfg.get("basiszins")
