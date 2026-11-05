@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-05T13:41:54.585420+00:00",
+ "aktualisiert": "2026-11-05T13:48:22.061461+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "130,90 €",
-   "delta": 0.3218916969754959
+   "wert": "130,83 €",
+   "delta": 0.2682436265493138
   },
   {
-   "name": "iShares MSCI Emerging Markets",
-   "wert": "44,45 €",
-   "delta": -1.3426572455668584
+   "name": "iShares MSCI EM",
+   "wert": "44,42 €",
+   "delta": -1.4225507184981279
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "70.991 €",
-   "delta": 2.1455248336029755
+   "wert": "79.748 $",
+   "delta": 1.7873241717651256
   },
   {
    "name": "Ethereum",
-   "wert": "2.127 €",
-   "delta": 3.4189496129455086
+   "wert": "2.392 $",
+   "delta": 3.1657283293587613
   },
   {
    "name": "Gold",
-   "wert": "4.123 $",
-   "delta": 1.2202307881168606
+   "wert": "4.127 $",
+   "delta": 1.3184384974220364
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,30 @@
   ]
  },
  "items": [
+  {
+   "id": "d35fb8e8e650d612",
+   "k": "deutschland",
+   "titel": "Mädchen (13) seit 53 Jahren vermisst: Polizei sucht Kirmes-Besucher von 1973 - BILD",
+   "t": "Die Polizei sucht nach Besuchern einer Kirmes von 1973, nachdem ein 13-jähriges Mädchen vor 53 Jahren verschwand.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjZjaU9jMU51ZURDVmFrbE1NbG5lSlNEeDZQOFlITFJIRXRMOGtfZnJsZUxCcGNWNEY2cG1TN2dteVRlbDJXZElIbHMyVURuQkFFMFFtS2JvbVlYVHlacU44T1RFd2ozNkNFZC1sYlNmYW5LRFJQUDlHYlhTTkVhUTJISjRrWWdrR0FyaWs5a1U2VnVBYlZ4Wkt4aEU2R2UzZDVXb0NqSUlFbmdmZ1dLWFBiYnYzWjYwdHJobldrMU5KdUFRTkh5Q0pJTXhzMzIzbEl6dGV4Qm85a1Z5cjFVUkhn?oc=5",
+   "quelle": "BILD",
+   "zeit": "2026-11-05T13:46:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "fe320d2fae117fa0",
+   "k": "deutschland",
+   "titel": "Immobilien: „Verdacht von Korruptionsstraftaten“: Behörden durchsuchen Bayerische Versorgungskammer",
+   "t": "Die Staatsanwaltschaft München hat die Bayerische Versorgungskammer wegen des Verdachts auf Korruptionsstraftaten durchsucht, es ist die zweite Razzia in dieser Woche.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/immobilien-behoerden-durchsuchen-bayerische-versorgungskammer/100267516.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T13:40:59+00:00",
+   "tag": null
+  },
   {
    "id": "5461590f7a566f87",
    "k": "welt",
@@ -489,6 +513,18 @@
    "tag": null
   },
   {
+   "id": "dd4690d98d365360",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Heim-Prozess: Arzt-Verteidiger fordert Prüfung der Vorwürfe - n-tv.de",
+   "t": "Im Heim-Prozess fordert der Verteidiger eines angeklagten Arztes eine Prüfung der Vorwürfe.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGlWVVR3Y2ozbXVoNVJVbUw2OUkyXzRFdkZfWExzRWNyTWJPX09SN0tsbmRhRkxFMTJXUmdWdzQ0TGV6Umw4WTVSbU5KbXpvaGg0dlkydEpsNFVkM0o3cHJUMU53enN2ZDBGYzJSWTlhYWl2Zmpwa3FOUVpQc29nckdXeU83RXYtYURKdWluOWRFZzd6Z2NHLU1rMXhTSk4yaGU1NE8xamZ0Q3VXRi1Cc0FKdDBibF81ODVqUWlfdGR5cU83UGc?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-05T12:34:00+00:00",
+   "tag": null
+  },
+  {
    "id": "f585cca64f28050d",
    "k": "finanzen",
    "titel": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
@@ -842,6 +878,18 @@
    "tag": null
   },
   {
+   "id": "47f858493d9c6d5b",
+   "k": "welt",
+   "titel": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
+   "t": "Der Hongkonger Demokratie-Aktivist Joshua Wong wurde zu zehn weiteren Jahren Haft verurteilt, auf Grundlage des chinesischen Sicherheitsgesetzes.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T10:35:32+00:00",
+   "tag": null
+  },
+  {
    "id": "3183cf4d274d438f",
    "k": "finanzen",
    "titel": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
@@ -894,6 +942,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVB5R3JUZWk2WHhaQkRoUDNQWDJrQ2dXdVpoc2hLVzFxUWZYa1hsR3NKU0tDLV9CbGc2azA5NEVqb3FTa0hQRHo0QWhUOElra2VsN0JtczBZdGsxSjVzUXNGUkw1SW1XdFE4bFlFbkpsaElrZEx6ZTlTMVYtMWthUndOUW9UTXg0SW9oclp2RmZyX2Fxd0o1ajZ0djRQLVNxN0J6c254TXBJY2ZIS1Y5WDJxQ1kxbWVfMXpyWG1NMFFyVDdZME52Q3ljZ0p5aThV?oc=5",
    "quelle": "T-Online",
    "zeit": "2026-11-05T10:11:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "fb645f32152774d7",
+   "k": "deutschland",
+   "titel": "Hubert Aiwanger ist tot. Der Chef der Freien Wähler wurde leblos in einem Berliner Hotel aufgefunden",
+   "t": "Der Chef der Freien Wähler, Hubert Aiwanger, ist im Alter von 55 Jahren tot in einem Berliner Hotel aufgefunden worden. Politische Weggefährten reagierten bestürzt.",
+   "e": "Aiwanger war bayerischer Wirtschaftsminister und Bundesvorsitzender einer Partei, die in der bayerischen Landespolitik eine Schlüsselrolle spielt; der Tod hinterlässt eine politische Lücke in München und Berlin.",
+   "s": 8,
+   "link": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T10:08:12+00:00",
    "tag": null
   },
   {
@@ -1160,6 +1220,18 @@
    "tag": null
   },
   {
+   "id": "ad29ba72ee9a8e7a",
+   "k": "finanzen",
+   "titel": "Zcash is about to freeze $16 million in its oldest privacy pool",
+   "t": "Zcash will laut Bericht 16 Millionen Dollar in seinem ältesten Privacy-Pool einfrieren.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T05:47:01+00:00",
+   "tag": null
+  },
+  {
    "id": "a1af74ec7fcb0c35",
    "k": "nrw",
    "titel": "Meinerzhagen: Verkehrsstörungen auf der A45 nahe Rothenstein heute, am 05.11.2026 - News.de",
@@ -1184,6 +1256,18 @@
    "tag": null
   },
   {
+   "id": "dca525494cb3d696",
+   "k": "finanzen",
+   "titel": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+   "t": "Das XRP Ledger hat einen gemeldeten Fehler behoben, der die Erstellung neuer Token hätte ermöglichen können.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T05:25:06+00:00",
+   "tag": null
+  },
+  {
    "id": "bb9a2dabc5b20ed3",
    "k": "usa",
    "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
@@ -1193,6 +1277,18 @@
    "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-05T05:16:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "a94baad9e2bcca9d",
+   "k": "finanzen",
+   "titel": "Trump can't pack the Fed board with allies now - Axios",
+   "t": "Nach Berichten kann US-Präsident Trump den Verwaltungsrat der Federal Reserve derzeit nicht mit Verbündeten besetzen.",
+   "e": "Die personelle Zusammensetzung des Fed-Gremiums ist für die Unabhängigkeit der Geldpolitik entscheidend.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwV0dBTktfZXpJdWZQaVY1U29HZEx0TWptMFlwdEpvTTRGdWxRTGd5by0yM3JDdVNONC1EVTNLbTJjN2xCc29lOTFkRVRVWDg0aTZJcGZQX0toV2NFZHp4czQ4NjFBQ2hndHN0aE1KS0Q?oc=5",
+   "quelle": "Axios",
+   "zeit": "2026-11-05T04:55:27+00:00",
    "tag": null
   },
   {
@@ -1232,6 +1328,78 @@
    "tag": null
   },
   {
+   "id": "3d86b3d1578459a0",
+   "k": "finanzen",
+   "titel": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+   "t": "Der Kampf um Halbleiter-Fachkräfte verschärft sich, Chinas Chiphersteller gewinnen an Boden und Betriebsgeheimnisse geraten in den Fokus.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T03:53:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "f694f9f9e0eaa561",
+   "k": "welt",
+   "titel": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
+   "t": "Saudi-Arabien sucht nach Wegen gegen die Huthi-Bedrohung, die Miliz fordert laut Bericht 51 Milliarden Dollar für einen Frieden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-05T03:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "fa4ce69cccb225f5",
+   "k": "finanzen",
+   "titel": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+   "t": "Die indische Cybersicherheitsbehörde warnt vor einer KI-gestützten Hacking-Kampagne, die Krypto-Börsen und andere Finanzfirmen mit hoher Geschwindigkeit angreift.",
+   "e": "Für Krypto-Plattformen und ihre Kunden steigt damit das Risiko von Angriffen und Verlusten.",
+   "s": 6,
+   "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T01:51:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "0a2add65630bda49",
+   "k": "finanzen",
+   "titel": "Fed Chair Kevin Warsh says third quarter GDP is above three percent - KRCR",
+   "t": "Fed-Chef Kevin Warsh hat das US-Wirtschaftswachstum im dritten Quartal mit über drei Prozent beziffert.",
+   "e": "Ein starkes Wachstum ist für die Fed bei der Frage von Zinsentscheidungen relevant, weil es den Spielraum für Zinssenkungen beeinflusst.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZjMzUFk4aTdmbGhqX2RuRmJjTl9KcFZtVDkwanFkY3ZURi1fN1dwYUpFdWhQLVZHN29GbjdlWjIzWWx1djFodkJIaXd2TmFiRXU5aFQwVGJTdjFCQzhkc2NTcFlJT1ktc3dBQnc4c2YwV05XeS1PZzkzVkkzNTZiYU1WZXFjS3d1bE1Ua3d2R3ZUSUtqZ09lbkpzbm1WU0pQU3JxUEo3SXpBMDRJNldXX1M0Y29RWHNHc0ZpcUpqRU9IcTZhM3d1NkJ6T3NtOUFweC1QSldjTU5RY3dBcU92bjlMWHZvdEVMbmFIWjAxdHc?oc=5",
+   "quelle": "KRCR",
+   "zeit": "2026-11-05T01:01:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "6be9c6c2904ca393",
+   "k": "usa",
+   "titel": "White House Schedules Hearing on Fed's Lisa Cook - Newsmax",
+   "t": "Das Weiße Haus hat eine Anhörung zu Fed-Gouverneurin Lisa Cook angesetzt.",
+   "e": "Der Fall betrifft die Unabhängigkeit der US-Notenbank und ist daher auch für Zinsmärkte relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3lYVDR1aVo0a2FNb0NQSmxyQUxSYURCam1Sak9wX1o4M0tMeVBkeXRrSmwwMC1QWWNzdUI3T0FtN0dRa1ROSWR2eUU3N3I2LUR3VUtUeGJhSEJ6SVk0bnpReXhnRk9MNERYSnd1OGw0ME5IVDFtSFR4Y255ajJ1eFE4LXp0SEg3TGFWclZxUm5KNk9PdE0teGt5bw?oc=5",
+   "quelle": "Newsmax",
+   "zeit": "2026-11-05T00:39:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "b9cb968aec95d53f",
+   "k": "usa",
+   "titel": "GOP braces for mad dash to push conservative bills through Congress before Dem takeover",
+   "t": "Die Republikaner wollen vor dem Machtwechsel im Kongress im Januar möglichst viele konservative Gesetze durchbringen.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/04/us-news/gop-braces-for-mad-dash-to-push-conservative-bills-through-congress-before-dem-takeover/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-05T00:34:45+00:00",
+   "tag": null
+  },
+  {
    "id": "1752b86b495c78cb",
    "k": "finanzen",
    "titel": "T. Rowe Price nach den Midterms: Wie es mit Politik, Wirtschaft und Finanzmärkten weitergeht - e-fundresearch.com",
@@ -1267,6 +1435,18 @@
    "tag": null
   },
   {
+   "id": "df892148c4890a54",
+   "k": "finanzen",
+   "titel": "BitMart founder says security team ‘severely understaffed’ after new hack",
+   "t": "Der Gründer der Krypto-Börse BitMart sagt, das Sicherheitsteam sei stark unterbesetzt, nach einem neuen Hack. Analysten sehen verdächtige Transfers, die möglicherweise mit dem Hack bei Mercado Bitcoin zusammenhängen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-04T22:31:58+00:00",
+   "tag": null
+  },
+  {
    "id": "46dcaa1a4bf4a194",
    "k": "finanzen",
    "titel": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -1299,6 +1479,18 @@
    "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
    "quelle": "CNBC Politik",
    "zeit": "2026-11-04T20:53:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "f9b0c411f14da606",
+   "k": "usa",
+   "titel": "Vance courting disgruntled Trump voters to form ‘new right’ alliance after Republican bloodbath, sources say",
+   "t": "JD Vance wirbt laut Berichten bei enttäuschten Trump-Wählern für ein Bündnis der neuen Rechten, nachdem die Republikaner bei den Zwischenwahlen verloren haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/vance-courting-disgruntled-trump-voters-form-new-right-alliance-republican-bloodbath",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-04T20:48:50+00:00",
    "tag": null
   },
   {
@@ -1385,6 +1577,18 @@
    "tag": null
   },
   {
+   "id": "288ffbbe663f49b9",
+   "k": "usa",
+   "titel": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+   "t": "Elon Musks Wahlkampfinvestition von 474 Millionen Dollar hat sich laut Bericht nicht ausgezahlt, Demokraten drohen nun auch seinem Texas-Imperium.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-04T15:29:01+00:00",
+   "tag": null
+  },
+  {
    "id": "ffd4a17b2b554f34",
    "k": "finanzen",
    "titel": "BMW wagt die Elektro-Wette",
@@ -1432,6 +1636,30 @@
    "tag": null
   },
   {
+   "id": "b63285c8caa58016",
+   "k": "welt",
+   "titel": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+   "t": "Montenegro könnte nach Einschätzung der EU schon 2028 das 28. EU-Mitglied werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-04T14:11:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "f6b21e2a897ba9bf",
+   "k": "finanzen",
+   "titel": "Energiekrise treibt Inflation – Teuerung in Eurozone erreicht Drei-Jahres-Hoch",
+   "t": "Die Inflation im Euroraum ist laut Berichten auf 4,0 Prozent gestiegen und hat damit ein Drei-Jahres-Hoch erreicht. Treiber sind Energiepreise bei Tanken, Heizen und Strom.",
+   "e": "Der Wert erhöht den Druck auf die EZB vor ihrer Dezember-Sitzung und damit auf die Zinsentscheidung.",
+   "s": 8,
+   "link": "https://www.welt.de/wirtschaft/article6aeb0c521a1d431301d468cf/energiekrise-treibt-inflation-eurozone-erreicht-drei-jahres-hoch.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T13:39:29+00:00",
+   "tag": null
+  },
+  {
    "id": "f3d6c037c7b4572d",
    "k": "deutschland",
    "titel": "Wohngeldreform könnte Bedürftige doppelt treffen",
@@ -1453,6 +1681,18 @@
    "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-04T11:36:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "7ad0d536f426cb8d",
+   "k": "usa",
+   "titel": "Midterms: Eine historische Wahl mit vielen Premieren",
+   "t": "Bei den US-Zwischenwahlen gab es mehrere Premieren, darunter die erste schwarze Gouverneurin eines Bundesstaats und eine indigene Senatorin. Demokraten gewannen auch in republikanischen Hochburgen wie Kansas und Texas.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-04T11:23:58+00:00",
    "tag": null
   },
   {
@@ -1480,6 +1720,30 @@
    "tag": null
   },
   {
+   "id": "6a660b6e4228e02e",
+   "k": "deutschland",
+   "titel": "Bund und Länder üben Krisenmanagement bei Hitzewellen",
+   "t": "Bund und zehn Länder sowie 20 Bundesbehörden üben ein fiktives Szenario mit 45 Grad und mehreren Dürrejahren, um das Krisenmanagement bei Hitzewellen zu testen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/bbk-krisenmanagement-duerre-hitze-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T11:06:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "5e9625e728f6de71",
+   "k": "finanzen",
+   "titel": "„Lage ist katastrophal. Und Besserung ist nicht in Sicht“ – Verband warnt vor Aus von 300.000 Jobs",
+   "t": "Gesamtmetall warnt vor dem Verlust von bis zu 300.000 Stellen in der deutschen Industrie und spricht von einer katastrophalen Lage ohne absehbare Besserung.",
+   "e": "Die Warnung betrifft die Konjunktur und den Arbeitsmarkt in Deutschland, die Industrie ist ein zentraler Wirtschaftszweig im Land.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/article6aeaf543edb44911fb21ebed/lage-ist-katastrophal-und-besserung-ist-nicht-in-sicht-verband-warnt-vor-aus-von-300-000-jobs.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T10:33:43+00:00",
+   "tag": null
+  },
+  {
    "id": "5aa798dc442d7e69",
    "k": "finanzen",
    "titel": "Teure Energie: Inflation im Euroraum steigt auf vier Prozent",
@@ -1504,6 +1768,18 @@
    "tag": null
   },
   {
+   "id": "64ff787be580e742",
+   "k": "deutschland",
+   "titel": "Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?",
+   "t": "Die geplante Senkung der Stromsteuer ist noch nicht finanziert, Kanzler Merz fordert die Entlastung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T07:31:04+00:00",
+   "tag": null
+  },
+  {
    "id": "a16a3fcc83194a5b",
    "k": "nrw",
    "titel": "Falsche Polizisten: Festnahme nach Besuch bei Senior - meinestadt.de",
@@ -1513,6 +1789,30 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvekhlaFhDTXAyX0FGSHNCS19yWU5jeElrWDYtSzRSczd0UkdBNlpneWpfb1ZkVV91MmwxZlEtQy1xMHl4d1ptZl9EdktPNVJqckdjWF9iM21ib1JROHJKUC1vN0IzamowLUktOFZVWTdLMXBCbkxtZWpQTTRvNDg?oc=5",
    "quelle": "meinestadt.de",
    "zeit": "2026-11-04T07:24:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3ff879bf25c0401",
+   "k": "nrw",
+   "titel": "„DigitalPakt 2.0“: Iserlohn plant 500.000 Euro für Schulen - IKZ-Online",
+   "t": "Iserlohn plant 500.000 Euro für Schulen im Rahmen des Programms DigitalPakt 2.0.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMW5UQkxMYmtKZ0FpUExtbmZxMEJyX180NnJBYTVRcXJSeDM2MTNaUVpNLVE4MHJlVXV4WF9ZSDNuUndPNmlTNm1LcW10amQ5V3ZEYzhScDZtUzdyN3JTVE8yNHZUMEtWSFd4UUs5dUZ1bGJEX0hXMy1iUnlUc1BiUVJJb2F0b1dhVDZXYnBsaWJtWjFSNVFMLVp6N2Z4MGtFZnVfSkE2Y1ZWMC1MbjFKMHRWS3pYX043QkF3?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-04T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f1521831f487656c",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Baustelle auf der A45 bei Kirchhahn ab diese Woche Freitag - News.de",
+   "t": "Auf der A45 bei Kirchhahn in Lüdenscheid beginnt ab kommendem Freitag eine Baustelle.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZk5PM2M3dVdLZ1VGTFlLREFJRERwYlI3X3JZcHlDcXpiX1hKWFhPeEpHeV80YlBUR3FDMDFfOEctZVkxbHNHYnY2Qk1ybVJoVVFfNGVnOXBZbGdFQ0Exd3ZuZXpSVXhZUWdFbVIyUWZUWFRUZ19zZDdaZlBQZVZPSTI2YlBQOXUtMFozaTJuX1FfbEZ6NXJaSnR4SWtaM3h1V0R5T0xYeUhtTy1Ed2dnN1psazh2RW1LZmpzVVVCTmhpLV81WmV0QVlHMU04dFg4Yk5HMGtkWUJ4eXp0eVI3X0VMUlgzNlB5ZjA4ODhuNW0yRk9uNS1uYWlzdlVKREVVbE5IUTNmMXZGZGxWZjU2dmptaldFZGhWZUpFMDMtS0J2bGlTdFZKY2VxSWZUdExBY0pYUFhwTXg1YmVYNFpTMVJlMGJQbUtZYVkyV2pVQU1rYThM?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-04T05:39:02+00:00",
    "tag": null
   },
   {
@@ -1528,6 +1828,42 @@
    "tag": null
   },
   {
+   "id": "3cbe51843c0d068d",
+   "k": "deutschland",
+   "titel": "Karlsruhe prüft Fraktionsausschluss von AfD-Politiker",
+   "t": "Das Bundesverfassungsgericht prüft den Fraktionsausschluss des AfD-Politikers Jan Wenzel Schmidt, der nach der Vetternwirtschaftsdebatte aus der Bundestagsfraktion geflogen ist.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afd-fraktionsausschluss-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T05:22:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "65764ad13795e4a9",
+   "k": "deutschland",
+   "titel": "Renten könnten 2027 um 4,1 Prozent steigen",
+   "t": "Laut Rentenversicherungsbericht der Bundesregierung könnten die Renten 2027 um 4,1 Prozent steigen.",
+   "e": "Die Rentenanpassung betrifft Millionen Rentner und hat Auswirkungen auf Kaufkraft und Haushaltsplanung.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-03T19:05:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "fbdf637ac8e0b652",
+   "k": "nrw",
+   "titel": "Iserlohn: Die IGW baut zwei neue Wohngebäude an der Hansaallee - IKZ-Online",
+   "t": "Die IGW baut in Iserlohn an der Hansaallee zwei neue Wohngebäude.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGJIeTU3dTRQdFotblFlTG5hZndvY0VJZ0s3X1doekVfX3ptX0ZXQlJBT0RKaDZMRy05dmVvcW9naXdabmFDVHdBQ0pVY0JERnhBVE1MSlBxcmhNa1lDWTdGTzRRT2hSVTB0RWtTMVhjWmt1WkFBLWl5Z09sSC1FOUUzM1daLU1LMmNNQnpnQkZobml2TnFhV3hZZGhCVmVEQXlXamRINWdEeFp5YUNlbS1qVDUyUzZqT2p0VkNiNFlWay1NOGc?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-03T16:00:00+00:00",
+   "tag": null
+  },
+  {
    "id": "97cad4503273e148",
    "k": "finanzen",
    "titel": "Bundesbank: Ein neues Gesicht für den digitalen Euro",
@@ -1537,6 +1873,18 @@
    "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ein-neues-gesicht-fuer-den-digitalen-euro-201648154.html",
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-03T15:52:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "a6f3280c58325824",
+   "k": "nrw",
+   "titel": "Iserlohn: Baarstraße wird am Wochenende 6. bis 8. November Einbahnstraße - IKZ-Online",
+   "t": "Die Baarstraße in Iserlohn wird am Wochenende 6. bis 8. November zur Einbahnstraße.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSW95QlAzZlAwWUE3RGduLUVEaFFrdFpDWVgtRE5wUGc5SXlwel9CTHB0ZmpxX3U0R0ZYeVJzUUNRSklYNS00T1lsNy1QaHhlcHQ3bWRNVjZzc2dac05XQzlYeHJoNkwyQnlINDZ6RmFobVoxYllPUDFOdHdST2RRZmUwS3V2X1NKRy1JdG9RbGVXa2JJYTdzenNsbTBQdE9JejFtNWhQU2d6SDFySHFRQ2tWRlV6U0s3TGtPUlpn?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-03T15:14:06+00:00",
    "tag": null
   },
   {
@@ -1574,18 +1922,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-03T13:49:27+00:00",
    "tag": null
-  },
-  {
-   "id": "d38a879f226d12e8",
-   "k": "nrw",
-   "titel": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen",
-   "t": "Bei der National-Bank in Essen hat es einen Großeinsatz der Behörden gegeben. Die Staatsanwaltschaft ermittelt wegen des Anfangsverdachts auf schwere Steuerhinterziehung, auch in Hessen wurde durchsucht.",
-   "e": "Das Verfahren betrifft einen Finanzdienstleister in NRW und berührt die Bankenaufsicht und Steuerfahndung.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-03T13:47:37+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1603,7 +1939,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -1628,7 +1964,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
