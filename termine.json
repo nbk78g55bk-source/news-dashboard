@@ -1,0 +1,18 @@
+{
+  "hinweis": "Zeiten in deutscher Zeit (MEZ/MESZ). Quellen: EZB, Federal Reserve, US Bureau of Labor Statistics. Einmal im Jahr neu pflegen.",
+  "termine": [
+    {"d":"2026-11-06","z":"14:30","t":"US-Arbeitsmarktbericht (Oktober)","k":"usa"},
+    {"d":"2026-11-10","z":"14:30","t":"US-Inflation CPI (Oktober)","k":"usa"},
+    {"d":"2026-11-18","z":"20:00","t":"Fed-Protokoll der Oktober-Sitzung","k":"usa"},
+    {"d":"2026-11-25","z":"20:00","t":"Fed Beige Book","k":"usa"},
+    {"d":"2026-12-04","z":"14:30","t":"US-Arbeitsmarktbericht (November)","k":"usa"},
+    {"d":"2026-12-09","z":"20:00","t":"Fed-Zinsentscheid + Prognosen","k":"usa"},
+    {"d":"2026-12-10","z":"14:30","t":"US-Inflation CPI (November)","k":"usa"},
+    {"d":"2026-12-17","z":"14:15","t":"EZB-Zinsentscheid","k":"finanzen"},
+    {"d":"2026-12-30","z":"20:00","t":"Fed-Protokoll der Dezember-Sitzung","k":"usa"},
+    {"d":"2027-01-27","z":"20:00","t":"Fed-Zinsentscheid","k":"usa"},
+    {"d":"2027-02-04","z":"14:15","t":"EZB-Zinsentscheid","k":"finanzen"},
+    {"d":"2027-03-17","z":"19:00","t":"Fed-Zinsentscheid + Prognosen","k":"usa"},
+    {"d":"2027-03-18","z":"14:15","t":"EZB-Zinsentscheid","k":"finanzen"}
+  ]
+}

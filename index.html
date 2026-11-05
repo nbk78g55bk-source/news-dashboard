@@ -56,6 +56,21 @@ body{margin:0;color:var(--tx);
 .m .d.up{color:var(--up);background:color-mix(in srgb,var(--up) 13%,transparent)}
 .m .d.dn{color:var(--dn);background:color-mix(in srgb,var(--dn) 13%,transparent)}
 
+
+/* Termine */
+.tm{margin-top:14px;background:var(--surface);border:1px solid var(--bd);border-radius:18px;box-shadow:var(--shadow);padding:13px 16px 12px}
+.tm h2{margin:0 0 10px;font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--mu);font-weight:700}
+.tm ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+@media(min-width:700px){.tm ul{grid-template-columns:1fr 1fr;gap:8px 22px}}
+.tm li{display:grid;grid-template-columns:44px 1fr auto;gap:11px;align-items:center}
+.tm .dt{text-align:center;border-radius:10px;padding:3px 0 4px;color:var(--cc);background:color-mix(in srgb,var(--cc) 12%,transparent);line-height:1.05}
+.tm .dt b{display:block;font-size:17px;font-weight:760}
+.tm .dt small{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
+.tm .tt{font-size:14.5px;font-weight:620;line-height:1.3;min-width:0}
+.tm .rt{text-align:right;font-size:12px;color:var(--mu);white-space:nowrap;line-height:1.3}
+.tm .rt b{display:block;color:var(--tx);font-weight:650;font-size:12.5px}
+.tm li.heute .rt b{color:var(--hot)}
+
 /* Lagebriefing */
 .brief{margin-top:14px;background:var(--surface);border:1px solid var(--bd);border-radius:18px;padding:0;box-shadow:var(--shadow);overflow:hidden}
 .brief::before{content:"";display:block;height:3px;background:linear-gradient(90deg,var(--c-finanzen),var(--c-deutschland),var(--c-usa),var(--c-nrw))}
@@ -115,6 +130,7 @@ footer ul{list-style:none;padding:0;margin:8px 0 0;text-align:left;display:inlin
     <div class="stand"><div class="live" id="stand"></div><button class="rf" id="rf" title="Aktualisieren" aria-label="Aktualisieren">↻</button></div>
   </div>
   <div class="mk" id="markt"></div>
+  <section class="tm" id="termine" hidden></section>
   <section class="brief" id="brief" hidden></section>
   <div class="bar" id="bar">
     <div class="row"><input class="search" id="q" type="search" placeholder="Suchen …" autocomplete="off"></div>
@@ -126,7 +142,7 @@ footer ul{list-style:none;padding:0;margin:8px 0 0;text-align:left;display:inlin
 <script>
 const TABS=[["top","Wichtig"],["alle","Alle"],["finanzen","Finanzen"],["deutschland","Deutschland"],["nrw","NRW"],["usa","USA"],["welt","Welt"]];
 const NAMES={finanzen:"Finanzen",deutschland:"Deutschland",nrw:"NRW",usa:"USA",welt:"Welt"};
-let DATA={items:[],markt:[]},tab="top",query="",lastVisit=0;
+let TERM=[],DATA={items:[],markt:[]},tab="top",query="",lastVisit=0;
 try{lastVisit=+localStorage.getItem("lastVisit")||0}catch(e){}
 
 function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
@@ -173,6 +189,29 @@ function renderMarkt(){
     c.appendChild(vr);
     box.appendChild(c);
   });
+}
+
+function renderTermine(){
+  const box=document.getElementById("termine");
+  const all=(TERM||[]);
+  const now=new Date(),today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  const next=all.map(t=>{const p=t.d.split("-");return Object.assign({},t,{dt:new Date(+p[0],p[1]-1,+p[2])})})
+    .filter(t=>t.dt>=today).sort((a,b)=>a.dt-b.dt||(a.z<b.z?-1:1)).slice(0,6);
+  if(!next.length){box.hidden=true;return}
+  box.hidden=false;box.textContent="";
+  box.appendChild(el("h2","","Termine"));
+  const ul=el("ul");
+  next.forEach(t=>{
+    const diff=Math.round((t.dt-today)/86400000);
+    const rel=diff===0?"heute":diff===1?"morgen":"in "+diff+" Tagen";
+    const li=el("li",diff===0?"heute":"");li.style.setProperty("--cc",colorOf(t.k));
+    const dt=el("div","dt");dt.appendChild(el("b","",String(t.dt.getDate())));
+    dt.appendChild(el("small","",t.dt.toLocaleDateString("de-DE",{month:"short"}).replace(".","")));
+    li.appendChild(dt);li.appendChild(el("div","tt",t.t));
+    const rt=el("div","rt");rt.appendChild(el("b","",rel));rt.appendChild(document.createTextNode(t.z+" Uhr"));
+    li.appendChild(rt);ul.appendChild(li);
+  });
+  box.appendChild(ul);
 }
 function renderBrief(){
   const b=DATA.briefing,box=document.getElementById("brief");
@@ -246,13 +285,14 @@ function renderFoot(){
   ms.forEach(x=>ul.appendChild(el("li","","✗ Markt "+x)));
   d.appendChild(ul);f.appendChild(d);
 }
-function renderAll(){renderHero();renderMarkt();renderBrief();renderNav();renderList();renderFoot()}
+function renderAll(){renderHero();renderMarkt();renderTermine();renderBrief();renderNav();renderList();renderFoot()}
 
 async function load(){
   try{
     const r=await fetch("data.json?"+Date.now(),{cache:"no-store"});
     DATA=await r.json();
   }catch(e){DATA={items:[],markt:[]}}
+  try{const r2=await fetch("termine.json?"+Date.now(),{cache:"no-store"});TERM=(await r2.json()).termine||[]}catch(e){TERM=[]}
   renderAll();
 }
 document.getElementById("q").addEventListener("input",e=>{query=e.target.value;renderNav();renderList()});
