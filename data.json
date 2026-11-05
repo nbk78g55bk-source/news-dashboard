@@ -1,10 +1,10 @@
 {
- "aktualisiert": "2026-11-05T13:25:24.431664+00:00",
+ "aktualisiert": "2026-11-05T13:30:28.962142+00:00",
  "markt": [
   {
    "name": "DAX",
-   "wert": "26.576",
-   "delta": 0.5240252962322112
+   "wert": "26.591",
+   "delta": 0.5811029435611514
   },
   {
    "name": "S&P 500",
@@ -18,13 +18,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "70.959 €",
-   "delta": 2.1180390595621965
+   "wert": "70.978 €",
+   "delta": 2.0464985556925073
   },
   {
    "name": "Ethereum",
-   "wert": "2.128 €",
-   "delta": 3.549219733081943
+   "wert": "2.129 €",
+   "delta": 3.5125812023635183
   },
   {
    "name": "EUR/USD",
@@ -33,8 +33,8 @@
   },
   {
    "name": "Gold",
-   "wert": "4.129 $",
-   "delta": 1.3724527375398976
+   "wert": "4.125 $",
+   "delta": 1.2717898355020907
   },
   {
    "name": "EZB Einlagesatz",
@@ -42,12 +42,22 @@
    "delta": null
   },
   {
+   "name": "Fed Funds",
+   "wert": "3,88 %",
+   "delta": null
+  },
+  {
    "name": "US 10J-Rendite",
    "wert": "4,89 %",
    "delta": null
+  },
+  {
+   "name": "Basiszins § 247 BGB",
+   "wert": "1,52 %",
+   "delta": null
   }
  ],
- "basiszins_seit": null,
+ "basiszins_seit": "01.07.2026",
  "briefing": {
   "slot": 12,
   "stand": "2026-11-05T13:25:24.431644+00:00",
@@ -76,6 +86,18 @@
  },
  "items": [
   {
+   "id": "0e46dc260a4839c4",
+   "k": "nrw",
+   "titel": "Manfred Lorenz sichert sich mit 96,7% erneut Spitzenamt im CDU-Landesvorstand NRW! - Niederrhein Nachrichten Online",
+   "t": "Manfred Lorenz wurde mit 96,7 Prozent erneut in das Spitzenamt im CDU-Landesvorstand NRW gewählt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0N2MzUyM1lfZUxrbFN2MHJlVGxmMDVRVGJMRHk3bndseHRidE8wLXRhTUlIRzE4WV92V045bU5yajRYN3JKRzFFVW5xX09oRXR6clJVWW9MLU1HdkI4cW1KMS05TWFJYzJqRXUyODNycG5CTGptOUF5U1Rja2F2SndScThzV3FHVHhDOUlIaEpiZ1Q5elpHa29qVEtZNGtGejNwV0FmeXY?oc=5",
+   "quelle": "Niederrhein Nachrichten Online",
+   "zeit": "2026-11-05T13:28:40+00:00",
+   "tag": null
+  },
+  {
    "id": "ddfa05b85ccb4303",
    "k": "welt",
    "titel": "Mindestlohn: Generalstreik und Proteste für höhere Löhne in Frankreich",
@@ -100,6 +122,18 @@
    "tag": null
   },
   {
+   "id": "546289db0e68bbf6",
+   "k": "deutschland",
+   "titel": "München: Totes Kind in Hotelzimmer entdeckt – Mutter unter Tatverdacht",
+   "t": "In einem Hotel nahe dem Münchner Hauptbahnhof wurde die Leiche eines 13-jährigen Jungen entdeckt. Die Mutter steht unter Tatverdacht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/totes-kind-in-muenchner-hotel-entdeckt-mordkommissariat-ermittelt-accg-201651144.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T13:15:40+00:00",
+   "tag": null
+  },
+  {
    "id": "3be8c8403d4336db",
    "k": "deutschland",
    "titel": "Migranten setzen Zeichen: Zahlreiche Geschäfte in Halle schließen aus Protest gegen Rassismus",
@@ -121,6 +155,18 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/mobilfunk-hoettges-rechnet-mit-musk-als-viertem-netzbetreiber-in-den-usa/100266647.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-05T13:13:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "7f70d49f53f8da86",
+   "k": "usa",
+   "titel": "Trump says he has ‘every intention’ of keeping Pete Hegseth as pressure grows to oust War Secretary",
+   "t": "Trump erklärt, er habe \"jede Absicht\", Kriegsminister Pete Hegseth im Amt zu halten, trotz wachsenden Drucks und Kritik am Iran-Krieg.",
+   "e": "",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/05/us-news/trump-says-he-has-every-intention-of-keeping-pete-hegseth-as-pressure-grows-to-oust-war-secretary/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-05T13:12:49+00:00",
    "tag": null
   },
   {
@@ -196,6 +242,42 @@
    "tag": null
   },
   {
+   "id": "7a0283e920ba2d0d",
+   "k": "welt",
+   "titel": "French budget unanimously rejected by lawmakers ahead of nationwide strikes",
+   "t": "Das französische Parlament hat den Haushaltsentwurf der Regierung für 2027 einstimmig abgelehnt, kurz vor landesweiten Streiks.",
+   "e": "Die Ablehnung verschärft die politische Lage in Frankreich, in dem Gewerkschaften und Schüler bereits gegen die Sozialpolitik protestieren.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-05T12:53:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5127e229c86ea74",
+   "k": "deutschland",
+   "titel": "Tanken: Finanzministerium dringt auf schärferen Spritpreisdeckel",
+   "t": "Das Finanzministerium dringt auf einen schärferen Spritpreisdeckel. Das Gesetz sollte eigentlich im Kabinett beschlossen werden, das ist aber nicht geschehen.",
+   "e": "Die Spritpreise sind ein zentrales Thema für Verbraucher und Inflation.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/tanken-finanzministerium-dringt-auf-schaerferen-spritpreisdeckel/100267608.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T12:52:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "414489e051c8bb11",
+   "k": "usa",
+   "titel": "USA: Trumps Diesel-Deal mit Russland verpufft – Tanker weichen aus",
+   "t": "Die US-Regierung erlaubt den Import von russischem Diesel, um Preise zu drücken. Mindestens drei von vier erwarteten Tankern drehen jedoch ab, weil potenzielle Käufer Probleme fürchten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/usa-trumps-diesel-deal-mit-russland-verpufft-tanker-weichen-aus/100267484.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T12:51:54+00:00",
+   "tag": null
+  },
+  {
    "id": "e807bb08c3370ef0",
    "k": "finanzen",
    "titel": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
@@ -256,6 +338,18 @@
    "tag": null
   },
   {
+   "id": "13742566188f4f84",
+   "k": "welt",
+   "titel": "Ukrainisches Foltergefängnis oder russische Desinformation? Was ein virales Video über den Informationskrieg in der Ukraine aussagt",
+   "t": "Aufnahmen eines angeblichen Geheimgefängnisses der ukrainischen Armee verbreiten sich stark in sozialen Netzwerken. In Kiew wird eine russische Desinformationskampagne vermutet.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/international/aufregung-um-angebliches-geheimgefaengnis-informationskrieg-in-der-ukraine-ld.10054576",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T12:45:00+00:00",
+   "tag": null
+  },
+  {
    "id": "aee4ccca2c5578cd",
    "k": "finanzen",
    "titel": "Robot maker Agility starts trading today — but its steep losses are raising red flags",
@@ -265,6 +359,18 @@
    "link": "https://www.marketwatch.com/story/robot-maker-agility-starts-trading-today-but-its-steep-losses-are-raising-red-flags-f97c2cee?mod=mw_rss_topstories",
    "quelle": "MarketWatch",
    "zeit": "2026-11-05T12:43:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "60113dd84991186a",
+   "k": "finanzen",
+   "titel": "Business-Ticker: Offenbar Einigung auf Einstieg des Bundes bei KNDS",
+   "t": "Offenbar gibt es eine Einigung auf einen Einstieg des Bundes beim Rüstungsunternehmen KNDS. Bosch will in Abstatt 750 Stellen abbauen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bund-mit-eigentuemerfamilien-offenbar-ueber-knds-einstieg-einig-faz-200452404.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T12:42:22+00:00",
    "tag": null
   },
   {
@@ -280,6 +386,42 @@
    "tag": null
   },
   {
+   "id": "25aa23ca75f70c07",
+   "k": "finanzen",
+   "titel": "„Unvorhergesehene“ Entwicklung – Bundesagentur für Arbeit benötigt fünf Milliarden Euro mehr",
+   "t": "Die Bundesagentur für Arbeit benötigt fünf Milliarden Euro mehr. Die erwartete Erholung am Arbeitsmarkt bleibt aus, vor allem in der Industrie gehen Jobs verloren.",
+   "e": "Der Mehrbedarf zeigt, dass die Konjunkturschwäche direkt auf die Sozialkassen durchschlägt.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6aec6bd7c7da7601aa4f87d3/staatshaushalt-unvorhergesehene-entwicklung-bundesagentur-fuer-arbeit-benoetigt-fuenf-milliarden-euro-mehr.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T12:39:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "f585cca64f28050d",
+   "k": "finanzen",
+   "titel": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
+   "t": "Strategen der Bank of America sehen einen deutlichen Zusammenhang zwischen Ölpreisen und Zinsen in den USA, Großbritannien und Deutschland. Die Zinsen könnten laut der Analyse deutlich steigen, falls die Ölpreise weiter klettern.",
+   "e": "Steigende Energiepreise würden die Inflation und damit die Zinspolitik der Notenbanken direkt beeinflussen.",
+   "s": 6,
+   "link": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-05T12:33:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1d09ec84608ab34e",
+   "k": "deutschland",
+   "titel": "Pflegegesetz: Bundestag debattiert über Vorhaben des Gesundheitsministers",
+   "t": "Der Bundestag debattiert über das Pflegegesetz des Gesundheitsministers.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1678574.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T12:29:32+00:00",
+   "tag": null
+  },
+  {
    "id": "eee3a4c7413ed4df",
    "k": "nrw",
    "titel": "Iserlohn: Bauarbeiten an der Baarstraße verschoben - IKZ-Online",
@@ -289,6 +431,30 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEpGNnJZMUdXNGVoN3RjR01XMnlqbEU3TVVvS2NnSDNtT1R5QVE1MUlyakpmaUxtSnNzdjdTRnd0ZE0tTHVERFRISXdaeHZkNENsb3dYcnhDYTlVclFkN2JzeUJVV0tvSzJBbXJiYmVSRzJreDk0M21IWXlpM292bXJTTG94a3EteXhqM0xQZXI2aHZWUDMwUjNacVNhWXJwYjlFTXRndXpBdDlicGYwTV9JSkpSZw?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-05T12:00:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "b109459824d5da8d",
+   "k": "welt",
+   "titel": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
+   "t": "China blockiert einen 5,4 Milliarden Dollar schweren Robotik-Deal von SoftBank. Peking will verhindern, dass im Land entwickelte KI-Daten und Expertise ins Ausland abfließen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-05T11:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e20f915f6cb04c85",
+   "k": "finanzen",
+   "titel": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+   "t": "Bitcoin-Miner gelten laut VanEck als überverkauft, nach einem Kurssturz im Oktober von rund 35 Prozent.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T11:49:23+00:00",
    "tag": null
   },
   {
@@ -312,6 +478,18 @@
    "link": "https://www.handelsblatt.com/politik/konjunktur/euro-raum-erzeugerpreise-springen-im-september-drastisch-nach-oben/100267566.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-05T11:18:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "134ea08bfa891605",
+   "k": "finanzen",
+   "titel": "Fed’s Rate Hold Sends Bond Yields in Different Directions - WSJ",
+   "t": "Die Fed hat die Zinsen unverändert gelassen, die Anleihenrenditen entwickelten sich daraufhin in unterschiedliche Richtungen.",
+   "e": "Die Zinsentscheidung der Fed bestimmt maßgeblich die Erwartungen an Kredite und Anleihen weltweit.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+   "quelle": "WSJ",
+   "zeit": "2026-11-05T11:17:11+00:00",
    "tag": null
   },
   {
@@ -469,6 +647,18 @@
    "tag": null
   },
   {
+   "id": "b6b161d1476ec917",
+   "k": "nrw",
+   "titel": "„Unbefriedigend“: Anwohner kritisieren Treffen zum JVA-Neubau in Iserlohn - IKZ-Online",
+   "t": "Anwohner kritisieren ein Treffen zum geplanten Neubau der Justizvollzugsanstalt in Iserlohn als unbefriedigend.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWc1QkROZVpVLTAxMm5pS3VXZ2t4RkVQMXEtSWdvYnQzc2ZRRzBXdldpZG40TjgxZlpFZURFendzblBiY3lZU09ZOGFZX2F0SFFKWlpDbXliZlNNLU91dUFTRFFmR3RoN3dSQXR3RTZOa3RnaHpEWFR2VlU4R0lUN040alF2WFFxMFN0OElLWjlEeEFrcDB4bGRhVGRQY0FmTGFLQUtwaHZWRkU2Q2hrTnZuZ2ZxMU5zbUZNVTRMWjVoQzRyRElrNFNyX2ZUQ0s5eVE?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-05T10:47:04+00:00",
+   "tag": null
+  },
+  {
    "id": "2b53d5cb0de2223b",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Umgekippter Tanklaster auf der A1 - Sperrung aufgehoben - n-tv.de",
@@ -612,6 +802,18 @@
    "tag": null
   },
   {
+   "id": "51906e696a9b4048",
+   "k": "finanzen",
+   "titel": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+   "t": "Die Rheinmetall-Aktie bricht um 17 Prozent ein, nachdem der Konzern seine Prognose für 2026 zum zweiten Mal in drei Monaten gesenkt hat. Als Grund nennt er Verzögerungen bei deutschen Militärprojekten und bei Artilleriemunition.",
+   "e": "Die zweite Prognosesenkung innerhalb weniger Monate betrifft einen der großen europäischen Rüstungswerte.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T09:06:40+00:00",
+   "tag": null
+  },
+  {
    "id": "f3bf6995f3c4efa0",
    "k": "finanzen",
    "titel": "France budget rejection sidelines stablecoin tax, wallet reporting",
@@ -620,6 +822,18 @@
    "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-05T09:04:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "4545e3ae88c5cf62",
+   "k": "usa",
+   "titel": "Republicans turn on Trump after devastating midterm losses hand Democrats control of Congress",
+   "t": "Nach den Verlusten bei den Midterms machen Republikaner-Insider Trump für die Niederlage verantwortlich. Die Demokraten haben damit Kontrolle über beide Kammern erlangt.",
+   "e": "Der Machtwechsel im Kongress schränkt den Spielraum der Regierung Trump spürbar ein.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-05T09:00:05+00:00",
    "tag": null
   },
   {
@@ -653,6 +867,18 @@
    "link": "https://www.welt.de/wirtschaft/plus6aeaff0aedb44911fb21ed1c/hohe-heizkosten-europas-energiepreis-schock-warum-die-usa-russisches-gas-zurueck-in-die-eu-bringen-wollen.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-05T07:50:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "e0e4cf2235d47f70",
+   "k": "finanzen",
+   "titel": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
+   "t": "Die französische Bank Crédit Mutuel Arkéa hat den Betrieb nach einem Angriff wieder aufgenommen. Die Kundengelder seien laut Bank nicht betroffen, die Angreifer kamen über die Plattform eines Dienstleisters in die Systeme.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T07:23:06+00:00",
    "tag": null
   },
   {
@@ -701,6 +927,18 @@
    "tag": null
   },
   {
+   "id": "fd3fb5a78522b9f2",
+   "k": "finanzen",
+   "titel": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+   "t": "Binance und Polymarket wollen einen Hard Fork der Polygon-Blockchain, um gestohlene Krypto-Werte im Wert von 6,8 Millionen Dollar zurückzuholen.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T06:02:29+00:00",
+   "tag": null
+  },
+  {
    "id": "f9828f8031a741c3",
    "k": "nrw",
    "titel": "Milliarden Jahre alt: Welche spektakulären Funde dieser Iserlohner gemacht hat - IKZ-Online",
@@ -735,6 +973,54 @@
    "tag": null
   },
   {
+   "id": "fefebb6975d3399f",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Verkehrsstörungen auf der A45 bei Bremecke heute, am 05.11.2026 - News.de",
+   "t": "Auf der A45 bei Bremecke in Lüdenscheid kommt es am 05.11.2026 zu Verkehrsstörungen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQZzZyZl8wSkozWktaTXNId3p2QlhUV1NrN0xCcWtRelppbDBDZEZBNS0tNEdLam1kUGNOa3d3MGtYdTlCZzFXeHYwQjdrdlZZOE94d0V4WWQteWEzWXA3c0xUU245X1R2eFNSSzdzMTQ4U052SGE0UU1ncS1BSk5VdkNvVVBHeXNndnpnSF9HcG1MRkV5em9wWmpnLUdZN3FyZVlMMFRGMGdWN1dkMHFJZ2VzUFlYVmNtYWlKWW5Sc0ROZHFYRU5tR0pnYkQxaVlyZzlMWUUzUVg5V2ZFNzQtdk1MaW1uWVhlckJFNGFzSkRRNDNxQUlOUlVXdEtEVS1PWU9qbHpBckRpVXUzdl92ZXR5SnBwYzVBc0pyZGNmV2dWYmdQYWhRTGhVSWozUnlNVU91NUJYalJDc2FhSWZkWS15ZDg?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-05T05:45:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "bb9a2dabc5b20ed3",
+   "k": "usa",
+   "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+   "t": "Trump will trotz des Wahldebakels bei den Midterms am Kurs im Iran-Krieg festhalten. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-05T05:16:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "7332752511141aec",
+   "k": "nrw",
+   "titel": "Einsparungen im ÖPNV: UWG kämpft für mehr Bedarfsverkehr - Come-on",
+   "t": "Die UWG fordert im Zuge von Einsparungen im ÖPNV mehr Bedarfsverkehr.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmJtZUFjVVJfaFd2M0pTU3FPUXRROHhudWZhZ29TYTBuSUZEeFA2NU9yU0xPVFVjX2ZFTWM5Q1VfTzFZWmJydEtlX2VjalppZUNjNThNc0s1SmtuWXREek9INS0yVV9IRDJCUmN2VnY3MGV0RFVRay0tcTh6RmN1dWoycjl4dGdVQmZqQjJ0eW5lVHM1UWU1LUltQ1ZMSXh1TlE4T2xKN3N1YnRYVWtubFJn?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-05T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "91e9c19e23fc7d9d",
+   "k": "welt",
+   "titel": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
+   "t": "In Serbien hat die Medienaufsicht Zwangspausen für Propagandasendungen von Informer und Prva verhängt. Es ist eine der ersten Veränderungen nach dem Wahlsieg der Studentischen Liste.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-05T04:05:08+00:00",
+   "tag": null
+  },
+  {
    "id": "1752b86b495c78cb",
    "k": "finanzen",
    "titel": "T. Rowe Price nach den Midterms: Wie es mit Politik, Wirtschaft und Finanzmärkten weitergeht - e-fundresearch.com",
@@ -743,6 +1029,30 @@
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQkpqLWo1QjQyNk8yZDBKNVppV1JGeHJ2ZVI0SlFmcWhUdzZ0WWFJN1c3ZzItUHVtUnN3aXFEUk5kMXE5aXJCeHNBcmRRTlBwUlFyVjBFVDZFMHk2blRIWkJlSlFaT0RmbTcwQWxoWmpmREtWSDN1M0pQQXZZVzdWQ0loTkdYdjhKekFnbnNRWW9FVmZtLXhhdUpwdFdzZ2hxdVhfYkU0QnVZcDEyMWxFYnJOa2JtUmZEcDN6M0diTmdkT0pnekNWME5FMWNTZlRvMTFsS0JjZll4bUR1UXlJa0FTdEpBaHNQVVNhQVVvTVA?oc=5",
    "quelle": "e-fundresearch.com",
    "zeit": "2026-11-04T23:36:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "9f66f471eb3ed1d0",
+   "k": "deutschland",
+   "titel": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+   "t": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist im Alter von 55 Jahren gestorben, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Die Freien Wähler verlieren damit ihre zentrale Figur.",
+   "e": "Aiwanger war der Kopf der Freien Wähler und prägte die bayerische Landespolitik, deshalb steht die Partei nun vor einer Neuaufstellung.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T23:35:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "72e09cada9e2a2c8",
+   "k": "finanzen",
+   "titel": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+   "t": "Der US-Aktienmarkt legte nach dem klaren Sieg der Demokraten bei den Midterms deutlich zu, der Trump mit versöhnlichen Tönen zusätzlich Auftrieb gab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-04T22:55:22+00:00",
    "tag": null
   },
   {
@@ -757,6 +1067,30 @@
    "tag": null
   },
   {
+   "id": "bf07732d5fa6db6f",
+   "k": "deutschland",
+   "titel": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+   "t": "Der Bundestag debattiert in einer Aktuellen Stunde über die Krawalle nach einer Gen-Z-Protestveranstaltung am Wochenende. Über die Verurteilung der Gewalt herrscht weitgehend Einigkeit, über Ursachen und Wortwahl gibt es Streit.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T20:24:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "b2fc366c9c447305",
+   "k": "deutschland",
+   "titel": "Klingbeil ruft die Zeit nach Trump aus – doch er könnte ihn noch vermissen",
+   "t": "Finanzminister Klingbeil spricht beim SPD-Wirtschaftsforum von einer heraufziehenden Zeit nach Trump und nimmt deutsche Autochefs in die Pflicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/plus6aeb0bb33f6a429425b734df/spd-wirtschaftsforum-lars-klingbeil-ruft-die-zeit-nach-trump-aus-doch-er-koennte-ihn-noch-vermissen.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T18:35:38+00:00",
+   "tag": null
+  },
+  {
    "id": "03b2231439fefbf1",
    "k": "deutschland",
    "titel": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
@@ -765,6 +1099,30 @@
    "link": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-04T16:05:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "4291276163f33b89",
+   "k": "nrw",
+   "titel": "Geldwäsche und Hehlerei: Schuldspruch gegen Iserlohner Juwelier rechtskräftig - IKZ-Online",
+   "t": "Der Schuldspruch gegen einen Iserlohner Juwelier wegen Geldwäsche und Hehlerei ist rechtskräftig.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnRjWGFiLUt2RW9keC1Xc0E2ZmQySnFNX0l4R0tDOTFRbjlUY1kxLXhKVVBia0hFVng1SGEtX0w3eGpmWDNESkNfMkhiY2ctalotNDRBNjhuXzJzZEFNVi1tSkR4NTZMREpxQ1UxLTVpR2xoLURPNV9wR0RzY3ZTNWdNRnlPMUdEZzFEeTF3RHdGOUplVmFRa2RUVzhxWVZxOE9vSkJ2aTFQekVOeS1CTktzcTVBb0ZmMVI0Vkc2T3F5b2VUVXlpSXFFU0lpNEdJSGQ2VFlqRzFYRm8?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-04T16:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0fc4bdb683aaff15",
+   "k": "deutschland",
+   "titel": "Die Reichensteuer-Falle – Der neue Spitzensteuersatz droht zum Desaster zu werden",
+   "t": "Die Bundesregierung plant eine Erhöhung des Reichensteuersatzes auf 47 Prozent, um Mehreinnahmen zu erzielen. Führende Finanzwissenschaftler bezweifeln den erwarteten Effekt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6ae9e913de8ceb64689bb882/einkommensteuerreform-die-reichensteuer-falle-der-neue-spitzensteuersatz-droht-zum-desaster-zu-werden.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T15:50:45+00:00",
    "tag": null
   },
   {
@@ -815,6 +1173,18 @@
    "tag": null
   },
   {
+   "id": "5aa798dc442d7e69",
+   "k": "finanzen",
+   "titel": "Teure Energie: Inflation im Euroraum steigt auf vier Prozent",
+   "t": "Die Inflation im Euroraum steigt auf vier Prozent. In Deutschland dämpft der Tankrabatt die Inflationsrate, in anderen Euroländern liegen die Werte teils deutlich höher.",
+   "e": "Die EZB dürfte den Erwartungen nach im Dezember die Zinsen erhöhen, was die Zinswende fortsetzt.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/inflation-im-euroraum-steigt-auf-4-0-prozent-ezb-vor-zinserhoehung-accg-201650074.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-04T10:01:54+00:00",
+   "tag": null
+  },
+  {
    "id": "18aacbd95a0adf4c",
    "k": "finanzen",
    "titel": "BMW erwirtschaftet noch weniger Gewinn",
@@ -839,6 +1209,54 @@
    "tag": null
   },
   {
+   "id": "97cad4503273e148",
+   "k": "finanzen",
+   "titel": "Bundesbank: Ein neues Gesicht für den digitalen Euro",
+   "t": "Die Bundesbank ordnet ihren Vorstand neu. Vizepräsidentin Mauderer übernimmt die Verantwortung für den digitalen Euro und zusätzlich für das Bargeld.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ein-neues-gesicht-fuer-den-digitalen-euro-201648154.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-03T15:52:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "c9b34d2ca98f94ad",
+   "k": "finanzen",
+   "titel": "Evonik wehrt sich gegen Chemieriese BASF",
+   "t": "Evonik lehnt sich gegen eine Fusion mit BASF auf, die die größte Übernahme in der deutschen Chemiebranche wäre. Der kombinierte Konzern käme auf einen Jahresumsatz von rund 74 Milliarden Euro.",
+   "e": "Eine Fusion dieser Größenordnung würde die Struktur der deutschen Chemieindustrie deutlich verändern.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-03T14:59:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "559dea2037d112d0",
+   "k": "finanzen",
+   "titel": "Nach Angriff auf Ziele in Iran: Der Ölpreis legt wieder zu",
+   "t": "Nach Angriffen auf Ziele im Iran steigt der Ölpreis wieder. Heizöl kostet in Deutschland fast doppelt so viel wie im Vorjahr.",
+   "e": "Der Ölpreis wirkt direkt auf Inflation und Energiekosten in Deutschland.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/oelpreis-steigt-nach-us-angriffen-auf-iran-wieder-201646880.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-03T14:09:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "d184134b0b50e188",
+   "k": "deutschland",
+   "titel": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+   "t": "Hacker haben in der Nacht in mehreren Supermärkten in Deutschland Kühlanlagen umgestellt, sodass Temperaturen auf 50 Grad statt 5 Grad stiegen. Große Mengen Lebensmittel mussten entsorgt werden.",
+   "e": "Der Fall zeigt, wie verwundbar vernetzte Betriebstechnik inzwischen ist.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-03T13:49:27+00:00",
+   "tag": null
+  },
+  {
    "id": "9d685cdf17b5bbf7",
    "k": "usa",
    "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
@@ -858,9 +1276,19 @@
     "n": 39
    },
    {
+    "name": "Tagesschau Inland",
+    "ok": true,
+    "n": 21
+   },
+   {
+    "name": "Tagesschau Ausland",
+    "ok": true,
+    "n": 29
+   },
+   {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Welt",
@@ -898,6 +1326,11 @@
     "n": 30
    },
    {
+    "name": "CNBC Politik",
+    "ok": true,
+    "n": 29
+   },
+   {
     "name": "CNBC Finance",
     "ok": true,
     "n": 4
@@ -906,6 +1339,26 @@
     "name": "MarketWatch",
     "ok": true,
     "n": 10
+   },
+   {
+    "name": "WSJ Welt",
+    "ok": true,
+    "n": 31
+   },
+   {
+    "name": "WSJ USA",
+    "ok": true,
+    "n": 12
+   },
+   {
+    "name": "Fox News Politik",
+    "ok": true,
+    "n": 25
+   },
+   {
+    "name": "New York Post Politik",
+    "ok": true,
+    "n": 20
    },
    {
     "name": "CoinDesk",
@@ -925,7 +1378,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Google News NRW",
@@ -940,12 +1393,14 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 8
+   },
+   {
+    "name": "Google News Fed",
+    "ok": true,
+    "n": 30
    }
   ],
-  "markt": [
-   "EZB Einlagesatz: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=20)",
-   "Fed Funds: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=20)"
-  ]
+  "markt": []
  }
 }
