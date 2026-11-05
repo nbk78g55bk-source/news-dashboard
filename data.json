@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-05T14:11:09.163661+00:00",
+ "aktualisiert": "2026-11-05T19:53:56.839821+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "130,87 €",
-   "delta": 0.2988996667928623
+   "wert": "127,79 €",
+   "delta": -2.061615431959507
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "44,46 €",
-   "delta": -1.3271224036079832
+   "wert": "43,35 €",
+   "delta": -3.801600801340377
   },
   {
    "name": "Deka S&P 500",
-   "wert": "142,84 €",
-   "delta": 0.4041757374044552
+   "wert": "138,65 €",
+   "delta": -2.544546729820485
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "178,86 €",
-   "delta": -0.511735891391496
+   "wert": "172,06 €",
+   "delta": -4.294136629055256
   },
   {
    "name": "Deka DAX",
-   "wert": "232,50 €",
-   "delta": 0.6275684609782894
+   "wert": "230,65 €",
+   "delta": -0.17312401924886034
   },
   {
    "name": "Bitcoin",
-   "wert": "79.525 $",
-   "delta": 1.6721211461927903
+   "wert": "76.382 $",
+   "delta": -4.4241983209454645
   },
   {
    "name": "Ethereum",
-   "wert": "2.385 $",
-   "delta": 3.0623671690662793
+   "wert": "2.264 $",
+   "delta": -5.848073800860214
   },
   {
    "name": "Gold",
-   "wert": "4.134 $",
-   "delta": 1.4903019887060998
+   "wert": "4.119 $",
+   "delta": 1.13920942794008
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,342 @@
   ]
  },
  "items": [
+  {
+   "id": "97a4eb0c760823bd",
+   "k": "usa",
+   "titel": "IRS announces new federal income tax brackets for 2027",
+   "t": "Die US-Steuerbehörde IRS hat höhere Einkommensteuer-Tarifgrenzen und Standardabzüge für 2027 angekündigt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T19:52:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ac0ffad30365740",
+   "k": "finanzen",
+   "titel": "After tech-stock rout, October jobs report could bring relief — or more pain",
+   "t": "Vor dem US-Arbeitsmarktbericht für Oktober, der am Freitag erscheint, steigt die Spannung an den Märkten nach dem Technologie-Einbruch.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-05T19:46:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "70df958ca849bfc1",
+   "k": "welt",
+   "titel": "Afyonkarahisar: Acht Tote und mehrere Verletzte nach Schüssen in der Westtürkei",
+   "t": "Im westtürkischen Afyonkarahisar wurden bei Schüssen acht Menschen getötet, mehrere weitere verletzt. Ein Tatverdächtiger wurde festgenommen.",
+   "e": "",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/afyonkarahisar-acht-tote-bei-schuessen-in-der-tuerkei-201656923.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T19:39:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "54659e5092560721",
+   "k": "finanzen",
+   "titel": "US-Börsen: „KI-Blutbad“ an Börse – S&P 500 bricht um vier Prozent ein",
+   "t": "Der S&P 500 ist an der Wall Street um rund vier Prozent eingebrochen. Auslöser war die Sorge vor strengerer KI-Regulierung.",
+   "e": "Ein Rückgang dieser Größenordnung im wichtigsten US-Index ist für Anleger ein deutliches Signal, auch für europäische Börsen.",
+   "s": 8,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-blutbad-an-boerse-sp-500-bricht-um-vier-prozent-ein/100267625.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T19:37:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "a80162da0fdd3d6a",
+   "k": "usa",
+   "titel": "Gavin Newsom lets all of California’s 548 death row inmates escape ultimate punishment",
+   "t": "Gouverneur Gavin Newsom hat die Todesurteile aller 548 Häftlinge in Kalifornien in Haftstrafen umgewandelt.",
+   "e": "Die Entscheidung betrifft fast alle Todeskandidaten des bevölkerungsreichsten US-Bundesstaates und hat damit landesweite politische Bedeutung.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/05/us-news/gavin-newsom-changes-california-death-sentences-to-life-in-prison/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-05T19:37:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "6438a773e61f93f9",
+   "k": "nrw",
+   "titel": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+   "t": "Ein Häftling, der im Oktober in Essen während eines Arztbesuchs befreit wurde, ist weiterhin auf der Flucht. NRW-Justizminister räumte ein, dass der Schlüssel für die Fußfessel im Internet erhältlich war.",
+   "e": "Der Fall wirft Fragen zur Sicherheit im Strafvollzug in Nordrhein-Westfalen auf.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T19:34:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "b0007b5c858644e1",
+   "k": "usa",
+   "titel": "DSA-backed Nithya Raman vows to oust police chief, slash homelessness — but faces hostile City Council",
+   "t": "Nithya Raman, gewählte Bürgermeisterin von Los Angeles, will den LAPD-Chef ablösen und die Obdachlosigkeit bis 2028 halbieren. Der Stadtrat gilt als wenig kooperativ.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/05/us-news/what-nithya-ramans-mayoral-win-means-for-la-police-homelessness-and-housing/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-05T19:22:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "73891bc52a335b0e",
+   "k": "welt",
+   "titel": "Erneute Demonstrationen: 448 Festnahmen und wieder Gewalt bei Protesten in Frankreich",
+   "t": "Bei erneuten Protesten in Frankreich wurden 448 Menschen festgenommen und 53 Polizisten verletzt. Die Proteste eskalieren erneut.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/erneute-demonstrationen-448-festnahmen-und-wieder-gewalt-bei-protesten-in-frankreich/100267639.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T19:21:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "91ba4ca09371a0c7",
+   "k": "finanzen",
+   "titel": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+   "t": "Der VIX, der Angstindex der Wall Street, ist so stark gestiegen wie seit April nicht mehr.",
+   "e": "Der Anstieg zeigt, dass die Unsicherheit an den US-Märkten nach dem Kursrutsch deutlich zugenommen hat.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T19:20:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "415078993b82e737",
+   "k": "usa",
+   "titel": "Offenbar erster ranghoher Rücktritt in Trumps Regierung nach Wahldebakel",
+   "t": "Harmeet Dhillon, Leiterin einer Abteilung im US-Justizministerium, will ihren Posten offenbar räumen. Es wäre der erste ranghohe Rücktritt in Trumps Regierung nach der Wahlniederlage.",
+   "e": "Der Verlust der Kongressmehrheiten führt nun auch zu personellen Veränderungen in der Regierung.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/article6aecce7fc7da7601aa4f91f0/us-justizministerium-offenbar-erster-ranghoher-ruecktritt-in-trumps-regierung-nach-wahldebakel.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T19:19:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "c6b12a616a2685c9",
+   "k": "finanzen",
+   "titel": "Federal Reserve holds interest rates steady as inflation and consumer debt remain concerns - Spectrum News",
+   "t": "Die US-Notenbank Fed hat den Leitzins unverändert gelassen. Inflation und hohe Verschuldung der Verbraucher bleiben laut Fed Sorgenthemen.",
+   "e": "Die Entscheidung zeigt, dass die Fed trotz der Debatten über Zinserhöhungen aktuell abwartet, was Zinsen und Kreditkosten weltweit beeinflusst.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY241ODBrZ3VXak1ubmpXalpIREpnNEVSN1ZNWDFNN3B0YVZDX3RWcFpsbXVlbVQ1S1NMWnFnNE9HMTBzN0Y3b0VQZndYd0hTb2pIeEtsaWJQa0MyX1o4YXNGcW1SbzhXUm82MDV3YW1zcmJPOG5JdWo0VTJ0UEV1eWZrckJBbWhNT3pwMWpnNzlDdS0tSUtkdVNFUm1SQ3lZeEE?oc=5",
+   "quelle": "Spectrum News",
+   "zeit": "2026-11-05T19:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "033019655805e0ee",
+   "k": "usa",
+   "titel": "U.S. Justice Department assembles force to shield against foreign AI threats",
+   "t": "Das US-Justizministerium hat eine Einheit aufgestellt, die vor ausländischen KI-Bedrohungen schützen soll.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T18:59:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "b6cb72dc52d10996",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Raubüberfall auf Juwelier in Herne - Niemand verletzt - n-tv.de",
+   "t": "In Herne wurde ein Juwelier überfallen. Verletzt wurde niemand.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUxHaWlhYVpwQXpVc0pqYWR0OWhRU2xtR1JhTVdxVXpQcE5kc1JEWkNDU3ZhSXV4aXdIMF9aN0xwWWU0NWg1NXpFN1VIOFhLbHNxcks1MmtnWlQzLWpXUFRHNll5NS1MY2dadUx5emhPT1JhRkFpU3NpMUVhWFdrRENkUkdDN1FtSnlIb05YbTBTMXk2RmNodHJ3Y2FJYlZTLWpFblVsZ1N5UllQRlo5ZWllUEo3VjB0Nlhn?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-05T18:58:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "da29a8d3eae2a27d",
+   "k": "finanzen",
+   "titel": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+   "t": "Bitcoin und Krypto-Aktien sind im Ausverkauf am KI-Markt mitgefallen. Ein Händler von Wintermute sieht die Lage vergleichsweise gelassen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T18:48:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "da2f323db62b9b80",
+   "k": "finanzen",
+   "titel": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+   "t": "Die US-Notenbank Fed und die Aufsichtsbehörde OCC haben US-Banken nach dem Hack bei Binance kontaktiert. Der Hack betraf nach Angaben über 6,3 Milliarden US-Dollar.",
+   "e": "Der Hack ist einer der größten Krypto-Diebstähle überhaupt und wirft Fragen zu Sicherheit und Risiken für Banken auf, die mit Krypto arbeiten.",
+   "s": 7,
+   "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T18:32:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d14f2a377a438a6",
+   "k": "finanzen",
+   "titel": "Gouverneur der Bank of Canada: Leitzins von 2,50 % liegt weiterhin auf der 'stimulierenden Seite' - MarketScreener Schweiz",
+   "t": "Der Gouverneur der Bank of Canada erklärt, der Leitzins von 2,50 Prozent wirke weiterhin stimulierend.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTy11enpNSHF2MkhDNTBrU21LdDI4QjVoRzV6Y0xpNDh6SGlnN2w2ZzFsVGFTbVVoYWp3elhsbktiS2pZZnJQdlV4Sk5VdmJ3U3ZWWVlpVWx6Zkg0aFphcmc3V0NSZHlwV25GT2RsSmtUOUdsWWtrOTNxOEE0MF9ILXdQeHZSY25EWFZISDlwbS1fRkV6NzF3dy1ENHJDVGNSc3NITDhoaFltTk1jRTVsU3R2dWg3U2JucnRCQ2Fsb3BYaFJYb3FUaEpnVG1OaENXSWxyRnJ4RkgtYk4tYlN2ZGI4NGx5MlBSbHN2VVdFZw?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-05T18:28:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "dbf718bd02240323",
+   "k": "finanzen",
+   "titel": "Die Fed-Zinserhöhung im September war ein Fehler, sagt Miran - MarketScreener Deutschland",
+   "t": "Fed-Gouverneur Stephen Miran sagt, die Zinserhöhung der Fed im September sei ein Fehler gewesen.",
+   "e": "Die Aussage eines Fed-Mitglieds zur eigenen Geldpolitik zeigt, dass im Gremium unterschiedliche Einschätzungen zur Zinspolitik bestehen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmtnQkhrbmllM2FzT3dZZXVGRUJxbHJNS0t4V1pReXVzZ1MzWFdVanMyVUlSeTVqcTV6T3BrUzhjczUtd3JUenpscG1kYml3Sk9iVG9MSkpKQ2VZTlNuelhlb1k1djZQanpVbXlkSFp5UV9WN3pZTFdkNld5VHZwZ1c4d0RXdVBqbnNrRDN1WVNrQkZONzdIcTRBUUJpaFFnQjlJdDBPdWtnZG1pZk00TVIxLUhLWDB5UlI0Q1VmS3lUOG1x?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-05T18:26:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "f2872b27b24b0273",
+   "k": "finanzen",
+   "titel": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+   "t": "Der Vermögensverwalter Amundi bietet einen Indexfonds über europäische Aktien nun als tokenisierte Anteilsklasse auf Ethereum an.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T18:09:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "1aae963471e58d8b",
+   "k": "welt",
+   "titel": "Das Gericht glaubt René Benko auch beim vierten Mal nicht. Sein einstiger Förderer rechnet mit ihm ab",
+   "t": "Das Landesgericht Innsbruck hat den Signa-Gründer René Benko in einem weiteren Verfahren schuldig gesprochen und zu zwei weiteren Jahren Haft verurteilt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T17:50:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "241a2b68041b84b0",
+   "k": "finanzen",
+   "titel": "Notenbanker De Cos: Möglicher neuer EZB-Präsident reist Vermeer hinterher",
+   "t": "Pablo Hernández de Cos gilt im Rennen um die Nachfolge von EZB-Präsidentin Christine Lagarde als aussichtsreicher Kandidat. Er äußerte sich auf einer Konferenz in Frankfurt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-nachfolge-pablo-hernandez-de-cos-und-sein-faible-fuer-vermeer-201656572.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-05T17:38:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "50449270344e156a",
+   "k": "welt",
+   "titel": "Kremlunterhändler Dmitrijew spricht im Weißen Haus - T-Online",
+   "t": "Kremlunterhändler Kirill Dmitrijew hat im Weißen Haus gesprochen. Zuvor hatte Melania Trump Russen und Ukrainer zu einem Treffen zusammengebracht.",
+   "e": "Das Treffen gehört zu den Gesprächen über den Krieg in der Ukraine und zeigt den Versuch diplomatischer Kontakte zwischen Moskau und Washington.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGFDV2tEaGJkUUpGMFM4NEVrUFBHS1F2WHBKZi11X0VDc0VXenZvdDhEaDdweWtmTGpEaWt6aHBvQ2d2OFRpWFpOMXIxblp3Z3V4M2ZUYjltcHV3R004dzN5dWFYbGhGRkRXaUxxdEg5MUdhM3BnTHdHczA3eUw3WGgxa2NoY2tIRG1MV2JSMmJ0QnYzODd4dEcyTkRJUTNIYVc4NGlOOXc1eXhMdmwwdmJaUzI?oc=5",
+   "quelle": "T-Online",
+   "zeit": "2026-11-05T17:23:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "6151d3eaedd9c36e",
+   "k": "welt",
+   "titel": "Nach Bankenkrise: Paraguays Präsident Peña tritt zurück",
+   "t": "Paraguays Präsident Santiago Peña hat nach einer schweren Bankenkrise seinen Rücktritt eingereicht. Ihm werden geschäftliche Beziehungen zur Muttergesellschaft der insolventen Bank vorgeworfen.",
+   "e": "Nach dem Kollaps einer Digitalbank sind Konten eingefroren und Ersparnisse blockiert. Das Land gilt als wachsende Volkswirtschaft mit engen Beziehungen zu den USA.",
+   "s": 7,
+   "link": "https://www.nzz.ch/international/nach-bankenskandal-paraguays-praesident-pena-tritt-zurueck-ld.10055610",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T17:17:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "e0e37aa6e06bee5c",
+   "k": "nrw",
+   "titel": "Nahverkehrsplan-Entwurf sieht weitere Einschnitte in Iserlohn vor - IKZ-Online",
+   "t": "Der Entwurf des Nahverkehrsplans sieht in Iserlohn weitere Einschnitte im Busverkehr vor.",
+   "e": "Die Kürzungen würden die Verbindungen in Iserlohn zusätzlich ausdünnen, was vor allem Pendler und Schüler betrifft.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmE4cThuSExWdW1DT29LTDRocE1vZWR5QWhjR19oT2RISEI1a1VzU2RmWUtxcG9NRmdLcXFkOGg5bkxpbFlfUE1MUGFnX2NfQzZhNXdROHVRTWN4OUV3bHJqd2pJZVN6UW5RYXRzWTNfWnVKTm5iem5mamNMelcwMnNRRktlcWU2S2YzdHdKeDFjU0FfX2xiTWRPS3R2eDVTY3hiOURiY0RXaV9yRXBvUUVkVzlIVUR0VTRGbkZzTTllREdsRkg2NG1R?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-05T16:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e92609de1f61938e",
+   "k": "nrw",
+   "titel": "Werdohl: Einschränkungen auf Lennestraße Behelfsbrücke in Rodt ab nächste Woche Dienstag - News.de",
+   "t": "In Werdohl gibt es Einschränkungen auf der Lennestraße, weil die Behelfsbrücke in Rodt ab nächster Woche Dienstag genutzt wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNMFNYbmFVeTVKcWJxelVKSlh0YWJyS2prbVBkanlmMmhYRGJiXzAyOVpnVENjZGlQU2FFMERQNkFLRXE1Um9EYUw1T3I5bTlOTktlbVhDTkQ4a1NfWWY4NFN6ZGNkVnU5SklXd3JLT1czbzRfX3lBWnhYeDJRRWtBOW9UZnNMLUJpUlhGZEtMUXJ3VlhSUWhENXB3T0xEOEtZWjVlV3ZBemJiSjAyT2hqQVNfbmF2d1hBZE9xMHlDemlncXlzZ0VNS3lFYl9DZWdxaE5NYWRJTmwwekh2R3lrTkRVbERiQXp6U3JaMnVkQ2V1blZEZlh1TUhTWlBkZ0cwSHZRcVRwRjVMbGNZcXZ1ZzA3ZWx1aFRVQ1hkMzlXRDVrMnFRQnN6ZndNNGlZWWZoSDQxNWV0cDgtTG1BUVRSZkcxSzVGNWJiUDFUY1F0dnV2WnFRcmxzcDFiTzl5LURUcl91OFQ2QkprV3MzSFE?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-05T15:50:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "172953c1031defe9",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Dauerbaustelle auf Im Olpendahl in Hulsberg ab 16.11.2026 - News.de",
+   "t": "In Lüdenscheid-Hulsberg gibt es ab dem 16.11.2026 eine Dauerbaustelle auf der Straße Im Olpendahl.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPWUJZMGZmUnZGSWw0aWxMbmRxTWpHc1YwNzlPT0dwZmJUNTJQaV9EZF9XLWpNdjJzbUJwZmNkYTRndEJscm1zUHJXWjlmbGxrTWptbWhqYUFVRjROTnhnME4yMXA1ZTNjOWFwQWVzUDFnVkJMY2lfQlhxZ1hld3ZsV0ROZEh5UThVRUpjc3Y1dkZwdi0tckE1bGdKUFYzdXViOHRkLWV1eEk2ZjVQZllyWko3ZkF1LThDRDNjbDQ3YkxMSEhsNW5PZEY5T3I0YmZYYkVLbV8wb3BxbFRrTnVxTzRWV0NRZWktQTFOOGRKdnNMd1V1NnNNM19NYlhWZmhVSktxSDRkakpFLU5CQkNrTmVING9mb3R0Tkx4dWdkX0lyTHA4SVF6VXBwd2hMQUlncWlzZDRWUGZhRDl3Tmh0LUNhbXB0TU55WndfWlRSalJERDM0bFR5MlpWaHBWZw?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-05T15:36:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce0e7e4cebca3e36",
+   "k": "usa",
+   "titel": "Krypto, Geschenke, Begnadigungen – Jetzt beginnt die Jagd auf Trumps Milliarden-Geschäfte",
+   "t": "Mehrere Vertraute von Donald Trump haben in seiner Amtszeit Geschäfte mit Kryptowährungen, Geschenken und Begnadigungen abgeschlossen. Die Demokraten wollen diese nach den Midterms untersuchen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6aeb7114a42a5db59c5fe3ce/nach-zwischenwahlen-krypto-geschenke-begnadigungen-jetzt-beginnt-die-jagd-auf-trumps-milliarden-geschaefte.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-05T15:22:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "388b45edf9704b6d",
+   "k": "nrw",
+   "titel": "ASSV Letmathe versteigert handsigniertes Heynckes-Trikot für den guten Zweck - IKZ-Online",
+   "t": "Der ASSV Letmathe versteigert ein handsigniertes Trikot von Jupp Heynckes für einen guten Zweck.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSFJYNlRybTN5RGxhQWo1bU85Smk2bGI3NG92QWYyQ0p6THQzRzZxaUZqcWZyZmpianpCSERHV3RHeURkYTFscTBwSTI0Tl8xY2JwUi1CX0VweWppVXhraG56YzBDVUk5bERTWVN5QVlldWYyektjRUxHaW9FSldsNjgtMEI4UlQwV0VMRjl4SUZEZXZoQ2EyUUo3MHQ0NGdWWGJtSWpyUUh6eDc4NVhHdGRTM0tEV21XLXJZeTg2cDNOUlZFSDhPbUlpcWxnbFpRcV9lS1QzdXJxRklpQ1NQbV9fMkNPRlVYcVQ0MjFmaXVZbXBSTkdyRjFR?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-05T14:52:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "9a711fb90ba07f86",
+   "k": "finanzen",
+   "titel": "Vor Übernahme durch Unicredit: Commerzbank-Chefin: Es kann noch den einen oder anderen Mitarbeiterabbau geben",
+   "t": "Die Commerzbank hat im dritten Quartal ein Rekordergebnis erzielt, aber die Erwartungen leicht verfehlt. Vorstandschefin Orlopp schließt weiteren Stellenabbau nicht aus.",
+   "e": "Der Stellenabbau steht im Zusammenhang mit der laufenden Übernahme durch die UniCredit und betrifft die Beschäftigten in Deutschland.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/in-der-commerzbank-wackeln-weitere-arbeitsplaetze-201655305.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-05T14:31:12+00:00",
+   "tag": null
+  },
   {
    "id": "7c40fc42477b7368",
    "k": "deutschland",
@@ -666,6 +1002,18 @@
    "link": "https://www.tagesschau.de/video/video-1678574.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-05T12:29:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "7db0d0584682883e",
+   "k": "finanzen",
+   "titel": "Dax erreicht Rekordhoch – „Wir sind schon mittendrin in der Jahresendrallye“",
+   "t": "Der Dax hat sein Rekordhoch von Ende August übertroffen und stieg auf über 26.600 Punkte.",
+   "e": "Der Index erreicht damit neue Höchststände, nachdem die Märkte nach den US-Midterms zulegten.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6aec71e0c7da7601aa4f88da/26-626-zaehler-dax-erreicht-rekordhoch-wir-sind-schon-mittendrin-in-der-jahresendrallye.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-05T12:18:11+00:00",
    "tag": null
   },
   {
@@ -1261,6 +1609,18 @@
    "tag": null
   },
   {
+   "id": "1855af0ac41df857",
+   "k": "welt",
+   "titel": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
+   "t": "Nach den Wahlen in den USA und Israel werden die Beziehungen beider Staaten neu bewertet. Für Premier Netanjahu könnte das Folgen haben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-05T07:28:49+00:00",
+   "tag": null
+  },
+  {
    "id": "e0e4cf2235d47f70",
    "k": "finanzen",
    "titel": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
@@ -1373,6 +1733,18 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnRyVk5seThjb1RPa2lJN2hqdldNTmlwWDQ1Q1JZTy1zT1phcGxFRGpYekl1dGNhanpXQW1NbGNvQjAwRzY1djZGSU1XY2Zadl9rdVRld2FYcGJrU0MxT05OTnNjN2NsV0QxaV84ek85N2dMYlFCdTZOSjJ2eGY1bmJfTjVIbWpGYUF0bWpTb3N1d0NSWDdXSTJ0LU9hUFhVa0hQX29zdURCTjRwMHV6UWtqM3dxMHl0X1Rybk1qNHB2UGRYMGNUZS01T0M4YUVKVl9sejR2NG1tQS1oR2NQaGV3MFdVRmNzZjhMemxmY1VlUXd6?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-05T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7a3da18ee4e88ba3",
+   "k": "deutschland",
+   "titel": "Bundestag debattiert über Pflegereform",
+   "t": "Der Bundestag debattiert über eine erste Pflegereform. Die große Strukturreform soll im neuen Jahr folgen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-05T05:52:28+00:00",
    "tag": null
   },
   {
@@ -1613,6 +1985,18 @@
    "link": "https://nypost.com/2026/11/04/us-news/gop-braces-for-mad-dash-to-push-conservative-bills-through-congress-before-dem-takeover/",
    "quelle": "New York Post Politik",
    "zeit": "2026-11-05T00:34:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "4dce9a14dbc27aea",
+   "k": "usa",
+   "titel": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
+   "t": "Die Demokraten haben bei den Midterms sieben Senatssitze, fast 30 Sitze im Repräsentantenhaus und fünf Gouverneursposten gewonnen. Die Republikaner haben keinen einzigen Sitz hinzugewonnen.",
+   "e": "Der Machtwechsel im Kongress schränkt die Handlungsspielräume von Präsident Trump für die restliche Amtszeit deutlich ein.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-04T23:44:18+00:00",
    "tag": null
   },
   {
@@ -1862,6 +2246,18 @@
    "link": "https://www.welt.de/wirtschaft/plus6aeb1296b1907deb6c941781/bmw-wagt-die-elektro-wette.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-04T15:20:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "db0cb41ba87b6ff1",
+   "k": "finanzen",
+   "titel": "Midterms in den USA: Warum der Dax nach der Schlappe für Trump zulegt",
+   "t": "Die US-Zwischenwahlen haben die Börsen weltweit bewegt. Der Dax legte zu, der japanische Nikkei verlor.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/warum-der-dax-nach-der-schlappe-fuer-donald-trump-zulegt-201650862.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-04T15:08:21+00:00",
    "tag": null
   },
   {
@@ -2152,123 +2548,15 @@
    "tag": null
   },
   {
-   "id": "72bfb8fa15fec2cf",
-   "k": "usa",
-   "titel": "Supreme Court Shows Sympathy for Catholic Schools in Case on LGBTQ Protections",
-   "t": "Der Supreme Court zeigt sich in einem Fall um LGBTQ-Schutzregeln mitfühlend gegenüber katholischen Vorschulen, die staatliche Mittel erhalten wollen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/us-news/law/supreme-court-shows-sympathy-for-catholic-schools-in-case-on-lgbtq-protections-cfa6f0c1?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-03T19:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "65764ad13795e4a9",
-   "k": "deutschland",
-   "titel": "Renten könnten 2027 um 4,1 Prozent steigen",
-   "t": "Laut Rentenversicherungsbericht der Bundesregierung könnten die Renten 2027 um 4,1 Prozent steigen.",
-   "e": "Die Rentenanpassung betrifft Millionen Rentner und hat Auswirkungen auf Kaufkraft und Haushaltsplanung.",
+   "id": "6e6ad9e4ba3f04eb",
+   "k": "welt",
+   "titel": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+   "t": "Spaniens Verkehrsminister Óscar Puente ist nach zwei schweren Zugunglücken in diesem Jahr zurückgetreten. Die Regierung beschloss zudem neue Sicherheitsmaßnahmen.",
+   "e": "Der Rücktritt ist eine ungewöhnlich deutliche politische Konsequenz nach Unfällen im Bahnverkehr.",
    "s": 6,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-03T19:05:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "b8196dce07abfbf8",
-   "k": "deutschland",
-   "titel": "Weitere gefährliche Halloween-Süßigkeiten entdeckt - auch im Ausland",
-   "t": "Es werden weitere manipulierte Halloween-Süßigkeiten mit Nadeln oder Metall gemeldet, auch im Ausland; einige Kinder haben sich verletzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-03T17:02:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "9745b5286a4a2e5f",
-   "k": "usa",
-   "titel": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
-   "t": "Das FBI ermittelt gegen einen Anbieter von Autismus-Therapien, der laut Wall Street Journal bis zu 30.000 Dollar pro Tag abgerechnet haben soll.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-03T16:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "770b9621736d9878",
-   "k": "deutschland",
-   "titel": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
-   "t": "Innenminister Dobrindt verteidigt seine Aussage über „Chaoten“ und „migrantische Milieus“ nach den Krawallen am Wochenende, trotz breiter Kritik.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-03T16:14:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "fbdf637ac8e0b652",
-   "k": "nrw",
-   "titel": "Iserlohn: Die IGW baut zwei neue Wohngebäude an der Hansaallee - IKZ-Online",
-   "t": "Die IGW baut in Iserlohn an der Hansaallee zwei neue Wohngebäude.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGJIeTU3dTRQdFotblFlTG5hZndvY0VJZ0s3X1doekVfX3ptX0ZXQlJBT0RKaDZMRy05dmVvcW9naXdabmFDVHdBQ0pVY0JERnhBVE1MSlBxcmhNa1lDWTdGTzRRT2hSVTB0RWtTMVhjWmt1WkFBLWl5Z09sSC1FOUUzM1daLU1LMmNNQnpnQkZobml2TnFhV3hZZGhCVmVEQXlXamRINWdEeFp5YUNlbS1qVDUyUzZqT2p0VkNiNFlWay1NOGc?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-03T16:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "97cad4503273e148",
-   "k": "finanzen",
-   "titel": "Bundesbank: Ein neues Gesicht für den digitalen Euro",
-   "t": "Die Bundesbank ordnet ihren Vorstand neu. Vizepräsidentin Mauderer übernimmt die Verantwortung für den digitalen Euro und zusätzlich für das Bargeld.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ein-neues-gesicht-fuer-den-digitalen-euro-201648154.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-03T15:52:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "5dc267e4ba9ea508",
-   "k": "nrw",
-   "titel": "Hemer: Dauerbaustelle am Schopenhauerweg in Höcklingsen ab nächste Woche Montag - News.de",
-   "t": "In Hemer-Höcklingsen wird am Schopenhauerweg ab kommenden Montag eine seit Langem andauernde Baustelle fortgesetzt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOcUNQM2d0MUE2cV9FS193Q3FTc2RzcmlFeDNCSWpYY0MzWnNRMndLSENNaUNCU2JTS2dTNEZtaXNqcEV4SXdCZWtXOVU0OVp1U2ZmMDBmRVMzYnlCRzlOZHF5NjdxZS1OWkxBVzJDSXBpODBZS2QwQUJuVFVoV3VHakVOTU90Ujh4MVBQZkQ0OVBJOHlLVEFNV0o0VkIwZ09NajBHTWR6cjVhdHdSam9tSGZiVGxLRko1U1dadUY4TDNfTjd3aEhfeXhEem53MDZKTGxCY1Z6clluWVhCcVlSV01hRl9xcS1kM2VDcEhVbW1VUVkzUjA4dlBBemFyOXBiaXlwTnhyb2NXb0dGdDVnYkNGd24zSk5MMGtMWjd3NkRKQlFMY2lXanh5UVJoNHdaZjJkWDF3dV85UGN3Z0dPNk16MTRLdWUyS0hWMW02TzVRSXQyRUIzRi1rSlVaZw?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-03T15:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "a6f3280c58325824",
-   "k": "nrw",
-   "titel": "Iserlohn: Baarstraße wird am Wochenende 6. bis 8. November Einbahnstraße - IKZ-Online",
-   "t": "Die Baarstraße in Iserlohn wird am Wochenende 6. bis 8. November zur Einbahnstraße.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSW95QlAzZlAwWUE3RGduLUVEaFFrdFpDWVgtRE5wUGc5SXlwel9CTHB0ZmpxX3U0R0ZYeVJzUUNRSklYNS00T1lsNy1QaHhlcHQ3bWRNVjZzc2dac05XQzlYeHJoNkwyQnlINDZ6RmFobVoxYllPUDFOdHdST2RRZmUwS3V2X1NKRy1JdG9RbGVXa2JJYTdzenNsbTBQdE9JejFtNWhQU2d6SDFySHFRQ2tWRlV6U0s3TGtPUlpn?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-03T15:14:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "c9b34d2ca98f94ad",
-   "k": "finanzen",
-   "titel": "Evonik wehrt sich gegen Chemieriese BASF",
-   "t": "Evonik lehnt sich gegen eine Fusion mit BASF auf, die die größte Übernahme in der deutschen Chemiebranche wäre. Der kombinierte Konzern käme auf einen Jahresumsatz von rund 74 Milliarden Euro.",
-   "e": "Eine Fusion dieser Größenordnung würde die Struktur der deutschen Chemieindustrie deutlich verändern.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-03T14:59:40+00:00",
+   "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-03T20:58:56+00:00",
    "tag": null
   }
  ],
@@ -2277,22 +2565,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 31
+    "n": 26
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 11
+    "n": 14
    },
    {
     "name": "Welt",
@@ -2307,12 +2595,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -2332,7 +2620,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 29
+    "n": 27
    },
    {
     "name": "CNBC Finance",
@@ -2347,12 +2635,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 31
+    "n": 27
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -2362,7 +2650,7 @@
    {
     "name": "New York Post Politik",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "CoinDesk",
@@ -2377,12 +2665,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 16
+    "n": 20
    },
    {
     "name": "Google News NRW",
@@ -2397,12 +2685,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 37
    }
   ],
   "markt": []
