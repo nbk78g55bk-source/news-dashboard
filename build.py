@@ -223,7 +223,7 @@ def make_briefing(items, markt, slot, api_key):
 # ---------------------------------------------------------------- Markt
 DEFAULT_MARKT = [
     {"name": "iShares MSCI World", "quelle": "yahoo", "symbol": "EUNL.DE", "fmt": "eur"},
-    {"name": "iShares MSCI Emerging Markets", "quelle": "yahoo", "symbol": "IS3N.DE", "fmt": "eur"},
+    {"name": "iShares MSCI EM", "quelle": "yahoo", "symbol": "IS3N.DE", "fmt": "eur"},
     {"name": "Deka S&P 500", "quelle": "yahoo", "symbol": "D6RI.DE", "fmt": "eur"},
     {"name": "Deka Nasdaq-100", "quelle": "yahoo", "symbol": "D6RH.DE", "fmt": "eur"},
     {"name": "Deka DAX", "quelle": "yahoo", "symbol": "EL4A.DE", "fmt": "eur"},
@@ -275,11 +275,11 @@ def markt_daten(cfg):
             if "krypto" not in cache:
                 ids = ",".join(sorted({x["id"] for x in entries if x.get("quelle") == "krypto"}))
                 r = requests.get(
-                    f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=eur&include_24hr_change=true",
+                    f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=usd&include_24hr_change=true",
                     headers=UA, timeout=15)
                 cache["krypto"] = r.json()
             j = cache["krypto"][cid]
-            add(name, de(j["eur"], 0) + " €", j.get("eur_24h_change"))
+            add(name, de(j["usd"], 0) + " $", j.get("usd_24h_change"))
         except Exception as ex:
             fail(name, ex)
 
