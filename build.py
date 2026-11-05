@@ -457,6 +457,7 @@ def main():
 
     # Lagebriefing (7 / 12 / 19 Uhr), einmal pro Slot
     briefing = data.get("briefing")
+    briefing_fehler = None
     slot = aktueller_slot(now_dt, cfg.get("briefing_stunden", [7, 12, 19]))
     if api_key and slot is not None and state.get("briefing_slot") != f"{heute}-{slot}":
         try:
@@ -464,8 +465,11 @@ def main():
             if neu:
                 briefing = neu
                 state["briefing_slot"] = f"{heute}-{slot}"
+            else:
+                briefing_fehler = f"Slot {slot}: keine Punkte erhalten"
         except Exception as ex:
             log("Briefing-Fehler:", ex)
+            briefing_fehler = f"Slot {slot}: {str(ex)[:120]}"
 
     data = {
         "aktualisiert": dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -473,7 +477,7 @@ def main():
         "basiszins_seit": (cfg.get("basiszins") or {}).get("seit"),
         "briefing": briefing,
         "items": behalten,
-        "status": {"feeds": feed_status, "markt": markt_status},
+        "status": {"feeds": feed_status, "markt": markt_status, "briefing": briefing_fehler},
     }
     # alte seen-Eintraege nach 7 Tagen loeschen
     state["seen"] = {k: v for k, v in seen.items() if now - v < 7 * 86400}

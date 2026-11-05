@@ -283,6 +283,8 @@ function renderFoot(){
   fs.forEach(x=>ul.appendChild(el("li","",(x.ok?"✓ ":"✗ ")+x.name+(x.ok?" ("+x.n+")":""))));
   const ms=(DATA.status&&DATA.status.markt)||[];
   ms.forEach(x=>ul.appendChild(el("li","","✗ Markt "+x)));
+  const bf=DATA.status&&DATA.status.briefing;
+  if(bf)ul.appendChild(el("li","","✗ Briefing: "+bf));
   d.appendChild(ul);f.appendChild(d);
 }
 function renderAll(){renderHero();renderMarkt();renderTermine();renderBrief();renderNav();renderList();renderFoot()}
