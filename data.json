@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-05T13:48:22.061461+00:00",
+ "aktualisiert": "2026-11-05T14:11:09.163661+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "130,83 €",
-   "delta": 0.2682436265493138
+   "wert": "130,87 €",
+   "delta": 0.2988996667928623
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "44,42 €",
-   "delta": -1.4225507184981279
+   "wert": "44,46 €",
+   "delta": -1.3271224036079832
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "79.748 $",
-   "delta": 1.7873241717651256
+   "wert": "79.525 $",
+   "delta": 1.6721211461927903
   },
   {
    "name": "Ethereum",
-   "wert": "2.392 $",
-   "delta": 3.1657283293587613
+   "wert": "2.385 $",
+   "delta": 3.0623671690662793
   },
   {
    "name": "Gold",
-   "wert": "4.127 $",
-   "delta": 1.3184384974220364
+   "wert": "4.134 $",
+   "delta": 1.4903019887060998
   },
   {
    "name": "EZB Zins",
@@ -81,6 +81,102 @@
  },
  "items": [
   {
+   "id": "7c40fc42477b7368",
+   "k": "deutschland",
+   "titel": "Linnemann kündigt Nachbesserungen bei Pflegereform an",
+   "t": "Gesundheitsminister Linnemann kündigt im Bundestag Nachbesserungen bei der Pflegereform an. Patientenschützer kritisieren die Pläne als Mogelpackung.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-05T14:07:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5cfc57df571a720",
+   "k": "welt",
+   "titel": "EU überweist Ukraine weitere 4,36 Milliarden Euro – von der Leyen bekräftigt EU-Hilfe",
+   "t": "Die EU überweist der Ukraine weitere 4,36 Milliarden Euro, um grundlegende öffentliche Dienstleistungen und neue Waffen zu finanzieren. Ursula von der Leyen bekräftigte die Unterstützung.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/article6aec8569a389bc337cfc6c68/ukraine-krieg-eu-ueberweist-ukraine-weitere-4-36-milliarden-euro-von-der-leyen-bekraeftigt-eu-hilfe.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T14:03:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "6047f6ef49ea5dbd",
+   "k": "finanzen",
+   "titel": "Fed-Mitglied Hammack: Ein schrittweiser Zinserhöhungskurs ist der beste Weg für die Geldpolitik આગળ - TradingView",
+   "t": "Fed-Mitglied Hammack spricht sich für einen schrittweisen Zinserhöhungskurs aus, um die Inflation zu senken.",
+   "e": "Die Aussage zeigt, dass Zinserhöhungen innerhalb der Fed weiterhin als Option diskutiert werden, obwohl die Zinsen zuletzt nicht angehoben wurden.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zSk1RcnQ0Y01QU2prLWpYY1pTVmFqT3NudXlJWWx4d2xjbnE3ZG5sQTNqLWlVeU5DcE5RbGRQQTdBTV9sSzg5Tlh2ck1PY1pLZkxnUHl1c0dxNzV4bllJZXpBdFpCby1F?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-05T14:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "535d0004b4d27d44",
+   "k": "finanzen",
+   "titel": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+   "t": "Die Kraken-Muttergesellschaft Payward und ihre Kunden kaufen AAVE-Token im Rahmen einer DeFi-Investitionsoffensive.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T14:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "937f6036c977945c",
+   "k": "deutschland",
+   "titel": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "t": "Immer mehr Deutsche wandern nach Polen aus, so viele wie seit Langem nicht mehr.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/migration-warum-immer-mehr-deutsche-nach-polen-auswandern/100249315.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T13:57:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "391c84efe0bf9aad",
+   "k": "finanzen",
+   "titel": "Banks are turning cautious on lending, according to the Fed. What it means for the economy",
+   "t": "Laut Umfrage der Fed werden die Kreditvergabebedingungen für kleine Unternehmen und Gewerbeimmobilien strenger, für Subprime-Kreditnehmer wird Kredit schwerer.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T13:52:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "34c884dfb39515dd",
+   "k": "deutschland",
+   "titel": "Nach Krawallen: Gen Z will nächste Demo besser vorbereiten",
+   "t": "Die Initiative Gen Z regelt ruft für den 20. November zu einem Jugendstreik in Frankfurt auf und kritisiert das Vorgehen der Polizei nach den Krawallen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/jugendstreik-am-20-november-gen-z-will-demo-in-frankfurt-besser-vorbereiten-201655353.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T13:52:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "eca281252075863f",
+   "k": "finanzen",
+   "titel": "Qualcomm’s stock falls as twin forces pressure sales",
+   "t": "Die Qualcomm-Aktie fällt, weil der Verlust von Apple als Kunde und hohe Speicherkosten die Smartphone-Nachfrage belasten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-05T13:47:00+00:00",
+   "tag": null
+  },
+  {
    "id": "d35fb8e8e650d612",
    "k": "deutschland",
    "titel": "Mädchen (13) seit 53 Jahren vermisst: Polizei sucht Kirmes-Besucher von 1973 - BILD",
@@ -90,6 +186,30 @@
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjZjaU9jMU51ZURDVmFrbE1NbG5lSlNEeDZQOFlITFJIRXRMOGtfZnJsZUxCcGNWNEY2cG1TN2dteVRlbDJXZElIbHMyVURuQkFFMFFtS2JvbVlYVHlacU44T1RFd2ozNkNFZC1sYlNmYW5LRFJQUDlHYlhTTkVhUTJISjRrWWdrR0FyaWs5a1U2VnVBYlZ4Wkt4aEU2R2UzZDVXb0NqSUlFbmdmZ1dLWFBiYnYzWjYwdHJobldrMU5KdUFRTkh5Q0pJTXhzMzIzbEl6dGV4Qm85a1Z5cjFVUkhn?oc=5",
    "quelle": "BILD",
    "zeit": "2026-11-05T13:46:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "08b654919e359af7",
+   "k": "finanzen",
+   "titel": "US-Inflation steigt, warum erhöhte die BoE die Zinsen, aber nicht die Fed? - BeInCrypto",
+   "t": "Die Bank of England hat ihren Leitzins angehoben, die US-Notenbank Fed nicht. Gleichzeitig steigt die US-Inflation wieder.",
+   "e": "Der Unterschied zwischen Bank of England und Fed zeigt, dass die Notenbanken derzeit auf unterschiedliche Inflationsdaten reagieren.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWkYzdGtsLWtQRGx1aVB3VXkyZktGWjZlOF9GelBxTXVPRFc4NXZqTWFza3ROODZwaDNWUmdJZ2NTOXBlZzNvajVIOG5qbHlTdWpWdGpTM0x1cXV2MW1tR3ZTU3pHWTVReC1EcHFqNlVRdmRQMzR2bg?oc=5",
+   "quelle": "BeInCrypto",
+   "zeit": "2026-11-05T13:45:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2cee132821651dd0",
+   "k": "deutschland",
+   "titel": "„Wir wollen sichere Weihnachtsmärkte, keine Festungen“ - RP Online",
+   "t": "Vor den Weihnachtsmärkten wird über Sicherheitskonzepte diskutiert; die Forderung lautet, sichere Märkte ohne Festungscharakter zu schaffen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcU9fTVpaejlXS1d5X3VGOE1HdUNqeGNjRjl5bnRodE45SUdWcUE5MzZJUjhwdDhzbHQwVjVKOEpwUmhVVnQ2Y0s4akMwT0lXeElxaE1OaF9rOVFSX1EyWkpYb0RQb2pkNDBsUFViclZMY3hXMXB0eW1Ic2xUUUZVcWQ4bk14SDEybVJMNHpjSVQ1Tjhac2RlYTZ5ajd5WFJwVU5jbA?oc=5",
+   "quelle": "RP Online",
+   "zeit": "2026-11-05T13:43:00+00:00",
    "tag": null
   },
   {
@@ -597,6 +717,18 @@
    "tag": null
   },
   {
+   "id": "0e082dd2bc955c15",
+   "k": "finanzen",
+   "titel": "Bankenpleite löst Staatskrise in Paraguay aus – Millionen Menschen fürchten um ihr Geld",
+   "t": "In Paraguay hat die Digitalbank Ueno Insolvenz angemeldet. Rund 60 Prozent der erwachsenen Bevölkerung sind dort Kunden des Instituts, viele Menschen fürchten um ihr Geld.",
+   "e": "Die Pleite einer Bank mit so breiter Kundschaft hat laut Berichten bereits eine Staatskrise ausgelöst; ein Beleg für die Risiken stark konzentrierter Digitalbanken.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/article6aec5a2109e0301c03e8055d/bankkonten-eingefroren-bankenpleite-loest-staatskrise-in-paraguay-aus-millionen-menschen-fuerchten-um-ihr-geld.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-05T11:41:11+00:00",
+   "tag": null
+  },
+  {
    "id": "bf90db58513fcb61",
    "k": "finanzen",
    "titel": "Thailand to block Bitget in December over unlicensed crypto trading",
@@ -898,6 +1030,30 @@
    "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-05T10:28:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "e2d52a2a97a80ea0",
+   "k": "deutschland",
+   "titel": "Wie der Führerschein günstiger werden soll",
+   "t": "Der Bundestag stimmt über einen Gesetzentwurf ab, der den Führerschein günstiger machen soll, unter anderem durch weniger Sonderfahrten und keine Präsenzpflicht im Theorieunterricht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T10:26:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "b9456f364f43f012",
+   "k": "deutschland",
+   "titel": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+   "t": "Der Chef der Freien Wähler, Hubert Aiwanger, ist unerwartet gestorben. Er war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer absoluten Tragödie.",
+   "e": "Aiwanger war einer der bekanntesten Landespolitiker Bayerns und Vize-Ministerpräsident; sein Tod verändert die Führung der Freien Wähler und die Koalition in München.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T10:21:40+00:00",
    "tag": null
   },
   {
@@ -1280,6 +1436,18 @@
    "tag": null
   },
   {
+   "id": "0edaf65d391e8869",
+   "k": "finanzen",
+   "titel": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+   "t": "Bitcoin notiert nach der US-Wahl über 80.000 Dollar, während Zcash um 12 Prozent steigt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T05:13:45+00:00",
+   "tag": null
+  },
+  {
    "id": "a94baad9e2bcca9d",
    "k": "finanzen",
    "titel": "Trump can't pack the Fed board with allies now - Axios",
@@ -1316,6 +1484,18 @@
    "tag": null
   },
   {
+   "id": "2a4a57d9ced8615a",
+   "k": "finanzen",
+   "titel": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "t": "Trump Media hat laut Blockchain-Daten Bitcoin im Wert von 342 Millionen Dollar zu Crypto.com transferiert.",
+   "e": "Große Bitcoin-Bewegungen eines börsennotierten Unternehmens werden von Marktbeobachtern aufmerksam verfolgt.",
+   "s": 6,
+   "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T04:11:33+00:00",
+   "tag": null
+  },
+  {
    "id": "91e9c19e23fc7d9d",
    "k": "welt",
    "titel": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
@@ -1340,6 +1520,30 @@
    "tag": null
   },
   {
+   "id": "86649f913849e489",
+   "k": "deutschland",
+   "titel": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
+   "t": "Bundeskanzler Merz hat sich festgelegt, dass die nächste Bundespräsidentin eine Frau sein soll. Über mehrheitsfähige Kandidatinnen wird noch gesucht.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-05T03:21:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "d33848fe2bb8dcb7",
+   "k": "finanzen",
+   "titel": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+   "t": "LIV Golf steht vor der Liquidation, nachdem BC Partners einen Rettungsplan über 300 Millionen Dollar zurückgezogen hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T03:11:58+00:00",
+   "tag": null
+  },
+  {
    "id": "f694f9f9e0eaa561",
    "k": "welt",
    "titel": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
@@ -1361,6 +1565,18 @@
    "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-05T01:51:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "13bd99edd9db7c1f",
+   "k": "usa",
+   "titel": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+   "t": "Ein Ausschuss des Weißen Hauses hat die Anhörung zu Fed-Gouverneurin Lisa Cook auf den 14. Dezember verschoben. Trump hatte versucht, sie zu entlassen, der Supreme Court blockierte dies im Juni vorläufig.",
+   "e": "Der Fall betrifft die Unabhängigkeit der US-Notenbank vom Präsidenten, ein zentrales Thema für Zinsen und Märkte.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T01:11:26+00:00",
    "tag": null
   },
   {
@@ -1447,6 +1663,18 @@
    "tag": null
   },
   {
+   "id": "68f2e50c22f79ede",
+   "k": "finanzen",
+   "titel": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+   "t": "Krypto-PACs haben bei den Midterms über 176 Millionen Dollar ausgegeben, planen nun aber für 2028 nach den Wahlergebnissen neu.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-04T22:17:33+00:00",
+   "tag": null
+  },
+  {
    "id": "46dcaa1a4bf4a194",
    "k": "finanzen",
    "titel": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -1467,6 +1695,18 @@
    "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-04T21:15:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "517e5e18a63346a4",
+   "k": "usa",
+   "titel": "What a Democratic Congress Means for Trump’s Foreign-Policy Agenda",
+   "t": "Analysen zeigen, was eine demokratisch geprägte Kongresskammer für Trumps außenpolitische Agenda bedeutet, etwa bei Iran und Handel.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/what-a-democratic-congress-means-for-trumps-foreign-policy-agenda-19b05b61?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-04T21:01:00+00:00",
    "tag": null
   },
   {
@@ -1503,6 +1743,30 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-04T20:24:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "89b442b37f2cc463",
+   "k": "usa",
+   "titel": "Newsom breaks with socialists over billionaire tax, and California voters appear poised to reject it",
+   "t": "In Kalifornien steht die Milliardärssteuer Prop 40 zur Abstimmung; Gouverneur Newsom stellt sich gegen die Initiative der Democratic Socialists of America.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/newsom-breaks-socialists-over-billionaire-tax-california-voters-appear-poised-reject",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-04T19:51:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "caf4dae946754185",
+   "k": "usa",
+   "titel": "Hakeem Jeffries declares bid for House speaker after GOP's midterm massacre",
+   "t": "Hakeem Jeffries kandidiert offiziell für das Amt des Sprechers des Repräsentantenhauses, nachdem die Republikaner bei den Midterms Verluste erlitten haben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/hakeem-jeffries-declares-bid-house-speaker-after-gops-midterm-massacre",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-04T19:50:02+00:00",
    "tag": null
   },
   {
@@ -1756,6 +2020,18 @@
    "tag": null
   },
   {
+   "id": "d92b9981bdb38ff3",
+   "k": "welt",
+   "titel": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+   "t": "Israels Präsident Herzog hat Konsultationen zur Bildung einer neuen Regierung begonnen, nachdem die Parlamentswahl das Land in eine Blockade geführt hat.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-04T09:43:26+00:00",
+   "tag": null
+  },
+  {
    "id": "18aacbd95a0adf4c",
    "k": "finanzen",
    "titel": "BMW erwirtschaftet noch weniger Gewinn",
@@ -1765,6 +2041,30 @@
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-04T08:21:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "236206242c4154f2",
+   "k": "finanzen",
+   "titel": "In der deutschen Metall- und Elektroindustrie könnten weitere 300.000 Jobs wegfallen",
+   "t": "Der Arbeitgeberverband Gesamtmetall warnt vor dem Abbau von weiteren 300.000 Jobs in der Metall- und Elektroindustrie. Die IG Metall fordert in der Tarifrunde fünf Prozent und sieht Managementversagen.",
+   "e": "Der mögliche Stellenabbau in der Schlüsselbranche der deutschen Industrie hat Gewicht für Konjunktur und Tarifkonflikt.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6aeae51d748580e4813c3579/arbeitgeberverband-warnt-in-der-deutschen-metall-und-elektroindustrie-koennten-weitere-300-000-jobs-wegfallen.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T08:09:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "8370b3fafcf43a14",
+   "k": "deutschland",
+   "titel": "Klingbeil will Tabaksteuer-Panne mit rückwirkender Gesetzesänderung reparieren",
+   "t": "Finanzminister Klingbeil will eine Panne bei der Tabaksteuer rückwirkend per Gesetzesänderung korrigieren. Juristen und Teile der Union haben rechtliche Bedenken, die Grünen fordern Aufklärung.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6aeae4d3748580e4813c3565/union-aeussert-rechtliche-bedenken-klingbeil-will-tabaksteuer-panne-mit-rueckwirkender-gesetzesaenderung-reparieren.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T08:05:44+00:00",
    "tag": null
   },
   {
@@ -1840,6 +2140,30 @@
    "tag": null
   },
   {
+   "id": "b7bf4c5ffc7f075f",
+   "k": "usa",
+   "titel": "Learjet Wreckage Found Miles Away From Crash Site, NTSB Says",
+   "t": "Die US-Verkehrsermittler haben Teile eines Learjets gefunden, die weit entfernt von der Absturzstelle lagen. Ein Höhenruder hat sich laut NTSB vor dem Aufprall gelöst.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/us-news/learjet-wreckage-found-miles-away-from-crash-site-ntsb-says-c8af581d?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-03T21:52:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "72bfb8fa15fec2cf",
+   "k": "usa",
+   "titel": "Supreme Court Shows Sympathy for Catholic Schools in Case on LGBTQ Protections",
+   "t": "Der Supreme Court zeigt sich in einem Fall um LGBTQ-Schutzregeln mitfühlend gegenüber katholischen Vorschulen, die staatliche Mittel erhalten wollen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/us-news/law/supreme-court-shows-sympathy-for-catholic-schools-in-case-on-lgbtq-protections-cfa6f0c1?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-03T19:42:00+00:00",
+   "tag": null
+  },
+  {
    "id": "65764ad13795e4a9",
    "k": "deutschland",
    "titel": "Renten könnten 2027 um 4,1 Prozent steigen",
@@ -1849,6 +2173,42 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-03T19:05:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "b8196dce07abfbf8",
+   "k": "deutschland",
+   "titel": "Weitere gefährliche Halloween-Süßigkeiten entdeckt - auch im Ausland",
+   "t": "Es werden weitere manipulierte Halloween-Süßigkeiten mit Nadeln oder Metall gemeldet, auch im Ausland; einige Kinder haben sich verletzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-03T17:02:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "9745b5286a4a2e5f",
+   "k": "usa",
+   "titel": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
+   "t": "Das FBI ermittelt gegen einen Anbieter von Autismus-Therapien, der laut Wall Street Journal bis zu 30.000 Dollar pro Tag abgerechnet haben soll.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-03T16:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "770b9621736d9878",
+   "k": "deutschland",
+   "titel": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
+   "t": "Innenminister Dobrindt verteidigt seine Aussage über „Chaoten“ und „migrantische Milieus“ nach den Krawallen am Wochenende, trotz breiter Kritik.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-03T16:14:29+00:00",
    "tag": null
   },
   {
@@ -1876,6 +2236,18 @@
    "tag": null
   },
   {
+   "id": "5dc267e4ba9ea508",
+   "k": "nrw",
+   "titel": "Hemer: Dauerbaustelle am Schopenhauerweg in Höcklingsen ab nächste Woche Montag - News.de",
+   "t": "In Hemer-Höcklingsen wird am Schopenhauerweg ab kommenden Montag eine seit Langem andauernde Baustelle fortgesetzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOcUNQM2d0MUE2cV9FS193Q3FTc2RzcmlFeDNCSWpYY0MzWnNRMndLSENNaUNCU2JTS2dTNEZtaXNqcEV4SXdCZWtXOVU0OVp1U2ZmMDBmRVMzYnlCRzlOZHF5NjdxZS1OWkxBVzJDSXBpODBZS2QwQUJuVFVoV3VHakVOTU90Ujh4MVBQZkQ0OVBJOHlLVEFNV0o0VkIwZ09NajBHTWR6cjVhdHdSam9tSGZiVGxLRko1U1dadUY4TDNfTjd3aEhfeXhEem53MDZKTGxCY1Z6clluWVhCcVlSV01hRl9xcS1kM2VDcEhVbW1VUVkzUjA4dlBBemFyOXBiaXlwTnhyb2NXb0dGdDVnYkNGd24zSk5MMGtMWjd3NkRKQlFMY2lXanh5UVJoNHdaZjJkWDF3dV85UGN3Z0dPNk16MTRLdWUyS0hWMW02TzVRSXQyRUIzRi1rSlVaZw?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-03T15:36:02+00:00",
+   "tag": null
+  },
+  {
    "id": "a6f3280c58325824",
    "k": "nrw",
    "titel": "Iserlohn: Baarstraße wird am Wochenende 6. bis 8. November Einbahnstraße - IKZ-Online",
@@ -1898,30 +2270,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-03T14:59:40+00:00",
    "tag": null
-  },
-  {
-   "id": "559dea2037d112d0",
-   "k": "finanzen",
-   "titel": "Nach Angriff auf Ziele in Iran: Der Ölpreis legt wieder zu",
-   "t": "Nach Angriffen auf Ziele im Iran steigt der Ölpreis wieder. Heizöl kostet in Deutschland fast doppelt so viel wie im Vorjahr.",
-   "e": "Der Ölpreis wirkt direkt auf Inflation und Energiekosten in Deutschland.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/oelpreis-steigt-nach-us-angriffen-auf-iran-wieder-201646880.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-03T14:09:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "d184134b0b50e188",
-   "k": "deutschland",
-   "titel": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-   "t": "Hacker haben in der Nacht in mehreren Supermärkten in Deutschland Kühlanlagen umgestellt, sodass Temperaturen auf 50 Grad statt 5 Grad stiegen. Große Mengen Lebensmittel mussten entsorgt werden.",
-   "e": "Der Fall zeigt, wie verwundbar vernetzte Betriebstechnik inzwischen ist.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-03T13:49:27+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1934,17 +2282,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Welt",
@@ -1964,7 +2312,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "NZZ",
@@ -2034,7 +2382,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Google News NRW",
@@ -2049,12 +2397,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 7
+    "n": 8
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 30
    }
   ],
   "markt": []
