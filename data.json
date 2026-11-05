@@ -1,10 +1,10 @@
 {
- "aktualisiert": "2026-11-05T11:21:52.532655+00:00",
+ "aktualisiert": "2026-11-05T13:25:24.431664+00:00",
  "markt": [
   {
    "name": "DAX",
-   "wert": "26.622",
-   "delta": 0.6962416834348062
+   "wert": "26.576",
+   "delta": 0.5240252962322112
   },
   {
    "name": "S&P 500",
@@ -17,22 +17,292 @@
    "delta": 1.436639185236488
   },
   {
-   "name": "BTC",
-   "wert": "71.487 €",
-   "delta": 2.3221026074882687
+   "name": "Bitcoin",
+   "wert": "70.959 €",
+   "delta": 2.1180390595621965
   },
   {
-   "name": "ETH",
-   "wert": "2.153 €",
-   "delta": 3.9063371170029746
+   "name": "Ethereum",
+   "wert": "2.128 €",
+   "delta": 3.549219733081943
   },
   {
    "name": "EUR/USD",
    "wert": "1,1267",
    "delta": null
+  },
+  {
+   "name": "Gold",
+   "wert": "4.129 $",
+   "delta": 1.3724527375398976
+  },
+  {
+   "name": "EZB Einlagesatz",
+   "wert": "2,50 %",
+   "delta": null
+  },
+  {
+   "name": "US 10J-Rendite",
+   "wert": "4,89 %",
+   "delta": null
   }
  ],
+ "basiszins_seit": null,
+ "briefing": {
+  "slot": 12,
+  "stand": "2026-11-05T13:25:24.431644+00:00",
+  "punkte": [
+   {
+    "k": "finanzen",
+    "t": "Der DAX steigt auf ein neues Rekordhoch bei 26.576 Punkten und übertrifft den Höchststand vom August. Auslöser sind laut Meldung der Sieg der US-Demokraten bei den Zwischenwahlen und sinkende Ölpreise."
+   },
+   {
+    "k": "finanzen",
+    "t": "Bei den Zinsen hebt die Bank of England ihren Leitzins auf 4,0 Prozent an, die erste Erhöhung seit drei Jahren, und Schweden erhöht trotz Inflation unter Ziel ebenfalls. Der EZB-Einlagesatz liegt bei 2,50 %, die US-Rendite zehnjähriger Anleihen bei 4,89 %. Die Erzeugerpreise sind im September um fast elf Prozent gestiegen, was als Inflationswarnsignal gilt."
+   },
+   {
+    "k": "usa",
+    "t": "Die Demokraten gewinnen die US-Zwischenwahlen deutlich und übernehmen die Mehrheit in beiden Kammern des Kongresses. Im MAGA-Lager wächst nach dem Wahldebakel die Kritik an Präsident Trump."
+   },
+   {
+    "k": "welt",
+    "t": "Iran meldet erneut Schiffsbrände in der Straße von Hormus, und die Ölpreise fallen auf den tiefsten Stand seit Anfang September. Die Huthis greifen nach eigenen Angaben erneut einen Flughafen in Riad an."
+   },
+   {
+    "k": "nrw",
+    "t": "NRW-Innenminister Herbert Reul will uniformierte Polizisten in Asylunterkünften einsetzen. Die Meldung ist Teil der aktuellen Migrationspolitik-Debatte im Land."
+   }
+  ]
+ },
  "items": [
+  {
+   "id": "ddfa05b85ccb4303",
+   "k": "welt",
+   "titel": "Mindestlohn: Generalstreik und Proteste für höhere Löhne in Frankreich",
+   "t": "In Frankreich formieren sich Proteste und ein Generalstreik für höhere Löhne. Die Gewerkschaften fordern eine Anhebung des Mindestlohns und der übrigen Gehälter.",
+   "e": "Die Lohnforderungen kommen in einer Phase angespannter Finanzen und hoher Preise in Frankreich.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/mindestlohn-generalstreik-und-proteste-fuer-hoehere-loehne-in-frankreich/100265850.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T13:21:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "380a0fc1938b8907",
+   "k": "usa",
+   "titel": "Die Demokraten erringen einen Wahltriumph, mit historischen Siegen in konservativen Hochburgen – die Resultate im Überblick",
+   "t": "Die Demokraten gewinnen die US-Zwischenwahlen deutlich und übernehmen nach zwei Jahren in der Opposition die Macht in beiden Kammern des Kongresses.",
+   "e": "Präsident Trump gilt laut Bericht als Belastung für die Republikaner; der Ausgang kann Politik, Handel und Märkte in den USA beeinflussen.",
+   "s": 8,
+   "link": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T13:19:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "3be8c8403d4336db",
+   "k": "deutschland",
+   "titel": "Migranten setzen Zeichen: Zahlreiche Geschäfte in Halle schließen aus Protest gegen Rassismus",
+   "t": "In Halle schließen zahlreiche Geschäfte für mehrere Stunden aus Protest gegen Rassismus.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/laeden-bleiben-zu-demonstration,migranten-streik-102.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T13:15:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "ab57b30c80993f29",
+   "k": "finanzen",
+   "titel": "Telekommunikation: „Wettbewerbsumfeld hat sich verschärft“: Höttges rechnet mit Musk als Netzbetreiber in den USA",
+   "t": "Telekom-Chef Höttges rechnet erstmals offen mit Elon Musk als künftigem Konkurrenten in den USA, wo die Telekom ihr größtes Geschäft hat.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/it-internet/mobilfunk-hoettges-rechnet-mit-musk-als-viertem-netzbetreiber-in-den-usa/100266647.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T13:13:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "3e6306242ab28c83",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: Iran berichtet von erneuten Schiffsbränden in Straße von Hormus",
+   "t": "Iran meldet erneut Schiffsbrände in der Straße von Hormus. Die Ölpreise fallen auf den tiefsten Stand seit Anfang September, zugleich greifen die Huthis nach eigenen Angaben erneut einen Flughafen in Riad an.",
+   "e": "Der Ölpreis beeinflusst Benzin- und Energiepreise sowie die Inflation, die Lage im Iran-Krieg bleibt angespannt.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-berichtet-von-erneuten-schiffsbraenden-in-strasse-von-hormus/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T13:11:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "6a960bbfbf3cbb83",
+   "k": "nrw",
+   "titel": "Iserlohn: AfD-Antrag zu Migranten-Workshops wird zur Farce - IKZ-Online",
+   "t": "Die IKZ berichtet über einen AfD-Antrag zu Workshops für Migranten in Iserlohn.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYjlFa004dUl4d1ctdDZXeVlNcUlwZ2MtZ0M4OF81a0xFY1VDYVk1aHlsaG9PRnJXaExJM090cU5uX3NxZGJqSWhYNVAyN0xqSEdjVlNGRnNIQ1lVMkZ6Ym5aR3B2UEFqM1ZnbVpRMU5qS2F0empSR3hyNTFvSC1lR3JWdkZ0eEVMRlhOSWRDSlZZNG1DQ2ZPZ29XTXpoZkFfZ095SDlsY3JUNlRFeFhEbEEwdmZPZG5sZmVLV2RUSQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-05T13:01:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "323f0888bca88464",
+   "k": "usa",
+   "titel": "MAGA-Lager zerfällt: „Schuld hat Trump, ihr Idioten“",
+   "t": "Nach dem Wahldebakel der Republikaner kritisieren auch konservative Medien Präsident Trump scharf.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/konservative-us-medien-loesen-sich-aus-trumps-wuergegriff-accg-201653960.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T13:00:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "077b8bd72b42e500",
+   "k": "deutschland",
+   "titel": "Aufarbeitung: Wie Zwickau sich der Geschichte des NSU stellt",
+   "t": "Zwickau gedenkt fünfzehn Jahre nach der Enttarnung des NSU der Opfer, Angehörige sprechen im Dom.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/nsu-gedenken-in-zwickau-wie-die-stadt-ihre-geschichte-aufarbeitet-accg-201645131.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T12:57:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "b603a54a22ae1351",
+   "k": "welt",
+   "titel": "What the Democratic midterms sweep changes for U.S.-China relations",
+   "t": "Analysten sehen nach dem Wahlsieg der Demokraten wachsende Risiken für Trumps fragile Handelswaffenruhe mit China.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T12:57:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "c6d423772370a625",
+   "k": "deutschland",
+   "titel": "Christian Freuding steigt zum Generalinspekteur der Bundeswehr auf",
+   "t": "Generalleutnant Christian Freuding wird Anfang Februar 2027 neuer Generalinspekteur der Bundeswehr und löst General Carsten Breuer ab.",
+   "e": "Der Generalinspekteur ist der ranghöchste Soldat der Bundeswehr, der Wechsel fällt in eine Phase hoher Investitionen in die Truppe.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6aec7abbc7da7601aa4f89e9/verteidigung-christian-freuding-steigt-zum-generalinspekteur-der-bundeswehr-auf.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T12:53:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "e807bb08c3370ef0",
+   "k": "finanzen",
+   "titel": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+   "t": "Die ukrainische Zentralbank lehnt einen Krypto-Gesetzentwurf ab und verweist auf Bedenken zur monetären Souveränität.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T12:50:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "05cb1c527fb54422",
+   "k": "welt",
+   "titel": "Die Ausschreitungen in Kiew werfen ein Schlaglicht auf das Rekrutierungsproblem der Ukraine",
+   "t": "Bei Ausschreitungen in Kiew entlädt sich Gewalt rund um die Mobilisierung von Soldaten für die Front.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/plus6aec62c409e0301c03e806ec/warnschuesse-und-traenengas-die-ausschreitungen-in-kiew-werfen-ein-schlaglicht-auf-das-rekrutierungsproblem-der-ukraine.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T12:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "40576ba7dd90406f",
+   "k": "nrw",
+   "titel": "Migrationspolitik: NRW-Innenminister Reul will uniformierte Polizisten in Asylunterkünften einsetzen - WELT",
+   "t": "NRW-Innenminister Herbert Reul will uniformierte Polizisten in Asylunterkünften einsetzen.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc2JWQXRkT2hxV1ZEZmpSVTZmWGZaSElnYS02VUZUR000WWZXQkdxTTQ4OExMWFJJTmF5cWNNU1FkYkI5TzJhYmJEUDJXVk1hUmE3aU9EeUM0ZVdJaHItUkJsNFROR3ROYWs3anFGSElNRkdCZW9EM2I0dmZ0S0xnbmkzVXYwSnhTNWtIdlFRMzFKUGI1Rk9kT3hDT0xScGYyYkY2VHdWR183aGtTMWdpZURlbjdjWHlJOXZvU3NXcGtqMGpPMUpMbXFBM01jQUM4VXk0TlhOdmlFb093eExCTVFuRVRINzJsLXJHOHpPWHdsdG0wazNOT21DZXJpblhYNjQ5WW1tM3E?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-05T12:49:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "9fa982cb24dc0e9c",
+   "k": "finanzen",
+   "titel": "Bank of England hebt Leitzins auf 4,0 Prozent an - FAZ",
+   "t": "Die Bank of England hebt ihren Leitzins auf 4,0 Prozent an. Es ist die erste Zinserhöhung seit drei Jahren.",
+   "e": "Die Entscheidung zeigt, dass britische Notenbanker den Kampf gegen die Inflation wieder stärker gewichten.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHdxdEpNN1cyVV9xYnE0aTIxU0NrR01mWWFEUFlqQVFkMmRQUUZxOVpaVWh0MUxSWUM3MjJ3ZFZDNEdjWkYxSFd6dHlaRVVrZUJTUGVYYURPNUdMMVRRRjdBdnprSnFyQXdtUWNpRFJiN1lhZVJ3N3BoNE5mWDJUbmtodWNwMjJyeUFXVHRTQVNEdW1YaFY5bEdKN1VKZVpHN1oyeF9CNkQ?oc=5",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T12:49:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c69e5ec2ddebff1",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Mahnmal an jüdischem Friedhof in Bad Berleburg beschädigt - n-tv.de",
+   "t": "Ein Mahnmal am jüdischen Friedhof in Bad Berleburg wurde beschädigt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUdfdjdNWTJGUDF2NG5OaDFUTGdNb21BczJTUmh6elJLRk9xUF9ndC01SjNrSmRhSU1ldkRrQUQxWVZ3cGY3cTN2Q1hCWHhpaElOUHNSY09VT1NwQ2g0bFRXemN2NHozWnNId24tRG1ZT2xVTXUzXzQta2FjZ01DcmJJXzNxN2xqWjI2Q0dFM281Rjl3c2xpRUtZbXZJeV8wbWFkeG03TTFma2JERjR5dkRVcG9xbUhuWjd0bjg3WnJjV2xz?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-05T12:47:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "aee4ccca2c5578cd",
+   "k": "finanzen",
+   "titel": "Robot maker Agility starts trading today — but its steep losses are raising red flags",
+   "t": "Der Roboterhersteller Agility startet nach einer SPAC-Fusion an der Börse, weist aber hohe Verluste auf.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/robot-maker-agility-starts-trading-today-but-its-steep-losses-are-raising-red-flags-f97c2cee?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-05T12:43:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "06a7c7e5f2b91c40",
+   "k": "finanzen",
+   "titel": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
+   "t": "SkyBridge-Gründer Anthony Scaramucci sieht Trumps Memecoin-Geschäfte als Grund für das Stocken des CLARITY Act. Auch Streit über Ethikregeln habe die Verhandlungen belastet.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T12:39:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "eee3a4c7413ed4df",
+   "k": "nrw",
+   "titel": "Iserlohn: Bauarbeiten an der Baarstraße verschoben - IKZ-Online",
+   "t": "In Iserlohn wurden die Bauarbeiten an der Baarstraße verschoben.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEpGNnJZMUdXNGVoN3RjR01XMnlqbEU3TVVvS2NnSDNtT1R5QVE1MUlyakpmaUxtSnNzdjdTRnd0ZE0tTHVERFRISXdaeHZkNENsb3dYcnhDYTlVclFkN2JzeUJVV0tvSzJBbXJiYmVSRzJreDk0M21IWXlpM292bXJTTG94a3EteXhqM0xQZXI2aHZWUDMwUjNacVNhWXJwYjlFTXRndXpBdDlicGYwTV9JSkpSZw?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-05T12:00:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf90db58513fcb61",
+   "k": "finanzen",
+   "titel": "Thailand to block Bitget in December over unlicensed crypto trading",
+   "t": "Thailands Börsenaufsicht hat Anzeige gegen den Betreiber von Bitget erstattet. Ab dem 5. Dezember soll der Zugang zur Website und App gesperrt werden.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T11:33:20+00:00",
+   "tag": null
+  },
   {
    "id": "04b0de4fdcacc230",
    "k": "finanzen",
@@ -419,6 +689,18 @@
    "tag": null
   },
   {
+   "id": "0e74595fe85d862a",
+   "k": "finanzen",
+   "titel": "Die Grenzen des Rheinmetall-Aufstiegs",
+   "t": "Rheinmetall erhält viele Bestellungen, wächst aber nicht wie erhofft. Der Aktienkurs hat sich nach Angaben von WELT halbiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6ae5c9e6aedea8cd9ffbf37d/ende-des-ruestungswunders-jetzt-zeigen-sich-die-grenzen-des-rheinmetall-aufstieges.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-05T06:19:07+00:00",
+   "tag": null
+  },
+  {
    "id": "f9828f8031a741c3",
    "k": "nrw",
    "titel": "Milliarden Jahre alt: Welche spektakulären Funde dieser Iserlohner gemacht hat - IKZ-Online",
@@ -438,6 +720,18 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnRyVk5seThjb1RPa2lJN2hqdldNTmlwWDQ1Q1JZTy1zT1phcGxFRGpYekl1dGNhanpXQW1NbGNvQjAwRzY1djZGSU1XY2Zadl9rdVRld2FYcGJrU0MxT05OTnNjN2NsV0QxaV84ek85N2dMYlFCdTZOSjJ2eGY1bmJfTjVIbWpGYUF0bWpTb3N1d0NSWDdXSTJ0LU9hUFhVa0hQX29zdURCTjRwMHV6UWtqM3dxMHl0X1Rybk1qNHB2UGRYMGNUZS01T0M4YUVKVl9sejR2NG1tQS1oR2NQaGV3MFdVRmNzZjhMemxmY1VlUXd6?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-05T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a1af74ec7fcb0c35",
+   "k": "nrw",
+   "titel": "Meinerzhagen: Verkehrsstörungen auf der A45 nahe Rothenstein heute, am 05.11.2026 - News.de",
+   "t": "Auf der A45 nahe Rothenstein bei Meinerzhagen gibt es am 5. November 2026 Verkehrsstörungen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQX21USHNJOWkta0dnM0pXemJQNFpQZUp6cy1udWlKcXBCQ3UtWTlnVzAyRUVqQkhRbWhaOFZUWjlKUHBhNUZ4WEJFNlFmbmJsVHFxNUNKZThwd0s3UjZUc3ZLN1dNdEI2NWtQRjBkQ191ZDNjOFR2dEpJYWxVVXlwX2VZaEVtYmgwd1lWcHV1c2xZZUFTNjhORjdsanVlcE5SLXBDUFctbnRmQjBpVjhna2Z2TWpmRXRNUTRYQTFNX2xWZHV6SHJ3bVdNekdwRF9mT0lPREFSNjE2cEdEZWZtTElvbnpDQ203OG5ZajVrYmZJQU03MWVxdkdJY0pIM1pJT0s3RHdsZW8yRkVPUnhhY0RMSWRqQ3lQUFNZbEdvcUtuMlVVYUZpTDR0Z1ZGTEJxYmgxbjFnWHpvVU5PbEpPNmEtZXM2NlU?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-05T05:47:00+00:00",
    "tag": null
   },
   {
@@ -485,6 +779,66 @@
    "tag": null
   },
   {
+   "id": "0c21eca645bb5c1e",
+   "k": "finanzen",
+   "titel": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+   "t": "Die Niederlande haben den früheren Zentralbankchef Klaas Knot offiziell für den Chefposten der EZB nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge von Christine Lagarde.",
+   "e": "Die Besetzung der EZB-Spitze bestimmt die Geldpolitik der Eurozone mit, Knot bringt Erfahrung aus der niederländischen Notenbank mit.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-04T14:30:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "561428ed409efd5c",
+   "k": "usa",
+   "titel": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
+   "t": "Elon Musk hat rund eine halbe Milliarde Dollar in den US-Wahlkampf investiert, seine Unterstützer verloren aber auf breiter Front.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-04T11:20:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "4e3977f2c25b9fea",
+   "k": "finanzen",
+   "titel": "Inflation im Euroraum steigt auf 4,0 Prozent",
+   "t": "Die Inflation im Euroraum ist im Oktober auf 4,0 Prozent gestiegen, der höchste Stand seit September 2023. Treiber sind vor allem die hohen Energiepreise.",
+   "e": "Die Rate liegt deutlich über dem EZB-Ziel von 2 Prozent und erhöht den Druck auf die Geldpolitik.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-04T11:12:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "18aacbd95a0adf4c",
+   "k": "finanzen",
+   "titel": "BMW erwirtschaftet noch weniger Gewinn",
+   "t": "BMW verzeichnet im dritten Quartal einen weiter sinkenden Gewinn. Ursachen sind die Absatzkrise in China sowie Abfindungen und das vorgezogene Aus älterer Modelle.",
+   "e": "Die Schwäche im chinesischen Markt belastet einen der wichtigsten deutschen Autobauer.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-04T08:21:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "54f37c776c8b2e32",
+   "k": "finanzen",
+   "titel": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+   "t": "Fluggesellschaften klagen über hohe Steuern und Abgaben in Deutschland und haben zuletzt zahlreiche Verbindungen gestrichen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-04T05:23:01+00:00",
+   "tag": null
+  },
+  {
    "id": "9d685cdf17b5bbf7",
    "k": "usa",
    "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
@@ -495,5 +849,103 @@
    "zeit": "2026-11-03T13:33:11+00:00",
    "tag": null
   }
- ]
+ ],
+ "status": {
+  "feeds": [
+   {
+    "name": "Tagesschau",
+    "ok": true,
+    "n": 39
+   },
+   {
+    "name": "Tagesschau Wirtschaft",
+    "ok": true,
+    "n": 13
+   },
+   {
+    "name": "Welt",
+    "ok": true,
+    "n": 30
+   },
+   {
+    "name": "Welt Wirtschaft",
+    "ok": true,
+    "n": 30
+   },
+   {
+    "name": "FAZ",
+    "ok": true,
+    "n": 38
+   },
+   {
+    "name": "FAZ Finanzen",
+    "ok": true,
+    "n": 14
+   },
+   {
+    "name": "NZZ",
+    "ok": true,
+    "n": 16
+   },
+   {
+    "name": "Handelsblatt",
+    "ok": true,
+    "n": 40
+   },
+   {
+    "name": "CNBC",
+    "ok": true,
+    "n": 30
+   },
+   {
+    "name": "CNBC Finance",
+    "ok": true,
+    "n": 4
+   },
+   {
+    "name": "MarketWatch",
+    "ok": true,
+    "n": 10
+   },
+   {
+    "name": "CoinDesk",
+    "ok": true,
+    "n": 25
+   },
+   {
+    "name": "Cointelegraph",
+    "ok": true,
+    "n": 30
+   },
+   {
+    "name": "Google News Iserlohn",
+    "ok": true,
+    "n": 22
+   },
+   {
+    "name": "Google News Märkischer Kreis",
+    "ok": true,
+    "n": 16
+   },
+   {
+    "name": "Google News NRW",
+    "ok": true,
+    "n": 40
+   },
+   {
+    "name": "Google News Zinsen",
+    "ok": true,
+    "n": 40
+   },
+   {
+    "name": "Google News USA",
+    "ok": true,
+    "n": 15
+   }
+  ],
+  "markt": [
+   "EZB Einlagesatz: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=20)",
+   "Fed Funds: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=20)"
+  ]
+ }
 }
