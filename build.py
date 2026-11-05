@@ -208,8 +208,17 @@ def make_briefing(items, markt, slot, api_key):
     mk = ", ".join(f"{m['name']} {m['wert']}" for m in markt) or "keine"
     user = "Marktdaten: " + mk + "\n\nMeldungen:\n" + "\n".join(
         f"- [{i['k']}] ({i['s']}) {i['titel']}: {i['t']}" for i in frisch)
-    text = call_claude(system, user, api_key, 1500)
-    obj = parse_json_part(text, "{", "}")
+    obj, letzter = None, None
+    for _ in range(3):  # bis zu 3 Versuche, falls die Antwort abgeschnitten oder kein gueltiges JSON ist
+        try:
+            text = call_claude(system, user, api_key, 3000)
+            obj = parse_json_part(text, "{", "}")
+            break
+        except Exception as ex:
+            letzter = ex
+            log("Briefing-Versuch fehlgeschlagen:", ex)
+    if obj is None:
+        raise letzter
     punkte = []
     for p in obj.get("punkte", []):
         t = str(p.get("t", "")).strip()
