@@ -116,7 +116,7 @@ function colorOf(k){return "var(--c-"+k+")"}
 
 function renderHero(){
   const h=new Date().getHours();
-  document.getElementById("gruss").textContent=h<5?"Gute Nacht":h<11?"Guten Morgen":h<18?"Guten Tag":"Guten Abend";
+  document.getElementById("gruss").textContent=(h<5?"Gute Nacht":h<11?"Guten Morgen":h<18?"Guten Tag":"Guten Abend")+" Jona";
   document.getElementById("datum").textContent=new Date().toLocaleDateString("de-DE",{weekday:"long",day:"numeric",month:"long"});
   const s=document.getElementById("stand");s.textContent="";
   if(DATA.aktualisiert){

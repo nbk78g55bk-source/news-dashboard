@@ -221,8 +221,24 @@ def make_briefing(items, markt, slot, api_key):
 
 
 # ---------------------------------------------------------------- Markt
+DEFAULT_MARKT = [
+    {"name": "iShares MSCI World", "quelle": "yahoo", "symbol": "EUNL.DE", "fmt": "eur"},
+    {"name": "iShares MSCI Emerging Markets", "quelle": "yahoo", "symbol": "IS3N.DE", "fmt": "eur"},
+    {"name": "Deka S&P 500", "quelle": "yahoo", "symbol": "D6RI.DE", "fmt": "eur"},
+    {"name": "Deka Nasdaq-100", "quelle": "yahoo", "symbol": "D6RH.DE", "fmt": "eur"},
+    {"name": "Deka DAX", "quelle": "yahoo", "symbol": "EL4A.DE", "fmt": "eur"},
+    {"name": "Bitcoin", "quelle": "krypto", "id": "bitcoin"},
+    {"name": "Ethereum", "quelle": "krypto", "id": "ethereum"},
+    {"name": "Gold", "quelle": "yahoo", "symbol": "GC=F", "fmt": "usd"},
+    {"name": "EZB Zins", "quelle": "ezb"},
+    {"name": "Fed Funds", "quelle": "fed"},
+]
+
+
 def markt_daten(cfg):
-    out, status = [], []
+    """Marktleiste: Reihenfolge und Inhalt kommen aus config.json ("markt")."""
+    entries = cfg.get("markt") or DEFAULT_MARKT
+    out, status, cache = [], [], {}
 
     def add(name, wert, delta=None):
         out.append({"name": name, "wert": wert, "delta": delta})
@@ -231,10 +247,11 @@ def markt_daten(cfg):
         status.append(f"{name}: {str(ex)[:100]}")
         log("Markt-Fehler", name, ex)
 
-    def yahoo(sym, name, fmt):
+    def yahoo(e):
+        name, sym, fmt = e["name"], e["symbol"], e.get("fmt", "idx")
         try:
             r = requests.get(
-                f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?interval=1d&range=5d",
+                f"https://query1.finance.yahoo.com/v8/finance/chart/{requests.utils.quote(sym, safe='')}?interval=1d&range=5d",
                 headers=UA, timeout=15)
             res = r.json()["chart"]["result"][0]
             price = res["meta"]["regularMarketPrice"]
@@ -245,79 +262,84 @@ def markt_daten(cfg):
                 add(name, de(price, 2) + " %")
             elif fmt == "usd":
                 add(name, de(price, 0) + " $", delta)
+            elif fmt == "eur":
+                add(name, de(price, 2) + " €", delta)
             else:
                 add(name, de(price, 0), delta)
         except Exception as ex:
             fail(name, ex)
 
-    def fred(series, name):
+    def krypto(e):
+        name, cid = e["name"], e["id"]
         try:
-            r = requests.get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}", headers=UA, timeout=12)
-            r.raise_for_status()
-            rows = [l.split(",") for l in r.text.strip().splitlines()[1:]]
-            for d, v in reversed(rows):
-                if v.strip() not in (".", ""):
-                    add(name, de(float(v), 2) + " %")
-                    return True
-            raise ValueError("keine Werte")
+            if "krypto" not in cache:
+                ids = ",".join(sorted({x["id"] for x in entries if x.get("quelle") == "krypto"}))
+                r = requests.get(
+                    f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=eur&include_24hr_change=true",
+                    headers=UA, timeout=15)
+                cache["krypto"] = r.json()
+            j = cache["krypto"][cid]
+            add(name, de(j["eur"], 0) + " €", j.get("eur_24h_change"))
         except Exception as ex:
             fail(name, ex)
-            return False
 
-    yahoo("%5EGDAXI", "DAX", "idx")
-    yahoo("%5EGSPC", "S&P 500", "idx")
-    yahoo("%5EIXIC", "Nasdaq", "idx")
-
-    try:
-        r = requests.get(
-            "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=eur&include_24hr_change=true",
-            headers=UA, timeout=15)
-        j = r.json()
-        add("Bitcoin", de(j["bitcoin"]["eur"], 0) + " €", j["bitcoin"].get("eur_24h_change"))
-        add("Ethereum", de(j["ethereum"]["eur"], 0) + " €", j["ethereum"].get("eur_24h_change"))
-    except Exception as ex:
-        fail("Krypto", ex)
-
-    try:
-        r = requests.get("https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD", headers=UA, timeout=15)
-        add("EUR/USD", de(r.json()["rates"]["USD"], 4))
-    except Exception as ex:
-        fail("EUR/USD", ex)
-
-    yahoo("GC%3DF", "Gold", "usd")
-
-    # Zinsen: EZB direkt (klappt), FRED nur als Reserve
-    ezb_ok = False
-    try:
-        r = requests.get(
-            "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?lastNObservations=1&format=jsondata",
-            headers={**UA, "Accept": "application/json"}, timeout=15)
+    def fred(series):
+        r = requests.get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}", headers=UA, timeout=12)
         r.raise_for_status()
-        series = next(iter(r.json()["dataSets"][0]["series"].values()))
-        val = next(iter(series["observations"].values()))[0]
-        add("EZB Einlagesatz", de(val, 2) + " %")
-        ezb_ok = True
-    except Exception as ex:
-        fail("EZB", ex)
-    if not ezb_ok:
-        fred("ECBDFR", "EZB Einlagesatz")
+        rows = [l.split(",") for l in r.text.strip().splitlines()[1:]]
+        for d, v in reversed(rows):
+            if v.strip() not in (".", ""):
+                return float(v)
+        raise ValueError("keine Werte")
 
-    # Fed: Effective Federal Funds Rate direkt von der New Yorker Fed, FRED als Reserve
-    fed_ok = False
-    try:
-        r = requests.get("https://markets.newyorkfed.org/api/rates/unsecured/effr/last/1.json", headers=UA, timeout=15)
-        r.raise_for_status()
-        add("Fed Funds", de(float(r.json()["refRates"][0]["percentRate"]), 2) + " %")
-        fed_ok = True
-    except Exception as ex:
-        fail("Fed (NY Fed)", ex)
-    if not fed_ok:
-        fred("DFF", "Fed Funds")
-    yahoo("%5ETNX", "US 10J-Rendite", "rate")
+    def ezb(e):
+        name = e["name"]
+        try:
+            r = requests.get(
+                "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?lastNObservations=1&format=jsondata",
+                headers={**UA, "Accept": "application/json"}, timeout=15)
+            r.raise_for_status()
+            series = next(iter(r.json()["dataSets"][0]["series"].values()))
+            val = next(iter(series["observations"].values()))[0]
+        except Exception as ex1:
+            try:
+                val = fred("ECBDFR")
+            except Exception as ex2:
+                return fail(name, f"{ex1} / {ex2}")
+        add(name, de(val, 2) + " %")
 
-    bz = cfg.get("basiszins")
-    if bz and bz.get("wert"):
-        add("Basiszins § 247 BGB", bz["wert"])
+    def fed(e):
+        name = e["name"]
+        try:
+            r = requests.get("https://markets.newyorkfed.org/api/rates/unsecured/effr/last/1.json", headers=UA, timeout=15)
+            r.raise_for_status()
+            val = float(r.json()["refRates"][0]["percentRate"])
+        except Exception as ex1:
+            try:
+                val = fred("DFF")
+            except Exception as ex2:
+                return fail(name, f"{ex1} / {ex2}")
+        add(name, de(val, 2) + " %")
+
+    def eurusd(e):
+        try:
+            r = requests.get("https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD", headers=UA, timeout=15)
+            add(e["name"], de(r.json()["rates"]["USD"], 4))
+        except Exception as ex:
+            fail(e["name"], ex)
+
+    def basiszins(e):
+        bz = cfg.get("basiszins")
+        if bz and bz.get("wert"):
+            add(e["name"], bz["wert"])
+
+    handler = {"yahoo": yahoo, "krypto": krypto, "ezb": ezb, "fed": fed, "eurusd": eurusd, "basiszins": basiszins}
+    for e in entries:
+        h = handler.get(e.get("quelle"))
+        if h:
+            h(e)
+        else:
+            fail(e.get("name", "?"), "unbekannte Quelle")
     return out, status
 
 
