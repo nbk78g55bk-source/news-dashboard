@@ -1,59 +1,54 @@
 {
- "aktualisiert": "2026-11-05T13:30:28.962142+00:00",
+ "aktualisiert": "2026-11-05T13:41:54.585420+00:00",
  "markt": [
   {
-   "name": "DAX",
-   "wert": "26.591",
-   "delta": 0.5811029435611514
+   "name": "iShares MSCI World",
+   "wert": "130,90 €",
+   "delta": 0.3218916969754959
   },
   {
-   "name": "S&P 500",
-   "wert": "7.689",
-   "delta": 1.5814684176939764
+   "name": "iShares MSCI Emerging Markets",
+   "wert": "44,45 €",
+   "delta": -1.3426572455668584
   },
   {
-   "name": "Nasdaq",
-   "wert": "25.737",
-   "delta": 1.436639185236488
+   "name": "Deka S&P 500",
+   "wert": "142,84 €",
+   "delta": 0.4041757374044552
+  },
+  {
+   "name": "Deka Nasdaq-100",
+   "wert": "178,86 €",
+   "delta": -0.511735891391496
+  },
+  {
+   "name": "Deka DAX",
+   "wert": "232,50 €",
+   "delta": 0.6275684609782894
   },
   {
    "name": "Bitcoin",
-   "wert": "70.978 €",
-   "delta": 2.0464985556925073
+   "wert": "70.991 €",
+   "delta": 2.1455248336029755
   },
   {
    "name": "Ethereum",
-   "wert": "2.129 €",
-   "delta": 3.5125812023635183
-  },
-  {
-   "name": "EUR/USD",
-   "wert": "1,1267",
-   "delta": null
+   "wert": "2.127 €",
+   "delta": 3.4189496129455086
   },
   {
    "name": "Gold",
-   "wert": "4.125 $",
-   "delta": 1.2717898355020907
+   "wert": "4.123 $",
+   "delta": 1.2202307881168606
   },
   {
-   "name": "EZB Einlagesatz",
+   "name": "EZB Zins",
    "wert": "2,50 %",
    "delta": null
   },
   {
    "name": "Fed Funds",
    "wert": "3,88 %",
-   "delta": null
-  },
-  {
-   "name": "US 10J-Rendite",
-   "wert": "4,89 %",
-   "delta": null
-  },
-  {
-   "name": "Basiszins § 247 BGB",
-   "wert": "1,52 %",
    "delta": null
   }
  ],
@@ -85,6 +80,90 @@
   ]
  },
  "items": [
+  {
+   "id": "5461590f7a566f87",
+   "k": "welt",
+   "titel": "LIVE-TICKER - Krieg in der Ukraine: EU zahlt Milliarden an Ukraine +++ Selenski hofft auf diplomatische Fortschritte",
+   "t": "Die EU zahlt der Ukraine Milliarden, während Präsident Selenski auf diplomatische Fortschritte hofft. Russland führt den Krieg seit über vier Jahren.",
+   "e": "Die finanzielle Unterstützung ist ein zentraler Faktor für die Stabilität der Ukraine und der europäischen Haushalte.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T13:39:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "c78d177fe73086ed",
+   "k": "finanzen",
+   "titel": "EZB: Digitaler Euro nicht gegen Banken gerichtet - FinanzBusiness",
+   "t": "Die EZB betont, dass der digitale Euro nicht gegen Banken gerichtet sei.",
+   "e": "Der digitale Euro ist ein Projekt der Notenbank und berührt das Geschäftsmodell der Banken im Zahlungsverkehr.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ib2lIem9OZUNTcERNVlZxbmFYbjNKZDRnMXA3ZTc4aXFQWG5jVFlIRjU0ZzhDT1VKdnNLVklMTEJJRUY3RFJ3YlFKQlg2d25Kb0t4WldOZVluZmhyX0IzbUJhX0xRc0NybGM4SHM3VjQ5dw?oc=5",
+   "quelle": "FinanzBusiness",
+   "zeit": "2026-11-05T13:36:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "d95cb8586e5ec13d",
+   "k": "finanzen",
+   "titel": "Die Schweizer Börse ist auf Rekordhoch – sie profitiert von der Krise im Nahen Osten",
+   "t": "Der Schweizer Leitindex SMI erreicht ein Rekordhoch. Die Börse profitiert laut NZZ von der Krise im Nahen Osten und der Unsicherheit rund um KI.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/wirtschaft/die-schweizer-boerse-ist-auf-rekordhoch-sie-profitiert-von-der-krise-im-nahen-osten-ld.10055381",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T13:36:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "21093c7b96e67a8d",
+   "k": "finanzen",
+   "titel": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+   "t": "Das chinesische KI-Labor Moonshot sucht laut CNBC in Europa Mietvereinbarungen für Nvidia-Blackwell-Chips, da US-Exportkontrollen den Import nach China beschränken.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T13:34:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "aad0705740ef372e",
+   "k": "finanzen",
+   "titel": "Tesla, SpaceX, Nebius – die neuen Verlierer des Jahrhundert-Hypes",
+   "t": "Tesla, SpaceX und Nebius geraten nach den US-Midterms unter Druck, nachdem politische Stimmungen gegen zuvor stark gestiegene KI-Favoriten gedreht haben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6aec40870ed738572938c34f/tesla-spacex-nebius-die-neuen-verlierer-des-jahrhundert-hypes.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T13:33:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "517daf0d2445e5a5",
+   "k": "deutschland",
+   "titel": "„Hubert Aiwanger war ein sehr scharfsinniger und politischer Denker“",
+   "t": "Ilse Aigner, Präsidentin des Bayerischen Landtags, würdigt Hubert Aiwanger als scharfsinnigen politischen Denker und prägende Kraft der Freien Wähler.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6aec8197c7da7601aa4f8ada/bayerns-wirtschaftsminister-hubert-aiwanger-war-ein-sehr-scharfsinniger-und-politischer-denker.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T13:30:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "34fa5250be9c3cd9",
+   "k": "nrw",
+   "titel": "„Ändert auf der Straße nichts“: Warum NRW-Rettungsgesetz für Enttäuschung sorgt - WAZ",
+   "t": "Das neue NRW-Rettungsgesetz stößt auf Enttäuschung, weil es nach Kritik die Lage auf der Straße nicht verändert.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0t5WmxOeXlKSHN6a2dndllPRjR2bDEtdUQtVXBxR2FtdnZQbVZfZ3hBdTc2ZkE4WUF2aS1qZVdfV1BQcnB1NWJ3VnRNeTU4MEFqZG1ZSENUc3kwOGFab28wSVlzWDJHdXBFaXJDRFRTV1AtVEJ6TDV2TGxqUnMyQVRwZjJ2WUh1aGJxN25Na19XYkNkb0RfaDNrc0ltMF9oYXVHV0NBUENnRTNpS0hDdFVLeGVwRTB6b1lncXJvMmYwNVFQM1lxWQ?oc=5",
+   "quelle": "WAZ",
+   "zeit": "2026-11-05T13:29:15+00:00",
+   "tag": null
+  },
   {
    "id": "0e46dc260a4839c4",
    "k": "nrw",
@@ -179,6 +258,18 @@
    "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-berichtet-von-erneuten-schiffsbraenden-in-strasse-von-hormus/100136895.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-05T13:11:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "af1b66b2de92ec1b",
+   "k": "finanzen",
+   "titel": "Digitaler Euro: EZB plant KI-Zahlungen und Offline-Betrieb - iphone-ticker.de",
+   "t": "Die EZB plant für den digitalen Euro KI-gestützte Zahlungen und einen Offline-Betrieb.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWRHaTlIZWJiemI3eXVxVmxHdHlta2xkdVpXY01DcWt5MzkzWUg0VXZNd3VoVHRkQkJZZmhMQ2VsUUltNVAzQjhFU3dJMW4yZndsTWpjY3EySHItZGFUeXZhc3ZpRjF3VXFtRXhqakVSaG9aa0NrNHlKbHBPOWNBQ2JmOFRuTEhaY3VXVGhTQ3ZoTDlUTFNxQ1Z3?oc=5",
+   "quelle": "iphone-ticker.de",
+   "zeit": "2026-11-05T13:03:17+00:00",
    "tag": null
   },
   {
@@ -422,6 +513,18 @@
    "tag": null
   },
   {
+   "id": "667968872f369735",
+   "k": "welt",
+   "titel": "Schäden an Unterseekabeln in der Ostsee: Urteil gegen russischen Kapitän",
+   "t": "Ein finnisches Gericht hat einen russischen Kapitän und ein Crewmitglied wegen der Sabotage an zwei Unterseekabeln in der Ostsee zu mehrjährigen Haftstrafen verurteilt. Die Tat liegt etwa zehn Monate zurück.",
+   "e": "Der Fall zeigt die Verwundbarkeit kritischer Unterseeinfrastruktur in Europa und die Spannungen mit Russland.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/kapitaen-sabotage-urteil-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T12:09:41+00:00",
+   "tag": null
+  },
+  {
    "id": "eee3a4c7413ed4df",
    "k": "nrw",
    "titel": "Iserlohn: Bauarbeiten an der Baarstraße verschoben - IKZ-Online",
@@ -467,6 +570,30 @@
    "link": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-05T11:33:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "c19756da9cd1e2ef",
+   "k": "finanzen",
+   "titel": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+   "t": "Bitcoin liegt nach einem Kurssprung am Mittwoch über 80.000 US-Dollar. Am Anstieg hat auch eine Injective-Notierung eines gestakten ETF Anteil.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T11:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "89e51b14de39c9db",
+   "k": "deutschland",
+   "titel": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+   "t": "Der Bundestag berät über eine verpflichtende Videoüberwachung in großen Schlachthöfen. Ausnahmen für kleine Betriebe und Fragen der Umsetzung sind umstritten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T11:26:09+00:00",
    "tag": null
   },
   {
@@ -589,6 +716,18 @@
    "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
    "quelle": "CNBC",
    "zeit": "2026-11-05T11:01:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "b07e32738463b280",
+   "k": "finanzen",
+   "titel": "The Fed Needs a Better Way to Talk About Interest Rates - Bloomberg.com",
+   "t": "Ein Bloomberg-Beitrag fordert, dass die Fed ihre Kommunikation zu Zinsen verbessert.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSncyUnJBc25zajNQclpteVFGV3A0bGZtR3JwMEVnYUdOcXZ4eUkyZGNLdG1DcGlZeUJ2dV9ub3lFZDNjTkY3bjZCNkIxTDhtdTBLQTdOcDRQWFprbFp4aVQ3OU1JMWh5bENiMEk1d05DeG0yLWpSTHBSdUI1OW96UzRsekpIU09LVV9GX0tKWS01bWNicV9DYWhPVkZweWhBZWVETUFHbG9BQQ?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-05T11:00:21+00:00",
    "tag": null
   },
   {
@@ -791,6 +930,18 @@
    "tag": null
   },
   {
+   "id": "b7bf056515e4d478",
+   "k": "finanzen",
+   "titel": "The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street - Yahoo Finance",
+   "t": "Eine neue Inflationsprognose der US-Notenbank für November wird an den Märkten als deutlich negativ aufgenommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFVfQVktUmNubUdnTm5YYWNwa2s4ZzRLSWxpYnZDRDJIaklIQmdFUnNnX2tOQ2plOXlXeG9BcTVpQkw5dXJrdEQ5VEJWMy0wT0h1dF9HTkdmcUdOY1RsbEd5b19waDdacG13RnRWTmtNYk9pdWFOOGZTWGhmUzJ0Y1RVWUlucE5od2xRcDB0dWFBeVN0dV9ucHlrMmh4Y1ZwV3RwUy04RHBpdmda?oc=5",
+   "quelle": "Yahoo Finance",
+   "zeit": "2026-11-05T09:26:01+00:00",
+   "tag": null
+  },
+  {
    "id": "9b4a5c68f1f1f31c",
    "k": "finanzen",
    "titel": "Geldmarktkonferenz: EZB-Direktorin Schnabel warnt vor Banken-Deregulierung",
@@ -837,6 +988,18 @@
    "tag": null
   },
   {
+   "id": "282f2520d60a076e",
+   "k": "finanzen",
+   "titel": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
+   "t": "ArcelorMittal meldet einen Anstieg des bereinigten Ergebnisses um 34 Prozent im dritten Quartal und führt dies auf EU-Stahlzölle zurück.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-05T08:58:00+00:00",
+   "tag": null
+  },
+  {
    "id": "cc241cedffd5aff3",
    "k": "finanzen",
    "titel": "Dax steigt auf Rekordhoch",
@@ -845,6 +1008,18 @@
    "link": "https://www.welt.de/wirtschaft/article6aec445209e0301c03e80280/boerse-dax-steigt-auf-rekordhoch.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-05T08:56:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "46f9c30c29648524",
+   "k": "finanzen",
+   "titel": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+   "t": "Hongkong hat ein Gesetz verabschiedet, nach dem Krypto-Börsen Kundentransaktionen an die Steuerbehörden melden müssen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-05T08:35:37+00:00",
    "tag": null
   },
   {
@@ -904,6 +1079,18 @@
    "tag": null
   },
   {
+   "id": "5cf59623bf4cdee6",
+   "k": "finanzen",
+   "titel": "Democrats’ Senate Win Could Strengthen Federal Reserve Independence - www.tokenpost.com",
+   "t": "Ein Demokraten-Sieg im Senat könnte die Unabhängigkeit der US-Notenbank Fed stärken.",
+   "e": "Die Senatsmehrheit ist für Bestätigungen von Fed-Posten relevant, daher betrifft das Zinsentscheidungen der Fed.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZV9BNk45cVJyeF9aVVd5WDdYcWFGUXIxR0djalM2MXNjTnkwelVXNnFoWWFjMWRiN0l1V1dob3ZRVUl1dEEzeHo4OERpTEViVFdhTEdjYmlDSG8?oc=5",
+   "quelle": "www.tokenpost.com",
+   "zeit": "2026-11-05T06:28:37+00:00",
+   "tag": null
+  },
+  {
    "id": "21c3223d9a5b306e",
    "k": "deutschland",
    "titel": "Bosch streicht 750 Stellen an deutschem Standort",
@@ -924,6 +1111,18 @@
    "link": "https://www.welt.de/wirtschaft/plus6ae5c9e6aedea8cd9ffbf37d/ende-des-ruestungswunders-jetzt-zeigen-sich-die-grenzen-des-rheinmetall-aufstieges.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-05T06:19:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "d7b6a6bb035c33ef",
+   "k": "usa",
+   "titel": "Ted Cruz calls midterm election results a ‘Watergate-level repudiation’ of the GOP, warns ‘Americans will be hurt’ by radical Dems",
+   "t": "Senator Ted Cruz bezeichnet die Midterm-Ergebnisse als „blue tsunami“ und als Rückschlag für die Republikaner. Er warnt vor Folgen durch die Demokraten.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-05T06:13:59+00:00",
    "tag": null
   },
   {
@@ -997,6 +1196,18 @@
    "tag": null
   },
   {
+   "id": "e7614c9a5d9696d8",
+   "k": "usa",
+   "titel": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+   "t": "Nach dem Sieg bei den Midterms kündigen die Demokraten Vorladungen für Big-Tech-Chefs und neue Untersuchungen zu Trumps Geschäften an.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T04:52:49+00:00",
+   "tag": null
+  },
+  {
    "id": "7332752511141aec",
    "k": "nrw",
    "titel": "Einsparungen im ÖPNV: UWG kämpft für mehr Bedarfsverkehr - Come-on",
@@ -1067,6 +1278,30 @@
    "tag": null
   },
   {
+   "id": "581221f0b260f8d5",
+   "k": "usa",
+   "titel": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+   "t": "US-Vizepräsident Vance führt die Niederlage der Republikaner bei den Midterms auf den Iran-Krieg zurück. In der Partei läuft die Ursachensuche.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-04T21:15:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "896980fe416efc3d",
+   "k": "usa",
+   "titel": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+   "t": "Die Demokraten planen nach ihrem Sieg bei den Midterms Gesetze zu Lebenshaltungskosten und Korruption und wollen Präsident Trump stärker kontrollieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-04T20:53:19+00:00",
+   "tag": null
+  },
+  {
    "id": "bf07732d5fa6db6f",
    "k": "deutschland",
    "titel": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
@@ -1079,6 +1314,18 @@
    "tag": null
   },
   {
+   "id": "9b958f1d7c619e1b",
+   "k": "usa",
+   "titel": "USA: Trump spricht bei erstem Auftritt nach Midterm-Klatsche über Ballsaal - MOZ.de",
+   "t": "Trump spricht bei seinem ersten Auftritt nach der Midterm-Niederlage unter anderem über den geplanten Ballsaal.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjZ4d2ZqYVBoek9qelRhRWpOQy1ZTFNNS2I0V1ptOHZCdTc2aklwMHBDNDdWVndOUTg0S0dMc09KLU9SM2lzQUdpSE9vcDU4MHVuWWxrX1BYbW90aG1ld0lyZjFVN2lBNmpKZ0RVTlhtVGpYR3Q5ZU5lYmxjUy02X1hEWmNwZlhReFd6QUVmRmtEOWJQR1dDSXVXN21VMEZJZzZuQ080NmxTbzUtazg5OFdodEFVMmtSM2lWNDUyWF94R1ZueEE?oc=5",
+   "quelle": "MOZ.de",
+   "zeit": "2026-11-04T18:36:36+00:00",
+   "tag": null
+  },
+  {
    "id": "b2fc366c9c447305",
    "k": "deutschland",
    "titel": "Klingbeil ruft die Zeit nach Trump aus – doch er könnte ihn noch vermissen",
@@ -1088,6 +1335,18 @@
    "link": "https://www.welt.de/wirtschaft/plus6aeb0bb33f6a429425b734df/spd-wirtschaftsforum-lars-klingbeil-ruft-die-zeit-nach-trump-aus-doch-er-koennte-ihn-noch-vermissen.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-04T18:35:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "be3bf8812afe1c22",
+   "k": "deutschland",
+   "titel": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
+   "t": "Der Bund fördert das Schwimmenlernen mit 20 Millionen Euro. Mehr als die Hälfte der Grundschulkinder in Deutschland kann laut Bericht nicht sicher schwimmen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T16:29:29+00:00",
    "tag": null
   },
   {
@@ -1126,6 +1385,18 @@
    "tag": null
   },
   {
+   "id": "ffd4a17b2b554f34",
+   "k": "finanzen",
+   "titel": "BMW wagt die Elektro-Wette",
+   "t": "BMW zieht den Generationswechsel bei seinen Elektroautos vor und nimmt ältere Modelle früher aus dem Programm. Das belastet den Gewinn kurzfristig.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6aeb1296b1907deb6c941781/bmw-wagt-die-elektro-wette.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-04T15:20:56+00:00",
+   "tag": null
+  },
+  {
    "id": "3b8b2e7adbd50639",
    "k": "deutschland",
    "titel": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
@@ -1146,6 +1417,42 @@
    "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-04T14:30:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "bc4f694593686627",
+   "k": "nrw",
+   "titel": "UE: Studierende aus mehr als 140 Ländern haben inzwischen in Iserlohn studiert - IKZ-Online",
+   "t": "Die Universität Iserlohn meldet, dass Studierende aus mehr als 140 Ländern dort bereits studiert haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2xucWhUYkRIM0tmYTliaGdQMUo0ekk2NW4yR09qSm5QRm5iNDg1Y1ZzTlpOVnMxM3AzeG5nSi1wM0R1RE1HbEVGNjd4bDdVVWlhU29UVmVYa2pBT1FJSEFHbG1yY1laVnV2VWxDa3NjaklwcVE1M29pZ1J6ZndUbTVBcDlZdExKNC1uVl9vLWF0OXduS2xBeXdfLVRzSGtqWVd6WUU0MldkZXQ4LVFlVzRzcXZsV2hsS3Q3VUFleVRJS2U1YlAtVmdOaHd0dml4YnZpb0tweC1iMmc?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-04T14:22:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3d6c037c7b4572d",
+   "k": "deutschland",
+   "titel": "Wohngeldreform könnte Bedürftige doppelt treffen",
+   "t": "Die Bundesregierung plant eine Wohngeldreform, um mehrere Milliarden Euro einzusparen. Laut Bericht könnte ein Drittel der bisherigen Wohngeldberechtigten den Anspruch verlieren.",
+   "e": "Die Reform betrifft einen großen Teil der Bevölkerung mit niedrigen Einkommen und berührt die Haushaltskonsolidierung.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T12:01:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "6fc35f64c1abe4d1",
+   "k": "deutschland",
+   "titel": "15 Jahre danach bleiben Schmerz und offene Fragen",
+   "t": "Fünfzehn Jahre nach Bekanntwerden der NSU-Taten bleiben für die Familien der Mordopfer Schmerz und offene Fragen, da Ermittlungsakten weiter Lücken aufweisen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-04T11:36:16+00:00",
    "tag": null
   },
   {
@@ -1194,6 +1501,18 @@
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-04T08:21:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "a16a3fcc83194a5b",
+   "k": "nrw",
+   "titel": "Falsche Polizisten: Festnahme nach Besuch bei Senior - meinestadt.de",
+   "t": "Nach einem Besuch bei einem Senior, bei dem sich Täter als falsche Polizisten ausgaben, wurde eine Person festgenommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvekhlaFhDTXAyX0FGSHNCS19yWU5jeElrWDYtSzRSczd0UkdBNlpneWpfb1ZkVV91MmwxZlEtQy1xMHl4d1ptZl9EdktPNVJqckdjWF9iM21ib1JROHJKUC1vN0IzamowLUktOFZVWTdLMXBCbkxtZWpQTTRvNDg?oc=5",
+   "quelle": "meinestadt.de",
+   "zeit": "2026-11-04T07:24:38+00:00",
    "tag": null
   },
   {
@@ -1257,14 +1576,15 @@
    "tag": null
   },
   {
-   "id": "9d685cdf17b5bbf7",
-   "k": "usa",
-   "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-   "t": "In Texas verengt sich der Abstand im Gouverneursrennen laut Prognosemärkten, Amtsinhaber Abbott bleibt jedoch favorisiert.",
-   "s": 3,
-   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-   "quelle": "CNBC Finance",
-   "zeit": "2026-11-03T13:33:11+00:00",
+   "id": "d38a879f226d12e8",
+   "k": "nrw",
+   "titel": "Staatsanwaltschaft: Durchsuchungen bei National-Bank in NRW und Hessen",
+   "t": "Bei der National-Bank in Essen hat es einen Großeinsatz der Behörden gegeben. Die Staatsanwaltschaft ermittelt wegen des Anfangsverdachts auf schwere Steuerhinterziehung, auch in Hessen wurde durchsucht.",
+   "e": "Das Verfahren betrifft einen Finanzdienstleister in NRW und berührt die Bankenaufsicht und Steuerfahndung.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/national-bank-in-essen-razzia-wegen-steuerhinterziehung-201647920.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-03T13:47:37+00:00",
    "tag": null
   }
  ],
@@ -1333,7 +1653,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "MarketWatch",
@@ -1373,7 +1693,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -1393,12 +1713,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 29
    }
   ],
   "markt": []
