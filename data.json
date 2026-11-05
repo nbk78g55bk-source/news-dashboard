@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-05T22:07:57.006015+00:00",
+ "aktualisiert": "2026-11-05T22:11:32.744769+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.900 $",
-   "delta": -5.41754041153064
+   "wert": "75.873 $",
+   "delta": -5.539047636415089
   },
   {
    "name": "Ethereum",
    "wert": "2.234 $",
-   "delta": -7.661748910622941
+   "delta": -7.68033555273331
   },
   {
    "name": "Gold",
    "wert": "4.098 $",
-   "delta": 0.6211637613552812
+   "delta": 0.6113429904247347
   },
   {
    "name": "EZB Zins",
@@ -54,32 +54,48 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-05T13:25:24.431644+00:00",
+  "slot": 19,
+  "stand": "2026-11-05T22:11:32.744751+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Der DAX steigt auf ein neues Rekordhoch bei 26.576 Punkten und übertrifft den Höchststand vom August. Auslöser sind laut Meldung der Sieg der US-Demokraten bei den Zwischenwahlen und sinkende Ölpreise."
+    "t": "An der Wall Street brach der S&P 500 laut Meldungen um rund vier Prozent ein, die Technologiewerte erlebten ihren schlechtesten Tag seit 2020, und der Nasdaq rutschte in die Korrektur. Auslöser war die Sorge vor strengerer KI-Regulierung."
    },
    {
     "k": "finanzen",
-    "t": "Bei den Zinsen hebt die Bank of England ihren Leitzins auf 4,0 Prozent an, die erste Erhöhung seit drei Jahren, und Schweden erhöht trotz Inflation unter Ziel ebenfalls. Der EZB-Einlagesatz liegt bei 2,50 %, die US-Rendite zehnjähriger Anleihen bei 4,89 %. Die Erzeugerpreise sind im September um fast elf Prozent gestiegen, was als Inflationswarnsignal gilt."
+    "t": "Bei den Zinsen liegen EZB-Leitzins bei 2,50 % und Fed Funds bei 3,88 %. Lagarde zufolge prüft die EZB Indikatoren für eine mögliche Zinserhöhung im Dezember, während die Fed den Leitzins unverändert ließ und die Fed-Vertreter Hammack und Barkin einen schrittweisen Zinserhöhungskurs favorisieren."
+   },
+   {
+    "k": "finanzen",
+    "t": "Der DAX erreichte ein Rekordhoch über dem Stand vom August (230,65 €), getragen vom Sieg der US-Demokraten und sinkenden Ölpreisen. Die Rheinmetall-Aktie fiel dagegen um 17 Prozent, nachdem der Konzern seine Prognose für 2026 zum zweiten Mal in drei Monaten gesenkt hat."
+   },
+   {
+    "k": "deutschland",
+    "t": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger, Chef der Freien Wähler, ist im Alter von 55 Jahren gestorben. Ministerpräsident Söder sprach von einer absoluten Tragödie."
    },
    {
     "k": "usa",
-    "t": "Die Demokraten gewinnen die US-Zwischenwahlen deutlich und übernehmen die Mehrheit in beiden Kammern des Kongresses. Im MAGA-Lager wächst nach dem Wahldebakel die Kritik an Präsident Trump."
+    "t": "Die Demokraten gewannen die US-Zwischenwahlen deutlich und übernehmen nach zwei Jahren in der Opposition die Mehrheit in beiden Kammern des Kongresses. Die Republikaner gewannen laut Berichten keinen einzigen Sitz hinzu."
    },
    {
     "k": "welt",
-    "t": "Iran meldet erneut Schiffsbrände in der Straße von Hormus, und die Ölpreise fallen auf den tiefsten Stand seit Anfang September. Die Huthis greifen nach eigenen Angaben erneut einen Flughafen in Riad an."
-   },
-   {
-    "k": "nrw",
-    "t": "NRW-Innenminister Herbert Reul will uniformierte Polizisten in Asylunterkünften einsetzen. Die Meldung ist Teil der aktuellen Migrationspolitik-Debatte im Land."
+    "t": "In Paraguay ist Präsident Santiago Peña nach der Insolvenz der Digitalbank Ueno zurückgetreten, zeitweise hatten Kunden keinen Zugriff auf ihre Konten. Rund 60 Prozent der erwachsenen Bevölkerung sind laut Meldungen Kunden des Instituts."
    }
   ]
  },
  "items": [
+  {
+   "id": "08d7d11dcef6c292",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Zehn Verletzte bei Verkehrsunfall vor Feuerwache - n-tv.de",
+   "t": "Bei einem Verkehrsunfall vor einer Feuerwache in Nordrhein-Westfalen wurden zehn Menschen verletzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnNFcTJPTXM4bmN5VGtLam82Y2w1Ql9RVnc3OFhXRGx1WlZMV1ZPVVQ5RFlpQmg5OFU0REE1SlAzVHBkQXdEbjBrb284LTVJQldNUWZDYXlsclpWeHoxOFBpamMxaW1WTUlreTgtanUzeDJ0V19pN3BTdjZOSkJBMEJTY19SWHlQVDhrQWZtWFdSSGpMUjNSRHU2c1JETVdLR2FjVk03dkQ2RUtZb2NNV3lHWUd4Zw?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-05T22:05:00+00:00",
+   "tag": null
+  },
   {
    "id": "810f7cfcaa930112",
    "k": "finanzen",
@@ -489,6 +505,18 @@
    "tag": null
   },
   {
+   "id": "45a13eba82a2ea86",
+   "k": "deutschland",
+   "titel": "Bundestag gibt grünes Licht für Reform beim Führerschein",
+   "t": "Der Bundestag hat eine Reform beim Führerschein beschlossen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678894.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T19:13:26+00:00",
+   "tag": null
+  },
+  {
    "id": "7d6ab8f651d2775c",
    "k": "usa",
    "titel": "Trump's energy deals are about to face a wave of investigations by Democrats",
@@ -498,6 +526,42 @@
    "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
    "quelle": "CNBC",
    "zeit": "2026-11-05T19:13:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "358b86d80b0e36de",
+   "k": "welt",
+   "titel": "Hunderttausende bei Generalstreik in Frankreich auf der Straße",
+   "t": "In Frankreich haben Hunderttausende am Generalstreik teilgenommen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678896.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T19:11:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "dfed495e675cfe8d",
+   "k": "deutschland",
+   "titel": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+   "t": "Hacker können Kühlsysteme in Supermärkten angreifen, nachdem zunächst französische Märkte betroffen waren. Auch deutsche Einzelhändler sind inzwischen betroffen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T19:11:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "6044fb1fc9057adc",
+   "k": "deutschland",
+   "titel": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
+   "t": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+   "e": "Aiwanger war eine prägende Figur der bayerischen Landespolitik und Bundesspitze der Freien Wähler.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T19:06:43+00:00",
    "tag": null
   },
   {
@@ -570,6 +634,18 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUxHaWlhYVpwQXpVc0pqYWR0OWhRU2xtR1JhTVdxVXpQcE5kc1JEWkNDU3ZhSXV4aXdIMF9aN0xwWWU0NWg1NXpFN1VIOFhLbHNxcks1MmtnWlQzLWpXUFRHNll5NS1MY2dadUx5emhPT1JhRkFpU3NpMUVhWFdrRENkUkdDN1FtSnlIb05YbTBTMXk2RmNodHJ3Y2FJYlZTLWpFblVsZ1N5UllQRlo5ZWllUEo3VjB0Nlhn?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-05T18:58:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0d6e363268670809",
+   "k": "deutschland",
+   "titel": "Neuer Ärger in der Koalition: Klingbeil will „spürbaren“ Spritpreisdeckel",
+   "t": "Finanzminister Klingbeil fordert einen spürbaren Spritpreisdeckel, was die Koalition spaltet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spritpreisdeckel-klingbeil-ist-unzufrieden-mit-reiches-entwurf-201655524.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T18:53:08+00:00",
    "tag": null
   },
   {
@@ -681,6 +757,18 @@
    "tag": null
   },
   {
+   "id": "9c4198325380c8ff",
+   "k": "deutschland",
+   "titel": "Gewalt unter Jugendlichen: Unter Teenagern geht die Angst um",
+   "t": "Gewalt unter Jugendlichen nimmt zu: Private Feiern werden gestürmt und Wertsachen geraubt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/feuilleton/debatten/tuersteher-fuer-teenager-partys-wie-sicher-sind-jugendliche-noch-201644968.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T18:27:54+00:00",
+   "tag": null
+  },
+  {
    "id": "dbf718bd02240323",
    "k": "finanzen",
    "titel": "Die Fed-Zinserhöhung im September war ein Fehler, sagt Miran - MarketScreener Deutschland",
@@ -693,6 +781,18 @@
    "tag": null
   },
   {
+   "id": "206bdb6863d8ba0d",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: US-Regierung sprach mit Iran über Abschiebungen im Krieg",
+   "t": "Im Newsblog zum Iran-Krieg berichtet Handelsblatt über Gespräche der US-Regierung mit Iran zu Abschiebungen sowie über einen Vorfall im Gazastreifen.",
+   "e": "Der Konflikt mit Iran bleibt ein zentrales außenpolitisches Thema und wird auch in der US-Innenpolitik diskutiert.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-regierung-sprach-mit-iran-ueber-abschiebungen-im-krieg/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T18:17:50+00:00",
+   "tag": null
+  },
+  {
    "id": "323a613fadc64e56",
    "k": "welt",
    "titel": "Erneute Ausschreitungen in Frankreich – „An der Spitze ein aggressiver Pro-Palästina-Block“",
@@ -702,6 +802,18 @@
    "link": "https://www.welt.de/politik/ausland/video6aecc663c7da7601aa4f918f/generalstreik-erneute-ausschreitungen-in-frankreich-an-der-spitze-ein-aggressiver-pro-palaestina-block.html",
    "quelle": "Welt",
    "zeit": "2026-11-05T18:15:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "d0e002b057686da2",
+   "k": "welt",
+   "titel": "„All das lässt uns völlig unglaubwürdig erscheinen“ – Meloni kritisiert Chaos bei Ukraine-Gesprächen",
+   "t": "Italiens Regierungschefin Meloni kritisiert das Vorgehen der EU in den Ukraine-Gesprächen als ungeordnet und fordert einen einzelnen Unterhändler.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6aecbec6c7da7601aa4f9111/eu-vorgehen-all-das-laesst-uns-voellig-unglaubwuerdig-erscheinen-meloni-kritisiert-chaos-bei-ukraine-gespraechen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T18:10:09+00:00",
    "tag": null
   },
   {
@@ -729,6 +841,18 @@
    "tag": null
   },
   {
+   "id": "5efbca3411db665e",
+   "k": "welt",
+   "titel": "Mehr als 40 Tote bei russischem Angriff auf Verteilzentrum",
+   "t": "Bei einem russischen Angriff auf ein Verteilzentrum für Hilfsgüter in der Region Saporischschja sind laut Berichten über 40 Menschen getötet worden, weitere gelten als vermisst.",
+   "e": "Der Angriff trifft ein Zentrum für humanitäre Hilfe und erhöht den Druck auf die Ukraine-Verhandlungen.",
+   "s": 8,
+   "link": "https://www.welt.de/politik/ausland/video6aecc173a389bc337cfc71e3/region-saporischschja-mehr-als-40-tote-bei-russischem-angriff-auf-verteilzentrum.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T17:52:12+00:00",
+   "tag": null
+  },
+  {
    "id": "1aae963471e58d8b",
    "k": "welt",
    "titel": "Das Gericht glaubt René Benko auch beim vierten Mal nicht. Sein einstiger Förderer rechnet mit ihm ab",
@@ -738,6 +862,54 @@
    "link": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551",
    "quelle": "NZZ",
    "zeit": "2026-11-05T17:50:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "578b7028b8d80585",
+   "k": "usa",
+   "titel": "Schumer faces mutiny from newly elected Senate Dems as party prepares to seize power",
+   "t": "Chuck Schumer steht laut Medienberichten vor einer Revolte neugewählter demokratischer Senatoren, die einen Führungswechsel fordern.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/schumer-faces-mutiny-from-newly-elected-senate-dems-party-prepares-seize-power",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-05T17:49:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "ee6c727f2db734c1",
+   "k": "usa",
+   "titel": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+   "t": "Demokraten wollen nach Übernahme der Senatsmehrheit die Beziehungen der Bank JPMorgan zu Jeffrey Epstein untersuchen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T17:42:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "352a72129f65e1bb",
+   "k": "deutschland",
+   "titel": "Tierhaltung: Bundestag beschließt Videoüberwachung für Schlachthöfe",
+   "t": "Der Bundestag hat Videoüberwachung für Schlachthöfe beschlossen, um die Einhaltung des Tierschutzes beim Schlachten von Schweinen und Rindern zu kontrollieren.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/tierhaltung-bundestag-beschliesst-videoueberwachung-fuer-schlachthoefe/100267714.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T17:42:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "28698218d62e2287",
+   "k": "welt",
+   "titel": "Angeklagter mit Fußfessel: Signa-Gründer Benko wegen Millionenbetrugs verurteilt",
+   "t": "Der österreichische Unternehmer René Benko wurde wegen eines weiteren Millionenbetrugs zu zwei Jahren zusätzlicher Haft verurteilt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/angeklagter-mit-fussfessel-signa-gruender-benko-wegen-millionenbetrugs-verurteilt/100267696.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T17:40:34+00:00",
    "tag": null
   },
   {
@@ -762,6 +934,54 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2FzSkVFUkgyNVliSVRHSFVaZDY0Szd2ZmxYLWItaUpsZUVzdXczS0R2cnJCbFo4MDZ1T3VWWnNVa045RGs1UHp1X21XbmI0Y0xLcFNla2VHWWFjQV90aHE0OVVDN3VLWUFJUGpvaER4MDM4dEZZeUc4Z0FwNGpsUkxvaGJYYzNHcVFaOEt4UFh6UUpGS1FpaldMUnJyT1NhZFh2amozcWpRenRrYmtEV3k1Z0diOVhwcC1CT3podnBoLUV5STMzZw?oc=5",
    "quelle": "FAZ",
    "zeit": "2026-11-05T17:38:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "898191448f3b4d64",
+   "k": "finanzen",
+   "titel": "Börsen: Dax steigt auf Rekordhoch - Dann folgt Ernüchterung",
+   "t": "Der Dax hat ein neues Rekordhoch erreicht, danach wurden die Anleger wieder skeptischer, auch wegen Turbulenzen an den US-Börsen.",
+   "e": "Der Rekord fällt in eine Phase schwankender US-Technologiewerte.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/boersen-dax-steigt-auf-rekordhoch-dann-folgt-ernuechterung/100267526.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T17:29:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "b6860121144c8956",
+   "k": "welt",
+   "titel": "Staatskrise: Paraguays Präsident Peña tritt in Bankenkrise zurück",
+   "t": "Paraguays Präsident Peña hat nach einer schweren Bankenkrise seinen Rücktritt eingereicht. Ihm werden geschäftliche Beziehungen zur Muttergesellschaft der pleitegegangenen Bank vorgeworfen.",
+   "e": "Die Bankenpleite erschüttert das Land und führt zu einer politischen Staatskrise.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/staatskrise-paraguays-praesident-pena-tritt-in-bankenkrise-zurueck/100267710.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T17:29:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "5bdc377e93568939",
+   "k": "finanzen",
+   "titel": "Künstliche Intelligenz: EU will Chips aus Europa mit halber Milliarde Euro fördern",
+   "t": "Die EU will die heimische Chipproduktion mit einer halben Milliarde Euro fördern. Der europäische Anteil liegt derzeit bei zehn Prozent, bis 2030 soll er 20 Prozent erreichen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-eu-will-chips-aus-europa-mit-halber-milliarde-euro-foerdern/100267706.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T17:25:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "cde0c29217379ebe",
+   "k": "usa",
+   "titel": "Three tax proposals targeting the rich that the new Congress could revive",
+   "t": "Nach den Wahlen könnte der neue Kongress Steuervorschläge wiederbeleben, die Reiche treffen, darunter zu Carried Interest, großen Trusts und Kreditaufnahme gegen Aktien.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T17:24:30+00:00",
    "tag": null
   },
   {
@@ -801,6 +1021,18 @@
    "tag": null
   },
   {
+   "id": "ada5c24fb75bd56d",
+   "k": "deutschland",
+   "titel": "Bundespräsidentin: Merz ist noch schlechter dran als Söder",
+   "t": "In der CDU wird die Kandidatur von Ilse Aigner für das Amt der Bundespräsidentin diskutiert, während der Rückhalt für Kanzler Merz nachlässt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-verliert-kontrolle-cdu-laeuft-ihm-bei-aigner-davon-201655664.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T16:59:58+00:00",
+   "tag": null
+  },
+  {
    "id": "e0e37aa6e06bee5c",
    "k": "nrw",
    "titel": "Nahverkehrsplan-Entwurf sieht weitere Einschnitte in Iserlohn vor - IKZ-Online",
@@ -825,6 +1057,18 @@
    "tag": null
   },
   {
+   "id": "e5bf6d987c62902a",
+   "k": "usa",
+   "titel": "Brooklyn House Fire Kills Six People",
+   "t": "Bei einem Hausbrand in Brooklyn sind sechs Menschen ums Leben gekommen, sieben weitere wurden verletzt. Die Ursache wird untersucht.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/us-news/brooklyn-house-fire-kills-six-people-f475cbd9?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-05T15:56:00+00:00",
+   "tag": null
+  },
+  {
    "id": "88bedfe162d0b7ed",
    "k": "welt",
    "titel": "Russische Aktivistengruppen bekennen sich zum Cyberangriff auf Kühlregale in Europa. Doch stimmt das?",
@@ -837,6 +1081,18 @@
    "tag": null
   },
   {
+   "id": "16f85a873515bf7a",
+   "k": "usa",
+   "titel": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms",
+   "t": "Harmeet Dhillon ist als Assistant Attorney General für Bürgerrechte im US-Justizministerium zurückgetreten. Laut Berichten sollte sie bis nach den Midterms warten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-05T15:51:18+00:00",
+   "tag": null
+  },
+  {
    "id": "e92609de1f61938e",
    "k": "nrw",
    "titel": "Werdohl: Einschränkungen auf Lennestraße Behelfsbrücke in Rodt ab nächste Woche Dienstag - News.de",
@@ -846,6 +1102,18 @@
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNMFNYbmFVeTVKcWJxelVKSlh0YWJyS2prbVBkanlmMmhYRGJiXzAyOVpnVENjZGlQU2FFMERQNkFLRXE1Um9EYUw1T3I5bTlOTktlbVhDTkQ4a1NfWWY4NFN6ZGNkVnU5SklXd3JLT1czbzRfX3lBWnhYeDJRRWtBOW9UZnNMLUJpUlhGZEtMUXJ3VlhSUWhENXB3T0xEOEtZWjVlV3ZBemJiSjAyT2hqQVNfbmF2d1hBZE9xMHlDemlncXlzZ0VNS3lFYl9DZWdxaE5NYWRJTmwwekh2R3lrTkRVbERiQXp6U3JaMnVkQ2V1blZEZlh1TUhTWlBkZ0cwSHZRcVRwRjVMbGNZcXZ1ZzA3ZWx1aFRVQ1hkMzlXRDVrMnFRQnN6ZndNNGlZWWZoSDQxNWV0cDgtTG1BUVRSZkcxSzVGNWJiUDFUY1F0dnV2WnFRcmxzcDFiTzl5LURUcl91OFQ2QkprV3MzSFE?oc=5",
    "quelle": "News.de",
    "zeit": "2026-11-05T15:50:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "84e792d7ebb54ab7",
+   "k": "finanzen",
+   "titel": "Bank of England hebt Leitzins auf 4 Prozent: Drei Folgen - aktien.news",
+   "t": "Die Bank of England hebt den Leitzins auf 4 Prozent an.",
+   "e": "Die britische Notenbank reagiert damit auf anhaltend hohe Inflation.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWhjN1E0LTZCY0pvUTNjQ2lLc0U4UF91TTNuOThFUU9MMS15WG5Cc3VkbW1scjVubWMtd3R5T1RodUQ5YkxSUVVzV3ZEMFVLYTBhLVU3b2lSaWZjNXBiZGdpRmZDVGh5NHF5Zzh2bTQzZWlaMXJsZEFyeHlqV3RzRmlpbmJlQQ?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-05T15:36:19+00:00",
    "tag": null
   },
   {
@@ -882,6 +1150,30 @@
    "link": "https://www.welt.de/wirtschaft/plus6aeb7114a42a5db59c5fe3ce/nach-zwischenwahlen-krypto-geschenke-begnadigungen-jetzt-beginnt-die-jagd-auf-trumps-milliarden-geschaefte.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-05T15:22:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "21072e85e5e00bae",
+   "k": "welt",
+   "titel": "Nach den Krawallen in Zürich: Ob die beiden verhafteten und mit Freiheitsstrafen belegten jungen Männer ins Gefängnis müssen, ist nicht sicher",
+   "t": "Nach Krawallen in Zürich wurden zwei junge Männer festgenommen, gegen die Strafbefehle mit Gefängnisstrafen ergangen sind. Diese können angefochten werden.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.nzz.ch/zuerich/nach-krawallen-in-zuerich-ob-die-verhafteten-ins-gefaengnis-muessen-ist-unklar-ld.10054091",
+   "quelle": "NZZ",
+   "zeit": "2026-11-05T15:21:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "1076a5f83328b47a",
+   "k": "nrw",
+   "titel": "Polizei: 24 Verdachtsfälle manipulierter Süßigkeiten in NRW - WELT",
+   "t": "Die Polizei in Nordrhein-Westfalen zählt 24 Verdachtsfälle manipulierter Süßigkeiten.",
+   "e": "Manipulierte Lebensmittel betreffen die Verbraucher direkt und sollten in Warnungen beachtet werden.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDJPRFZFbkNZc3BobDlsVzVXZERFUDhneE5qSWVxQlVWc0pCWjRnVXJieGlOZjJsMXNoSUZkLTEyTXBYdGt6UGJIOE4wUXJiVnZzRGt5Vmg2cmt6QUhWN3BTZGlRV2RhU29sNUhfTVpiWmZyb2JLVXRUVkh6VDJOOE9BTEZ6Zms2clE1dUttSVBUQTAyVHFmdml1QU9GRWlzc2pFWWZoSUY0UnBfZ3hXYWxxam91QW91Y0hFa3RiX1N4MWtDRWhlSzhtV01lQQ?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-05T15:16:12+00:00",
    "tag": null
   },
   {
@@ -2751,293 +3043,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-04T16:05:31+00:00",
    "tag": null
-  },
-  {
-   "id": "4291276163f33b89",
-   "k": "nrw",
-   "titel": "Geldwäsche und Hehlerei: Schuldspruch gegen Iserlohner Juwelier rechtskräftig - IKZ-Online",
-   "t": "Der Schuldspruch gegen einen Iserlohner Juwelier wegen Geldwäsche und Hehlerei ist rechtskräftig.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnRjWGFiLUt2RW9keC1Xc0E2ZmQySnFNX0l4R0tDOTFRbjlUY1kxLXhKVVBia0hFVng1SGEtX0w3eGpmWDNESkNfMkhiY2ctalotNDRBNjhuXzJzZEFNVi1tSkR4NTZMREpxQ1UxLTVpR2xoLURPNV9wR0RzY3ZTNWdNRnlPMUdEZzFEeTF3RHdGOUplVmFRa2RUVzhxWVZxOE9vSkJ2aTFQekVOeS1CTktzcTVBb0ZmMVI0Vkc2T3F5b2VUVXlpSXFFU0lpNEdJSGQ2VFlqRzFYRm8?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-04T16:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0fc4bdb683aaff15",
-   "k": "deutschland",
-   "titel": "Die Reichensteuer-Falle – Der neue Spitzensteuersatz droht zum Desaster zu werden",
-   "t": "Die Bundesregierung plant eine Erhöhung des Reichensteuersatzes auf 47 Prozent, um Mehreinnahmen zu erzielen. Führende Finanzwissenschaftler bezweifeln den erwarteten Effekt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6ae9e913de8ceb64689bb882/einkommensteuerreform-die-reichensteuer-falle-der-neue-spitzensteuersatz-droht-zum-desaster-zu-werden.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-04T15:50:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "5a14dbd20717b000",
-   "k": "finanzen",
-   "titel": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-   "t": "Bitcoin hat sich in Richtung 80.500 US-Dollar bewegt, während US-Aktien nach den Zwischenwahlen zulegten und der Ölpreis fiel.",
-   "e": "Der Kryptomarkt reagiert hier stark auf die allgemeine Risikostimmung an den US-Börsen.",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-04T15:29:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "288ffbbe663f49b9",
-   "k": "usa",
-   "titel": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-   "t": "Elon Musks Wahlkampfinvestition von 474 Millionen Dollar hat sich laut Bericht nicht ausgezahlt, Demokraten drohen nun auch seinem Texas-Imperium.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-   "quelle": "CNBC Politik",
-   "zeit": "2026-11-04T15:29:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "ffd4a17b2b554f34",
-   "k": "finanzen",
-   "titel": "BMW wagt die Elektro-Wette",
-   "t": "BMW zieht den Generationswechsel bei seinen Elektroautos vor und nimmt ältere Modelle früher aus dem Programm. Das belastet den Gewinn kurzfristig.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6aeb1296b1907deb6c941781/bmw-wagt-die-elektro-wette.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-04T15:20:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "db0cb41ba87b6ff1",
-   "k": "finanzen",
-   "titel": "Midterms in den USA: Warum der Dax nach der Schlappe für Trump zulegt",
-   "t": "Die US-Zwischenwahlen haben die Börsen weltweit bewegt. Der Dax legte zu, der japanische Nikkei verlor.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/warum-der-dax-nach-der-schlappe-fuer-donald-trump-zulegt-201650862.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-04T15:08:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b8b2e7adbd50639",
-   "k": "deutschland",
-   "titel": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-   "t": "In Deutschland und Frankreich wurden weitere Fälle von durch Hacker manipulierten Kühlanlagen bekannt, darunter eine Metzgerei in Bayern und ein Blutspendedienst in Frankreich.",
-   "s": 4,
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-04T14:42:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c21eca645bb5c1e",
-   "k": "finanzen",
-   "titel": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-   "t": "Die Niederlande haben den früheren Zentralbankchef Klaas Knot offiziell für den Chefposten der EZB nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge von Christine Lagarde.",
-   "e": "Die Besetzung der EZB-Spitze bestimmt die Geldpolitik der Eurozone mit, Knot bringt Erfahrung aus der niederländischen Notenbank mit.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-04T14:30:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "bc4f694593686627",
-   "k": "nrw",
-   "titel": "UE: Studierende aus mehr als 140 Ländern haben inzwischen in Iserlohn studiert - IKZ-Online",
-   "t": "Die Universität Iserlohn meldet, dass Studierende aus mehr als 140 Ländern dort bereits studiert haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2xucWhUYkRIM0tmYTliaGdQMUo0ekk2NW4yR09qSm5QRm5iNDg1Y1ZzTlpOVnMxM3AzeG5nSi1wM0R1RE1HbEVGNjd4bDdVVWlhU29UVmVYa2pBT1FJSEFHbG1yY1laVnV2VWxDa3NjaklwcVE1M29pZ1J6ZndUbTVBcDlZdExKNC1uVl9vLWF0OXduS2xBeXdfLVRzSGtqWVd6WUU0MldkZXQ4LVFlVzRzcXZsV2hsS3Q3VUFleVRJS2U1YlAtVmdOaHd0dml4YnZpb0tweC1iMmc?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-04T14:22:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "b63285c8caa58016",
-   "k": "welt",
-   "titel": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-   "t": "Montenegro könnte nach Einschätzung der EU schon 2028 das 28. EU-Mitglied werden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-04T14:11:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "5e10bc98e641fd43",
-   "k": "finanzen",
-   "titel": "France backs reporting for self-custodied crypto worth 100K euros or more",
-   "t": "In Frankreich sieht ein Änderungsantrag vor, selbst verwahrte Kryptowerte ab 100.000 Euro in der Steuererklärung anzugeben. Die Maßnahme muss das Haushaltsverfahren noch überstehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-04T13:44:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "f6b21e2a897ba9bf",
-   "k": "finanzen",
-   "titel": "Energiekrise treibt Inflation – Teuerung in Eurozone erreicht Drei-Jahres-Hoch",
-   "t": "Die Inflation im Euroraum ist laut Berichten auf 4,0 Prozent gestiegen und hat damit ein Drei-Jahres-Hoch erreicht. Treiber sind Energiepreise bei Tanken, Heizen und Strom.",
-   "e": "Der Wert erhöht den Druck auf die EZB vor ihrer Dezember-Sitzung und damit auf die Zinsentscheidung.",
-   "s": 8,
-   "link": "https://www.welt.de/wirtschaft/article6aeb0c521a1d431301d468cf/energiekrise-treibt-inflation-eurozone-erreicht-drei-jahres-hoch.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-04T13:39:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "f3d6c037c7b4572d",
-   "k": "deutschland",
-   "titel": "Wohngeldreform könnte Bedürftige doppelt treffen",
-   "t": "Die Bundesregierung plant eine Wohngeldreform, um mehrere Milliarden Euro einzusparen. Laut Bericht könnte ein Drittel der bisherigen Wohngeldberechtigten den Anspruch verlieren.",
-   "e": "Die Reform betrifft einen großen Teil der Bevölkerung mit niedrigen Einkommen und berührt die Haushaltskonsolidierung.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-04T12:01:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "6fc35f64c1abe4d1",
-   "k": "deutschland",
-   "titel": "15 Jahre danach bleiben Schmerz und offene Fragen",
-   "t": "Fünfzehn Jahre nach Bekanntwerden der NSU-Taten bleiben für die Familien der Mordopfer Schmerz und offene Fragen, da Ermittlungsakten weiter Lücken aufweisen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-04T11:36:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "7ad0d536f426cb8d",
-   "k": "usa",
-   "titel": "Midterms: Eine historische Wahl mit vielen Premieren",
-   "t": "Bei den US-Zwischenwahlen gab es mehrere Premieren, darunter die erste schwarze Gouverneurin eines Bundesstaats und eine indigene Senatorin. Demokraten gewannen auch in republikanischen Hochburgen wie Kansas und Texas.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-04T11:23:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "561428ed409efd5c",
-   "k": "usa",
-   "titel": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
-   "t": "Elon Musk hat rund eine halbe Milliarde Dollar in den US-Wahlkampf investiert, seine Unterstützer verloren aber auf breiter Front.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-04T11:20:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "4e3977f2c25b9fea",
-   "k": "finanzen",
-   "titel": "Inflation im Euroraum steigt auf 4,0 Prozent",
-   "t": "Die Inflation im Euroraum ist im Oktober auf 4,0 Prozent gestiegen, der höchste Stand seit September 2023. Treiber sind vor allem die hohen Energiepreise.",
-   "e": "Die Rate liegt deutlich über dem EZB-Ziel von 2 Prozent und erhöht den Druck auf die Geldpolitik.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-04T11:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6a660b6e4228e02e",
-   "k": "deutschland",
-   "titel": "Bund und Länder üben Krisenmanagement bei Hitzewellen",
-   "t": "Bund und zehn Länder sowie 20 Bundesbehörden üben ein fiktives Szenario mit 45 Grad und mehreren Dürrejahren, um das Krisenmanagement bei Hitzewellen zu testen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/bbk-krisenmanagement-duerre-hitze-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-04T11:06:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "5e9625e728f6de71",
-   "k": "finanzen",
-   "titel": "„Lage ist katastrophal. Und Besserung ist nicht in Sicht“ – Verband warnt vor Aus von 300.000 Jobs",
-   "t": "Gesamtmetall warnt vor dem Verlust von bis zu 300.000 Stellen in der deutschen Industrie und spricht von einer katastrophalen Lage ohne absehbare Besserung.",
-   "e": "Die Warnung betrifft die Konjunktur und den Arbeitsmarkt in Deutschland, die Industrie ist ein zentraler Wirtschaftszweig im Land.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/article6aeaf543edb44911fb21ebed/lage-ist-katastrophal-und-besserung-ist-nicht-in-sicht-verband-warnt-vor-aus-von-300-000-jobs.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-04T10:33:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "5aa798dc442d7e69",
-   "k": "finanzen",
-   "titel": "Teure Energie: Inflation im Euroraum steigt auf vier Prozent",
-   "t": "Die Inflation im Euroraum steigt auf vier Prozent. In Deutschland dämpft der Tankrabatt die Inflationsrate, in anderen Euroländern liegen die Werte teils deutlich höher.",
-   "e": "Die EZB dürfte den Erwartungen nach im Dezember die Zinsen erhöhen, was die Zinswende fortsetzt.",
-   "s": 8,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/inflation-im-euroraum-steigt-auf-4-0-prozent-ezb-vor-zinserhoehung-accg-201650074.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-04T10:01:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "0830be76ac0ea212",
-   "k": "finanzen",
-   "titel": "Teure Energie: Inflation im Euroraum steigt auf vier Prozent",
-   "t": "Die Inflation im Euroraum ist auf vier Prozent gestiegen. In Deutschland dämpft der Tankrabatt den Wert, in anderen Euroländern liegen die Raten teils deutlich höher.",
-   "e": "Der Anstieg erhöht den Druck auf die EZB, die Zinsen im Dezember anzuheben.",
-   "s": 8,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/inflation-steigt-auf-4-0-prozent-ezb-wird-vermutlich-im-dezember-zinsen-erhoehen-accg-201650074.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-04T10:01:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "37500b1901bb9100",
-   "k": "finanzen",
-   "titel": "Sweden’s Central Bank Latest to Lift Rates in Response to War",
-   "t": "Die schwedische Zentralbank hat ihren Leitzins erstmals seit Kriegsbeginn zwischen den USA und dem Iran angehoben. Weitere Zinserhöhungen wurden in Aussicht gestellt.",
-   "e": "Die Entscheidung reiht sich in eine Serie von Zinsschritten ein, die Notenbanken als Reaktion auf den Krieg vornehmen.",
-   "s": 7,
-   "link": "https://www.wsj.com/pro/central-banking/swedens-central-bank-latest-to-lift-rates-in-response-to-war-17ac133b?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-04T09:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d92b9981bdb38ff3",
-   "k": "welt",
-   "titel": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
-   "t": "Israels Präsident Herzog hat Konsultationen zur Bildung einer neuen Regierung begonnen, nachdem die Parlamentswahl das Land in eine Blockade geführt hat.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-04T09:43:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "18aacbd95a0adf4c",
-   "k": "finanzen",
-   "titel": "BMW erwirtschaftet noch weniger Gewinn",
-   "t": "BMW verzeichnet im dritten Quartal einen weiter sinkenden Gewinn. Ursachen sind die Absatzkrise in China sowie Abfindungen und das vorgezogene Aus älterer Modelle.",
-   "e": "Die Schwäche im chinesischen Markt belastet einen der wichtigsten deutschen Autobauer.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-04T08:21:37+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3115,7 +3120,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "WSJ USA",
@@ -3170,10 +3175,10 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 35
+    "n": 36
    }
   ],
   "markt": [],
-  "briefing": "Slot 19: Expecting ',' delimiter: line 1 column 863 (char 862)"
+  "briefing": null
  }
 }
