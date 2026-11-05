@@ -1,0 +1,35 @@
+{
+  "hinweis": "Hier stellst du alles ein. Feeds hinzufuegen/loeschen, Orte aendern, Push-Schwelle anpassen.",
+  "orte": ["Iserlohn", "Märkischer Kreis", "Hemer", "Letmathe", "Hagen", "Dortmund", "Sauerland"],
+  "interessen": "Aktien, Krypto, Zinsen und Notenbanken (EZB, Fed, Basiszins), Weltwirtschaft, Politik in Deutschland und den USA",
+  "push_min_score": 9,
+  "push_max_pro_tag": 5,
+  "ruhezeit": { "von": 23, "bis": 6 },
+  "max_items_pro_lauf": 60,
+  "aufbewahren_stunden": 48,
+  "andere_sicht_aktiv": false,
+  "feeds": [
+    { "name": "Tagesschau", "url": "https://www.tagesschau.de/index~rss2.xml", "hint": "deutschland" },
+    { "name": "Tagesschau Wirtschaft", "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml", "hint": "finanzen" },
+    { "name": "Welt", "url": "https://www.welt.de/feeds/latest.rss", "hint": "deutschland" },
+    { "name": "Welt Wirtschaft", "url": "https://www.welt.de/feeds/section/wirtschaft.rss", "hint": "finanzen" },
+    { "name": "FAZ", "url": "https://www.faz.net/rss/aktuell/", "hint": "deutschland" },
+    { "name": "FAZ Finanzen", "url": "https://www.faz.net/rss/aktuell/finanzen/", "hint": "finanzen" },
+    { "name": "NZZ", "url": "https://www.nzz.ch/recent.rss", "hint": "welt" },
+    { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen", "hint": "finanzen" },
+    { "name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "hint": "usa" },
+    { "name": "CNBC Finance", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html", "hint": "finanzen" },
+    { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "hint": "finanzen" },
+    { "name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "hint": "finanzen" },
+    { "name": "Cointelegraph", "url": "https://cointelegraph.com/rss", "hint": "finanzen" },
+    { "name": "Google News Iserlohn", "url": "https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:de", "hint": "nrw" },
+    { "name": "Google News Märkischer Kreis", "url": "https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl=de&gl=DE&ceid=DE:de", "hint": "nrw" },
+    { "name": "Google News NRW", "url": "https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=DE&ceid=DE:de", "hint": "nrw" },
+    { "name": "Google News Zinsen", "url": "https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+when:1d&hl=de&gl=DE&ceid=DE:de", "hint": "finanzen" },
+    { "name": "Google News USA", "url": "https://news.google.com/rss/search?q=USA+Politik+Wirtschaft+when:1d&hl=de&gl=DE&ceid=DE:de", "hint": "usa" }
+  ],
+  "andere_sicht_feeds": [
+    { "name": "Spiegel", "url": "https://www.spiegel.de/schlagzeilen/index.rss", "hint": "deutschland", "tag": "Andere Sicht" },
+    { "name": "Zeit", "url": "https://newsfeed.zeit.de/index", "hint": "deutschland", "tag": "Andere Sicht" }
+  ]
+}
