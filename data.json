@@ -1,40 +1,40 @@
 {
- "aktualisiert": "2026-11-05T22:16:40.167028+00:00",
+ "aktualisiert": "2026-11-05T23:02:00.940534+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,79 €",
-   "delta": -2.061615431959507
+   "delta": -0.9187873986720607
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,35 €",
-   "delta": -3.801600801340377
+   "delta": -3.074549703316487
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,65 €",
-   "delta": -2.544546729820485
+   "delta": -1.3694296250399973
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,06 €",
-   "delta": -4.294136629055256
+   "delta": -3.6186444756082015
   },
   {
    "name": "Deka DAX",
    "wert": "230,65 €",
-   "delta": -0.17312401924886034
+   "delta": 2.0801075969186344
   },
   {
    "name": "Bitcoin",
-   "wert": "76.004 $",
-   "delta": -5.470012936928489
+   "wert": "75.659 $",
+   "delta": -6.021951815312671
   },
   {
    "name": "Ethereum",
-   "wert": "2.239 $",
-   "delta": -7.634915229618643
+   "wert": "2.229 $",
+   "delta": -8.244994348758054
   },
   {
    "name": "Gold",
@@ -84,6 +84,114 @@
   ]
  },
  "items": [
+  {
+   "id": "636451bb4bc58f32",
+   "k": "usa",
+   "titel": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+   "t": "Bei der Senatswahl in Mississippi liegt der Demokrat Scott Colom knapp vor der Republikanerin Cindy Hyde-Smith. Entschieden werden könnte das Rennen durch Briefwahlstimmen, die nach dem Wahltag eintreffen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-05T22:57:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "22ea13b05c548e0b",
+   "k": "finanzen",
+   "titel": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+   "t": "Das Bitcoin-Mining-Unternehmen American Bitcoin, unterstützt von Eric Trump, weist für das Quartal 126 Millionen Dollar Nettogewinn aus. Der Gewinn stammt vor allem aus Kursgewinnen auf Bitcoin-Bestände, während die Mining-Margen sinken.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T22:43:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "3370f8fd574cacea",
+   "k": "welt",
+   "titel": "Opinion | Joshua Wong’s Brave Example",
+   "t": "Der Hongkonger Aktivist Joshua Wong ist zu einer Haftstrafe von zehn Jahren verurteilt worden.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/opinion/joshua-wong-hong-kong-china-57d515d1?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-05T22:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0585a36945ef83ce",
+   "k": "welt",
+   "titel": "Mysteriöse Bombendrohungen - Flugzeuge in ganz Europa müssen notlanden",
+   "t": "In mehreren europäischen Ländern müssen Flugzeuge nach mysteriösen Bombendrohungen notlanden.",
+   "e": "Eine koordinierte Serie solcher Drohungen über mehrere Länder hinweg berührt die Flugsicherheit und die innere Sicherheit Europas.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1678950.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T22:37:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "84220fafa92f9030",
+   "k": "deutschland",
+   "titel": "Pflegekassen in Not: Bundestag debattiert über Pläne zur Stabilisierung",
+   "t": "Der Bundestag debattiert über Pläne zur Stabilisierung der Pflegekassen, die finanziell unter Druck stehen.",
+   "e": "Die Finanzlage der Pflegeversicherung betrifft Beitragszahler und pflegebedürftige Menschen bundesweit.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1678954.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T22:35:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ca95744fd81174c",
+   "k": "deutschland",
+   "titel": "Ermittler zu Aiwangers Tod: Kein Hinweis auf Fremdverschulden",
+   "t": "Ermittler sehen nach dem Tod des bayerischen Politikers Hubert Aiwanger derzeit keinen Hinweis auf Fremdverschulden.",
+   "e": "Der Tod eines prominenten Landespolitikers und stellvertretenden Ministerpräsidenten ist ein bundesweit beachtetes Ereignis.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1678952.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T22:31:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "ad230e77f9a7a948",
+   "k": "finanzen",
+   "titel": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+   "t": "Das Neocloud-Unternehmen IREN meldet, dass Umsätze von rund 4 Milliarden Dollar auf Kundenwunsch vom Jahr 2026 auf Anfang nächsten Jahres verschoben werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-05T22:29:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "973251c0cf2d5bae",
+   "k": "finanzen",
+   "titel": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+   "t": "Asiatische Krypto-Börsen verschärfen ihre Sicherheitsvorkehrungen, nachdem die Zahl der Hacks zugenommen hat. Befürchtet werden KI-gestützte Angriffe.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-05T22:18:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "35f8db57841ee44a",
+   "k": "welt",
+   "titel": "Ukraine-Krieg: Trump: Habe Kremlunterhändler Dmitrijew getroffen",
+   "t": "Trump hat nach eigenen Angaben den Kremlunterhändler Dmitrijew getroffen. Vertreter der Ukraine und Russlands waren zeitgleich im Weißen Haus, wo die First Lady sie empfing. Trump kündigte danach einen möglichen Deal an.",
+   "e": "Ein US-Abkommen mit Russland könnte Auswirkungen auf Sanktionen, Energiemärkte und die europäische Sicherheitsarchitektur haben.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-habe-kremlunterhaendler-dmitrijew-getroffen/100267741.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T22:14:54+00:00",
+   "tag": null
+  },
   {
    "id": "08d7d11dcef6c292",
    "k": "nrw",
@@ -1189,6 +1297,18 @@
    "tag": null
   },
   {
+   "id": "17bf40fb2e621c42",
+   "k": "finanzen",
+   "titel": "Autoindustrie: Drei Autobauer, vier Gewinnwarnungen: Die Elektrowelle überrollt VW, BMW und Mercedes",
+   "t": "Drei deutsche Autobauer haben im dritten Quartal ihre Gewinnerwartungen gesenkt. Als Gründe werden der Elektro-Boom in Europa und der Verbrennerrückgang in China genannt.",
+   "e": "Die Gewinnwarnungen von VW, BMW und Mercedes sind ein Gradmesser für die Lage der exportorientierten deutschen Industrie.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-die-elektrowelle-ueberrollt-vw-bmw-und-mercedes/100265334.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T16:30:00+00:00",
+   "tag": null
+  },
+  {
    "id": "abb37ab4ccd034f8",
    "k": "finanzen",
    "titel": "Marc Lore's Wonder confidentially files for IPO",
@@ -1198,6 +1318,18 @@
    "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
    "quelle": "CNBC",
    "zeit": "2026-11-05T16:27:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "5dad4f4327521695",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: EU zahlt Ukraine weitere Milliardensumme aus",
+   "t": "Die EU zahlt der Ukraine eine weitere Milliardensumme aus. Außerdem berichten Medien über Verdächtige in staatlichen Stellen wegen eines Callcenterbetrugs und über einen Angriff auf eine russische Ölraffinerie.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-eu-zahlt-ukraine-weitere-milliardensumme-aus/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T16:24:05+00:00",
    "tag": null
   },
   {
@@ -1249,6 +1381,42 @@
    "tag": null
   },
   {
+   "id": "1f1c5ad974249c36",
+   "k": "finanzen",
+   "titel": "Rheinmetall-Aktie kaufen oder verkaufen? Das ist die eindeutige Antwort",
+   "t": "Die Rheinmetall-Aktie hat an einem Handelstag rund 18 Prozent verloren. Das Unternehmen hat zugleich seine Prognose gekappt, der Cashflow ist deutlich negativ.",
+   "e": "Ein solcher Kurssturz eines DAX-Schwergewichts mit Rüstungsbezug betrifft Indexfonds und Anleger im Verteidigungssektor.",
+   "s": 7,
+   "link": "https://www.welt.de/finanzen/plus6aec774093d31cdb1e6ce7e3/rheinmetall-aktie-kaufen-oder-verkaufen-das-ist-die-eindeutige-antwort.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T16:04:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "c76be2410d499e7c",
+   "k": "welt",
+   "titel": "Korruption in der Ukraine: Ukrainischer Callcenterbetrug: Verdächtige in Staatsorganen",
+   "t": "Ermittler werfen ukrainischen Polizisten, Staatsanwälten und Geheimdienstlern vor, in ein kriminelles Netzwerk aus Callcenterbetrug, Drogenhandel und Geldfälschung verwickelt zu sein.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/korruption-in-der-ukraine-ukrainischer-callcenterbetrug-verdaechtige-in-staatsorganen/100267681.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T16:02:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "767b0e0449da87e6",
+   "k": "finanzen",
+   "titel": "Interview: „Können uns nicht leisten, Wettbewerb zu verlieren“: Wie Mistral zu OpenAI und Anthropic aufschließen will",
+   "t": "Mistral-Chef Arthur Mensch kündigt im Handelsblatt-Interview Investitionen in Deutschland an und will zu OpenAI und Anthropic aufschließen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/ki/mistral-ai-wir-koennen-es-uns-nicht-leisten-den-wettbewerb-zu-verlieren/100266942.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-05T16:02:13+00:00",
+   "tag": null
+  },
+  {
    "id": "e5bf6d987c62902a",
    "k": "usa",
    "titel": "Brooklyn House Fire Kills Six People",
@@ -1270,6 +1438,18 @@
    "link": "https://www.nzz.ch/pro/russische-aktivistengruppen-bekennen-sich-zum-cyberangriff-auf-kuehlregale-in-europa-doch-stimmt-das-vieles-bleibt-raetselhaft-ld.10054961",
    "quelle": "NZZ",
    "zeit": "2026-11-05T15:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5fae5bf34229f519",
+   "k": "deutschland",
+   "titel": "Totes Kind in Münchner Hotelzimmer entdeckt – Mutter unter Tatverdacht",
+   "t": "In einem Hotel nahe dem Münchner Hauptbahnhof wurde ein totes Kind gefunden. Die Mutter steht unter Tatverdacht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/article6aeb0fde3f6a429425b7354e/muenchen-totes-kind-in-hotelzimmer-entdeckt-polizei-geht-von-toetungsdelikt-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-05T15:52:00+00:00",
    "tag": null
   },
   {
@@ -1486,6 +1666,18 @@
    "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/in-der-commerzbank-wackeln-weitere-arbeitsplaetze-201655305.html",
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-05T14:31:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "49604f17705a5dca",
+   "k": "deutschland",
+   "titel": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
+   "t": "Der Bund übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Der Kaufpreis liegt laut Berichten unter den ursprünglichen Planungen.",
+   "e": "Die Staatsbeteiligung sichert Einfluss auf sicherheitsrelevante Schlüsseltechnologien in der Rüstungsindustrie.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-05T14:11:59+00:00",
    "tag": null
   },
   {
@@ -2836,6 +3028,18 @@
    "tag": null
   },
   {
+   "id": "f95ce44d3e7cfa96",
+   "k": "usa",
+   "titel": "US-Midterms: Diese Wahl schwächt die Künstliche Intelligenz",
+   "t": "Nach dem Sieg der Demokraten bei den US-Zwischenwahlen wird der Ausbau von Rechenzentren für Künstliche Intelligenz erschwert. Gefordert werden unter anderem Moratorien.",
+   "e": "Strengere Regeln für Rechenzentren könnten Investitionen in KI-Infrastruktur bremsen, was Tech-Konzerne und Zulieferer betrifft.",
+   "s": 6,
+   "link": "https://www.faz.net/premium/weltwirtschaft/weltwissen/us-midterms-2026-droht-der-ki-ein-rechenzentrum-stopp-accg-201652853.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-05T07:10:37+00:00",
+   "tag": null
+  },
+  {
    "id": "91ac977eddb4cd27",
    "k": "deutschland",
    "titel": "Bei der Infrastruktur der Zukunft zeigt sich schon jetzt Deutschlands Abstieg",
@@ -2844,207 +3048,6 @@
    "link": "https://www.welt.de/wirtschaft/plus6ae9f469de8ceb64689bb9e3/rechenzentrums-ranking-bei-der-infrastruktur-der-zukunft-zeigt-sich-schon-jetzt-deutschlands-abstieg.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-05T06:40:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "5cf59623bf4cdee6",
-   "k": "finanzen",
-   "titel": "Democrats’ Senate Win Could Strengthen Federal Reserve Independence - www.tokenpost.com",
-   "t": "Ein Demokraten-Sieg im Senat könnte die Unabhängigkeit der US-Notenbank Fed stärken.",
-   "e": "Die Senatsmehrheit ist für Bestätigungen von Fed-Posten relevant, daher betrifft das Zinsentscheidungen der Fed.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZV9BNk45cVJyeF9aVVd5WDdYcWFGUXIxR0djalM2MXNjTnkwelVXNnFoWWFjMWRiN0l1V1dob3ZRVUl1dEEzeHo4OERpTEViVFdhTEdjYmlDSG8?oc=5",
-   "quelle": "www.tokenpost.com",
-   "zeit": "2026-11-05T06:28:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "21c3223d9a5b306e",
-   "k": "deutschland",
-   "titel": "Bosch streicht 750 Stellen an deutschem Standort",
-   "t": "Bosch streicht 750 Stellen am Standort Abstatt, nachdem zuvor bereits Stellen in Nürnberg abgebaut wurden. Der Konzern reagiert auf den Druck in der Autoindustrie.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6aec1c82eca9cecdd5d4745a/krise-der-autoindustrie-bosch-streicht-750-stellen-an-deutschem-standort.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-05T06:27:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "0e74595fe85d862a",
-   "k": "finanzen",
-   "titel": "Die Grenzen des Rheinmetall-Aufstiegs",
-   "t": "Rheinmetall erhält viele Bestellungen, wächst aber nicht wie erhofft. Der Aktienkurs hat sich nach Angaben von WELT halbiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6ae5c9e6aedea8cd9ffbf37d/ende-des-ruestungswunders-jetzt-zeigen-sich-die-grenzen-des-rheinmetall-aufstieges.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-05T06:19:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "d7b6a6bb035c33ef",
-   "k": "usa",
-   "titel": "Ted Cruz calls midterm election results a ‘Watergate-level repudiation’ of the GOP, warns ‘Americans will be hurt’ by radical Dems",
-   "t": "Senator Ted Cruz bezeichnet die Midterm-Ergebnisse als „blue tsunami“ und als Rückschlag für die Republikaner. Er warnt vor Folgen durch die Demokraten.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/05/us-news/ted-cruz-calls-midterm-election-results-a-watergate-level-repudiation-of-the-gop-warns-americans-will-be-hurt-by-radical-dems/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T06:13:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd3fb5a78522b9f2",
-   "k": "finanzen",
-   "titel": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
-   "t": "Binance und Polymarket wollen einen Hard Fork der Polygon-Blockchain, um gestohlene Krypto-Werte im Wert von 6,8 Millionen Dollar zurückzuholen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-05T06:02:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "f9828f8031a741c3",
-   "k": "nrw",
-   "titel": "Milliarden Jahre alt: Welche spektakulären Funde dieser Iserlohner gemacht hat - IKZ-Online",
-   "t": "Ein Iserlohner hat Milliarden Jahre alte Fossilien und andere spektakuläre Funde gemacht.",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcUx0cGhfb0Z4M0VnYk9ULXdLVFdOQnlnV1JyaHlOVjlBdGJITURpcm5oeWtVR2F4bFB6bEJQdXI3YmhlWUc1ZEFab0VqWDFTTDBST2RKTHhadjB1aHkwbTBzZTJ1VjhmVzhiSjZRSTRNeGdueFhwVW9MbmpkRDdtWENVYmlZSlZUcG9HNm8xNjNkdjI1NmZVT2FFbnJhcHctUkU3eG5mcWkydV9nc0pIbjZFc2oxelFoQzN4RHdMLXZ2UnlWcWJ1RzlzRDlpUTBmZkJaaEV3RFhiYmc?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-05T06:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e7e9e4b188c41945",
-   "k": "nrw",
-   "titel": "Sportfreunde Oestrich: Neues Heim, neue Liga und eine technische Innovation - IKZ-Online",
-   "t": "Der Verein Sportfreunde Oestrich aus Iserlohn zieht in ein neues Heim und spielt in einer neuen Liga.",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnRyVk5seThjb1RPa2lJN2hqdldNTmlwWDQ1Q1JZTy1zT1phcGxFRGpYekl1dGNhanpXQW1NbGNvQjAwRzY1djZGSU1XY2Zadl9rdVRld2FYcGJrU0MxT05OTnNjN2NsV0QxaV84ek85N2dMYlFCdTZOSjJ2eGY1bmJfTjVIbWpGYUF0bWpTb3N1d0NSWDdXSTJ0LU9hUFhVa0hQX29zdURCTjRwMHV6UWtqM3dxMHl0X1Rybk1qNHB2UGRYMGNUZS01T0M4YUVKVl9sejR2NG1tQS1oR2NQaGV3MFdVRmNzZjhMemxmY1VlUXd6?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-05T06:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "7a3da18ee4e88ba3",
-   "k": "deutschland",
-   "titel": "Bundestag debattiert über Pflegereform",
-   "t": "Der Bundestag debattiert über eine erste Pflegereform. Die große Strukturreform soll im neuen Jahr folgen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-05T05:52:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "ad29ba72ee9a8e7a",
-   "k": "finanzen",
-   "titel": "Zcash is about to freeze $16 million in its oldest privacy pool",
-   "t": "Zcash will laut Bericht 16 Millionen Dollar in seinem ältesten Privacy-Pool einfrieren.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-05T05:47:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "a1af74ec7fcb0c35",
-   "k": "nrw",
-   "titel": "Meinerzhagen: Verkehrsstörungen auf der A45 nahe Rothenstein heute, am 05.11.2026 - News.de",
-   "t": "Auf der A45 nahe Rothenstein bei Meinerzhagen gibt es am 5. November 2026 Verkehrsstörungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQX21USHNJOWkta0dnM0pXemJQNFpQZUp6cy1udWlKcXBCQ3UtWTlnVzAyRUVqQkhRbWhaOFZUWjlKUHBhNUZ4WEJFNlFmbmJsVHFxNUNKZThwd0s3UjZUc3ZLN1dNdEI2NWtQRjBkQ191ZDNjOFR2dEpJYWxVVXlwX2VZaEVtYmgwd1lWcHV1c2xZZUFTNjhORjdsanVlcE5SLXBDUFctbnRmQjBpVjhna2Z2TWpmRXRNUTRYQTFNX2xWZHV6SHJ3bVdNekdwRF9mT0lPREFSNjE2cEdEZWZtTElvbnpDQ203OG5ZajVrYmZJQU03MWVxdkdJY0pIM1pJT0s3RHdsZW8yRkVPUnhhY0RMSWRqQ3lQUFNZbEdvcUtuMlVVYUZpTDR0Z1ZGTEJxYmgxbjFnWHpvVU5PbEpPNmEtZXM2NlU?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-05T05:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fefebb6975d3399f",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Verkehrsstörungen auf der A45 bei Bremecke heute, am 05.11.2026 - News.de",
-   "t": "Auf der A45 bei Bremecke in Lüdenscheid kommt es am 05.11.2026 zu Verkehrsstörungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQZzZyZl8wSkozWktaTXNId3p2QlhUV1NrN0xCcWtRelppbDBDZEZBNS0tNEdLam1kUGNOa3d3MGtYdTlCZzFXeHYwQjdrdlZZOE94d0V4WWQteWEzWXA3c0xUU245X1R2eFNSSzdzMTQ4U052SGE0UU1ncS1BSk5VdkNvVVBHeXNndnpnSF9HcG1MRkV5em9wWmpnLUdZN3FyZVlMMFRGMGdWN1dkMHFJZ2VzUFlYVmNtYWlKWW5Sc0ROZHFYRU5tR0pnYkQxaVlyZzlMWUUzUVg5V2ZFNzQtdk1MaW1uWVhlckJFNGFzSkRRNDNxQUlOUlVXdEtEVS1PWU9qbHpBckRpVXUzdl92ZXR5SnBwYzVBc0pyZGNmV2dWYmdQYWhRTGhVSWozUnlNVU91NUJYalJDc2FhSWZkWS15ZDg?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-05T05:45:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "dca525494cb3d696",
-   "k": "finanzen",
-   "titel": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-   "t": "Das XRP Ledger hat einen gemeldeten Fehler behoben, der die Erstellung neuer Token hätte ermöglichen können.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-05T05:25:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "bb9a2dabc5b20ed3",
-   "k": "usa",
-   "titel": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-   "t": "Trump will trotz des Wahldebakels bei den Midterms am Kurs im Iran-Krieg festhalten. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-05T05:16:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "0edaf65d391e8869",
-   "k": "finanzen",
-   "titel": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-   "t": "Bitcoin notiert nach der US-Wahl über 80.000 Dollar, während Zcash um 12 Prozent steigt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-05T05:13:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "a94baad9e2bcca9d",
-   "k": "finanzen",
-   "titel": "Trump can't pack the Fed board with allies now - Axios",
-   "t": "Nach Berichten kann US-Präsident Trump den Verwaltungsrat der Federal Reserve derzeit nicht mit Verbündeten besetzen.",
-   "e": "Die personelle Zusammensetzung des Fed-Gremiums ist für die Unabhängigkeit der Geldpolitik entscheidend.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwV0dBTktfZXpJdWZQaVY1U29HZEx0TWptMFlwdEpvTTRGdWxRTGd5by0yM3JDdVNONC1EVTNLbTJjN2xCc29lOTFkRVRVWDg0aTZJcGZQX0toV2NFZHp4czQ4NjFBQ2hndHN0aE1KS0Q?oc=5",
-   "quelle": "Axios",
-   "zeit": "2026-11-05T04:55:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "e7614c9a5d9696d8",
-   "k": "usa",
-   "titel": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
-   "t": "Nach dem Sieg bei den Midterms kündigen die Demokraten Vorladungen für Big-Tech-Chefs und neue Untersuchungen zu Trumps Geschäften an.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-05T04:52:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "7332752511141aec",
-   "k": "nrw",
-   "titel": "Einsparungen im ÖPNV: UWG kämpft für mehr Bedarfsverkehr - Come-on",
-   "t": "Die UWG fordert im Zuge von Einsparungen im ÖPNV mehr Bedarfsverkehr.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmJtZUFjVVJfaFd2M0pTU3FPUXRROHhudWZhZ29TYTBuSUZEeFA2NU9yU0xPVFVjX2ZFTWM5Q1VfTzFZWmJydEtlX2VjalppZUNjNThNc0s1SmtuWXREek9INS0yVV9IRDJCUmN2VnY3MGV0RFVRay0tcTh6RmN1dWoycjl4dGdVQmZqQjJ0eW5lVHM1UWU1LUltQ1ZMSXh1TlE4T2xKN3N1YnRYVWtubFJn?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-05T04:30:00+00:00",
    "tag": null
   }
  ],
@@ -3123,12 +3126,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 24
+    "n": 21
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -3152,33 +3155,39 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 19
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE"
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 20
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&"
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl"
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+"
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 8
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d"
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 34
+    "ok": false,
+    "n": 0,
+    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-"
    }
   ],
   "markt": [],
