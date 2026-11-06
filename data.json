@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-06T19:01:34.460928+00:00",
+ "aktualisiert": "2026-11-06T21:01:26.183789+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.745 $",
-   "delta": -0.35808309091457147
+   "wert": "75.799 $",
+   "delta": -0.3973079614386125
   },
   {
    "name": "Ethereum",
-   "wert": "2.230 $",
-   "delta": -0.8921246560948735
+   "wert": "2.228 $",
+   "delta": -0.7915592641397167
   },
   {
    "name": "Gold",
-   "wert": "4.082 $",
-   "delta": -0.7584781815971775
+   "wert": "4.073 $",
+   "delta": -0.9797009845630256
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,210 @@
   ]
  },
  "items": [
+  {
+   "id": "5ced1f76a1b2e707",
+   "k": "deutschland",
+   "titel": "Nach versuchtem Drohnenanschlag – Ermittler fahnden mit KI-Bild nach Person auf Fahrrad",
+   "t": "Nach dem versuchten Drohnenanschlag in Leipzig suchen Ermittler mit einem KI-generierten Bild nach einer Person auf einem E-Bike.",
+   "e": "Ein versuchter Drohnenanschlag ist ein ernstes Sicherheitsthema; die Fahndung läuft noch.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6aee326047b5fce02f87ab50/leipzig-nach-versuchtem-drohnenanschlag-ermittler-fahnden-mit-ki-bild-nach-person-auf-fahrrad.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T20:58:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "9527064b23e867b3",
+   "k": "deutschland",
+   "titel": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+   "t": "Die Union nominiert Bayerns Landtagspräsidentin Ilse Aigner als Kandidatin für die Wahl zur Bundespräsidentin. Eine Politologin bescheinigt ihr viel politische Erfahrung.",
+   "e": "Mit der offiziellen Nominierung wird aus der bisherigen Berichterstattung eine konkrete Personalentscheidung der Union.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T20:54:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "3a58bf36df1cdca3",
+   "k": "usa",
+   "titel": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+   "t": "Senator Chris Murphy (Demokrat, Connecticut) wurde nach einem Schlaganfall aus dem Krankenhaus entlassen. Er wird laut Berichten für mehrere Wochen keine Abstimmungen besuchen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T20:53:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7c807e101bbab4b",
+   "k": "finanzen",
+   "titel": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
+   "t": "Laut Bloomberg beendet Microsoft einen KI-Cloud-Vertrag mit Oracle, weil ältere Nvidia-Chips die Anforderungen nicht mehr erfüllen sollen. Microsoft prüft weitere Cloud-Partnerschaften im Milliardenbereich.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T20:52:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "2a3ff93a857cf5af",
+   "k": "finanzen",
+   "titel": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+   "t": "Der Krypto-Kartenanbieter Gnosis Pay meldet einen Datenabfluss mit Kartendaten, persönlichen Daten und Informationen zu Krypto-Wallets. Laut Unternehmen blieben Kundengelder sicher.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T20:51:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "de96de2ec8d54cb8",
+   "k": "finanzen",
+   "titel": "DOJ, Fed’s Cook Seek Pause in Court Fight Over Trump Firing Push - Bloomberg.com",
+   "t": "Das US-Justizministerium und Fed-Governorin Lisa Cook beantragen eine Pause im Gerichtsstreit um Trumps Versuch, Cook zu entlassen.",
+   "e": "Der Fall berührt die Unabhängigkeit der US-Notenbank Fed, die für Zinsentscheidungen zuständig ist.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1BjTEw4WlZwVGhvOUpOWlE4SVZDTUZlZ1hMWkdKcHREb1lJWks3NHY4b0xqeHU4dzBLT0NRUktpVUF6RFY1eDNSYUJSX0toOVZOWUx3c2VQMVVESUtIMjk2cFgxN202U0JvRWxHdFhRb0tHWTFCRTQ0VEkycmllVGtSZncxYkJQZlJPUzN0WEtaSmV4cUpJTm5DeC1nc1NtWDJsdy01U3V2UnQyejNiNzhkaUFKTFpXMzhWNFB2YS0yR3ZCdTI4Z3Fvb1VHOUlZS0E?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-06T20:50:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "b265d48ef5a1d0e8",
+   "k": "welt",
+   "titel": "Liveblog Ukrainekrieg: Selenskyj und Klitschko streiten über Verantwortung für Kiews Versorgungslage",
+   "t": "In Kiew gibt es Stromausfälle; Selenskyj und Klitschko streiten über die Verantwortung für die Versorgungslage. Die EU-Kommission betont, dass die EU selbst über ihre Sicherheit entscheidet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-selenskyj-und-klitschko-streiten-ueber-verantwortung-fuer-kiews-versorgungslage-faz-110683325.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T20:46:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "9fb09030bd25a919",
+   "k": "finanzen",
+   "titel": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+   "t": "Nach einem Hack bei Binance mit einem Schaden von rund 6,3 Milliarden US-Dollar fordert ein Vertreter von TRM Labs staatliche Gegenmaßnahmen gegen nordkoreanische Hacker.",
+   "e": "Laut Meldungen handelt es sich um einen Rekordwert bei einem Krypto-Diebstahl.",
+   "s": 7,
+   "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T20:36:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "85ef224715e01463",
+   "k": "welt",
+   "titel": "Nach Erkrankung: Papst Leo XIV. zum Auftakt von Südamerika-Reise in Uruguay gelandet",
+   "t": "Papst Leo XIV. ist zum Auftakt seiner Südamerika-Reise in Uruguay gelandet. Die Reise führt auch nach Argentinien und Peru.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-startet-suedamerika-reise-ankunft-in-uruguay-201660547.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T20:33:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "07df84d15b32c567",
+   "k": "deutschland",
+   "titel": "CDU nennt Steuerreform „inakzeptabel“ – und droht SPD mit Blockade",
+   "t": "Die CDU bezeichnet die geplante Steuerreform als inakzeptabel, weil Unternehmen je nach Rechtsform unterschiedlich belastet würden. Fraktionsvize Middelberg droht der SPD mit einer Blockade.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/article6aee3071a389bc337cfc876c/einkommensteuer-cdu-nennt-steuerreform-inakzeptabel-und-droht-spd-mit-blockade.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T20:28:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "e957e9af79aba1b3",
+   "k": "deutschland",
+   "titel": "CDU stürzt weiter ab und ist fast gleichauf mit Linken – AfD mehr als doppelt so stark",
+   "t": "Laut INSA-Umfrage liegt die CDU in Thüringen nur noch einen Prozentpunkt vor der Linken, die AfD ist mehr als doppelt so stark. Die Koalition unter Ministerpräsident Voigt kommt nicht auf eine Dreiviertelmehrheit.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6aee28e947b5fce02f87ab16/insa-umfrage-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T20:24:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "c9ba675beaac69be",
+   "k": "usa",
+   "titel": "Pete Hegseth’s future in doubt as Republicans turn on secretary of war ahead of impeachment push: ‘He’s screwed’",
+   "t": "Nach der Niederlage der Republikaner bei den Midterms wenden sich mehrere Republikaner von Verteidigungsminister Pete Hegseth ab. Einige stellen seine Führung infrage, ein Amtsenthebungsverfahren wird diskutiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/06/us-news/pete-hegseth-becomes-gops-political-scapegoat-after-midterm-bloodbath-as-impeachment-vote-looms/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-06T19:52:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "2ed7c899b2c0efd5",
+   "k": "usa",
+   "titel": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
+   "t": "Der demokratische Abgeordnete Robert Garcia kündigt nach dem Machtwechsel im Repräsentantenhaus im Januar umfassende Untersuchungen gegen Trump, seine Familie und die Regierung an.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T19:42:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "57c366756a10d513",
+   "k": "welt",
+   "titel": "Israel-Wahl: Wen beauftragt Präsident Herzog mit der Regierungsbildung? Drei Wege zeichnen sich ab",
+   "t": "Nach der Israel-Wahl empfiehlt eine Mehrheit der designierten Abgeordneten Gadi Eisenkot für die Regierungsbildung. Sein Lager kommt laut Bericht nur auf 48 der 120 Sitze.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/israel-wahl-wen-beauftragt-praesident-herzog-mit-der-regierungsbildung/100266470.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T19:40:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "65d8d0c93bad2b1c",
+   "k": "welt",
+   "titel": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+   "t": "In Europa sind erneut zahlreiche Bombendrohungen gegen Flugverkehr und Medienhäuser eingegangen. Spanien spricht von einem hybriden Angriff, der kein Zufall sei.",
+   "e": "Die Häufung von Drohungen über mehrere Länder deutet auf einen koordinierten Angriff hin, laut Behörden bestätigt sich dies zunehmend.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T19:39:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "880d594b190384db",
+   "k": "welt",
+   "titel": "Niederlande: Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
+   "t": "In Amsterdam sind Hunderte auf die Baustelle eines Microsoft-Rechenzentrums vorgedrungen. Die Polizei nahm nach Angaben bis zu 200 Menschen fest.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/niederlande-protest-gegen-microsoft-rechenzentrum-in-amsterdam/100268012.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T19:34:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "9bc1781c9723ce2e",
+   "k": "finanzen",
+   "titel": "Wer folgt auf Lagarde bei der EZB? Bislang fallen zwei Namen - ZDFheute",
+   "t": "Für die Nachfolge von Christine Lagarde an der Spitze der EZB sind zwei Kandidaten im Rennen, je einer aus den Niederlanden und aus Spanien.",
+   "e": "Die EZB-Präsidentschaft bestimmt maßgeblich die Zinspolitik des Euroraums und damit Finanzierungskosten in Deutschland.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0s1T2ZIUWc1STRpQ1ZPVk1fcmJndmN3eFFXTWpScHN0OVpYdm9QOWRGQjFxUGhQVVVzbTF4b19yMWlaLURaM2RrbDd4Y2htNmRXeFRmM0lYOElBSmNaU1FfNjM4T1o2T3JHZWs5OFhjTmdwWkR0akk1bzM4aWF2d055QWpJTnBwVU8zYk5hQUY?oc=5",
+   "quelle": "ZDFheute",
+   "zeit": "2026-11-06T19:08:00+00:00",
+   "tag": null
+  },
   {
    "id": "4cb67e922db1ca26",
    "k": "usa",
@@ -517,6 +721,18 @@
    "tag": null
   },
   {
+   "id": "88c868c1220d7143",
+   "k": "nrw",
+   "titel": "NRW schreiben wir zusammen Auftakt der Programmkonferenzen der CDU Nordrhein-Westfalen - CDU Nordrhein-Westfalen",
+   "t": "Die CDU Nordrhein-Westfalen hat die Programmkonferenzen für ihr Grundsatzprogramm eröffnet.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDZ2OGhyZ19NUWhENnFONUhoVERJSmxkUjVHZFNyQlFoazh6WEp1cWhqdi1oZUh3elZCREo4WjNWMjBOS3U1a2ZzYndYNVNSYkRrd1EzcTRwYWVqZ2hpdS1rMTEzbUdINmF1U0ZYVjNTcDdWZDVMWmVzaGs3RTJEMWUwVHpEMTVXQW1pUWhsazQtR1pBRnBIOWxnOW1sNUxpOURyOXZyanZQWGRBakt5MQ?oc=5",
+   "quelle": "CDU Nordrhein-Westfalen",
+   "zeit": "2026-11-06T16:09:00+00:00",
+   "tag": null
+  },
+  {
    "id": "6207f3395b2d2837",
    "k": "welt",
    "titel": "Russia secretly bolstered Iran's missile arsenal before war with US, records uncover",
@@ -838,6 +1054,18 @@
    "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
    "quelle": "CNBC",
    "zeit": "2026-11-06T15:06:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "c4332306d5e04283",
+   "k": "nrw",
+   "titel": "Martinsumzüge in Schwerte und Iserlohn stehen im November an Das müssen Familien wissen - Ruhr Nachrichten",
+   "t": "In Schwerte und Iserlohn finden im November Martinsumzüge statt. Die Veranstalter informieren Familien über die wichtigsten Hinweise.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM2Y4R3ZDVUY3bFpxS0pHSXZyQ3BRbXNoaXdsdjNvZzhNR09KTmNIczRWRGdrNnJRUHB3S2c2Zk5ERDBBbUZqRXB4UFQ1d0VFTE45eWhGMDVteGwtb3loXzMzTlJ4amZ3X2hCVElQN2x1N3VkSWF4ckFGeTV3NHpWWUNBbVEzTzU0MkdObjBXdjJiV3Z0ajhUR0toMG0xTkdadVk2VHBXM3c1RkZ5ZWE0MHFERG5reVBIc09yMFp5eEJBd2Etbkt0N0xLRml1RG4xNkVhT3hUOFM5cWpWd2tXWjc3V3JJZw?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-06T15:03:00+00:00",
    "tag": null
   },
   {
@@ -1537,6 +1765,18 @@
    "tag": null
   },
   {
+   "id": "ea1eb7bb5efd6af9",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Auto fährt über Nagelbrett - absichtliche Tat? - n-tv.de",
+   "t": "In Nordrhein-Westfalen ist ein Auto über ein Nagelbrett gefahren. Die Polizei prüft, ob die Tat absichtlich war.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmJyRE00eDlTQ2x2YkxYOUVCY2NGZ1RvVzByaC1abldUUXZ6bmMwdEVCNDdxUU1aakhVMmxkMGl4UXBmUXBKYUg3aTd4NEM4VlZBRlpEU0tBdkdEcjhkOU1vX1ZoMjlNNGpRQUZSQjI4YzhFNHNwZmVXYXhablZVbkJ5cnpjZE5WWnAzTXlpMk9XMlpHWnJjVlctVXZIMHpObTZMMW1uRFA5T2pBd29yUE93?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T11:27:00+00:00",
+   "tag": null
+  },
+  {
    "id": "8e11eecf60a88eb1",
    "k": "finanzen",
    "titel": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
@@ -1546,6 +1786,18 @@
    "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-06T11:26:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b023146e7bb339d",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Neun Verletzte nach Unfall: Fahrer nach Flucht festgenommen - n-tv.de",
+   "t": "Bei einem Unfall in Nordrhein-Westfalen wurden neun Menschen verletzt. Der Fahrer flüchtete und wurde danach festgenommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWJvTi1DZjJLcVBhS0xaNDRUQUJyamdiN3lRbmdPTExScS1aaWEyek5BaFc2WElZYmZCbjQtLTNia3Q4STlrOHJwNnNZNndacnlCLW1ZMndFYUpQWmFJdTUyMmlZcU1ybjJYNlZVbWRZLUVyb1hsbERZYzZPRWpaS0FFNmtoeENUOUlpX3dBYmg0aVVCVnZQeXFnRS1xcXpyRzFENnROa2QzSWJUNVR0cmRGcDI2YlFPbi1LVFctdEtrY1k?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T11:25:00+00:00",
    "tag": null
   },
   {
@@ -1774,6 +2026,18 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQXzdWbWtSMzVEbjdaXzZLeTN6bXR4SU5LSHByekNPa3Y1QUg0N2Fia1lHZDlxVnhrRU5QQkpSQTFCRGJoNi1SWTZLNzZIZXRCRmRUTFl5WkViS0FsQTN4QVc2cUk4elhtdUQ1azN6ZEZ0RHpfYnBwZ1hlUkthTU9TNFh5aDU5dVpzZnQ3elgtM1lqUEZwbnlVRldlX1czN2pBeXJqbUotdmJHbFdRVDdnNTV4bFpZSnRVZEotMWZBUThadmVpTFFjUDNTTWFWUlpLdDJSVjhhWlh2dmxxWVZNeFZ5Y0QzMHg1UktpNjNNVQ?oc=5",
    "quelle": "MarketScreener Schweiz",
    "zeit": "2026-11-06T10:35:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "c231af8f5eee468d",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Bombe entschärft – Bahnverkehr läuft wieder an - tagesschau.de",
+   "t": "In Nordrhein-Westfalen wurde eine Bombe entschärft, der Bahnverkehr läuft wieder an.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV3poNThSUHBGZy1zZmhPbnl5bmk4Z3V1TkZVRV96emNFckp1dGV5RzNBS0FiNXpyeGFQOE5LV2xlSEFvRjhaWVloWWhFaXV4bmJmMDNzMUl1UGdwdHo3dWoxczVKNTNrc1JuZUp1cUtNaEhhT3ZqelNGaER0ZWhSdnhJc3JWcm9rZ2tUM0szaE1NT095cDJqNGd2VFNYbWZiTFJEbVNNTlEtY0ZTZzEyZ3d0aUlURDBzZEJxeE80VkNJU1o5MDlfVkJQQVRjQkVhUWhzX2Zla2REYTQ?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-06T10:35:00+00:00",
    "tag": null
   },
   {
@@ -2819,270 +3083,6 @@
    "quelle": "FAZ",
    "zeit": "2026-11-06T04:44:41+00:00",
    "tag": null
-  },
-  {
-   "id": "956c6a1554057675",
-   "k": "usa",
-   "titel": "Trump erklärt Oval Office zum Nationaldenkmal – bleibt sein Gold für immer? - Hamburger Abendblatt",
-   "t": "Trump hat das Oval Office zum Nationaldenkmal erklärt, Berichte fragen, was mit dem dort ausgestellten Gold geschieht.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0dRNGdtNWRja24wcEY1NWxGZ1RoQmVTMFc0aDkyX2d4VHp0dmJKTlpsSmQ0ZGpkcHlLcjNTemNiU2MxUmp0N0dXSXpaNFhIUGY1bWQ2UGZUSnlXc3BjeDhXRE5DY2pHZkJuOTRtVF9UNW9pVmNSTEtDRUxNQ1JDMEdsc194dHN5eVZQSnNhUVNaNGJ2ZUlIeHJmZVo2TTdoX1NvRXl3aFAzcGRFMnFXYUlMTmltS1pkNC1fSFRuUUpoQ2U1VGtmdndn?oc=5",
-   "quelle": "Hamburger Abendblatt",
-   "zeit": "2026-11-06T04:44:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "6aa0a618c4cb64b3",
-   "k": "finanzen",
-   "titel": "Milliardenschwerer Betrugsskandal erschüttert Erdogans Machtzentrum",
-   "t": "In der Türkei wird ein milliardenschwerer Börsenbetrugsskandal aufgedeckt, von dem laut Bericht eine halbe Million Kleinanleger betroffen sind.",
-   "e": "Der Skandal belastet das Vertrauen in die Kapitalmärkte und setzt die Regierung Erdogan unter Druck.",
-   "s": 6,
-   "link": "https://www.nzz.ch/international/milliardenschwerer-betrugsskandal-erschuettert-erdogans-machtzentrum-ld.10052178",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9b140ef77623ffc7",
-   "k": "nrw",
-   "titel": "\"König von Deutschland\" vor Gericht : Prozessauftakt gegen Reichsbürger-Gruppe in Düsseldorf - WDR",
-   "t": "In Düsseldorf hat der Prozess gegen eine Reichsbürger-Gruppe begonnen, die sich als „König von Deutschland“ bezeichnet.",
-   "e": "Der Prozess ist ein Beispiel für die Verfolgung von Reichsbürgern in NRW.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGJhdjUyZUhLUkNwOXpQZXJIMGJsekdJUjVDVHAtV01ZaWNaMGtwcEE2dkM1a2RjVndmUC14WFVfcE1EbkpNSVExN0ZJOUw3QlZ3QnUwaDNpQUZOQjZCT1g3V0htcUQ3YTNhYXlWellNQnpDV1k2TGlIczk4d1VaUkM2N1dHMEhJcFRGT0RhblplOFZ5ZHVhSHRneUM0QQ?oc=5",
-   "quelle": "WDR",
-   "zeit": "2026-11-06T04:12:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "4759b791ce160aa7",
-   "k": "welt",
-   "titel": "„Amerikanische und deutsche Soldaten auf litauischem Boden sind für mich der bestmögliche Zustand“",
-   "t": "Litauens Präsident Nauseda sagt, russische hybride Angriffe seien ein entscheidender Test für die Nato.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/plus6aec6244d913494ed7629ef6/litauens-praesident-amerikanische-und-deutsche-soldaten-auf-litauischem-boden-sind-fuer-mich-der-bestmoegliche-zustand.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T04:09:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b337b718fe11f5e",
-   "k": "deutschland",
-   "titel": "Grüne fordern ein Jahr Kita-Pflicht vor der Einschulung für alle Kinder",
-   "t": "Die Grünen fordern ein beitragsfreies Startklar-Jahr als verpflichtende Kita-Zeit vor der Einschulung für alle Kinder.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6aec4ad009e0301c03e80367/bildungskrise-gruene-fordern-ein-jahr-kita-pflicht-vor-der-einschulung-fuer-alle-kinder.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T04:03:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "7340051be0c5d80d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Wichtiger Zeuge sagt im Untersuchungsausschuss aus - tagesschau.de",
-   "t": "Im nordrhein-westfälischen Untersuchungsausschuss hat ein wichtiger Zeuge ausgesagt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUDN1NlM1NlhGQzc2ZTI2UkNCUUdFQ0xISURMMnpPUENkbnR6c2kxSDkxcFA0Nm9hSlUxRDBSc3R3M1MwOUZWUjRpY0JKSTJvY1V0SWctS21Yalk0ZFVkdEdjS0EtcXJOZm5LRVpSRUVtLUtyUm9vMV9YMk9QdG5Bc3VtTlhyMzIyWGtsVFl6ZHROSjcwNmR5NFAybGdHM1lOSWU1VTNFN2tTNVFUT0VjNDE3cFBnTU1CZ3N1UFU3SkpzeTFtVHoxZ2Q4akFtcFgxM29HQjJ0WG0wVVVJSTViYlBhTWM?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T04:01:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c588fea5db7d149",
-   "k": "usa",
-   "titel": "Wahlschlappe und „lahme Ente“: Trumps Debakel: Proben die Republikaner jetzt den Aufstand?",
-   "t": "Nach der Wahlniederlage der Republikaner wagen sich erste Parteimitglieder mit offener Kritik an Präsident Trump aus der Deckung.",
-   "e": "Offene Kritik aus den eigenen Reihen schwächt Trumps Position für die zweite Hälfte seiner Amtszeit.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/wahlschlappe-und-lahme-ente-trumps-debakel-proben-die-republikaner-jetzt-den-aufstand/100267786.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T04:00:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "65d505d9aa4e5ca1",
-   "k": "nrw",
-   "titel": "Erstmals in Deutschland: NRW nutzt eigene KI für Finanzermittlungen - DIE ZEIT",
-   "t": "NRW setzt als erstes Bundesland eine eigene KI für Finanzermittlungen ein.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFBUc081aEJKLWpaUWs3UDlpUnA2aFU4UkN2ejZLWmxVc1JUMktzQWxWUXVPejM2ZlM2Y3YwUEIxd0d6b1lCY21pQVVHS0lpZ0xrR1JURUs2allfMUVVaVV0bDRtY3NnNUxFdGttYmctTk8tZGhJSmJvTkxnajlyQ1dmVXhZdw?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-06T04:00:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "0dcdbe3264cb03db",
-   "k": "welt",
-   "titel": "Möglicher Machtwechsel?: Israel unter Eisenkot: Was sich ändern könnte",
-   "t": "Eine Mehrheit der Abgeordneten in Israel empfiehlt Gadi Eisenkot für den Auftrag zur Regierungsbildung.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/moeglicher-machtwechsel-israel-unter-eisenkot-was-sich-aendern-koennte/100267776.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T03:35:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "4b9dd67db4e3664e",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Lkw mit Salpetersäure umgekippt - tagesschau.de",
-   "t": "In Nordrhein-Westfalen ist ein Lkw mit Salpetersäure umgekippt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZU9nNHhTc2tGR095dUhKbTVuMzM3LXd4enl4dDU0ZEtxUzFkMF81NjlQRkJvbThuWGhKMTUwU1MwejRkaWJ3ZThMa1FOeFpHRDlyakIzcjlvWXFtSFJsd2dmeUlkckYyT0hqWlhQbzNDazIteHpwc2tmNVhHMXFKX1U0b3hTclRJaTZMMnlfVWRBWkhMTW40SUhEcjBsUmF1OHpuMjAyOUYwRWFLdHZ1d2otd1dMY19Jem5CNko3M3lfZDV0Q09rQkFmTno4QUhMVXc?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T03:24:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd76dca0976ff184",
-   "k": "deutschland",
-   "titel": "Hunderte Verfahren wegen sexuellen Fehlverhaltens bei der Bundeswehr",
-   "t": "Die Bundeswehr sieht sich mit hunderten Verfahren wegen sexuellen Fehlverhaltens konfrontiert, eine Dunkelfeldstudie liegt vor.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6aed4647a389bc337cfc75cd/neue-dunkelfeldstudie-hunderte-verfahren-wegen-sexuellen-fehlverhaltens-bei-der-bundeswehr.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T03:23:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "46ae03bca7c66252",
-   "k": "welt",
-   "titel": "Liveblog Nahost: Wieder Angriffe auf Iran? Trump kündigt baldige Entscheidung an",
-   "t": "Trump kündigt eine baldige Entscheidung über neue Angriffe auf Iran an, das Militär bereitet sich laut Berichten auf neue Kämpfe vor.",
-   "e": "Eine Eskalation im Iran-Konflikt hätte direkte Folgen für Ölpreise und die Sicherheitslage im Nahen Osten.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wieder-angriffe-auf-iran-trump-kuendigt-baldige-entscheidung-an-faz-200583539.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T03:14:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "c61e4186c2013a26",
-   "k": "finanzen",
-   "titel": "IPO: KI-Firma Anthropic droht laut Insidern Verzögerung bei Börsengang",
-   "t": "Dem KI-Unternehmen Anthropic droht laut Insidern eine Verzögerung des Börsengangs, da Investoren eine niedrigere Bewertung als die zuletzt diskutierten 1,5 Billionen Dollar fordern.",
-   "e": "Der Ausgang des Anthropic-Börsengangs gilt als Gradmesser für die Bewertung großer KI-Firmen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/ki/ipo-ki-firma-anthropic-droht-laut-insidern-verzoegerung-bei-boersengang/100267771.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T03:14:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "d99345cbc9f9515c",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Nach Treffen mit Dmitrijew – Trump stellt „großes Abkommen“ in Aussicht",
-   "t": "Trump stellt nach einem Treffen mit Dmitrijew ein großes Abkommen im Ukraine-Krieg in Aussicht, die EU zahlt der Ukraine eine weitere Milliardensumme aus.",
-   "e": "Ein möglicher Deal würde die Sicherheitsarchitektur Europas und die Finanzierung der Ukraine direkt berühren.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-treffen-mit-dmitrijew-trump-stellt-grosses-abkommen-in-aussicht/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T03:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "00112724dad0a02c",
-   "k": "welt",
-   "titel": "Paraguay: Bankenskandal bringt Paraguays Präsidenten zu Fall",
-   "t": "In Paraguay ist ein Bankenskandal um eine Digitalbank der Auslöser, der Präsident Santiago Peña das Amt kosten könnte, die Staatsanwaltschaft ermittelt.",
-   "e": "Der Zusammenbruch der Digitalbank zeigt Risiken fintechgetriebener Banken in Schwellenländern.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/paraguay-bankenskandal-bringt-paraguays-praesidenten-zu-fall/100267745.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T03:00:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "9efc3ebdc7552065",
-   "k": "welt",
-   "titel": "Gulf Airports Built to Connect the World Are Now in the Crosshairs",
-   "t": "Die großen Luftdrehkreuze am Golf liegen nach Angaben des Berichts nur wenige Flugstunden von Teilen der Weltbevölkerung entfernt und zugleich nahe an iranischen Raketen.",
-   "e": "Sollte der Luftverkehr am Golf gestört werden, wären zentrale globale Flugrouten betroffen.",
-   "s": 6,
-   "link": "https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-06T03:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fc0d0fa62fc54a6b",
-   "k": "welt",
-   "titel": "Frankreich: Der einsame Präsident – diese Alleingänge kosteten Macron das Vertrauen",
-   "t": "In Frankreich treffen Ausschreitungen und Streiks Präsident Macron, der nach Alleingängen kaum noch Rückhalt hat, sechs Monate vor Ende seiner Amtszeit.",
-   "e": "Die politische Instabilität in Frankreich betrifft die Euro-Zone und die EU-Politik.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/frankreich-alleingaenge-kosteten-macron-das-vertrauen/100264909.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T03:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4fbe7747124be828",
-   "k": "finanzen",
-   "titel": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-   "t": "Nach einem starken Ausverkauf an der Wall Street ist der Nasdaq Composite in die Korrektur gerutscht; asiatische Chipwerte wie SK Hynix, Samsung, Softbank und TSMC fielen deutlich.",
-   "e": "Eine Korrektur bedeutet einen Rückgang von mindestens 10 Prozent gegenüber dem Hoch und trifft den KI-getriebenen Technologiesektor besonders stark.",
-   "s": 8,
-   "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T02:40:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2686010063cc6a6",
-   "k": "nrw",
-   "titel": "Durchsuchungen in ganz NRW: Razzia bei Unternehmen in Kaarst - RP Online",
-   "t": "In Nordrhein-Westfalen gab es Durchsuchungen bei mehreren Unternehmen, unter anderem in Kaarst.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2dvZkJHN25lRWM1aTBLR1F6Y3NYOUxOYUhPbUd4c1dyNkYxbjE2MmFJQ2RpR0NhLWdVMXhvNzBVSjlXWVVIdXlxWG5odnBlUmJ4dGpqT2FMM3EweGdEU0pYQlpIXzJKZFE4TXNSRFFhLWpLM2N3cXNnNDRtcXlsUm5Ld2RCczRURHk3blZKU2dSd2kzV3Zvc2pB?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-06T02:40:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "c253c1d80eecab38",
-   "k": "finanzen",
-   "titel": "Federal Reserve and OCC Contact U.S. Banks to Investigate Cybersecurity Risks - WEEX",
-   "t": "Federal Reserve und OCC haben US-Banken kontaktiert, um Cybersicherheitsrisiken zu untersuchen.",
-   "e": "Aufsichtsmaßnahmen gegen Cyberrisiken werden wichtiger, je mehr Banken Krypto- und KI-Dienste nutzen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWTJPdTB1em1zNnJQMEVOVWl4c1hfU0NaTG9jZjllUGVLWFZyV09pQjlXVXM5eGg5cXl0NW9SMGFiRENpeEJncnl2VnhtLWpJbmJtQ2VWSThhdXRqLWc1WTJ1S3praTc5b0k1X00wcGFTdnNfcDdUUWxObThYUFhDeTVhbENvSzBBSVZQalNQbFpiQ0E4X21MazcyWU5vUW1RZExWXzYtd2hjVXZiTnZ3d2pnbml0aVMxUVVNUVNPTHRSUnR4VWItNEo5ekk2Zw?oc=5",
-   "quelle": "WEEX",
-   "zeit": "2026-11-06T02:38:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ab6113d836442e6",
-   "k": "welt",
-   "titel": "Ecuador: Prozess gegen Drahtzieher nach politischem Mord",
-   "t": "In Ecuador beginnt der Prozess gegen sieben mutmaßliche Hintermänner des Mordes an einem Präsidentschaftskandidaten der Opposition.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/mord-an-villavicencio-prozess-gegen-drahtzieher-in-ecuador-accg-201657270.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T02:37:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "7111e841c352d5e3",
-   "k": "finanzen",
-   "titel": "Künstliche Intelligenz: Apple besorgt sich laut Bericht 7,5 Milliarden Dollar am Anleihemarkt für KI-Ausbau",
-   "t": "Apple will sich laut Bericht 7,5 Milliarden Dollar am Anleihemarkt beschaffen, um den KI-Ausbau zu finanzieren.",
-   "e": "Tech-Konzerne finanzieren ihre teuren Rechenzentren zunehmend über Schulden, was die Kapitalmarktabhängigkeit des KI-Booms zeigt.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-apple-besorgt-sich-laut-bericht-75-milliarden-dollar-am-anleihemarkt-fuer-ki-ausbau/100267762.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T02:34:01+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,7 +3115,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "FAZ",
@@ -3125,7 +3125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 25
+    "n": 27
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Fox News Politik",
@@ -3190,7 +3190,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 33
    }
   ],
   "markt": [],
