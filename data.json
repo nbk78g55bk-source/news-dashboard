@@ -1,54 +1,49 @@
 {
- "aktualisiert": "2026-11-06T21:28:19.040481+00:00",
+ "aktualisiert": "2026-11-06T23:01:36.179974+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,31 €",
-   "delta": -0.37170428994779403
+   "delta": -2.4256559098515207
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,85 €",
-   "delta": 1.160402972554464
+   "delta": -2.6853114434395753
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,64 €",
-   "delta": -0.0036094141921738654
+   "delta": -2.5480612977194506
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,92 €",
-   "delta": 0.4998270682372796
+   "delta": -3.8157741828213187
   },
   {
    "name": "Deka DAX",
    "wert": "225,35 €",
-   "delta": -2.297851305759413
+   "delta": -2.466999773413092
   },
   {
    "name": "Bitcoin",
-   "wert": "75.760 $",
-   "delta": -0.062427643980188297
+   "wert": "75.840 $",
+   "delta": 0.333262503953085
   },
   {
    "name": "Ethereum",
-   "wert": "2.227 $",
-   "delta": 0.004677795841431848
+   "wert": "2.236 $",
+   "delta": 0.40493846418831503
   },
   {
    "name": "Gold",
-   "wert": "4.073 $",
-   "delta": -0.9845630241886449
+   "wert": "4.080 $",
+   "delta": -0.8265467363559043
   },
   {
    "name": "EZB Zins",
    "wert": "2,50 %",
-   "delta": null
-  },
-  {
-   "name": "Fed Funds",
-   "wert": "3,88 %",
    "delta": null
   }
  ],
@@ -85,6 +80,102 @@
  },
  "items": [
   {
+   "id": "90ab7596e64fb08c",
+   "k": "finanzen",
+   "titel": "Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards - Kitco",
+   "t": "Nach dem Sieg der Demokraten bei den US-Zwischenwahlen steigt der Goldpreis. Die Geldpolitik der Federal Reserve bleibt laut Analysten der entscheidende Faktor.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzdISW9TT1BGRXJvMjQ0WUd2RFJzUmtWcDlEem5YZm9HVEl2UENMeXdhLWtFS0ttcjQxd0g2dGJwN0ZLUkVBQllvWm9sUk5FVXhnRXRTZ2FZZk41blpxRjJXQ2FmVzR6VXRqNV80RS11cVJQUVlud3psRDVQcDFUQk9tX3I2bVlCb3VOTk5nSDNHN0RFYWV6RENsQTNsdnRES0l1SG1HNUF2SjdzV2p6bnBwb2I4N0FTbTFOaA?oc=5",
+   "quelle": "Kitco",
+   "zeit": "2026-11-06T22:50:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "4ebb5544d9bb8de6",
+   "k": "welt",
+   "titel": "Bankenaffäre: Paraguays Präsident abgesetzt",
+   "t": "In Paraguay wurde Präsident Santiago Peña wegen einer Bankenaffäre aus dem Amt gedrängt. Die regierenden Colorados halten die Macht.",
+   "e": "Die Colorado-Partei gibt ihren Präsidenten auf, behält aber die Regierungsmacht im Land.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T22:23:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "2a650543ab3c111f",
+   "k": "deutschland",
+   "titel": "Immunität als Abgeordneter – Ermittlungen gegen Berliner SPD-Politiker Krach ruhen",
+   "t": "Seit der konstituierenden Sitzung des Bundestags am 29. Oktober werden keine Ermittlungen gegen den Berliner SPD-Landesvorsitzenden Krach mehr geführt. Die Staatsanwaltschaft prüft, ob sie die Aufhebung seiner Immunität beantragt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6aee4d9047b5fce02f87ac5d/vorwurf-vorteilnahme-immunitaet-als-abgeordneter-ermittlungen-gegen-berliner-spd-politiker-krach-ruhen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T22:09:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "19d40a9eeaaeeaa6",
+   "k": "welt",
+   "titel": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Am Samstag sind erneut Grossdemonstrationen angekündigt",
+   "t": "In Frankreich gehen Schüler, Lehrkräfte und Gewerkschaften seit Wochen auf die Straße. Für Samstag sind erneut landesweite Großdemonstrationen angekündigt, bei früheren Protesten kam es zu Krawallen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T21:54:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "51bde5af114e200d",
+   "k": "finanzen",
+   "titel": "Elon Musk opens the door for a big SpaceX acquisition",
+   "t": "Elon Musk deutet eine große Übernahme durch SpaceX an. Das Raketen- und Satelliteninternet-Unternehmen will den Telekomriesen Konkurrenz machen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T21:45:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a68b09ce74da316",
+   "k": "finanzen",
+   "titel": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+   "t": "Rechenzentren werden zunehmend über Schulden finanziert. Die KI-bezogenen Anleihen enttäuschten in diesem Jahr bei der Wertentwicklung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T21:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "21d38071d6e88d45",
+   "k": "finanzen",
+   "titel": "EZB Zinsentscheid: Notenbank bleibt bei 2,50 Prozent Leitzins - Handelsblatt",
+   "t": "Die EZB lässt den Leitzins unverändert bei 2,50 Prozent.",
+   "e": "Die Entscheidung hält die Zinsen im Euroraum stabil; für Kredite und Sparzinsen ändert sich damit vorerst nichts.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByX2c2LVNEYUhOcEVGenZqY3R6WWxoakhfRFJiS3ZrZXRqaVY3dEhuT3R4eFY2dW5kZEMzX0ljVkFybnJBa2wzQnRFZGhpZU5ycnZBSGRCTzlMOFBYQ3BMX3N5d2dLOXlIVzM4?oc=5",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T21:33:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "b7be52bd14f63312",
+   "k": "deutschland",
+   "titel": "13-Jähriger sticht bei Streit im Park 15-Jährigen mit Messer nieder – Lebensgefahr",
+   "t": "In Hessen hat ein 13-Jähriger bei einem Streit in einem Park einen 15-Jährigen mit einem Messer schwer verletzt. Das Opfer schwebt in Lebensgefahr.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/article6aee459847b5fce02f87ac1b/marburg-13-jaehriger-sticht-bei-streit-im-park-15-jaehrigen-mit-messer-nieder-lebensgefahr.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T21:32:20+00:00",
+   "tag": null
+  },
+  {
    "id": "36d78b7fda42660a",
    "k": "usa",
    "titel": "DSA wave storms Congress — and radical comments on 9/11, abolishing police and arresting enemies come into the spotlight",
@@ -94,6 +185,18 @@
    "link": "https://nypost.com/2026/11/06/us-news/dsa-wave-storms-congress-and-radical-comments-on-9-11-abolishing-police-and-arresting-enemies-come-into-the-spotlight/",
    "quelle": "New York Post Politik",
    "zeit": "2026-11-06T21:26:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "07c83d3f6b47ae0c",
+   "k": "finanzen",
+   "titel": "Deutsche Autohersteller: Kein Plan für China",
+   "t": "Volkswagen, Mercedes und BMW kämpfen auf dem chinesischen Automarkt mit Schwierigkeiten. Chinesische Hersteller drängen nun auch verstärkt nach Europa.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vw-mercedes-und-bmw-wie-die-deutsche-autoindustrie-in-china-scheitert-201647881.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T21:23:32+00:00",
    "tag": null
   },
   {
@@ -226,6 +329,18 @@
    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-selenskyj-und-klitschko-streiten-ueber-verantwortung-fuer-kiews-versorgungslage-faz-110683325.html",
    "quelle": "FAZ",
    "zeit": "2026-11-06T20:46:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "f6efe4951829553f",
+   "k": "usa",
+   "titel": "The Hitchhiker’s Guide to what happens next on Capitol Hill",
+   "t": "Im US-Repräsentantenhaus ringen Steve Scalise und Jim Jordan um den Posten des Fraktionschefs der Republikaner. Neue progressive Abgeordnete fordern zudem die Führung der Demokraten um Schumer und Jeffries heraus.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/hitchhikers-guide-what-happens-whats-next-capitol-hill",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-06T20:42:20+00:00",
    "tag": null
   },
   {
@@ -589,6 +704,18 @@
    "tag": null
   },
   {
+   "id": "59c29a8590a7a0e0",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Dorstenerin soll 13.000 Euro zahlen - tagesschau.de",
+   "t": "In Nordrhein-Westfalen soll eine Frau aus Dorsten 13.000 Euro zahlen. Weitere Details nennt die Meldung nicht.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVk80VXp2eFNSUDhzUWRmeGJtOWZSeTNsYWdGOXd3U1hEMm5YUVppWmJEVEJFdEwxUFV1OV8yc2lmM3p3R21wYTJaYWhXU0lJb0J5UWRId3NfR2ZLSEJ1U0FDWFpabWhWTkdkS3BGTm5GbFAyRVBwZHhSSXBWTTVKc0tXU1dieFUtYWZDX19RRkZoLV84aXQwMUxjZTNreDJwTy10YkZYb3Z2bENuSjZESHdMcHJQcW5jTDVhZllDRS1NSkExbnplQ2NOYThLVjB3NnpSMldR?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-06T17:54:00+00:00",
+   "tag": null
+  },
+  {
    "id": "0beccb02f1eb10ac",
    "k": "finanzen",
    "titel": "Futuristischer Flop: Musk kündigt Ende von Cybertruck-Produktion in Texas an",
@@ -721,6 +848,18 @@
    "tag": null
   },
   {
+   "id": "70526c5ab0c2e267",
+   "k": "finanzen",
+   "titel": "„Es war ein schwarzer Donnerstag. Der teuerste Tag der Geschichte“",
+   "t": "Am Donnerstag kam es zu einem starken Ausverkauf im Tech-Sektor. Der US-Marktwert sank laut Berichten um rund 2,8 Billionen Dollar.",
+   "e": "Der Wertverlust übertrifft nach Angaben des Berichts den Einbruch während der Corona-Krise, was die Anfälligkeit hoch bewerteter Techaktien zeigt.",
+   "s": 7,
+   "link": "https://www.welt.de/mediathek/talk/deffner-und-zschaepitz/video6aee06de320931eb80f5ca9f/deffner-zschaepitz-es-war-ein-schwarzer-donnerstag-der-teuerste-tag-der-geschichte.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T17:13:30+00:00",
+   "tag": null
+  },
+  {
    "id": "9d32105ef9797cd2",
    "k": "finanzen",
    "titel": "Bawag erhält EZB-Genehmigung für PTSB-Übernahme - Börse Social",
@@ -742,6 +881,18 @@
    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
    "quelle": "CNBC",
    "zeit": "2026-11-06T17:09:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "150c565ce0d85a2c",
+   "k": "deutschland",
+   "titel": "„Umstand, den ich bewerten muss“ – Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+   "t": "Der AfD-Politiker Ulrich Siegmund schließt nach dem angekündigten Verlassen des Saals durch die CDU bei der Ministerpräsidentenwahl in Sachsen-Anhalt weitere Wahlgänge nicht aus.",
+   "e": "Die Wahl zeigt, wie stark die Mehrheitsverhältnisse in Sachsen-Anhalt von der Haltung der CDU zur AfD abhängen.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6aedf9e6320931eb80f5c9a8/ministerpraesidentenwahl-umstand-den-ich-bewerten-muss-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T17:08:50+00:00",
    "tag": null
   },
   {
@@ -790,6 +941,18 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa1I4RGloMGZZOUNfb091SzFCYlpib0w4cTdLaENlQ2RQZG5tN0RsLVNNZVRPQmVzMjNfaEY3ZHJqVDF5dElidFNxeXpKaVFYLTM2ZVpjMjNDVXp5VTg3cGUyclVLQjRPa0lxRWMzZl8tazdGVW9JN0hYODJkV2ctdlJBLWpLaDRSa1pTVG5MNTFhRzZsUnF2NzZqVVdfNE4weFU1blVvMlh0S3FwekM1TmI2Y0RJUDFuamtLZ0tTcldKUjFXeXFsNzdqdzdtSWdOVTl4UlB3R21YUQ?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-06T16:51:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "a848dc8a350c428a",
+   "k": "finanzen",
+   "titel": "Kevin Warsh wins the midterm elections, for now - Breakingviews",
+   "t": "Kevin Warsh hat nach einer Analyse von Breakingviews die Zwischenwahlen gewonnen, allerdings vorerst. Details zu seiner Rolle nennt die Kurzmeldung nicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDJ6ZFdMeW9vSVBTYUYxekVrTnNlZnByMkYyWW92ZEhaTFYwMEN4dXBEUXY2TG5DbUtQQ0tXdm8ya1YzNXprRGJSQWF0WWhxWFJwRDAxOGZFaU5iUVNyaFA0V2RiOHJYd0pGRmFySGsyTlVZaFlZNkgtMW1nV2tHbFFHVmc3UXJKd2dyRS1kcFlYdnpNZF9Nc2ZodkdUcXY5QnU2QlFVRQ?oc=5",
+   "quelle": "Breakingviews",
+   "zeit": "2026-11-06T16:49:10+00:00",
    "tag": null
   },
   {
@@ -898,6 +1061,18 @@
    "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T16:19:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "55cd197d6c279fdd",
+   "k": "finanzen",
+   "titel": "US-Börsen: Anleger greifen nach Ausverkauf bei Tech zu – US-Börsen im Plus",
+   "t": "Die US-Technologiewerte erlebten einen starken Ausverkauf: Der Nasdaq verlor am Donnerstag über sechs Prozent, am Freitag erholten sich die US-Börsen. Anleger nutzten die niedrigeren Kurse zum Einstieg.",
+   "e": "",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erholung-bei-tech-werten-stuetzt-us-boersen-dow-jones-schliesst-tiefer/100267929.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T16:17:33+00:00",
    "tag": null
   },
   {
@@ -1465,6 +1640,18 @@
    "tag": null
   },
   {
+   "id": "de12bac84ffdfae7",
+   "k": "welt",
+   "titel": "Wetterphänomen: EU: 13,5 Millionen Euro für El-Niño-Vorbereitung in Afrika",
+   "t": "Die EU stellt 13,5 Millionen Euro bereit, damit sich afrikanische Länder auf einen El Niño vorbereiten können. Der erwartete El Niño gilt als so stark wie noch nie gemessen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/wetterphaenomen-eu-135-millionen-euro-fuer-el-nino-vorbereitung-in-afrika/100267961.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T14:48:54+00:00",
+   "tag": null
+  },
+  {
    "id": "f61707ba5d17c206",
    "k": "finanzen",
    "titel": "Tech-Aktien: Drei Gründe für den Ausverkauf – und was jetzt Hoffnung macht",
@@ -1777,6 +1964,18 @@
    "tag": null
   },
   {
+   "id": "64f742cb371676ee",
+   "k": "finanzen",
+   "titel": "Tesla will Cybertruck-Produktion in Texas einstellen",
+   "t": "Tesla will die Produktion des Cybertruck in Texas einstellen. Das Elektroauto blieb hinter den Erwartungen zurück, die Fläche soll für ein anderes Modell genutzt werden.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T13:09:10+00:00",
+   "tag": null
+  },
+  {
    "id": "43157b8a34320007",
    "k": "nrw",
    "titel": "Fahrplan für Wirtschaft und Politik: Märkischer Kreis stellt neues Energie-Konzept vor - Come-on",
@@ -1798,6 +1997,30 @@
    "link": "https://www.foxnews.com/politics/we-didnt-expect-this-texas-democrats-stunned-blue-wave-topples-gop-stronghold",
    "quelle": "Fox News Politik",
    "zeit": "2026-11-06T13:02:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "52ff8aadcd125911",
+   "k": "welt",
+   "titel": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
+   "t": "Der EU-Klimadienst Copernicus erwartet, dass die 1,5-Grad-Marke im Jahr 2026 wohl überschritten wird. Der Oktober war der wärmste jemals gemessene.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T13:02:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "0eeeb81c443a1799",
+   "k": "finanzen",
+   "titel": "New York Fed: Williams sieht Inflation zu hoch – Rückkehr zum 2-Prozent-Ziel nötig - Nachrichten und Statistiken - IndexBox",
+   "t": "New-York-Fed-Präsident Williams hält die Inflation für zu hoch und fordert eine Rückkehr zum 2-Prozent-Ziel.",
+   "e": "Die Aussage zeigt, dass die Fed trotz nachlassender Dynamik nicht von ihrem Inflationsziel abrücken will.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnVYb0pfSVh6blp4SXhrZ0h2V2stYlBKNjV3eVFhQXZxd3FpNmR2aElwSEdDSDdCQml0d0JvTGM4eC1Tb2JLd2hpSjRrYnp2cW9lQ2FYTDhOUzB0bXpZOVRiYWpoaEJDeXZsM0k5bENrU2hidE9kTngxQmlTa2N3Z2V3Mmt6b2lOUDdzc19ILTJwT2libDNOQy1ldFMtd2NpTFpqMTB3?oc=5",
+   "quelle": "IndexBox",
+   "zeit": "2026-11-06T13:00:37+00:00",
    "tag": null
   },
   {
@@ -2569,6 +2792,18 @@
    "tag": null
   },
   {
+   "id": "039ac3e2fe676e1b",
+   "k": "deutschland",
+   "titel": "Medien über Bas-Rücktritt: Was gibt es noch zu kontern?",
+   "t": "Bärbel Bas ist zurückgetreten. Eine Analyse befasst sich mit dem medialen Umgang mit dem Rücktritt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/feuilleton/baerbel-bas-bei-markus-feldenkirchen-ueber-das-scheitern-201655151.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T09:46:27+00:00",
+   "tag": null
+  },
+  {
    "id": "9ac73dc5a664e8a2",
    "k": "nrw",
    "titel": "Höne führt FDP NRW in die Landtagswahl - politik&kommunikation",
@@ -2590,6 +2825,18 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSzhybTVKU1BjNERWclMwYm83TURyYjFWTGQ3TGdnOXNDUUFscHNmQnl0TWhZQjBPX1k4NUlnWjhUMDNRVU1uYXZvTlhMb0NQQlQxc3luSUQzeERnLWZHNnRkUkd2WjZpZk9FNl8xOVpIcWxkeDc4SkU0ckgtbURyUnk3dVFoOGI3a01PLU5EcTdkcFk?oc=5",
    "quelle": "Börse Global",
    "zeit": "2026-11-06T09:39:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "a8422e7649dcec1c",
+   "k": "finanzen",
+   "titel": "U.S. Imposes Four-Year Ban on Federal Reserve Digital Dollar - ForkLog",
+   "t": "In den USA wird ein digitaler Dollar der Notenbank für vier Jahre verboten.",
+   "e": "Ein Verbot eines Fed-CBDC verhindert vorerst staatliches digitales Zentralbankgeld in den USA und stärkt private Stablecoins.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMW5JUzJrQTRpNnlJREhUX1lkSUh0NTNoOHVKZHUzTU1iSFpacnl4cjBiWkxTYm9VUk13Z2VScTZVRy11UU5IcGdxS081aGE3MXR0X2hTWG01SGNFNTVSZEdRU1p3ajQ3QzBLdENqOGZoT0RjVGNDX2l3dGg0MzA4ZnA1bGotdU1CSzI0?oc=5",
+   "quelle": "ForkLog",
+   "zeit": "2026-11-06T09:38:44+00:00",
    "tag": null
   },
   {
@@ -2831,258 +3078,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-06T08:19:18+00:00",
    "tag": null
-  },
-  {
-   "id": "9a31b72ff5e7a20b",
-   "k": "nrw",
-   "titel": "Gift-Alarm in NRW: Bahnverkehr beeinträchtigt, Schulen geschlossen - TAG24",
-   "t": "In NRW wurde ein Giftalarm ausgeloest, der Bahnverkehr ist beeintraechtigt und Schulen wurden geschlossen.",
-   "e": "Der Vorfall betrifft das laufende Alltagsleben in mehreren Regionen; weitere Details liegen in der Kurzmeldung noch nicht vor.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHh4YlQ2SU1POFZhM3FCeDZweFBQTFpTSkJMV1B0Qy1TYmlJU3FMQ2k2bHJ1T2lPLW9ydG1TYlBNRW9ydXQtcGFEZHVtSWxrb2RiR19ON2h3X2RzOVZVU3RYdlFHZHdIS3J3VHV3MzZ1U2k3ajJYNkJMLTNTUm5oOHd2aFRtdE5XX29IY1RpUVAtMkliLWJuZjBKZ2FjUUd0QkJ3MDlJdHJGbVZBaFRWNGhGY3NEeE43T0VPaHRkeE8?oc=5",
-   "quelle": "TAG24",
-   "zeit": "2026-11-06T08:18:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "42cbb29cf097b249",
-   "k": "deutschland",
-   "titel": "„Dieser Auftritt spricht Bände“ – Grüne empört über Ukraine-Vorgehen der AfD",
-   "t": "Die AfD bietet der früheren Sprecherin Selenskyjs, Julia Mendel, im Bundestag eine Bühne. Die Grünen werfen der AfD russische Propaganda vor.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6aed7e42a389bc337cfc7801/julia-mendel-dieser-auftritt-spricht-baende-gruene-empoert-ueber-ukraine-vorgehen-der-afd.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T08:17:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "6776e5f1cd7aae9b",
-   "k": "finanzen",
-   "titel": "Chipaktien an den internationalen Börsen im freien Fall",
-   "t": "Ein weltweiter Abverkauf bei Chip- und Techaktien hat wichtige Indizes stark fallen lassen. In Seoul wurde der Handel zeitweise ausgesetzt, in den USA war es der schlimmste Einbruch seit 2020.",
-   "e": "Die Kursverluste treffen vor allem KI-nahe Werte und setzen die Debatte über Bewertungen und Regulierung von KI unter Druck.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T08:09:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "6f3d2521400d5512",
-   "k": "deutschland",
-   "titel": "Warum „Transfrauen“ aus der Kriminalstatistik verschwinden",
-   "t": "Die deutsche Kriminalstatistik führt verurteilte Sexualstraftäter unter sogenannten „Transfrauen“ als Frauen, obwohl deren Delikte häufiger vorkommen als in der männlichen Gefängnispopulation.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/debatte/plus6ace1c77a3d42c2e8cd5267f/sexualverbrechen-warum-transfrauen-aus-der-kriminalstatistik-verschwinden.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T08:09:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "a72d3718b4fab5c3",
-   "k": "deutschland",
-   "titel": "INTERAKTIV - Tankrabatt drückt die Spritpreise – die aktuellen Zahlen zur Energieversorgung in Deutschland",
-   "t": "Der Tankrabatt drückt die Spritpreise, NZZ veröffentlicht täglich aktuelle Zahlen zur Energieversorgung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T08:03:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "943127d446ecfc13",
-   "k": "finanzen",
-   "titel": "EZB prüft Indikatoren für mögliche Zinserhöhung im Dezember - aktien.news",
-   "t": "Die EZB prüft Indikatoren für eine mögliche Zinserhöhung im Dezember.",
-   "e": "Eine Zinserhöhung der EZB würde Kredite und Baufinanzierungen in Deutschland verteuern und ist ein wichtiges Signal für die Eurozone.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjBlVlRUQzBHZmUtWDU0ZlhEUEdtczNHeW1OWGlwLVJOV2F6dGV1R1BQNEFBZ3JjU2ZLYzNjVkdBcXJVbEpIN3lacm5uYmc1WHA1UDlYcVJ4bVF1S3FXeW9NcFVreVp3ZzlpZWk2eGNXV0QzbmM5bHNSMWtMb3FPal9RcHdRcjJ5UWdj?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-06T07:58:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "ccdeb559f98be9a9",
-   "k": "welt",
-   "titel": "„Den großen Durchbruch, so wie Trump ihn verkündet hat, da gehe ich nicht von aus“",
-   "t": "In Abu Dhabi sollen kommende Woche Vertreter der Ukraine, Russlands und der USA zusammenkommen. Ein Korrespondent erwartet keinen schnellen Durchbruch.",
-   "e": "Die Gespräche betreffen den Krieg in der Ukraine und damit Energiepreise und Sicherheitslage in Europa.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/video6aed7f9d1d9d38d6d601ae2c/ukraine-gespraeche-in-abu-dhabi-den-grossen-durchbruch-so-wie-trump-ihn-verkuendet-hat-da-gehe-ich-nicht-von-aus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T07:50:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "7e8890dbfb040046",
-   "k": "finanzen",
-   "titel": "Autoindustrie: Drei Autobauer, vier Gewinnwarnungen: Die Elektrowelle überrollt VW, BMW und Mercedes",
-   "t": "Die Gewinne der deutschen Autobauer sind im dritten Quartal eingebrochen, bei VW, BMW und Mercedes gab es zusammen vier Gewinnwarnungen. Die Elektro-Nachfrage in Europa steigt, während der Verbrenner in China einbricht.",
-   "e": "Die Branche steht unter doppeltem Druck durch Konkurrenz aus China und den Umbau zur Elektromobilität, was auch Arbeitsplätze in Deutschland betrifft.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-die-elektrowelle-vw-bmw-und-mercedes-ueberrollt/100265334.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T07:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "902e9b39a1245b1d",
-   "k": "finanzen",
-   "titel": "Restriktivere Fed-Geldpolitik: Goldman Sachs senkt Goldpreisprognosen deutlich - Investing.com Deutsch",
-   "t": "Goldman Sachs senkt seine Goldpreisprognosen deutlich, begründet mit einer restriktiveren Geldpolitik der Fed.",
-   "e": "Die Prognosesenkung zeigt, wie stark der Zinskurs der Fed den Goldpreis beeinflusst.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMl9HWG9zbXBGX3IzVGFzVnpBRV9PSlFLUTBmRHozQmFpVTV2VGlLcVBmZ01aS0RJZTRORWJXMXI4VFpXZUR0dUJRSHNIMzlXMFZ4aVVCRklROVlKSjNtTERoWERvSUd1aHA2cnZtSlY5eDdFWUJCZnZsbWFqd2dXZzBNRWRDQzZjZ3VzRmE5Zy1LcWhuVktoUW85enY5aU9sZVU3dW91b21sQ3lTbXI2S0dGTWYtbWNoODZrUHpzOEpOUGNJN1I2b19TVQ?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-06T07:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "895221ae24e26e02",
-   "k": "deutschland",
-   "titel": "„Berlin zahlt für den Wahlsieg der Linken schon heute einen hohen Preis“, klagt Evers",
-   "t": "Berlins Finanzsenator Stefan Evers berichtet von Schwierigkeiten bei der Kreditaufnahme nach dem Wahlsieg der Linken, unter anderem wegen geplanter Vergesellschaftungen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6aed7011a389bc337cfc7701/cdu-landeschef-berlin-zahlt-fuer-den-wahlsieg-der-linken-schon-heute-einen-hohen-preis-klagt-evers.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T07:38:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4fe3f24faa0f645",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Bewaffneter Überfall auf Bonner Tankstelle - n-tv.de",
-   "t": "In Bonn wurde eine Tankstelle bewaffnet überfallen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWNrNUR6LVUxV2pzb003VlhVQnhLWm1vZjZha0FfQWdndHloRDFvNjJlNzBPWkpsNHhQNUhYbzluMGpJYVM5LXdnVnRGelFKbDRQMUNPNGdhcTl4Y2YxbV80cENGUGtmdzNQMFV5MWdjajQxWElKb0VhTVdHX3VGUWluUDg2TlVHNG5yYlk3YkNfY0RwYjRjZGlwaXVjVUVHNXg1ajdqcTFoSVNSaTdR?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T07:36:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5722db17102c7383",
-   "k": "finanzen",
-   "titel": "Rüstung: Wie Armin Papperger bei Rheinmetall an seine Grenzen stößt",
-   "t": "Rheinmetall-Chef Armin Papperger steht nach Kratzern in der Wachstumsgeschichte des Rüstungskonzerns in der Kritik.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-wie-armin-papperger-bei-rheinmetall-an-seine-grenzen-stoesst-01/100251097.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T07:34:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6aed436ffeea307b",
-   "k": "usa",
-   "titel": "Los Angeles bekommt linke Bürgermeisterin",
-   "t": "Los Angeles wählt mit Nithya Raman eine Bürgermeisterin aus dem linken Flügel der Demokraten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T07:32:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "336e85333108bdd6",
-   "k": "usa",
-   "titel": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
-   "t": "Nach der Niederlage bei den Zwischenwahlen streiten die US-Republikaner über den künftigen Kurs der Partei und über Schuldzuweisungen.",
-   "e": "Die Richtungsdebatte entscheidet über die Ausrichtung der Republikaner nach der Trump-Ära.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T07:31:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "81f38d6218a57498",
-   "k": "deutschland",
-   "titel": "Bundestag debattiert über Krawalle im Umfeld der „Gen Z regelt“-Demonstrationen",
-   "t": "Der Bundestag debattiert in einer Aktuellen Stunde über Krawalle im Umfeld der 'Gen Z regelt'-Demonstrationen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6aed80071d9d38d6d601ae30/aktuelle-stunde-bundestag-debattiert-ueber-krawalle-im-umfeld-der-gen-z-regelt-demonstrationen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T07:31:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "512599148c02fbf5",
-   "k": "finanzen",
-   "titel": "Arbeitslosigkeit, Atomausstieg, KI – Die schonungslose Deutschland-Diagnose des ABB-Chefs",
-   "t": "ABB-Chef Morten Wierod sieht Deutschland als Industriestandort wegen hoher Energiekosten und langsamer Reformen gefährdet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6ae5cf7b78361cba85d9bd7f/interview-mit-morten-wierod-arbeitslosigkeit-atomausstieg-ki-die-schonungslose-deutschland-diagnose-des-abb-chefs.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T07:25:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "cb48e66ffa87acac",
-   "k": "usa",
-   "titel": "Gouverneur Newsom wandelt 548 Todesurteile in lebenslange Haft um",
-   "t": "Kalifornias Gouverneur Gavin Newsom hat kurz vor seinem Ausscheiden die Todesurteile von 548 Häftlingen in lebenslange Haft umgewandelt.",
-   "e": "Die Entscheidung fällt kurz vor dem Ende seiner Amtszeit und ist eine der größten Gnadenmaßnahmen dieser Art in den USA.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/video6aed772d47b5fce02f879b78/todesstrafe-in-kalifornien-gouverneur-newsom-wandelt-548-todesurteile-in-lebenslange-haft-um.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T07:20:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "dccfcea4bc97980b",
-   "k": "deutschland",
-   "titel": "100 Tage im Amt: Eine Bilanz zur bisherigen Arbeit von Verkehrsminister Steffen Bilger",
-   "t": "Verkehrsminister Steffen Bilger zieht nach 100 Tagen im Amt eine Bilanz seiner bisherigen Arbeit.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/video/video-1679032.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T07:19:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "7bba81d09b527bc9",
-   "k": "finanzen",
-   "titel": "Zweistellige Kursverluste: KI-Sorgen lassen Asiens Börsen einbrechen",
-   "t": "In Tokio, Seoul und Taipeh brechen die Kurse großer KI-Profiteure teilweise zweistellig ein. Anleger befürchten nach der US-Wahl strengere Regeln für den Bau von KI-Rechenzentren.",
-   "e": "Die Sorge vor Regulierung trifft die KI- und Halbleiterwerte Asiens direkt, das Ausmaß der Verluste ist für einzelne Titel außergewöhnlich.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/finanzen/ki-sorgen-lassen-asiens-boersen-einbrechen-accg-201657580.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T07:17:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "87c76faa58f9f663",
-   "k": "finanzen",
-   "titel": "Konjunktur: Industrieproduktion in Deutschland wächst überraschend",
-   "t": "Die deutsche Industrieproduktion ist im September trotz hoher Energiepreise und Dürre überraschend gestiegen. Die revidierten Vormonatszahlen dämpfen das Bild allerdings.",
-   "e": "Der Anstieg kam überraschend; die Revision des Vormonats relativiert ihn und zeigt, wie volatil die Daten sind.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-industrieproduktion-in-deutschland-waechst-ueberraschend/100267824.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T07:16:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "bd4b0962ab1a9cec",
-   "k": "finanzen",
-   "titel": "Brent Crude Climbs Above $100 as Middle East Oil Supply Risks Persist",
-   "t": "Brent-Rohöl ist über 100 Dollar je Barrel gestiegen, nachdem Sicherheitsrisiken für Öltransporte im Nahen Osten erneut im Raum stehen.",
-   "e": "Ein Ölpreis über 100 Dollar belastet Konjunktur und Inflation und hat damit direkten Einfluss auf die Zinspolitik der Notenbanken.",
-   "s": 7,
-   "link": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-06T07:15:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3085,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
@@ -3120,7 +3115,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 30
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,7 +3140,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 27
+    "n": 23
    },
    {
     "name": "CNBC Finance",
@@ -3195,7 +3190,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "Google News NRW",
@@ -3210,15 +3205,17 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 35
+    "n": 33
    }
   ],
-  "markt": [],
+  "markt": [
+   "Fed Funds: Expecting value: line 1 column 1 (char 0) / HTTPSConnectionPool(host='fred.stlouisfed.org', port=443"
+  ],
   "briefing": null
  }
 }
