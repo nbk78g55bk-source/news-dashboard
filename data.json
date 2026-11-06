@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-06T15:01:39.738852+00:00",
+ "aktualisiert": "2026-11-06T15:53:42.876855+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,11 €",
-   "delta": -0.5360363961341097
+   "wert": "126,81 €",
+   "delta": -0.7668838786339394
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,92 €",
-   "delta": 1.3218905029553474
+   "wert": "43,45 €",
+   "delta": 0.2330031551093681
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,91 €",
-   "delta": -0.5301339751243583
+   "wert": "137,93 €",
+   "delta": -0.5157086446878623
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "172,52 €",
-   "delta": 0.2673500220465863
+   "wert": "171,64 €",
+   "delta": -0.24409947957295675
   },
   {
    "name": "Deka DAX",
-   "wert": "224,05 €",
-   "delta": -2.8614758600195023
+   "wert": "225,15 €",
+   "delta": -2.3845627756455823
   },
   {
    "name": "Bitcoin",
-   "wert": "75.419 $",
-   "delta": -3.5084573093773703
+   "wert": "75.681 $",
+   "delta": -0.018542181591408188
   },
   {
    "name": "Ethereum",
-   "wert": "2.223 $",
-   "delta": -4.994915852297702
+   "wert": "2.226 $",
+   "delta": -1.0960845886261719
   },
   {
    "name": "Gold",
-   "wert": "4.054 $",
-   "delta": -1.4464567886228297
+   "wert": "4.060 $",
+   "delta": -1.3054576394797568
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,294 @@
   ]
  },
  "items": [
+  {
+   "id": "ae242be1f34c508a",
+   "k": "welt",
+   "titel": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
+   "t": "Auf El Hierro kommen seit Anfang November wieder deutlich mehr Flüchtlinge an. Die spanischen Behörden warnen vor einer Lage wie in früheren Jahren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-06T15:48:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "e6c6d277e51738e7",
+   "k": "nrw",
+   "titel": "KI-Fakes: Minderjährige fürchten Fake-Nacktbilder im Netz",
+   "t": "Kinder und Jugendliche fürchten zunehmend, Opfer von KI-generierten Nacktbildern zu werden. Die Landesmedienanstalt NRW fordert mehr rechtlichen Schutz.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kinder-fuerchten-pornographische-deepfakes-im-netz-201657670.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T15:47:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "0ab6f2649586367b",
+   "k": "deutschland",
+   "titel": "Reichsbürger: Prozessbeginn gegen Anführer des „Königreichs Deutschland“",
+   "t": "Vor dem Oberlandesgericht Düsseldorf hat der Prozess gegen führende Mitglieder der Reichsbürger-Gruppe „Königreich Deutschland“ begonnen, darunter der mutmaßliche Anführer Peter Fitzek.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/video/politik/reichsbuerger-prozessbeginn-gegen-anfuehrer-des-koenigreichs-deutschland/100267973.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T15:47:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "146a4c510328c899",
+   "k": "deutschland",
+   "titel": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
+   "t": "Die CDU will offenbar Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominieren, laut mehreren Medienberichten.",
+   "e": "Die Nominierung wäre eine Vorentscheidung für das höchste Staatsamt, das nach der CDU-Absprache an die CSU geht.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T15:43:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "96ad7871aae133ae",
+   "k": "finanzen",
+   "titel": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+   "t": "Die Wettquoten auf einen Anthropic-Börsengang vor Dezember sind bei Kalshi gesunken, nachdem KI-Aktien nach den Midterms unter Druck gerieten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T15:42:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "3a3dfc42c6873805",
+   "k": "deutschland",
+   "titel": "„Die Mehrheiten können auch von der AfD kommen“",
+   "t": "CDU-Abgeordneter Tullner warnt seine Fraktion vor einer Festlegung bei der Ministerpräsidentenwahl in Sachsen-Anhalt und sagt, Mehrheiten könnten auch von der AfD kommen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/plus6aed85db1d9d38d6d601ae75/cdu-in-sachsen-anhalt-die-mehrheiten-koennen-auch-von-der-afd-kommen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T15:32:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "fb798e3be4ccc71c",
+   "k": "usa",
+   "titel": "Drei US-Staaten vollstrecken Todesstrafe am selben Tag – Jede zweite Hinrichtung in Florida",
+   "t": "Florida, Indiana und Alabama haben am selben Tag je einen zum Tode verurteilten Mann hingerichtet. Drei Exekutionen an einem Tag gab es zuletzt im August.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6aede701320931eb80f5c6fb/todesstrafe-drei-hinrichtungen-an-einem-tag-und-kalifornien-zieht-die-notbremse.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T15:32:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "7afc426dc86726eb",
+   "k": "deutschland",
+   "titel": "Kleinflugzeug auf A2 abgestürzt - zwei Tote",
+   "t": "Auf der A2 bei Magdeburg ist ein Kleinflugzeug verunglückt. Die beiden Insassen wurden tot geborgen, die Unfallursache ist unklar.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/polizei-feuerwehr-einsatz,a-zwei-flugzeug-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T15:32:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "bb137d6e20ceabd4",
+   "k": "nrw",
+   "titel": "VG-Vorlage: Hat NRW seine Beamten jahrelang zu schlecht bezahlt? - LTO.de",
+   "t": "Eine Vorlage des Verwaltungsgerichts wirft die Frage auf, ob das Land NRW seine Beamten jahrelang zu niedrig besoldet hat.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2FUTnhxdU1SVGwwRmxmVTk0amMzSEdVaG9VVzhVVG01ZlFFSnZVLWh4WTFTRUF1QUpPazJiY1Vnb3JKLWdVZGhOSEVuaGQtNE96cllrdmVELUE1aGJfV3ZyM0xFVGNXcWxZOFpaTlUwXzNJQnhNVkJKNHdGYU1tOEVxNklmcHhmbmE0YmpjcG9mSENDWFB5M0F4RmF6bk1jMmZXdlE3LWQ4MzdBMXlMYjB0bW45a3lncUpWd3VqblhGMERxakw2Q0hza0k?oc=5",
+   "quelle": "LTO.de",
+   "zeit": "2026-11-06T15:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c8fe1dc5211edbeb",
+   "k": "welt",
+   "titel": "In Kenya hungerten über 400 Menschen zu Tode. Ihr Pastor wollte es so. Nun ist er zu 200 Jahren Haft verurteilt worden",
+   "t": "In Kenia wurde der Sektenführer Paul Mackenzie zu 200 Jahren Haft verurteilt. Ihm wird vorgeworfen, Anhänger zum Hungertod getrieben zu haben, über 400 Menschen starben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/panorama/kenya-pastor-verurteilt-nach-sektenmassaker-im-shakahola-wald-ld.10039076",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T15:27:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "fa7ecf714f4a5a68",
+   "k": "finanzen",
+   "titel": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
+   "t": "BofA-Stratege Michael Hartnett rät Anlegern laut MarketWatch, nach dem deutlichen Kursrückgang an den Aktienmärkten auf mehrere Entwicklungen in anderen Anlageklassen zu warten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T15:27:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "be2e1365fc2d48ee",
+   "k": "welt",
+   "titel": "What’s Next for Iran Peace Talks After the Midterms",
+   "t": "Nach den US-Zwischenwahlen und der Wahl in Israel versucht Katar erneut, zwischen den Parteien im Iran-Konflikt zu vermitteln.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/middle-east/whats-next-for-iran-peace-talks-after-the-midterms-a031003c?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-06T15:26:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "78d255d25e604e17",
+   "k": "welt",
+   "titel": "„Schädlicher“ Algorithmus – EU-Kommission weist Tiktok zu Änderungen an",
+   "t": "Die EU-Kommission fordert TikTok zu Änderungen am Empfehlungsalgorithmus auf. Nach vorläufiger Bewertung begünstigt der „For You“-Feed Sucht-, Ess- und Angststörungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/article6aedb4cf47b5fce02f87a09c/tiktok-schaedlicher-algorithmus-eu-kommission-weist-videoplattform-zu-aenderungen-an.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T15:25:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "933a0e7ea324a818",
+   "k": "finanzen",
+   "titel": "Die Aktienmärkte tauchen, Sorgen über einen Crash nehmen zu: Platzt nun die KI-Blase – oder gibt es gar keine?",
+   "t": "Die Aktienmärkte sind deutlich gefallen, Anleger haben KI-nahe Aktien verkauft. Die Frage nach einer geplatzten KI-Blase wird intensiv diskutiert.",
+   "e": "Der Rückgang nach langen Kursgewinnen im KI-Umfeld betrifft die Gewichtung großer Tech-Werte in vielen Portfolios.",
+   "s": 6,
+   "link": "https://www.nzz.ch/wirtschaft/kuenstliche-intelligenz-an-der-boerse-boom-oder-blase-aktienmaerkte-unter-druck-ld.10056132",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T15:20:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "536ea201feb8e140",
+   "k": "welt",
+   "titel": "Erneut viele Bombendrohungen gegen Flugzeuge und Medien in Europa",
+   "t": "In mehreren europäischen Ländern gehen erneut zahlreiche Bombendrohungen gegen Flugzeuge und Medien ein, Flüge wurden umgeleitet.",
+   "e": "Die Häufung von Drohungen gegen Luftverkehr und Medien beschäftigt mehrere Sicherheitsbehörden in Europa.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1679284.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T15:20:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "ea44580174e62bea",
+   "k": "finanzen",
+   "titel": "Fed sollte Daten sammeln, um Preisrisiken zu beurteilen, sagt Williams - MarketScreener Schweiz",
+   "t": "Fed-Präsident Williams sagt, die Notenbank sollte weitere Daten sammeln, um die Preisrisiken besser zu beurteilen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZF93WjVfa1h1T0tQcFJhWnZDdnlQV09jZlZjZmx4b3VjYVhQUjhEcVBpOGxxWmtvR1EwNXZFVm1KS3A1ZGppdWZReWxPLUQ4YWF2blRhU0xrWjhOUTk3UjVRdUwwRUxFdEtmOHBCajk5ZUtaZUhmSmcwUnR1Z2h2dlVYRVNnbDJfdnBPUHE4ajh2NU1jLXVoa3JPSjhQWWdMQ3M3am1QZENMekZsbUs0cnY2U0pPYzFwV1doYWMzaWU2VEJ6cGlsYU10bDNVVkE?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-06T15:18:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "af271b81bfbd9cc3",
+   "k": "deutschland",
+   "titel": "Berlin: Linke könnte offenbar Mandatsverzicht von Emde fordern",
+   "t": "Die Berliner Linke erwägt offenbar, von ihrer Abgeordneten Vanessa Emde einen Mandatsverzicht zu fordern. Gregor Gysi hält deren Verhalten für eine Grenzüberschreitung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-linke-koennte-offenbar-mandatsverzicht-von-emde-fordern/100267960.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T15:17:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "bcc294fe2c9d3510",
+   "k": "finanzen",
+   "titel": "The Spark - Der Technologiepreis: Q.ant will eine neue Ära in der Chipbranche einleiten",
+   "t": "Das Stuttgarter Start-up Q.ant hat den Technologiepreis „The Spark“ gewonnen. Es will Chips mithilfe von Licht effizienter machen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/the-spark-q.ant-will-eine-neue-aera-in-der-chipbranche-einleiten/100266592.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T15:14:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "b395f09ac757ff95",
+   "k": "finanzen",
+   "titel": "Madrid und Den Haag melden sich: Offenbar Zweikampf um Lagarde-Nachfolge bei der EZB - n-tv.de",
+   "t": "Für die Lagarde-Nachfolge an der EZB sollen sich Spanien und die Niederlande offenbar als Kandidaten gegenüberstehen.",
+   "e": "Die Entscheidung über die Spitze der EZB ist für die Zinspolitik im Euroraum von großer Bedeutung.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTkZxWTFfdC14aUNXY2pLaUk2akptSjBvRTQ2N1J6bTQtQXhjTkJaQ285di1Cc0xRRjBWaF9hYU9qVHptSGVGRHNVLTJJNTF2WUJXQkFhaGdaREZvSHo4VUpYN0NYbmhRVWRuUWlEVWdKcnc0amVTWTJobUlLbUp6cDVNbjNHUHhsTmRlMWhtOUl6VEliRm95TmoyY2c5WTA?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T15:12:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "4960f674d2537119",
+   "k": "finanzen",
+   "titel": "Fed-Vertreter Musalem: Unternehmen sehen Inflation weiterhin als größte Sorge - MarketScreener Schweiz",
+   "t": "Fed-Vertreter Musalem sagt, Unternehmen sehen Inflation weiterhin als ihre größte Sorge.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3JKd082YlB3TFByeFJkSFViSDRLLThkSVpiWGpPeGZ6OUdodUdkekxMMTg5YXN6NTFJeXlLNng5QkJfN3Bmck1nTkJzcGUzcm5XU1NSay1kaG5qM184RW81c2N5QVdScnd1TTZpWWs3bktlTlYwdEREQ0Q0cWhWcnM5SlZER1B5STJWaVVBZFJNX1k0dmwxLS02VklDU1BSamJRWjdRcVBYX1RYTnZiT0ZDblk5eElrNmFWZXM5LTB3a1UzZ2dUa0J3cFhDVTRxYzhYWlY1SmVoV1hV?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-06T15:09:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "14b7c20705ab7ef0",
+   "k": "finanzen",
+   "titel": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+   "t": "Tesla stellt die Produktion des Cybertruck in Texas im nächsten Jahr ein, um die Produktion des Cybercab hochzufahren, so Musk.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T15:06:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "cc1c0d74cbbed6b5",
+   "k": "usa",
+   "titel": "Top prosecutor Jason Reding Quiñones, tapped for Russiagate ‘conspiracy’ probe, quits DOJ",
+   "t": "Der Bundesstaatsanwalt Jason Reding Quiñones, der eine Ermittlung zu einer mutmaßlichen „großen Verschwörung“ rund um die Russland-Affäre leitete, hat das US-Justizministerium verlassen.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/06/us-news/jason-reding-quinones-quits-doj-prosecutor-ran-russiagate-conspiracy-probe/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-06T15:01:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "835e91a9ddb114d8",
+   "k": "welt",
+   "titel": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+   "t": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs bei Geldern für die Bahnsicherheit.",
+   "e": "Die Ermittlungen richten sich auf Mittel, die für die Sicherheit des Schienennetzes bestimmt waren.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T15:01:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "20b76d81cc6ed086",
+   "k": "finanzen",
+   "titel": "US-Börsen: Anleger greifen nach Ausverkauf bei Tech zu – US-Börsen im Plus",
+   "t": "Nach dem Tagesverlust des Nasdaq 100 von über sechs Prozent am Donnerstag haben Anleger am Freitag Tech-Aktien wieder gekauft, die US-Börsen notierten im Plus.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-greifen-nach-ausverkauf-bei-tech-zu-us-boersen-im-plus/100267929.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T15:00:23+00:00",
+   "tag": null
+  },
   {
    "id": "137649352426999c",
    "k": "finanzen",
@@ -310,6 +598,42 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM3NTVUFJOFNuNU1RMV84djVaQWVwLUlSS2JaM1gzclhhMzR2c0dvajRJNGRxenVLbjJUT05McE1DTUV1czliZFo1Ym9idkVFWmY2eFRfNHlURnJEOGJXMG95QlJudnc3Q1hkdW9RVFNYc2ZSdF94d1p4WmxiaUZZMWZuVVZlcE9haldFOXlsSkg4RnhoVXV0LWlwUkxIWjNBSUF2ZnhHMzRLd2NRNWhVTzBDS3gxX2w3TW9uc0lyNjdtWXZDWjhuaDV2WQ?oc=5",
    "quelle": "Soester Anzeiger",
    "zeit": "2026-11-06T13:57:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "cba88af0a9e752c1",
+   "k": "finanzen",
+   "titel": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+   "t": "Die Scottish Mortgage Investment Trust hat ihre Tesla-Beteiligung vollständig verkauft und ihren SpaceX-Anteil auf 11,1 Prozent des Vermögens reduziert.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T13:51:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "dcd076bdcd907050",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Autozulieferer WKW an Investor verkauft - n-tv.de",
+   "t": "Der Autozulieferer WKW aus Nordrhein-Westfalen wurde an einen Investor verkauft.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1pPMmRtelE3RzB2UFU0dmJyUDhTSkNRdmMtV3c1M3VPaUM2VHBnaTdJbjRKM1JrWm9vNGtGejBMbEtxS1g2R21TSjdKZlhITllTb1RvODd3OFZSQl9EekFtaTRnOFEwcFVXcm9uMXcyUlZCVW4yeDdLUkV3NWdseVcxVno3NF8wOXppNXQtdWhMcWk0RW5GQjFUZkdwWVRRQUZRY242UzE2QQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T13:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d712b32eaa268963",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: 100-Millionen-Euro-Rechenzentrum soll lokale Firmen stärken - n-tv.de",
+   "t": "In Nordrhein-Westfalen soll ein Rechenzentrum mit 100 Millionen Euro Investitionsvolumen lokale Firmen stärken.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWhhM3FxWUdwenRvTHRicGk1OFpzU1dLUVlacTU0ZFBIdmI2WTdnanoxVHI3UkQwRERjMTFRTlh2eEhrNE9KcFF1TE01blVSa0ZGclZYREY2dkNFRE1LcnhFNjk5UkU5N0JJOUtQV1I3T3Fxd1lpcURreDVHUTkwNEUwZkE3a3pWNDhaWGlFSjJpNXNVRHN3NS01S2pGUXpDVGZSVWVxb3JYZTFNLWpLdy1wRlJzWEpRTUt2bU1YbHZMNkRxdlE?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T13:40:00+00:00",
    "tag": null
   },
   {
@@ -553,6 +877,18 @@
    "tag": null
   },
   {
+   "id": "e5e31ae9a498f738",
+   "k": "finanzen",
+   "titel": "Daimler Truck steigert Quartalsgewinn um 73 Prozent",
+   "t": "Daimler Truck hat seinen Konzerngewinn im dritten Quartal um 73 Prozent gesteigert, von 407 Millionen auf knapp 704 Millionen Euro.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/video6aedc340a389bc337cfc7ed0/nutzfahrzeuge-daimler-truck-steigert-quartalsgewinn-um-73-prozent.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-06T12:10:31+00:00",
+   "tag": null
+  },
+  {
    "id": "5988a59fd22fa75f",
    "k": "welt",
    "titel": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
@@ -682,6 +1018,18 @@
    "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-06T11:05:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "1c4eff2631c4a44a",
+   "k": "finanzen",
+   "titel": "The Fed Begins Transition to Holding Fewer Policy Meetings a Year - Bloomberg.com",
+   "t": "Die US-Notenbank Fed beginnt den Übergang zu weniger geldpolitischen Sitzungen pro Jahr.",
+   "e": "Weniger Sitzungen würden den Rhythmus der Zinsentscheidungen verändern und die Kommunikation der Fed beeinflussen.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRaRUF0MGFNU0FqcjMxNFhoVDhjalFkZGIxUDNaRk9aWWFyaFhnckZxLUwwRjBKQ3FaM0VlbkRJUUdVZE03OGctOElYc25uMnFnejFrbG5aSXE1LTFXWDVsb3FOMlV5dGF0emNFbklwN2swOVMwa3lFMldkUU8zLVFIbXVCMHR5RFh2Sy1YQ3pER0VidVpVTHJMSy1ZNzl6cjZOMFFzd2RkT2FGMjVVOWVERUh4ZWpN?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-06T11:00:00+00:00",
    "tag": null
   },
   {
@@ -1018,6 +1366,18 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnBXZGJhVkl5eld3WVcxQzk3TE9hcUtKZm1VV29Nb09oWXR5S0pWX2ZzOGFVQlJYaHhvVGZ6SGdSeGtDcUFqYVhQb185SEFyaHJGbnE4ZVFtR1RjZmxZTW1tZHJBZ2Z4ZW0wcFd6US1PWEV4Zms5aGZKcVRRYm1wSnBkQlRrV2ZEQXJ3LXRvWXp3bmdBYm9Td2lqUldScDVhUWlGdnRQWkdEUVg0Xy1ycERLWktPalhvOTJiVnJ6OEFaX3VZTEE?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-06T09:56:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3aa37577183b71bb",
+   "k": "finanzen",
+   "titel": "Fed’s Logan Warns US Oil Production Won’t Fill Global Supply Gap - EnergyNow.com",
+   "t": "Fed-Vertreter Logan warnt, dass die US-Ölproduktion die globale Versorgungslücke nicht schließen kann.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXllZ1RYeVh5Y0NtdGZ0T0VjYlZfckppQjBkaGJzZk80ejNkZkRoTXJvNzI3NHNYeW95c0NtY2x3MGFMNml4SXV5RXlWeW5vVzNfUWpwT3J1T1p5OWV0Y3paU0MtdU8zNUpnSk5OUHZtcTNOeEJTZDJhWk1ia1IybWxjU0l5N2NsOV9vSUVKSjU4QmdjOVJZeA?oc=5",
+   "quelle": "EnergyNow.com",
+   "zeit": "2026-11-06T09:54:35+00:00",
    "tag": null
   },
   {
@@ -2389,6 +2749,18 @@
    "tag": null
   },
   {
+   "id": "46ba1754f77b21b1",
+   "k": "finanzen",
+   "titel": "Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WBMA",
+   "t": "Trump kündigt eine Untersuchung des Weißen Hauses gegen die Fed-Gouverneurin Lisa Cook an.",
+   "e": "Ermittlungen gegen ein Mitglied des Fed-Gremiums berühren die Unabhängigkeit der Notenbank, die an den Finanzmärkten besonders beachtet wird.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnRuTlNiT3RnaU56V0steEE2NlpyUlRBS0lyRkJ4bjVaSGUyRDdrRG9HNm5STmxtZkM5UWhjT2NBdngzWHZuWXJGcXZuaWJJSm0tWEpqYkpvVnNHS0Fmend3Rkt2cnJldTA3TmRPVmNMRjAwai1fSndaWENaYjMyYkJnVTl0cVJTWTlwOTFCdEQ4YjBuRUx5ZTJCcnFVakJ1T0JkZjFaS0JEd0ZTZW9hSm0wZVd2TC1NbmdhMWQ0d19yc0w4NXV5dGVnSHMwemh1M2JtOTFDUkJCSkdrSGJ4WVVNNVZvUU0?oc=5",
+   "quelle": "WBMA",
+   "zeit": "2026-11-05T23:22:53+00:00",
+   "tag": null
+  },
+  {
    "id": "3f3b9e1341f37310",
    "k": "finanzen",
    "titel": "Fed Governor Cook’s Lawyer Demands Fair Hearing Before Trump‑Requested Review - Forth.News",
@@ -2711,378 +3083,6 @@
    "quelle": "MarketWatch",
    "zeit": "2026-11-05T21:43:00+00:00",
    "tag": null
-  },
-  {
-   "id": "4bbb3a8a56f856db",
-   "k": "usa",
-   "titel": "Crypto ally French Hill wins reelection but set to lose House chair",
-   "t": "Der Republikaner French Hill wurde im Repräsentantenhaus wiedergewählt, verliert aber den Vorsitz im Finanzausschuss, wenn die Demokraten im Januar die Mehrheit übernehmen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-05T21:39:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "6e38a863eca74c30",
-   "k": "finanzen",
-   "titel": "The October jobs report is out Friday. Here's everything to expect",
-   "t": "Am Freitag wird der Arbeitsmarktbericht der USA für Oktober veröffentlicht. Die Erwartungen richten sich auf die Entwicklung der Beschäftigung nach dem Kursrutsch im Technologiesektor.",
-   "e": "Der Arbeitsmarktbericht gilt als wichtiger Taktgeber für die Erwartungen an die Zinspolitik der Fed.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T21:32:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "7bc87e31236b6bcd",
-   "k": "finanzen",
-   "titel": "As Nvidia’s stock enters a bear market, bargain hunters see a golden buying opportunity",
-   "t": "Die Nvidia-Aktie ist laut Bericht in einen Bärenmarkt gerutscht, also mindestens 20 Prozent unter ihrem Hoch. Portfoliomanager erwarten eine robuste Chipnachfrage.",
-   "e": "Nvidia gilt als wichtigster Wert des KI-Booms, daher wirkt die Schwäche auf den gesamten Technologiesektor.",
-   "s": 6,
-   "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-05T21:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "28ef1f2a93fbbdd0",
-   "k": "usa",
-   "titel": "GOP Senate ready for lame duck Supreme Court confirmation — if Alito or Thomas change mind",
-   "t": "Republikanische Senatoren sind offen für eine Richterbestätigung in der Lame-Duck-Phase, falls die Richter Alito oder Thomas ihren Verzicht auf einen Rückzug ändern.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/05/us-news/gop-senate-ready-for-lame-duck-supreme-court-confirmation-if-alito-or-thomas-change-mind/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T21:26:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "58bc0b6c0d16fa5e",
-   "k": "finanzen",
-   "titel": "Fed: Weitere Straffung trotz politischer Neuausrichtung erwartet – TD Securities - www.tmgm.com",
-   "t": "TD Securities erwartet trotz politischer Neuausrichtung eine weitere Straffung der Fed.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDlNYTBXTUlBYUtXTkRDZEc2Z1Vpb0Q2VnJSdjV3bGMyckpRcXJpN0Nld0hfa0VFeU9UdmcwTmVCS1FTVktNY0ZrSnlpN3RHX1hLemtBaHBpakxnbzJyTXpLMGxiQW5YTDBYNXdLMjV1WVJpZjVGZDVVd1lid0s3RXN3MTY0YlRFUWhjbG9oRUd6eXBzU3BDazRQekFibk1aTnVrOWhSNmg5ZzFBaUdsdGp4X2VUUGtrVnEwNVdHR3ZDSzBrd1FrRUlwNWl2MEtLc0JiNkVaNDVIa1A1UlRwSQ?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-05T21:21:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "0b6622d8e05ce5a0",
-   "k": "finanzen",
-   "titel": "Fed-Vertreter Hammack und Barkin favorisieren schrittweisen Zinserhöhungskurs zur Senkung der Inflation - MarketScreener Deutschland",
-   "t": "Die Fed-Vertreter Hammack und Barkin sprechen sich laut Bericht für einen schrittweisen Zinserhöhungskurs aus, um die Inflation zu senken.",
-   "e": "Die Aussagen zeigen, dass innerhalb der US-Notenbank weiterhin über den Kurs bei hoher Inflation gestritten wird.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbVBFVTExLXprZTZpM1Z5RVV5eDFVMjlmbEgyMHBzTXFpWnJ3VE9oWmxjNHVxREFuR1dsdXF3eGk1N3FBdnNkWTlBNnY1M3dEQjdfdTlRbkhIaV9hMUlVRldtNjBib0h4czIzaHJDbi0waE84WHREci1Bd0luaXJRanI5RGhoQ1BNZU9xOTFMVmVQNHVDX2FES0lDRFE5RU1PZllFQWw0UnNodk5udHg0ZlZxbHg2YjVKbTB5dmRLSFB6N1Z4a2wzeURkaHNpTExkMG80ZGlhRHQ3ZnBWR3M3OWZmemdZeFkxbW5uNlZLRVpXVWNPT0ZZSm0wcw?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-05T21:20:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "fa25971f5617624f",
-   "k": "finanzen",
-   "titel": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
-   "t": "Anleger flüchten im Zuge des technologiegetriebenen Aktienausverkaufs in US-Staatsanleihen. Laut Investment Company Institute liegen zugleich rekordhohe 8 Billionen US-Dollar in US-Geldmarktfonds.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-05T21:19:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6c24f9e3f96ce22b",
-   "k": "usa",
-   "titel": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
-   "t": "Der Kongress fordert Nvidia-Chef Jensen Huang zu einem Briefing über berichtete Kontakte zu chinesischen Geheimdiensten auf.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T21:09:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "021c1cc12e6c1cbe",
-   "k": "usa",
-   "titel": "USA-News: Rubio denkt angeblich über Rücktritt nach - T-Online",
-   "t": "Berichten zufolge denkt Außenminister Marco Rubio über einen Rücktritt nach.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmZVREIyRUpHZG9xakZiSnJsZ21kVlptT252TGZDZklTLVktVFlxdmtibFY4V1NtdWE0a3FQZEVfd2FySThGNXFLSGRoSWJDQUNaTmhkc3dyUE1DUTRTQlptRkJYa195VE5FbVNVU1NkamRfTHQwQWZscmZrTTBBUWZpa1pqeE1JUTFHRXRINGxIT3ZOS25UYi1CNDFzNVA3Tk9LMWRUMEpCUFkwN3NWLWwxT1BPRTJUQ0E?oc=5",
-   "quelle": "T-Online",
-   "zeit": "2026-11-05T20:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a666f5cf71698ec4",
-   "k": "welt",
-   "titel": "Trump kündigt „großes schönes Abkommen“ an – Melania spielt dabei eine wichtige Rolle",
-   "t": "Erstmals seit Kriegsbeginn hat ein Kreml-Gesandter im Weißen Haus öffentlich gesprochen. Trump kündigte ein „großes schönes Abkommen“ an, Melania Trump sagte, sie habe Briefe an Putin und Selenskyj geschrieben.",
-   "e": "Die Gespräche zwischen Washington und Moskau könnten für den Verlauf des Ukraine-Kriegs relevant sein.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6aece5dba389bc337cfc73ae/treffen-mit-putin-vertrauten-trump-kuendigt-grosses-schoenes-abkommen-an-melania-spielt-dabei-eine-wichtige-rolle.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T20:47:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "6c43a138fc15bcbd",
-   "k": "welt",
-   "titel": "„Staatlich sanktioniertes Töten“ – Newsom wandelt fast 550 Todesurteile in Haftstrafen um",
-   "t": "Kalifornien: Gouverneur Gavin Newsom wandelt die Todesurteile von rund 550 Häftlingen in lebenslange Haftstrafen ohne Bewährung um. Die Entscheidung fällt kurz vor dem Ende seiner Amtszeit im Januar.",
-   "e": "Die Maßnahme gilt als Signal an Präsident Trump, der die Todesstrafe auf Bundesebene ausweiten will.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6aece34547b5fce02f8797ee/kalifornien-staatlich-sanktioniertes-toeten-newsom-wandelt-fast-550-todesurteile-in-haftstrafen-um.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T20:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "38ce56408c3aa8f1",
-   "k": "finanzen",
-   "titel": "EZB prüft Indikatoren, um über mögliche Zinserhöhung im Dezember zu entscheiden, sagt Lagarde - MarketScreener Schweiz",
-   "t": "EZB-Präsidentin Lagarde hat erklärt, dass die Notenbank aktuelle Indikatoren prüft, um über eine mögliche Zinserhöhung im Dezember zu entscheiden.",
-   "e": "Die Aussage bestätigt, dass eine Zinserhöhung im Dezember im Raum steht, die Daten sind entscheidend.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM1dpdGNzWkFhbDE4TUxZWW40OXdpSGVMZ0w5RjdsZ0h4TEVuZHhPb05COXg2bVpQakNnZWFiRU1QSjNSSm55cG5oN3dFZjlLWHhTaTFNTzVfZ0tqOElxclRSSTA2dWtseGp4X0I4NlBTYTB0ank5ckI2ZWVMelBPSTVwSFpPUzhIMXZvX1ZMVkFXcVl5OHlOZ0ZsMC0xX3JSb2oyTzhVcnNkNmdqT0k5cFhtMHA2bFJFc1RCeUlsbFlaelRxc3FwdXBJd0s1R09YT19ha2lQNjlrc05QNi1UMHZBb1FWTy1DWUExc0NQb2pxRW8?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-05T20:27:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "39b3706223ce3b32",
-   "k": "finanzen",
-   "titel": "EZB prüft Indikatoren, um über mögliche Zinserhöhung im Dezember zu entscheiden, sagt Lagarde - MarketScreener Deutschland",
-   "t": "Die EZB prüft laut Christine Lagarde Indikatoren, um über eine mögliche Zinserhöhung im Dezember zu entscheiden.",
-   "e": "Eine Zinserhöhung im Dezember wäre ein deutlicher Kurswechsel der EZB und würde Kreditzinsen sowie Anleihenrenditen direkt beeinflussen.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3AwYmhYNS1KVV9mTnBpRUcxUGxTMFk0U2tjVFBmV2ZOOTZRRVhuSWVTUlpLZGptVlNEZHE4RnMyT2N6UlNDQzA3ZXRQSnZSSFd6eWdTNTV3Z1ZQcnVqOWQydDJITEtOZzc5UW1PWDFkc1NWTml1ZjFpMEhMZ2dwMEhCUHpPczlwQ2pfZllFOVdYTTBUWkw0eWVYSGE5NkFJN2JNVlhaQlpZLUh3SDY2em5LNEpsQ0RmR2kzT1BreG9tOG5KR3B1MzFyRmQ2aHhmbm04NF9PYTFMamRJdzI3WGk0UklYNzEyNk9mYUdZMFYtWGc?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-05T20:27:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "0aebc190eec62fbe",
-   "k": "usa",
-   "titel": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-   "t": "Demokratische Abgeordnete und Gewinner der Zwischenwahlen fordern nach der Wahl strengere Grenzen für den KI-Ausbau und Rechenzentren, bis hin zu einem bundesweiten Moratorium.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T20:17:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "11eb51f5cde534dc",
-   "k": "deutschland",
-   "titel": "Hohe Ausgaben: Bundesagentur für Arbeit braucht 5 Milliarden Euro Notkredit",
-   "t": "Die Bundesagentur für Arbeit erhält wegen steigender Ausgaben für das Arbeitslosengeld ein zusätzliches Darlehen über fünf Milliarden Euro. Auch Jobcenter und Rentenkasse brauchen kurzfristig mehr Geld.",
-   "e": "Der Notkredit zeigt den wachsenden Finanzbedarf der Sozialsysteme, der letztlich aus dem Bundeshaushalt getragen wird.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/milliardenluecke-bundesagentur-fuer-arbeit-braucht-5-milliarden-euro-notkredit-201654491.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-05T20:15:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "44553b337db4bc67",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Schwerer Unfall an Haltestelle: Kind in Köln von Straßenbahn überrollt - tagesschau.de",
-   "t": "In Köln wurde ein Kind an einer Haltestelle von einer Straßenbahn überrollt. Es handelt sich um einen schweren Unfall.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONmkwc1QtWml5TC1RZUdUMVQ3d20xdXE1Q0ZwUXNHQk10QXpxQVZhYXRLeE1TWUphSjY5aU1VZm5reUN0Ny1NQ2pRU1owVkRQYTN0am5vR2xIVzBDckRxT0M3RVZrSkZ4STUwNGd3QXFVbHRtcEdqLWtkMVNDMEVvWDhfelVLMHA2a01lU0o1WnlVMk1BeDlxbGVsQTVqWTViVHdVWkZUM19LSUVEUHRxa1lvT0g3UTRZdHVHOWcxdUx3eVVzdWFyRC0xb1o4R21aT0VzSlA4enNuUTI3dlRZ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-05T20:11:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "74af36933c377053",
-   "k": "finanzen",
-   "titel": "Mexikos Zentralbank senkt Leitzins auf 6,25 % - Investing.com Deutsch",
-   "t": "Die mexikanische Zentralbank hat den Leitzins auf 6,25 Prozent gesenkt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSy1uRVRaNFRZSUNtenowRHl0Tmw2d3hUVkQyRVlwUVdXdGs5UUgwTThLX0I4ajQwQ2V6SjdsY2tNS1l4ZlJaX1FDRDhqVkxqdWhkYWdhdEREdGRpbTJIZ3Qxb19CODJNMURqTExpTFpQV090YWRTbFhOM1dRbm9KZm9nTUcwSDJPVzI3dDRtbXpPVTB5eG5lVlh4RjNNemVt?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-05T20:10:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "97a4eb0c760823bd",
-   "k": "usa",
-   "titel": "IRS announces new federal income tax brackets for 2027",
-   "t": "Die US-Steuerbehörde IRS hat höhere Einkommensteuer-Tarifgrenzen und Standardabzüge für 2027 angekündigt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T19:52:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "579445ef0f79ed9d",
-   "k": "finanzen",
-   "titel": "New York Fed: Druck auf globale Lieferketten hat im Oktober nachgelassen - MarketScreener Deutschland",
-   "t": "Laut New York Fed hat der Druck auf die globalen Lieferketten im Oktober nachgelassen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHpHWVFWV1RsY3FkSi1aWWVzeW00alRoOS11anZBQTJBcDlTUlF6WXBwUUd3cnBLRVUwTlpkXzBhM3ByVm52QWl4ekpJdVZpazgtczFGVmxmT2JCOFRFOVFSWHBwb0xvR1RMbDVLbnVyd2V2Si1jSXlISVBiOHVPMWNtbGxaUzRqOC1vaXN5a3VROE1RVVNKUFNEbm5Za0FRejU2TVk0N2VOQW1yS1ktLVY3emZnMnZ3cHVnTlZ4dGdGYTlOcDFXWDc2MklaSzRTeHhB?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-05T19:52:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ac0ffad30365740",
-   "k": "finanzen",
-   "titel": "After tech-stock rout, October jobs report could bring relief — or more pain",
-   "t": "Vor dem US-Arbeitsmarktbericht für Oktober, der am Freitag erscheint, steigt die Spannung an den Märkten nach dem Technologie-Einbruch.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-05T19:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "70df958ca849bfc1",
-   "k": "welt",
-   "titel": "Afyonkarahisar: Acht Tote und mehrere Verletzte nach Schüssen in der Westtürkei",
-   "t": "Im westtürkischen Afyonkarahisar wurden bei Schüssen acht Menschen getötet, mehrere weitere verletzt. Ein Tatverdächtiger wurde festgenommen.",
-   "e": "",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/afyonkarahisar-acht-tote-bei-schuessen-in-der-tuerkei-201656923.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-05T19:39:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "54659e5092560721",
-   "k": "finanzen",
-   "titel": "US-Börsen: „KI-Blutbad“ an Börse – S&P 500 bricht um vier Prozent ein",
-   "t": "Der S&P 500 ist an der Wall Street um rund vier Prozent eingebrochen. Auslöser war die Sorge vor strengerer KI-Regulierung.",
-   "e": "Ein Rückgang dieser Größenordnung im wichtigsten US-Index ist für Anleger ein deutliches Signal, auch für europäische Börsen.",
-   "s": 8,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-blutbad-an-boerse-sp-500-bricht-um-vier-prozent-ein/100267625.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T19:37:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "a80162da0fdd3d6a",
-   "k": "usa",
-   "titel": "Gavin Newsom lets all of California’s 548 death row inmates escape ultimate punishment",
-   "t": "Gouverneur Gavin Newsom hat die Todesurteile aller 548 Häftlinge in Kalifornien in Haftstrafen umgewandelt.",
-   "e": "Die Entscheidung betrifft fast alle Todeskandidaten des bevölkerungsreichsten US-Bundesstaates und hat damit landesweite politische Bedeutung.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/05/us-news/gavin-newsom-changes-california-death-sentences-to-life-in-prison/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T19:37:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "620c771732dd4a4c",
-   "k": "usa",
-   "titel": "Democrats ‘divorced from voters’ as 5 states back citizen-only voting, bolstering GOP push",
-   "t": "In fünf US-Bundesstaaten haben Wähler Verbote für Stimmabgabe durch Nicht-Staatsbürger mit deutlicher Mehrheit gebilligt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/democrats-divorced-voters-5-states-back-citizen-only-voting-bolstering-gop-push",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-05T19:34:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "6438a773e61f93f9",
-   "k": "nrw",
-   "titel": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
-   "t": "Ein Häftling, der im Oktober in Essen während eines Arztbesuchs befreit wurde, ist weiterhin auf der Flucht. NRW-Justizminister räumte ein, dass der Schlüssel für die Fußfessel im Internet erhältlich war.",
-   "e": "Der Fall wirft Fragen zur Sicherheit im Strafvollzug in Nordrhein-Westfalen auf.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T19:34:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "4b75b563e54d2246",
-   "k": "finanzen",
-   "titel": "EZB: Neue Details zu Bargeld und digitalem Euro - Caschys Blog",
-   "t": "Die EZB hat neue Details zu Bargeld und dem digitalen Euro veröffentlicht.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2YySXUxdEZGMHNMVzBuS2pSaGl2YjYxNHNWUzU2cUFabFFjaW9sNzd5VkxfRWI1RnZIVkRiSG91ajdOekxWVTlfd21MMVoxbm9JZFVXNmJLUUM5MlFNdVllOTFhSWRRUHJtWGVzVHVPQkhsQTlXYzJhTHJfVWMwX0F3?oc=5",
-   "quelle": "Caschys Blog",
-   "zeit": "2026-11-05T19:30:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "3df76de3e000ab11",
-   "k": "usa",
-   "titel": "Hegseth demands $350B for military, fires back at Dem impeachment push",
-   "t": "Verteidigungsminister Pete Hegseth fordert vom Kongress 350 Milliarden US-Dollar für das Militär und weist Forderungen nach einem Amtsenthebungsverfahren zurück.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-05T19:28:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "b0007b5c858644e1",
-   "k": "usa",
-   "titel": "DSA-backed Nithya Raman vows to oust police chief, slash homelessness — but faces hostile City Council",
-   "t": "Nithya Raman, gewählte Bürgermeisterin von Los Angeles, will den LAPD-Chef ablösen und die Obdachlosigkeit bis 2028 halbieren. Der Stadtrat gilt als wenig kooperativ.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/05/us-news/what-nithya-ramans-mayoral-win-means-for-la-police-homelessness-and-housing/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T19:22:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "73891bc52a335b0e",
-   "k": "welt",
-   "titel": "Erneute Demonstrationen: 448 Festnahmen und wieder Gewalt bei Protesten in Frankreich",
-   "t": "Bei erneuten Protesten in Frankreich wurden 448 Menschen festgenommen und 53 Polizisten verletzt. Die Proteste eskalieren erneut.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/erneute-demonstrationen-448-festnahmen-und-wieder-gewalt-bei-protesten-in-frankreich/100267639.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T19:21:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "91ba4ca09371a0c7",
-   "k": "finanzen",
-   "titel": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-   "t": "Der VIX, der Angstindex der Wall Street, ist so stark gestiegen wie seit April nicht mehr.",
-   "e": "Der Anstieg zeigt, dass die Unsicherheit an den US-Märkten nach dem Kursrutsch deutlich zugenommen hat.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T19:20:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "415078993b82e737",
-   "k": "usa",
-   "titel": "Offenbar erster ranghoher Rücktritt in Trumps Regierung nach Wahldebakel",
-   "t": "Harmeet Dhillon, Leiterin einer Abteilung im US-Justizministerium, will ihren Posten offenbar räumen. Es wäre der erste ranghohe Rücktritt in Trumps Regierung nach der Wahlniederlage.",
-   "e": "Der Verlust der Kongressmehrheiten führt nun auch zu personellen Veränderungen in der Regierung.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/article6aecce7fc7da7601aa4f91f0/us-justizministerium-offenbar-erster-ranghoher-ruecktritt-in-trumps-regierung-nach-wahldebakel.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T19:19:39+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,7 +3115,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "FAZ",
@@ -3125,7 +3125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "NZZ",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "CNBC Finance",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "WSJ USA",
@@ -3190,7 +3190,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 25
    }
   ],
   "markt": [],
