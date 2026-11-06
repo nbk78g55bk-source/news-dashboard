@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-06T17:01:28.662192+00:00",
+ "aktualisiert": "2026-11-06T19:01:34.460928+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.911 $",
-   "delta": -0.5368811859708232
+   "wert": "75.745 $",
+   "delta": -0.35808309091457147
   },
   {
    "name": "Ethereum",
-   "wert": "2.233 $",
-   "delta": -1.3639408113133562
+   "wert": "2.230 $",
+   "delta": -0.8921246560948735
   },
   {
    "name": "Gold",
-   "wert": "4.074 $",
-   "delta": -0.9724079251245854
+   "wert": "4.082 $",
+   "delta": -0.7584781815971775
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,324 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-06T11:01:30.181806+00:00",
+  "slot": 19,
+  "stand": "2026-11-06T19:01:34.460908+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "An der Wall Street gab es den schlimmsten Tech-Einbruch seit 2020: Der S&P 500 verlor laut Meldung rund vier Prozent, der Nasdaq Composite rutschte in die Korrektur. Auslöser waren Sorgen vor strengerer KI-Regulierung, in Seoul wurde der Handel zeitweise ausgesetzt. Zum Vergleich: Deka Nasdaq-100 171,78 €, Deka S&P 500 137,37 €."
+    "t": "Der US-Arbeitsmarktbericht für Oktober kam mit 165.000 neuen Stellen weit über den erwarteten 59.000 an, die Arbeitslosenquote sank auf 4,1 Prozent. Fed-Futures sehen laut Bericht eine Zinserhöhung im Dezember mit rund 80 Prozent Wahrscheinlichkeit."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB prüft laut Lagarde Indikatoren für eine mögliche Zinserhöhung im Dezember, der EZB-Zins liegt bei 2,50 %. Die Fed-Gouverneure Barkin und Hammack sprechen sich für schrittweise Zinserhöhungen aus, die Marktwahrscheinlichkeit dafür liegt laut Bericht über 80 Prozent; die Fed Funds liegen bei 3,88 %. Der Deka DAX notierte zuletzt bei 225,15 € und rutschte am Morgen unter 26.000 Punkte."
+    "t": "Nach dem schwächsten Wall-Street-Ausverkauf seit dem Zollschock 2025 fielen Chip- und Techwerte weltweit stark, der Nasdaq Composite ist laut Meldungen in die Korrektur gerutscht. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka S&P 500 bei 138,64 € und der Deka DAX bei 225,35 €."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die EZB liegt laut Marktdaten bei einem Zins von 2,50 %, die Fed Funds Rate bei 3,88 %. Die Bank of England hat ihren Leitzins auf 4 Prozent angehoben, Ökonomen erwarten weitere Erhöhungen."
    },
    {
     "k": "nrw",
-    "t": "Nach einem Unfall eines Säure-Lkw in Krefeld sind laut Behörden etwa zehn Tonnen Salpetersäure ausgelaufen, die A57 ist gesperrt und zahlreiche Züge fallen aus. Für die Bevölkerung gilt die höchste Warnstufe, Schulen und Kitas bleiben geschlossen."
+    "t": "Nach einem Gefahrgutunfall bei Krefeld sind laut Behörden etwa zehn Tonnen Salpetersäure ausgelaufen. Die A57 ist gesperrt, zahlreiche Züge fallen aus."
    },
    {
     "k": "deutschland",
-    "t": "Die Ermittler sehen nach dem Tod von Hubert Aiwanger laut vorläufigem Obduktionsergebnis keine Anzeichen für Fremdverschulden. Die Freien Wähler verlieren mit ihm ihr Zentrum und sind Regierungspartner der CSU in Bayern."
-   },
-   {
-    "k": "usa",
-    "t": "Bei den US-Midterms 2026 haben die Republikaner ihre Mehrheiten im Senat und im Repräsentantenhaus verloren. Außenminister Marco Rubio will laut Bericht trotz der Wahlniederlage im Amt bleiben."
+    "t": "Nach einem versuchten Drohnenangriff auf den Flughafen Leipzig fahndet das BKA mit einem Bild nach einer Person mit Kapuze auf einem E-Bike. Zeugen werden gesucht."
    },
    {
     "k": "welt",
-    "t": "Bei einem russischen Angriff auf ein Verteilzentrum für Hilfsgüter in der Region Saporischschja sind laut Berichten über 40 Menschen getötet worden, weitere gelten als vermisst."
+    "t": "Spanien hat Pablo Hernández de Cos als Kandidaten für die EZB-Präsidentschaft nominiert, die Nachfolge von Christine Lagarde, die ihr Amt vorzeitig verlässt. Die Euro-Finanzminister wollen die Nominierungen am Montag prüfen."
    }
   ]
  },
  "items": [
+  {
+   "id": "4cb67e922db1ca26",
+   "k": "usa",
+   "titel": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+   "t": "Trump ersetzt Stabschefin Susie Wiles durch Stephen Miller, einen langjährigen Berater. Die Entscheidung folgt auf die deutlichen Verluste der Republikaner bei den Midterms.",
+   "e": "Ein Wechsel an der Spitze des Weißen Hauses nach der Kongresswahl, bei der die Republikaner laut Berichten deutlich unterlegen waren.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-06T18:59:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "91f727521b38009c",
+   "k": "nrw",
+   "titel": "Lagerhalle: Zoll stellt 144 Tonnen Lachgas sicher",
+   "t": "Der Zoll hat in einer Lagerhalle in Wuppertal 144 Tonnen Lachgas sichergestellt. Es handelt sich um eine Rekordmenge, die insbesondere unter jungen Menschen als Partydroge gilt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/wuppertal-zoll-stellt-144-tonnen-lachgas-sicher-201660412.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T18:55:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2a83240c6f45451",
+   "k": "deutschland",
+   "titel": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+   "t": "Die Eishockey-WM in Deutschland steht wegen einer möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung sieht sich in einem sportpolitischen Dilemma.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T18:53:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "ee837f9d61ea3310",
+   "k": "usa",
+   "titel": "+++ US-Midterms +++: Houston schränkt Zusammenarbeit mit US-Einwanderungsbehörde ICE ein",
+   "t": "Die Stadt Houston schränkt ihre Zusammenarbeit mit der US-Einwanderungsbehörde ICE ein. Der republikanische Senator Tillis wirft Verteidigungsminister Hegseth Inkompetenz vor. Zudem verliert das US-Justizministerium nach den Kongresswahlen weitere Spitzenbeamte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-houston-schraenkt-zusammenarbeit-mit-us-einwanderungsbehoerde-ein/29669594.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T18:53:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "6de56a4093d1cc20",
+   "k": "finanzen",
+   "titel": "Geschäfte in China: Frankreichs Luxusriesen leiden an der deutschen Krankheit",
+   "t": "Der Luxusmarkt in China ist eingebrochen, was Konzerne wie Louis Vuitton unter Druck setzt. Chinesische Luxusmarken profitieren davon.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/louis-vuitton-und-lvmh-frankreichs-luxusmarken-verlieren-china-201649140.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T18:51:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b3a60defadafc9a",
+   "k": "finanzen",
+   "titel": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+   "t": "Russland hat Regeln für den Kryptohandel finalisiert. Privatanleger sollen ab dem 17. November BTC, ETH und USDT über regulierte Vermittler handeln können, die Moskauer Börse plant den Start im Dezember.",
+   "e": "Der regulierte Zugang für Privatanleger ist ein Schritt zur Formalisierung von Krypto im Land, das bisher stark sanktioniert ist.",
+   "s": 6,
+   "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T18:47:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "9dd4c5fa836a0e17",
+   "k": "finanzen",
+   "titel": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+   "t": "Microsoft reduziert die Zahl der sogenannten Neoclouds, mit denen es zusammenarbeitet. Der Konzern setzt stärker auf eigene Rechenzentren und wenige Schlüssellieferanten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T18:40:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "de4ca3cc4db01b98",
+   "k": "finanzen",
+   "titel": "Talfahrt beendet: Leichte Erholung an den US-Börsen nach drastischen Kursverlusten",
+   "t": "Nach deutlichen Kursverlusten am Donnerstag haben sich die US-Börsen am Freitag etwas erholt. Die Kursverluste der KI-Aktien hatten zuvor für Unruhe gesorgt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/premium/meine-finanzen/leichte-erholung-an-den-us-boersen-nach-drastischen-kursverlusten-201660375.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T18:38:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5292382441cda73",
+   "k": "deutschland",
+   "titel": "„Es gibt ein strukturelles Problem in der Linken, sich von Gewaltverherrlichungen zu distanzieren“",
+   "t": "Der Bundesvorsitzende der Jungen Liberalen kritisiert, dass sich Teile der Linken nicht klar von Gewaltexzessen bei den Gen-Z-Protesten distanzieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/video6aee1a9d47b5fce02f87aa54/krawalle-bei-gen-z-protesten-es-gibt-ein-strukturelles-problem-in-der-linken-sich-von-gewaltverherrlichungen-zu-distanzieren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T18:36:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "11ba60cc10df24e6",
+   "k": "finanzen",
+   "titel": "Daly says Fed rate hike likely, despite 'painful' tech-stock dive - Reuters",
+   "t": "Fed-Präsidentin Daly hält trotz des deutlichen Kursrückgangs bei Technologiewerten eine weitere Zinserhöhung für wahrscheinlich. Die Inflation belaste die privaten Haushalte weiterhin.",
+   "e": "Eine mögliche Zinserhöhung trotz Börsenschwäche zeigt, dass die Fed die Inflationsbekämpfung über die Kursentwicklung stellt.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm1MU1hqV0tGaTZraWhpaVdqOGZCdzZjLUt3ZVZFU3BCaGFwdE9ham9MYktoSlF1SWF0eXRRR0V1QVhPUUZlRjdqZHdwMVlRS3pNaGUtWktTUmJhSUR3bW56MzdObWlZd0E0XzZSaUNnelUxR2FReTNkNTkwSVNEX3l6cmVveVRlNm1LWGNJdGs2WUt5c1BtS3o5TU9XbzRVNC1tT0ZydXREcmM?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-06T18:33:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "c6c1fcb8939070df",
+   "k": "finanzen",
+   "titel": "EZB-Nachfolge: Zwei Bewerber für das Präsidialamt der EZB nominiert - DIE ZEIT",
+   "t": "Für die Nachfolge von Christine Lagarde an der Spitze der EZB sind zwei Bewerber nominiert worden.",
+   "e": "Die Besetzung der EZB-Spitze entscheidet mit darüber, wie die Geldpolitik im Euroraum künftig gestaltet wird.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3pfTERwakxQNkx6T2NXTDRael9fSml4SHZoeldZMEJlandSQ20xM2NFSFd1aEs1eVdZOVM2MElpeGtpZjFqaDZycjdzUkZxNHRmWGJmZzhHT0Q4aGFuckYtaVJwYXRMd0lIb1pjbTFWT2ZLbU9NV09HTkh0QW80OVlLM1hFQk80TlhrQjFGTnY1aEtiOVVIOThPZ1RxZmx2bWxERW1sdHplenZ3cG5UR2xVUQ?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-06T18:25:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "b03fbb2ac0b677ae",
+   "k": "finanzen",
+   "titel": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+   "t": "Das Bitcoin-Treasury-Unternehmen Strive hat im Oktober 15.124 BTC gekauft und hält nun 43.124 BTC. Im dritten Quartal meldete es einen Nettogewinn von 509 Millionen Dollar.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T18:22:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "649660cdb341e4a5",
+   "k": "welt",
+   "titel": "Israel’s Economy Defied Three Years of War. Now the Bill Is Coming Due.",
+   "t": "Israels Wirtschaft hat drei Kriegsjahre überstanden, doch die Kosten steigen. Der nächsten Regierung stehen Entscheidungen über den Militärhaushalt und das Wachstum bevor, während Trump mit dem Entzug von Hilfen droht.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/middle-east/israels-economy-defied-three-years-of-war-now-the-bill-is-coming-due-49d171e1?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-06T18:15:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e57966101fff3b73",
+   "k": "finanzen",
+   "titel": "Federal Reserve rate hike bets strengthen as US jobs growth beats estimates - The Economic Times",
+   "t": "Nach Daten zum US-Arbeitsmarkt, die die Erwartungen übertroffen haben, nehmen die Wetten auf eine Zinserhöhung der Federal Reserve zu.",
+   "e": "Starkes Beschäftigungswachstum stützt die Erwartung höherer Zinsen, was für Anleihen und Aktien relevant ist.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN056ZXpuZlpydzFNSDI4UXRabWJzTmNKYjNiRzJvczdKTlIxX3Nib1lNRk9vOVhob0ZxSGVpT240TFNvVGVzcUlvMHFDWTZRRWZEX3I3SnpOcm1XOUdzQXNGSllXVjRGMjdkRDd1MmVEY2hCbFpPaGdDSjAtYlRmYXJaUjhXOExqSmY0dUNWUm9RdXVCb0JXeXBwdFhubHdGaUg2Y2NTb21fOXlDYWQyQWxmRTI3bUI2VzctNVlUWVFJekVnOVBwNW1hZ0Z2X2RaTGc1UmlYWlo1ZHF1RFlROVV0ektIMGh00gHuAUFVX3lxTFA3d2toRmQ0ZTdEb0tzVmVZT2dXTEhvZEFlLXdoLTJBYUE3ZS1aM0ZGbXYtMThXdHY1MGhBRXV1RGFYTExsdjhuVGdUWk8xRURabHpMWUhQcURxLWlQOTJGZVRuRW1odzZWa0F4T0NHX2tpQTBtMjlIUzVfcUpsaHpSVVYza3RYR3gtcGs4aS05WS1ack0xRjgycFkzWVF2ZzY2ZlpmeGk3THRaejhYYmpNRzdueEktZkx5VnJiYlB3VGpLYlBaR2todG1faVhzOUl3dDFqN2JyVDJqZWZ4ZE5qM09ZX2VtYUpDT0xTTWc?oc=5",
+   "quelle": "The Economic Times",
+   "zeit": "2026-11-06T18:09:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "878455648efdc256",
+   "k": "usa",
+   "titel": "Hochul teases new taxes to fund Mamdani’s free childcare plan — as DSA continues pressure to ‘tax the rich’",
+   "t": "Gouverneurin Hochul deutet an, zur Finanzierung von Mamdanis Plan für kostenlose Kinderbetreuung neue Steuern zu erheben. Die DSA übt weiter Druck aus, die Reichen stärker zu besteuern.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/06/us-news/hochul-teases-new-taxes-to-fund-mamdanis-free-childcare-plan-as-dsa-continues-pressure-to-tax-the-rich/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-06T18:06:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "0beccb02f1eb10ac",
+   "k": "finanzen",
+   "titel": "Futuristischer Flop: Musk kündigt Ende von Cybertruck-Produktion in Texas an",
+   "t": "Tesla-Chef Elon Musk hat das Ende der Cybertruck-Produktion in Texas in Aussicht gestellt. Das Modell hatte sich bei den Verkaufszahlen nicht durchgesetzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/it-internet/futuristischer-flop-musk-kuendigt-ende-von-cybertruck-produktion-in-texas-an/100268001.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T17:53:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "44d4cec430c10c21",
+   "k": "finanzen",
+   "titel": "DraftKings’ expensive bet on prediction markets is crushing its stock",
+   "t": "Die Aktie des Wettanbieters DraftKings ist am Freitag um über 26 Prozent gefallen. Analysten sehen Risiken durch Regulierung und Konkurrenz im Bereich Prognosemärkte.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T17:51:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e37f74c8d0b4caa4",
+   "k": "finanzen",
+   "titel": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+   "t": "Der Bitcoin-Kurs ist unter 75.000 US-Dollar gefallen. Nach den starken US-Arbeitsmarktdaten nehmen die Erwartungen einer Zinserhöhung im Dezember zu.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T17:49:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "41162a6c5b20274f",
+   "k": "welt",
+   "titel": "Die gestohlenen Kinder von Oleschky",
+   "t": "Eine niederländische NGO hilft bei der Suche nach ukrainischen Kindern, die 2022 aus einem Heim in Oleschky verschleppt wurden. Eine Rückkehr in die Ukraine ist auch im Fall eines Fundes nicht sicher.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T17:48:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "e06a3ef31e8a1228",
+   "k": "welt",
+   "titel": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+   "t": "Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew hat US-Präsident Trump ein großes Ukraine-Abkommen angekündigt. Moskau und Brüssel dämpfen jedoch die Erwartungen.",
+   "e": "Die Ankündigung ist bisher ohne konkrete Details, und sowohl Moskau als auch die EU bremsen die Erwartungen.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T17:46:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "9256da0c729b243b",
+   "k": "finanzen",
+   "titel": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+   "t": "Die US-Regulierungsbehörde für Prognosemärkte fordert ein Vorgehen, das im Konflikt mit Gerichtsentscheidungen steht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-06T17:42:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "a59cb8992fc61c75",
+   "k": "finanzen",
+   "titel": "Insider: Spanische Mutter erwägt Komplettübernahme von Hochtief - Börsen-Zeitung",
+   "t": "Laut Insidern erwägt die spanische Mutter ACS eine Komplettübernahme des Essener Baukonzerns Hochtief.",
+   "e": "Eine vollständige Übernahme würde einen großen Essener Konzern mit Sitz in NRW unter ausländische Kontrolle bringen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS25qb1l5TFYyeDFJaWFwZVVRVHhKSjg3TmJ5ZnF6RzdRdmRRSzRpd3E0Uld4RkgxUnYycUNDRHB3YkVSSzZSRW1BSVhXaHV5dHpxNzhLNVJrVW5aY25GM2JuaHZjX3RsbUdqcGNSOXBnbGJPZ2xHRE8xeFRpU3hWc19fcXQxRnNoRU1HN1JjUUJHa2hiaGFIRjZwdVZQa2pYODdvek5aUDhpWjdFOU5SRWU4ekszZWM?oc=5",
+   "quelle": "Börsen-Zeitung",
+   "zeit": "2026-11-06T17:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9c5da62bab376f7f",
+   "k": "finanzen",
+   "titel": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+   "t": "Die Anleiherendite des KI-Rechenzentrumsanbieters CoreWeave ist auf über 16 Prozent gestiegen. Investoren sorgen sich um eine Abschwächung beim Ausbau der Rechenzentren.",
+   "e": "Steigende Kreditkosten für KI-Infrastruktur zeigen, dass auch die Finanzierung des KI-Booms unter Druck gerät.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T17:09:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "fecd4d8945ed6838",
+   "k": "nrw",
+   "titel": "Quergestellter Lastwagen stoppt Geisterfahrer auf Autobahn in Nordrhein-Westfalen - STERN.de",
+   "t": "Auf einer Autobahn in Nordrhein-Westfalen hat ein quer gestellter Lastwagen einen Geisterfahrer gestoppt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNGpRTnNIMGVyRXZianBLZzNmRWljcENPcEZpd3VyZmx3d3Zudm56S1piYkhBUW9wcjdBQ29TSW9RY0xISnhNX3BWRmVldzA0clZ0aGJwSlo2b2FOVmQxMS1VMmNJd25SUkdhektQSlRtZjZNM3p4ZnN4dElvLXpBekhXUmJRZkR4OTVTVWxVbmI5Y01IcVdjTzB2elozRmxkSHRGM1ZyRV9Ta1ZXTjlmRHRRdjltZkQyZHRoYV9B?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-06T17:02:46+00:00",
+   "tag": null
+  },
   {
    "id": "90f11924ccf49fba",
    "k": "nrw",
@@ -229,6 +517,18 @@
    "tag": null
   },
   {
+   "id": "6207f3395b2d2837",
+   "k": "welt",
+   "titel": "Russia secretly bolstered Iran's missile arsenal before war with US, records uncover",
+   "t": "Laut internen russischen Verteidigungsdokumenten hat Moskau den iranischen Raketenbestand vor dem Krieg mit den USA heimlich aufgestockt. Dazu gehört ein Vertrag über 90 präzisionsgelenkte Raketenstartvorrichtungen.",
+   "e": "Die Unterstützung Russlands für Iran ist ein Hinweis auf die militärische Zusammenarbeit der beiden Staaten im Konflikt mit den USA.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/russia-secretly-bolstered-irans-missile-arsenal-before-war-us-records-uncover",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-06T16:06:16+00:00",
+   "tag": null
+  },
+  {
    "id": "1c4d0fb69d6bbf06",
    "k": "welt",
    "titel": "Dieses Treffen zeigt, wie Russland zu Trumps größtem Problem wird",
@@ -238,6 +538,18 @@
    "link": "https://www.welt.de/politik/ausland/plus6aeddd6a1d9d38d6d601b6c7/iran-krieg-dieses-treffen-zeigt-wie-russland-zu-trumps-groesstem-problem-wird.html",
    "quelle": "Welt",
    "zeit": "2026-11-06T16:05:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "dd401aabff35a316",
+   "k": "deutschland",
+   "titel": "Deutschlandweite Zahlen: Polizei-Statistik: 1.446 Verletzte rund um Fußballspiele - STERN.de",
+   "t": "Die Polizeistatistik nennt 1.446 Verletzte rund um Fußballspiele in Deutschland.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc25zTmF6aWpWcG9hem1YdFpEQzUtdHUtTElZel9ObzMxQjJ3aV8tMFNSbS1pTTBzN2dvcUd0N3hiUFk5NEEzT2gyRnNpS0pSc3lpUEFmN1FVbDNPZFlhUmpkLWdVUmRfdGNNeDk4SzhnUTEyWG5FR3NpTHFUVmdDU2JkOEQ5NEF0OEd0UGZtOXBMem9JQlRFVzB3MEllcXZ1NmpJNXB4VHFzMmFHR215bXItbVBYT0pfQmJWWjdxdTRuVk5EYVZidDlYWlh1OGFLZmxzcmRRZHFmajItWkJFeFRENk14U25DYTBSQ1Uzbl8?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-06T15:59:10+00:00",
    "tag": null
   },
   {
@@ -454,6 +766,18 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/berlin-linke-koennte-offenbar-mandatsverzicht-von-emde-fordern/100267960.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-06T15:17:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "37f20128fc27f1c8",
+   "k": "nrw",
+   "titel": "Einberufung Landesparteitag Dezember 2026 : My Site - Die Linke Nordrhein-Westfalen",
+   "t": "Die Linke NRW hat den Landesparteitag für Dezember 2026 einberufen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMHY2ZGdhV2lzcDBMejg5Q0xKdERzUVRQNVZ3NFZZcC1XRFJSTUtWMGNvc0VBRnhNdm1XMUR2ekpPNEZiTHU1Q3AtdlF3S0p3T2tKUU1sSnc4YWxCVHZCZWtCZUVNYUhOQnVDNXcwSXNZWHpCSThKYkFkbWR0V0M5RlVNQUstbkw1NTlIUFZWN0NzaUtldVFETGxPQkJZMjgzWEE?oc=5",
+   "quelle": "Die Linke Nordrhein-Westfalen",
+   "zeit": "2026-11-06T15:14:58+00:00",
    "tag": null
   },
   {
@@ -817,6 +1141,18 @@
    "tag": null
   },
   {
+   "id": "93c811c679a2be48",
+   "k": "nrw",
+   "titel": "Produktion von grünem Stahl bei Thyssenkrupp Steel verzögert sich",
+   "t": "Die Produktion von grünem Stahl bei Thyssenkrupp Steel verzögert sich. Der Staat unterstützt den Umstieg mit zwei Milliarden Euro.",
+   "e": "Ein Großprojekt mit erheblicher Staatsförderung kommt nicht planmäßig voran, was Zeitplan und Kosten der Transformation betrifft.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6aeddaac47b5fce02f87a4d9/zwei-jahre-verspaetung-produktion-von-gruenem-stahl-bei-thyssenkrupp-steel-verzoegert-sich.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-06T14:05:25+00:00",
+   "tag": null
+  },
+  {
    "id": "b970254d5317d17c",
    "k": "finanzen",
    "titel": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
@@ -898,6 +1234,18 @@
    "link": "https://www.foxnews.com/politics/former-senator-governor-jay-rockefeller-dies-89",
    "quelle": "Fox News Politik",
    "zeit": "2026-11-06T13:24:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "8ea03ea73dadbd26",
+   "k": "finanzen",
+   "titel": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
+   "t": "Der weltweite Kursrutsch bei Tech- und Chipwerten nährt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Vor dem geplanten Börsengang wächst zudem der Widerstand gegen die hohe Bewertung.",
+   "e": "Die Sorge vor einer Überbewertung im KI-Sektor belastet die Märkte, während große Börsengänge geplant sind.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-06T13:22:11+00:00",
    "tag": null
   },
   {
@@ -1738,6 +2086,18 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0ZCVjEwQ0w1VGlJdG5UcWZKSWtCMXUxRERJN0c3c2ZCU3dGRndqODg4dmxDNklHbTdmVU82ZnhJU1pQWmNHN2daRjViejltcjdHTEN2SFFENjJBQm5FQVF6U09xZmZTU1lRT3p6SVlkVE45YllfZ1c2TWpLWFk3UzF4TVNZX2w4anRiZDF1TXh3OUNlWFhDd2ZpcVhDSHpWRmhUc3RBMmRxdFNyQWFYVGFlemcxckpHY1dDcnRwcXRfRm5qX2oxVnI5MDNhRmV1RTdaOHNXdm1vQ0U0NVV4dkpHTQ?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-06T09:15:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "882dbb212f4e8a5a",
+   "k": "finanzen",
+   "titel": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+   "t": "Daimler Truck hat dank des anziehenden US-Geschäfts einen deutlichen Gewinnsprung verbucht und einen Milliardengewinn erzielt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-06T09:13:00+00:00",
    "tag": null
   },
   {
@@ -2723,366 +3083,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-06T02:34:01+00:00",
    "tag": null
-  },
-  {
-   "id": "4a165823ef6a10e3",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Hauptzeuge sagt zu Mobbingvorwürfen gegen Scharrenbach aus - n-tv.de",
-   "t": "Ein Hauptzeuge hat im Verfahren zu Mobbingvorwürfen gegen NRW-Ministerin Scharrenbach ausgesagt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmJycjVyMzB5TDB4d3BFMTBqWGI5ZHF2clVsUkZzTjhQOEo1NlFyVURfWUhpZHRNYUZRQnVncUF5OFVGQ21Ra25BaUsxa3RkbWNnT2FwLUlBMm5yN3pUcXV2OFdQN0JyYWVCVDZfanhwd0wtbTg5UzBwX3B4amdieVdwc1M3WVJISnRqSzVEZUhxbUZyMmJocUUzMllYMHIwbUNsa2I2SnRRRWRhSS05UlRtMndsdzdMNXctVF9YcHJIVzdh?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T02:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b9e88a95ad934d24",
-   "k": "finanzen",
-   "titel": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-   "t": "Ein auf Hyperliquid ausgerichtetes Krypto-Treasury-Unternehmen strebt eine Genehmigung der US-Regulierungsbehörden als inländische Futures-Plattform an.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T02:24:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "20123e6e8cbe6248",
-   "k": "finanzen",
-   "titel": "Börsen: Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
-   "t": "Die Börse in Seoul hat wegen starker Verluste bei Technologiewerten und Sorgen um Ölpreise kurzzeitig den Handel ausgesetzt.",
-   "e": "Die Kursverluste in Asien folgen dem Ausverkauf an der Wall Street und zeigen die Abhängigkeit der Märkte von der KI-Branche.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/boersen-suedkoreas-boerse-bricht-wegen-sorgen-um-ki-und-oelpreise-ein/100267765.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T01:57:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "5628c3d56ef0469c",
-   "k": "nrw",
-   "titel": "Zehn Zentimeter Neuschnee möglich: Kaltfront erreicht Düsseldorf und NRW - t-online – Düsseldorf",
-   "t": "Eine Kaltfront erreicht NRW und Düsseldorf; laut Wetterdienst sind bis zu zehn Zentimeter Neuschnee möglich.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTVKZE8zRGl6OVB6VTlOVHBLLU04UjcyRjVFWmhYbGRsOTltZG04VUFrM1piMlg3amxodWthbEh3RERCUFg2YnJrTVZNOU9USjNpOGROdjROaDVRNDJXd3VlSUZlRkh3UWZieEF2Q3Bjd3d3ZVF3TUJVU3pGOEw2enNMZS13NDJ6bk0zSUFIUzE1aW1jUmdFZ0tzN2ZWZEF2MVN2YUFBSE1aY1k0NTd6Wkd1Q29RRDhHZkhKQ3lGdnBsX2dJTDhLZWg2NXRKTzlYUjVOZGZB?oc=5",
-   "quelle": "t-online – Düsseldorf",
-   "zeit": "2026-11-06T01:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3672368a49c11f42",
-   "k": "finanzen",
-   "titel": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-   "t": "Ein Bitcoin-Entwickler schlägt Schutzmechanismen vor, durch die Quanten-Angreifer ihre eigenen BTC verlieren sollen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T01:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ff9ce386e2651474",
-   "k": "deutschland",
-   "titel": "„Ziemlich verstolpert“ – Parteifreund spricht Merz Fingerspitzengefühl ab",
-   "t": "CDU-Außenpolitiker Roderich Kiesewetter kritisiert Bundeskanzler Friedrich Merz bei Markus Lanz scharf, sieht aber Lernfähigkeit bei ihm.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/article6aed28bca389bc337cfc7572/bei-lanz-ziemlich-verstolpert-parteifreund-spricht-merz-fingerspitzengefuehl-ab.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T01:16:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "13cb4c06d5946405",
-   "k": "finanzen",
-   "titel": "Barkin, Hammack Both Back Gradual Rate Hikes as Market Odds of December Increase Top 80% - BigGo Finance",
-   "t": "Die Fed-Gouverneure Barkin und Hammack sprechen sich für schrittweise Zinserhöhungen aus. Die vom Markt eingepreisten Wahrscheinlichkeiten für eine Erhöhung im Dezember liegen laut Bericht über 80 Prozent.",
-   "e": "Ein Zinsschritt der Fed im Dezember wäre für Aktien, Krypto und Gold ein relevanter Gegenwind, weil höhere Leitzinsen Kapital verteuern.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqV3I3VzcxRHFPYUo2SXpTOEpLaVZTLWRjcTBDRVJTREhmdlFlWGFwbTAydGI5bFFUSVFDUHl5ZWZES1dzeEVCemROZ3otY2ZZNktwYWxMQmNaSkpfbGZMQUpVdGhwbENJaTFLY2VocE96VXU1MHc?oc=5",
-   "quelle": "BigGo Finance",
-   "zeit": "2026-11-06T00:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2de1e36f6517fbd",
-   "k": "deutschland",
-   "titel": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-   "t": "Der Bundestag korrigiert eine Panne bei der Tabaksteuererhöhung: Die Erhöhung war versehentlich schon in Kraft getreten, obwohl sie erst zum Jahreswechsel vorgesehen war. Eine Gesetzesänderung soll den Fehler beheben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T00:55:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "cdde9fdf9baf3ef5",
-   "k": "usa",
-   "titel": "LIVE-TICKER - Midterms 2026: Marco Rubio will trotz der Wahlschlappe seiner Partei Aussenminister bleiben",
-   "t": "Bei den US-Midterms 2026 haben die Republikaner ihre Mehrheiten im Senat und im Repräsentantenhaus verloren. Außenminister Marco Rubio will laut Bericht trotz der Wahlniederlage seiner Partei im Amt bleiben.",
-   "e": "Der Verlust beider Kongresskammern schränkt die Handlungsmöglichkeiten der Regierung Trump in der zweiten Amtshälfte deutlich ein.",
-   "s": 8,
-   "link": "https://www.nzz.ch/international/midterms-2026-der-kampf-um-die-macht-in-den-usa-ld.10045181",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T00:53:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "20aea0fb09fbff60",
-   "k": "finanzen",
-   "titel": "El Niño could push U.S. inflation higher in 2027, Federal Reserve Bank analysis finds - SILive.com",
-   "t": "Eine Analyse der US-Notenbank Fed sieht durch El Niño mögliche höhere US-Inflation im Jahr 2027.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlpiQzBkbTk1OVdMTUtyN1VEV3JhX3hnSVpxM0NJUGNnVlFfM3BjTkkyMWJsc2ljMnNrZW5Qb01lSkM2SmtVYjRmZXJlZzFqLTJFd25jM1RzT1IxcEliaXNRNG8yUzhXd3Bta2JBTzA5SEhSVEpRYWVHakIwWWpTaWpxeWhaUmZfeGRUQ2pJSVd5d1hSakMya21GZ2QyRmZ2MWlYSDBPNUplSTk2MG1ZTHZPUkxhRkkwR1pfRGdoOFFYZWlH?oc=5",
-   "quelle": "SILive.com",
-   "zeit": "2026-11-06T00:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2a57d0d20d5730d1",
-   "k": "welt",
-   "titel": "Staatskrise in Paraguay: Kongress nimmt Peñas Rücktritt nicht an und will Verfahren",
-   "t": "In Paraguay hat Präsident Peña seinen Rücktritt erklärt, der Kongress nimmt diesen nicht an und leitet ein Amtsenthebungsverfahren ein. Hintergrund ist ein Finanzskandal.",
-   "e": "Ein Amtsenthebungsverfahren infolge eines Finanzskandals ist ein ernstes Signal für die politische Stabilität des Landes.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/staatskrise-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren/100267756.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T00:28:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "70ae913c857cf658",
-   "k": "deutschland",
-   "titel": "„Unglaublich niederträchtig und perfide“ – Hubig will K.o.-Tropfen mit Waffen gleichsetzen",
-   "t": "Justizministerin Stefanie Hubig will Strafen für Taten mit K.o.-Tropfen deutlich erhöhen. Der Bundestag entscheidet über den Gesetzentwurf.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6aed1c8647b5fce02f87994e/justizministerin-unglaublich-niedertraechtig-und-perfide-hubig-will-k-o-tropfen-mit-waffen-gleichsetzen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T00:24:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "a1c5a933db5835cd",
-   "k": "finanzen",
-   "titel": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-   "t": "Core Scientific will das Bitcoin-Mining bis Jahresende aufgeben und ab 2027 als reiner Anbieter von Rechenzentren für KI arbeiten. Mining macht nur noch 7,5 Prozent des Quartalsumsatzes aus.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T00:19:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "153a967a49f45cd9",
-   "k": "finanzen",
-   "titel": "Poker um EZB-Spitze: Wer folgt auf Christine Lagarde? - Badische Neueste Nachrichten",
-   "t": "Im Vorfeld des Wechsels an der EZB-Spitze wird über mögliche Nachfolger von Christine Lagarde spekuliert.",
-   "e": "Die Besetzung der EZB-Spitze entscheidet mit darüber, wie der Euroraum künftig Zinsen und Inflation steuert.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0lJSVotLWwxeE9oQnJuVlZZMUUxNnJNNW1oLVhPM1FSM0FHVlh3c3pEYnZ1UkkyaDM2TExsVWRyMl9WUktlNlp4dUxXY1VrMUhGLUt4QjZqMjItNzZkWHNfZUtTcllWRXlWekVveVJGcExKZVZ6RGVnaGFSaW5RWEFwdzJiMkZHcFl0cnB6akJ6MDQ?oc=5",
-   "quelle": "Badische Neueste Nachrichten",
-   "zeit": "2026-11-06T00:02:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "44d1561aeaad9016",
-   "k": "usa",
-   "titel": "Republikaner strebt Amtsenthebung von Verteidigungsminister Hegseth an",
-   "t": "Nach den Verlusten der Republikaner bei den Midterms macht ein Teil der Partei Verteidigungsminister Pete Hegseth verantwortlich, ein Abgeordneter strebt ein Amtsenthebungsverfahren an.",
-   "e": "Ein Amtsenthebungsverfahren gegen ein Kabinettsmitglied wäre in den USA ungewöhnlich.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6aed1495a389bc337cfc752c/nach-midterms-republikaner-strebt-amtsenthebung-von-verteidigungsminister-hegseth-an.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T00:01:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "80d2ba969cac0224",
-   "k": "welt",
-   "titel": "Klima: Chinas CO2-Ausstoß laut Analyse deutlich gesunken",
-   "t": "Laut einer unabhängigen Analyse ist Chinas CO2-Ausstoß im dritten Quartal dieses Jahres deutlich gesunken. Die Schätzung erscheint kurz vor der Weltklimakonferenz.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/klima-chinas-co2-ausstoss-laut-analyse-deutlich-gesunken/100267750.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T00:01:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "898079a70b47bbe9",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: SPD-Spitzenkandidat Ott spricht sich für Aigner aus - n-tv.de",
-   "t": "Der SPD-Spitzenkandidat in Nordrhein-Westfalen, Ott, spricht sich laut Bericht für Aigner aus.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWldSLTNIR1I4UVVYMHZ6X0xEdW8wV1lUSy04R0lSeXlDVjBLek1ud205TW5WOHU5elg0YjhqY1h4d0VjTUdWME1BWmpEUVE0NGdScThGUV9nTFBnS0dmQ0NvdWdlZzFuaVNReGNUSXdiWnREbzVpNklGM3VqSDJzV3JlNDA5NjR5SmpnU1UwSlFrdy0wMFNlUDFuM1A1a1YzMnhMRXhjVWhFOElzUlB6WVJKZENGdTQtQ24w?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T00:01:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cdaa8dc0ee5d855d",
-   "k": "finanzen",
-   "titel": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-   "t": "Die Cloudflare-Aktie erholt sich deutlich nach dem schnellsten Umsatzwachstum seit fast vier Jahren. Treiber ist die Nachfrage nach automatisiertem KI-Schutz.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-05T23:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f90c2d35bb9a8d2a",
-   "k": "usa",
-   "titel": "Meta, Google and TikTok sue California to block law shielding children from ‘addictive’ algorithms",
-   "t": "Meta, Google und TikTok klagen gegen ein kalifornisches Gesetz, das Kinder vor süchtig machenden Algorithmen schützen soll. Sie sehen darin einen Verstoß gegen die Meinungsfreiheit.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/05/us-news/meta-google-and-tiktok-sue-california-to-block-incoming-content-law/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T23:49:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "c07c959d9cf13d30",
-   "k": "usa",
-   "titel": "Dems prep anti-Trump blitz during first 100 hours when they take back Congress",
-   "t": "Der designierte Sprecher des US-Repräsentantenhauses, Hakeem Jeffries, plant nach der Rückkehr der Demokraten in die Macht eine Gesetzgebungsoffensive gegen Präsident Trump in den ersten 100 Stunden.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/05/us-news/dems-prep-anti-trump-blitz-during-first-100-hours-when-they-take-back-congress/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T23:49:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "f1a43d11b414e9b8",
-   "k": "usa",
-   "titel": "Vance ‘privately’ blasts Netanyahu as Iran war divides Trump admin, 2028 ambitions loom",
-   "t": "JD Vance soll Benjamin Netanyahu privat scharf kritisiert haben, dessen Einschätzung zum Iran-Krieg sei in allen Punkten falsch. Der Konflikt spaltet laut Berichten die Regierung Trump.",
-   "e": "Die Meinungsverschiedenheiten in der US-Regierung zum Iran-Krieg sind politisch brisant, da Vance als möglicher Kandidat für 2028 gilt.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-05T23:49:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d8ea09b5fa0c130",
-   "k": "usa",
-   "titel": "Justice Department conducting criminal probe into leak of Dobbs abortion decision",
-   "t": "Das US-Justizministerium führt laut Bericht eine strafrechtliche Ermittlung zum Leak des Dobbs-Urteils des Supreme Court. Staatsanwälte haben Vorladungen an Personen ausgestellt, die im Umfeld des Gerichts gearbeitet haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/05/us-news/justice-department-conducting-criminal-probe-into-leak-of-dobbs-abortion-decision/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T23:48:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "4f2fed1cfa77f279",
-   "k": "usa",
-   "titel": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-   "t": "Gouverneur Gavin Newsom wandelt die Todesstrafen von rund 550 Verurteilten in Kalifornien in lebenslange Haftstrafen um. Dort wurden seit 2006 keine Hinrichtungen mehr vollstreckt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T23:44:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "46ba1754f77b21b1",
-   "k": "finanzen",
-   "titel": "Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WBMA",
-   "t": "Trump kündigt eine Untersuchung des Weißen Hauses gegen die Fed-Gouverneurin Lisa Cook an.",
-   "e": "Ermittlungen gegen ein Mitglied des Fed-Gremiums berühren die Unabhängigkeit der Notenbank, die an den Finanzmärkten besonders beachtet wird.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnRuTlNiT3RnaU56V0steEE2NlpyUlRBS0lyRkJ4bjVaSGUyRDdrRG9HNm5STmxtZkM5UWhjT2NBdngzWHZuWXJGcXZuaWJJSm0tWEpqYkpvVnNHS0Fmend3Rkt2cnJldTA3TmRPVmNMRjAwai1fSndaWENaYjMyYkJnVTl0cVJTWTlwOTFCdEQ4YjBuRUx5ZTJCcnFVakJ1T0JkZjFaS0JEd0ZTZW9hSm0wZVd2TC1NbmdhMWQ0d19yc0w4NXV5dGVnSHMwemh1M2JtOTFDUkJCSkdrSGJ4WVVNNVZvUU0?oc=5",
-   "quelle": "WBMA",
-   "zeit": "2026-11-05T23:22:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "3f3b9e1341f37310",
-   "k": "finanzen",
-   "titel": "Fed Governor Cook’s Lawyer Demands Fair Hearing Before Trump‑Requested Review - Forth.News",
-   "t": "Der Anwalt von Fed-Gouverneurin Cook verlangt ein faires Anhörungsverfahren, bevor eine von Trump angeforderte Überprüfung stattfindet.",
-   "e": "Der Fall berührt die Unabhängigkeit der Fed gegenüber der Regierung und damit das Vertrauen der Märkte in die Geldpolitik.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Wa3V2M01HU09sWXdYVUI4OXY5V0lUSVdUQTkybWNKZE9fako0X1lfWWtyTjhweHBfWHpUTlpDRFVNMzQ1d2dWdFF4WkxmNTl4WHB1b1FnOERiU1VETG9zUmN3?oc=5",
-   "quelle": "Forth.News",
-   "zeit": "2026-11-05T23:18:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "997fa531f4ece6c6",
-   "k": "welt",
-   "titel": "Top US commander launches podcast joking about retirement — as Trump weighs next Iran move",
-   "t": "Der Iran prüft US-gestützte Vorschläge zum Schicksal seines Atomprogramms, während Trump über den nächsten Schritt im Konflikt berät.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/05/us-news/top-us-commander-launches-podcast-joking-about-retirement-as-trump-weighs-next-iran-move/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T23:12:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "def096347588a5b1",
-   "k": "usa",
-   "titel": "Trump signs proclamation preventing changes to Oval Office, other White House rooms",
-   "t": "Trump hat das Oval Office und den Kabinettsraum per Proklamation zu einem nationalen Denkmal erklärt, um Veränderungen durch künftige Präsidenten zu erschweren.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/trump-signs-proclamation-preventing-changes-oval-office-white-house-rooms",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-05T23:10:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "f24847758f0f95e3",
-   "k": "usa",
-   "titel": "Amerika setzt seine Hoffnungen auf diese Demokraten – auch für 2028",
-   "t": "Eine Analyse beschreibt die Demokraten nach dem Wahlsieg bei den Midterms und nennt jüngere Führungsfiguren als mögliche Hoffnungsträger für 2028.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/amerika-setzt-seine-hoffnungen-auf-diese-demokraten-auch-fuer-2028-ld.10054596",
-   "quelle": "NZZ",
-   "zeit": "2026-11-05T23:08:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "de9a56a7b2781224",
-   "k": "deutschland",
-   "titel": "Zukunft der FDP: Kubicki: „Dann war es das“ für die FDP - STERN.de",
-   "t": "FDP-Politiker Kubicki äußert sich zur Zukunft seiner Partei und sagt, dann sei es für die FDP vorbei.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFdIQWJkVTlxcDF3TURhdG1XYTRTOVFidm4xTnQ1WmRYX0dBVEtIQmVOY1ctcENGV0VfNGJGMmxlNDI1OUtsT3ZwVTRSelhHRnlDSF9OSFhqLS01dE0yQjE1dk9VazhMNDV6YVY1M2ZUbXZwcTk4UmNGbWZKQWNFVF9aRzVobGhUeUlkeEwyYl9xYjhkV3JYUkVVend6X3kyOVRPdEFDX1AzY2tWaUNjWTdUOUJELVdKQlFLNzY2V2hSNDA1cER6ZDg2R0d5dV95VmJkcllmRQ?oc=5",
-   "quelle": "STERN.de",
-   "zeit": "2026-11-05T23:01:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "1970bc18d45559a1",
-   "k": "finanzen",
-   "titel": "Milliardenförderung, Tausende Jobs – Die brisanten Details hinter dem Audi-Deal in den USA",
-   "t": "Die Förderung des Audi-Projekts in den USA umfasst Steuervergünstigungen und Landesförderung; Verträge mit der Trump-Regierung sind noch offen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6aed0ab8a389bc337cfc7516/neues-werk-in-georgia-milliardenfoerderung-tausende-jobs-die-brisanten-details-hinter-dem-audi-deal-in-den-usa.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T23:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,22 +3090,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 25
+    "n": 28
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Welt",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 23
+    "n": 25
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 5
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 25
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Fox News Politik",
@@ -3190,7 +3190,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 31
    }
   ],
   "markt": [],
