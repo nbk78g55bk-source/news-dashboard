@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-06T00:57:45.754501+00:00",
+ "aktualisiert": "2026-11-06T01:01:10.877605+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "76.238 $",
-   "delta": -5.413472035957347
+   "wert": "76.218 $",
+   "delta": -5.311492683807072
   },
   {
    "name": "Ethereum",
-   "wert": "2.243 $",
-   "delta": -7.398293129939954
+   "wert": "2.242 $",
+   "delta": -7.3198934458721405
   },
   {
    "name": "Gold",
-   "wert": "4.106 $",
-   "delta": 0.8053032163024776
+   "wert": "4.105 $",
+   "delta": 0.7782960962435581
   },
   {
    "name": "EZB Zins",
@@ -94,6 +94,18 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T00:55:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "cdde9fdf9baf3ef5",
+   "k": "usa",
+   "titel": "LIVE-TICKER - Midterms 2026: Marco Rubio will trotz der Wahlschlappe seiner Partei Aussenminister bleiben",
+   "t": "Bei den US-Midterms 2026 haben die Republikaner ihre Mehrheiten im Senat und im Repräsentantenhaus verloren. Außenminister Marco Rubio will laut Bericht trotz der Wahlniederlage seiner Partei im Amt bleiben.",
+   "e": "Der Verlust beider Kongresskammern schränkt die Handlungsmöglichkeiten der Regierung Trump in der zweiten Amtshälfte deutlich ein.",
+   "s": 8,
+   "link": "https://www.nzz.ch/international/midterms-2026-der-kampf-um-die-macht-in-den-usa-ld.10045181",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T00:53:33+00:00",
    "tag": null
   },
   {
@@ -1921,6 +1933,18 @@
    "tag": null
   },
   {
+   "id": "abb34f736cf8e074",
+   "k": "usa",
+   "titel": "US-Kongress: Demokraten wollen Trumps Geschäfte untersuchen - Berliner Zeitung",
+   "t": "Demokraten im US-Kongress wollen die Geschäfte von Präsident Trump untersuchen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzBWSHJSOWRfUjhVRlRCOTRuZ0JtOXNqN3BkbWgyRG9lMDNXdUNFRkxQVlJ2am4tNkQ2amdKS2tPSkhKQ2wwQ0g2Vk1aTmtaOV93UTY2TlJUT0dLTE1LV3R3akpBYUlwbGNyVTlubkxFcXNnVE5kRlowanRFV2l5cllmSFlqVmtNa0xINGxZaUNmWW1nZ2RKME1pZElrQlhjUEVsTVF4Sy1fTGpE?oc=5",
+   "quelle": "Berliner Zeitung",
+   "zeit": "2026-11-05T14:59:26+00:00",
+   "tag": null
+  },
+  {
    "id": "388b45edf9704b6d",
    "k": "nrw",
    "titel": "ASSV Letmathe versteigert handsigniertes Heynckes-Trikot für den guten Zweck - IKZ-Online",
@@ -3040,29 +3064,6 @@
    "quelle": "Nordisch.info",
    "zeit": "2026-11-05T10:42:04+00:00",
    "tag": null
-  },
-  {
-   "id": "47f858493d9c6d5b",
-   "k": "welt",
-   "titel": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
-   "t": "Der Hongkonger Demokratie-Aktivist Joshua Wong wurde zu zehn weiteren Jahren Haft verurteilt, auf Grundlage des chinesischen Sicherheitsgesetzes.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T10:35:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "3183cf4d274d438f",
-   "k": "finanzen",
-   "titel": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-   "t": "Bitcoin hat in der Hälfte der letzten 90 Handelstage den S&P 500 übertroffen. Historische Midterm-Daten sprechen zugleich für Aktien.",
-   "s": 3,
-   "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-05T10:28:26+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3075,7 +3076,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Tagesschau Ausland",
@@ -3140,7 +3141,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "WSJ USA",
@@ -3190,7 +3191,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 8
+    "n": 10
    },
    {
     "name": "Google News Fed",
