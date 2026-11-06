@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-06T11:01:30.181826+00:00",
+ "aktualisiert": "2026-11-06T13:01:27.350696+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,19 €",
-   "delta": -1.248142189608159
+   "wert": "126,12 €",
+   "delta": -1.3029195583369235
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,70 €",
-   "delta": 0.8143582645525616
+   "wert": "43,66 €",
+   "delta": 0.7197727110320296
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,37 €",
-   "delta": -0.919617896909819
+   "wert": "137,17 €",
+   "delta": -1.063871201274813
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "171,78 €",
-   "delta": -0.1627325134062052
+   "wert": "171,42 €",
+   "delta": -0.3719618549778314
   },
   {
    "name": "Deka DAX",
-   "wert": "225,15 €",
-   "delta": -2.3845627756455823
+   "wert": "224,35 €",
+   "delta": -2.7314086551902594
   },
   {
    "name": "Bitcoin",
-   "wert": "76.031 $",
-   "delta": -5.232492941427563
+   "wert": "75.959 $",
+   "delta": -4.644328324687143
   },
   {
    "name": "Ethereum",
    "wert": "2.236 $",
-   "delta": -7.50125645674972
+   "delta": -6.547400665295926
   },
   {
    "name": "Gold",
-   "wert": "4.074 $",
-   "delta": -0.9699769053117757
+   "wert": "4.073 $",
+   "delta": -0.9894250638142643
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,306 @@
   ]
  },
  "items": [
+  {
+   "id": "af55d293dfdc91cf",
+   "k": "finanzen",
+   "titel": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
+   "t": "Spanien hat den früheren Notenbankchef Pablo Hernández de Cos als Kandidaten für die EZB-Präsidentschaft nominiert, die Nachfolge von Christine Lagarde. Die Euro-Finanzminister wollen die Nominierungen am Montag prüfen.",
+   "e": "Die Besetzung der EZB-Spitze ist für Zinskurs und Glaubwürdigkeit des Euro wichtig, weil die Amtszeit Lagardes ausläuft.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T12:50:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "c94aaae954efc6b7",
+   "k": "usa",
+   "titel": "LIVE-TICKER - Die USA nach den Midterms: Kaliforniens Gouverneur ändert Todesurteile zu lebenslangen Haftstrafen +++ Richterin setzt Arbeit an Trumps Triumphbogen aus",
+   "t": "Nach den Midterms: Kaliforniens Gouverneur wandelt Todesurteile in lebenslange Haftstrafen um, eine Richterin setzt die Arbeiten an Trumps Triumphbogen aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T12:49:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "36624868186d0751",
+   "k": "finanzen",
+   "titel": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
+   "t": "Goldman Sachs hat sein Gold-Kursziel angepasst und hält einen Kauf derzeit für verfrüht, als Begründung wird die restriktivere Haltung der Fed genannt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T12:47:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2d6e77ed178b8801",
+   "k": "finanzen",
+   "titel": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+   "t": "Moderna hat seine Umsatzprognose für 2026 angehoben und erwartet nun ein Wachstum von 15 bis 25 Prozent statt bisher bis zu 10 Prozent.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T12:43:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "0795f40fc33d3f04",
+   "k": "finanzen",
+   "titel": "Jobs report to provide latest snapshot of hiring days after midterms - ABC News - Breaking News, Latest News and Videos",
+   "t": "Der US-Arbeitsmarktbericht zu den Neueinstellungen wird wenige Tage nach den Midterms veröffentlicht und gilt als wichtiger Hinweis auf die Konjunktur.",
+   "e": "Die Arbeitsmarktdaten beeinflussen die Erwartungen an die Zinspolitik der Fed, die am Markt aktuell intensiv beobachtet werden.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmQ5Q1NmVjFvcUhnc1ZWa1ZYWE5fRjR1UjN0TGJmaFhLSjBiQ3hOYmhLNk1sRzJHcFNFcjZneS13NWlWdTIycmZwalRRSXpzLTktR0Q0NUhqdmU2Qkh4MnhHa1RkZjc0bks5a1d6eDJQbmtnbVh1QlVEU2hrRlFtcFZFZ2dGRG01aERMakNyNWFyRnY1d2dMeXQxVmVIM1dGZGZF0gGoAUFVX3lxTE5jZF9CMjZjVEZEdm5JZjh2dFlmUHIwWGVlZW9vdDdMQUt6S3hlUE5qaW5iRkNxTWhSM2cyYTRlbjBrWFZFZGFXbG1sbnVSZmRPaGRMMzZOaWtnUVVOeWF4blhUUGs5VVo4RWpiVGR1YjRvY1N6eVRjNDNqLVJ3ekVVcHcwNE0xcjEyb21OcjRTLTRzRnFIajZ3YmVGS3BBLTBPSklic1QxQg?oc=5",
+   "quelle": "ABC News - Breaking News, Latest News and Videos",
+   "zeit": "2026-11-06T12:42:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "b1210906433e2fee",
+   "k": "welt",
+   "titel": "Wahl in Neuseeland: Sie wurde per Stellenanzeige zur Parteivorsitzenden",
+   "t": "In Neuseeland könnte die Opportunity Party nach der Wahl das Zünglein an der Waage sein, die Partei hatte ihre Vorsitzende per Stellenanzeige gesucht.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-neuseeland-die-opportunity-party-koennte-zum-zuenglein-an-der-waage-werden-accg-201646161.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T12:40:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "5efe75b54b2a1770",
+   "k": "welt",
+   "titel": "„Ein großes, wunderschönes Abkommen“ – Mit einem einzigen Satz versetzt Trump Europa in Panik",
+   "t": "US-Präsident Trump hat kurz nach den Midterms ein großes Ukraine-Abkommen angekündigt, das laut ihm auch ganz Europa betreffen werde. Details wurden nicht genannt.",
+   "e": "Ein Abkommen, das Europa einschließt, hätte direkte Folgen für Sicherheit und Ukraine-Politik der EU.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/plus6aed981847b5fce02f879d6e/neue-sicherheitsarchitektur-ein-grosses-wunderschoenes-abkommen-mit-einem-einzigen-satz-versetzt-trump-europa-in-panik.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T12:34:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "3cc8463c686432b8",
+   "k": "deutschland",
+   "titel": "Prozess um VW-Affäre: Haftbefehl gegen Angeklagten im VW-Dieselprozess erlassen",
+   "t": "Im VW-Dieselprozess wurde ein Haftbefehl gegen einen Angeklagten erlassen, elf Jahre nach Bekanntwerden der Affäre.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/prozess-um-vw-affaere-haftbefehl-gegen-angeklagten-im-vw-dieselprozess-erlassen/100267915.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T12:31:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "1e2333ce6ba31346",
+   "k": "usa",
+   "titel": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
+   "t": "Wähler in Montana haben ein Verbot von Unternehmensspenden für Politik beschlossen, wohl mit einem späteren Verfahren vor dem Supreme Court.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T12:30:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "7630fd6aea3d349a",
+   "k": "finanzen",
+   "titel": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+   "t": "Bullische Krypto-Wetten im Wert von über einer Milliarde US-Dollar wurden liquidiert, während ETF-Zuflüsse keine Unterstützung am Spotmarkt zeigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-06T12:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a3c1fecf44da2827",
+   "k": "nrw",
+   "titel": "Erst Regen dann Schnee in NRW? Das berechnen Wettermodelle für die kommende Woche - Ruhr Nachrichten",
+   "t": "Wettermodelle sagen für NRW in der kommenden Woche zunächst Regen und danach Schnee voraus.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUM5eTlIZTh6R0labkVfak1HQUxrMnhEeF9HbXV1VmlGSXJGS2lCTTNRRnRBSEh6Skk4bl9YNHJ3RFV4ODNBcFJPVUsxWnJMYlZrTGh4UHQ5VGoxY1BmR1RfU3Y4U1l2TkdqNVkxWnY5d3ZMYUNRMXphZEpIWDVOM3RlN1FNNEV2VlBWYVNIMmhocWVUVU4yLUJGTHhuTmNQeFY0QTM1MHNZTEFwTHMtNURMRGNGLUVfZ0tTTw?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-06T12:22:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "cfb8a86f954e18a3",
+   "k": "welt",
+   "titel": "Europa: Neue Bombendrohungen – Flugzeuge und Medien betroffen",
+   "t": "In Europa gab es erneut anonyme Bombendrohungen gegen Fluggesellschaften und irische Medien, Mitarbeiter wurden evakuiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohungen-gegen-irische-medien-rte-evakuiert-accg-201658939.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-06T12:17:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "ee9c21e2a3a92707",
+   "k": "finanzen",
+   "titel": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
+   "t": "Nach dem schwächsten Wall-Street-Ausverkauf seit dem Zollschock 2025 breitet sich die Kursschwäche über Technologiewerte hinaus aus.",
+   "e": "Der Ausverkauf betrifft den KI-Sektor, zu dem zuletzt Sorgen über mögliche US-Regulierung hinzukamen, und zeigt eine breitere Risikoscheu an den Märkten.",
+   "s": 8,
+   "link": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-06T12:14:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "11a396c1429639ce",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: 20-Jähriger soll Mutter seiner Ex-Verlobten angefahren haben - n-tv.de",
+   "t": "In NRW soll ein 20-Jähriger die Mutter seiner Ex-Verlobten angefahren haben.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3FDRm5UTWxKMUp1T2VzNTVkdC0tVkMzeHJqaFl3ZmdQQ0EwRllBczhqMTVuaWdJMkpJRS0tMVFSMng3OEtZN3BZRzBxLTVZRHkwc0E2Qk9NNzN0NzJDaUViYUltbXk4UGp5M2tWUDlwUVM4WlN0Y2ZnU0taWEktckNDcVNWNjB0cVpndlZLUWk4S1NoSWo5bE81dW1kN2RPdjV0dFB6ZjJDTGtCZ3Iyak1SeC1sMlNaeUc0bmQ2eW1xTzgwcGdZ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-06T12:14:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5988a59fd22fa75f",
+   "k": "welt",
+   "titel": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
+   "t": "Die EU-Kommission wirft TikTok vor, die Gesundheit der Nutzer durch den sogenannten Rabbit-Hole-Effekt zu gefährden. Dem Konzern droht eine hohe Strafe.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T12:08:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "dbdc9a506e958cb2",
+   "k": "finanzen",
+   "titel": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+   "t": "Kleine und mittlere Händler müssen wegen stark gestiegener Versandkosten mit einem schwierigen Weihnachtsgeschäft rechnen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-06T12:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "a3e1c79eb1171bfb",
+   "k": "nrw",
+   "titel": "Tanz der Meisterklasse: Deutsche Erstaufführung im Parktheater Iserlohn begeistert - IKZ-Online",
+   "t": "Im Iserlohner Parktheater hatte die Deutsche Erstaufführung einer Tanzproduktion der Meisterklasse Premiere.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGlVUGRrVFprczRCY04zS3o5eVVEVzhCTm1wQzVsdTdIWExyQUtKSGZnLXNzc0FvMWRBVzYxdndrU0JCNG1BTnVpWVJzY25LTTRIcXJwQlcybE1sRGdCNXdpMWY1bGhZYnZmS0I3aE80emMzRkNkT0dFNGlfcVR2ZjhzVXpMS01VRm5GSVVJQkN0UlBqeWdXamFMYVFzZlEydm4zQ1ExMjU2Mms4NTM0RmdUUEVpdzVGTzdEeVB4YUVLY0RkZm54a2Y2NjJ1alRjS2RjNXZ1TEVwWU10NmYtXw?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-06T12:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5a10552f37b9da7",
+   "k": "welt",
+   "titel": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
+   "t": "In Serbien ist die Alta Bank geschlossen worden, ihr Besitzer wurde verhaftet. Ihm wird vorgeworfen, knapp 400 Millionen Euro veruntreut zu haben.",
+   "e": "Der Fall betrifft laut Berichten auch staatliche Gelder und das Umfeld des früheren Präsidenten Vucic.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T11:58:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3abf1ab54489d6f",
+   "k": "nrw",
+   "titel": "Bauanträge online stellen: Neues digitales Bauportal beim Märkischen Kreis - WP | Westfalenpost",
+   "t": "Der Märkische Kreis hat ein digitales Bauportal eingeführt, über das Bauanträge online gestellt werden können.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzNaV2NxZy1EaHFrSWRCVEE1NmZOcHZLdG1oUkNBMXRkNWlSbUpTSXZRY2ZXeUU4UFFaZkZyOWFuYXoydnJTclNla3U3MFZXZy1BR1NMQXdvb21SVGQ0ckZ3Q2hjeDlEaVFYTHFhMXJxS0VGODdKSHNIS1dvTUtaOHh3UkpPZmNqaXdSUGlKcHpxeDFnNzVOVGg1alFhNVJQcEdIZ1Q1ZFNydjZw?oc=5",
+   "quelle": "WP | Westfalenpost",
+   "zeit": "2026-11-06T11:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e11eecf60a88eb1",
+   "k": "finanzen",
+   "titel": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+   "t": "Die Hacker hinter dem Binance-Exploit von 6,3 Milliarden US-Dollar sollen laut einer Sicherheitsfirma acht Wochen Zugriff gehabt haben.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T11:26:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "4accff74c82561c2",
+   "k": "usa",
+   "titel": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide - Reuters",
+   "t": "Nach der Demokraten-Welle bei den Midterms geraten die konservativen Richter Thomas und Alito am Supreme Court verstärkt in den Blick.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDVYRXNneFQxQ09sNE1LRkU2a2RmdWlkcHl4QmxWYnpYUUxCNThGejlvY1E1U0RoaTlEZkZkRjdlaDlIbzlubDZlMjBnWGRKbngwQXNqS1FtRzQ2by1Zd0xFWnBwdWpDY1BLbFFraEFOV08zTUgtTkRLTnRLN0tiQ2hpcjQ4amdJaWdLcExGSVF4Vk9Kc1REdTh2eVdHVTFPYzA2UzV2THBnUmhTYUdwTHVXc3ZpcGVtS3J0N2ZOUF9YMnRkajZMTjY3aw?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-06T11:24:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "c16e448dc1cc1511",
+   "k": "welt",
+   "titel": "Zwei Tote bei Busunfall mit Schülern an Bord in Frankreich",
+   "t": "Bei einem Busunfall in Frankreich mit Schülern an Bord sind zwei Menschen ums Leben gekommen. Insgesamt sind 40 Personen beteiligt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.nzz.ch/panorama/zwei-tote-bei-busunfall-mit-schuelern-an-bord-in-frankreich-ld.10056290",
+   "quelle": "NZZ",
+   "zeit": "2026-11-06T11:22:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "32056b58c753dc7c",
+   "k": "finanzen",
+   "titel": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+   "t": "Ökonomen erwarten nach dem Machtwechsel im US-Kongress mehr Planbarkeit für Unternehmen, befürchten aber eine Fortsetzung des Zollstreits.",
+   "e": "Für die exportorientierte deutsche Wirtschaft sind Zölle und US-Handelspolitik ein zentraler Faktor.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T11:17:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "1a7aeb47545078db",
+   "k": "finanzen",
+   "titel": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+   "t": "Der südkoreanische Leitindex KOSPI wurde nach einem Kurseinbruch von 8 Prozent gestoppt, Bitcoin stabilisierte sich bei rund 75.000 US-Dollar. Südkorea kündigte Maßnahmen zur Beruhigung der Börse an.",
+   "e": "Die Kursverluste hängen mit Sorgen über US-KI-Regulierung zusammen und greifen über den Atlantik hinaus auf Asien über.",
+   "s": 7,
+   "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T11:16:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "ebb1c80607f986e9",
+   "k": "finanzen",
+   "titel": "Greece approves 10% tax on crypto gains starting in 2027",
+   "t": "Griechenland hat eine Steuer von 10 Prozent auf Krypto-Gewinne ab 2027 beschlossen. Gewinne bis 500 Euro jährlich bleiben steuerfrei.",
+   "e": "Die Regelung betrifft Krypto-Anleger in Griechenland und ist ein Beispiel für die Besteuerung von Krypto in der EU.",
+   "s": 6,
+   "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-06T11:05:36+00:00",
+   "tag": null
+  },
   {
    "id": "d5959d7165584fbe",
    "k": "finanzen",
@@ -349,6 +649,18 @@
    "tag": null
   },
   {
+   "id": "a0151d7241fd0c1c",
+   "k": "usa",
+   "titel": "Inside ICE's high-stakes raids targeting illegal migrants in NYC as chief rips sanctuary laws",
+   "t": "Die US-Einwanderungsbehörde ICE führt Razzien gegen irreguläre Migranten in New York durch, die Polizeichefin kritisiert Sanctuary-Gesetze.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/inside-ice-high-stakes-raids-targeting-illegal-migrants-nyc-chief-rips-sanctuary-laws",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-06T10:00:56+00:00",
+   "tag": null
+  },
+  {
    "id": "a1e67aeedbedce39",
    "k": "finanzen",
    "titel": "KONJUNKTUR IM BLICK/Eurogruppe diskutiert EZB-Personalien - US-Inflationsdaten - MarketScreener Schweiz",
@@ -409,6 +721,18 @@
    "tag": null
   },
   {
+   "id": "a0aa51b5afb7427e",
+   "k": "finanzen",
+   "titel": "Deutsche Bank Aktie: EZB legt die Kapitalhürde tiefer - Börse Global",
+   "t": "Die EZB senkt die Kapitalanforderungen für Banken, was Deutsche Bank und anderen Instituten mehr Spielraum verschafft.",
+   "e": "Niedrigere Kapitalhürden können Kreditvergabe und Ausschüttungen beeinflussen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSzhybTVKU1BjNERWclMwYm83TURyYjFWTGQ3TGdnOXNDUUFscHNmQnl0TWhZQjBPX1k4NUlnWjhUMDNRVU1uYXZvTlhMb0NQQlQxc3luSUQzeERnLWZHNnRkUkd2WjZpZk9FNl8xOVpIcWxkeDc4SkU0ckgtbURyUnk3dVFoOGI3a01PLU5EcTdkcFk?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-06T09:39:23+00:00",
+   "tag": null
+  },
+  {
    "id": "9f6f7dc889d3b915",
    "k": "deutschland",
    "titel": "Schärfere Strafen bei K.o.-Tropfen: Was die Gesetzesänderung bewirkt",
@@ -442,6 +766,30 @@
    "link": "https://www.tagesschau.de/video/video-1679098.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T09:30:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "30b3433a877729c2",
+   "k": "welt",
+   "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+   "t": "In Paraguay weitet sich die Krise um die Ueno Bank aus: Das Parlament hat ein Amtsenthebungsverfahren gegen Präsident Peña eingeleitet.",
+   "e": "Die Bankenkrise hat sich zur politischen Krise ausgeweitet, weil dem Präsidenten vorgeworfen wird, Risiken ignoriert zu haben.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-06T09:29:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "d8a9ebd79ea8bec7",
+   "k": "finanzen",
+   "titel": "Dank Wende in den USA – Daimler Truck steigert Gewinn um 73 Prozent",
+   "t": "Daimler Truck hat im dritten Quartal seinen Gewinn um 73 Prozent gesteigert, vor allem getrieben durch das Nordamerika-Geschäft.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/article6aed7d571d9d38d6d601adfd/daimler-truck-gewinn-schiesst-um-73-prozent-hoch-doch-der-sparkurs-bleibt.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-06T09:19:28+00:00",
    "tag": null
   },
   {
@@ -1174,6 +1522,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnhHVlFERlYzc19NeDdXbDd0Ynowb3VhOG1paE9QMWhqVUdTWWhNSkhNM0Jjd0t2UWYyVmdsQ0xQWmlqZUlvMXZYSVlXOXB6SlR3ZHo5Z003Q2psZnY0NHQxZExaR2ZSZ3AySXEtMVFBSE1OQkxLZkRoUTdZeVFXMzQ4S3FYcTVmazM3UW9DcE9GRmdQeENZVnctcUpOSEUwT2puUllxM2FRZHJyZDV5dFFCOVBUQldfbWdGYlN2WEd2X1l4MTZnQll2c3E4R0FKMUE?oc=5",
    "quelle": "FAZ",
    "zeit": "2026-11-06T04:44:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "956c6a1554057675",
+   "k": "usa",
+   "titel": "Trump erklärt Oval Office zum Nationaldenkmal – bleibt sein Gold für immer? - Hamburger Abendblatt",
+   "t": "Trump hat das Oval Office zum Nationaldenkmal erklärt, Berichte fragen, was mit dem dort ausgestellten Gold geschieht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0dRNGdtNWRja24wcEY1NWxGZ1RoQmVTMFc0aDkyX2d4VHp0dmJKTlpsSmQ0ZGpkcHlLcjNTemNiU2MxUmp0N0dXSXpaNFhIUGY1bWQ2UGZUSnlXc3BjeDhXRE5DY2pHZkJuOTRtVF9UNW9pVmNSTEtDRUxNQ1JDMEdsc194dHN5eVZQSnNhUVNaNGJ2ZUlIeHJmZVo2TTdoX1NvRXl3aFAzcGRFMnFXYUlMTmltS1pkNC1fSFRuUUpoQ2U1VGtmdndn?oc=5",
+   "quelle": "Hamburger Abendblatt",
+   "zeit": "2026-11-06T04:44:02+00:00",
    "tag": null
   },
   {
@@ -2723,366 +3083,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-05T18:15:03+00:00",
    "tag": null
-  },
-  {
-   "id": "d0e002b057686da2",
-   "k": "welt",
-   "titel": "„All das lässt uns völlig unglaubwürdig erscheinen“ – Meloni kritisiert Chaos bei Ukraine-Gesprächen",
-   "t": "Italiens Regierungschefin Meloni kritisiert das Vorgehen der EU in den Ukraine-Gesprächen als ungeordnet und fordert einen einzelnen Unterhändler.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6aecbec6c7da7601aa4f9111/eu-vorgehen-all-das-laesst-uns-voellig-unglaubwuerdig-erscheinen-meloni-kritisiert-chaos-bei-ukraine-gespraechen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T18:10:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2872b27b24b0273",
-   "k": "finanzen",
-   "titel": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-   "t": "Der Vermögensverwalter Amundi bietet einen Indexfonds über europäische Aktien nun als tokenisierte Anteilsklasse auf Ethereum an.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-05T18:09:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce2a745f893ef465",
-   "k": "welt",
-   "titel": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
-   "t": "Der Komiker Russell Brand ist in London in allen Anklagepunkten wegen Vergewaltigung und sexueller Übergriffe schuldig gesprochen worden. Das Urteil wird am Montag verkündet.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-05T17:54:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5efbca3411db665e",
-   "k": "welt",
-   "titel": "Mehr als 40 Tote bei russischem Angriff auf Verteilzentrum",
-   "t": "Bei einem russischen Angriff auf ein Verteilzentrum für Hilfsgüter in der Region Saporischschja sind laut Berichten über 40 Menschen getötet worden, weitere gelten als vermisst.",
-   "e": "Der Angriff trifft ein Zentrum für humanitäre Hilfe und erhöht den Druck auf die Ukraine-Verhandlungen.",
-   "s": 8,
-   "link": "https://www.welt.de/politik/ausland/video6aecc173a389bc337cfc71e3/region-saporischschja-mehr-als-40-tote-bei-russischem-angriff-auf-verteilzentrum.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T17:52:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "1aae963471e58d8b",
-   "k": "welt",
-   "titel": "Das Gericht glaubt René Benko auch beim vierten Mal nicht. Sein einstiger Förderer rechnet mit ihm ab",
-   "t": "Das Landesgericht Innsbruck hat den Signa-Gründer René Benko in einem weiteren Verfahren schuldig gesprochen und zu zwei weiteren Jahren Haft verurteilt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551",
-   "quelle": "NZZ",
-   "zeit": "2026-11-05T17:50:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "578b7028b8d80585",
-   "k": "usa",
-   "titel": "Schumer faces mutiny from newly elected Senate Dems as party prepares to seize power",
-   "t": "Chuck Schumer steht laut Medienberichten vor einer Revolte neugewählter demokratischer Senatoren, die einen Führungswechsel fordern.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/schumer-faces-mutiny-from-newly-elected-senate-dems-party-prepares-seize-power",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-05T17:49:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "ee6c727f2db734c1",
-   "k": "usa",
-   "titel": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-   "t": "Demokraten wollen nach Übernahme der Senatsmehrheit die Beziehungen der Bank JPMorgan zu Jeffrey Epstein untersuchen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T17:42:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "352a72129f65e1bb",
-   "k": "deutschland",
-   "titel": "Tierhaltung: Bundestag beschließt Videoüberwachung für Schlachthöfe",
-   "t": "Der Bundestag hat Videoüberwachung für Schlachthöfe beschlossen, um die Einhaltung des Tierschutzes beim Schlachten von Schweinen und Rindern zu kontrollieren.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/tierhaltung-bundestag-beschliesst-videoueberwachung-fuer-schlachthoefe/100267714.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:42:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "28698218d62e2287",
-   "k": "welt",
-   "titel": "Angeklagter mit Fußfessel: Signa-Gründer Benko wegen Millionenbetrugs verurteilt",
-   "t": "Der österreichische Unternehmer René Benko wurde wegen eines weiteren Millionenbetrugs zu zwei Jahren zusätzlicher Haft verurteilt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/angeklagter-mit-fussfessel-signa-gruender-benko-wegen-millionenbetrugs-verurteilt/100267696.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:40:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "241a2b68041b84b0",
-   "k": "finanzen",
-   "titel": "Notenbanker De Cos: Möglicher neuer EZB-Präsident reist Vermeer hinterher",
-   "t": "Pablo Hernández de Cos gilt im Rennen um die Nachfolge von EZB-Präsidentin Christine Lagarde als aussichtsreicher Kandidat. Er äußerte sich auf einer Konferenz in Frankfurt.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-nachfolge-pablo-hernandez-de-cos-und-sein-faible-fuer-vermeer-201656572.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-05T17:38:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "d18cda59a285876e",
-   "k": "finanzen",
-   "titel": "EZB-Nachfolge: Pablo Hernández de Cos und sein Faible für Vermeer - FAZ",
-   "t": "Für die Nachfolge im EZB-Direktorium wird der spanische Notenbanker Pablo Hernández de Cos genannt.",
-   "e": "Personalentscheidungen in der EZB-Spitze beeinflussen den künftigen Kurs der Geldpolitik im Euroraum.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2FzSkVFUkgyNVliSVRHSFVaZDY0Szd2ZmxYLWItaUpsZUVzdXczS0R2cnJCbFo4MDZ1T3VWWnNVa045RGs1UHp1X21XbmI0Y0xLcFNla2VHWWFjQV90aHE0OVVDN3VLWUFJUGpvaER4MDM4dEZZeUc4Z0FwNGpsUkxvaGJYYzNHcVFaOEt4UFh6UUpGS1FpaldMUnJyT1NhZFh2amozcWpRenRrYmtEV3k1Z0diOVhwcC1CT3podnBoLUV5STMzZw?oc=5",
-   "quelle": "FAZ",
-   "zeit": "2026-11-05T17:38:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "898191448f3b4d64",
-   "k": "finanzen",
-   "titel": "Börsen: Dax steigt auf Rekordhoch - Dann folgt Ernüchterung",
-   "t": "Der Dax hat ein neues Rekordhoch erreicht, danach wurden die Anleger wieder skeptischer, auch wegen Turbulenzen an den US-Börsen.",
-   "e": "Der Rekord fällt in eine Phase schwankender US-Technologiewerte.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/boersen-dax-steigt-auf-rekordhoch-dann-folgt-ernuechterung/100267526.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:29:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "b6860121144c8956",
-   "k": "welt",
-   "titel": "Staatskrise: Paraguays Präsident Peña tritt in Bankenkrise zurück",
-   "t": "Paraguays Präsident Peña hat nach einer schweren Bankenkrise seinen Rücktritt eingereicht. Ihm werden geschäftliche Beziehungen zur Muttergesellschaft der pleitegegangenen Bank vorgeworfen.",
-   "e": "Die Bankenpleite erschüttert das Land und führt zu einer politischen Staatskrise.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/staatskrise-paraguays-praesident-pena-tritt-in-bankenkrise-zurueck/100267710.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:29:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "0cae1293893095de",
-   "k": "deutschland",
-   "titel": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
-   "t": "Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet; Kommunen können Vorteile für E-Autos etwa beim Parken nutzen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T17:27:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "5bdc377e93568939",
-   "k": "finanzen",
-   "titel": "Künstliche Intelligenz: EU will Chips aus Europa mit halber Milliarde Euro fördern",
-   "t": "Die EU will die heimische Chipproduktion mit einer halben Milliarde Euro fördern. Der europäische Anteil liegt derzeit bei zehn Prozent, bis 2030 soll er 20 Prozent erreichen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-eu-will-chips-aus-europa-mit-halber-milliarde-euro-foerdern/100267706.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:25:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "cde0c29217379ebe",
-   "k": "usa",
-   "titel": "Three tax proposals targeting the rich that the new Congress could revive",
-   "t": "Nach den Wahlen könnte der neue Kongress Steuervorschläge wiederbeleben, die Reiche treffen, darunter zu Carried Interest, großen Trusts und Kreditaufnahme gegen Aktien.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-05T17:24:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "50449270344e156a",
-   "k": "welt",
-   "titel": "Kremlunterhändler Dmitrijew spricht im Weißen Haus - T-Online",
-   "t": "Kremlunterhändler Kirill Dmitrijew hat im Weißen Haus gesprochen. Zuvor hatte Melania Trump Russen und Ukrainer zu einem Treffen zusammengebracht.",
-   "e": "Das Treffen gehört zu den Gesprächen über den Krieg in der Ukraine und zeigt den Versuch diplomatischer Kontakte zwischen Moskau und Washington.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGFDV2tEaGJkUUpGMFM4NEVrUFBHS1F2WHBKZi11X0VDc0VXenZvdDhEaDdweWtmTGpEaWt6aHBvQ2d2OFRpWFpOMXIxblp3Z3V4M2ZUYjltcHV3R004dzN5dWFYbGhGRkRXaUxxdEg5MUdhM3BnTHdHczA3eUw3WGgxa2NoY2tIRG1MV2JSMmJ0QnYzODd4dEcyTkRJUTNIYVc4NGlOOXc1eXhMdmwwdmJaUzI?oc=5",
-   "quelle": "T-Online",
-   "zeit": "2026-11-05T17:23:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "11038c433df38557",
-   "k": "welt",
-   "titel": "Westliches Russland-Geschäft: Putin stellt Tabakunternehmen JTI unter Zwangsverwaltung",
-   "t": "Russlands Präsident Putin stellt den Tabakkonzern JTI unter Zwangsverwaltung. Zuvor hatte Moskau bereits Metro und Nestlé betroffen.",
-   "e": "Weitere Fälle, in denen westliche Unternehmen in Russland unter staatliche Kontrolle geraten.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/westliches-russland-geschaeft-putin-stellt-tabakunternehmen-jti-unter-zwangsverwaltung/100267656.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:23:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "9e0be5c5c540f83a",
-   "k": "welt",
-   "titel": "Ukraine-Krieg: Kremlunterhändler Dmitrijew spricht im Weißen Haus",
-   "t": "Kremlunterhändler Kirill Dmitrijew wird im Weißen Haus empfangen; Melania Trump plädiert für Frieden zwischen Russland und der Ukraine.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-kremlunterhaendler-dmitrijew-spricht-im-weissen-haus/100267707.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:22:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "26ff2eebe953f612",
-   "k": "deutschland",
-   "titel": "„Tusk hat Verstärkung rangeholt“ – Rechte Politiker beschweren sich über Bundeswehr in Warschau",
-   "t": "Rechte Politiker kritisieren die Präsenz deutscher Soldaten in Warschau. Die deutsche Botschaft weist die Vorwürfe als Desinformation zurück.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6aecb50e47b5fce02f8795b7/polen-tusk-hat-verstaerkung-rangeholt-rechte-politiker-beschweren-sich-ueber-bundeswehr-in-warschau.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T17:20:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "d68c7d62589a37d2",
-   "k": "usa",
-   "titel": "Midterm Rout Closes Trump’s Window on the Supreme Court",
-   "t": "Nach den Zwischenwahlen könnten die Republikaner die Bestätigung neuer Richter am Supreme Court über Jahre nicht mehr kontrollieren, wenn ältere konservative Richter nicht ausscheiden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/politics/policy/midterm-rout-closes-trumps-window-on-the-supreme-court-ce7c8225?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-05T17:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "45e73882d8ba3b5f",
-   "k": "welt",
-   "titel": "Österreich: „Das Dümmste, was man tun konnte“: Benko in weiterem Prozess zu Haftstrafe verurteilt",
-   "t": "Der österreichische Immobilieninvestor René Benko ist im Prozess in Innsbruck wegen einer falschen Garantie für eine Stiftung zu zwei weiteren Jahren Haft verurteilt worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/oesterreich-benko-in-weiterem-prozess-zu-haftstrafe-verurteilt/100267677.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:19:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "6151d3eaedd9c36e",
-   "k": "welt",
-   "titel": "Nach Bankenkrise: Paraguays Präsident Peña tritt zurück",
-   "t": "Paraguays Präsident Santiago Peña hat nach einer schweren Bankenkrise seinen Rücktritt eingereicht. Ihm werden geschäftliche Beziehungen zur Muttergesellschaft der insolventen Bank vorgeworfen.",
-   "e": "Nach dem Kollaps einer Digitalbank sind Konten eingefroren und Ersparnisse blockiert. Das Land gilt als wachsende Volkswirtschaft mit engen Beziehungen zu den USA.",
-   "s": 7,
-   "link": "https://www.nzz.ch/international/nach-bankenskandal-paraguays-praesident-pena-tritt-zurueck-ld.10055610",
-   "quelle": "NZZ",
-   "zeit": "2026-11-05T17:17:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "1471c9e241771f67",
-   "k": "welt",
-   "titel": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
-   "t": "Paraguays Präsident Santiago Peña tritt nach dem Zusammenbruch von Banken zurück. Ihm werden Interessenkonflikte vorgeworfen; er gilt als Verbündeter Donald Trumps.",
-   "e": "Ein Bankenkollaps mit politischen Folgen in einem südamerikanischen Staat mit Blick auf die Stabilität des Finanzsystems.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-05T17:15:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "02c0dfd571c2a671",
-   "k": "usa",
-   "titel": "Harmeet Dhillon resigns as top DOJ civil rights official",
-   "t": "Harmeet Dhillon tritt als oberste Bürgerrechtsbeauftragte im US-Justizministerium zurück. Sie leitete unter anderem Untersuchungen zu Universitäten und Wahlintegrität.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/05/us-news/harmeet-dhillon-set-to-resign-as-top-doj-civil-rights-official-sources/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-05T17:15:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "3a663741c26724e0",
-   "k": "welt",
-   "titel": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-   "t": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse zu Korruption bei Geheimdienst und Polizei veröffentlicht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T17:03:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "b55b763ee57db170",
-   "k": "deutschland",
-   "titel": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-   "t": "Laut ARD-DeutschlandTrend haben 82 Prozent der Befragten den Eindruck, dass die Politik die Anliegen junger Menschen nicht ausreichend berücksichtigt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T17:01:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "bc18a50509bc8b20",
-   "k": "deutschland",
-   "titel": "Geplante Regierungen von Linkspartei und AfD stoßen auf große Ablehnung",
-   "t": "Laut einer Umfrage lehnt die Mehrheit der Deutschen hypothetische Regierungen aus Linkspartei und AfD in Landesregierungen ab.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6ae996450e29c4a23c567655/deutschlandtrend-geplante-regierungen-von-linkspartei-und-afd-stossen-auf-grosse-ablehnung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-05T17:00:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "ada5c24fb75bd56d",
-   "k": "deutschland",
-   "titel": "Bundespräsidentin: Merz ist noch schlechter dran als Söder",
-   "t": "In der CDU wird die Kandidatur von Ilse Aigner für das Amt der Bundespräsidentin diskutiert, während der Rückhalt für Kanzler Merz nachlässt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-verliert-kontrolle-cdu-laeuft-ihm-bei-aigner-davon-201655664.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-05T16:59:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "8b1e13e0cc6f07ef",
-   "k": "usa",
-   "titel": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
-   "t": "US-Präsident Trump kritisiert die laufende Stimmauszählung der Senatswahl in Alaska, in der ein knappes Rennen erwartet wird.",
-   "e": "Die Senatsmehrheit hängt von knappen Ergebnissen ab.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-05T16:58:22+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,12 +3090,12 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -3120,17 +3120,17 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Fox News Politik",
@@ -3190,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 21
+    "n": 24
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 26
+    "n": 29
    },
    {
     "name": "Google News NRW",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 33
    }
   ],
   "markt": [],
