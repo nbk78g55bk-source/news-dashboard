@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-06T23:01:36.179974+00:00",
+ "aktualisiert": "2026-11-07T01:01:23.063098+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.840 $",
-   "delta": 0.333262503953085
+   "wert": "75.848 $",
+   "delta": -0.47486088404007193
   },
   {
    "name": "Ethereum",
-   "wert": "2.236 $",
-   "delta": 0.40493846418831503
+   "wert": "2.238 $",
+   "delta": -0.17585464141791043
   },
   {
    "name": "Gold",
@@ -79,6 +79,138 @@
   ]
  },
  "items": [
+  {
+   "id": "e7684b0696f522c5",
+   "k": "usa",
+   "titel": "Trump suggests Cabinet shakeups won’t stop at Susie Wiles in ‘60 Minutes’ interview: ‘Maybe a few changes’",
+   "t": "Trump deutet nach dem Abgang von Stabschefin Susie Wiles weitere Kabinettsumbildungen an, nachdem die Republikaner bei den Zwischenwahlen Verluste erlitten haben.",
+   "e": "",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/06/us-news/trump-suggests-cabinet-shakeups-wont-stop-at-susie-wiles-in-60-minutes-interview/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-07T00:55:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "c53130e60a07a533",
+   "k": "deutschland",
+   "titel": "Geschichte: Merkels Appell beim „Ermutiger“ Biermann",
+   "t": "Zum 50. Jahrestag der Ausbürgerung Wolf Biermanns aus der DDR äußert sich Angela Merkel zu dem Konzert und dessen Bedeutung.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.handelsblatt.com/politik/deutschland/geschichte-merkels-appell-beim-ermutiger-biermann/100268033.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T00:52:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "9579226df0cb260e",
+   "k": "welt",
+   "titel": "Haftbefehl erlassen: Staatskrise in Paraguay: Peña als Präsident abgesetzt",
+   "t": "Gegen den abgesetzten paraguayischen Präsidenten Peña wurde ein Haftbefehl erlassen; er wird im Zusammenhang mit einer Finanz- und Staatskrise geführt.",
+   "e": "Die Bankenkrise in Paraguay wirft Fragen zu Finanzaufsicht und politischer Verantwortung auf, die über das Land hinaus beobachtet werden.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/haftbefehl-erlassen-staatskrise-in-paraguay-pena-als-praesident-abgesetzt/100268031.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T00:38:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "81375223bbd1f844",
+   "k": "finanzen",
+   "titel": "KI-Finanzierung: OpenAI sammelt laut Bericht elf Milliarden Dollar bei Investoren ein",
+   "t": "OpenAI sammelt laut Bloomberg elf Milliarden Dollar bei Investoren ein und wird mit 1,25 Billionen Dollar bewertet; zugleich hat das Unternehmen seine Ziele gesenkt.",
+   "e": "Die Senkung der Ziele trotz hoher Bewertung fällt in eine Phase des Ausverkaufs bei KI-Aktien und steigender Kosten.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T00:13:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "c9b2b6d5d3167698",
+   "k": "welt",
+   "titel": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+   "t": "Nach Amtsenthebung durch das Parlament wurde Paraguays Ex-Präsident Peña unter Hausarrest gestellt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T00:06:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "c845a9e2115e9f9a",
+   "k": "deutschland",
+   "titel": "Scout24-Chef warnt vor wachsendem Graumarkt für Wohnungen",
+   "t": "Scout24-Chef Weitz warnt vor einem wachsenden Graumarkt, auf dem Wohnungen außerhalb öffentlicher Plattformen angeboten werden.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/wirtschaft/article6aede3bc47b5fce02f87a5e2/regulierung-scout24-chef-warnt-vor-wachsendem-graumarkt-fuer-wohnungen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T00:04:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d3e8bfa85be7765",
+   "k": "deutschland",
+   "titel": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
+   "t": "Hunderttausende interne AfD-E-Mails sind im Internet veröffentlicht worden; Justizministerin Hubig prüft, ob sie als Material für ein mögliches AfD-Verbotsverfahren dienen können.",
+   "e": "Die Verwertbarkeit der Mails könnte die Debatte um ein Parteiverbot erheblich beeinflussen.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/verbotsverfahren-hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen/100268026.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T00:00:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "33ef7190588a0340",
+   "k": "usa",
+   "titel": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
+   "t": "Im Weiter-Streit um den Iran-Krieg raten Vizepräsident JD Vance und Golfstaaten Trump, den Krieg zu beenden, andere Berater drängen auf neue Angriffe.",
+   "e": "Die Entscheidung über eine Fortsetzung oder ein Ende des Konflikts hat Folgen für Ölpreise, Märkte und die Sicherheitslage im Nahen Osten.",
+   "s": 8,
+   "link": "https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-07T00:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "09747b14e1309623",
+   "k": "usa",
+   "titel": "Illegal immigrant heard voices to assassinate Trump — arrested with firearm-filled stolen vehicle",
+   "t": "Ein Mann mit Schusswaffen und gestohlenem Fahrzeug wurde festgenommen; er gab an, Stimmen gehört zu haben, die ihn zu einem Attentat auf Trump aufforderten.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/06/us-news/illegal-immigrant-arrested-heard-voices-to-assasinate-trump/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-06T23:39:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "a747f9a6a2610c3f",
+   "k": "finanzen",
+   "titel": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+   "t": "Der Berkshire-Hathaway-Versorger Pacific Power beantragt bei den Behörden in Kalifornien eine Strompreiserhöhung von 57 Prozent.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-06T23:33:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "61daae14ac1ad13c",
+   "k": "deutschland",
+   "titel": "„Es könnte irgendwann einen Bruch geben“ – Wie AfD und BSW über Deutschlands Westbindung diskutieren",
+   "t": "Bei einem Auftritt von BSW-Politikerin Wittig und AfD-Politiker Rothfuß wurden NATO und EU scharf kritisiert, wobei beide die deutsche Westbindung infrage stellten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/plus6ae9907908ca4edf91e64fdf/neue-russlandpolitik-es-koennte-irgendwann-einen-bruch-geben-wie-afd-und-bsw-ueber-deutschlands-westbindung-diskutieren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T23:29:36+00:00",
+   "tag": null
+  },
   {
    "id": "90ab7596e64fb08c",
    "k": "finanzen",
@@ -392,6 +524,18 @@
    "tag": null
   },
   {
+   "id": "9064f1df479dac26",
+   "k": "finanzen",
+   "titel": "Daly: Fed muss bei hoher Inflation wahrscheinlich weiter straffen - Nachrichten und Statistiken - IndexBox",
+   "t": "Fed-Vertreterin Daly hält bei hoher Inflation weitere Zinserhöhungen für wahrscheinlich.",
+   "e": "Weitere Straffung der US-Geldpolitik würde Zinsen, Aktienmärkte und Krypto-Kurse unter Druck setzen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX01mZHJ6TTRpNzZ4SEZMeWVOVEVJbVQtcjVXOUVuWlM2MGpaMXRHb3kzRHJGZFlkSC01QjlCLXRpR1FrdVp6cXhPSl9sZThvREZKMmUtcWNZSV8wcElRRHV2a2pIQWJnTDFDcUs4bDU2OHRSNjJzUlhoekxJa0tkb2gwZW5TVDlQWlh1ZmdYdDl5dzNyeWc?oc=5",
+   "quelle": "IndexBox",
+   "zeit": "2026-11-06T20:03:50+00:00",
+   "tag": null
+  },
+  {
    "id": "c9ba675beaac69be",
    "k": "usa",
    "titel": "Pete Hegseth’s future in doubt as Republicans turn on secretary of war ahead of impeachment push: ‘He’s screwed’",
@@ -473,6 +617,18 @@
    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679514.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T19:33:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "ccec0d23e3a45ff8",
+   "k": "usa",
+   "titel": "USA: Die Amerikaner strafen MAGA ab – und Trump befördert einen der radikalsten Vertreter zu seinem Stabschef",
+   "t": "Trump macht den bisherigen Politik-Hardliner Stephen Miller zum Stabschef als Nachfolger von Susie Wiles.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/usa-die-amerikaner-strafen-maga-ab-und-trump-befoerdert-einen-der-radikalsten-vertreter-zu-seinem-stabschef/100268008.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-06T19:23:07+00:00",
    "tag": null
   },
   {
@@ -692,6 +848,18 @@
    "tag": null
   },
   {
+   "id": "36f325427e263397",
+   "k": "finanzen",
+   "titel": "What the Seismic Midterm Result Means for the Fed and Interest Rates - Business Insider",
+   "t": "Analysen zum Ergebnis der US-Zwischenwahlen sehen Auswirkungen auf Fed-Politik und Zinsen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHJ3b1ZveGozVF9UaEhKdDVUSXZmSDVKOVJMeG9UZmFRNzR1TUpWSUNCc2tSR1BENW9yeHpLQ0QtYmZ4X1JSYnBFTHBkbU0wdEtKaU9xOTZ2bDdoZlF5V0M2T21kaGNFWElxb2ZtbWlVX1I4blMwMGZyRzk3ZEtJRUlQekMwZEwyRUZJbzgzSFRmLTJwNjNvMEhQeUNDWGZEbUh6Qng2UTRQbThyd0Nta0N3?oc=5",
+   "quelle": "Business Insider",
+   "zeit": "2026-11-06T18:06:00+00:00",
+   "tag": null
+  },
+  {
    "id": "89659672e8e8f9a5",
    "k": "usa",
    "titel": "Trumps enormer Machtverlust hat schon begonnen",
@@ -867,6 +1035,18 @@
    "e": "",
    "s": 5,
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1g4emY4VmRWTEgwNGhSQVFWRWhCT2NlaVJ1TktJcW9lengyMkIwYnc1dVFIMHFkVmRwWFVyVzZrd3JRUXA2djVRX0pfRFY0bmxvU2dxYzZ1TklrUFBQSlVpRnZuMmZ1Q0RzSm5vVXRyXzZZNFd5NTRselBXeFZtVXdDNXk3emkwQnpkOQ?oc=5",
+   "quelle": "Börse Social",
+   "zeit": "2026-11-06T17:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c803b8215b9dddd2",
+   "k": "finanzen",
+   "titel": "Bawag erhält EZB-Genehmigung für PTSB-Übernahme - Börse Social",
+   "t": "Die Bawag hat die EZB-Genehmigung für die Übernahme der irischen PTSB erhalten.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2pLU1N4QWUxZVZXcVZVdG1jczYzY2FGeVNIWFgxYVVuYXpCcVF1TWJzOUV2SWN4VlM0Z1FDQ1ZLUWItV0NENUozcWh1SGw1RTEwdlphR1drTDI1VkpxRXpYRFcwUHFaa1RSM0N3WHk5WjZtTTJkUU8ySnJpLTl0Mkg1OTNxU3BWX19xaU1PMUc?oc=5",
    "quelle": "Börse Social",
    "zeit": "2026-11-06T17:13:00+00:00",
    "tag": null
@@ -2240,6 +2420,18 @@
    "tag": null
   },
   {
+   "id": "561fc148ab6d3707",
+   "k": "finanzen",
+   "titel": "Spanien nominiert laut Vize-Regierungschef ehemaligen Zentralbankchef De Cos für EZB-Präsidentschaft - MarketScreener Schweiz",
+   "t": "Spanien hat laut Vize-Regierungschef den ehemaligen Notenbankchef De Cos als Kandidaten für die EZB-Präsidentschaft nominiert.",
+   "e": "Die Besetzung der EZB-Spitze entscheidet mit darüber, wie die Euro-Notenbank Zinsen und Inflationsbekämpfung in den kommenden Jahren steuert.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWlpFQjk0Wk1vU0ZSUmtMRVFSWVl2ekwwUlRRdGg4d1BsSVZZNFZzbElyZFhoUEN4WUtvMDNUZ0pSY3Jjd0d0ZnVfUTVfeUV6SWZPYzRBdEhXUVV2SzVRakhxQmRGNmR2dEFfMWJjSTNrSG4weTBpQXJwYzUzckZTUFJyeWRPeDlURjBQaXdGdDdSM2dIdmViNENYT0RPTDNhT2M3WXR3RnAtR3M2M3NYNm11TGtXVWYxZ0wyQ003aTJmTndMOHhWRzlNSjNjaHZFQW04TG9LdVA3ekdhbUFPZnprTHFzeVBWZTRDRXY2cTZ4dw?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-06T12:04:00+00:00",
+   "tag": null
+  },
+  {
    "id": "dbdc9a506e958cb2",
    "k": "finanzen",
    "titel": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
@@ -2886,198 +3078,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T09:30:35+00:00",
    "tag": null
-  },
-  {
-   "id": "30b3433a877729c2",
-   "k": "welt",
-   "titel": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-   "t": "In Paraguay weitet sich die Krise um die Ueno Bank aus: Das Parlament hat ein Amtsenthebungsverfahren gegen Präsident Peña eingeleitet.",
-   "e": "Die Bankenkrise hat sich zur politischen Krise ausgeweitet, weil dem Präsidenten vorgeworfen wird, Risiken ignoriert zu haben.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T09:29:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "d8a9ebd79ea8bec7",
-   "k": "finanzen",
-   "titel": "Dank Wende in den USA – Daimler Truck steigert Gewinn um 73 Prozent",
-   "t": "Daimler Truck hat im dritten Quartal seinen Gewinn um 73 Prozent gesteigert, vor allem getrieben durch das Nordamerika-Geschäft.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6aed7d571d9d38d6d601adfd/daimler-truck-gewinn-schiesst-um-73-prozent-hoch-doch-der-sparkurs-bleibt.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-06T09:19:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "7e28196297f4ad32",
-   "k": "nrw",
-   "titel": "Modul E des Iserlohner Discgolf-Parcours offiziell eröffnet - IKZ-Online",
-   "t": "In Iserlohn wurde Modul E des Discgolf-Parcours offiziell eroeffnet.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0ZCVjEwQ0w1VGlJdG5UcWZKSWtCMXUxRERJN0c3c2ZCU3dGRndqODg4dmxDNklHbTdmVU82ZnhJU1pQWmNHN2daRjViejltcjdHTEN2SFFENjJBQm5FQVF6U09xZmZTU1lRT3p6SVlkVE45YllfZ1c2TWpLWFk3UzF4TVNZX2w4anRiZDF1TXh3OUNlWFhDd2ZpcVhDSHpWRmhUc3RBMmRxdFNyQWFYVGFlemcxckpHY1dDcnRwcXRfRm5qX2oxVnI5MDNhRmV1RTdaOHNXdm1vQ0U0NVV4dkpHTQ?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-06T09:15:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "882dbb212f4e8a5a",
-   "k": "finanzen",
-   "titel": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-   "t": "Daimler Truck hat dank des anziehenden US-Geschäfts einen deutlichen Gewinnsprung verbucht und einen Milliardengewinn erzielt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-06T09:13:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fe5a0f15cf73e3a1",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Supermarkt-Räuber: Polizei fasst mutmaßlichen Serientäter - tagesschau.de",
-   "t": "In Nordrhein-Westfalen hat die Polizei einen mutmaßlichen Serientaeter bei Supermarkt-Raeubereien gefasst.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHIwV3V5SzZqUlBrMHhVOHZaWllNc2dLUTRGMmJwWl9Ra0xFSUw0QU5rb2NKRmF5RWV6UERqYnpSUjhONXJwQXRWRjZJOTY5NmhKY2pETjBYNmtXN3A5VkVOcGJiVm1uNGRIVXhQX2dxZ1FLMjJBN01pUThyYm9qUWZyR2pTQ0cxbmd6c3NSa191V0drVm1nUklKa1czMFhrN2oyVlExSFpoalA0LTJjM0ZoNE84eFJOV2pvSTQ3bGNPXzlEWmg5aHc4eE1jZw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T09:06:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "59ed7b1062d810ac",
-   "k": "usa",
-   "titel": "Vance, Cruz and DeSantis diagnose GOP's midterm disaster as battle over party's future begins",
-   "t": "JD Vance fuehrt die Midterm-Niederlage der Republikaner auf den Iran-Krieg zurueck und setzt sich in der Aussenpolitik von Trump ab. Auch Cruz und DeSantis aeussern sich zur Zukunft der Partei.",
-   "e": "Der Streit ueber die Richtung nach der Trump-Aera koennte die Republikaner laengerfristig praegen.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/vance-cruz-desantis-diagnose-gop-midterm-disaster-battle-party-future-begins",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-06T09:00:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "f663a0dd0748af92",
-   "k": "welt",
-   "titel": "„Es ist wirklich wichtig, dass Europa mit einer Stimme spricht“",
-   "t": "Militärexperte Ralph Thiele hält Europas harte Linie gegenüber Russland für wenig erfolgversprechend. Für mögliche Verhandlungen brauche es eine gemeinsame europäische Position.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/ausland/video6aed8b75a389bc337cfc78ea/ukraine-krieg-es-ist-wirklich-wichtig-dass-europa-mit-einer-stimme-spricht.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T08:57:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "94c7234c0a6c2f24",
-   "k": "welt",
-   "titel": "Cybersicherheit: US-Behörden warnen weltweit vor Angriffen auf Kühlanlagen",
-   "t": "US-Behörden warnen weltweit vor Cyberangriffen, bei denen Kühlanlagen aus der Ferne so manipuliert werden können, dass die Temperatur steigt. Betroffen sein könnten Supermärkte und Gesundheitseinrichtungen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/cyberattacke-us-behoerden-warnenweltweit-vor-angriffen-auf-kuehlanlagen/100267843.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T08:50:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "3485ab0ad73ebe63",
-   "k": "finanzen",
-   "titel": "Lkw-Hersteller: Hunderte Millionen Zollzurückzahlung – Gewinn von Daimler Truck steigt um 73 Prozent",
-   "t": "Daimler Truck hat im Quartal seinen Gewinn um 73 Prozent gesteigert, unterstützt durch Zollrückzahlungen in dreistelliger Millionenhöhe aus den USA.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/zoll-rueckzahlungen-gewinn-von-daimler-truck-steigt-um-73-prozent/100267801.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T08:49:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "abd92cfad8807096",
-   "k": "finanzen",
-   "titel": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-   "t": "Griechenland hat eine Steuer von 10 Prozent auf Krypto-Gewinne und eine Abgabe von 15 Prozent auf DeFi-Erträge beschlossen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T08:47:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "718fdb2248ecbfce",
-   "k": "finanzen",
-   "titel": "Elektromobilität: Tesla stellt Produktion des Cybertrucks in Texas ein",
-   "t": "Tesla stellt die Produktion des Cybertrucks im Werk in Texas ein.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-musk-stellt-cybertruck-produktion-in-texas-ein/100267844.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T08:42:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d3baf01e4121bdc",
-   "k": "finanzen",
-   "titel": "Dax aktuell: Dax startet deutlich im Minus und rutscht unter 26.000 Punkte",
-   "t": "Der Dax startet deutlich im Minus und fällt unter 26.000 Punkte, nachdem er am Vortag ein Rekordhoch erreicht hatte. Auslöser ist der deutliche Kursrutsch an der Wall Street.",
-   "e": "",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-deutlich-im-minus-und-rutscht-unter-26.000-punkte/100267806.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T08:32:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "dac8c3b4bbb376dd",
-   "k": "deutschland",
-   "titel": "Lars Klingbeil – „Ein Finanzminister, der am liebsten nimmt“",
-   "t": "Bild-Politikchef Jan Schaefer wirft Finanzminister Klingbeil vor, trotz hoher Einnahmen nicht konsequent zu sparen und stattdessen Steuern und Belastungen zu erhöhen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6aed84d547b5fce02f879c1c/deutsche-steuerpolitik-lars-klingbeil-ein-finanzminister-der-am-liebsten-nimmt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T08:31:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "9f80a2ad0881cc8e",
-   "k": "welt",
-   "titel": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
-   "t": "Israels Präsident Herzog muss am Sonntag entscheiden, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher wenig konstruktiv.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T08:25:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "0672bbc7980508e9",
-   "k": "nrw",
-   "titel": "Unfall in Krefeld: Lkw mit 23 Tonnen Säure - Einsatzkräfte kämpfen gegen Leck - STERN.de",
-   "t": "Bei dem Unfall in Krefeld wurden 23 Tonnen Salpetersäure transportiert, Einsatzkräfte kämpfen weiterhin gegen ein Leck. Schulen und Kitas bleiben geschlossen.",
-   "e": "Der Vorfall betrifft einen großen Teil der Stadt und zeigt die Risiken des Gefahrguttransports auf Autobahnen in NRW.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSlVKY0JXX2J5WDNOeE1nUWpiYm9GVTlEX0p5aWtueVBFTzBuQTJxQl9kYmVmdFc3ZzBlckk3aVN4SF9rSkNMYkV4QUI1VVdEaGFKSHdGelVRZkh1b2VJM19UQ0p4ZktPcUlOb1liVjdNVnRNR011Y3JtN0U2R2tBRkQ4NXhuRGZMYkR6cFFqeFpnLWEwVU9UQm9yMksxVlkzUXo4NFdLMWU0UVJpWUpEQkpVb29JSXpOWWVoT0VaRlBRV2dDR0FQbGpiblRRUU1mRmhuVElmZk1zWVRDVmZrY2tUNU90a2JhQ2RLVW93?oc=5",
-   "quelle": "STERN.de",
-   "zeit": "2026-11-06T08:21:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "43f58e16bf27a111",
-   "k": "finanzen",
-   "titel": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-   "t": "US-Spot-Bitcoin- und Ether-ETFs verzeichneten am Donnerstag Abflüsse von zusammen 530 Millionen Dollar. Bitcoin fiel unter 76.000 Dollar.",
-   "e": "",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T08:19:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,12 +3090,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3140,7 +3140,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "CNBC Finance",
@@ -3155,7 +3155,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 24
    },
    {
     "name": "WSJ USA",
@@ -3205,7 +3205,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "Google News Fed",
