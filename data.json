@@ -1,40 +1,40 @@
 {
- "aktualisiert": "2026-11-07T09:01:00.218872+00:00",
+ "aktualisiert": "2026-11-07T11:01:27.582060+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,31 €",
-   "delta": -2.4256559098515207
+   "delta": -0.37170428994779403
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,85 €",
-   "delta": -2.6853114434395753
+   "delta": 1.160402972554464
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,64 €",
-   "delta": -2.5480612977194506
+   "delta": -0.0036094141921738654
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,92 €",
-   "delta": -3.8157741828213187
+   "delta": 0.4998270682372796
   },
   {
    "name": "Deka DAX",
    "wert": "225,35 €",
-   "delta": -2.466999773413092
+   "delta": -2.297851305759413
   },
   {
    "name": "Bitcoin",
-   "wert": "76.113 $",
-   "delta": 0.6819097985937151
+   "wert": "75.912 $",
+   "delta": -0.12706963078944347
   },
   {
    "name": "Ethereum",
-   "wert": "2.248 $",
-   "delta": 1.0496238559444664
+   "wert": "2.245 $",
+   "delta": 0.4533698058547262
   },
   {
    "name": "Gold",
@@ -54,32 +54,288 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-07T07:01:18.288996+00:00",
+  "slot": 12,
+  "stand": "2026-11-07T11:01:27.582039+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nach dem schwächsten Wall-Street-Ausverkauf seit dem Zollschock 2025 verlor der Nasdaq am Donnerstag über sechs Prozent, am Freitag erholten sich die US-Börsen. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka S&P 500 bei 138,64 € und der Deka DAX bei 225,35 €."
+    "t": "Im S&P 500 wurden an einem Tag rund drei Billionen Dollar Börsenwert vernichtet. Ausgelöst wurde der Ausverkauf durch die Sorge vor strengerer KI-Regulierung nach dem Wahlsieg der Demokraten bei den Midterms."
    },
    {
     "k": "finanzen",
-    "t": "Die US-Arbeitsmarktdaten für Oktober fielen mit 165.000 neuen Stellen deutlich stärker aus als erwartet, und Fed-Vertreterin Daly hält weitere Zinserhöhungen für wahrscheinlich. Laut Marktdaten liegt der Fed Funds Satz bei 3,88 %, der EZB-Zins bei 2,50 %. Die Meldungen zur EZB widersprechen sich allerdings: Eine Quelle meldet eine Anhebung auf 2,25 %, eine andere eine unveränderte Lage bei 2,50 %."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die Union nominiert Ilse Aigner als Nachfolgerin von Bundespräsident Frank-Walter Steinmeier, unterstützt von CSU und CDU-Führung. Laut ARD hätten Union und SPD in der Bundesversammlung eine Mehrheit."
-   },
-   {
-    "k": "usa",
-    "t": "Trump entlässt Stabschefin Susie Wiles nach den Verlusten der Republikaner bei den Midterms und ernennt Stephen Miller zum neuen Stabschef. Im Iran-Krieg raten Vizepräsident Vance und Golfstaaten zum Ende, andere Berater drängen auf neue Angriffe."
+    "t": "Marktdaten: Deka Nasdaq-100 172,92 €, Deka S&P 500 138,64 €, Deka DAX 225,35 €, iShares MSCI World 127,31 €, iShares MSCI EM 43,85 €, Gold 4.075 $, Bitcoin 75.912 $. Laut Marktdaten liegen der EZB-Zins bei 2,50 % und die Fed Funds bei 3,88 %."
    },
    {
     "k": "welt",
-    "t": "Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew kündigte Trump ein großes Ukraine-Abkommen an, Moskau und Brüssel dämpfen jedoch die Erwartungen. Nach dem Zugunglück in Spanien mit 69 Toten ermittelt zudem die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs."
+    "t": "Trump sagt, die USA hätten \"kleinere Schläge\" gegen den Iran geflogen, nachdem iranische Medien über Raketentreffer auf die Insel Qeshm nahe der Straße von Hormus berichtet hatten. Im US-Regierungsumfeld gibt es laut Berichten unterschiedliche Empfehlungen: JD Vance und Golfstaaten raten zum Kriegsende, andere Berater drängen auf neue Angriffe."
+   },
+   {
+    "k": "usa",
+    "t": "Die US-Arbeitsmarktdaten für Oktober fielen mit einem Plus von 165.000 Stellen deutlich stärker aus als erwartet, die Arbeitslosenquote sank auf 4,1 Prozent. Fed-Präsidentin Mary Daly hält angesichts der Inflation weitere Zinserhöhungen für wahrscheinlich."
+   },
+   {
+    "k": "finanzen",
+    "t": "Zur EZB-Zinsentscheidung widersprechen sich Meldungen: Eine nennt eine Anhebung auf 2,25 %, eine andere die Beibehaltung bei 2,50 %; die Marktdaten führen 2,50 %. Für die Nachfolge von Christine Lagarde sind Pablo Hernández de Cos und Klaas Knot als Kandidaten genannt."
+   },
+   {
+    "k": "deutschland",
+    "t": "Die Union nominiert Ilse Aigner als Nachfolgerin von Bundespräsident Frank-Walter Steinmeier. Die CSU unterstützt die Kandidatur seit Langem, und auch in der CDU-Führung gibt es Einigkeit."
    }
   ]
  },
  "items": [
+  {
+   "id": "295a95b5044602c0",
+   "k": "finanzen",
+   "titel": "Kommentar: Midterms – das Risiko für deutsche Firmen sitzt nicht in Washington",
+   "t": "Neu gewählte US-Gouverneure wollen Fördergelder zurückfordern und Steuernachlässe überprüfen. Betroffen sind vor allem Unternehmen mit US-Werken.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-midterms-das-risiko-fuer-deutsche-firmen-sitzt-nicht-in-washington/100267449.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T10:51:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "82c0aeb8731f033c",
+   "k": "welt",
+   "titel": "Bandenchef bittet UN um Vermittlung in Haiti",
+   "t": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Präsident Bukele schickt weitere Soldaten ins Land und droht den Banden. Ein Bandenchef bittet die UN um Vermittlung.",
+   "e": "Die Lage in Haiti bleibt angespannt, und die internationale Militärpräsenz wird damit ausgeweitet.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T10:51:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "02269c9dfd073cdd",
+   "k": "welt",
+   "titel": "„Rund 1500 Menschen demonstrieren gerade“ – Schah-Sohn nimmt Preis entgegen",
+   "t": "In Frankfurt demonstrieren rund 1500 Menschen anlässlich der Preisverleihung an Reza Pahlavi, den Sohn des früheren iranischen Schahs.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/video6aeefcd267e48945bd052aa3/iran-demos-in-frankfurt-rund-1500-menschen-demonstrieren-gerade-schah-sohn-nimmt-preis-entgegen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T10:51:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "7a3e85d6bb1d13b0",
+   "k": "deutschland",
+   "titel": "„Personalverfahren entglitten“ – Nouripour kritisiert Merz – und lobt Aigner",
+   "t": "Bundestagsvizepräsident Omid Nouripour kritisiert Kanzler Merz, das Personalverfahren für das Bundespräsidentenamt nicht im Griff zu haben. Er lobt die CSU-Politikerin Ilse Aigner.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6aeef89ea389bc337cfc8e66/bundespraesidentenamt-personalverfahren-entglitten-nouripour-kritisiert-merz-und-lobt-aigner.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T10:47:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "73d5f0d97cd695de",
+   "k": "welt",
+   "titel": "Wahlen: Regierung nach Wahl in Neuseeland knapp unter der absoluten Mehrheit",
+   "t": "Nach der Parlamentswahl in Neuseeland liegen Konservative und Labour fast gleichauf. Die Regierungsbildung dürfte schwierig werden, Sonderstimmen sind noch offen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/wahlen-regierung-nach-wahl-in-neuseeland-knapp-unter-der-absoluten-mehrheit/100268071.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T10:40:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "cbaaf00d81a88268",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Unfall mit Säure-Lkw: Straßen wieder frei - n-tv.de",
+   "t": "Nach einem Unfall mit einem Säure-Lkw in Nordrhein-Westfalen sind die Straßen wieder freigegeben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWtveE9CR3U3cVhyS2Q1N2dNNG43WERVNFV3dUp0SDNwbkFnWU8yNEFrdDRURk5GeDQweDdpcTZRNklraFlRVjh0c2dpVmRmZloyNi1EOVY5cXlFQWUxdmxYcmNCekJrZmVLRkpaR01aZHg5SWJGTTBlVkx1Z2dIemVxOU02X3Z5N2RLdXB5THJtdVNCN2NyQl9lNE83SnEzZWtnS0s0aElTbWlDb0E?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-07T10:23:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d99eb68558120842",
+   "k": "finanzen",
+   "titel": "Commonwealth Bank-Aktie: RBA erhöht Leitzins auf 4,85 Prozent - ad-hoc-news.de",
+   "t": "Die australische Notenbank RBA hat den Leitzins auf 4,85 Prozent angehoben.",
+   "e": "Zinserhöhung in Australien, die zeigt, dass auch andere Notenbanken den Kampf gegen Inflation fortsetzen.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xqb2pZZW5yRWtqMjdIWEZYUmFfaXdwS1ZjY1FqLW91cFVYNFZmRUstZG0wX0ZtWm1iaUJnOGt1VlZiUFJPZkdYcGEwMTlFLVpjUy1rSXQ0RXY1cXBFay1NQ3R6WGUzdjBJa2ZqNkFiZlFHTU01MmhiWG9sMzkxd05OaEhhclMyWUkyZ0dva3kydVhfalpkdEtuWjdTbkJvdHZIY0RERVlPUDE4ZVJwWFk5ZlE1VGJDVkhQaUxKOWFhUQ?oc=5",
+   "quelle": "ad-hoc-news.de",
+   "zeit": "2026-11-07T10:16:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "4751a190010bd72d",
+   "k": "usa",
+   "titel": "4 of nation's largest cities now led by socialist mayors after Tuesday's election, affecting tens of millions",
+   "t": "Nach der Wahl werden vier der größten US-Städte von sozialistischen Bürgermeistern geführt, darunter Los Angeles und Washington, D.C.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/4-nations-largest-cities-led-socialist-mayors-tuesday-election-affecting-tens-millions",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-07T10:00:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "2aea2d279938e9a2",
+   "k": "deutschland",
+   "titel": "Neue Befugnisse: BND soll heimlich Wohnungen in Deutschland betreten dürfen",
+   "t": "Die Bundesregierung will dem Bundesnachrichtendienst laut Medienbericht erlauben, auch im Inland tätig zu werden und heimlich Wohnungen zu betreten.",
+   "e": "Die geplante Ausweitung der BND-Befugnisse berührt Grundrechte wie die Unverletzlichkeit der Wohnung.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/inland/bnd-soll-heimlich-wohnung-in-deutschland-betreten-duerfen-accg-201661109.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T09:52:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "3d6b490fa4331c78",
+   "k": "deutschland",
+   "titel": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+   "t": "Die Übung LÜKEX simuliert eine jahrelange Dürre mit extremer Hitze in Deutschland. Rund 180 Organisationen testen dabei ihr Krisenmanagement.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T09:44:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "d2a6acc5f094e13a",
+   "k": "finanzen",
+   "titel": "Neues vom Finanzplatz: Trumps Memecoins fallen nach den Mid-Terms fast ins Bodenlose",
+   "t": "Trumps Memecoins haben nach den Midterms stark nachgegeben. Hacker erbeuteten bei einer französischen Bank Millionen. Die Fintech Revolut ist laut Bericht fast doppelt so viel wert wie die Deutsche Bank.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/trumps-memecoin-ist-nach-den-mid-terms-nicht-mehr-gefragt-accg-201656474.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-07T09:41:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "defc7f27cced5464",
+   "k": "welt",
+   "titel": "„Man bombt weiter, aber man spricht eben auch“",
+   "t": "Trump stellt nach einem Treffen mit Putins Gesandtem Dmitrijew ein großes Abkommen zwischen den USA und Russland in Aussicht. Der Kreml dämpft die Erwartungen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/video6aeeef17a389bc337cfc8dcd/ukraine-abkommen-man-bombt-weiter-aber-man-spricht-eben-auch.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T09:40:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "4e0968192d3a9d7f",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Montagearbeiten auf der A45 nahe Eggenscheid noch bis Mai 2027 - News.de",
+   "t": "Auf der A45 bei Lüdenscheid nahe Eggenscheid laufen Montagearbeiten noch bis Mai 2027.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdFBFNWdmNHIzRU1RUUpkYlJidmt6RkZMenhnVU9iWTFuR2M3aFlTR19pVkxlUWd2cW5EdU81SWFLSERLNXJuNHNxUXI1Y2poV3RzRk1sX3NyY0RWTl9USGVWTXVDM1BUQ1BJLTlzcm43Tm5tYUVUcGJBb3JiYVB0bF9kY0NLd0NUYUk2SGFWMWZjZjhfQVoxSGhXbXpnbzhxMHE0WUZGNUdUNkFfQkNUamFJUk80OUtlelR5NW5NcXVrR2V3QWRTTEp4Y3JacC13U09XeHd1bjRBZ2JXQXdtUXB4RnQwQVp3eVNFbm81dXJtQ1dzX0EtR2dLZW1iTnM1dWpKS1BFandmbmdFc24zQ1g2bWZNTkQ4ZFJYNWpMZFJCTW9ZOElGeUFuWEJrTVg1X29hN0VZS1AtSlFjZm9CVDJDX0ptaFppVExpTHMwRGZFdzB4cjU1bzF4aVpxWFJHQ2R1Zkk0ekFVaGFydzBlWGdUQjVQVF9FcFpXZ3lSOVNaTzlXNFZiUGVINnhVVUY0NU1kVWtXcWdwTGdETC1DN0NMWQ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-07T09:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "28b25a50e5fd609c",
+   "k": "welt",
+   "titel": "Kommunalwahlen: Mandelas ANC erleidet historische Niederlage bei Kommunalwahlen",
+   "t": "Der ANC, die Partei Nelson Mandelas, hat bei den Kommunalwahlen in Südafrika eine deutliche Niederlage erlitten. Weniger als ein Drittel der Wähler stimmte für die Partei.",
+   "e": "Das Ergebnis zeigt einen weiteren Vertrauensverlust der Regierungspartei und könnte die Koalitionsbildung auf lokaler Ebene prägen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/kommunalwahlen-mandelas-anc-erleidet-historische-niederlage-bei-kommunalwahlen/100268077.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T09:33:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "ddc8938b7d714b9d",
+   "k": "usa",
+   "titel": "Suspicious prediction market activity seen before election poll release: NYT",
+   "t": "Laut einem Bericht gab es kurz vor der Veröffentlichung zweier Umfragen der New York Times und des Siena-Instituts auffällige Wetten auf Prognosemärkte.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-07T09:10:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "b389ccdbf0c22863",
+   "k": "deutschland",
+   "titel": "Energiewende: Viele Stadtwerke wollen ihre Gasnetze stilllegen",
+   "t": "Viele Stadtwerke planen, ihre Gasnetze stillzulegen. Der kommunale Versorgerverband fordert klare gesetzliche Vorgaben von der Bundesregierung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-viele-stadtwerke-wollen-ihre-gasnetze-stilllegen/100268074.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T09:08:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "188c10d31be05a82",
+   "k": "deutschland",
+   "titel": "Generalinspekteur: Er steht vor großen Aufgaben",
+   "t": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr. Er soll den Ausbau der Truppe voranbringen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/christian-freuding-wird-neuer-generalinspekteur-der-bundeswehr-accg-201659077.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T09:06:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "5339adabea4fe1ae",
+   "k": "finanzen",
+   "titel": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take - The Motley Fool",
+   "t": "Präsident Trump erklärte, die Inflation sei deutlich gesunken. Ökonomen der US-Notenbank Fed sehen die Lage laut Bericht anders.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
+   "quelle": "The Motley Fool",
+   "zeit": "2026-11-07T09:06:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6bbdf5273fb34917",
+   "k": "usa",
+   "titel": "Democrats set sights on Elon Musk probe after midterm wins, but Pritzker draws a surprising line",
+   "t": "Demokraten kündigen nach den Midterm-Siegen Untersuchungen zum DOGE-Projekt und zu Elon Musk an.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/democrats-set-sights-elon-musk-probe-after-midterm-wins-pritzker-draws-surprising-line",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-07T09:00:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "c69aa19687ea283f",
+   "k": "finanzen",
+   "titel": "Handelskonflikt: Zu wenig seltene Erden: USA werfen China Verstoß gegen Handelsdeal vor",
+   "t": "Die USA werfen China vor, zu wenige seltene Erden zu liefern und damit gegen das Handelsabkommen zu verstoßen. China weist den Vorwurf laut Berichten zurück, kurz vor einem geplanten Treffen von Trump und Xi.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T08:56:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "ced4e549856cae31",
+   "k": "finanzen",
+   "titel": "Die Eurogruppe bestätigt Pablo Hernández de Cos und Klaas Knot als die beiden Kandidaten für die EZB-Präsidentschaft - Informat.ro",
+   "t": "Die Eurogruppe hat Pablo Hernández de Cos und Klaas Knot als Kandidaten für die Nachfolge an der EZB-Spitze bestätigt.",
+   "e": "Die Personalentscheidung an der EZB-Spitze ist für Zinskurs und Glaubwürdigkeit des Euro-Währungsraums wichtig.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHZCMGUzNkFDb3JsSWxBOG0tVHRJUUdLZGFEaHlHOEhnbGVTQXhPMElfZTdBR1JsZTE5dzdxS1ZnZ3NKM2gwRl9ZaXM2RTVvUzdQSFVCVFlLQXJ3MHp0amFGNlN3Wm1LZTNmQ2Y4UXhPeVh5WEZaeVhjTzlPekZKeWVFUkdxWVlBTlFETkZ5VkV6cjl6NFNBbk9pTVFUQUdmZW1ETndobHJWRWx5UTBsY1JrTGJmbWs3eG9RbW9JNFplWWQxTWluVE5MTUxNd1V1WlN5dmE1bHNtTFhkVFE?oc=5",
+   "quelle": "Informat.ro",
+   "zeit": "2026-11-07T08:41:24+00:00",
+   "tag": null
+  },
   {
    "id": "3020211fdc2def46",
    "k": "welt",
@@ -234,6 +490,18 @@
    "link": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ebola-wie-der-entdecker-des-virus-die-lage-im-kongo-einschaetzt-accg-201647418.html",
    "quelle": "FAZ",
    "zeit": "2026-11-07T07:13:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "508e289d830f4f98",
+   "k": "finanzen",
+   "titel": "Federal Reserve and OCC Contact Banks After Binance Security Incident - TOKENPOST",
+   "t": "Die US-Notenbank Fed und die Aufsichtsbehörde OCC haben Banken nach einem Sicherheitsvorfall bei Binance kontaktiert.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbzRGUGc5ZUxVMFY4c2JKaURXd3lDTHB5Z2l6eEc5OE4zZVc2RlFPbHVSMmc5S25CV2tPaUkwNk9scmdGMzlnazNBNVEyZzhzS01LMHpFUFl3YXM?oc=5",
+   "quelle": "TOKENPOST",
+   "zeit": "2026-11-07T07:10:55+00:00",
    "tag": null
   },
   {
@@ -978,6 +1246,18 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/volkswagen-im-umbruch-ist-deutschland-auf-die-neue-realitaet-vorbereitet-201654396.html",
    "quelle": "FAZ",
    "zeit": "2026-11-06T21:22:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "87d0cd873c1a903b",
+   "k": "usa",
+   "titel": "Donald Trumps neuer Stabschef: Wer ist Stephen Miller? - ZDFheute",
+   "t": "Donald Trump hat Stephen Miller als neuen Stabschef benannt. Miller gilt als einer der einflussreichsten Berater des Präsidenten.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa19vaXBhMnBtS3BjaVNlUFUyZXVPY3ZSb1pTbkZlYnZQLTN2a2xPSDFVN3hOYllDemlCWTlsQ0pvNS1OMXk1YXAySlNLYUFSZzc3ZnJ5YVRaeElfOXlNdUZiYldaRGdmdHdFVTlrLUFJVkVkdWZxLWZEb2lPR1ZNdzNWamFwN3VlSjBoTTJOMGtlQmNjaHR0eXBB?oc=5",
+   "quelle": "ZDFheute",
+   "zeit": "2026-11-06T21:10:00+00:00",
    "tag": null
   },
   {
@@ -2803,282 +3083,6 @@
    "quelle": "n-tv.de",
    "zeit": "2026-11-06T13:44:00+00:00",
    "tag": null
-  },
-  {
-   "id": "d712b32eaa268963",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: 100-Millionen-Euro-Rechenzentrum soll lokale Firmen stärken - n-tv.de",
-   "t": "In Nordrhein-Westfalen soll ein Rechenzentrum mit 100 Millionen Euro Investitionsvolumen lokale Firmen stärken.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWhhM3FxWUdwenRvTHRicGk1OFpzU1dLUVlacTU0ZFBIdmI2WTdnanoxVHI3UkQwRERjMTFRTlh2eEhrNE9KcFF1TE01blVSa0ZGclZYREY2dkNFRE1LcnhFNjk5UkU5N0JJOUtQV1I3T3Fxd1lpcURreDVHUTkwNEUwZkE3a3pWNDhaWGlFSjJpNXNVRHN3NS01S2pGUXpDVGZSVWVxb3JYZTFNLWpLdy1wRlJzWEpRTUt2bU1YbHZMNkRxdlE?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T13:40:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bccac697d6d40b36",
-   "k": "usa",
-   "titel": "Progressive group's 182-page blueprint maps out potential Dem investigations into Trump, corporate allies",
-   "t": "Eine progressive Gruppe hat ein 182-seitiges Konzept vorgelegt, das mögliche Untersuchungen der Demokraten gegen Trump und Konzerne wie Tesla und Apple skizziert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/progressive-groups-182-page-blueprint-maps-potential-dem-investigations-trump-corporate-allies",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-06T13:35:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "fa4fe84654542123",
-   "k": "usa",
-   "titel": "Former US senator and West Virginia governor Jay Rockefeller dies at 89",
-   "t": "Der frühere demokratische Senator und Gouverneur von West Virginia, Jay Rockefeller, ist im Alter von 89 Jahren gestorben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/former-senator-governor-jay-rockefeller-dies-89",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-06T13:24:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "8ea03ea73dadbd26",
-   "k": "finanzen",
-   "titel": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-   "t": "Der weltweite Kursrutsch bei Tech- und Chipwerten nährt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Vor dem geplanten Börsengang wächst zudem der Widerstand gegen die hohe Bewertung.",
-   "e": "Die Sorge vor einer Überbewertung im KI-Sektor belastet die Märkte, während große Börsengänge geplant sind.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-06T13:22:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb8f0f8cae0d3737",
-   "k": "finanzen",
-   "titel": "EZB: Bargeld wird nicht abgeschafft - digitaler Euro kommt - Teltarif",
-   "t": "Die EZB teilt mit, dass Bargeld nicht abgeschafft wird und ein digitaler Euro kommt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGRNbTZCQnRuMnk2QnpCVTU2TEw4ODhUWVVHRFpVMEdjNEdsWWgwU2hsaWdfT3ViWHUxUjJuMlVpV2dVWHBELWNqSmpjbVJIX1hUNk9zZTdxOVBQQVZuQ3U4anBjS01hcE1xdUEyTkxZS0NQVUlDVzEtZlZiVldYMld2Vkt2eXJUT3FMVVlNVkttV2M3?oc=5",
-   "quelle": "Teltarif",
-   "zeit": "2026-11-06T13:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "64f742cb371676ee",
-   "k": "finanzen",
-   "titel": "Tesla will Cybertruck-Produktion in Texas einstellen",
-   "t": "Tesla will die Produktion des Cybertruck in Texas einstellen. Das Elektroauto blieb hinter den Erwartungen zurück, die Fläche soll für ein anderes Modell genutzt werden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T13:09:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "43157b8a34320007",
-   "k": "nrw",
-   "titel": "Fahrplan für Wirtschaft und Politik: Märkischer Kreis stellt neues Energie-Konzept vor - Come-on",
-   "t": "Der Märkische Kreis stellt ein neues Energie-Konzept für Wirtschaft und Politik vor.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjA4b09oY1VLWi1nYWYxMjFrZFhBZGJrQ2xtVE9jMnFUcFE2ZHk2ZGxWdFVTTlhDRFhybW9HZncyalVtb0ZkSzNLUkZnaWdYMjFndFVEQlN2Vk85ekZOZzJuSWFLanZMZThnMnlwZ3pkeThUcmhUWkUtSmhPNUdyYkJpWHFtQnplVWhzZFJET1JRRE1NM0FrWE16ekVhd3pGTWdkZENKaHUxcHIzS2FnN2VB?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-06T13:03:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "95f45f6cc75d9872",
-   "k": "usa",
-   "titel": "'We didn't expect this': Texas Democrats stunned as blue wave topples GOP stronghold",
-   "t": "Bei den Midterms hat der Demokrat James Talarico in Texas den Republikaner Ken Paxton laut Bericht um über 12 Punkte geschlagen.",
-   "e": "Der Sieg in einem traditionell republikanischen Bundesstaat unterstreicht die Stimmung bei den Zwischenwahlen.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/we-didnt-expect-this-texas-democrats-stunned-blue-wave-topples-gop-stronghold",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-06T13:02:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "52ff8aadcd125911",
-   "k": "welt",
-   "titel": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-   "t": "Der EU-Klimadienst Copernicus erwartet, dass die 1,5-Grad-Marke im Jahr 2026 wohl überschritten wird. Der Oktober war der wärmste jemals gemessene.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T13:02:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "0eeeb81c443a1799",
-   "k": "finanzen",
-   "titel": "New York Fed: Williams sieht Inflation zu hoch – Rückkehr zum 2-Prozent-Ziel nötig - Nachrichten und Statistiken - IndexBox",
-   "t": "New-York-Fed-Präsident Williams hält die Inflation für zu hoch und fordert eine Rückkehr zum 2-Prozent-Ziel.",
-   "e": "Die Aussage zeigt, dass die Fed trotz nachlassender Dynamik nicht von ihrem Inflationsziel abrücken will.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnVYb0pfSVh6blp4SXhrZ0h2V2stYlBKNjV3eVFhQXZxd3FpNmR2aElwSEdDSDdCQml0d0JvTGM4eC1Tb2JLd2hpSjRrYnp2cW9lQ2FYTDhOUzB0bXpZOVRiYWpoaEJDeXZsM0k5bENrU2hidE9kTngxQmlTa2N3Z2V3Mmt6b2lOUDdzc19ILTJwT2libDNOQy1ldFMtd2NpTFpqMTB3?oc=5",
-   "quelle": "IndexBox",
-   "zeit": "2026-11-06T13:00:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "af55d293dfdc91cf",
-   "k": "finanzen",
-   "titel": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
-   "t": "Spanien hat den früheren Notenbankchef Pablo Hernández de Cos als Kandidaten für die EZB-Präsidentschaft nominiert, die Nachfolge von Christine Lagarde. Die Euro-Finanzminister wollen die Nominierungen am Montag prüfen.",
-   "e": "Die Besetzung der EZB-Spitze ist für Zinskurs und Glaubwürdigkeit des Euro wichtig, weil die Amtszeit Lagardes ausläuft.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T12:50:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "c94aaae954efc6b7",
-   "k": "usa",
-   "titel": "LIVE-TICKER - Die USA nach den Midterms: Kaliforniens Gouverneur ändert Todesurteile zu lebenslangen Haftstrafen +++ Richterin setzt Arbeit an Trumps Triumphbogen aus",
-   "t": "Nach den Midterms: Kaliforniens Gouverneur wandelt Todesurteile in lebenslange Haftstrafen um, eine Richterin setzt die Arbeiten an Trumps Triumphbogen aus.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T12:49:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "36624868186d0751",
-   "k": "finanzen",
-   "titel": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
-   "t": "Goldman Sachs hat sein Gold-Kursziel angepasst und hält einen Kauf derzeit für verfrüht, als Begründung wird die restriktivere Haltung der Fed genannt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-06T12:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2d6e77ed178b8801",
-   "k": "finanzen",
-   "titel": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
-   "t": "Moderna hat seine Umsatzprognose für 2026 angehoben und erwartet nun ein Wachstum von 15 bis 25 Prozent statt bisher bis zu 10 Prozent.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T12:43:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "0795f40fc33d3f04",
-   "k": "finanzen",
-   "titel": "Jobs report to provide latest snapshot of hiring days after midterms - ABC News - Breaking News, Latest News and Videos",
-   "t": "Der US-Arbeitsmarktbericht zu den Neueinstellungen wird wenige Tage nach den Midterms veröffentlicht und gilt als wichtiger Hinweis auf die Konjunktur.",
-   "e": "Die Arbeitsmarktdaten beeinflussen die Erwartungen an die Zinspolitik der Fed, die am Markt aktuell intensiv beobachtet werden.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmQ5Q1NmVjFvcUhnc1ZWa1ZYWE5fRjR1UjN0TGJmaFhLSjBiQ3hOYmhLNk1sRzJHcFNFcjZneS13NWlWdTIycmZwalRRSXpzLTktR0Q0NUhqdmU2Qkh4MnhHa1RkZjc0bks5a1d6eDJQbmtnbVh1QlVEU2hrRlFtcFZFZ2dGRG01aERMakNyNWFyRnY1d2dMeXQxVmVIM1dGZGZF0gGoAUFVX3lxTE5jZF9CMjZjVEZEdm5JZjh2dFlmUHIwWGVlZW9vdDdMQUt6S3hlUE5qaW5iRkNxTWhSM2cyYTRlbjBrWFZFZGFXbG1sbnVSZmRPaGRMMzZOaWtnUVVOeWF4blhUUGs5VVo4RWpiVGR1YjRvY1N6eVRjNDNqLVJ3ekVVcHcwNE0xcjEyb21OcjRTLTRzRnFIajZ3YmVGS3BBLTBPSklic1QxQg?oc=5",
-   "quelle": "ABC News - Breaking News, Latest News and Videos",
-   "zeit": "2026-11-06T12:42:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "d3cfc558c98425b2",
-   "k": "usa",
-   "titel": "Trumps goldverziertes Oval Office wird Nationaldenkmal - ZDFheute",
-   "t": "Trump hat das goldverzierte Oval Office zum Nationaldenkmal erklärt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGxmdzg3bGo3dmxpT2t2ZUpfbl9Dc1JMUGdfN2lkQTEwTU1ONFh6YzNkRVhoRVRaa2lUX1gtbkRwdk9rOG5SUW4wRFlQOXlaTzhJdGpNdThRVGhVMUNhZDFLYlFLNUx4dWdHNWlUa2hpTmVYQVBCWnNKTVlCanhkM2s5QTNfRmFSZzJud2Ffdw?oc=5",
-   "quelle": "ZDFheute",
-   "zeit": "2026-11-06T12:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b1210906433e2fee",
-   "k": "welt",
-   "titel": "Wahl in Neuseeland: Sie wurde per Stellenanzeige zur Parteivorsitzenden",
-   "t": "In Neuseeland könnte die Opportunity Party nach der Wahl das Zünglein an der Waage sein, die Partei hatte ihre Vorsitzende per Stellenanzeige gesucht.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-neuseeland-die-opportunity-party-koennte-zum-zuenglein-an-der-waage-werden-accg-201646161.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T12:40:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "5efe75b54b2a1770",
-   "k": "welt",
-   "titel": "„Ein großes, wunderschönes Abkommen“ – Mit einem einzigen Satz versetzt Trump Europa in Panik",
-   "t": "US-Präsident Trump hat kurz nach den Midterms ein großes Ukraine-Abkommen angekündigt, das laut ihm auch ganz Europa betreffen werde. Details wurden nicht genannt.",
-   "e": "Ein Abkommen, das Europa einschließt, hätte direkte Folgen für Sicherheit und Ukraine-Politik der EU.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/ausland/plus6aed981847b5fce02f879d6e/neue-sicherheitsarchitektur-ein-grosses-wunderschoenes-abkommen-mit-einem-einzigen-satz-versetzt-trump-europa-in-panik.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T12:34:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "3cc8463c686432b8",
-   "k": "deutschland",
-   "titel": "Prozess um VW-Affäre: Haftbefehl gegen Angeklagten im VW-Dieselprozess erlassen",
-   "t": "Im VW-Dieselprozess wurde ein Haftbefehl gegen einen Angeklagten erlassen, elf Jahre nach Bekanntwerden der Affäre.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/prozess-um-vw-affaere-haftbefehl-gegen-angeklagten-im-vw-dieselprozess-erlassen/100267915.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T12:31:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "1e2333ce6ba31346",
-   "k": "usa",
-   "titel": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
-   "t": "Wähler in Montana haben ein Verbot von Unternehmensspenden für Politik beschlossen, wohl mit einem späteren Verfahren vor dem Supreme Court.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T12:30:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "7630fd6aea3d349a",
-   "k": "finanzen",
-   "titel": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-   "t": "Bullische Krypto-Wetten im Wert von über einer Milliarde US-Dollar wurden liquidiert, während ETF-Zuflüsse keine Unterstützung am Spotmarkt zeigen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T12:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a3c1fecf44da2827",
-   "k": "nrw",
-   "titel": "Erst Regen dann Schnee in NRW? Das berechnen Wettermodelle für die kommende Woche - Ruhr Nachrichten",
-   "t": "Wettermodelle sagen für NRW in der kommenden Woche zunächst Regen und danach Schnee voraus.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUM5eTlIZTh6R0labkVfak1HQUxrMnhEeF9HbXV1VmlGSXJGS2lCTTNRRnRBSEh6Skk4bl9YNHJ3RFV4ODNBcFJPVUsxWnJMYlZrTGh4UHQ5VGoxY1BmR1RfU3Y4U1l2TkdqNVkxWnY5d3ZMYUNRMXphZEpIWDVOM3RlN1FNNEV2VlBWYVNIMmhocWVUVU4yLUJGTHhuTmNQeFY0QTM1MHNZTEFwTHMtNURMRGNGLUVfZ0tTTw?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-06T12:22:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "cfb8a86f954e18a3",
-   "k": "welt",
-   "titel": "Europa: Neue Bombendrohungen – Flugzeuge und Medien betroffen",
-   "t": "In Europa gab es erneut anonyme Bombendrohungen gegen Fluggesellschaften und irische Medien, Mitarbeiter wurden evakuiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohungen-gegen-irische-medien-rte-evakuiert-accg-201658939.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T12:17:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3111,17 +3115,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 28
+    "n": 26
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "NZZ",
@@ -3156,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "WSJ USA",
@@ -3186,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 22
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -3211,7 +3215,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 32
+    "n": 33
    }
   ],
   "markt": [],
