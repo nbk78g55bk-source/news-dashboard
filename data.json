@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T19:01:32.688471+00:00",
+ "aktualisiert": "2026-11-07T20:12:30.616697+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.766 $",
-   "delta": 0.05239047001497243
+   "wert": "75.723 $",
+   "delta": -0.2029411091003117
   },
   {
    "name": "Ethereum",
-   "wert": "2.236 $",
-   "delta": 0.31274329834796016
+   "wert": "2.232 $",
+   "delta": -0.03932370899276395
   },
   {
    "name": "Gold",
@@ -84,6 +84,102 @@
   ]
  },
  "items": [
+  {
+   "id": "89bb0a3f0b99c55c",
+   "k": "welt",
+   "titel": "Sechs Tote in Polen: Polnischer Innenminister: Schütze von Krakau von „rechtsextremen Ideologien fasziniert“",
+   "t": "Der polnische Innenminister sagt, der Schütze von Krakau sei von rechtsextremen Ideologien fasziniert gewesen. Bei den Schüssen im Stadtzentrum wurden sechs Menschen getötet, mehrere weitere verletzt.",
+   "e": "Neue Information zu möglichen Motiven des Täters, nachdem bereits über die Opferzahl berichtet wurde.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/sechs-tote-in-polen-schuetze-von-krakau-von-rechtsextremen-ideologien-fasziniert-accg-201661603.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T20:06:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "57ec3a0356cf7df7",
+   "k": "welt",
+   "titel": "Nach der Wahl: Streit um Regierungsbildung in Israel eskaliert",
+   "t": "In Israel eskaliert der Streit über die Regierungsbildung. Ministerpräsident Netanjahu fordert eine breite Koalition unter Einschluss rechtsextremer Parteien, Oppositionspolitiker Eisenkot weist das Angebot zurück.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/nach-der-wahl-streit-um-regierungsbildung-in-israel-eskaliert/100268139.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T19:47:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "e02335ce728af5fd",
+   "k": "deutschland",
+   "titel": "Ilse Aigner wird Unionskandidatin für die Bundespräsidentenwahl",
+   "t": "Ilse Aigner wird von CDU und CSU als Kandidatin für die Bundespräsidentenwahl nominiert.",
+   "e": "Die Bundesversammlung entscheidet über das höchste Staatsamt; die Nominierung ist eine wichtige Weichenstellung für die Wahl.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680042.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T19:29:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "912cffeea8907136",
+   "k": "welt",
+   "titel": "Heftige russische Angriffe auf die Ukraine - erneut Energieversorgung im Fokus",
+   "t": "Russland greift die Ukraine erneut massiv an, die Energieversorgung steht im Fokus der Angriffe.",
+   "e": "Die Angriffe auf die Stromversorgung verschärfen die Lage für die Zivilbevölkerung und beeinflussen die Energiemärkte in Europa.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680034.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T19:25:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "70e16eff82e0ec06",
+   "k": "usa",
+   "titel": "US-Präsident: Kampfsport-Unternehmer als Sprecher im Weißen Haus?",
+   "t": "Nach der Wahlniederlage bei den Zwischenwahlen erwägt Präsident Trump offenbar einen Kampfsport-Unternehmer als neuen Sprecher des Weißen Hauses. Der Posten ist seit Wochen unbesetzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/us-praesident-kampfsport-unternehmer-als-sprecher-im-weissen-haus/100268137.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T19:19:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "2a70a9bf3c53b7cb",
+   "k": "finanzen",
+   "titel": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+   "t": "Binance-Nutzer in einigen europäischen Ländern werden aufgefordert, ihre Kryptowerte abzuziehen, bevor neue Gebühren greifen. Die Konten sollen bis zum Jahresende geschlossen werden.",
+   "e": "Betrifft Kryptoanleger in Europa direkt, da der Anbieter den Zugang zu Konten und Verwahrung einschränkt.",
+   "s": 6,
+   "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-07T19:13:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "de5e501d493b8195",
+   "k": "deutschland",
+   "titel": "Merz und die CDU: Noch folgen sie dem Kanzler",
+   "t": "Bundeskanzler Friedrich Merz räumt eigene Fehler ein. Die CDU folgt ihm bislang noch, die Frage nach ihrer Geschlossenheit bleibt offen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/wie-lange-steht-die-cdu-noch-hinter-friedrich-merz-201652460.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T19:03:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "832eb7dc4b68d84f",
+   "k": "welt",
+   "titel": "Bankenskandal in Paraguay: Nach Amtsenthebung: Anklage gegen Paraguays Ex-Präsidenten",
+   "t": "In Paraguay muss sich der Ex-Präsident nach seiner Amtsenthebung wegen des Bankenskandals vor Gericht verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/bankenskandal-in-paraguay-nach-amtsenthebung-anklage-gegen-paraguays-ex-praesidenten/100268135.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T19:00:36+00:00",
+   "tag": null
+  },
   {
    "id": "635228031f6f2904",
    "k": "nrw",
@@ -394,6 +490,18 @@
    "link": "https://www.tagesschau.de/video/video-1679838.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-07T15:41:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "81840cfced04c252",
+   "k": "nrw",
+   "titel": "Bad Sassendorf / Anröchte: Einschränkungen auf der A44 nahe Lohne in der nächsten Woche am Dienstag - News.de",
+   "t": "Auf der A44 nahe Lohne (Bad Sassendorf/Anröchte) gibt es in der kommenden Woche am Dienstag Einschränkungen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNU3JUeHdfN2dBNk1lUmg3ZElwM2R5aTh4cGdycGpiU21pb05xYU9fQ28ybVRSTzJPWFUxY0ZEaHBYaEtUbDBDcFhnQWM5c05YdlJvR3BiQ1VMcjRBeWE1NllSbjFtd0VMbVF1Y1hSWUU5YVJ6V3Y0SThlXzljR2pLNW95Z1RiMWpoLTc0ZmR6ekRPbmI3WGU2Z0dvQndvQVFhVGJlVEtldHJoZlhqOW5qLUVucWxfOFhiR1YzSENoSFJIYU9TQ1dPai1zSExfcEJCdEhDMHhLSEpEem96cm9RM3ZNbDlhWGNNOC1LY21vSEw4ellZNFNXWXNIV29odFVERkhnRVdDNWlMUVRhWE41Z1E2cFVrMHdLdzNHYWJPS2laOURGdDM0Ym5pRC1vbXBzNTBZ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-07T15:41:02+00:00",
    "tag": null
   },
   {
@@ -1525,6 +1633,18 @@
    "tag": null
   },
   {
+   "id": "91171c522c909f43",
+   "k": "usa",
+   "titel": "Trump als Ziel? Secret Service nimmt bewaffneten Mann nahe dem Weißen Haus fest - RND.de",
+   "t": "Der Secret Service hat in der Nähe des Weißen Hauses einen bewaffneten Mann festgenommen. Ob Präsident Trump das Ziel war, ist bisher nicht bestätigt.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlNobHhEVy1tX200ZFdKLTRSTGJDc0o1aFRHcFpUODh3cFpiUlRuSWZpVGcxWUNRa1Budjh4NDhaSGRSWGEwLWYtMlBLOVVIVGp3S25Zenhpejd0bW5JejhmTHBVU1Y1M3VzZ1BqTVJQbEhQSWpOVGcwSGs2MmdaM3JJN2l1THpMTjc5c081QXZMNkpwTVdyR2ZtZGZXd1Y4ZkJpUVFLMlFoVmFfQi1hR0N0ZVFSNEozQURXbUl3?oc=5",
+   "quelle": "RND.de",
+   "zeit": "2026-11-07T06:15:53+00:00",
+   "tag": null
+  },
+  {
    "id": "409ffd84aa37bd0e",
    "k": "nrw",
    "titel": "Neues Rechenzentrum in Bad Lippspringe eröffnet - Radio Hochstift",
@@ -1942,6 +2062,18 @@
    "link": "https://www.faz.net/aktuell/politik/ausland/protest-gegen-microsoft-rechenzentrum-200-festnahmen-in-amsterdam-accg-201660756.html",
    "quelle": "FAZ",
    "zeit": "2026-11-07T02:24:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "68b39202163a57c1",
+   "k": "finanzen",
+   "titel": "Silber Preis: EZB hebt Leitzins auf 2,25 Prozent - Finanztrends",
+   "t": "Laut Finanztrends hat die EZB den Leitzins auf 2,25 Prozent angehoben. Die Meldung stützt sich auf eine einzelne Quelle.",
+   "e": "Eine Zinserhöhung der EZB wirkt auf Kredit-, Spar- und Anleihezinsen und ist für Sparer und Kreditnehmer in Deutschland direkt relevant; eine Bestätigung durch weitere Quellen steht noch aus.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVJVTU4xbjVsSWtLdnRqajFvem10RURvRWQwVXhYZkdGVU9MMl95a2V1LVVsd0NFVWx0T2VtamNNOE5SOVF2Wjdoc2pUekprZUNsdU0ycU1TaTRfcnF4VFJ2ZzdwYnBVZFB6TDVGSjJkTGxIUk5oT3BFSEVEdE1sMmJyR2xvdEE?oc=5",
+   "quelle": "Finanztrends",
+   "zeit": "2026-11-07T02:11:39+00:00",
    "tag": null
   },
   {
@@ -2374,6 +2506,18 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02TjZkZ2VZZ04xamNDVThwUm9QaVFEZk5NVGhWTVc5cEE2T1R0ZWVTd2RCbUtIaUhwV21tQXdkSUVDMmFIY2VTODZQWlBSQU1uc0VQcnlkaElDZmM?oc=5",
    "quelle": "www.tokenpost.com",
    "zeit": "2026-11-06T21:04:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "c79058c53c1ee2ec",
+   "k": "usa",
+   "titel": "Nach Wahldebakel: Trump feuert Stabschefin Wiles – Hardliner Miller übernimmt - Joyn",
+   "t": "Präsident Trump entlässt nach der Wahlniederlage Stabschefin Susie Wiles. Der Hardliner Stephen Miller übernimmt den Posten.",
+   "e": "Der Stabschef koordiniert die Arbeit des Weißen Hauses; mit Miller rückt ein Vertreter einer konfrontativen Linie in die engste Machtzentrale.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkNGQzdNT1VueFdZRi02cnY3N3FrdWpoZ3hsOUx6QUx1SnBLbHdQYjN3T2dLb2lMbHJqdW9ZZlpPN0x1ME9hWWV0WHE2RFdzZVdXNWkxRmFZX0c2OGFIUklUekh6eVNCUEpLd20tczRHUjlaNnZ5WlR6LXNNRmpEM0U4ei04SFRpN29sZDRpdUZVd2M4LTRJ?oc=5",
+   "quelle": "Joyn",
+   "zeit": "2026-11-06T21:01:46+00:00",
    "tag": null
   },
   {
@@ -2939,150 +3083,6 @@
    "quelle": "tagesschau.de",
    "zeit": "2026-11-06T17:54:00+00:00",
    "tag": null
-  },
-  {
-   "id": "0beccb02f1eb10ac",
-   "k": "finanzen",
-   "titel": "Futuristischer Flop: Musk kündigt Ende von Cybertruck-Produktion in Texas an",
-   "t": "Tesla-Chef Elon Musk hat das Ende der Cybertruck-Produktion in Texas in Aussicht gestellt. Das Modell hatte sich bei den Verkaufszahlen nicht durchgesetzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/futuristischer-flop-musk-kuendigt-ende-von-cybertruck-produktion-in-texas-an/100268001.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T17:53:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "44d4cec430c10c21",
-   "k": "finanzen",
-   "titel": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-   "t": "Die Aktie des Wettanbieters DraftKings ist am Freitag um über 26 Prozent gefallen. Analysten sehen Risiken durch Regulierung und Konkurrenz im Bereich Prognosemärkte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-06T17:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e37f74c8d0b4caa4",
-   "k": "finanzen",
-   "titel": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-   "t": "Der Bitcoin-Kurs ist unter 75.000 US-Dollar gefallen. Nach den starken US-Arbeitsmarktdaten nehmen die Erwartungen einer Zinserhöhung im Dezember zu.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T17:49:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "41162a6c5b20274f",
-   "k": "welt",
-   "titel": "Die gestohlenen Kinder von Oleschky",
-   "t": "Eine niederländische NGO hilft bei der Suche nach ukrainischen Kindern, die 2022 aus einem Heim in Oleschky verschleppt wurden. Eine Rückkehr in die Ukraine ist auch im Fall eines Fundes nicht sicher.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T17:48:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "e06a3ef31e8a1228",
-   "k": "welt",
-   "titel": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-   "t": "Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew hat US-Präsident Trump ein großes Ukraine-Abkommen angekündigt. Moskau und Brüssel dämpfen jedoch die Erwartungen.",
-   "e": "Die Ankündigung ist bisher ohne konkrete Details, und sowohl Moskau als auch die EU bremsen die Erwartungen.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T17:46:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "9256da0c729b243b",
-   "k": "finanzen",
-   "titel": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-   "t": "Die US-Regulierungsbehörde für Prognosemärkte fordert ein Vorgehen, das im Konflikt mit Gerichtsentscheidungen steht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T17:42:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "a59cb8992fc61c75",
-   "k": "finanzen",
-   "titel": "Insider: Spanische Mutter erwägt Komplettübernahme von Hochtief - Börsen-Zeitung",
-   "t": "Laut Insidern erwägt die spanische Mutter ACS eine Komplettübernahme des Essener Baukonzerns Hochtief.",
-   "e": "Eine vollständige Übernahme würde einen großen Essener Konzern mit Sitz in NRW unter ausländische Kontrolle bringen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS25qb1l5TFYyeDFJaWFwZVVRVHhKSjg3TmJ5ZnF6RzdRdmRRSzRpd3E0Uld4RkgxUnYycUNDRHB3YkVSSzZSRW1BSVhXaHV5dHpxNzhLNVJrVW5aY25GM2JuaHZjX3RsbUdqcGNSOXBnbGJPZ2xHRE8xeFRpU3hWc19fcXQxRnNoRU1HN1JjUUJHa2hiaGFIRjZwdVZQa2pYODdvek5aUDhpWjdFOU5SRWU4ekszZWM?oc=5",
-   "quelle": "Börsen-Zeitung",
-   "zeit": "2026-11-06T17:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "22d9b8ed58425479",
-   "k": "usa",
-   "titel": "Todesstrafe: Newsoms unvollständiger Big Bang",
-   "t": "Kaliforniens Gouverneur Newsom setzt ein Zeichen gegen die Todesstrafe, die Kritik sieht darin einen politischen Schachzug.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/kalifornien-gavin-newsoms-richtiger-erlass-zur-todesstrafe-wirkt-wie-ein-stunt-201658858.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T17:37:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "b400467fd8d776e7",
-   "k": "deutschland",
-   "titel": "Tarifstreit: IG Metall zählt mehr als 400.000 Teilnehmer an Warnstreiks",
-   "t": "Die IG Metall zaehlt mehr als 400.000 Teilnehmer an Warnstreiks. Sie fordert fuenf Prozent mehr Lohn und droht vor den Verhandlungen am Montag mit einer Verschaerfung.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267972.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T17:36:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "6fbde7b4b661fc25",
-   "k": "finanzen",
-   "titel": "Today: Wall-Street-Reporter Markus Koch ordnet KI-Angst vor den US-Demokraten ein",
-   "t": "Im S&P 500 wurden an einem Tag rund drei Billionen Dollar Boersenwert vernichtet. Ausloeser war die Sorge vor strengerer KI-Regulierung nach dem Wahlsieg der Demokraten bei den Midterms.",
-   "e": "Der Einbruch zeigt, wie stark der KI-Boom an den Boersen von politischen Erwartungen abhaengt.",
-   "s": 8,
-   "link": "https://www.handelsblatt.com/audio/today/podcast-wall-street-reporter-ordnet-ki-angst-vor-den-us-demokraten-ein/100267999.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T17:31:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "e29615bb27be89df",
-   "k": "deutschland",
-   "titel": "Energie: Fehler im System – wie teuer wird Deutschlands Stromreserve?",
-   "t": "Die erste Ausschreibung fuer Backup-Kraftwerke wird vom Wirtschaftsministerium als Erfolg gewertet, hinter den Kulissen gibt es laut Handelsblatt Probleme und Forderungen nach einem Neustart.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/energie-fehler-im-system-wie-teuer-wird-deutschlands-stromreserve/100267669.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T17:27:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "70526c5ab0c2e267",
-   "k": "finanzen",
-   "titel": "„Es war ein schwarzer Donnerstag. Der teuerste Tag der Geschichte“",
-   "t": "Am Donnerstag kam es zu einem starken Ausverkauf im Tech-Sektor. Der US-Marktwert sank laut Berichten um rund 2,8 Billionen Dollar.",
-   "e": "Der Wertverlust übertrifft nach Angaben des Berichts den Einbruch während der Corona-Krise, was die Anfälligkeit hoch bewerteter Techaktien zeigt.",
-   "s": 7,
-   "link": "https://www.welt.de/mediathek/talk/deffner-und-zschaepitz/video6aee06de320931eb80f5ca9f/deffner-zschaepitz-es-war-ein-schwarzer-donnerstag-der-teuerste-tag-der-geschichte.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T17:13:30+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
@@ -3105,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Welt",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "WSJ USA",
@@ -3180,7 +3180,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Cointelegraph",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Google News NRW",
@@ -3205,17 +3205,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 24
+    "n": 20
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 15
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 22
    }
   ],
   "markt": [],
