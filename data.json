@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T05:01:12.589709+00:00",
+ "aktualisiert": "2026-11-07T07:01:18.289018+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.832 $",
-   "delta": 0.1793969794884421
+   "wert": "75.981 $",
+   "delta": 0.476334479520257
   },
   {
    "name": "Ethereum",
-   "wert": "2.242 $",
-   "delta": 0.5061491082343513
+   "wert": "2.245 $",
+   "delta": 0.865997656488684
   },
   {
    "name": "Gold",
-   "wert": "4.080 $",
-   "delta": -0.8265467363559043
+   "wert": "4.075 $",
+   "delta": -0.9383736477452276
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,128 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-06T19:01:34.460908+00:00",
+  "slot": 7,
+  "stand": "2026-11-07T07:01:18.288996+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Der US-Arbeitsmarktbericht für Oktober kam mit 165.000 neuen Stellen weit über den erwarteten 59.000 an, die Arbeitslosenquote sank auf 4,1 Prozent. Fed-Futures sehen laut Bericht eine Zinserhöhung im Dezember mit rund 80 Prozent Wahrscheinlichkeit."
+    "t": "Nach dem schwächsten Wall-Street-Ausverkauf seit dem Zollschock 2025 verlor der Nasdaq am Donnerstag über sechs Prozent, am Freitag erholten sich die US-Börsen. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka S&P 500 bei 138,64 € und der Deka DAX bei 225,35 €."
    },
    {
     "k": "finanzen",
-    "t": "Nach dem schwächsten Wall-Street-Ausverkauf seit dem Zollschock 2025 fielen Chip- und Techwerte weltweit stark, der Nasdaq Composite ist laut Meldungen in die Korrektur gerutscht. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka S&P 500 bei 138,64 € und der Deka DAX bei 225,35 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die EZB liegt laut Marktdaten bei einem Zins von 2,50 %, die Fed Funds Rate bei 3,88 %. Die Bank of England hat ihren Leitzins auf 4 Prozent angehoben, Ökonomen erwarten weitere Erhöhungen."
-   },
-   {
-    "k": "nrw",
-    "t": "Nach einem Gefahrgutunfall bei Krefeld sind laut Behörden etwa zehn Tonnen Salpetersäure ausgelaufen. Die A57 ist gesperrt, zahlreiche Züge fallen aus."
+    "t": "Die US-Arbeitsmarktdaten für Oktober fielen mit 165.000 neuen Stellen deutlich stärker aus als erwartet, und Fed-Vertreterin Daly hält weitere Zinserhöhungen für wahrscheinlich. Laut Marktdaten liegt der Fed Funds Satz bei 3,88 %, der EZB-Zins bei 2,50 %. Die Meldungen zur EZB widersprechen sich allerdings: Eine Quelle meldet eine Anhebung auf 2,25 %, eine andere eine unveränderte Lage bei 2,50 %."
    },
    {
     "k": "deutschland",
-    "t": "Nach einem versuchten Drohnenangriff auf den Flughafen Leipzig fahndet das BKA mit einem Bild nach einer Person mit Kapuze auf einem E-Bike. Zeugen werden gesucht."
+    "t": "Die Union nominiert Ilse Aigner als Nachfolgerin von Bundespräsident Frank-Walter Steinmeier, unterstützt von CSU und CDU-Führung. Laut ARD hätten Union und SPD in der Bundesversammlung eine Mehrheit."
+   },
+   {
+    "k": "usa",
+    "t": "Trump entlässt Stabschefin Susie Wiles nach den Verlusten der Republikaner bei den Midterms und ernennt Stephen Miller zum neuen Stabschef. Im Iran-Krieg raten Vizepräsident Vance und Golfstaaten zum Ende, andere Berater drängen auf neue Angriffe."
    },
    {
     "k": "welt",
-    "t": "Spanien hat Pablo Hernández de Cos als Kandidaten für die EZB-Präsidentschaft nominiert, die Nachfolge von Christine Lagarde, die ihr Amt vorzeitig verlässt. Die Euro-Finanzminister wollen die Nominierungen am Montag prüfen."
+    "t": "Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew kündigte Trump ein großes Ukraine-Abkommen an, Moskau und Brüssel dämpfen jedoch die Erwartungen. Nach dem Zugunglück in Spanien mit 69 Toten ermittelt zudem die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs."
    }
   ]
  },
  "items": [
+  {
+   "id": "da8e9c9797c818ab",
+   "k": "deutschland",
+   "titel": "Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+   "t": "Der AfD-Politiker Ulrich Siegmund schließt nicht aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt in einem zweiten oder dritten Wahlgang anzutreten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/video6aeec03a10638fe3bf6e0510/sachsen-anhalt-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T06:40:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "e1084ca82f8466b6",
+   "k": "welt",
+   "titel": "Wahlen: Neuseeland hat gewählt - knappes Rennen erwartet",
+   "t": "In Neuseeland zeichnet sich nach Schließung der Wahllokale ein knappes Rennen zwischen Konservativen und Labour ab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T06:31:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "263657ad84bf6d72",
+   "k": "deutschland",
+   "titel": "Schlesinger-Prozess beginnt – Verfahren gegen Ehemann gegen Geldauflage eingestellt",
+   "t": "Der Strafprozess um die frühere rbb-Intendantin Patricia Schlesinger beginnt; das Verfahren gegen ihren Ehemann wurde gegen eine Geldauflage eingestellt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/plus6aedde9f47b5fce02f87a550/schlesinger-prozess-beginnt-verfahren-gegen-ehemann-gegen-geldauflage-eingestellt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T06:08:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "eeadf3771f5f5427",
+   "k": "usa",
+   "titel": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+   "t": "Die US-Gesundheitsbehörde CDC meldet den größten Masernausbruch in den USA seit 1991, mit bisher 5.182 registrierten Fällen in diesem Jahr. In Wisconsin ist erstmals seit mehr als drei Jahrzehnten wieder ein Mensch an Masern gestorben.",
+   "e": "Masern gelten als hochansteckend; ein Ausbruch dieser Größe ist für die USA ungewöhnlich.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T06:01:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "a5e0b66e3905ad3e",
+   "k": "nrw",
+   "titel": "Park-Ärger am Nußberg in Iserlohn: „Wo sollen unsere Autos hin?“ - IKZ-Online",
+   "t": "In Iserlohn sorgt die Parksituation am Nußberg für Ärger bei Anwohnern, die fragen, wo ihre Autos künftig parken sollen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzg2TVFpRjdfQTAtR2NUT1ZOLXdINnBUSFRRazVTNnEwMlVBaWE3VWNqRTJPekJJWDB2eEJlVEtOVkVKSDlObXMtWXNVM1hxRF9MS19KNUJRaV9WenV4NkhGLW5KT2ZDRmN6RFh0VVNxSkxwZkVQN0lLRGRHR2dERUgtSlR5eVIxVEVhcVg3N3NBMkZSUVV3ZnFFa200N0lFSnJweTFrTjJDQWs5NUtublp5d0QtWnp0bGtFOW15SUs4NVhhaFE?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-07T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3c656b8cb41479f5",
+   "k": "finanzen",
+   "titel": "US-Jobdaten überraschen: Wie viel Druck droht Bitcoin? - Bitcoin2Go",
+   "t": "Die US-Arbeitsmarktdaten fielen überraschend aus; Bitcoin-Analysen diskutieren mögliche Auswirkungen auf den Kurs.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlRralRTN3ZqRHpqMkdEY054Q2lkOTBqZ0VJYmJEaGRVV1pMWGtGNkVNb3BvekZTZ0Ffbmk1QUlHaVMxRDVfdVhITUJ0c1RPalNfRXd5cnY5WUNjSDJCSmN4RDdmeUZRODdLRE5KQXdIVEFoc3AzN1o5WmVqM3R5QXoxQQ?oc=5",
+   "quelle": "Bitcoin2Go",
+   "zeit": "2026-11-07T05:48:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "7c4a34c8a87a27e8",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Dauerbaustelle auf der Brunscheider Straße in Bellmerei noch bis Dezember 2026 - News.de",
+   "t": "Auf der Brunscheider Straße in Lüdenscheid (Bellmerei) dauern die Bauarbeiten noch bis Dezember 2026.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPeTlYenRIVFFEQnFlMEd3bUJhRjNwRnNwcWpHRXlVTGlud2NnM184QUYwZ2ZKRmtSbFpTTFliMTlXaHFFRGNlY1NwaFlhTmpUdmY4Ri1ZaTBYVDRmUFlBS1pzdGs5SVppZlYyYnd3ai1BLVV4TFpJQ0NkX0NyT1dMT1dleFBRaVE1NHFjLWF4cnlhd1NseXRTZC1RX0s3YXVtOGo5dUJQbmFub2xpUllpa3IxTS1mb2oxSzhUSlljSFBGcEoxX2pwelZzX2s1VXh1ZVoxQlpzVjA0bjJfd1M4bzVnZ1JRd2NyM29iLTVBTU1BSzkxdnVndnNfZUVTZGZmcWtHRTdSOEJoaGFhemZJTTVhOU9qUVhkWnA2M3JYNmt3alhKX3hzUFFVczMwVDZ4aXRPV2RKUmZDZldrVXE0WEVjWGNvOVBJLWVqZld0LWRUUXU3czlFOFd5Nkxfc0R0OGxoRllCRlZ4QQ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-07T05:36:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ab848eddc2d7f67",
+   "k": "deutschland",
+   "titel": "Pflegeversicherung bekommt Extra-Geldspritze des Bundes",
+   "t": "Die Pflegeversicherung erhält eine zusätzliche Finanzspritze des Bundes: Erstmals muss der Bund im November ein Darlehen geben, um die Zahlungsfähigkeit zu sichern.",
+   "e": "Zeigt die anhaltende Finanzierungslücke der Pflegeversicherung und belastet den Bundeshaushalt.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/article6aeeb610a389bc337cfc8a8f/milliarden-darlehen-pflegeversicherung-bekommt-extra-geldspritze-des-bundes.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T05:34:40+00:00",
+   "tag": null
+  },
   {
    "id": "2106d5e313b9e980",
    "k": "deutschland",
@@ -94,6 +186,54 @@
    "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-07T05:00:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "c701657757e1800c",
+   "k": "welt",
+   "titel": "Sorge vor Winter: Hunger in Afghanistan: „Die Angst kommt in unser Haus“",
+   "t": "Die Vereinten Nationen warnen vor einer sich zuspitzenden Hungerkrise in Afghanistan im kommenden Winter.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/sorge-vor-winter-hunger-in-afghanistan-die-angst-kommt-in-unser-haus/100268054.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T05:00:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "58aab178441399de",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen knackt 10 Gigawatt Windenergie - Rheinischer Spiegel",
+   "t": "Nordrhein-Westfalen hat eine Windenergieleistung von 10 Gigawatt erreicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnVNQk9HSVhUWXJJQWFJcllybERCU0hfeEg0SWFxU2dqclBjeEY1VWNrU1RUVGxhamtCM29ZZlA4bWd4UVFVa240Znh1NWZLcGV0ZFdMYlB2RERUanpvU2t6ZWgxb0xjUndYVzVZWFR5Q3dyUzV3Y2JWZWRRX28zSzNyNGxtTkh2TlE?oc=5",
+   "quelle": "Rheinischer Spiegel",
+   "zeit": "2026-11-07T05:00:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "0390854383892e63",
+   "k": "nrw",
+   "titel": "Sorge wegen Stromknappheit in NRW - Presseportal",
+   "t": "In NRW wird vor einer möglichen Stromknappheit gewarnt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yaDgxbXR1THBhR1ZfREUtMFVMZE9OdmVwMGowcFQ4OFp0cFBCV2ctUEhqRzI3ZnlHMW9jTF9LUGVTVFdUYVRtYlJrMUJxQ2VpVE9kVzNzM1o?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-07T05:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1f5f3d859a31f6f6",
+   "k": "usa",
+   "titel": "Secret Service nimmt Bewaffneten nahe dem Weißen Haus fest - SuaraGarut.ID",
+   "t": "Der Secret Service hat einen bewaffneten Mann nahe dem Weißen Haus festgenommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SWTZzRlVfUzZYcE1hRXBZbVR1MTdKYVh5TU5SU3FDRjVoTHVveE9RMGUtSkc4ajh4LUlNU3lXYlF5QzlHSjJKRzl1OGlQbzEtYnRqWVhXNUhyMXJrTndlVzJ1aHBRa2dZS1JGWTJLMWJCQQ?oc=5",
+   "quelle": "SuaraGarut.ID",
+   "zeit": "2026-11-07T04:30:50+00:00",
    "tag": null
   },
   {
@@ -2461,6 +2601,18 @@
    "tag": null
   },
   {
+   "id": "40a93f6c06f6c136",
+   "k": "finanzen",
+   "titel": "BoE-Chefökonom Pill: Leitzins dürfte unverändert bleiben oder sogar sinken, falls das Wachstum im nächsten Jahr stagniert - www.tmgm.com",
+   "t": "BoE-Chefökonom Pill sagt, der britische Leitzins dürfte unverändert bleiben oder sogar sinken, falls das Wachstum im kommenden Jahr stagniert.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXdiRVIydTF3MnE5cjRMSjZGMUpZZGgtalpwMDZaS1ctMDJBeW1XN09LTktUUnNnNzM3NjJjNW5BTEo1UVB2VzU0SHNGMVRFQkl3aXBIUXd3bndvZ21FOHpxcU5hRFVEdTZtXzRwaHZNeW5oOEhtNFNQRDd6T0pZcHVzSG5xYUYxTU8wTUZMUTNDb3RZOXNLSzF5LU1HLWl4QndOOGZpOXM2VEltOTd3UnFnMWxlSHRUaGs2ZjNVMUFoMm45RFJtLVllLWh6YVNQNVZpdXhQRlY?oc=5",
+   "quelle": "www.tmgm.com",
+   "zeit": "2026-11-06T13:46:55+00:00",
+   "tag": null
+  },
+  {
    "id": "dcd076bdcd907050",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Autozulieferer WKW an Investor verkauft - n-tv.de",
@@ -2927,162 +3079,6 @@
    "quelle": "Reuters",
    "zeit": "2026-11-06T11:24:28+00:00",
    "tag": null
-  },
-  {
-   "id": "c16e448dc1cc1511",
-   "k": "welt",
-   "titel": "Zwei Tote bei Busunfall mit Schülern an Bord in Frankreich",
-   "t": "Bei einem Busunfall in Frankreich mit Schülern an Bord sind zwei Menschen ums Leben gekommen. Insgesamt sind 40 Personen beteiligt.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.nzz.ch/panorama/zwei-tote-bei-busunfall-mit-schuelern-an-bord-in-frankreich-ld.10056290",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T11:22:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "32056b58c753dc7c",
-   "k": "finanzen",
-   "titel": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
-   "t": "Ökonomen erwarten nach dem Machtwechsel im US-Kongress mehr Planbarkeit für Unternehmen, befürchten aber eine Fortsetzung des Zollstreits.",
-   "e": "Für die exportorientierte deutsche Wirtschaft sind Zölle und US-Handelspolitik ein zentraler Faktor.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T11:17:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "1a7aeb47545078db",
-   "k": "finanzen",
-   "titel": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-   "t": "Der südkoreanische Leitindex KOSPI wurde nach einem Kurseinbruch von 8 Prozent gestoppt, Bitcoin stabilisierte sich bei rund 75.000 US-Dollar. Südkorea kündigte Maßnahmen zur Beruhigung der Börse an.",
-   "e": "Die Kursverluste hängen mit Sorgen über US-KI-Regulierung zusammen und greifen über den Atlantik hinaus auf Asien über.",
-   "s": 7,
-   "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T11:16:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "ebb1c80607f986e9",
-   "k": "finanzen",
-   "titel": "Greece approves 10% tax on crypto gains starting in 2027",
-   "t": "Griechenland hat eine Steuer von 10 Prozent auf Krypto-Gewinne ab 2027 beschlossen. Gewinne bis 500 Euro jährlich bleiben steuerfrei.",
-   "e": "Die Regelung betrifft Krypto-Anleger in Griechenland und ist ein Beispiel für die Besteuerung von Krypto in der EU.",
-   "s": 6,
-   "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T11:05:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "f0486ecd9c1b2905",
-   "k": "finanzen",
-   "titel": "US inflation too high; essential to get back to 2%: Fed's Williams - Wichita Eagle",
-   "t": "Fed-Vertreter Williams hält die US-Inflation für zu hoch und bezeichnet es als essenziell, sie wieder auf 2 Prozent zu senken.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WREloc18yMk5RYTlGMk9JQVNaZ2NkcG5kYlRHYWpMdkpLbWpQSjBQR0kwT1J5bXd0bmEydUNQbEhra0FHbHZvSzYxLWZKbmNVNnlGY2lrWEtqUThLeEg0YVFiQk9jX2xQbmR1bHVUZi1rQnhUMl9oM2Q0VQ?oc=5",
-   "quelle": "Wichita Eagle",
-   "zeit": "2026-11-06T11:00:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "1c4eff2631c4a44a",
-   "k": "finanzen",
-   "titel": "The Fed Begins Transition to Holding Fewer Policy Meetings a Year - Bloomberg.com",
-   "t": "Die US-Notenbank Fed beginnt den Übergang zu weniger geldpolitischen Sitzungen pro Jahr.",
-   "e": "Weniger Sitzungen würden den Rhythmus der Zinsentscheidungen verändern und die Kommunikation der Fed beeinflussen.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRaRUF0MGFNU0FqcjMxNFhoVDhjalFkZGIxUDNaRk9aWWFyaFhnckZxLUwwRjBKQ3FaM0VlbkRJUUdVZE03OGctOElYc25uMnFnejFrbG5aSXE1LTFXWDVsb3FOMlV5dGF0emNFbklwN2swOVMwa3lFMldkUU8zLVFIbXVCMHR5RFh2Sy1YQ3pER0VidVpVTHJMSy1ZNzl6cjZOMFFzd2RkT2FGMjVVOWVERUh4ZWpN?oc=5",
-   "quelle": "Bloomberg.com",
-   "zeit": "2026-11-06T11:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d5959d7165584fbe",
-   "k": "finanzen",
-   "titel": "US inflation too high; essential to get back to 2%: Fed's Williams - Idaho Statesman",
-   "t": "Fed-Vertreter Williams sagt, die US-Inflation sei zu hoch, und eine Rueckkehr zum 2-Prozent-Ziel sei unerlaesslich. Die US-Wirtschaft zeige sich widerstandsfaehig.",
-   "e": "Die Aussagen bekraeftigen, dass die Fed trotz Konjunkturstaerke bei ihrer restriktiven Linie bleiben koennte, was Zinserwartungen beeinflusst.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzE4NnoyZXBLVC1WTmhRNG42T2lKZC1tbkZmajF5RlA1MlZSLVZpQkhRcU1oM09WUTdiWmVaREpUZGRTaU5BM3BwdnZWRkQwdGIyQ0hlcGY2YUVfcTJZbFV6RlE2NFJSdnVXNnVJcWZsbUt2Sml3aTlLeFVubnFMWGE3aTZDdw?oc=5",
-   "quelle": "Idaho Statesman",
-   "zeit": "2026-11-06T10:55:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "13659eed2f80e29b",
-   "k": "nrw",
-   "titel": "Top-Ökonomin aus Dortmund geht in die USA: Vom Stadtgymnasium bis nach Washington - Ruhr Nachrichten",
-   "t": "Eine Oekonomin aus Dortmund wechselt nach Washington.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnN3OHJHUVFaV3plZGZKT3ZPYUJjUjhrRkZ4TldiaDR3c2JpT0JIdjV4ODRSX3BCd1ZmeTF5MGdFRXFhTV9zXzhqRC1zRkw0Z01XMmFFejltakR3Vm1YMGJ5OW1nVk50RlRQVGZBLTZMRThHNV9OYktVZEpLclg2SVpLdjI0UTN6bjg4V2VBa3BpTmMzaUwwdFhXRjVxajVIWi13WGdZLVNwLVlpcWkySmU0NC04aDZZa3ZGbGxEcm0yVURDSklKeTBkc284dU5ET29FeWpWZndibWtWQjY0T0xTd25kWWp1NTVCek5YQVA?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-06T10:52:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "f97ac2f1a53d33cf",
-   "k": "deutschland",
-   "titel": "Deutschlands größter Wurst-Hersteller schließt Werk – 230 Mitarbeiter stehen nun vor einer Entscheidung - Merkur",
-   "t": "Ein grosser Wurst-Hersteller schliesst ein Werk, 230 Mitarbeiter muessen sich nun entscheiden.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBUb3FsVkRlMHRBdGVrdWtyamNqeHdrRmpVdlRHOVdVNHNEaDhmWGtRZEgzUnJZUm4yeVJWc2FzdVNTN1VCUWVzeGE0U05TTnh2SVN2ODBWWHJCcS15WFdsVTFhUGhSVVZjbWR3NnVPSXdEbjZ4NjlreFl5djY1aW9tb0tBRzJuM1FGd3VWM2ZwTHk0c3JaUk53M1hoOFhIRFRQMXFIaFBFd0czT0RwQTJybEk1T3NUaVRocDREZ0o?oc=5",
-   "quelle": "Merkur",
-   "zeit": "2026-11-06T10:49:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c67340e687ba708",
-   "k": "finanzen",
-   "titel": "„Die Sorgen im KI-Sektor sind auf jeden Fall begründet“",
-   "t": "Der Nasdaq 100 verliert einen Tag nach der US-Wahl 6,36 Prozent. Als Grund werden Sorgen im KI-Sektor genannt.",
-   "e": "Ein Einbruch dieser Groessenordnung im Nasdaq 100 ist ein deutliches Signal fuer den Stellenwert der KI-Werte an den Maerkten.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/video6aedac85320931eb80f5bea8/ausverkauf-an-der-wall-street-die-sorgen-im-ki-sektor-sind-auf-jeden-fall-begruendet.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T10:48:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "0cbaee46e8031668",
-   "k": "welt",
-   "titel": "Frankreich: Der einsame Präsident – diese Alleingänge kosteten Macron das Vertrauen",
-   "t": "In Frankreich kommt es zu Ausschreitungen und Streiks. Praesident Macron verliert laut Berichten zunehmend Rueckhalt, sechs Monate vor Ende seiner Amtszeit.",
-   "e": "Die Lage in Frankreich beeinflusst die politische Stabilitaet in der EU.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/frankreich-welche-alleingaenge-macron-das-vertrauen-gekostet-haben/100264909.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T10:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ca66b760a086f9ed",
-   "k": "welt",
-   "titel": "Haft für Aktivisten: Pekings langer Arm reicht auch nach Macau",
-   "t": "In Macau wird der frueliere Abgeordnete Au Kam San zu zwoelfeinhalb Jahren Haft verurteilt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/demokratieaktivist-au-kam-san-in-macau-zu-haftstrafe-verurteilt-accg-201658240.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T10:47:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "2ada56a303cf8d83",
-   "k": "finanzen",
-   "titel": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-   "t": "Die suedkoreanische Krypto-Boerse GOPAX stellt Handel, Einzahlungen und Standardauszahlungen nach einer Hacking-Drohung ein. Vermoegenswerte werden in Cold Storage verlagert.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T10:47:33+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,12 +3091,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3145,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "CNBC Finance",
@@ -3195,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "Google News NRW",
