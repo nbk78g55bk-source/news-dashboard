@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T11:01:27.582060+00:00",
+ "aktualisiert": "2026-11-07T13:01:23.734064+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.912 $",
-   "delta": -0.12706963078944347
+   "wert": "75.828 $",
+   "delta": -0.17800720540307907
   },
   {
    "name": "Ethereum",
-   "wert": "2.245 $",
-   "delta": 0.4533698058547262
+   "wert": "2.239 $",
+   "delta": 0.11953013482703768
   },
   {
    "name": "Gold",
@@ -84,6 +84,198 @@
   ]
  },
  "items": [
+  {
+   "id": "54d5b47462d54f67",
+   "k": "finanzen",
+   "titel": "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "t": "Berkshire-Hathaway-Aktien steigen deutlich, während die Wall Street unter KI-Sorgen nachgibt. Die Aktie liegt laut Bericht im laufenden Jahr vor dem S&P 500.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-07T12:49:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "a88ef76403a87643",
+   "k": "deutschland",
+   "titel": "Lisa kam nie in der Schule an – Mehr als 140 Polizisten suchen 13-Jährige in Berlin",
+   "t": "Die 13-jährige Lisa aus Berlin wird seit Tagen vermisst. Die Mordkommission ermittelt, und mehr als 140 Polizisten und Spezialkräfte sind im Einsatz.",
+   "e": "Der Fall ruft Erinnerungen an den Fall Rebecca Reusch wach, was die öffentliche Aufmerksamkeit erhöht.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/article6aef0eab2b623439ad2e5d15/seit-dienstag-vermisst-lisa-kam-nie-in-der-schule-an-mehr-als-140-polizisten-suchen-13-jaehrige-in-berlin.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T12:48:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "8413eb7e1c7d2e38",
+   "k": "deutschland",
+   "titel": "Emissionshandel: Chemieindustrie ruft nach dem Kanzler",
+   "t": "BASF-Chef Markus Kamieth und Covestro-Vorstand Markus Steilemann fordern in einem Brief Nachbesserungen beim Emissionshandel und warnen vor Deindustrialisierung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionshandel-chemieindustrie-ruft-nach-dem-kanzler-accg-201659408.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T12:47:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "45e8a582ae64d1bd",
+   "k": "usa",
+   "titel": "California prosecutors slam Newsom's death row commutations, accuse governor of putting 'politics over people'",
+   "t": "Gouverneur Newsom hat 548 Todesurteile in Haftstrafen umgewandelt. Kalifornische Staatsanwälte und Polizeigewerkschaften kritisieren den Schritt scharf.",
+   "e": "Die Umwandlung einer so großen Zahl von Todesurteilen auf einmal ist in den USA ungewöhnlich und hat eine politische Debatte über Strafjustiz ausgelöst.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/california-prosecutors-slam-newsoms-death-row-commutations-accuse-governor-putting-politics-over-people",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-07T12:33:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "c7650101ff152af1",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Selenskyj nennt Trumps Friedensplan gefährlich",
+   "t": "Selenskyj bezeichnet Trumps Friedensplan als gefährlich. Die Zahl der Toten in einem ukrainischen Hilfszentrum ist auf 55 gestiegen, Russland schickt eine Delegation nach Abu Dhabi.",
+   "e": "Die Diskussion über einen US-Friedensplan zeigt Differenzen zwischen Kiew und Washington und betrifft die europäische Sicherheitsordnung.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-nennt-trumps-friedensplan-gefaehrlich/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T12:29:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e8f77dd8a34e5943",
+   "k": "nrw",
+   "titel": "Parteichef bei Ruhr-SPD: Klingbeil: Ringen mit Union hart um Kompromisse",
+   "t": "Die Ruhr-SPD fordert ausgewogenere Reformen und einen besseren Umgang in der Koalition. Parteichef Lars Klingbeil verteidigt das Ringen mit der Union um Kompromisse.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/parteichef-bei-ruhr-spd-klingbeil-ringen-mit-union-hart-um-kompromisse/100268082.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T12:24:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "1caba7f9a85397db",
+   "k": "usa",
+   "titel": "Nach Entlassung von Stabschefin Wiles - Trump rückt rechten Hardliner Stephen Miller ins Zentrum des Machtzirkels - Deutschlandfunk",
+   "t": "Nach der Wahlniederlage der Republikaner macht Trump seinen Berater Stephen Miller zum Stabschef und ersetzt damit Susie Wiles.",
+   "e": "Der Wechsel stärkt den Hardliner Miller im engsten Machtzirkel des Weißen Hauses, während in der eigenen Partei Kritik laut wird.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEZMZ3FXWjgwbWRtVnNEeW5GRS1ZM1VBZ0IwdFBRZjFjQjUtYkhDQnVMbzl5YUJ6WXRaTzJkSDZ4UG9YTUV0a1FhQU83VkJYVk84b2Z4V2VDNGdnb3l5M3ZaU081dVRjYTBDZkxPX3owWU10Z2FEbnZQd3NGZ0c2Nzh4Nzl5WXVzYzh3N1lSUFJaOEp4MkptUVl0NF9Bc05FUFNWTlZIOEVGVmc1TXFGWURUeFg?oc=5",
+   "quelle": "Deutschlandfunk",
+   "zeit": "2026-11-07T12:22:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "34fbf6f46b1335ff",
+   "k": "deutschland",
+   "titel": "CDU stürzt weiter ab und ist fast gleichauf mit Linken – AfD mehr als doppelt so stark",
+   "t": "In einer neuen INSA-Umfrage liegt die CDU in Thüringen nur noch einen Punkt vor der Linken, die AfD ist mehr als doppelt so stark.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/videos/video6aef1588a389bc337cfc909b/insa-umfrage-zu-thueringen-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T12:15:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "f240e9cca3db0241",
+   "k": "finanzen",
+   "titel": "Start-ups: Nur Los Angeles zieht mehr Geld an: Warum München Europas Rüstungs-Hub ist",
+   "t": "Rüstungs-Start-ups in München haben bis Oktober fast dreimal so viel Kapital eingesammelt wie im Vorjahr.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/ruestungs-start-ups-nur-los-angeles-zieht-mehr-geld-an-als-muenchen/100266155.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T12:15:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "2db5ca7920cf27d9",
+   "k": "welt",
+   "titel": "Arzneimittelbehörde prüft: Verdacht auf Tumorbildung bei Kindern durch Gentherapie",
+   "t": "Die US-Arzneimittelbehörde prüft Krebsfälle bei Kindern nach der Gentherapie Zolgensma. Vermutlich spielen die eingesetzten Viren eine Rolle.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/arzneimittelbehoerde-prueft-verdacht-auf-tumorbildung-bei-kindern-durch-gentherapie/100268087.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T11:44:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "7d4c8731b522b430",
+   "k": "deutschland",
+   "titel": "Krawalle in Frankfurt: „Keine Ahnung, warum man das immer auf die Herkunft schieben muss“",
+   "t": "Nach den Halloween-Plünderungen in Frankfurt wird über Herkunft und Zugehörigkeit debattiert. Jugendliche aus Zuwandererfamilien berichten von ihren Erfahrungen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/gesellschaft/menschen/zeugen-der-halloween-krawalle-in-frankfurt-jugendliche-berichten-von-der-eskalation-accg-201654411.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T11:40:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "fad9a45d103d7546",
+   "k": "welt",
+   "titel": "Someone Is Causing Chaos Across Europe. The Question Is: Who?",
+   "t": "In Europa häufen sich Bombendrohungen und Hackerangriffe, die Flugzeuge umleiteten und Redaktionen zur Evakuierung zwangen. Die Urheber sind noch unbekannt.",
+   "e": "Die Serie betrifft Flugsicherheit und kritische Infrastruktur in mehreren Ländern gleichzeitig, was auf eine koordinierte Aktion hindeuten könnte.",
+   "s": 7,
+   "link": "https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-07T11:24:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5080131e9563188e",
+   "k": "deutschland",
+   "titel": "Kleinflugzeug auf A2 bei Magdeburg verunglückt",
+   "t": "Ein Kleinflugzeug ist auf der A2 bei Möser nahe Magdeburg verunglückt. Die Ursache ist noch unklar, die Polizei bittet Zeugen um Hinweise.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/polizei-feuerwehr-einsatz-tote-bfu-,a-zwei-flugzeug-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T11:14:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "141f769fa81ba4a4",
+   "k": "welt",
+   "titel": "US sanctions Canadian money-exchange firms over Iran ties",
+   "t": "Die USA haben kanadische Geldwechselfirmen wegen Verbindungen zum Iran sanktioniert. Zugleich werden bis zu 20 Millionen Dollar für Hinweise zum iranischen Atomprogramm angeboten.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-07T11:10:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "4d3867fb81966647",
+   "k": "finanzen",
+   "titel": "Lagarde geht vorzeitig im Februar: Poker um EZB-Spitze - Panorama - SZ.de - SZ.de",
+   "t": "Christine Lagarde verlässt die EZB vorzeitig im Februar. Die Eurogruppe hat Pablo Hernández de Cos und Klaas Knot als Kandidaten für die Nachfolge benannt.",
+   "e": "Die Neubesetzung der EZB-Spitze ist für Zinspolitik und Euro-Stabilität von großer Bedeutung, da Lagarde regulär bis 2027 im Amt wäre.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHFpRXZxUXpSNzNQWk9ZN1FHM2hJNjdtQ3hYZW1JSndSTlZ1V21yRXN2aXdmaDRCcU9wdHdudUx5STB2VlA2eDZMc1VqdEptYVVfbGdBdWl4QWo2TF8ydjdHQTI1WFF5MWs2QXZGdmRqMVI0bkFpVmlzY1pSeGdqTWMzRlRCbTQ4cGFMcDFjby1iUW05RXhKWVpnSWJ2NU14cmk0?oc=5",
+   "quelle": "SZ.de",
+   "zeit": "2026-11-07T11:08:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "cb19b5058d3373f0",
+   "k": "nrw",
+   "titel": "Iserlohn: Gemeinsames Fest aller Schützenvereine? - IKZ-Online",
+   "t": "In Iserlohn wird diskutiert, ob alle Schützenvereine gemeinsam ein Fest feiern sollen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3dZY1pyMVdhVFJiU2pvcGIyM2ZnOWlWYmdNRmhWZ2lqenhPTVQtdmlDSXMwZWFnNlRscDMwcC04NE15cXVTUWxZUDAzTm1vWVhpbFp3Si0yaDZ0Szh5LV8td0ZDRmppQlBCWkF1VVF2ZkU0U1ZlVDdvcHJVTW42V1BEN3hwSno4LWRwcHp6enM0UlZnX1VXd1psR1o2VU41ZElWem1YQ3JnOHJrTDJnMWtUbw?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-07T11:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "295a95b5044602c0",
    "k": "finanzen",
@@ -253,6 +445,18 @@
    "tag": null
   },
   {
+   "id": "75b99c9764c04acf",
+   "k": "usa",
+   "titel": "„Hier schießt jemand“ – Mann stürmt Citibank-Campus, Mitarbeiterin getötet",
+   "t": "Auf dem Citibank-Campus nahe Tampa in Florida hat ein Mann eine Mitarbeiterin erschossen. Ein Sicherheitsmann stoppte den Angreifer, der später im Krankenhaus starb.",
+   "e": "Der Vorfall betrifft ein großes Finanzinstitut und wirft Fragen zur Sicherheit an Unternehmensstandorten auf.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6aeedf77a389bc337cfc8caa/wegen-2500-dollar-schulden-hier-schiesst-jemand-mann-stuermt-citibank-campus-mitarbeiterin-getoetet.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T09:20:04+00:00",
+   "tag": null
+  },
+  {
    "id": "ddc8938b7d714b9d",
    "k": "usa",
    "titel": "Suspicious prediction market activity seen before election poll release: NYT",
@@ -274,6 +478,18 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-viele-stadtwerke-wollen-ihre-gasnetze-stilllegen/100268074.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-07T09:08:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "a6cc57effa939648",
+   "k": "welt",
+   "titel": "190 Kinder getötet – Sektenanführer zu 200 Jahren Haft verurteilt",
+   "t": "In Kenia wurde der Anführer einer Weltuntergangssekte wegen des Mordes an 190 Kindern zu 200 Jahren Haft verurteilt. Ermittler hatten mehr als 400 Leichen entdeckt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/video6aeedfb576360e13d64a8ca1/kenia-190-kinder-getoetet-sektenanfuehrer-zu-200-jahren-haft-verurteilt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T09:07:38+00:00",
    "tag": null
   },
   {
@@ -778,6 +994,18 @@
    "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-us-justizministerium-will-klage-zu-kaliforniens-wahl-zurueckziehen/29669594.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-07T04:16:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0b07cdfade7b6dae",
+   "k": "welt",
+   "titel": "F.A.Z. MACHTPROBE: Wie Satelliten den Krieg in der Ukraine entscheiden",
+   "t": "Die kurzzeitige Drosselung des Starlink-Dienstes hat der Ukraine schwer zugesetzt. Es wird gefragt, ob weitere Schritte aus den USA folgen könnten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/elon-musk-kapituliert-die-ukraine-ohne-starlink-201659466.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-07T04:05:00+00:00",
    "tag": null
   },
   {
@@ -2569,6 +2797,18 @@
    "tag": null
   },
   {
+   "id": "15b704d0bcf5980c",
+   "k": "finanzen",
+   "titel": "Fed-Mitglied Musalem: Die Menschen sind angesichts der Inflation auf dem aktuellen Niveau weiterhin besorgt - TradingView",
+   "t": "Fed-Mitglied Musalem sagt, die Menschen seien angesichts des aktuellen Inflationsniveaus weiterhin besorgt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uTW1fSzFWT2NYaWpLbXhZUkhFenpBcmFjZURBY0FjZXNiMnAyY0NHWG9nUG9yT1ZvdUxabVB3cjlnUjRBU2Z1ZGQ4WDJCV3NGZHB0THNDaFRyc1RTVWFCNy11bUVHZTVxU3c?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-06T15:16:35+00:00",
+   "tag": null
+  },
+  {
    "id": "37f20128fc27f1c8",
    "k": "nrw",
    "titel": "Einberufung Landesparteitag Dezember 2026 : My Site - Die Linke Nordrhein-Westfalen",
@@ -2843,246 +3083,6 @@
    "quelle": "n-tv.de",
    "zeit": "2026-11-06T14:43:00+00:00",
    "tag": null
-  },
-  {
-   "id": "3fc73aec92a4c76c",
-   "k": "finanzen",
-   "titel": "EZB-Zinsentscheid: EZB hebt Leitzins auf 2,25% an - Finanz und Wirtschaft",
-   "t": "Die EZB hebt ihren Leitzins auf 2,25 Prozent an.",
-   "e": "Eine Zinserhoehung im Euroraum wirkt auf Kredite, Anleihen und Bewertungen an den Boersen, also auf nahezu alle Anlageklassen.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkVLdWxnMW5KLTJoUXRndEF4Wk1DTzJuYjZORTZPYzdETjgwbkU2VEowVGFFaHRwZ1hwUjhyLW9wRlpSYW5xSGp1QXpwOHM4MG9YWkswWE83aTJEQ2ZrbjI1VWw3QmVOQzVETjFLNWQ3alJ3WmlKem1oZzNUVmxRbFdibVhyZw?oc=5",
-   "quelle": "Finanz und Wirtschaft",
-   "zeit": "2026-11-06T14:41:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "c29f89a81ee3dbbb",
-   "k": "deutschland",
-   "titel": "Insolvenz von „Liberty Woman“: Diese Filialen führt das Unternehmen in Bayern - Augsburger Allgemeine",
-   "t": "Die Modekette „Liberty Woman“ hat Insolvenz angemeldet. Berichtet wird über die Filialen, die in Bayern weitergeführt werden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTdXSDdvYTVybW1FRXpVNzRHeUg2ekcwMzZWZmNFQWhjam5iVUxuSjNPeF9peE9tOTZqWjJDa3lHczQ1WkhkQjMxYkNxY2ZnMnNkeEdoQVU3TFNZaERqZEEwdktkVWJ1bHF0RjcxcFUzeW4tMG1FVGYzRjJacXpKR0ZSZU41Yzg1TFJPdjZCeDE0eHhqZ21FTGw5S3NjUFgwTmdFUVRNTTgtUkJ6R2VfTUl1cHlqQ3lnN3g2Ug?oc=5",
-   "quelle": "Augsburger Allgemeine",
-   "zeit": "2026-11-06T14:40:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "479aa6530db653f4",
-   "k": "deutschland",
-   "titel": "Anschlagsversuch von Leipzig: Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
-   "t": "Nach einem versuchten Drohnenangriff auf den Flughafen Leipzig fahndet das BKA nach einer Person auf einem E-Bike. Zeugen werden gesucht.",
-   "e": "Der Fall berührt die Sicherheit kritischer Infrastruktur; die Ermittlungen laufen.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/anschlagsversuch-von-leipzig-drohnenangriff-ermittler-fahnden-nach-verdaechtiger-person/100267957.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T14:38:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "71e2c0756e832f86",
-   "k": "welt",
-   "titel": "USA: Nach Treffen mit russischem Gesandten: Trump stellt Friedensabkommen in Aussicht",
-   "t": "Nach einem Treffen mit dem russischen Gesandten im Weißen Haus stellt Trump eine baldige Einigung zur Beendigung des Krieges in Aussicht. Genaue Inhalte nannte er nicht.",
-   "e": "Ohne konkrete Inhalte bleibt offen, was eine Einigung für Sicherheits- und Sanktionsfragen in Europa bedeuten würde.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/video/politik/usa-nach-treffen-mit-russischem-gesandten-trump-stellt-friedensabkommen-in-aussicht/100267888.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T14:38:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e21587633a6a901b",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Um Falschfahrer zu stoppen: Lkw stellt sich auf Autobahn quer und blockt - tagesschau.de",
-   "t": "In NRW hat ein Lkw einen Falschfahrer auf der Autobahn gestoppt, indem er sich quer stellte.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzJUQy01VmZxXzNNMlNMM1Z1ZGl3MWNNc3haUk5yMl9VS1AxTGVHRUtUREJEN1BOUjk5QmNDV096ckdRQ3RyQnhXMjJyaGtOYTVlQktQdU4xVG5YbTlQWkhGUkJDRzBVRlJKLTBuZnE4NzZ0cE5xc2x5Tjc3NFNZNTNjWGFPVHVPcTdpcXNjeDAxTTlvUW9fMzh3QnR3R1RBMWVxenQtN2ZKMVVNMUdDaVAzYUxXdGcxdDJLcXYxNVlMZnBDUEw1UEwtNHFBdS1oUUdOdTN2Q1ozRVFTd0E?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T14:35:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "95fde437d3953491",
-   "k": "deutschland",
-   "titel": "Merz’ Kapitulation auf Raten",
-   "t": "Die CSU-Politikerin Aigner gilt laut Bericht als wahrscheinliche Kandidatin der Union für das Amt des Bundespräsidenten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/plus6aec547deca9cecdd5d479d3/aigner-als-kuenftige-praesidentin-merz-kapitulation-auf-raten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T14:34:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "2668d5be205be881",
-   "k": "finanzen",
-   "titel": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-   "t": "Thailand will die Krypto-Börse Bitget blockieren; die geplante lokale Übernahme ist ungewiss.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-06T14:33:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "16c077ca0531e6e0",
-   "k": "finanzen",
-   "titel": "Hassetts Aussage aus dem Weißen Haus: Fed wird Inflationsdaten genau beobachten - MarketScreener Schweiz",
-   "t": "Hassett äußerte sich im Weißen Haus: Die Fed werde die Inflationsdaten genau beobachten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFoxcFh3OWpQS0hReUVZcGRoUTlHbUM5ajUxR1dxX2huSU8yNlNiN2xQOUpTQ19JQUFxX1J5U3JRdFFXNklxQ3JiRjZqRkE4a2VJa1RBV1JMbk1Td2VsSDBZWFlodl94NWxiVzZNTUlHSHY3bkZ6ejNoazB1enRka21ISWZldnJaeGtzcEtpQ1NvdjJRb2J5bEVUTWViUjhlQ0FnOG4zc0J5VndkRjhqd1JlOS1nVFNrdHFjWkxCOUUza0tMUDNlM3lXYWRCOElmaDRwS2F2NExBMEhOMlE?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-06T14:32:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "3e898d867825578e",
-   "k": "finanzen",
-   "titel": "What Democrats’ US midterm sweep means for the CLARITY Act",
-   "t": "Nach dem Wahlsieg der Demokraten im Kongress steht der CLARITY Act vor einer neuen Prüfung, unter anderem zu Verbraucherschutz und Ethik.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T14:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f8e2641aa64b67ef",
-   "k": "finanzen",
-   "titel": "Christine Lagarde: EZB-Präsidentin geht vorzeitig – Rennen um Nachfolge startet - Manager Magazin",
-   "t": "EZB-Präsidentin Christine Lagarde verlässt ihr Amt vorzeitig, das Rennen um ihre Nachfolge hat begonnen.",
-   "e": "Die Personalie bestimmt mit, wie die Zinspolitik im Euroraum in den kommenden Jahren ausgerichtet wird.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTUF6Y3ZSODFnWE9fUTZJVnBfVDFlNi1TRHBJeXdEYndHVUVONEx0OGM0cmk0b0pIT1pQVkVGLXlYRWtHUGRIWHRyam02VkhzdWxRTTAzbTZpaWNwVzZ1bnJ6S2RoNjh3c2ZxeWVDczg5NnNfTm5oTER1Y3JnU2k5Y3dCWjFMTm5jS05nYTRQbndqZkpUQ2M2Tm1McW8wMk55NG1WRkJmSjJlLXQwNzJDSXJOSk0yeGFVTlZOVk9Ua3BSY0d2VHNDdHdpdFNlZkozNTF2ekVLRWNYbVdpcVNVazZIQTlNQ2RpWW1jQWQxLUpQZVFkcDJxdXFR?oc=5",
-   "quelle": "Manager Magazin",
-   "zeit": "2026-11-06T14:28:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "32328600dab5d556",
-   "k": "deutschland",
-   "titel": "Bundestag beschließt härtere Strafen bei Einsatz von K.O.-Tropfen",
-   "t": "Der Bundestag hat härtere Strafen für den Einsatz von K.-o.-Tropfen beschlossen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1679230.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T14:20:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "a5223aa7ad4e1f85",
-   "k": "welt",
-   "titel": "Politische Krise in Paraguay spitzt sich nach Bankenpleite zu",
-   "t": "Nach einer Bankenpleite spitzt sich in Paraguay die politische Krise zu. Präsident Peña wollte mit einem Rücktritt einem Absetzungsverfahren zuvorkommen, der Kongress spielt jedoch nicht mit.",
-   "e": "Der Fall wirft Fragen zur Aufsicht im Finanzsektor kleinerer Länder auf.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1679232.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T14:20:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "d301e5e3e3b69683",
-   "k": "finanzen",
-   "titel": "Börsenwoche: Die Profiteure der Midterms",
-   "t": "In der Midterm-Woche standen die US-Aktienmärkte deutlich im Minus, während Europa laut FAZ anders abschnitt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/midterm-wahlen-wie-sp-500-und-europa-reagieren-201659040.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-06T14:20:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "f653b484600865ab",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Essener Polizist verunglückt mit Dienstwagen - tagesschau.de",
-   "t": "Ein Polizist aus Essen ist mit einem Dienstwagen verunglückt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUjR3enNZZTk0akNoV3FlM1A0UVJfbEp3NlhtTVpwQlV4bE5LQ2laWEZJNTFMQ3Etc2p2WElHd3FtU3F3dWRNeEtVQTQtS3hKdGxJdk1wMHZPRzR6Tzh1V3VScjdZQlNTMVdqNmFYR25UdUdiQ0t6N2c2TFdvZnpoRnF1LWZKZ29DS3djb0d2ZXBPbTNlWWpkUkh0bGNTVzdvZ2pQeUcwNVlzM1p5TjBHRVIyLXk2RzlSR05NZUg1RXFESEVvYS1tOWVDMFVlQjI5VWJ2bUIyaw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T14:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "93c811c679a2be48",
-   "k": "nrw",
-   "titel": "Produktion von grünem Stahl bei Thyssenkrupp Steel verzögert sich",
-   "t": "Die Produktion von grünem Stahl bei Thyssenkrupp Steel verzögert sich. Der Staat unterstützt den Umstieg mit zwei Milliarden Euro.",
-   "e": "Ein Großprojekt mit erheblicher Staatsförderung kommt nicht planmäßig voran, was Zeitplan und Kosten der Transformation betrifft.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6aeddaac47b5fce02f87a4d9/zwei-jahre-verspaetung-produktion-von-gruenem-stahl-bei-thyssenkrupp-steel-verzoegert-sich.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-06T14:05:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "b970254d5317d17c",
-   "k": "finanzen",
-   "titel": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-   "t": "Nigeria hat neue Lizenzregeln für Krypto-Dienste erlassen und algorithmische Stablecoins verboten. Emittenten müssen Reserven halten.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T13:57:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "537ad04e7d9c53a1",
-   "k": "nrw",
-   "titel": "Vom Traktormotor zum Panzer: Konzern aus NRW übernimmt Rüstungsfirma - Soester Anzeiger",
-   "t": "Ein Konzern aus NRW übernimmt laut Soester Anzeiger eine Rüstungsfirma.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM3NTVUFJOFNuNU1RMV84djVaQWVwLUlSS2JaM1gzclhhMzR2c0dvajRJNGRxenVLbjJUT05McE1DTUV1czliZFo1Ym9idkVFWmY2eFRfNHlURnJEOGJXMG95QlJudnc3Q1hkdW9RVFNYc2ZSdF94d1p4WmxiaUZZMWZuVVZlcE9haldFOXlsSkg4RnhoVXV0LWlwUkxIWjNBSUF2ZnhHMzRLd2NRNWhVTzBDS3gxX2w3TW9uc0lyNjdtWXZDWjhuaDV2WQ?oc=5",
-   "quelle": "Soester Anzeiger",
-   "zeit": "2026-11-06T13:57:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "cba88af0a9e752c1",
-   "k": "finanzen",
-   "titel": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
-   "t": "Die Scottish Mortgage Investment Trust hat ihre Tesla-Beteiligung vollständig verkauft und ihren SpaceX-Anteil auf 11,1 Prozent des Vermögens reduziert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T13:51:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "40a93f6c06f6c136",
-   "k": "finanzen",
-   "titel": "BoE-Chefökonom Pill: Leitzins dürfte unverändert bleiben oder sogar sinken, falls das Wachstum im nächsten Jahr stagniert - www.tmgm.com",
-   "t": "BoE-Chefökonom Pill sagt, der britische Leitzins dürfte unverändert bleiben oder sogar sinken, falls das Wachstum im kommenden Jahr stagniert.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXdiRVIydTF3MnE5cjRMSjZGMUpZZGgtalpwMDZaS1ctMDJBeW1XN09LTktUUnNnNzM3NjJjNW5BTEo1UVB2VzU0SHNGMVRFQkl3aXBIUXd3bndvZ21FOHpxcU5hRFVEdTZtXzRwaHZNeW5oOEhtNFNQRDd6T0pZcHVzSG5xYUYxTU8wTUZMUTNDb3RZOXNLSzF5LU1HLWl4QndOOGZpOXM2VEltOTd3UnFnMWxlSHRUaGs2ZjNVMUFoMm45RFJtLVllLWh6YVNQNVZpdXhQRlY?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-06T13:46:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "dcd076bdcd907050",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Autozulieferer WKW an Investor verkauft - n-tv.de",
-   "t": "Der Autozulieferer WKW aus Nordrhein-Westfalen wurde an einen Investor verkauft.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1pPMmRtelE3RzB2UFU0dmJyUDhTSkNRdmMtV3c1M3VPaUM2VHBnaTdJbjRKM1JrWm9vNGtGejBMbEtxS1g2R21TSjdKZlhITllTb1RvODd3OFZSQl9EekFtaTRnOFEwcFVXcm9uMXcyUlZCVW4yeDdLUkV3NWdseVcxVno3NF8wOXppNXQtdWhMcWk0RW5GQjFUZkdwWVRRQUZRY242UzE2QQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T13:44:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,7 +3115,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 23
    },
    {
     "name": "FAZ",
@@ -3125,7 +3125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "NZZ",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "MarketWatch",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "WSJ USA",
@@ -3180,7 +3180,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 25
+    "n": 22
    },
    {
     "name": "Cointelegraph",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "Google News NRW",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 33
+    "n": 32
    }
   ],
   "markt": [],
