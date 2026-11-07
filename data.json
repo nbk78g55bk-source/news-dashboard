@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T03:01:14.636194+00:00",
+ "aktualisiert": "2026-11-07T05:01:12.589709+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.973 $",
-   "delta": -0.1562431641064972
+   "wert": "75.832 $",
+   "delta": 0.1793969794884421
   },
   {
    "name": "Ethereum",
-   "wert": "2.245 $",
-   "delta": 0.228318343581646
+   "wert": "2.242 $",
+   "delta": 0.5061491082343513
   },
   {
    "name": "Gold",
@@ -84,6 +84,186 @@
   ]
  },
  "items": [
+  {
+   "id": "2106d5e313b9e980",
+   "k": "deutschland",
+   "titel": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
+   "t": "Nach dem AfD-Leak fordert der Landesverband Mecklenburg-Vorpommern, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T05:00:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "7128b2f9ef292a7d",
+   "k": "finanzen",
+   "titel": "KOMMENTAR - Die Reaktion der Wall Street auf die Zwischenwahlen zeigt: Der KI-Boom am Aktienmarkt ist jetzt in Gefahr",
+   "t": "Nach den US-Zwischenwahlen ist die Wall Street deutlich eingebrochen, ein Kommentator sieht den KI-Boom am Aktienmarkt gefährdet.",
+   "e": "Ein Kursrückgang bei den KI-Titeln wäre relevant, weil der Boom einen großen Teil der jüngsten Gewinne im US-Aktienmarkt getragen hat.",
+   "s": 6,
+   "link": "https://www.nzz.ch/meinung/die-reaktion-der-wall-street-auf-die-zwischenwahlen-zeigt-der-ki-boom-am-aktienmarkt-ist-jetzt-in-gefahr-ld.10056286",
+   "quelle": "NZZ",
+   "zeit": "2026-11-07T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5b6258bc0e4822b0",
+   "k": "finanzen",
+   "titel": "350 Millionen Franken verschwunden: Serbiens Behörden schliessen Bank und nehmen deren Chef mit Nähe zu Vucic fest",
+   "t": "In Serbien wurden eine Bank und ihr Chef festgenommen, nachdem rund 350 Millionen Franken verschwunden sein sollen. Die Chefin der Nationalbank steht unter Druck.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/international/350-millionen-franken-verschwunden-serbiens-behoerden-schliessen-bank-und-nehmen-deren-chef-mit-naehe-zu-vucic-fest-ld.10054909",
+   "quelle": "NZZ",
+   "zeit": "2026-11-07T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1da1d628570a61e8",
+   "k": "usa",
+   "titel": "Die gemässigten Demokraten feiern ein Comeback – und treffen im Kongress auf Linke, die radikalen Wandel wollen",
+   "t": "Nach den Midterms stärken die moderaten Demokraten ihre Position, die Linke erzielt ebenfalls Erfolge. Es zeichnen sich Richtungskämpfe im Kongress ab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/comeback-der-mehrheitsdemokraten-gemaessigte-praegen-neuen-us-kongress-ld.10056495",
+   "quelle": "NZZ",
+   "zeit": "2026-11-07T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0b14da4743ea370b",
+   "k": "usa",
+   "titel": "Tesla, SpaceX oder die Krypto-Industrie: Diese Firmen dürften sich die Demokraten jetzt vornehmen",
+   "t": "Mit ihrer Mehrheit im Kongress können die Demokraten Untersuchungen gegen Trumps Umfeld anstoßen. Genannt werden Tesla, SpaceX und Unternehmen der Krypto-Branche.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/wirtschaft/tesla-spacex-oder-die-krypto-industrie-diese-firmen-duerften-sich-die-demokraten-jetzt-vornehmen-ld.10054664",
+   "quelle": "NZZ",
+   "zeit": "2026-11-07T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f1cf82329fd2e36f",
+   "k": "welt",
+   "titel": "Amerika sendet Warnsignale an Israel",
+   "t": "Trump kündigt an, die Militärhilfe für Israel zu beenden. Zudem gewannen israelkritische Kandidaten bei den US-Midterms, und der Vizepräsident fordert ein neues Verhältnis zu Israel.",
+   "e": "Die Entwicklung deutet auf eine Veränderung der traditionell engen US-israelischen Beziehungen hin.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/amerika-sendet-warnsignale-an-israel-ld.10055509",
+   "quelle": "NZZ",
+   "zeit": "2026-11-07T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "552ab614bd7e4480",
+   "k": "usa",
+   "titel": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+   "t": "Trump hat Stabschefin Susie Wiles entlassen und den Hardliner Stephen Miller zum neuen Stabschef gemacht, nach der Niederlage der Republikaner bei den Midterms.",
+   "e": "Die Personalentscheidung gilt als Signal an die Demokraten im neuen Kongress und als Schritt hin zu einem konfrontativeren Kurs.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-07T04:19:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "6b1131db75dec482",
+   "k": "deutschland",
+   "titel": "+++ Bundespolitik +++: Pistorius nach Protesten – Brauchen starke Streitkräfte",
+   "t": "Der Bundestag hat den ersten Teil der Führerschein-Reform beschlossen. Verteidigungsminister Pistorius äußert sich nach Protesten zu starken Streitkräften.",
+   "e": "Die Führerschein-Reform betrifft viele Autofahrer bundesweit, der Teil zur Bundeswehr ist Teil der laufenden Debatte über die Verteidigungsfähigkeit.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-pistorius-nach-protesten-brauchen-starke-streitkraefte/100137034.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T04:17:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0a4abb3da847cf46",
+   "k": "usa",
+   "titel": "+++ US-Midterms +++: US-Justizministerium will Klage zu Kaliforniens Wahl zurückziehen",
+   "t": "Das US-Justizministerium will seine Klage zur Wahl in Kalifornien zurückziehen. Republikanischer Senator Tillis wirft Verteidigungsminister Hegseth Inkompetenz vor.",
+   "e": "Der Rückzug der Klage markiert einen Kurswechsel in der Wahlrechtsauseinandersetzung nach den Midterms.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-us-justizministerium-will-klage-zu-kaliforniens-wahl-zurueckziehen/29669594.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T04:16:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "62098fa55e44f0b0",
+   "k": "welt",
+   "titel": "Geringe Erträge aus russischem Vermögen – EU muss wohl neue Schulden für Ukraine aufnehmen",
+   "t": "Die EU muss voraussichtlich neue Schulden aufnehmen, um der Ukraine eine Tranche von rund 46 Milliarden Euro zu gewähren, da die Erträge aus eingefrorenen russischen Vermögen gering ausfallen.",
+   "e": "Die Finanzierung der Ukraine über neue EU-Schulden berührt Haushalt und Anleihemärkte des Staatenbundes.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6aede7e6320931eb80f5c710/hilfszahlungen-geringe-ertraege-aus-russischem-vermoegen-eu-muss-wohl-neue-schulden-fuer-ukraine-aufnehmen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T04:01:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "d2bba8818dd85ea5",
+   "k": "deutschland",
+   "titel": "Bundespräsidentenwahl: Ilse Aigner ist die ungekürte Kandidatin - Kritik an Merz",
+   "t": "Ilse Aigner gilt als ungekürte Kandidatin für das Bundespräsidentenamt. Die Offizialisierung wird für Montag erwartet, die Grünen kritisieren den Kanzler.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ilse-aigner-ist-die-ungekuerte-kandidatin-kritik-an-merz/100268048.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T03:45:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "0b3e57555c961ceb",
+   "k": "nrw",
+   "titel": "Entscheidung gefallen: NRW streicht Pflichten in Schulen - RUHR24",
+   "t": "In NRW wurden Pflichten in Schulen gestrichen. Die Entscheidung ist gefallen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1diTi1vdWNZQzRaV3YwbmF3SnNvS3BhWldxVzZnMHNkRUdIOXNaZ2Q3bmhlQlB6M1luak5EUTI5Ni1hYVJwemJTOC1NZ3N2cWpWc0tyc2pqVl81NFh5bFIyS05XcTJQdWd3RC1PbFVMN0VsYjlCOXluSlhXVmdHWTFRTnZ0czVPMm5oWURta2N0ZFpSM2JPTDN5VTY5NjVOLWxZZjZVRG12dWxqeGRZUGhMaFpuTDBmQlNfTGZidzZJc2VLRUE?oc=5",
+   "quelle": "RUHR24",
+   "zeit": "2026-11-07T03:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ec2f0f499c09d917",
+   "k": "deutschland",
+   "titel": "„Keine Aufwuchsprobleme“ – Bundeswehr kann Personalbedarf wohl ohne Wehrpflicht decken",
+   "t": "Die Bundeswehr hat mit rund 190.000 Soldaten den höchsten Stand seit 13 Jahren. Verteidigungsminister Pistorius sieht keinen Bedarf für eine Wehrpflicht, wenn sich der Trend fortsetzt.",
+   "e": "Der Personalaufwuchs ist ein zentraler Punkt in der Debatte über Wehrpflicht und Sicherheitspolitik.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/article6aee8645a389bc337cfc89aa/boris-pistorius-keine-aufwuchsprobleme-bundeswehr-kann-personalbedarf-wohl-ohne-wehrpflicht-decken.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T03:35:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "361c1a60549436f1",
+   "k": "nrw",
+   "titel": "Nach Vorstoß in Düsseldorf: Wie steht es um Rauchverbote an Haltestellen in NRW-Städten? - STERN.de",
+   "t": "Nach einem Vorstoß in Düsseldorf wird über Rauchverbote an Haltestellen in NRW-Städten diskutiert.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLTFLSWhpS2EtNWFGR0lLRkhOLWxDWjNCTHo3VWQyQnBnREhKb0JQcmNtbGhGNDdyb2VYQTUxdVB6Q0FGRW1QOGNObHRSVWYtNXdnV2RPNXhITXBlZmx6TlE5ZDFIQVZlWFVnM2N5ckE0U3NNVVFRb09weEhsT19fUzYtQmEzN1hyVmNINEtvS0pWazY3eDYzLXpBNElPS0NTSXZZTWtYVUd2TEMxQkpSZmVDck1MR1RwVFZ3ZEV0U2s5UGkycmhFV0tUekpJNGNHakExQzY4NzRRbDNiMXFHV0JfeG5BRnBHb0dVdDNIVHhDS0JfOXpGdUlvczk?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-07T03:30:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "149055030272e62c",
+   "k": "deutschland",
+   "titel": "Tierseuche: Vogelgrippe breitet sich aus – FLI erhöht Risikostufen",
+   "t": "Das Friedrich-Loeffler-Institut hat die Risikostufen für Vogelgrippe erhöht, nachdem in norddeutschen Betrieben binnen weniger Tage mehrere Fälle gemeldet wurden.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/tierseuche-vogelgrippe-breitet-sich-aus-fli-erhoeht-risikostufen/100268043.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-07T03:00:27+00:00",
+   "tag": null
+  },
   {
    "id": "3a2f8be5f5482145",
    "k": "deutschland",
@@ -1357,6 +1537,18 @@
    "tag": null
   },
   {
+   "id": "4fb98b8cda6d8cc6",
+   "k": "nrw",
+   "titel": "Untersuchungsausschuss: IT.NRW-Präsident rechnet mit Ministerin Scharrenbach ab - STERN.de",
+   "t": "Der Präsident des IT.NRW rechnet im Untersuchungsausschuss mit Ministerin Scharrenbach ab.",
+   "e": "Der Ausschuss befasst sich mit Vorgängen in der NRW-Landesverwaltung, die politische Folgen haben können.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeW82OWh3QVpCN29uMWVEV2dmdDQwMy1la1NOLW5fNVp1U0pIcGx0MDNDYUhaSjVJNEZydGw5bkZhbHA1Q0I3dEtWZTRTbmdFVy1INVRERFlodDRaRTBaM1BYTWUyLU5DRXdmWGlNQkJiaDZPejY5NmEzcGJxWDhMSUZVa0ZCX0lObXQ4N1h2cmphanpjLXQ1ZzJTNWxzaXdHanZnNzFhTWVneThyMkdwZVdrclNPal9QYlNKekdaV1Z4aGxUaG9SeDRuUTcza3NYemZWcVNvNmlEY0ZCY0tkLWlGblNKZjBpc29GNFVn?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-06T16:31:24+00:00",
+   "tag": null
+  },
+  {
    "id": "c92b8730730b9281",
    "k": "nrw",
    "titel": "Wüst eröffnet Rechenzentrum: „Wie die Landesvertretung in Berlin, nur ohne Fenster“ - Westfalen-Blatt",
@@ -1402,6 +1594,18 @@
    "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-06T16:19:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "75500c78276796dd",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Sperrung auf Im Hasley in Neuenhof ab kommende Woche Montag - News.de",
+   "t": "In Lüdenscheid wird die Straße Im Hasley im Ortsteil Neuenhof ab kommenden Montag gesperrt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOV0FQTXNjaGx4OENwRUk2QWR0WGlBenU2dU5YR3VmaGdDWlVZU09uYXljcXcxYUZsVlJURTkxU3NMZmc0SUpqdTNRMXBEc0t3Y1JzbXhQY09vNTlqRU1tR21YU1ZaNDR2aS0yX1N4R3JXb0s4bkd3SHJZNGQzSExmUmxUMG1fSERUNFFKeGp0dWFNYkhzVFBWMGluYzV0QWdGc0VGVHZlQkY0SDhyVDFyTGVVSkJaMFpBbUVHeEN2Q211VTN4NHlqQ1NPRjlQUjVtd0dvb05KSnBld21raXJVazRBdF83Umw2V3dKM1RJYmsySTdvRlBJbGxkdXB1cjFyYVRxVzFYbXoyMll6dE4weGtrNFQ2V2dROVNFVXpHd3hUcEduenZmeGpjN3AxRDY3MENYT1ZfUnhGYm5vVlVJaXhISjkyVWxfYWpwQndLcTVXUFJOejk5WXZR?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-06T16:19:00+00:00",
    "tag": null
   },
   {
@@ -2002,6 +2206,18 @@
    "link": "https://www.handelsblatt.com/technik/forschung-innovation/wetterphaenomen-eu-135-millionen-euro-fuer-el-nino-vorbereitung-in-afrika/100267961.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-06T14:48:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "c79996a53f5363f0",
+   "k": "finanzen",
+   "titel": "Robust US jobs market boosts December rate hike chances - ing think",
+   "t": "Ein robuster US-Arbeitsmarkt erhöht die Wahrscheinlichkeit einer Zinserhöhung der US-Notenbank im Dezember, so Analysten von ING.",
+   "e": "Stärkere Arbeitsmarktdaten machen eine straffere Geldpolitik der Fed wahrscheinlicher, was Zinsen, Anleihen und Gold belasten kann.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnEzSUd2ak0wTmsxb3lueDFDVG94RHZOLVNTZ3ZMeVB5QVY3NGNHUHdaVzJwMkEwT3BXWlhCSlV3MkFEdWc4a2szSUE3bExWTmdXV3c2UTJFSjBXTGYxV1FxYmF4YjhVUTE1bmp1QzlCdmJwNHN5Y001ZWU0SHNobldsVk90T0hUT2xWM2VFenM?oc=5",
+   "quelle": "ing think",
+   "zeit": "2026-11-06T14:48:19+00:00",
    "tag": null
   },
   {
@@ -2867,222 +3083,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-06T10:47:33+00:00",
    "tag": null
-  },
-  {
-   "id": "3ce4f9be7c480a93",
-   "k": "finanzen",
-   "titel": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-   "t": "Nach einem Hackerangriff auf Binance werden Fragen zur Sicherheit der Hot Wallets aufgeworfen. Blockchain-Daten zeigen wiederholte Abfluesse aus Wallets.",
-   "e": "Der Vorfall betrifft eine der groessten Krypto-Boersen und verstaerkt die Debatte ueber Verwahrungssicherheit.",
-   "s": 6,
-   "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T10:40:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "9e31428a804453ae",
-   "k": "welt",
-   "titel": "\"Streitpunkt Klimafinanzierung\", Dominic Hebestreit, ARD Berlin, zur kommenden Weltklimakonferenz COP31 in Antalya",
-   "t": "Vor der Weltklimakonferenz COP31 in Antalya ist die Klimafinanzierung ein Streitpunkt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1679132.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T10:40:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "9dde724fb7178136",
-   "k": "welt",
-   "titel": "„Man weiß, dass diese großen, vollmundigen Ankündigungen von Trump immer nichts werden“",
-   "t": "Donald Trump stellt einen neuen Ukraine-Deal in Aussicht, der ueber ein Kriegsende hinausgehen soll. Der Sicherheitsexperte Nico Lange aeussert Zweifel.",
-   "e": "Die Ankuendigung ist ohne konkrete Details, Einschaetzungen zum Erfolg bleiben offen.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/video6aedab2d320931eb80f5be77/nico-lange-man-weiss-dass-diese-grossen-vollmundigen-ankuendigungen-von-trump-immer-nichts-werden.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T10:37:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "0e1a2cf078a30b86",
-   "k": "usa",
-   "titel": "Marco Rubio: Rücktritt nach Wahlpleite? Trump-Minister spricht Klartext - News.de",
-   "t": "Marco Rubio spricht nach der Wahlpleite der Republikaner ueber einen moeglichen Ruecktritt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaHREWFNiWGdkUDEzbklvWl9qaGVZQ3lGRkZteE9IQ1RMYUlMWUJiN2pqQ0o4S2JvOGQwOVhzVG56aEVDbWN5YUVXeklnTWFIektjczBmMUNkdUVyM3dXSEsxVk9MU2xfdTVaODNSM1NsbXhRcGZfcTgyQ3pfaUU2ZnlieXk1ODcyc0RzcmVscmpYdmZ5X1hlZnpEZzFzM2JfU1ZqUVJ5cmhsTzZEMG1HY0JJOHY1ZzgxVW5tMFdxVWM1YUdiX0U2a2d4YVQ0SUw5TzFnVjhmME1vRmNIbXBwbUl6UU5MWHloUVR1THdkdUEwMkhqZTUyU1JWV04?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-06T10:37:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "79ccb1198d96c6f3",
-   "k": "finanzen",
-   "titel": "EZB: Änderungen der EU-Bankenregeln dürfen die Widerstandsfähigkeit nicht beeinträchtigen - MarketScreener Schweiz",
-   "t": "Die EZB warnt, dass Aenderungen an den EU-Bankenregeln die Widerstandsfaehigkeit der Banken nicht beeintraechtigen duerfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQXzdWbWtSMzVEbjdaXzZLeTN6bXR4SU5LSHByekNPa3Y1QUg0N2Fia1lHZDlxVnhrRU5QQkpSQTFCRGJoNi1SWTZLNzZIZXRCRmRUTFl5WkViS0FsQTN4QVc2cUk4elhtdUQ1azN6ZEZ0RHpfYnBwZ1hlUkthTU9TNFh5aDU5dVpzZnQ3elgtM1lqUEZwbnlVRldlX1czN2pBeXJqbUotdmJHbFdRVDdnNTV4bFpZSnRVZEotMWZBUThadmVpTFFjUDNTTWFWUlpLdDJSVjhhWlh2dmxxWVZNeFZ5Y0QzMHg1UktpNjNNVQ?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-06T10:35:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "c231af8f5eee468d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Bombe entschärft – Bahnverkehr läuft wieder an - tagesschau.de",
-   "t": "In Nordrhein-Westfalen wurde eine Bombe entschärft, der Bahnverkehr läuft wieder an.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV3poNThSUHBGZy1zZmhPbnl5bmk4Z3V1TkZVRV96emNFckp1dGV5RzNBS0FiNXpyeGFQOE5LV2xlSEFvRjhaWVloWWhFaXV4bmJmMDNzMUl1UGdwdHo3dWoxczVKNTNrc1JuZUp1cUtNaEhhT3ZqelNGaER0ZWhSdnhJc3JWcm9rZ2tUM0szaE1NT095cDJqNGd2VFNYbWZiTFJEbVNNTlEtY0ZTZzEyZ3d0aUlURDBzZEJxeE80VkNJU1o5MDlfVkJQQVRjQkVhUWhzX2Zla2REYTQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-06T10:35:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9e51332cd6ca3164",
-   "k": "finanzen",
-   "titel": "Eurozone Retail Sales Slumped in September",
-   "t": "Die Einzelhandelsumsaetze in der Eurozone sind im September gesunken. Hohe Energiepreise draempten das Verbrauchervertrauen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/economy/global/eurozone-retail-sales-slumped-in-september-9c1b2ae4?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-06T10:33:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f12e9d39a9a86887",
-   "k": "finanzen",
-   "titel": "US inflation too high; essential to get back to 2%: Fed's Williams - Reuters",
-   "t": "Fed-Präsident Williams hält die US-Inflation für zu hoch und betont, dass eine Rückkehr zum Inflationsziel von 2 Prozent essenziell sei.",
-   "e": "Die Aussage signalisiert, dass die Fed die Zinsen eher nicht zügig senken dürfte, was für Anleger am Zins- und Aktienmarkt relevant ist.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTNvM3BqdWl4SmprODlFb250cjZNZU1FOVdHWEEtdU9QczJHVmVlUFA3dVRGd3BSUmNvN1hYQ0RQZzZ6N0NWLUFJOGhBTGhoUWNKTUE2Zmpqcmt2cWV4V1dQSmgzYW1Yb3VXN3lidjlBdE0zQ2hIc1ZnVlZJM2N0RlZCYlJPemdvcEhndWNnLWtiSVBQeEYxQ1BGbmVYeUdneWFn?oc=5",
-   "quelle": "Reuters",
-   "zeit": "2026-11-06T10:32:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "19d51001265f57ee",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Nach Gefahrgutunfall: Bahnstrecke wieder freigegeben - n-tv.de",
-   "t": "Nach dem Gefahrgutunfall in Krefeld ist die Bahnstrecke wieder freigegeben.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVRqcUdCcE02blotLW1WS0RULWJJN0ljU1VvV3NYMDNxU29QQktKS0R4Z1ZFdnlGODVaeW9CcGJaUG9nbnB2Qnc1VU5DZ2p4alBlS0txMlZhck1FU2hyeFVnVlZrNlYxZmhUcmFJVTNVSDM5UkhDYmdVTkk3WUZaMWdmNzF6RWdpYUE4NlN2TlpmckhBZU5acng0aHJ3Sy12OXlfRGVZWUFNTXJsWjlZVnNMV2FGbFM0b3c?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T10:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e7c77967a8948559",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Ermittlungen rund um Sanierung der Staatskanzlei eingestellt - n-tv.de",
-   "t": "Die Ermittlungen rund um die Sanierung der Staatskanzlei in Nordrhein-Westfalen wurden eingestellt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjJOZmZ6NWhJbUZncjZwaG91emc0ZE5RbGhXa3N0OXpUY0twMW0xcEFQdGdVM2hpLXVkV1pqQXdmaGhNVEtqSXQwVzltb0xkbkJKLWo3R1pKVmxGdng1YTN3X0NfaE5pd3VWTjRzSWVuNlFpbmpsUU5GMTViWnJGTEJsY080S2V6cHVPVjdTVlpGZjFNVDNsMURiSEFKUE93TmFsN2wyRTBySDJtOXFRblIweWRGVGktQUg4VlFRUTJaRkc4N1E?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-06T10:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1ce3e90ea1d78273",
-   "k": "nrw",
-   "titel": "Die Streichliste der MVG: In diesen Orten und bei diesen Linien wird gekürzt - Come-on",
-   "t": "Die MVG kürzt Busverbindungen in einzelnen Orten; eine Streichliste nennt die betroffenen Linien.",
-   "e": "Die Kürzungen treffen Pendler und Schüler im Verkehrsgebiet direkt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc2NiNVJSSDZCVEl0WmoxMXRHQ2hteG96c0tVaUJHdHhSbWVRTlpqSFdXMElUZzNOSk04VEpscF9ldU5od2owTGx3REVQaHZWcWVIemxhWnFtTk82SEZpMzVDbUhzRnF1elhYZ29UdTc2aDQzaTk2X1BvdWlVSjdOUlA1OFlYTkpNcUd5TnBkaGc3bjE0UnFjb01uYmhFNUJySy0tTUg1WFlpM0xkQW55RVBlbU1MZk9vNTkzV2I2a1A3dzZN?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-06T10:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5dcb1f4eb07fa4aa",
-   "k": "deutschland",
-   "titel": "Spritpreisdeckel entzweit Schwarz-Rot – Reiche warnt vor Versorgungsengpässen",
-   "t": "Der Spritpreisdeckel-Entwurf von Wirtschaftsministerin Reiche sorgt in der Koalition für Streit. Die SPD hält ihn für zu schwach, Reiche warnt vor Versorgungsengpässen.",
-   "e": "Die Debatte betrifft Energiepreise für Verbraucher und Wirtschaft.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/plus6aed9ca547b5fce02f879dca/tankpreise-spritpreisdeckel-entzweit-schwarz-rot-reiche-warnt-vor-versorgungsengpaessen.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-06T10:29:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "178c4b4a19d104eb",
-   "k": "finanzen",
-   "titel": "Democrat sweep gives markets a reason to rethink path of interest rates",
-   "t": "Nach dem Wahlsieg der Demokraten wird an den Maerkten diskutiert, ob sich der Zinspfad der Fed veraendert. Zinserhoehungen koennten durch eine Loesung des Iran-Kriegs, schwaecheres US-Wachstum oder neue Fiskalpolitik gebremst werden.",
-   "e": "Die Zinserwartungen der Fed haengen laut Analyse von mehreren, noch offenen Faktoren ab.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T10:22:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "bdde42af836351f9",
-   "k": "nrw",
-   "titel": "Mehr als 219.000 Sterbefälle in NRW: Das waren die häufigsten Todesursachen 2025 - WAZ | Westdeutsche Allgemeine Zeitung",
-   "t": "In NRW wurden 2025 mehr als 219.000 Sterbefaelle registriert, die Statistik nennt die haeufigsten Todesursachen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMlFRdU9kemstTUFiTm1RQ2ZZMFo4LVJIZVlYV0FHRWlma2JnNjJLZGdOQ2FENkMxYjBPdkdGdXlGdkNfLXQ4T2Eyd2Fad0VIbkIzMUswalV0WFZFTnIxaXF5RzNwQzJUVGRmOXlQVU05NDlqR1ZEM191ZHdVZUtiUTM4NXB1U1RFNzJNU0VaZy1CakRsWkU0bWRjcE9FV3YyR3lCVHVIV1RTUF9sTzJibEVYUjh4M3V2cHdreVFsQzNUZXhQVkFxejVsYzlERk1VUUlF?oc=5",
-   "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-   "zeit": "2026-11-06T10:15:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "08565fc6519ef107",
-   "k": "deutschland",
-   "titel": "Neuer Minister: Wie viel Bas steckt in Schweitzer?",
-   "t": "Alexander Schweitzer wird neuer Arbeitsminister und schlaegt andere Toene an als sein Vorgaenger.",
-   "e": "Die grossen Reformprojekte im Arbeitsbereich bleiben offen, eine Loesung dafuer muss der neue Minister erst finden.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/inland/wie-viel-baerbel-bas-steckt-in-alexander-schweitzer-accg-201653905.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T10:15:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "ae326f28e7782fcc",
-   "k": "nrw",
-   "titel": "Polizei-News Hemer, 06.11.26: BMW M7 gestohlen - News.de",
-   "t": "Im Raum Hemer wurde ein BMW M7 gestohlen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczhCMWhHbVNySFkyT2hPaXI0UHRqc3Nhdkp4UXF1UnNoNEZlWjBwaDZzUUs0emZjZW5UQVo3Q2pmeXJsRkVSdVR4NXp4V09yY3RRMk02aVhrOHpiZDZSVEJxU2NlVEpVdzBFN0lNZVctWjYzRW0wQXEzRUdPeDBvWkxYLVJZekJYX2ZSZl9aS3k1VzlUcXdtSEtIMjYwNVQ1MGd3UQ?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-06T10:14:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "8d5bd0016eef35c4",
-   "k": "nrw",
-   "titel": "und Jugendrat: Fünftklässler der Hauptschule Letmathe stellen im Jugendkulturcafé „YOU“ aus. - Presse-Service",
-   "t": "Fuenftklaessler der Hauptschule Letmathe stellen im Jugendkulturcafe YOU aus.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEVGkwTWRHdVczV0FUdkJ4WjZWQnlzeTZaTkl0S0pQNTJVTUFaQy1UalF5dEluTEFteEN3UzNsZzVFWGNqQmFsUkhjNW5QbkczNFV5UG5mWllXU1NlZzBGQ1IxV0dZd3I0b2ZPYQ?oc=5",
-   "quelle": "Presse-Service",
-   "zeit": "2026-11-06T10:13:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "9bb0a47f1f505345",
-   "k": "welt",
-   "titel": "VIDEO - Papst Leo XIV. reist nach Südamerika – nur einen Monat nach seiner Lungenoperation",
-   "t": "Papst Leo XIV. reist zu seiner bislang laengsten Auslandsreise nach Uruguay, Argentinien und Peru, nur einen Monat nach einer Lungenoperation.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/shorts/papst-leo-xiv-reist-nach-suedamerika-nur-einen-monat-nach-seiner-lungenoperation-ld.10056216",
-   "quelle": "NZZ",
-   "zeit": "2026-11-06T10:07:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 30
    },
    {
     "name": "FAZ Finanzen",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Fox News Politik",
@@ -3190,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Google News NRW",
