@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T01:01:23.063098+00:00",
+ "aktualisiert": "2026-11-07T01:52:10.932407+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.848 $",
-   "delta": -0.47486088404007193
+   "wert": "75.940 $",
+   "delta": -0.25381430470743754
   },
   {
    "name": "Ethereum",
-   "wert": "2.238 $",
-   "delta": -0.17585464141791043
+   "wert": "2.243 $",
+   "delta": 0.1796933285080311
   },
   {
    "name": "Gold",
@@ -44,6 +44,11 @@
   {
    "name": "EZB Zins",
    "wert": "2,50 %",
+   "delta": null
+  },
+  {
+   "name": "Fed Funds",
+   "wert": "3,88 %",
    "delta": null
   }
  ],
@@ -79,6 +84,42 @@
   ]
  },
  "items": [
+  {
+   "id": "2d90c5a7c05740ff",
+   "k": "welt",
+   "titel": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+   "t": "Papst Leo XIV. beginnt seine Südamerika-Reise in Uruguay. Auf der Reise, die drei Länder in elf Tagen umfasst, besucht er auch die Heimat seines Vorgängers.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-07T01:50:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "967eb47ea2e539d6",
+   "k": "deutschland",
+   "titel": "15 Millionen Euro Haftentschädigung – Mehr als 2000 Menschen unschuldig im Gefängnis",
+   "t": "Seit 2019 saßen laut einer Auswertung mindestens 2618 Menschen zu Unrecht in Haft. Die Bundesländer haben dafür mindestens 15 Millionen Euro Entschädigung gezahlt, die tatsächlichen Zahlen dürften höher liegen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6aee77413ea0d5abd04d6879/hohe-dunkelziffer-15-millionen-euro-haftentschaedigung-mehr-als-2000-menschen-unschuldig-im-gefaengnis.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T01:13:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "f608776761d1fef1",
+   "k": "finanzen",
+   "titel": "Die Goldpreise fielen weiter, da der Markt mit einer Zinserhöhung der US-Notenbank im Dezember rechnete. - Vietnam.vn",
+   "t": "Die Goldpreise sind weiter gefallen. Laut Bericht rechnet der Markt mit einer Zinserhöhung der US-Notenbank im Dezember.",
+   "e": "Erwartete Zinserhöhungen der Fed drücken auf Gold, da es keine Zinsen abwirft und Anleger dadurch Alternativen mit Rendite bevorzugen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGFRbmc2ZXExRV82cUZZYVd3bEtFNXJUcUppeGU4RThHZ2FDV2NqRHM0M2o1RlNjZ1BXbE1WVXhwWk52U2s1d0Y0Sk5nOWlEN2ZDTENiOVFjalBNdlZFeUxqbGh1b0dVSVdtWmxWaVlieFZCcG9FMmFzQ1dwcUh6YmJmYTJFdnZ0MzVpNGpNZFVJMWdBTTNPOW16dUNHV0NPUmFj?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-07T01:07:34+00:00",
+   "tag": null
+  },
   {
    "id": "e7684b0696f522c5",
    "k": "usa",
@@ -125,6 +166,18 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-07T00:13:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "3066309ce8b4afdf",
+   "k": "finanzen",
+   "titel": "BAWAG erhält EZB-Genehmigung für Übernahme der irischen PTSB - trend.at",
+   "t": "Die Bank BAWAG hat die Genehmigung der EZB für die Übernahme der irischen PTSB erhalten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2w1OElGa0RfX2U0OFVDcUJ3OURwdTRqYWtmSnItV2NEbmw5MnB4MlFhczFvRGRRckVtRERWRElxTnY2Ul9RR3p5UVo2RW5EWnVxYkpqTEp0Qm9RNHpENHIwUFFPMTBXRHdGVC0xbWF5bHpjb0F6eGhCZWoxSGluN1JsdUlJbVpBUnU2TUJUbw?oc=5",
+   "quelle": "trend.at",
+   "zeit": "2026-11-07T00:11:00+00:00",
    "tag": null
   },
   {
@@ -519,6 +572,18 @@
    "e": "",
    "s": 4,
    "link": "https://www.welt.de/politik/deutschland/article6aee28e947b5fce02f87ab16/insa-umfrage-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-06T20:24:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c1c64c53b908d79",
+   "k": "deutschland",
+   "titel": "CDU stürzt weiter ab und ist fast gleichauf mit Linken – AfD mehr als doppelt so stark",
+   "t": "Laut neuer INSA-Umfrage liegt die CDU in Thüringen nur noch einen Prozentpunkt vor der Linken, die AfD kommt mehr als doppelt so stark. Die Regierungskoalition um Ministerpräsident Voigt erreicht zusammen nicht einmal drei Viertel der Sitze.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6aee28e947b5fce02f87ab16/insa-umfrage-zu-thueringen-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
    "quelle": "Welt",
    "zeit": "2026-11-06T20:24:13+00:00",
    "tag": null
@@ -3018,66 +3083,6 @@
    "quelle": "Börse Global",
    "zeit": "2026-11-06T09:39:23+00:00",
    "tag": null
-  },
-  {
-   "id": "a8422e7649dcec1c",
-   "k": "finanzen",
-   "titel": "U.S. Imposes Four-Year Ban on Federal Reserve Digital Dollar - ForkLog",
-   "t": "In den USA wird ein digitaler Dollar der Notenbank für vier Jahre verboten.",
-   "e": "Ein Verbot eines Fed-CBDC verhindert vorerst staatliches digitales Zentralbankgeld in den USA und stärkt private Stablecoins.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMW5JUzJrQTRpNnlJREhUX1lkSUh0NTNoOHVKZHUzTU1iSFpacnl4cjBiWkxTYm9VUk13Z2VScTZVRy11UU5IcGdxS081aGE3MXR0X2hTWG01SGNFNTVSZEdRU1p3ajQ3QzBLdENqOGZoT0RjVGNDX2l3dGg0MzA4ZnA1bGotdU1CSzI0?oc=5",
-   "quelle": "ForkLog",
-   "zeit": "2026-11-06T09:38:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "6d1123561825120a",
-   "k": "finanzen",
-   "titel": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come - Yahoo Finance",
-   "t": "Fed-Chef Kevin Warsh plant laut Bericht eine Aenderung der Geldpolitik, die mit 45 Jahren Praxis bricht.",
-   "e": "Ein grundlegender Wechsel im Fed-Instrumentarium koennte die Erwartungen an die Zinspolitik deutlich veraendern.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdW1KZjZvVFotYndxMEJWZEkzMWlBQmJqc3BkclBjVG1tZ1pMRGNuLXhuOW1xUncxa2E0QS1VYU9MQ1NHZTdXa2ZGY2FubzM5dW9rQjNac2lwUlY0OE9wcEs3SXlpRU5sZnR6RFFqNDNZNTRuOHZKY1BfSlFXaGRXdXVvbzZkT3ZZanNCVVVMeFRhSTdXVkwzVGwzZw?oc=5",
-   "quelle": "Yahoo Finance",
-   "zeit": "2026-11-06T09:35:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9f6f7dc889d3b915",
-   "k": "deutschland",
-   "titel": "Schärfere Strafen bei K.o.-Tropfen: Was die Gesetzesänderung bewirkt",
-   "t": "Der Bundestag beschliesst schaerfere Strafen beim Einsatz von K.o.-Tropfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1679100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T09:33:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "144b2e076d8556cd",
-   "k": "deutschland",
-   "titel": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-   "t": "Nach dem Tod von Hubert Aiwanger verlieren die Freien Waehler ihr Zentrum. Die Partei ist Regierungspartner der CSU in Bayern.",
-   "e": "Die Koalition in Bayern koennte sich durch den Verlust der Leitfigur nachhaltig veraendern.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T09:30:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "31316926da821b10",
-   "k": "deutschland",
-   "titel": "Bundestag stimmt für Strafverschärfung beim Einsatz von K.o.-Tropfen",
-   "t": "Der Bundestag stimmt fuer die Strafverschaerfung beim Einsatz von K.o.-Tropfen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1679098.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T09:30:35+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3140,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "CNBC Finance",
@@ -3205,17 +3210,15 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 7
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 33
+    "n": 32
    }
   ],
-  "markt": [
-   "Fed Funds: Expecting value: line 1 column 1 (char 0) / HTTPSConnectionPool(host='fred.stlouisfed.org', port=443"
-  ],
+  "markt": [],
   "briefing": null
  }
 }
