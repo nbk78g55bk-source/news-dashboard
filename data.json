@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T01:01:00.513495+00:00",
+ "aktualisiert": "2026-11-08T03:01:08.380892+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.707 $",
-   "delta": -0.1667888197286453
+   "wert": "75.685 $",
+   "delta": -0.382736197281784
   },
   {
    "name": "Ethereum",
-   "wert": "2.234 $",
-   "delta": -0.16998751950327806
+   "wert": "2.232 $",
+   "delta": -0.5912602282859422
   },
   {
    "name": "Gold",
@@ -84,6 +84,78 @@
   ]
  },
  "items": [
+  {
+   "id": "4057eb8ca7d8ee84",
+   "k": "deutschland",
+   "titel": "In diesem Winter gibt es alkoholfreien Glühwein ganz ohne Fantasienamen",
+   "t": "Alkoholfreier Glühwein darf nach einer EU-Rechtsänderung ohne Fantasienamen als Glühwein bezeichnet werden.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/vermischtes/article6aefe094a389bc337cfc995e/eu-rechtsaenderung-in-diesem-winter-gibt-es-alkoholfreien-gluehwein-ganz-ohne-fantasienamen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T02:48:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "06838ec8b091a790",
+   "k": "usa",
+   "titel": "USA unter Trump: Trump beauftragt Justizministerium mit Untersuchung gegen Demokraten",
+   "t": "Präsident Trump hat das Justizministerium beauftragt, gegen Demokraten zu ermitteln. Zugleich hat er eine Militärübung mit Südkorea eingedampft.",
+   "e": "Die Anweisung an das Justizministerium gegen die politische Opposition ist ein Eingriff in die Unabhängigkeit der Justiz und steht im Kontext der laufenden Midterm-Auseinandersetzung.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-beauftragt-justizministerium-mit-untersuchung-gegen-demokraten-faz-19444916.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T02:43:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "c86ccf145e72da95",
+   "k": "deutschland",
+   "titel": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+   "t": "Die FDP hält einen digitalen Parteitag ab. Die Partei steckt nach zahlreichen Wahlniederlagen in der Krise, und ihr neuer Vorsitzender Kubicki hat diese bisher nicht beheben können.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T02:28:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "a1bda04c43adadc6",
+   "k": "welt",
+   "titel": "U-Haft: Staatsanwaltschaft in Paraguay erhebt Anklage gegen abgesetzten Präsidenten",
+   "t": "In Paraguay hat die Staatsanwaltschaft Anklage gegen den zuvor abgesetzten Präsidenten Santiago Peña erhoben. Ihm wird im Zusammenhang mit einem Bankenskandal Misswirtschaft zum persönlichen Vorteil vorgeworfen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ausland/staatsanwaltschaft-in-paraguay-erhebt-anklage-gegen-abgesetzten-praesidenten-accg-201662152.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T02:07:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "17364a31c9843a58",
+   "k": "usa",
+   "titel": "Gavin Newsom sees dramatic shift in presidential odds after midterm election",
+   "t": "Nach den Midterm-Wahlen hat Gouverneur Gavin Newsom auf Wettmärkten an Chancen für eine Präsidentschaftskandidatur verloren, andere potenzielle Kandidaten legen zu.",
+   "e": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/07/us-news/gavin-newsoms-2028-presidential-odds-plunge-to-all-time-low-after-midterms/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-08T01:59:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "e44ce6b052ac07ff",
+   "k": "usa",
+   "titel": "Dem lawmakers already filling hopper with far left bills as socialists prepare to storm DC",
+   "t": "Demokratische Abgeordnete haben im Kongress bereits mehrere linksgerichtete Gesetzentwürfe eingebracht, bevor die neue Legislaturperiode im Januar beginnt.",
+   "e": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/07/us-news/dem-lawmakers-already-filling-hopper-with-left-wing-bills/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-08T01:08:39+00:00",
+   "tag": null
+  },
   {
    "id": "95a0190ef8c05bf8",
    "k": "usa",
@@ -1945,6 +2017,18 @@
    "tag": null
   },
   {
+   "id": "f17c480c8cc36829",
+   "k": "usa",
+   "titel": "Mann mit drei Waffen nahe Weißem Haus festgenommen: Alle Infos im USA-Newsblog - Ruhr Nachrichten",
+   "t": "Ein Mann mit drei Waffen ist nahe dem Weißen Haus festgenommen worden.",
+   "e": "Vorfälle dieser Art in unmittelbarer Nähe des Weißen Hauses werden in der US-Sicherheitsdebatte besonders genau beobachtet.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNDNqRFU1cklwbktqN0F1YU1qQ2pDaG5lb3RSU1BlUGlTSlBWcTg0SlpnZVgwQVNHWHRpYWI2aENnMXBEWUVQZEVuNkRpbV9CLVdpWVU3N0F5V3g5emhWdGhHaXQ2S091YnJoZk9HMElUQmRrQk5vRkZfa0U0ZlVKU05qWXo4eTVOMU9RSmNaak45V3dSYXd3VjZTOU53eUFqSmV3ejlBaFVKZjZmOWYzcW0yM3VNcWJ0VUhoN09JeW5WWjFYSS1qdkdfbnhTOGNSVGE1ZlRwQ0lfUm9fR2U1eTJpR21UTXV5WjVqZDdjVzdQRVRwbVo3dWhjQ05iQQ?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-07T07:17:00+00:00",
+   "tag": null
+  },
+  {
    "id": "e3eac23b85a5b340",
    "k": "welt",
    "titel": "Eskalierende Epidemie: „Ebola ist kein medizinisches Problem. Es ist ein politisches Problem.“",
@@ -1966,6 +2050,18 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbzRGUGc5ZUxVMFY4c2JKaURXd3lDTHB5Z2l6eEc5OE4zZVc2RlFPbHVSMmc5S25CV2tPaUkwNk9scmdGMzlnazNBNVEyZzhzS01LMHpFUFl3YXM?oc=5",
    "quelle": "TOKENPOST",
    "zeit": "2026-11-07T07:10:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "2880626ef6767d1b",
+   "k": "finanzen",
+   "titel": "Gold und Silber: Darum läuft es für die Edelmetalle so schlecht - WirtschaftsWoche",
+   "t": "Gold und Silber verzeichnen zuletzt schwache Kursentwicklungen. Die WirtschaftsWoche erläutert die Gründe.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnJYUUN4anRnaC01RGhDaFZOcS1yTjI4SUVsVDVDeVBDQmhlMFZ6SDBZRXBYNmo1bDVaZHA2UW4tOU90Z1RBcXBZeW9tOUo3YUFOZ2I3dzN0NVhoLVZUZmR4RDJhaE5zZDRGWW5ZVzRSZjN0WWFhOExhVURJMkI3cldBV0dTVm1jb0VzQlFVU3dmQmdSMXhCZkNqUEZ1Y0lKc29WQXdEdGo4UjdOLTV1RnRteUxiQQ?oc=5",
+   "quelle": "WirtschaftsWoche",
+   "zeit": "2026-11-07T07:09:49+00:00",
    "tag": null
   },
   {
@@ -2987,102 +3083,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-06T20:52:42+00:00",
    "tag": null
-  },
-  {
-   "id": "2a3ff93a857cf5af",
-   "k": "finanzen",
-   "titel": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-   "t": "Der Krypto-Kartenanbieter Gnosis Pay meldet einen Datenabfluss mit Kartendaten, persönlichen Daten und Informationen zu Krypto-Wallets. Laut Unternehmen blieben Kundengelder sicher.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T20:51:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "de96de2ec8d54cb8",
-   "k": "finanzen",
-   "titel": "DOJ, Fed’s Cook Seek Pause in Court Fight Over Trump Firing Push - Bloomberg.com",
-   "t": "Das US-Justizministerium und Fed-Governorin Lisa Cook beantragen eine Pause im Gerichtsstreit um Trumps Versuch, Cook zu entlassen.",
-   "e": "Der Fall berührt die Unabhängigkeit der US-Notenbank Fed, die für Zinsentscheidungen zuständig ist.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1BjTEw4WlZwVGhvOUpOWlE4SVZDTUZlZ1hMWkdKcHREb1lJWks3NHY4b0xqeHU4dzBLT0NRUktpVUF6RFY1eDNSYUJSX0toOVZOWUx3c2VQMVVESUtIMjk2cFgxN202U0JvRWxHdFhRb0tHWTFCRTQ0VEkycmllVGtSZncxYkJQZlJPUzN0WEtaSmV4cUpJTm5DeC1nc1NtWDJsdy01U3V2UnQyejNiNzhkaUFKTFpXMzhWNFB2YS0yR3ZCdTI4Z3Fvb1VHOUlZS0E?oc=5",
-   "quelle": "Bloomberg.com",
-   "zeit": "2026-11-06T20:50:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "95c0ff8851b73503",
-   "k": "finanzen",
-   "titel": "Gold fällt unter 4.100 US-Dollar, da überraschend starke US-Arbeitsmarktdaten die Wahrscheinlichkeit einer Fed-Zinserhöhung untermauern - www.tmgm.com",
-   "t": "Gold fiel unter 4.100 US-Dollar, nachdem überraschend starke US-Arbeitsmarktdaten die Wahrscheinlichkeit einer Zinserhöhung der Fed erhöht haben.",
-   "e": "Starke Arbeitsmarktdaten stützen die Erwartung höherer Zinsen, was Gold als zinslosen Wert belastet.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVhyNzkwMmthb3pPS0ZlY3FXLVpVY3llV0NfR09pSDgzVjlqTUpuazhOSUxuSkt0b2FWalZPY0JpZ3NCdWdXbzBiYWxlbEVmZjV3YlhQNFdIaDRsTm9SYUpmWnZvVlNaZVd4Vl92N3BndGZzN2hsNUFJZGx2RmtFcDNWd3dpek9Uc21sbUZoSkdILTlIM2RrLUJMaWNlUU5rY3BNWjVLdU9xRTEta2wtSGhWMldpSzZwNVhKdGJCWGJPdXVidlE?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-06T20:49:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "b265d48ef5a1d0e8",
-   "k": "welt",
-   "titel": "Liveblog Ukrainekrieg: Selenskyj und Klitschko streiten über Verantwortung für Kiews Versorgungslage",
-   "t": "In Kiew gibt es Stromausfälle; Selenskyj und Klitschko streiten über die Verantwortung für die Versorgungslage. Die EU-Kommission betont, dass die EU selbst über ihre Sicherheit entscheidet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-selenskyj-und-klitschko-streiten-ueber-verantwortung-fuer-kiews-versorgungslage-faz-110683325.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T20:46:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "f6efe4951829553f",
-   "k": "usa",
-   "titel": "The Hitchhiker’s Guide to what happens next on Capitol Hill",
-   "t": "Im US-Repräsentantenhaus ringen Steve Scalise und Jim Jordan um den Posten des Fraktionschefs der Republikaner. Neue progressive Abgeordnete fordern zudem die Führung der Demokraten um Schumer und Jeffries heraus.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/hitchhikers-guide-what-happens-whats-next-capitol-hill",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-06T20:42:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "9fb09030bd25a919",
-   "k": "finanzen",
-   "titel": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-   "t": "Nach einem Hack bei Binance mit einem Schaden von rund 6,3 Milliarden US-Dollar fordert ein Vertreter von TRM Labs staatliche Gegenmaßnahmen gegen nordkoreanische Hacker.",
-   "e": "Laut Meldungen handelt es sich um einen Rekordwert bei einem Krypto-Diebstahl.",
-   "s": 7,
-   "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-06T20:36:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "85ef224715e01463",
-   "k": "welt",
-   "titel": "Nach Erkrankung: Papst Leo XIV. zum Auftakt von Südamerika-Reise in Uruguay gelandet",
-   "t": "Papst Leo XIV. ist zum Auftakt seiner Südamerika-Reise in Uruguay gelandet. Die Reise führt auch nach Argentinien und Peru.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-startet-suedamerika-reise-ankunft-in-uruguay-201660547.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-06T20:33:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "07df84d15b32c567",
-   "k": "deutschland",
-   "titel": "CDU nennt Steuerreform „inakzeptabel“ – und droht SPD mit Blockade",
-   "t": "Die CDU bezeichnet die geplante Steuerreform als inakzeptabel, weil Unternehmen je nach Rechtsform unterschiedlich belastet würden. Fraktionsvize Middelberg droht der SPD mit einer Blockade.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6aee3071a389bc337cfc876c/einkommensteuer-cdu-nennt-steuerreform-inakzeptabel-und-droht-spd-mit-blockade.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T20:28:45+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 17
+    "n": 15
    },
    {
     "name": "WSJ USA",
@@ -3180,7 +3180,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 17
+    "n": 15
    },
    {
     "name": "Cointelegraph",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Google News NRW",
@@ -3205,12 +3205,12 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 24
+    "n": 22
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Google News Fed",
