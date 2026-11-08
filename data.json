@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T05:01:15.692987+00:00",
+ "aktualisiert": "2026-11-08T07:01:19.977744+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.770 $",
-   "delta": -0.08859346138228594
+   "wert": "75.749 $",
+   "delta": -0.30682951339745
   },
   {
    "name": "Ethereum",
-   "wert": "2.232 $",
-   "delta": -0.4293855754574734
+   "wert": "2.231 $",
+   "delta": -0.5846284512093041
   },
   {
    "name": "Gold",
@@ -54,36 +54,192 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-07T19:01:32.688452+00:00",
+  "slot": 7,
+  "stand": "2026-11-08T07:01:19.977727+00:00",
   "punkte": [
    {
-    "k": "finanzen",
-    "t": "Laut AktienCheck.de fiel der DAX unter 24.000 Punkte, belastet von einem Ölpreisschock und Sorgen vor der Fed. Der Deka DAX notiert bei 225,35 €, die EZB verharrt beim Leitzins von 2,50 %, der Fed Funds liegt bei 3,88 %."
+    "k": "welt",
+    "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen. Nach jüngsten Angaben starben sechs Menschen, mehr als ein Dutzend wurden verletzt; der mutmaßliche Täter wurde gefasst. Unter den Verletzten ist auch eine Person aus Deutschland."
    },
    {
     "k": "welt",
-    "t": "Trump sagt, die USA hätten „kleinere Schläge“ gegen den Iran geflogen, nachdem iranische Medien berichteten, zwei Raketen hätten die Insel Qeshm nahe der Straße von Hormus getroffen. Im US-Beraterkreis ist umstritten, ob der Krieg beendet oder ausgeweitet werden soll."
-   },
-   {
-    "k": "welt",
-    "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen; nach jüngsten Angaben starben sechs Menschen, mehr als ein Dutzend wurden verletzt. Der mutmaßliche Täter wurde gefasst, das Motiv ist noch unbekannt."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die Union nominiert Ilse Aigner als Nachfolgerin von Bundespräsident Frank-Walter Steinmeier. Die CSU unterstützt die Kandidatur seit Langem, und auch in der CDU-Führung gibt es Einigkeit."
+    "t": "Im Persischen Golf sind zwei Öltanker auf Minen gelaufen und brennen, nachdem sie eine nicht genehmigte Route in der Straße von Hormus genommen hatten. Das US-Militär hat außerdem auf ein Handelsschiff im Golf von Oman gefeuert, das laut US-Seite gegen die Seeblockade verstoßen haben soll."
    },
    {
     "k": "finanzen",
-    "t": "EZB-Präsidentin Christine Lagarde verlässt die Notenbank vorzeitig im Februar. Die Eurogruppe hat Pablo Hernández de Cos und Klaas Knot als Kandidaten für die Nachfolge benannt."
+    "t": "Die Fed lässt die Zinsen unverändert (Fed Funds 3,88 %), die EZB liegt bei 2,50 %. Fed-Präsidentin Daly rechnet trotz Tech-Kurseinbrüchen mit weiteren Zinserhöhungen. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka DAX bei 225,35 €."
+   },
+   {
+    "k": "finanzen",
+    "t": "Lagarde verlässt die EZB vorzeitig im Februar; die Eurogruppe hat Pablo Hernández de Cos und Klaas Knot als Kandidaten für die Nachfolge benannt. Laut Bericht gingen an der Nasdaq am Donnerstag rund 2,5 Billionen Dollar Börsenwert verloren."
    },
    {
     "k": "usa",
-    "t": "Nach der Niederlage der Republikaner bei den Zwischenwahlen entlässt Trump Stabschefin Susie Wiles und beruft Stephen Miller zum neuen Stabschef des Weißen Hauses. Die Demokraten haben die Mehrheit im Repräsentantenhaus gewonnen und kontrollieren nun auch den Senat."
+    "t": "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit im Repräsentantenhaus erobert und kontrollieren nun auch den Senat. Trump hat das Justizministerium beauftragt, gegen Demokraten zu ermitteln."
+   },
+   {
+    "k": "deutschland",
+    "t": "Ilse Aigner wird von CDU und CSU als Unionskandidatin für die Bundespräsidentenwahl nominiert. In Berlin suchen mehr als 140 Polizisten nach der seit Tagen vermissten 13-jährigen Lisa; die Mordkommission ermittelt."
    }
   ]
  },
  "items": [
+  {
+   "id": "49fb480a264f07d4",
+   "k": "welt",
+   "titel": "Attentat in Polen: Nach Schüssen in Krakau: Ministerpräsident Tusk spricht von „Terrorismus“",
+   "t": "In Krakau hat ein junger Mann wahllos auf Passanten geschossen und sechs Menschen getötet. In seiner Wohnung fand die Polizei drei weitere Leichen, unter den Verletzten ist auch eine Person aus Deutschland. Ministerpräsident Tusk spricht von Terrorismus.",
+   "e": "Ein Gewaltverbrechen dieses Ausmaßes in einem EU-Nachbarland ist außergewöhnlich; die Frage nach dem Motiv und einem möglichen rechtsextremen Hintergrund ist noch offen.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/attentat-in-krakau-tusk-spricht-von-terrorismus-accg-201661603.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T06:41:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "a10aa47109429fc5",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Wohnungsbrand in Duisburg: Eine Toter und vier Schwerverletzte - tagesschau.de",
+   "t": "Bei einem Wohnungsbrand in Duisburg ist eine Person gestorben, vier weitere wurden schwer verletzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVE1YZGxkYXdocDBxLXRQSTBrR0lzc2UtTEFQNlN1SlNRdFJQbXQzYlNPYzBoNUxBNEI2elFFT0t3aE95bHFVR080NjQ2SUNuYWowa3Q0UllGREQ3WVBZSUV0VUNMSEkwMHIzZWw4MElzOWZ5Z1Rkd1RvamROWXdwNEswU2V0SmhfdVdxcFFoTHpiTFdpMVZVWElIRUFhM1ZYektaY3VVWnB3Z0k0dXpNb1R5MjV0OVRkLVc3LXVUeHQzSzA0VE01QVhaRG4xaFpS?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-08T06:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4973a700f020972e",
+   "k": "welt",
+   "titel": "Selenskyj kündigt weitere Entlassungen bei Geheimdienst SBU an",
+   "t": "Selenskyj kündigt nach einem Korruptionsskandal weitere personelle Konsequenzen beim ukrainischen Inlandsgeheimdienst SBU an. Es hat bereits Entlassungen gegeben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/video6af01252a389bc337cfc9a32/ukraine-selenskyj-kuendigt-weitere-entlassungen-bei-geheimdienst-sbu-an.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T06:30:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "c7894c57a700ebec",
+   "k": "welt",
+   "titel": "„Man bombt weiter, aber man spricht eben auch“",
+   "t": "Trump hat nach einem Treffen mit Putins Gesandtem Dmitrijew ein großes Abkommen zwischen den USA und Russland in Aussicht gestellt. Der Kreml dämpft die Erwartungen.",
+   "e": "Ein US-russisches Abkommen hätte Folgen für den Ukraine-Krieg und die europäische Sicherheitsarchitektur, ist aber noch nicht konkret.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/video6af0159aa389bc337cfc9a61/ukraine-abkommen-man-bombt-weiter-aber-man-spricht-eben-auch.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T06:24:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "27e61ebe34292e5c",
+   "k": "nrw",
+   "titel": "„Die Leute haben es einfach satt, dieses ständige Gestreite da in Berlin“",
+   "t": "Die Ruhr-SPD tagt in Bochum mit Parteichef Klingbeil vor der NRW-Landtagswahl. Spitzenkandidat Jochen Ott fordert ein klares SPD-Profil.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/video6af0154380d3a1c6aa66cbed/jochen-ott-spd-die-leute-haben-es-einfach-satt-dieses-staendige-gestreite-da-in-berlin.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T06:23:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "fa4c27f848644865",
+   "k": "finanzen",
+   "titel": "Viele Vertreter der US-Notenbank befürworten eine Anhebung der Zinssätze, um die Inflation einzudämmen. - Vietnam.vn",
+   "t": "Mehrere Vertreter der US-Notenbank Fed sprechen sich laut Bericht für eine Zinsanhebung aus, um die Inflation einzudämmen.",
+   "e": "Die Fed hat bisher keine Anhebung beschlossen; solche Äußerungen gelten als Signal, wie stark die Inflationssorgen in der Fed-Spitze gewichtet werden.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRVTjN0TDJqVm5RMC1pWk1DVWpuSkxaWnZrY2pOUDgxMXdlbGJMSkZxZDlWNWhRNjZ5WXNhYlRWdHJaVVNKU1puWWRSbzUyOTlfX29XM1FWYkw0VjByT0lxd1o1dV9uNUZtSkdmMUJhS0VXaVdFSk0zdjMzYUx2R0x4RmVHN3JqejVVUWFfTno?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-08T06:09:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "715a599de46c3d3a",
+   "k": "usa",
+   "titel": "Kampfansage an die Demokraten: Hardliner als Trumps neuer Stabschef - Kurier",
+   "t": "Trump hat einen Hardliner als neuen Stabschef im Weißen Haus eingesetzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajlfUGJZOU5xYm5MbjlvbkRNX1JSLW5DMWJPSWtHYm9yR3dFVDV5bjdCTnFZT1pKek5vVHQ4WUN4cE03dGVieTIyU2NlY2U2UHMyQV95S0FVaWI5ZkpTZHFaeUE2aW9vZ0hQaS01SkV0d2ItNjBJY3M2ZkNzVzJraGtiVk05aERDMXhTS0FSN1ZURFQ1LXNSeGdn?oc=5",
+   "quelle": "Kurier",
+   "zeit": "2026-11-08T06:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "35ca3b8f8aaa77af",
+   "k": "finanzen",
+   "titel": "The Week Ahead: October CPI and PPI Due as CoreWeave, Cisco and Applied Materials Report Earnings - TradingKey",
+   "t": "Im Wochenausblick stehen die US-Inflationsdaten (CPI und PPI) an, zugleich legen CoreWeave, Cisco und Applied Materials Quartalszahlen vor.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRzZ2c2pZOXhWd0VsakEtVmtQdHpaRURaTEtqVTRMazl6bzBzSXFkdEhiWHEyTWJOcXJnRE1yUVF1VTA4eGZrNGlyZGxNaEFpM2ZKMWVsdTFYQy1pUEV1eVBVUk9kVFFhaU4xNTVqc0s0RVpZbDZBUWFMc295S005M2hPT1FrVXRyR1FGMHRwS3ZWdnVQTzV1Y3AwOWp4NFlYVVhhWGsyUGJHM2lMdHNPS2tYVVMyTmJkWnlqRkhYWjc2TVJreE9oTHVSTTZzZjQ?oc=5",
+   "quelle": "TradingKey",
+   "zeit": "2026-11-08T06:05:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3851c49d14abc5f",
+   "k": "welt",
+   "titel": "US-Militär attackiert Handelsschiff im Golf von Oman",
+   "t": "Das US-Militär hat auf ein Handelsschiff im Golf von Oman gefeuert, das laut US-Seite gegen die aufrechterhaltene Seeblockade verstoßen haben soll. Iran meldet, dass zwei Frachter in der Straße von Hormus betroffen sind.",
+   "e": "Die Meldung betrifft eine der wichtigsten Öl-Transportrouten der Welt und zeigt die Zuspitzung im US-iranischen Verhältnis, was Energiepreise und Versicherungskosten beeinflussen kann.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T06:01:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "0a35b2975dd1bbd6",
+   "k": "deutschland",
+   "titel": "Fahnder halten ihn für einen Wegwerfagenten Putins. Er sieht sich als Opfer einer Inszenierung",
+   "t": "Ein Ukrainer soll als Kurier ein Paket von Lettland nach Litauen transportiert haben, kurz darauf brannte am Flughafen Leipzig ein Frachtcontainer. Die Ermittler halten ihn laut Bericht für einen Wegwerfagenten Putins, er selbst spricht von einer Inszenierung.",
+   "e": "Der Fall betrifft mutmaßliche russische Sabotage über Logistikwege in Europa und ist Teil der Debatte über hybride Bedrohungen in Deutschland.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/plus6aed9286a389bc337cfc7974/das-leben-eines-russischen-wegwerfagenten-saboteur-putins-oder-opfer-eines-komplotts.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T05:57:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b617068ccd49c97",
+   "k": "usa",
+   "titel": "Ein Drohung an die Demokraten? Trump will Kampfsportler als Pressesprecher - WEB.DE",
+   "t": "Trump will einen Kampfsportunternehmer als Pressesprecher ins Weiße Haus holen, was als Signal an die Demokraten gewertet wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkZ0eWw2N2ZTTVBRZ1ViU0tVaFVNOHozalN3SDVfc3oxT3VuTXZYM21iVGlRMFlrVlF1REIycTZuRkw0ZGFTd1lkeWdOQTNQeC1ETURNeVdyNXZwNld0eHVfb2YyNENxOURBVWlEZ2V4X3ZQaDJMRUlzbmY4VEhxS2ZtUzlCQjBmbUhOOXB2a0VlZlp5bVhwUUUzZDFzNjFFMURackpoeHA?oc=5",
+   "quelle": "WEB.DE",
+   "zeit": "2026-11-08T05:56:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "a3147085c4afbc1f",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Baustelle auf der A45 auf Höhe Oberrahmede ab nächste Woche Dienstag - News.de",
+   "t": "Auf der A45 wird auf Höhe Oberrahmede ab nächster Woche Dienstag eine Baustelle eingerichtet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdUxLeEQ2NmloSzBZMERXUnJUc1JaazJEWW9PVXBXNFpyQWZQUXBlZVhHUDYxQndoMjM2ZWRhNU13eUJVQ2JVZEJncFd2TzN2dllOTjFVOFBETUtKTjJqM1BvSEdhYWUwcS1reTEwUzI5NkdLNWxwYS04WVRnMFlsOXpHQ2E2Z0VxenVQVjVSRXV6TGNIS21TT1p1bVA3X2Z5VTN0dkxhdExSUl9wWU9JU1F2SHRONWJHb1RqR0FxdG1rbFFkX1YzMHRsMDRZaDZlVnUwNnRmeDVxbk5teHI0Q2hJUG5VLW9jVXhpV3NIYWVYMWg5UHZ1R2tLSjVwb052SjdQNzBPSEVfUmxPYlhjQ3AzNjk1cTNZQ2ZNMWZGZnUzOUJrR0JVTnVGYWM0eUlZUnFyb0pEaHppcHpJQ3R2N2R1cl92dWM2U2Rjakc1bzZDdExQUlE?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-08T05:41:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "1c6afef162e87664",
+   "k": "nrw",
+   "titel": "News, Nordrhein-Westfalen, Regional: SPD verlangt von Wüst Klarheit zum Kohleausstieg - tixio - Nachrichten",
+   "t": "Die SPD verlangt von Ministerpräsident Wüst Klarheit zum Kohleausstieg in Nordrhein-Westfalen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXc3TXRfWFJqMDFkSFZrbjhJaGZ6Q3ZaQVVTcmRVcTJfbWhrVi03dUdiZk56LXFHVmhvWWFBR2ZhOVYwbGZKQ2VtVUZmZjN5VC1YMkZDYS1zdDdrTGpqblVITkdOVGpBWktKaklqUi1iNTVhZ2VHTmcyWm9DRjdpeFBOWEpWOUlabHdj?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-08T05:15:00+00:00",
+   "tag": null
+  },
   {
    "id": "8d7c1afe5c566e87",
    "k": "finanzen",
@@ -181,6 +337,18 @@
    "tag": null
   },
   {
+   "id": "c876a2da49791f22",
+   "k": "finanzen",
+   "titel": "Die Goldpreise schwanken nach der US-Wahl stark: Die Fed hat weiterhin die Entscheidungsgewalt. - Vietnam.vn",
+   "t": "Die Goldpreise schwanken deutlich nach der US-Wahl, wobei die Fed weiterhin maßgeblich über die Zinsrichtung entscheidet.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVotMzdhVDRDNUVKdVlpUUtRZVJNamdVUHVoSlo0ZFJSTkoxcjBkSkF3MFl6Q19GSl83cTBoVjQwc01SV1V3ZEQ3OGxnTWRlajktXzJPTENFZXJra05TWm5pWFBqaUtZNDY5NTJZcnpkb2JReFRjbzNaVnlSS2JDWUdHc2xWOU12RjVkZ1dJcHplUkU2SXc?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-08T04:16:32+00:00",
+   "tag": null
+  },
+  {
    "id": "f5c8d99852766b8c",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Schaden durch Betrug an Senioren übersteigt 40 Millionen - n-tv.de",
@@ -238,6 +406,18 @@
    "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-cop31-klimagipfel-in-der-tuerkei-worum-es-geht-und-woran-es-hakt/100268163.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-08T04:00:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "3d583d34f2759761",
+   "k": "finanzen",
+   "titel": "Spanien und Niederlande nominieren Kandidaten für EZB-Spitze - SuaraGarut.ID",
+   "t": "Spanien und die Niederlande haben Kandidaten für die Spitze der Europäischen Zentralbank nominiert.",
+   "e": "Die Personalie entscheidet mit, wie die EZB-Zinspolitik nach dem Ende der aktuellen Amtszeit ausgerichtet wird.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52NTFFX1BOcXcwV3NEZXR2UGQ4TlRUSVRRZTJiTTQtWUNMU2tnR3d3cDBZMmlPM1ZkR2NYWEp4WEdxTGM0aFB1anJ6SzAyWXdHWUx1ZkxjWGwybmlZbHNndEZBbjlaR0lCYUc4QkM5Y1ZBRVNzWFBCMg?oc=5",
+   "quelle": "SuaraGarut.ID",
+   "zeit": "2026-11-08T03:39:23+00:00",
    "tag": null
   },
   {
@@ -2329,6 +2509,18 @@
    "tag": null
   },
   {
+   "id": "7730c1623a5efce9",
+   "k": "finanzen",
+   "titel": "Tech stocks stage partial rebound while dollar gains after US jobs data - eNCA",
+   "t": "Nach den US-Arbeitsmarktdaten haben Techwerte teilweise erholt, während der Dollar zulegte.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkpXdGQyUGxKOTQ0NmhSRFFnMkhndU93bFBFTy05NFRBMktVZzdBRzEwdGpCaDRJWXROcVR5ZV85VzQwendfTW5QbFhwanhKa1NPY1BnSDZfeTY4QVF5YmxYQmVWdGVEQUVXXzN3VDJBbGxOakJpTmp1QXVSQ285S3owaklTUm44X2ZiUUdDZkMxX1E4Njd0TUxjVWpwa1NHN0I4?oc=5",
+   "quelle": "eNCA",
+   "zeit": "2026-11-07T07:04:04+00:00",
+   "tag": null
+  },
+  {
    "id": "7fe31ddfbeeb94fc",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Zwei Tote nach Frontalcrash auf L822 - tagesschau.de",
@@ -2891,198 +3083,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-07T01:54:19+00:00",
    "tag": null
-  },
-  {
-   "id": "2d90c5a7c05740ff",
-   "k": "welt",
-   "titel": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
-   "t": "Papst Leo XIV. beginnt seine Südamerika-Reise in Uruguay. Auf der Reise, die drei Länder in elf Tagen umfasst, besucht er auch die Heimat seines Vorgängers.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-07T01:50:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "967eb47ea2e539d6",
-   "k": "deutschland",
-   "titel": "15 Millionen Euro Haftentschädigung – Mehr als 2000 Menschen unschuldig im Gefängnis",
-   "t": "Seit 2019 saßen laut einer Auswertung mindestens 2618 Menschen zu Unrecht in Haft. Die Bundesländer haben dafür mindestens 15 Millionen Euro Entschädigung gezahlt, die tatsächlichen Zahlen dürften höher liegen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6aee77413ea0d5abd04d6879/hohe-dunkelziffer-15-millionen-euro-haftentschaedigung-mehr-als-2000-menschen-unschuldig-im-gefaengnis.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T01:13:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "f608776761d1fef1",
-   "k": "finanzen",
-   "titel": "Die Goldpreise fielen weiter, da der Markt mit einer Zinserhöhung der US-Notenbank im Dezember rechnete. - Vietnam.vn",
-   "t": "Die Goldpreise sind weiter gefallen. Laut Bericht rechnet der Markt mit einer Zinserhöhung der US-Notenbank im Dezember.",
-   "e": "Erwartete Zinserhöhungen der Fed drücken auf Gold, da es keine Zinsen abwirft und Anleger dadurch Alternativen mit Rendite bevorzugen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGFRbmc2ZXExRV82cUZZYVd3bEtFNXJUcUppeGU4RThHZ2FDV2NqRHM0M2o1RlNjZ1BXbE1WVXhwWk52U2s1d0Y0Sk5nOWlEN2ZDTENiOVFjalBNdlZFeUxqbGh1b0dVSVdtWmxWaVlieFZCcG9FMmFzQ1dwcUh6YmJmYTJFdnZ0MzVpNGpNZFVJMWdBTTNPOW16dUNHV0NPUmFj?oc=5",
-   "quelle": "Vietnam.vn",
-   "zeit": "2026-11-07T01:07:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "afb11363cf864d6d",
-   "k": "finanzen",
-   "titel": "Trump sics ‘committee of inquiry’ on Lisa Cook after Supreme Court blocks firing - Raw Story",
-   "t": "Trump hat nach einem Urteil des Supreme Court, das seine Entlassung von Fed-Gouverneurin Lisa Cook blockiert, einen Untersuchungsausschuss gegen sie eingesetzt.",
-   "e": "Streit um die Unabhängigkeit der Fed, der für die Erwartungen an die US-Geldpolitik zentral ist.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eWNSQlpBMUNudzM4RVd6YVY4TE4wbnc5a2EzVUV3dmN3T0xCbWJvZmV5NWNlTWJNS2h4Nm9EQkd5ZUJYdFZ2MUFoWk9uVFFIY0V3OElXbUdud9IBbEFVX3lxTE9BTW96cHo1Y2ItVldBeFoyVERMam5sV1FwWURVbDE1T2c2VkIxVTRyZXZDV1Z2NUlRLW5oeHZDVnhMcDkzM1BHQndNVWZrOWF2R2hkVnRfXzlqMS00MWRaOW5mRnhNdUpWWkhPMw?oc=5",
-   "quelle": "Raw Story",
-   "zeit": "2026-11-07T01:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e7684b0696f522c5",
-   "k": "usa",
-   "titel": "Trump suggests Cabinet shakeups won’t stop at Susie Wiles in ‘60 Minutes’ interview: ‘Maybe a few changes’",
-   "t": "Trump deutet nach dem Abgang von Stabschefin Susie Wiles weitere Kabinettsumbildungen an, nachdem die Republikaner bei den Zwischenwahlen Verluste erlitten haben.",
-   "e": "",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/06/us-news/trump-suggests-cabinet-shakeups-wont-stop-at-susie-wiles-in-60-minutes-interview/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-07T00:55:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "c53130e60a07a533",
-   "k": "deutschland",
-   "titel": "Geschichte: Merkels Appell beim „Ermutiger“ Biermann",
-   "t": "Zum 50. Jahrestag der Ausbürgerung Wolf Biermanns aus der DDR äußert sich Angela Merkel zu dem Konzert und dessen Bedeutung.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.handelsblatt.com/politik/deutschland/geschichte-merkels-appell-beim-ermutiger-biermann/100268033.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T00:52:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "9579226df0cb260e",
-   "k": "welt",
-   "titel": "Haftbefehl erlassen: Staatskrise in Paraguay: Peña als Präsident abgesetzt",
-   "t": "Gegen den abgesetzten paraguayischen Präsidenten Peña wurde ein Haftbefehl erlassen; er wird im Zusammenhang mit einer Finanz- und Staatskrise geführt.",
-   "e": "Die Bankenkrise in Paraguay wirft Fragen zu Finanzaufsicht und politischer Verantwortung auf, die über das Land hinaus beobachtet werden.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/haftbefehl-erlassen-staatskrise-in-paraguay-pena-als-praesident-abgesetzt/100268031.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T00:38:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "81375223bbd1f844",
-   "k": "finanzen",
-   "titel": "KI-Finanzierung: OpenAI sammelt laut Bericht elf Milliarden Dollar bei Investoren ein",
-   "t": "OpenAI sammelt laut Bloomberg elf Milliarden Dollar bei Investoren ein und wird mit 1,25 Billionen Dollar bewertet; zugleich hat das Unternehmen seine Ziele gesenkt.",
-   "e": "Die Senkung der Ziele trotz hoher Bewertung fällt in eine Phase des Ausverkaufs bei KI-Aktien und steigender Kosten.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T00:13:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "3066309ce8b4afdf",
-   "k": "finanzen",
-   "titel": "BAWAG erhält EZB-Genehmigung für Übernahme der irischen PTSB - trend.at",
-   "t": "Die Bank BAWAG hat die Genehmigung der EZB für die Übernahme der irischen PTSB erhalten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2w1OElGa0RfX2U0OFVDcUJ3OURwdTRqYWtmSnItV2NEbmw5MnB4MlFhczFvRGRRckVtRERWRElxTnY2Ul9RR3p5UVo2RW5EWnVxYkpqTEp0Qm9RNHpENHIwUFFPMTBXRHdGVC0xbWF5bHpjb0F6eGhCZWoxSGluN1JsdUlJbVpBUnU2TUJUbw?oc=5",
-   "quelle": "trend.at",
-   "zeit": "2026-11-07T00:11:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c9b2b6d5d3167698",
-   "k": "welt",
-   "titel": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-   "t": "Nach Amtsenthebung durch das Parlament wurde Paraguays Ex-Präsident Peña unter Hausarrest gestellt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T00:06:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "c845a9e2115e9f9a",
-   "k": "deutschland",
-   "titel": "Scout24-Chef warnt vor wachsendem Graumarkt für Wohnungen",
-   "t": "Scout24-Chef Weitz warnt vor einem wachsenden Graumarkt, auf dem Wohnungen außerhalb öffentlicher Plattformen angeboten werden.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.welt.de/wirtschaft/article6aede3bc47b5fce02f87a5e2/regulierung-scout24-chef-warnt-vor-wachsendem-graumarkt-fuer-wohnungen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T00:04:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "6d3e8bfa85be7765",
-   "k": "deutschland",
-   "titel": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
-   "t": "Hunderttausende interne AfD-E-Mails sind im Internet veröffentlicht worden; Justizministerin Hubig prüft, ob sie als Material für ein mögliches AfD-Verbotsverfahren dienen können.",
-   "e": "Die Verwertbarkeit der Mails könnte die Debatte um ein Parteiverbot erheblich beeinflussen.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/verbotsverfahren-hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen/100268026.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T00:00:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "33ef7190588a0340",
-   "k": "usa",
-   "titel": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
-   "t": "Im Weiter-Streit um den Iran-Krieg raten Vizepräsident JD Vance und Golfstaaten Trump, den Krieg zu beenden, andere Berater drängen auf neue Angriffe.",
-   "e": "Die Entscheidung über eine Fortsetzung oder ein Ende des Konflikts hat Folgen für Ölpreise, Märkte und die Sicherheitslage im Nahen Osten.",
-   "s": 8,
-   "link": "https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-07T00:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ae92aa49a757613",
-   "k": "finanzen",
-   "titel": "US jobs data push gold lower as December rate bets rise - Nation Thailand",
-   "t": "Gold verliert nach den US-Arbeitsmarktdaten. Die Wetten auf eine Zinsanhebung im Dezember nehmen zu.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyX0R2YjZ5eHlBOWZxMm9lOXVXWnpvMHY5TlJ1cU9DOVN0Q3NPeWw5b1g2N0NDQlJ0N2xnRmVhc3poeWdHV2dNUXlONjIzcVphTG9pV1A2S1JDcmUtN0s5U1FUN3RCR2tMT0JyZ1RpQUVEMWk5Vmc?oc=5",
-   "quelle": "Nation Thailand",
-   "zeit": "2026-11-06T23:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "09747b14e1309623",
-   "k": "usa",
-   "titel": "Illegal immigrant heard voices to assassinate Trump — arrested with firearm-filled stolen vehicle",
-   "t": "Ein Mann mit Schusswaffen und gestohlenem Fahrzeug wurde festgenommen; er gab an, Stimmen gehört zu haben, die ihn zu einem Attentat auf Trump aufforderten.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/06/us-news/illegal-immigrant-arrested-heard-voices-to-assasinate-trump/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-06T23:39:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "a747f9a6a2610c3f",
-   "k": "finanzen",
-   "titel": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
-   "t": "Der Berkshire-Hathaway-Versorger Pacific Power beantragt bei den Behörden in Kalifornien eine Strompreiserhöhung von 57 Prozent.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-06T23:33:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
@@ -3105,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Welt",
@@ -3115,12 +3115,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 19
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "CNBC Finance",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -3180,17 +3180,17 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 27
+    "n": 25
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 20
+    "n": 18
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3205,12 +3205,12 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 22
+    "n": 16
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Google News Fed",
