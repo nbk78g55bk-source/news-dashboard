@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T00:31:19.998662+00:00",
+ "aktualisiert": "2026-11-08T01:01:00.513495+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.716 $",
-   "delta": -0.18974037844123307
+   "wert": "75.707 $",
+   "delta": -0.1667888197286453
   },
   {
    "name": "Ethereum",
-   "wert": "2.235 $",
-   "delta": -0.17516210119312292
+   "wert": "2.234 $",
+   "delta": -0.16998751950327806
   },
   {
    "name": "Gold",
@@ -85,6 +85,18 @@
  },
  "items": [
   {
+   "id": "95a0190ef8c05bf8",
+   "k": "usa",
+   "titel": "US-Präsident: Trump schürt Zweifel an Kongresswahl und droht Demokraten",
+   "t": "Trump zweifelt nach der deutlichen Niederlage der Republikaner bei den Kongresswahlen wieder an dem Ergebnis und greift die Demokraten an. Zunächst hatte er sich nach der Wahl noch zurückhaltend geäußert.",
+   "e": "Die Aussagen setzen den Streit um die Akzeptanz von Wahlergebnissen fort und könnten die politische Lage in den USA vor den nächsten Haushalts- und Machtfragen zusätzlich anspannen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/us-praesident-trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten/100268151.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T00:43:37+00:00",
+   "tag": null
+  },
+  {
    "id": "bfbf8e481b320a2a",
    "k": "welt",
    "titel": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
@@ -106,6 +118,18 @@
    "link": "https://www.welt.de/vermischtes/article6aefb9aea389bc337cfc9906/mitten-in-der-nacht-japan-von-erdbeben-der-staerke-5-7-erschuettert-zahlreiche-verletzte.html",
    "quelle": "Welt",
    "zeit": "2026-11-08T00:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e82f46c081563771",
+   "k": "finanzen",
+   "titel": "Markets Price Fed and ECB Paths More Hawkishly Than Indosuez's Baseline - www.tokenpost.com",
+   "t": "Märkte preisen laut Indosuez-Analyse für Fed und EZB einen restriktiveren Zinspfad ein, als es die Basisszenario der Bank vorsieht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVkFfUllxelBUUW1WeVlGcGhndFBfbVJLV3RQb21ES1VsdUVacjVISmo5Ym9KLVJqRUVlOVJLalJDbnBtdEluNU5UbFh5LXZ3WkduQjEtWFZjQQ?oc=5",
+   "quelle": "www.tokenpost.com",
+   "zeit": "2026-11-07T23:53:30+00:00",
    "tag": null
   },
   {
@@ -3059,30 +3083,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-06T20:28:45+00:00",
    "tag": null
-  },
-  {
-   "id": "e957e9af79aba1b3",
-   "k": "deutschland",
-   "titel": "CDU stürzt weiter ab und ist fast gleichauf mit Linken – AfD mehr als doppelt so stark",
-   "t": "Laut INSA-Umfrage liegt die CDU in Thüringen nur noch einen Prozentpunkt vor der Linken, die AfD ist mehr als doppelt so stark. Die Koalition unter Ministerpräsident Voigt kommt nicht auf eine Dreiviertelmehrheit.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6aee28e947b5fce02f87ab16/insa-umfrage-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T20:24:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c1c64c53b908d79",
-   "k": "deutschland",
-   "titel": "CDU stürzt weiter ab und ist fast gleichauf mit Linken – AfD mehr als doppelt so stark",
-   "t": "Laut neuer INSA-Umfrage liegt die CDU in Thüringen nur noch einen Prozentpunkt vor der Linken, die AfD kommt mehr als doppelt so stark. Die Regierungskoalition um Ministerpräsident Voigt erreicht zusammen nicht einmal drei Viertel der Sitze.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6aee28e947b5fce02f87ab16/insa-umfrage-zu-thueringen-cdu-stuerzt-weiter-ab-und-ist-fast-gleichauf-mit-linken-afd-mehr-als-doppelt-so-stark.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T20:24:13+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Tagesschau Ausland",
@@ -3205,12 +3205,12 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Google News Fed",
