@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T09:01:25.459711+00:00",
+ "aktualisiert": "2026-11-08T11:01:26.685626+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.854 $",
-   "delta": -0.369253620514089
+   "wert": "75.811 $",
+   "delta": -0.14412418335057647
   },
   {
    "name": "Ethereum",
-   "wert": "2.237 $",
-   "delta": -0.5199270839416378
+   "wert": "2.234 $",
+   "delta": -0.48938809663758087
   },
   {
    "name": "Gold",
@@ -54,36 +54,272 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-08T07:01:19.977727+00:00",
+  "slot": 12,
+  "stand": "2026-11-08T11:01:26.685604+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen. Nach jüngsten Angaben starben sechs Menschen, mehr als ein Dutzend wurden verletzt; der mutmaßliche Täter wurde gefasst. Unter den Verletzten ist auch eine Person aus Deutschland."
-   },
-   {
-    "k": "welt",
-    "t": "Im Persischen Golf sind zwei Öltanker auf Minen gelaufen und brennen, nachdem sie eine nicht genehmigte Route in der Straße von Hormus genommen hatten. Das US-Militär hat außerdem auf ein Handelsschiff im Golf von Oman gefeuert, das laut US-Seite gegen die Seeblockade verstoßen haben soll."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die Fed lässt die Zinsen unverändert (Fed Funds 3,88 %), die EZB liegt bei 2,50 %. Fed-Präsidentin Daly rechnet trotz Tech-Kurseinbrüchen mit weiteren Zinserhöhungen. Der Deka Nasdaq-100 notiert bei 172,92 €, der Deka DAX bei 225,35 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Lagarde verlässt die EZB vorzeitig im Februar; die Eurogruppe hat Pablo Hernández de Cos und Klaas Knot als Kandidaten für die Nachfolge benannt. Laut Bericht gingen an der Nasdaq am Donnerstag rund 2,5 Billionen Dollar Börsenwert verloren."
-   },
-   {
-    "k": "usa",
-    "t": "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit im Repräsentantenhaus erobert und kontrollieren nun auch den Senat. Trump hat das Justizministerium beauftragt, gegen Demokraten zu ermitteln."
+    "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen und nach jüngsten Angaben sechs Menschen getötet, mehr als ein Dutzend wurde verletzt. Im Haus des mutmaßlichen Schützen fanden die Behörden drei weitere Leichen, darunter seine Eltern und Schwester. Ministerpräsident Tusk spricht von Terrorismus, das Motiv ist unklar, und die Ermittler prüfen ein rechtsextremes Motiv."
    },
    {
     "k": "deutschland",
-    "t": "Ilse Aigner wird von CDU und CSU als Unionskandidatin für die Bundespräsidentenwahl nominiert. In Berlin suchen mehr als 140 Polizisten nach der seit Tagen vermissten 13-jährigen Lisa; die Mordkommission ermittelt."
+    "t": "Unter den Verletzten des Angriffs in Krakau ist eine Person aus Deutschland. Die Union nominiert Ilse Aigner als Kandidatin für die Bundespräsidentenwahl."
+   },
+   {
+    "k": "finanzen",
+    "t": "Am Markt notieren der Deka DAX bei 225,35 €, der iShares MSCI World bei 127,31 € und der Deka S&P 500 bei 138,64 €. Die EZB liegt laut Marktdaten bei 2,50 % Zins, die Fed Funds bei 3,88 %. Die US-Notenbank lässt die Zinsen laut Meldung unverändert, während mehrere Fed-Vertreter eine Anhebung befürworten."
+   },
+   {
+    "k": "finanzen",
+    "t": "An der Nasdaq sind am Donnerstag laut Bericht rund 2,5 Billionen Dollar Börsenwert verloren gegangen, am Folgetag folgte eine schwächere Erholung. In den USA entstanden im Oktober laut Bericht 165.000 neue Stellen, die Arbeitslosenquote sank auf 4,1 %."
+   },
+   {
+    "k": "welt",
+    "t": "Im Persischen Golf sind zwei Öltanker in der Straße von Hormus auf Minen gelaufen und brennen. Das US-Militär hat zudem ein Handelsschiff im Golf von Oman beschossen und neue Angriffe auf iranische Luftverteidigung auf der Insel Qeshm bestätigt."
    }
   ]
  },
  "items": [
+  {
+   "id": "a3fdfac7680ba2bc",
+   "k": "welt",
+   "titel": "UN-Klimakonferenz – wie China Europa überrumpelt",
+   "t": "China nutzt laut Bericht den Sonderstatus als Entwicklungsland bei den UN-Klimaverhandlungen, um seinen Einfluss auszubauen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/wissenschaft/klimabilanz/plus6aec4c51eca9cecdd5d47882/klimawandel-un-klimakonferenz-wie-china-europa-ueberrumpelt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T10:50:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4c18976ca300c7e",
+   "k": "deutschland",
+   "titel": "„Auch in Zukunft gibt es viel zu tun“ – Aigner meldet sich vor möglicher Nominierung",
+   "t": "Bayerns Landtagspräsidentin Ilse Aigner gilt als mögliche Kandidatin für die Bundespräsidentschaft und hat sich vor einer erwarteten Nominierung zu Wort gemeldet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6af04bbd80d3a1c6aa66cf3b/bayern-auch-in-zukunft-gibt-es-viel-zu-tun-sagt-ilse-aigner.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T10:38:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "d3f4c437d3e20163",
+   "k": "welt",
+   "titel": "Sicherheit: Angriff auf Bahnprojekt: Cyberattacke auf Brennerbasistunnel-Firma",
+   "t": "Unbekannte Täter haben sich Zugriff auf Daten der Baugesellschaft des Brennerbasistunnels verschafft. Auch ein Tunnelprojekt zwischen Deutschland und Dänemark war von einer IT-Attacke betroffen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/sicherheit-cyberattacke-auf-brennerbasistunnel-firma/100268200.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T10:33:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "7196940056a55d07",
+   "k": "nrw",
+   "titel": "NRW: Mietpreisklatsche im Revier – hier gibt es am wenigsten Platz für teuer Geld - DerWesten",
+   "t": "Eine Auswertung zeigt, in welchen Revierstädten am wenigsten Wohnraum für das vorhandene Geld zur Verfügung steht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmtDcE42WUdyU1diaWdrZW5jTEh0eDB6aHhHX1lCSEJmYkxzUGZCU0ZjQ3oydlZRd2E4VGZTektjWXI0SEZseFo2aGhBNWwxWUJ3YU9EN2ZPbFpKMW9lel9PenRZZ3Q5WlVqclFUM3dZRS1xUGlnMHE1SWpJd1I2Z2FvUWtia1dnWHNnV0xBLWhWU01YdjFmZFNhMUtST2Fr?oc=5",
+   "quelle": "DerWesten",
+   "zeit": "2026-11-08T10:31:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "a390fb9d3615ad29",
+   "k": "deutschland",
+   "titel": "Linke-Politikerin Emde weist Rückzugsforderung des Vorstands zurück",
+   "t": "Die Berliner Linke-Abgeordnete Vanessa Emde lehnt die Forderung ihres Parteivorstands ab, ihr Mandat niederzulegen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/video6af04d001125adfe9365c4bb/regierungsbildung-in-berlin-linke-politikerin-emde-weist-rueckzugsforderung-des-vorstands-zurueck.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T10:25:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "22630ccc52bc530b",
+   "k": "welt",
+   "titel": "„Aus Tierversuchen wissen wir, dass solche Gentherapien Krebs auslösen können“",
+   "t": "Novartis meldet weltweit neun Krebsfälle bei Kindern nach einer Gentherapie mit Zolgensma. Experten fordern, dies bei der Nutzen-Risiko-Bewertung zu berücksichtigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/gesundheit/article6af032f31125adfe9365c2a9/gentherapie-zolgensma-aus-tierversuchen-wissen-wir-dass-solche-gentherapien-krebs-ausloesen-koennen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T10:20:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "66c173e147a7305c",
+   "k": "nrw",
+   "titel": "Energie: Experten befürchten Stromknappheit in NRW - DIE ZEIT",
+   "t": "Experten warnen vor einer möglichen Stromknappheit in Nordrhein-Westfalen.",
+   "e": "Eine knappe Stromversorgung wäre für Industrie und Haushalte im Revier relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZG96c1dhaV9SWG41Qm5zaFRueVExamhkTUhoSXRSU2RGa2IyRHJqVld1Yk5xdkNmZWdFWjdLWDhLaEhMMTRsWXBxRnFDdWtiLTJIY1c2Tlh6RDl0dWxzZEJaaThuTC1QOG1GZEllMWhfWVUwQ0dOX3o3djF2YlJYRjBQZkw?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-08T10:14:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "17ba7773394b273e",
+   "k": "deutschland",
+   "titel": "„Wenn erneute Angriffe Irans Verbrecher-Regime schwächen, würde ich sie begrüßen“",
+   "t": "Reza Pahlavi hat in Frankfurt vor Zehntausenden Anhängern gesprochen und sich in einem Interview zu möglichen Angriffen auf das iranische Regime geäußert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/plus6aefc0a080d3a1c6aa66cac6/reza-pahlavi-wenn-erneute-angriffe-irans-verbrecher-regime-schwaechen-wuerde-ich-sie-begruessen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T10:12:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "722b3d0c3b03637b",
+   "k": "usa",
+   "titel": "Inside a rancher family's clash with gov't that could have ripple effect right to SCOTUS: ‘Existential threat’",
+   "t": "Ein Viehzüchterehepaar in den USA streitet mit der Umweltbehörde des Bundesstaats Washington über Strafen von 267.540 Dollar wegen Wasserteichen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/rancher-family-clash-govt-ripple-effect-scotus-existential-threat",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-08T10:00:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "dd188c490b136a75",
+   "k": "usa",
+   "titel": "Trump will Kampfsportunternehmer White als Pressesprecher",
+   "t": "US-Präsident Trump will den UFC-Chef Dana White als Pressesprecher ins Weiße Haus holen. Der Vorschlag sorgt für Rätselraten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T09:59:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b28f058efa1f0bd",
+   "k": "welt",
+   "titel": "Familienmitglieder des Schützen ebenfalls getötet",
+   "t": "Nach den tödlichen Schüssen auf einem Marktplatz in Krakau wurden auch Eltern und Schwester des mutmaßlichen Schützen tot aufgefunden. Landesweit gilt in Polen Staatstrauer. Das Motiv ist weiterhin unklar.",
+   "e": "Die Tat weitet sich auf den familiären Kontext aus; Ministerpräsident Tusk hatte die Tat zuvor als Terrorismus bezeichnet.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T09:58:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "ea31a7b4e666163c",
+   "k": "welt",
+   "titel": "Konflikt mit Saudi-Arabien: Huthi greifen Wolkenkratzer im Zentrum von Riad an",
+   "t": "Die Huthi haben in Riad einen Wolkenkratzer im Geschäftsbezirk angegriffen. Die fast täglichen Angriffe betreffen Saudi-Arabien als Standort für Geschäfte und Tourismus.",
+   "e": "Die Angriffe könnten das Vertrauen internationaler Investoren in Saudi-Arabien belasten.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T09:51:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "cce0d75cdc0ec5ab",
+   "k": "welt",
+   "titel": "Amsterdam protesters break into Microsoft data center construction site: Report",
+   "t": "In Amsterdam sind laut Polizei 150 bis 200 Menschen wegen Hausfriedensbruchs festgenommen worden, nachdem sie eine Baustelle eines Microsoft-Rechenzentrums betreten hatten.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-08T09:48:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "1e8cc93d8ae5bd64",
+   "k": "finanzen",
+   "titel": "Hot CPI Inflation Seals Fed Rate Hike, But Stocks Rise - Investor's Business Daily",
+   "t": "Nach einem starken US-Verbraucherpreisanstieg wird berichtet, dass die Fed die Zinsen erhöht. Die Aktienmärkte haben dennoch zugelegt.",
+   "e": "Eine Zinserhöhung der Fed wäre gegen die Erwartung einer Zinspause ein wichtiges Signal für Zinsen, Dollar und Aktienmärkte weltweit.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV01fUFdFOC1EcHVvU2VlNVVzSERudGlIcDFvZnRVbTVwOW9iZFV1TTdnVk40MmtWVDBYbDlOT2pBZVB1M3YwempNajNkQ2JBRGNjUjdaaGZqbnlIOVVnWEprazFnQ3ZjZnh5MFc5d1BDc0hzQ3hPTHBaRUN5eHJCWHU4V2VJRmRfOGVPNlRFX3BZSTNVX3ppcw?oc=5",
+   "quelle": "Investor's Business Daily",
+   "zeit": "2026-11-08T09:44:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "096c594604c53d5a",
+   "k": "finanzen",
+   "titel": "US payrolls top forecasts with 165,000 October gain as unemployment falls to 4.1% - London Daily News",
+   "t": "Die US-Wirtschaft hat im Oktober laut Bericht 165.000 neue Stellen geschaffen, mehr als erwartet. Die Arbeitslosenquote sank auf 4,1 Prozent.",
+   "e": "Der starke Arbeitsmarkt spielt für die Erwartungen an die Zinspolitik der Fed eine zentrale Rolle.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTdLc3h6WGZXcDByOHZiU2laOXB5eG5XSHh4RThPY2VBTzZOaHZYWG5rck03eEh2cnJ6a1JYdnFjMjFCZm40M2dTSV9aS09YR2NWcWNTOEcwTG1STm1NTmo3b1ZacGRoSG9LZi05TzN3eUc0ZXdBN1FhbzlBeXdjYmdvQ0JMQ2NtQW16SVNPcFRUaGhkR3JuQ0FoMXh1ZFU3NWNJSFlyRHhmczFU?oc=5",
+   "quelle": "London Daily News",
+   "zeit": "2026-11-08T09:38:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "2fad19656e177a5f",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Montagearbeiten auf der A45 nahe Eggenscheid noch bis Mai 2027 - News.de",
+   "t": "Auf der A45 nahe Eggenscheid in Lüdenscheid dauern Montagearbeiten noch bis Mai 2027 an.",
+   "e": "Die langfristige Baustelle betrifft Pendler im Märkischen Kreis über mehrere Jahre.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOT3F5RzJxV2tFdmdYenVaa0x1LXBhYV83SXF2SElNamZfQ2JIejlEQ2RZdF8ydVU2cjBQbG80UlkxaWt2Q0JRWTBRd2lqZEJFdm5idGMzV3F3OUx1QWx4NnBGY2lXVWZOY0JWM013Ymw2dnhWUDJFbWMwMEhXWlRycEhycUt6ckdhZFk2czBoaVRVNnpxQU5DdkM2aWJsSUhTVlQ1UUNWb05NSm11RTBnN1ViRXB3VXE3NjBCWS14dk9razJNWjFSUGgwQlpiWUFfeDU0Mi15b1pOSmg4bXBQZldqajBwQ0pLYXV2cXlzTFBrWkVjNXN2dTRDVDBkcGlnSE1TdXhVXzVIT19BaVBnWGdlWjhWTzhEZ3JFWFRJWGV3Mzc1ekd3Y0ZfMWJQMGFFdlg0VlNwUkdtbERyVHBSS19rd2FNZHhkY2tZUk53elVTTnlwYUg5VVBySktob2c5ZVA2VExXdldScU5xWjF1cm42WXJPeWgydllMZGZFbExjYWpBZ1BKUkdCUFhfeTBTNUZqSW1NR2NzZw?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-08T09:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "14de61245b9a61a1",
+   "k": "welt",
+   "titel": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+   "t": "In Frankreich haben am Samstag laut Innenministerium 146.000 Menschen gegen die Lebenshaltungskosten und für öffentliche Dienste demonstriert. Es ist das vierte Wochenende in Folge mit Protesten, teils mit Zusammenstößen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-08T09:29:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "1d5ace9434cc5769",
+   "k": "deutschland",
+   "titel": "Aufarbeitung: Der NSU-Terror darf nicht verschwiegen werden",
+   "t": "Chemnitz und Zwickau wollen die Aufarbeitung des NSU-Terrors vorantreiben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/nsu-warum-chemnitz-und-zwickau-die-aufarbeitung-wagen-201655458.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T09:22:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "fe9b397ef3f0242e",
+   "k": "nrw",
+   "titel": "Trauriger Rekord im Pott: Nirgendwo in NRW ist die Armut höher als hier - DerWesten",
+   "t": "Laut einem Bericht ist die Armut in einer Region des Ruhrgebiets höher als in anderen Teilen Nordrhein-Westfalens.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHI4YlFBdW1tVHZEQ3hYN1NJZDQyMkZCaE1YWmFNamVteEtfYm9tTGxUY0FJZy1vNXBNa2RaVld2Z2d3cDNrVlFVRHVJd2YxMHJkaXhJNGtVUFF4YUNCVmh2emVYMnBPS0ZsZGkzSzJyUmhnb3dINjZYNzRwSmt5QjdfajlidDViYW9ReDlJUGJlRU03dmVKcTZkX2xHQURlRDlRSQ?oc=5",
+   "quelle": "DerWesten",
+   "zeit": "2026-11-08T09:14:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "28776cbfd2f5a204",
+   "k": "welt",
+   "titel": "Israels Präsident Herzog will Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung erteilen",
+   "t": "Israels Präsident Herzog will dem Oppositionspolitiker Eisenkot den Auftrag zur Regierungsbildung erteilen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1680146.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T09:03:46+00:00",
+   "tag": null
+  },
   {
    "id": "f203ac94201a7669",
    "k": "nrw",
@@ -457,6 +693,18 @@
    "tag": null
   },
   {
+   "id": "2944d7cddbf7b738",
+   "k": "finanzen",
+   "titel": "Gold, silver prices next week: Why analysts warn of fresh pressure despite a strong rally - Moneycontrol.com",
+   "t": "Analysten warnen vor neuem Druck auf die Gold- und Silberpreise, trotz einer starken Erholung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd0dqM3gteWx0aGViSU5VZnFva3EwSkkwTmdoOGZDcnlJZS1ZeUJjM2FDbUZ1TlZ2aDFVSVJ3a1VkZUJRZTFLV0I1ei1HRGF3cHpyanhOd3lfOVoxUHV1elRQT0ZnN3lDamxhQTAwQXZzNUUtZFQxeXVkY1BwSDNTcHlwWW81bGRWOXA3dFlaX1dyMVlEa0UxUDRRUlVBZ1UybURrc1R3d0ZZWUczWmw1YW9POE5PeDFjSklibUFFM0t5eW1QSzBneE84MWtGUW9VN3A0NTcxMm5HV21uRjdQdHg4N09fNTlFdkZCcNIB8gFBVV95cUxPSDlKV1IxUEVod2hrdkJQQUFUN2NpVkk1VUE3cjE0SUVlS2FuZ05kbS11M0dMUVlqX1N6dl9RLXVoSHd1RUpJLUpnLUdqQUJNZURrRFZ5OHdTSm5YUFpWVkt0WVM1dTJFYlEyeWxYRWhRdllfYXpiUzRHcW5JME5zdHFkN21GOEw3c2FFZ3pLb2ZIMEIxb0ZWYmpMNmo3S0VyVDJIWm5iQWhTMVVNRS0tUU1CZ2lLSmNXV09pUWJNOW05YUplRklLNHNlQkhLeExmQmQyNUdzZHFGaXQwS0wtNUQ2Sy1Lb1VKUE01c1R0SFA5Zw?oc=5",
+   "quelle": "Moneycontrol.com",
+   "zeit": "2026-11-08T06:15:40+00:00",
+   "tag": null
+  },
+  {
    "id": "fa4c27f848644865",
    "k": "finanzen",
    "titel": "Viele Vertreter der US-Notenbank befürworten eine Anhebung der Zinssätze, um die Inflation einzudämmen. - Vietnam.vn",
@@ -562,6 +810,18 @@
    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdUxLeEQ2NmloSzBZMERXUnJUc1JaazJEWW9PVXBXNFpyQWZQUXBlZVhHUDYxQndoMjM2ZWRhNU13eUJVQ2JVZEJncFd2TzN2dllOTjFVOFBETUtKTjJqM1BvSEdhYWUwcS1reTEwUzI5NkdLNWxwYS04WVRnMFlsOXpHQ2E2Z0VxenVQVjVSRXV6TGNIS21TT1p1bVA3X2Z5VTN0dkxhdExSUl9wWU9JU1F2SHRONWJHb1RqR0FxdG1rbFFkX1YzMHRsMDRZaDZlVnUwNnRmeDVxbk5teHI0Q2hJUG5VLW9jVXhpV3NIYWVYMWg5UHZ1R2tLSjVwb052SjdQNzBPSEVfUmxPYlhjQ3AzNjk1cTNZQ2ZNMWZGZnUzOUJrR0JVTnVGYWM0eUlZUnFyb0pEaHppcHpJQ3R2N2R1cl92dWM2U2Rjakc1bzZDdExQUlE?oc=5",
    "quelle": "News.de",
    "zeit": "2026-11-08T05:41:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "02e188e9193935e6",
+   "k": "finanzen",
+   "titel": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare - WFMZ.com",
+   "t": "Ein republikanischer Abgeordneter schlägt vor, Zinszahlungen der Fed an Banken zur Finanzierung des Gesundheitswesens zu nutzen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSkE5bTBONVZLdkNjeGpoQVdPVnZYYnF5NENMSXU3b3Q5X0FpWVZkUXYwcGR1c2xHelg4cVdZRklhMFM4ZXAyNVEtWC1McEs2cnEyYTV6b0JCQTJURGxEb2d4dHh4MFNqNEo0YTVoNFBZSTZBS19RZ0VrUlZ6THRFTm9NQ2dKS3pLRFg2VjBxRU9wakNzbDZnSjZONUtfZ2xxYjQzQUdhT1pZb1RLQTJBaFVKdXlPRXV2RXlKOEtVMnZGcmptVkxDbHJwR3RJcTF1VWZ6LTFOcUlGWWV3bm1xUkttelBRYUxJ?oc=5",
+   "quelle": "WFMZ.com",
+   "zeit": "2026-11-08T05:39:59+00:00",
    "tag": null
   },
   {
@@ -1018,6 +1278,18 @@
    "link": "https://nypost.com/2026/11/07/us-news/ny-ag-letitia-james-warns-dsa-you-target-hakeem-jeffies-you-mess-with-me/",
    "quelle": "New York Post Politik",
    "zeit": "2026-11-07T22:30:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "663aec0320693387",
+   "k": "finanzen",
+   "titel": "Kevin Warsh changed something the Fed has not touched in decades - AOL.com",
+   "t": "Kevin Warsh hat eine Praxis der Fed geändert, die seit Jahrzehnten unverändert war.",
+   "e": "Veränderungen an Fed-Abläufen sind für Märkte und Zinserwartungen von Bedeutung.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2JYUkVfUVhpTmprQ2VReW9GTVF6TjFnaEhUcnIzd0ZsMmhfb2NoUVFRWVJIVzV3UWp1ZkZvZGE3NEZxNTYyNE9EY01NR0JDVjFQYV9pSTRNZDBWaXRwQzY0S2RNSUhqNDgwT0I0NHZNMzBTY2NoVUI0VEVHdHQyQ1g2aw?oc=5",
+   "quelle": "AOL.com",
+   "zeit": "2026-11-07T22:03:00+00:00",
    "tag": null
   },
   {
@@ -1921,6 +2193,18 @@
    "tag": null
   },
   {
+   "id": "dc8f04fa08a53df5",
+   "k": "nrw",
+   "titel": "Polizei-News Plettenberg, 07.11.26: Ortsteil Stadtmitte - Kaminverkleidung brennt in voller Ausdehnung - News.de",
+   "t": "In Plettenberg-Stadtmitte brannte eine Kaminverkleidung in voller Ausdehnung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3ZnT21fWHZibG51QkxCdWUySTQxN1pMMVQ4ZHYwNkM2Q3h6SXpmWEVXTlNYcUxVRmtwRmZXLVU5QXdKRm9TSml6dFpHN3ZGTnhLNzdVb0hzc2ZnTGlMOE9FOUh4VzBZcmxrMlAwU3UtUm9HSF9fSlNrMTl2a2thckVlSU42TnVMSmFaa0pZQ3llNEFoYTByOWVQNFJrVC00Qmg4V2paUGJLLTVndnVtTEZIU1lFUQ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-07T14:14:02+00:00",
+   "tag": null
+  },
+  {
    "id": "66f7b7ee56d605bb",
    "k": "welt",
    "titel": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
@@ -2795,294 +3079,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-07T07:45:24+00:00",
    "tag": null
-  },
-  {
-   "id": "1b4e29e3e4ca0e04",
-   "k": "welt",
-   "titel": "„Es droht die nächste Eskalation“ – Frankreichs Massenproteste gehen weiter",
-   "t": "In Frankreich sind erneut landesweite Proteste angekündigt, getragen von Gewerkschaften, Jugendverbänden und der Gelbwesten-Bewegung gegen hohe Lebenshaltungskosten.",
-   "e": "Anhaltende Proteste sind ein Belastungsfaktor für die französische Regierung und für Reformvorhaben in der Eurozone.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/video6aeed1f5a389bc337cfc8bb1/druck-auf-die-regierung-es-droht-die-naechste-eskalation-frankreichs-massenproteste-gehen-weiter.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T07:41:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "78a606015ac0a26a",
-   "k": "welt",
-   "titel": "Schwere Schäden nach Raketenangriffen auf Kiew",
-   "t": "Russische Raketen haben Kiew und das Umland erneut getroffen. Bürgermeister Klitschko spricht von zahlreichen Explosionen, die Strom- und Wasserversorgung ist stark beeinträchtigt.",
-   "e": "Die Ausfälle bei Wasser und Wärme treffen die Bevölkerung im Winter direkt, Berichte warnen vor Seuchengefahr.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T07:40:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "fb30c972dfd047fd",
-   "k": "welt",
-   "titel": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-   "t": "Trump sagt, die USA hätten \"kleinere Schläge\" gegen den Iran geflogen, nachdem iranische Medien berichteten, zwei Raketen hätten die Insel Qeshm nahe der Straße von Hormus getroffen.",
-   "e": "Die Straße von Hormus ist eine zentrale Route für den Öltransport, Eskalationen dort wirken schnell auf Ölpreise und Märkte.",
-   "s": 8,
-   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-07T07:37:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "f17c480c8cc36829",
-   "k": "usa",
-   "titel": "Mann mit drei Waffen nahe Weißem Haus festgenommen: Alle Infos im USA-Newsblog - Ruhr Nachrichten",
-   "t": "Ein Mann mit drei Waffen ist nahe dem Weißen Haus festgenommen worden.",
-   "e": "Vorfälle dieser Art in unmittelbarer Nähe des Weißen Hauses werden in der US-Sicherheitsdebatte besonders genau beobachtet.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNDNqRFU1cklwbktqN0F1YU1qQ2pDaG5lb3RSU1BlUGlTSlBWcTg0SlpnZVgwQVNHWHRpYWI2aENnMXBEWUVQZEVuNkRpbV9CLVdpWVU3N0F5V3g5emhWdGhHaXQ2S091YnJoZk9HMElUQmRrQk5vRkZfa0U0ZlVKU05qWXo4eTVOMU9RSmNaak45V3dSYXd3VjZTOU53eUFqSmV3ejlBaFVKZjZmOWYzcW0yM3VNcWJ0VUhoN09JeW5WWjFYSS1qdkdfbnhTOGNSVGE1ZlRwQ0lfUm9fR2U1eTJpR21UTXV5WjVqZDdjVzdQRVRwbVo3dWhjQ05iQQ?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-07T07:17:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e3eac23b85a5b340",
-   "k": "welt",
-   "titel": "Eskalierende Epidemie: „Ebola ist kein medizinisches Problem. Es ist ein politisches Problem.“",
-   "t": "Der Ebola-Ausbruch im Kongo scheint zu eskalieren. Peter Piot, Mitentdecker des Virus, bezeichnet die Lage als politisches Problem.",
-   "e": "Die Einschätzung betont Versorgung und politische Verantwortung statt rein medizinischer Fragen.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ebola-wie-der-entdecker-des-virus-die-lage-im-kongo-einschaetzt-accg-201647418.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-07T07:13:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "508e289d830f4f98",
-   "k": "finanzen",
-   "titel": "Federal Reserve and OCC Contact Banks After Binance Security Incident - TOKENPOST",
-   "t": "Die US-Notenbank Fed und die Aufsichtsbehörde OCC haben Banken nach einem Sicherheitsvorfall bei Binance kontaktiert.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbzRGUGc5ZUxVMFY4c2JKaURXd3lDTHB5Z2l6eEc5OE4zZVc2RlFPbHVSMmc5S25CV2tPaUkwNk9scmdGMzlnazNBNVEyZzhzS01LMHpFUFl3YXM?oc=5",
-   "quelle": "TOKENPOST",
-   "zeit": "2026-11-07T07:10:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "2880626ef6767d1b",
-   "k": "finanzen",
-   "titel": "Gold und Silber: Darum läuft es für die Edelmetalle so schlecht - WirtschaftsWoche",
-   "t": "Gold und Silber verzeichnen zuletzt schwache Kursentwicklungen. Die WirtschaftsWoche erläutert die Gründe.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnJYUUN4anRnaC01RGhDaFZOcS1yTjI4SUVsVDVDeVBDQmhlMFZ6SDBZRXBYNmo1bDVaZHA2UW4tOU90Z1RBcXBZeW9tOUo3YUFOZ2I3dzN0NVhoLVZUZmR4RDJhaE5zZDRGWW5ZVzRSZjN0WWFhOExhVURJMkI3cldBV0dTVm1jb0VzQlFVU3dmQmdSMXhCZkNqUEZ1Y0lKc29WQXdEdGo4UjdOLTV1RnRteUxiQQ?oc=5",
-   "quelle": "WirtschaftsWoche",
-   "zeit": "2026-11-07T07:09:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "7730c1623a5efce9",
-   "k": "finanzen",
-   "titel": "Tech stocks stage partial rebound while dollar gains after US jobs data - eNCA",
-   "t": "Nach den US-Arbeitsmarktdaten haben Techwerte teilweise erholt, während der Dollar zulegte.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkpXdGQyUGxKOTQ0NmhSRFFnMkhndU93bFBFTy05NFRBMktVZzdBRzEwdGpCaDRJWXROcVR5ZV85VzQwendfTW5QbFhwanhKa1NPY1BnSDZfeTY4QVF5YmxYQmVWdGVEQUVXXzN3VDJBbGxOakJpTmp1QXVSQ285S3owaklTUm44X2ZiUUdDZkMxX1E4Njd0TUxjVWpwa1NHN0I4?oc=5",
-   "quelle": "eNCA",
-   "zeit": "2026-11-07T07:04:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "7fe31ddfbeeb94fc",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Zwei Tote nach Frontalcrash auf L822 - tagesschau.de",
-   "t": "Bei einem Frontalzusammenstoß auf der L822 in Nordrhein-Westfalen sind zwei Menschen ums Leben gekommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWlLd3hYYzRfcVZYODFKUXlCYjNoeHgwakhTTGRvbkpKYWUycGEyLWlzdlVfWHVzUmI2by1rVjZuWEpEUkZ1MTh4eFBsMWJlOTdKZk9zbEQ1X05HNlpaYUtWMXhIdkcwVzd4SG1EbVFWT2Jzc0lHNkJpMjdyMjEteUZZdUE1WkV2aG0wY2xvRDlpLWZDQncxNTQ3amxQN0U1ZkRsc3RtVUprdmZkVGQ0VFhtVjNfc1NocmdBRHRCWkJFSkt4MnNJNlBkeDROVExIT3NZTQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-07T06:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "da8e9c9797c818ab",
-   "k": "deutschland",
-   "titel": "Siegmund schließt mehrere Wahlgänge nicht mehr aus",
-   "t": "Der AfD-Politiker Ulrich Siegmund schließt nicht aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt in einem zweiten oder dritten Wahlgang anzutreten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/video6aeec03a10638fe3bf6e0510/sachsen-anhalt-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T06:40:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "e1084ca82f8466b6",
-   "k": "welt",
-   "titel": "Wahlen: Neuseeland hat gewählt - knappes Rennen erwartet",
-   "t": "In Neuseeland zeichnet sich nach Schließung der Wahllokale ein knappes Rennen zwischen Konservativen und Labour ab.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T06:31:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "91171c522c909f43",
-   "k": "usa",
-   "titel": "Trump als Ziel? Secret Service nimmt bewaffneten Mann nahe dem Weißen Haus fest - RND.de",
-   "t": "Der Secret Service hat in der Nähe des Weißen Hauses einen bewaffneten Mann festgenommen. Ob Präsident Trump das Ziel war, ist bisher nicht bestätigt.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlNobHhEVy1tX200ZFdKLTRSTGJDc0o1aFRHcFpUODh3cFpiUlRuSWZpVGcxWUNRa1Budjh4NDhaSGRSWGEwLWYtMlBLOVVIVGp3S25Zenhpejd0bW5JejhmTHBVU1Y1M3VzZ1BqTVJQbEhQSWpOVGcwSGs2MmdaM3JJN2l1THpMTjc5c081QXZMNkpwTVdyR2ZtZGZXd1Y4ZkJpUVFLMlFoVmFfQi1hR0N0ZVFSNEozQURXbUl3?oc=5",
-   "quelle": "RND.de",
-   "zeit": "2026-11-07T06:15:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "409ffd84aa37bd0e",
-   "k": "nrw",
-   "titel": "Neues Rechenzentrum in Bad Lippspringe eröffnet - Radio Hochstift",
-   "t": "In Bad Lippspringe wurde ein neues Rechenzentrum eröffnet.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3JjWnZXUVpNMkg4dl8xTkhSQlpTRkMzZ1NOSXBmTmg0Rzg3cmEwUWFtWTlaWmQyS0VnazVQejRveWtIbVRVSVNUWTVJUXhNQ2M1OHpyV2M0MktxQUx1SV9UNGlQWG56dlQxenVvU3B1T3B1MFZsQ0dLXzZGd1BrdzQyZjFGaURBVzZ0M0w0alhlcUYyZG5INVVJWFBNQW1pc0F3SUh0UlNvSGtlREtfYjUwbw?oc=5",
-   "quelle": "Radio Hochstift",
-   "zeit": "2026-11-07T06:15:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "263657ad84bf6d72",
-   "k": "deutschland",
-   "titel": "Schlesinger-Prozess beginnt – Verfahren gegen Ehemann gegen Geldauflage eingestellt",
-   "t": "Der Strafprozess um die frühere rbb-Intendantin Patricia Schlesinger beginnt; das Verfahren gegen ihren Ehemann wurde gegen eine Geldauflage eingestellt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/plus6aedde9f47b5fce02f87a550/schlesinger-prozess-beginnt-verfahren-gegen-ehemann-gegen-geldauflage-eingestellt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T06:08:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "eeadf3771f5f5427",
-   "k": "usa",
-   "titel": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-   "t": "Die US-Gesundheitsbehörde CDC meldet den größten Masernausbruch in den USA seit 1991, mit bisher 5.182 registrierten Fällen in diesem Jahr. In Wisconsin ist erstmals seit mehr als drei Jahrzehnten wieder ein Mensch an Masern gestorben.",
-   "e": "Masern gelten als hochansteckend; ein Ausbruch dieser Größe ist für die USA ungewöhnlich.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T06:01:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "f81ecdbfaf73892a",
-   "k": "welt",
-   "titel": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-   "t": "Im Wettlauf um das erste kommerzielle Fusionskraftwerk sucht Europa Unterstützung in Japan.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-07T06:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "a5e0b66e3905ad3e",
-   "k": "nrw",
-   "titel": "Park-Ärger am Nußberg in Iserlohn: „Wo sollen unsere Autos hin?“ - IKZ-Online",
-   "t": "In Iserlohn sorgt die Parksituation am Nußberg für Ärger bei Anwohnern, die fragen, wo ihre Autos künftig parken sollen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzg2TVFpRjdfQTAtR2NUT1ZOLXdINnBUSFRRazVTNnEwMlVBaWE3VWNqRTJPekJJWDB2eEJlVEtOVkVKSDlObXMtWXNVM1hxRF9MS19KNUJRaV9WenV4NkhGLW5KT2ZDRmN6RFh0VVNxSkxwZkVQN0lLRGRHR2dERUgtSlR5eVIxVEVhcVg3N3NBMkZSUVV3ZnFFa200N0lFSnJweTFrTjJDQWs5NUtublp5d0QtWnp0bGtFOW15SUs4NVhhaFE?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-07T06:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "630834a075ba6df5",
-   "k": "nrw",
-   "titel": "Roosters-Stürmer war zwei Tage nach Fußbruch wieder beim Training im Kraftraum - IKZ-Online",
-   "t": "Ein Stürmer der Iserlohn Roosters war nach einem Fußbruch zwei Tage später bereits wieder im Kraftraum beim Training.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQc3dGb21ENGZPaWVwenNiWVlvazNwMjdaU21PNkZGdGpXOElIbC1IMFZyd3dRZjFpNU9ua0dNMmtUamZncDkzR1BIcmhUU0EyY2hTQ0FMYTFHZnFZNGIwTXNLWjlTcUJkeWE5MVVrUGthTHFWekswYzllbEl6bFhEamxLLUowMmdpNTFuTGFkRWtEVTVQY2g2blcxczNsYWdVeVpUZUpJSHBTRV93dzBVTnZCdGN4OVZGV3ZJV2VZTHptMWFteEF4YjlMT3F2aWlqS2NydzdsYkN4cmx0a0g1Q0RFVmhZTktGN3U4QmRfX1FhOXVBYzRtMVJkYk9GZw?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-07T06:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c656b8cb41479f5",
-   "k": "finanzen",
-   "titel": "US-Jobdaten überraschen: Wie viel Druck droht Bitcoin? - Bitcoin2Go",
-   "t": "Die US-Arbeitsmarktdaten fielen überraschend aus; Bitcoin-Analysen diskutieren mögliche Auswirkungen auf den Kurs.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlRralRTN3ZqRHpqMkdEY054Q2lkOTBqZ0VJYmJEaGRVV1pMWGtGNkVNb3BvekZTZ0Ffbmk1QUlHaVMxRDVfdVhITUJ0c1RPalNfRXd5cnY5WUNjSDJCSmN4RDdmeUZRODdLRE5KQXdIVEFoc3AzN1o5WmVqM3R5QXoxQQ?oc=5",
-   "quelle": "Bitcoin2Go",
-   "zeit": "2026-11-07T05:48:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c4a34c8a87a27e8",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Dauerbaustelle auf der Brunscheider Straße in Bellmerei noch bis Dezember 2026 - News.de",
-   "t": "Auf der Brunscheider Straße in Lüdenscheid (Bellmerei) dauern die Bauarbeiten noch bis Dezember 2026.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPeTlYenRIVFFEQnFlMEd3bUJhRjNwRnNwcWpHRXlVTGlud2NnM184QUYwZ2ZKRmtSbFpTTFliMTlXaHFFRGNlY1NwaFlhTmpUdmY4Ri1ZaTBYVDRmUFlBS1pzdGs5SVppZlYyYnd3ai1BLVV4TFpJQ0NkX0NyT1dMT1dleFBRaVE1NHFjLWF4cnlhd1NseXRTZC1RX0s3YXVtOGo5dUJQbmFub2xpUllpa3IxTS1mb2oxSzhUSlljSFBGcEoxX2pwelZzX2s1VXh1ZVoxQlpzVjA0bjJfd1M4bzVnZ1JRd2NyM29iLTVBTU1BSzkxdnVndnNfZUVTZGZmcWtHRTdSOEJoaGFhemZJTTVhOU9qUVhkWnA2M3JYNmt3alhKX3hzUFFVczMwVDZ4aXRPV2RKUmZDZldrVXE0WEVjWGNvOVBJLWVqZld0LWRUUXU3czlFOFd5Nkxfc0R0OGxoRllCRlZ4QQ?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-07T05:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "5ab848eddc2d7f67",
-   "k": "deutschland",
-   "titel": "Pflegeversicherung bekommt Extra-Geldspritze des Bundes",
-   "t": "Die Pflegeversicherung erhält eine zusätzliche Finanzspritze des Bundes: Erstmals muss der Bund im November ein Darlehen geben, um die Zahlungsfähigkeit zu sichern.",
-   "e": "Zeigt die anhaltende Finanzierungslücke der Pflegeversicherung und belastet den Bundeshaushalt.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/article6aeeb610a389bc337cfc8a8f/milliarden-darlehen-pflegeversicherung-bekommt-extra-geldspritze-des-bundes.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T05:34:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "3003a9d0b9046bcf",
-   "k": "finanzen",
-   "titel": "Britische Zentralbank erhöht Leitzins infolge des Krieges der USA und des zionistischen Regimes gegen Iran - Pars Today",
-   "t": "Laut Pars Today hat die britische Zentralbank den Leitzins erhöht und dies mit dem Krieg der USA und Israels gegen Iran begründet. Eine unabhängige Bestätigung liegt nicht vor.",
-   "e": "Eine Zinserhöhung der Bank of England wegen geopolitischer Energiepreisschocks wäre relevant, die Quelle ist aber einseitig und sollte geprüft werden.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbFpaQXB3MmtFc1BVeWxmeC1pUGtjNmd3M1VPRk5EaFJhbllzWjZxNFVaeFFfSk1SUFBLLTQ3RnFhZXNWNnFReF9jQmhOQjUtRWVNRFdvMlBwcTlETngxLUEyMmsyQzdnNFZvMm5iYmVFZTdXU0MxZUpjUFBiMEk3dW52WVU0MHVUd1MyTjlGanlrZVExcU5peXBQM0NSb2w1eTlqaWxiVEplczF6OXRkOWptZ1RWWkszT0NfN09TRnczTWJYUl9qbTNNMWd2bmVJbEZmNFBUMGhVbC01aXZDWWYxdVZPbHhtalE?oc=5",
-   "quelle": "Pars Today",
-   "zeit": "2026-11-07T05:24:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "2106d5e313b9e980",
-   "k": "deutschland",
-   "titel": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
-   "t": "Nach dem AfD-Leak fordert der Landesverband Mecklenburg-Vorpommern, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T05:00:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "c701657757e1800c",
-   "k": "welt",
-   "titel": "Sorge vor Winter: Hunger in Afghanistan: „Die Angst kommt in unser Haus“",
-   "t": "Die Vereinten Nationen warnen vor einer sich zuspitzenden Hungerkrise in Afghanistan im kommenden Winter.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/sorge-vor-winter-hunger-in-afghanistan-die-angst-kommt-in-unser-haus/100268054.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T05:00:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3091,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 26
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 13
+    "n": 9
    },
    {
     "name": "Welt",
@@ -3115,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 19
+    "n": 16
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "NZZ",
@@ -3160,12 +3156,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3180,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Google News Iserlohn",
@@ -3195,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 14
+    "n": 11
    },
    {
     "name": "Google News NRW",
@@ -3210,12 +3206,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 8
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 31
    }
   ],
   "markt": [],
