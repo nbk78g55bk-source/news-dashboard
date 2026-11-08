@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T17:01:21.134034+00:00",
+ "aktualisiert": "2026-11-08T19:01:23.640547+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.697 $",
-   "delta": -0.011313027499307736
+   "wert": "75.865 $",
+   "delta": 0.15129006922273436
   },
   {
    "name": "Ethereum",
-   "wert": "2.228 $",
-   "delta": -0.22660406138481284
+   "wert": "2.234 $",
+   "delta": -0.03855457770922128
   },
   {
    "name": "Gold",
@@ -54,32 +54,276 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-08T11:01:26.685604+00:00",
+  "slot": 19,
+  "stand": "2026-11-08T19:01:23.640526+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen und nach jüngsten Angaben sechs Menschen getötet, mehr als ein Dutzend wurde verletzt. Im Haus des mutmaßlichen Schützen fanden die Behörden drei weitere Leichen, darunter seine Eltern und Schwester. Ministerpräsident Tusk spricht von Terrorismus, das Motiv ist unklar, und die Ermittler prüfen ein rechtsextremes Motiv."
-   },
-   {
-    "k": "deutschland",
-    "t": "Unter den Verletzten des Angriffs in Krakau ist eine Person aus Deutschland. Die Union nominiert Ilse Aigner als Kandidatin für die Bundespräsidentenwahl."
-   },
-   {
-    "k": "finanzen",
-    "t": "Am Markt notieren der Deka DAX bei 225,35 €, der iShares MSCI World bei 127,31 € und der Deka S&P 500 bei 138,64 €. Die EZB liegt laut Marktdaten bei 2,50 % Zins, die Fed Funds bei 3,88 %. Die US-Notenbank lässt die Zinsen laut Meldung unverändert, während mehrere Fed-Vertreter eine Anhebung befürworten."
-   },
-   {
-    "k": "finanzen",
-    "t": "An der Nasdaq sind am Donnerstag laut Bericht rund 2,5 Billionen Dollar Börsenwert verloren gegangen, am Folgetag folgte eine schwächere Erholung. In den USA entstanden im Oktober laut Bericht 165.000 neue Stellen, die Arbeitslosenquote sank auf 4,1 %."
+    "t": "In Krakau hat ein Schütze auf dem Marktplatz wahllos Menschen erschossen; sechs starben, mehr als 15 wurden verletzt. Im Haus des Täters fand die Polizei drei weitere Leichen, darunter seine Eltern und Schwester, und unter den Verletzten ist ein Deutscher. Die Staatsanwaltschaft ermittelt wegen Terrorismusverdachts, das Motiv ist weiterhin unklar."
    },
    {
     "k": "welt",
-    "t": "Im Persischen Golf sind zwei Öltanker in der Straße von Hormus auf Minen gelaufen und brennen. Das US-Militär hat zudem ein Handelsschiff im Golf von Oman beschossen und neue Angriffe auf iranische Luftverteidigung auf der Insel Qeshm bestätigt."
+    "t": "In der Straße von Hormus sind zwei Öltanker auf Minen gelaufen und brennen, und das US-Militär hat ein Handelsschiff im Golf von Oman beschossen. Trump bestätigte neue Angriffe auf iranische Luftverteidigung auf Qeshm und hält eine Rückkehr zum Krieg mit dem Iran für „höchst unwahrscheinlich“, solange die Atomgespräche Fortschritte machen."
+   },
+   {
+    "k": "finanzen",
+    "t": "An der US-Börse gingen an einem Tag rund 2,8 Billionen Dollar Börsenwert verloren, und die US-Aktienmärkte bewegen sich erstmals seit längerer Zeit wieder synchron. Die Marktdaten zeigen Deka DAX 225,35 €, Deka S&P 500 138,64 € und Deka Nasdaq-100 172,92 €; ob es ein kurzer Einbruch oder ein anhaltender Ausverkauf ist, ist offen. Dazu kommen Gold mit 4.075 $ und Bitcoin mit 75.865 $."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die EZB hat den Leitzins angehoben, Lagarde nannte die Entscheidung ein „No-Brainer“; der EZB-Zins liegt laut Marktdaten bei 2,50 %. Die Fed lässt die Zinsen laut Meldung unverändert, der Fed Funds Rate liegt bei 3,88 %, während Notenbankchef Warsh zur Inflation Stellung nehmen muss."
+   },
+   {
+    "k": "usa",
+    "t": "Die US-Wirtschaft hat im Oktober 165.000 neue Stellen geschaffen, mehr als erwartet, und die Arbeitslosenquote sank auf 4,1 Prozent. Nach der Niederlage der Republikaner bei den Kongresswahlen droht Präsident Trump den Demokraten mit Ermittlungen."
+   },
+   {
+    "k": "deutschland",
+    "t": "Im Fall der vermissten 13-jährigen Lisa T. gehen die Ermittler von einem schweren Verbrechen aus. In Berlin-Marzahn weiten mehr als 100 Einsatzkräfte die Suche aus, und mehr als 100 Hinweise werden geprüft."
    }
   ]
  },
  "items": [
+  {
+   "id": "91b4e1c35f35abd6",
+   "k": "usa",
+   "titel": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+   "t": "Die Demokraten kündigen Untersuchungen des Weißen Hauses und von Unternehmen an, die mit der Regierung zusammenarbeiten. Justizminister Blanche hält dagegen, er könne Abgeordnete überprüfen lassen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-08T18:57:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "aafb4ed9b0d1c1c3",
+   "k": "deutschland",
+   "titel": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+   "t": "Die FDP bündelt auf einem digitalen Parteitag ihre Kräfte für die Landtagswahlen im kommenden Jahr. Parteichef Kubicki will die Liberalen als Gegengewicht zur Regierung positionieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T18:53:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "505c4f0b93424e39",
+   "k": "nrw",
+   "titel": "Iserlohn: Nachbar rettet Seniorin am Sonntagabend aus verrauchter Wohnung - IKZ-Online",
+   "t": "In Iserlohn hat ein Nachbar am Sonntagabend eine Seniorin aus einer verrauchten Wohnung gerettet.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcndiT1JGSkJhY2lYUmdGbFU5d3I2T0VLU2xrTm90amFINzRGeUFUbUczeFM4Y2hSTlVkOGMyWTJoc2N6Q3VyUGRrN1RLVUsyaEtmbG8yUGdKb291TE9XOUJkNk03clRsa2NraGZxNnVSZV81RWIwa1FJcXQtQzQ2Q2hxekRxTkN0SFdRbjRFakhjem8zaDVFaE0yZnN4dzB0bW5ybXRKamtYcWwxYUFTTEQ4NzQ1RkdFbVQ3UzJUWDY4SXVwTl9vTnNTQVNSMkFJNjZj?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-08T18:46:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "64a663df93dd3f87",
+   "k": "welt",
+   "titel": "Opinion | Why the Lights Go Dark in Cuba",
+   "t": "Bei den Kommunalwahlen in Südafrika hat die Regierungspartei ANC eine schwere Niederlage erlitten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-08T18:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7ee970694488e9dd",
+   "k": "finanzen",
+   "titel": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "t": "Nvidia-Chef Jensen Huang soll sich vor dem US-Kongress zu Berichten über eine Verbindung zu einem mutmaßlichen chinesischen Geheimdienst-Kontakt äußern. Abgeordnete beider Parteien fordern eine Befragung.",
+   "e": "Der Fall betrifft den wichtigsten Chiphersteller für KI-Rechenzentren und damit die Bewertung zentraler US-Technologiewerte.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-08T18:18:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "ab27792731a0349c",
+   "k": "nrw",
+   "titel": "NRW-Städte haben genug: Jetzt geht es E-Scooter-Fahrern an den Kragen - DerWesten",
+   "t": "NRW-Städte wollen strenger gegen E-Scooter-Fahrer vorgehen und ziehen neue Regeln in Betracht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55T3h1MzAwbUVPWkk2U3A2T1Fub3F2ZVczUXVRbnVqQlp0WjNONGNIVkp2Q2ozNm1qOEswdDRuS2NCT0lJVExQU1prOEl2cnc5d3dqSlZyaDFsNk1fNnh2MlpEeVluSGN1U0VabmR2V3J2Q2NrVUM5WQ?oc=5",
+   "quelle": "DerWesten",
+   "zeit": "2026-11-08T18:06:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "8443865466d1b1e6",
+   "k": "welt",
+   "titel": "Trump says return to war with Iran ‘highly unlikely’ as sides continue negotiations",
+   "t": "US-Präsident Trump hält eine Rückkehr zum Krieg mit dem Iran für „höchst unwahrscheinlich“, solange die Gespräche über das iranische Atomprogramm Fortschritte machen.",
+   "e": "Die Aussage ist für die Lage in der Straße von Hormus und die Ölpreise relevant, da sie den Verhandlungsweg betont.",
+   "s": 7,
+   "link": "https://nypost.com/2026/11/08/us-news/trump-says-return-to-war-with-iran-highly-unlikely-as-sides-continue-negotiations/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-08T18:01:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "fc056423f8bbbed1",
+   "k": "usa",
+   "titel": "Trump droht Demokraten mit Ermittlungen und spricht von „riesigem Schritt zurück“ für Amerika",
+   "t": "Nach der Niederlage der Republikaner bei den Kongresswahlen droht Präsident Trump den Demokraten mit Ermittlungen. Er spricht von einem historischen Rückschritt für Amerika.",
+   "e": "Die angekündigten Ermittlungen gegen politische Gegner verschärfen die Konfrontation zwischen Weißem Haus und Demokraten nach der Wahl.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/article6af0a0a4a389bc337cfca4d7/nach-wahlschlappe-trump-droht-demokraten-mit-ermittlungen-und-spricht-von-riesigem-schritt-zurueck-fuer-amerika.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T17:44:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "1486b2faec157109",
+   "k": "welt",
+   "titel": "VIDEO - Krakau: Was die Videos vom Angriff zeigen",
+   "t": "Bei einem Angriff in Krakau hat ein 24-Jähriger sechs Menschen getötet und fuhr danach durch die Altstadt. Die Polizei nahm die Verfolgung auf und ermittelt nun zum Motiv.",
+   "e": "Der Angriff ist eine Zuspitzung gegenüber den ersten Meldungen, da die Zahl der Todesopfer feststeht und das Motiv im Fokus steht.",
+   "s": 7,
+   "link": "https://www.nzz.ch/video/krakau-der-angriff-im-video-rekonstruiert-ld.10057838",
+   "quelle": "NZZ",
+   "zeit": "2026-11-08T17:42:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "dcc38cbfbfb77ddc",
+   "k": "nrw",
+   "titel": "Märkischer Kreis: Bodenrichtwerte verlieren inflationsbereinigt 14,3 Prozent - ad-hoc-news.de",
+   "t": "Im Märkischen Kreis haben die Bodenrichtwerte inflationsbereinigt um 14,3 Prozent verloren.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRWJqMXIzSHNBdWk2MHAxVnVQb1Vod0xlZWJjeDd4clF0b1hyQXBWcnlqRS1uNUJ0QWlGc2NDMWVuTHlBN09jZWRWWm5Qb0R3ZGYyYmJDbUhIeXM1QWRwUHU5MXczcHZrWHRSOXkzaWhnNUtja09zb2JhMExYcDh6VllCWndwU25mZnF3Y1hlQXJkd1VEOEo3MERQdGJNSWRoSnU2YndVQlFqTDg3VVNyaE5WWXU3WjYtY2kwVHlKU0k?oc=5",
+   "quelle": "ad-hoc-news.de",
+   "zeit": "2026-11-08T17:34:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "2925e1c87d886db2",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Millionenschaden nach Brand in Fleischfabrik - n-tv.de",
+   "t": "In Nordrhein-Westfalen ist bei einem Brand in einer Fleischfabrik ein Schaden in Millionenhöhe entstanden.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTdVZF9mWlEwM0szbWlIalQxamxvWTN0NFBLYTJObWdSSTdPbmlVLW5XTEVfM2pHcndkMnFsMHZ1bDFCaE56bjA0MnZBQzZ5OEJyM3hiaU9Db3VFZWs4TjF1Q2tTc2EzOHlINGo0QXotODN1MFhPOU9HLXpQQVljTDFUQ2dLZWpBMlluR21iZVBfaU1fMzRSdGJXdEs1WklidUY0OTJVdlRPM1Zmb2NlUg?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-08T17:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5e6cde0488dfe24b",
+   "k": "finanzen",
+   "titel": "Robotik: ABB und Softbank erwägen für Robotik Abspaltung des China-Geschäfts",
+   "t": "China hat den Verkauf der ABB-Robotiksparte an Softbank untersagt. Laut Bloomberg prüfen beide Konzerne nun eine Abspaltung des China-Geschäfts.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/robotik-abb-und-softbank-erwaegen-fuer-robotik-abspaltung-des-china-geschaefts/100268252.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T17:26:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "db5bd3adba6a360f",
+   "k": "deutschland",
+   "titel": "Prozess nach Sprengstoff-Angriff in ICE beginnt: War es versuchter Mord? - TAG24",
+   "t": "Der Prozess nach einem Sprengstoffangriff in einem ICE beginnt. Die Frage ist, ob es sich um versuchten Mord handelt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXRZSWEwZ3N2Smxlc0RONnZGYzg0OFBaaklITDhRU1BSNTlsV2hZdVVqcXozcVpvNHY5M1FFci1NNVBfY29vNTFvUmZkWFBuUlBrS2h4TlBQMVlha2lLMWhJN2dEQzNkeTFSaWhReDBJSGluaWZ0THFuNmFVM2NIbFREanREakc4RXJXT0JRMHBkaEhxQTVIRFIxZmhtY1JaOGkxQXNVY0x4ZkhvWU5ZamR3RmJzV2pBdVU3TlMtZ0YtNGlLUVE?oc=5",
+   "quelle": "TAG24",
+   "zeit": "2026-11-08T17:26:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "fe3117fccca35a22",
+   "k": "welt",
+   "titel": "Hilferuf aus El Hierro: Mehr als 8000 Migranten landen auf den Kanaren",
+   "t": "Die Kanareninsel El Hierro hat wegen mehr als 8000 Migranten den Notstand ausgerufen. Allein am Freitag kamen tausend Menschen an.",
+   "e": "Der Notstand zeigt die Belastung kleiner Inselgemeinden durch die Route von Westafrika und den Druck auf die EU-Migrationspolitik.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/ausland/mehr-als-8000-migranten-kanareninsel-el-hierro-ruft-notstand-aus-201662623.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T17:13:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "26067ba4534e097f",
+   "k": "welt",
+   "titel": "Wieder deutlich mehr Flüchtlinge auf dem gefährlichen Weg von Afrika auf die Kanaren",
+   "t": "Die Zahl der Flüchtlinge auf dem Weg von Afrika auf die Kanarischen Inseln ist wieder deutlich gestiegen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1680306.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T17:12:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "e3f8a55958c8cb61",
+   "k": "deutschland",
+   "titel": "Bundeswehrbeteiligung an UN-Mission Unifil im Libanon läuft Ende des Jahres aus",
+   "t": "Die Bundeswehrbeteiligung an der UN-Mission Unifil im Libanon läuft zum Jahresende aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1680304.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T17:10:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "70c9bb6cc1bd48a5",
+   "k": "deutschland",
+   "titel": "Viele ungeklärte Punkte für Bundeshaushalt 2027",
+   "t": "Für den Bundeshaushalt 2027 sind noch viele Punkte ungeklärt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1680296.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T17:06:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "c75a2a6e6d4eeb33",
+   "k": "usa",
+   "titel": "Trumps Personalpolitik: Vielleicht nur ein Scherz",
+   "t": "Trump will den UFC-Chef Dana White offenbar zum neuen Pressesprecher des Weißen Hauses machen. Die Personalie wird nach der verlorenen Kongresswahl diskutiert.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-den-us-midterms-2026-trump-will-dana-white-als-pressesprecher-201663024.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T17:05:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "f54fb4e5ea51109d",
+   "k": "welt",
+   "titel": "Nach den tödlichen Schüssen in Krakau ermittelt die Polizei zum Motiv des Täters",
+   "t": "Die Polizei ermittelt nach den tödlichen Schüssen in Krakau zum Motiv des Täters.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1680294.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T17:04:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "234f233c79368af8",
+   "k": "welt",
+   "titel": "Bundespräsidentin: Erste Frau im Amt – Ilse Aigner soll Bundespräsidentin werden",
+   "t": "Bei dem Zugunglück in Ägypten sind mindestens vier Menschen gestorben und 88 verletzt worden, nachdem Waggons entgleisten.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-ilse-aigner-soll-bundespraesidentin-werden/100268202.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T17:00:01+00:00",
+   "tag": null
+  },
   {
    "id": "74dd372e3d2edddf",
    "k": "deutschland",
@@ -88,6 +332,18 @@
    "e": "Ein Gewaltverbrechen an einem vermissten Kind bewegt das Land; die Ermittlungen laufen.",
    "s": 6,
    "link": "https://www.welt.de/vermischtes/article6af0a88ca389bc337cfca577/berlin-marzahn-vermisste-lisa-tot-staatsanwaltschaft-bestaetigt-leichenfund-in-brandenburg.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T16:54:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9d3e7c760132182b",
+   "k": "deutschland",
+   "titel": "Vermisste 13-jährige Lisa tot aufgefunden – Mann in kritischem Zustand unter Verdacht",
+   "t": "Die 13-jährige Lisa aus Berlin-Marzahn wurde nach einwöchiger Suche tot auf einem Gehöft in Brandenburg gefunden. Ein schwer verletzter Verdächtiger wurde festgenommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/article6af0a88ca389bc337cfca577/leiche-in-brandenburg-entdeckt-vermisste-13-jaehrige-lisa-tot-aufgefunden-mann-in-kritischem-zustand-unter-verdacht.html",
    "quelle": "Welt",
    "zeit": "2026-11-08T16:54:00+00:00",
    "tag": null
@@ -1533,6 +1789,18 @@
    "tag": null
   },
   {
+   "id": "b41443ed487980cc",
+   "k": "finanzen",
+   "titel": "EZB hebt Leitzins an: Was bedeutet Lagardes „No-Brainer“ für die Märkte? - WirtschaftsWoche",
+   "t": "Die EZB hat den Leitzins angehoben, wie die WirtschaftsWoche berichtet. Lagarde bezeichnete die Entscheidung als „No-Brainer“.",
+   "e": "Eine Zinserhöhung ist ein Wendepunkt gegenüber der bisherigen Haltung, da die Inflation hoch bleibt und Kredite sowie Sparzinsen sich verändern.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3YzTV9ULVQ4OFVXVzFxR09ZRTUwenFhWVVvTTYtT3VWQlZOZFAta1FLdXg1X0o4QUl3Z2Z6OHd3UFYxY1REWEM1bE4tUzZteml4alhtNXhFYUNTVG5OVU90SUFIdU5VSmJYc1Judm1rMXpUd0JKOExyZXlqN0JBUTZhb1V3ZU4zbFJNZ2JTN3VhcDU1eGhnMnd0YTRrakUyS1ZhRTFDMmwxVmVzSFFka3A0Ukg4VGlhSUhiUTlB?oc=5",
+   "quelle": "WirtschaftsWoche",
+   "zeit": "2026-11-08T07:56:40+00:00",
+   "tag": null
+  },
+  {
    "id": "19317b3d4f9574c1",
    "k": "nrw",
    "titel": "Demo gegen Rechts in Paderborn, Nordrhein-Westfalen » Soli-Kundgebung zum rassistischen Anschlag in Paderborn - DemokraTEAM",
@@ -2445,6 +2713,18 @@
    "tag": null
   },
   {
+   "id": "7d103dd669d53636",
+   "k": "finanzen",
+   "titel": "Kevin Warsh changed something the Fed has not touched in decades - TheStreet",
+   "t": "Fed-Vorsitzender Kevin Warsh hat laut TheStreet eine Praxis der US-Notenbank verändert, die seit Jahrzehnten unangetastet war.",
+   "e": "Änderungen an der Kommunikation oder den Abläufen der Fed beeinflussen Zinserwartungen und Anleihemärkte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0FIV3dQcjhTcmZ0cHh5THFGSVFGRjV3WFQtdnYxczNFamdMV3dyRHRXM0w1c2RoMmtvSl92Uk5CdmZ6dV8wSjczNG9qYkwwMlNkcmg5aFRBZXE5aFZYaktkTC0tQjRkNUg3M0N1RWstdjVZWk4wdWM1WWxBUktGbk1OWlVzNHVvUnpaVEhWNzcwclh3TzlLZXBn?oc=5",
+   "quelle": "TheStreet",
+   "zeit": "2026-11-07T22:03:00+00:00",
+   "tag": null
+  },
+  {
    "id": "0c434c8e01ca151c",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: 54-Jähriger in Bonn verletzt - Auto fährt nach Vorfall davon - n-tv.de",
@@ -2803,282 +3083,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-07T18:34:14+00:00",
    "tag": null
-  },
-  {
-   "id": "e7e5eea128d6a02b",
-   "k": "usa",
-   "titel": "Biden-appointed judge probes whether ICE skirted judge's release orders in Colorado cases",
-   "t": "Ein Bundesrichter in Colorado prüft, ob die Einwanderungsbehörde ICE gerichtliche Freilassungsanordnungen umgangen hat. 14 Inhaftierte wurden nach Freilassung erneut festgenommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/biden-appointed-judge-probes-whether-ice-circumvented-judicial-release-orders-colorado-cases",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-07T18:25:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "517ccb421dccdb7f",
-   "k": "welt",
-   "titel": "Russisch statt Ukrainisch – Selenskyjs Stabschef Budanow muss Strafe zahlen",
-   "t": "Der ukrainische Präsidialamtschef Kyrylo Budanow muss eine Strafe zahlen, weil er bei Protesten vor einem Militärgefängnis Russisch statt Ukrainisch gesprochen hat.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/ausland/article6aef66b2a389bc337cfc9556/bei-offiziellem-termin-russisch-statt-ukrainisch-selenskyjs-stabschef-budanow-muss-strafe-zahlen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T18:07:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "1edfa4a4d5ad34d5",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Krankenhaus in Lünen nimmt keine Notfälle auf - tagesschau.de",
-   "t": "Ein Krankenhaus in Lünen nimmt derzeit keine Notfälle auf.",
-   "e": "Eingeschränkte Notfallversorgung in der Region betrifft auch die Nachbarorte im Raum Dortmund und Unna.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2FodjN4UVRsUDlYN0NyV09TWnl2NWdGdWNWVi0yOXE3eXE2VUo4d3FQQi12YTJXR0JCeXRfX2V3dVh5X21Qa0tJenB6SzQ3V1VITFFIeWM5RXBQTWR0VnZXQzk4ZEhONTJtTWpfYlBhMWxmMVJLeGF5ODQzQzQ1YVA1NTUtX3dlSWhjYjdXVXF3YmJZN0JtTS1wNjhmTG5haDlFaEQ1VVRENkRnbjVXbU41VE9PcHJUVk1pajd6XzF6WkdNNkRsWHFKdXhjR1dMWW03a3gtZDN4WmlmSWVN?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-07T17:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d8cb59f413dfe01e",
-   "k": "welt",
-   "titel": "Sechs Tote und mehr als ein Dutzend Verletzte bei Schießerei in Krakau – mutmaßlicher Täter gefasst",
-   "t": "In Krakau hat ein Mann aus einem Auto heraus auf Passanten geschossen. Nach jüngsten Angaben starben sechs Menschen, mehr als ein Dutzend wurden verletzt. Der mutmaßliche Täter wurde gefasst.",
-   "e": "Aktualisierte Zahl zur bereits gemeldeten Tat (zuvor fünf Tote), ein Gewaltereignis mit hoher Opferzahl in einem EU-Nachbarland.",
-   "s": 9,
-   "link": "https://www.welt.de/vermischtes/article6aef445b80d3a1c6aa66c4ff/toedliche-schuesse-in-polen-sechs-tote-und-mehr-als-ein-dutzend-verletzte-bei-schiesserei-in-krakau-mutmasslicher-taeter-gefasst.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T17:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "920dd2983d72d381",
-   "k": "welt",
-   "titel": "Drei Leichen im Haus des mutmaßlichen Schützen entdeckt – Ermittler prüfen rechtsextremes Motiv",
-   "t": "Im Haus des mutmaßlichen Schützen von Krakau wurden drei weitere Leichen gefunden. Zuvor waren auf dem Marktplatz sechs Menschen getötet und 16 verletzt worden. Ermittler prüfen ein rechtsextremes Motiv.",
-   "e": "Polens Innenminister spricht von einer Faszination des Täters für rechtsextreme Ideologien; die Ermittlungen zum Motiv laufen.",
-   "s": 8,
-   "link": "https://www.welt.de/vermischtes/article6aef445b80d3a1c6aa66c4ff/nach-schuessen-in-krakau-drei-leichen-im-haus-des-mutmasslichen-schuetzen-entdeckt-ermittler-pruefen-rechtsextremes-motiv.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T17:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "adbb2cd33d8e1ff6",
-   "k": "finanzen",
-   "titel": "Fed könnte die Zinsen um 200 Basispunkte anheben, und die Rendite zehnjähriger US-Staatsanleihen könnte auf 10 % steigen, so Albert Edwards - Traders Union",
-   "t": "Der Analyst Albert Edwards hält es für möglich, dass die Fed die Zinsen um 200 Basispunkte anhebt und die Rendite zehnjähriger US-Staatsanleihen auf 10 % steigt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWM4aWhGUENzM2tPcFpvaEp5N0pLRkxtdjJsRWt6RHVtVWloQVhYTWxtSU1wTTBXelZmR3U2R09Iam5nNlRSSjB0dkNfVjVyVFEtVDc0TXVaX3BZOXNURW5wVVNuaGhDSE9QZEs1dTV2SXlGX1NOQkhwdnVkQk1MSGhvamF6YWs?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-07T17:45:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "41fe170edde9cf36",
-   "k": "finanzen",
-   "titel": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-   "t": "Das US-Finanzministerium will die Krypto-Börse MEXC vom US-Finanzsystem abschneiden. Vorgeworfen werden mutmaßlich illegale Geldflüsse von rund 16 Milliarden US-Dollar.",
-   "e": "Vorgehen gegen eine große Handelsplattform, relevant für Regulierung und Compliance im Kryptomarkt.",
-   "s": 7,
-   "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-07T17:36:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "8b48f6ffe6a93ba8",
-   "k": "finanzen",
-   "titel": "Odds of a December Rate Hike Jump to 77% After a Blowout Jobs Report - 24/7 Wall St.",
-   "t": "Nach dem starken Arbeitsmarktbericht ist die Marktwahrscheinlichkeit einer Zinserhöhung der Fed im Dezember laut Bericht auf 77 Prozent gestiegen.",
-   "e": "Die Märkte preisen damit eine mögliche Zinswende nach oben ein, obwohl die Inflation laut Bericht über dem Ziel liegt.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3JLcjlXdHpQdzVkWV9ISHdHNHBiU2FTLTRra24zcEFPejQ1SU50RTNZQmtFYmxZYWxyWnVoc2FoSjhGREh2ODNtdVg4ZnhUQldWQ2ZYR05KOGZTeXotZWhDZ2hjM0g5b2paR2ZwTThoOENzSE1Ua0pSWENMcndldk1tYm5VOWdHX1ZIeHNPbE0yRDhDWkIwTFJjN182MVY4RWMwQ1ZISmIwWjFnamgyNQ?oc=5",
-   "quelle": "24/7 Wall St.",
-   "zeit": "2026-11-07T17:33:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "727d021191eee7ee",
-   "k": "deutschland",
-   "titel": "Mehr als 140 Polizisten suchen 13-jährige Lisa in Berlin",
-   "t": "Die 13-jährige Lisa wird seit Dienstag in Berlin vermisst. Mehr als 140 Polizisten suchen nach ihr, die Mordkommission hat die Ermittlungen übernommen.",
-   "e": "Der Fall hat hohe öffentliche Aufmerksamkeit; die Polizei schließt ein Verbrechen nicht aus.",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/video6aef57e780d3a1c6aa66c5e4/seit-dienstag-vermisst-mehr-als-140-polizisten-suchen-13-jaehrige-lisa-in-berlin.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T17:01:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "90f0649e191d3927",
-   "k": "finanzen",
-   "titel": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "t": "Bei einem Datenleck des Dienstleisters Gnosis Pay wurden Kartennummern, Wohnadressen und verknüpfte Krypto-Wallets offengelegt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-07T16:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9cb10b8a9ab91304",
-   "k": "welt",
-   "titel": "Fünf Tote und mindestens zehn Verletzte bei Schießerei in Krakau – mutmaßlicher Täter gefasst",
-   "t": "In Krakau hat ein Mann nach Polizeiangaben wahllos auf Passanten geschossen. Fünf Menschen starben, mindestens zehn wurden verletzt. Der mutmaßliche Täter wurde gefasst, das Motiv ist noch unbekannt.",
-   "e": "Neu ist die Festnahme des mutmaßlichen Täters; das Motiv ist weiterhin offen.",
-   "s": 8,
-   "link": "https://www.welt.de/vermischtes/article6aef445b80d3a1c6aa66c4ff/toedliche-schuesse-in-polen-fuenf-tote-und-mindestens-zehn-verletzte-bei-schiesserei-in-krakau-mutmasslicher-taeter-gefasst.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T16:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "43f6a47be0e46a1c",
-   "k": "welt",
-   "titel": "Hat Jan Marsalek den österreichischen Bundeskanzler Kurz gestürzt?",
-   "t": "Der flüchtige frühere Wirecard-Manager Jan Marsalek behauptet laut Ermittlungsunterlagen, am Sturz des österreichischen Kanzlers Sebastian Kurz beteiligt gewesen zu sein.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/plus6aef294bbd9dc1882a99ed67/fluechtiger-ex-wirecard-chef-hat-jan-marsalek-den-oesterreichischen-bundeskanzler-kurz-gestuerzt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T16:42:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "f41c572202200676",
-   "k": "finanzen",
-   "titel": "Verkauf an Electra: Mercedes zieht beim Traum vom eigenen Ladenetz den Stecker",
-   "t": "Mercedes gibt sein eigenes Schnellladenetz weitgehend auf und verkauft es an Electra.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-07T16:25:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "5c430abe9283cd2f",
-   "k": "welt",
-   "titel": "Die Schweiz bürgert im Akkord ein. Seit dem Jahr 2000 erhielten eine Million Menschen den roten Pass – mehr als im ganzen vergangenen Jahrhundert",
-   "t": "In der Schweiz wurden seit dem Jahr 2000 rund eine Million Menschen eingebürgert, etwa 40.000 pro Jahr.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/schweiz/die-schweiz-buergert-im-akkord-ein-seit-dem-jahr-2000-erhielten-eine-million-menschen-den-roten-pass-mehr-als-im-ganzen-vergangenen-jahrhundert-ld.10057235",
-   "quelle": "NZZ",
-   "zeit": "2026-11-07T16:24:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "4ee8268651a5e379",
-   "k": "deutschland",
-   "titel": "„Moment des Innehaltens“ – Neubauer kritisiert Umgang mit Aiwangers Tod",
-   "t": "Luisa Neubauer kritisiert pietätlose Reaktionen auf den Tod von Hubert Aiwanger und fordert einen Moment des Innehaltens.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/vermischtes/article6aef4244a389bc337cfc9361/apokalypse-filterkaffee-moment-des-innehaltens-neubauer-kritisiert-umgang-mit-aiwangers-tod.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T16:22:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "401de5019b9fc1ad",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Vorsichtsmaßnahmen wegen Keimbefalls auf Intensivstation - n-tv.de",
-   "t": "In einer Intensivstation in Nordrhein-Westfalen gibt es Keimbefall, deshalb gelten Vorsichtsmaßnahmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWRvbUoyaHoyWEMyaFF0RzhsMmJOZnV5LTN3cWduTmZfZ3JlRmloSnlrcjB5RUlQeVBQX0hZakRFYWFlR3JQdFlnemlUQUdtakN6S3p2Y3RhakFHeHhLOUo2THJMekx4MnBFTktOUEtWZWpHWnJSQ1YtZGVEQnFnSWRTbDhXUTJlQ1B4MmY1WEthWEpPb1d4Mkp6UHByREg0MXlwcG1JaDlXMk5QYS1lM3BUNVdyUGNTYWJPOHlwN0lwUQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-07T16:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1f8ec99c31bddb5b",
-   "k": "deutschland",
-   "titel": "Millionen junge Menschen ohne Berufsausbildung in Deutschland",
-   "t": "Die Zahl junger Erwachsener ohne Berufsabschluss in Deutschland ist hoch. Sie haben schlechtere Jobchancen und verdienen weniger, während viele Unternehmen Fachkräfte suchen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T15:59:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "c7caeac4bdde4c88",
-   "k": "finanzen",
-   "titel": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
-   "t": "Berkshire Hathaway meldete im dritten Quartal einen Gewinnrückgang, die Aktie legte dennoch zu. Das Unternehmen kaufte eigene Aktien für 9,6 Milliarden US-Dollar zurück.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T15:57:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "f25c14c1c7d4f97b",
-   "k": "nrw",
-   "titel": "„Zustand kritisch“ – Fan von Eintracht Frankfurt stürzt in die Tiefe",
-   "t": "In Paderborn ist ein Fan von Eintracht Frankfurt aus rund vier Metern Höhe gestürzt. Er erlitt eine Kopfverletzung und befindet sich in kritischem Zustand.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/sport/fussball/article6aef45e680d3a1c6aa66c515/bundesliga-zustand-kritisch-fan-von-eintracht-frankfurt-stuerzt-in-die-tiefe.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T15:50:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "d6734352b1bad6e2",
-   "k": "nrw",
-   "titel": "Winter 2031 und 2032: Experten befürchten Stromknappheit in NRW im Winter 2031 - RP Online",
-   "t": "Experten befürchten für die Winter 2031 und 2032 Stromknappheit in Nordrhein-Westfalen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQThicnU4THFCZmMzZUZScE9jcHBXam9lWmxBR3QxTXVRZ29PdXdodTJmczVkVTRMQ1ZwcDQwOUhfZEVfRmFhQThaQzJFUFdyRU5BeGxIUnBjcnd0VGRwMVN4QmF2Snk3SHotWHBRakZjbEZ5ZHFwZ2Q4NVBrb3lkWlNNWWJUS3FPYlRESWpzbmd1YkJ5V0lseUh1RHZzRW05UVk1WQ?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-07T15:49:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "896912f369048546",
-   "k": "deutschland",
-   "titel": "Ex-Verfassungsrichter Huber: „Manches Gebaren der Linken hat totalitäre Züge“",
-   "t": "Ex-Verfassungsrichter Udo Di Fabio kritisiert die Vergesellschaftungspläne der Linken scharf, hält aber auch den Vorstoß der Union für fragwürdig.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/ex-verfassungsrichter-huber-manches-gebaren-der-linken-hat-totalitaere-zuege/100258275.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T15:47:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "5078923fe941fb48",
-   "k": "usa",
-   "titel": "US-Midterms 2026: Die Ergebnisse könnten noch Wochen auf sich warten lassen",
-   "t": "Die Ergebnisse der US-Kongresswahlen 2026 stehen in einigen Staaten noch nicht fest, weil das Rennen dort zu knapp ist.",
-   "e": "Die endgültige Verteilung der Mandate entscheidet über die Machtverhältnisse im Kongress.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-auf-welche-ergebnisse-warten-wir-noch-accg-201661552.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-07T15:42:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "08ef6ccd7e82f454",
-   "k": "welt",
-   "titel": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, ARD Rom, zum Auftakt der Südamerika-Reise",
-   "t": "Papst Leo XIV. hat seine Südamerika-Reise mit einem Besuch in Uruguay begonnen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1679838.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-07T15:41:48+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,22 +3090,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 6
+    "n": 4
    },
    {
     "name": "Welt",
@@ -3111,17 +3115,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 14
+    "n": 12
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "NZZ",
@@ -3146,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "MarketWatch",
@@ -3156,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "WSJ USA",
@@ -3176,22 +3180,22 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 16
+    "n": 13
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 18
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "Google News NRW",
@@ -3201,17 +3205,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 17
+    "n": 19
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 30
    }
   ],
   "markt": [],
