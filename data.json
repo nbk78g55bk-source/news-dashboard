@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-07T23:01:22.835386+00:00",
+ "aktualisiert": "2026-11-08T00:31:19.998662+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.687 $",
-   "delta": -0.18388096985307062
+   "wert": "75.716 $",
+   "delta": -0.18974037844123307
   },
   {
    "name": "Ethereum",
-   "wert": "2.231 $",
-   "delta": -0.18673118842983705
+   "wert": "2.235 $",
+   "delta": -0.17516210119312292
   },
   {
    "name": "Gold",
@@ -84,6 +84,90 @@
   ]
  },
  "items": [
+  {
+   "id": "bfbf8e481b320a2a",
+   "k": "welt",
+   "titel": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+   "t": "Der französische Linkspolitiker Jean-Luc Mélenchon fordert in seinem Programm für die Präsidentschaftswahl im April den Austritt Frankreichs aus der NATO.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-08T00:14:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "f2a063365355d2a7",
+   "k": "welt",
+   "titel": "Japan von Erdbeben der Stärke 5,7 erschüttert – zahlreiche Verletzte",
+   "t": "Ein Erdbeben der Stärke 5,7 hat Japan erschüttert. Laut japanischen Medien gibt es zahlreiche Verletzte und mehrere Nachbeben.",
+   "e": "Die Meldung nennt bisher keine Angaben zu Schäden oder Todesopfern.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/article6aefb9aea389bc337cfc9906/mitten-in-der-nacht-japan-von-erdbeben-der-staerke-5-7-erschuettert-zahlreiche-verletzte.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T00:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7e00ca14e2e536f",
+   "k": "welt",
+   "titel": "Drei Leichen im Haus des mutmaßlichen Schützen entdeckt – ein Deutscher unter den Verletzten",
+   "t": "Im Haus des mutmaßlichen Schützen von Krakau wurden drei weitere Leichen gefunden. Bei dem Angriff auf dem Marktplatz starben sechs Menschen, 16 wurden verletzt, darunter ein Deutscher.",
+   "e": "Die Zahl der Todesopfer im Zusammenhang mit dem Angriff ist damit gestiegen, die Ermittlungen laufen.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/article6aef445b80d3a1c6aa66c4ff/nach-schuessen-in-krakau-drei-leichen-im-haus-des-mutmasslichen-schuetzen-entdeckt-ein-deutscher-unter-den-verletzten.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T23:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d089ef2e292d91ec",
+   "k": "usa",
+   "titel": "Staten Island bucks Dems’ blue tsunami, rejects ‘one-party rule’ with re-election of Nicole Malliotakis",
+   "t": "Auf Staten Island wurde die Republikanerin Nicole Malliotakis wiedergewählt, während die Demokraten im übrigen New York City und in weiten Teilen der USA bei den Wahlen gewannen.",
+   "e": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/07/us-news/staten-island-bucks-dems-blue-tsunami-rejects-one-party-rule/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-07T23:29:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "4b70e3101e863269",
+   "k": "welt",
+   "titel": "Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus",
+   "t": "Im Persischen Golf sind zwei Öltanker auf Minen gelaufen und brennen, nachdem sie eine nicht genehmigte Route in der Straße von Hormus genommen hatten. Zudem gab es Zusammenstöße zwischen Schiffen und dem iranischen Militär.",
+   "e": "Die Straße von Hormus ist ein zentraler Seeweg für den weltweiten Öltransport, Zwischenfälle dort wirken direkt auf Energiepreise und Versorgung.",
+   "s": 8,
+   "link": "https://www.welt.de/politik/ausland/article6aefa95780d3a1c6aa66ca52/iran-meldet-zwei-oeltanker-laufen-auf-minen-und-brennen-explosionen-in-der-strasse-von-hormus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-07T23:27:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "f369755b41adaf2a",
+   "k": "usa",
+   "titel": "Trump declares Alaska Senate race ‘over’ in favor of GOP candidate following ‘Decoy Dan’ scandal",
+   "t": "Präsident Trump hat das Senatsrennen in Alaska für beendet erklärt und seinen Favoriten, Senator Dan Sullivan, zum Sieger erklärt, obwohl das Ergebnis gegen die Demokratin Mary Peltola noch nicht feststeht.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/07/us-news/trump-declares-alaska-senate-race-over/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-07T23:16:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "c49887abab3cacdf",
+   "k": "welt",
+   "titel": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
+   "t": "US-Präsident Trump hat bestätigt, dass das US-Militär neue Angriffe auf iranische Luftverteidigungssysteme auf der Insel Qeshm in der Straße von Hormus geflogen hat. Es sind die ersten Angriffe seit der Kongresswahl. Gleichzeitig geht es um Atominspektoren.",
+   "e": "Die Angriffe fallen in eine ohnehin angespannte Lage in der Region und betreffen zugleich den Streit um das iranische Atomprogramm.",
+   "s": 8,
+   "link": "https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-07T23:02:51+00:00",
+   "tag": null
+  },
   {
    "id": "673de25a372fdcd6",
    "k": "welt",
@@ -493,6 +577,18 @@
    "tag": null
   },
   {
+   "id": "adbb2cd33d8e1ff6",
+   "k": "finanzen",
+   "titel": "Fed könnte die Zinsen um 200 Basispunkte anheben, und die Rendite zehnjähriger US-Staatsanleihen könnte auf 10 % steigen, so Albert Edwards - Traders Union",
+   "t": "Der Analyst Albert Edwards hält es für möglich, dass die Fed die Zinsen um 200 Basispunkte anhebt und die Rendite zehnjähriger US-Staatsanleihen auf 10 % steigt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWM4aWhGUENzM2tPcFpvaEp5N0pLRkxtdjJsRWt6RHVtVWloQVhYTWxtSU1wTTBXelZmR3U2R09Iam5nNlRSSjB0dkNfVjVyVFEtVDc0TXVaX3BZOXNURW5wVVNuaGhDSE9QZEs1dTV2SXlGX1NOQkhwdnVkQk1MSGhvamF6YWs?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-07T17:45:24+00:00",
+   "tag": null
+  },
+  {
    "id": "41fe170edde9cf36",
    "k": "finanzen",
    "titel": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
@@ -706,6 +802,18 @@
    "link": "https://www.welt.de/politik/deutschland/article6aef418c2f874a5744a4379c/gez-abgleich-2026-millionen-haushalten-drohen-neue-forderungen-fuer-den-rundfunkbeitrag.html",
    "quelle": "Welt",
    "zeit": "2026-11-07T15:39:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "620ddc73a57b35ca",
+   "k": "nrw",
+   "titel": "Köln: Tagesbaustelle auf der A4 auf Höhe Lindenthal kommende Woche - News.de",
+   "t": "Auf der A4 in Köln-Lindenthal ist kommende Woche eine Tagesbaustelle geplant.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMEdYTEtBNDNjV0Z4RzhQOTk3TkRkMXhpaGhZSGxib0JnX01Qd01KNWRBY2pLdXpieGhYWFRMS2hVTEt4LVpWU0ZRTVZ6dW1qMEliMzZPOWtXU0plZnJVRWFhV1dtWmRzMUtyajZWRW1MSjJ1cEMwSlJGZGx3aXdsZXREOFQxY1dsbWtwMWd1cUVfQ25kcVI0YUlEVHVtSzZlUmpUTDI5UzNhT09abnNmSjk4eDRyQlBOYzBkVmtBRk1FbVdrVlZUcTdCNmZvRVdzZEhGZl9lSXNvcmhfemRNTTY1OTRlTTR3SDc3eDY2TVU2UzJ1VkJmQ05pSmVobFFzTVAyckI3QkV0c0llYWlBOWlEWmd3cWFXTEpYVw?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-07T15:38:52+00:00",
    "tag": null
   },
   {
@@ -982,6 +1090,18 @@
    "link": "https://www.welt.de/politik/article6aef2c24bd9dc1882a99ed87/krieg-in-nahost-us-regierung-bietet-20-millionen-dollar-belohnung-fuer-hinweise-zum-iranischen-atomprogramm.html",
    "quelle": "Welt",
    "zeit": "2026-11-07T13:54:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "284ec86df0754df8",
+   "k": "finanzen",
+   "titel": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains - Cryptonews.net",
+   "t": "Der Bitcoin-Kurs ist gefallen, weil die Stablecoin-Bestände geschrumpft sind, obwohl die US-Notenbank Reserven hinzugewonnen hat.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41T0tLU2F2ak1MWnBFSDc3YXNRb3Q4YkJaTEJGTlhXRXZubDdkUW1YUmJkeDZuRE1XNUNGbjVRSzEtTGJfRmRxb25sR2JocEtjcG9YTWNEX2U?oc=5",
+   "quelle": "Cryptonews.net",
+   "zeit": "2026-11-07T13:49:33+00:00",
    "tag": null
   },
   {
@@ -2185,6 +2305,18 @@
    "tag": null
   },
   {
+   "id": "f078ddc4d862ab01",
+   "k": "finanzen",
+   "titel": "Lawyer for Fed's Cook seeks clarity ahead of any White House hearing - The Lufkin Daily News",
+   "t": "Der Anwalt der Fed-Gouverneurin Lisa Cook verlangt Klarheit, bevor es eine mögliche Anhörung im Weißen Haus gibt.",
+   "e": "Der Fall betrifft die Unabhängigkeit der US-Notenbank, die für Zinsentscheidungen und Inflationsbekämpfung zuständig ist.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTkwySk81TjFNWVo2WDBHTnlvMGh4QkZoX1ExQzNhdTRKTVJObmtMQ1g4dUtsUjJTbDVqSzNtcm1WLW1GcFkxSGRFU2pNbWt1bTNOSE9GUlFIYWNHVmtURU1CNDNXeUdNcW5QVmh4WUF6dUtSYnV0QVF4U3hqU0poaFV3RXZ5UlZvWnN5bkptMTg0MjB4NFJXbmYzWDhqOGp4YzNYTS1JOGIzd05Rb055OXBKbVpXRkpjbUo5Wk9KY3dzRGpuaVJGUU0xdWc4aWlUMmZ5OEpiV2hEMHliOUNNZzMzM0w3alB6OWtFZVRQS2dGZHVWSzVCSzI0MA?oc=5",
+   "quelle": "The Lufkin Daily News",
+   "zeit": "2026-11-07T03:52:56+00:00",
+   "tag": null
+  },
+  {
    "id": "d2bba8818dd85ea5",
    "k": "deutschland",
    "titel": "Bundespräsidentenwahl: Ilse Aigner ist die ungekürte Kandidatin - Kritik an Merz",
@@ -2951,138 +3083,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-06T20:24:13+00:00",
    "tag": null
-  },
-  {
-   "id": "9064f1df479dac26",
-   "k": "finanzen",
-   "titel": "Daly: Fed muss bei hoher Inflation wahrscheinlich weiter straffen - Nachrichten und Statistiken - IndexBox",
-   "t": "Fed-Vertreterin Daly hält bei hoher Inflation weitere Zinserhöhungen für wahrscheinlich.",
-   "e": "Weitere Straffung der US-Geldpolitik würde Zinsen, Aktienmärkte und Krypto-Kurse unter Druck setzen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX01mZHJ6TTRpNzZ4SEZMeWVOVEVJbVQtcjVXOUVuWlM2MGpaMXRHb3kzRHJGZFlkSC01QjlCLXRpR1FrdVp6cXhPSl9sZThvREZKMmUtcWNZSV8wcElRRHV2a2pIQWJnTDFDcUs4bDU2OHRSNjJzUlhoekxJa0tkb2gwZW5TVDlQWlh1ZmdYdDl5dzNyeWc?oc=5",
-   "quelle": "IndexBox",
-   "zeit": "2026-11-06T20:03:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "c9ba675beaac69be",
-   "k": "usa",
-   "titel": "Pete Hegseth’s future in doubt as Republicans turn on secretary of war ahead of impeachment push: ‘He’s screwed’",
-   "t": "Nach der Niederlage der Republikaner bei den Midterms wenden sich mehrere Republikaner von Verteidigungsminister Pete Hegseth ab. Einige stellen seine Führung infrage, ein Amtsenthebungsverfahren wird diskutiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/06/us-news/pete-hegseth-becomes-gops-political-scapegoat-after-midterm-bloodbath-as-impeachment-vote-looms/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-06T19:52:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "2ed7c899b2c0efd5",
-   "k": "usa",
-   "titel": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
-   "t": "Der demokratische Abgeordnete Robert Garcia kündigt nach dem Machtwechsel im Repräsentantenhaus im Januar umfassende Untersuchungen gegen Trump, seine Familie und die Regierung an.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-06T19:42:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "57c366756a10d513",
-   "k": "welt",
-   "titel": "Israel-Wahl: Wen beauftragt Präsident Herzog mit der Regierungsbildung? Drei Wege zeichnen sich ab",
-   "t": "Nach der Israel-Wahl empfiehlt eine Mehrheit der designierten Abgeordneten Gadi Eisenkot für die Regierungsbildung. Sein Lager kommt laut Bericht nur auf 48 der 120 Sitze.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/israel-wahl-wen-beauftragt-praesident-herzog-mit-der-regierungsbildung/100266470.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T19:40:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "65d8d0c93bad2b1c",
-   "k": "welt",
-   "titel": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-   "t": "In Europa sind erneut zahlreiche Bombendrohungen gegen Flugverkehr und Medienhäuser eingegangen. Spanien spricht von einem hybriden Angriff, der kein Zufall sei.",
-   "e": "Die Häufung von Drohungen über mehrere Länder deutet auf einen koordinierten Angriff hin, laut Behörden bestätigt sich dies zunehmend.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T19:39:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "880d594b190384db",
-   "k": "welt",
-   "titel": "Niederlande: Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
-   "t": "In Amsterdam sind Hunderte auf die Baustelle eines Microsoft-Rechenzentrums vorgedrungen. Die Polizei nahm nach Angaben bis zu 200 Menschen fest.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/niederlande-protest-gegen-microsoft-rechenzentrum-in-amsterdam/100268012.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T19:34:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "50b2408e007bdd06",
-   "k": "deutschland",
-   "titel": "Bundestag beschließt hohe Strafen für Einsatz von K.O.-Tropfen",
-   "t": "Der Bundestag beschliesst hohe Strafen fuer den Einsatz von K.O.-Tropfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679494.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T19:34:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "3661b2e6d1750de7",
-   "k": "deutschland",
-   "titel": "Union nominiert Ilse Aigner als Nachfolgerin von Bundespräsident Steinmeier",
-   "t": "Die Union nominiert Ilse Aigner als Nachfolgerin von Bundespraesident Frank-Walter Steinmeier. Die CSU unterstuetzt die Kandidatur seit Langem, auch in der CDU-Fuehrung gibt es Einigkeit.",
-   "e": "Mit der Nominierung setzt die Union ihre Wahl fuer das Amt des Bundespraesidenten fest, Kanzler Merz hat sich dazu noch nicht oeffentlich geaeussert.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679514.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-06T19:33:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "ccec0d23e3a45ff8",
-   "k": "usa",
-   "titel": "USA: Die Amerikaner strafen MAGA ab – und Trump befördert einen der radikalsten Vertreter zu seinem Stabschef",
-   "t": "Trump macht den bisherigen Politik-Hardliner Stephen Miller zum Stabschef als Nachfolger von Susie Wiles.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/usa-die-amerikaner-strafen-maga-ab-und-trump-befoerdert-einen-der-radikalsten-vertreter-zu-seinem-stabschef/100268008.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-06T19:23:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "2627116818eae285",
-   "k": "deutschland",
-   "titel": "339 Polizisten bei Krawallen verletzt – Hälfte der Verdächtigen in Frankfurt ohne deutschen Pass",
-   "t": "Bei Krawallen am Rande bundesweiter Jugendproteste wurden laut einem Bericht 339 Polizisten verletzt. Es gab 330 Festnahmen oder Festsetzungen und 218 eingeleitete Strafverfahren, die Haelfte der Verdaechtigen in Frankfurt hat keinen deutschen Pass.",
-   "e": "",
-   "s": 7,
-   "link": "https://www.welt.de/politik/deutschland/article6aee092b47b5fce02f87a926/ausschreiungen-nach-genz-demos-339-polizisten-bei-krawallen-verletzt-haelfte-der-verdaechtigen-in-frankfurt-ohne-deutschen-pass.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-06T19:08:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "9bc1781c9723ce2e",
-   "k": "finanzen",
-   "titel": "Wer folgt auf Lagarde bei der EZB? Bislang fallen zwei Namen - ZDFheute",
-   "t": "Für die Nachfolge von Christine Lagarde an der Spitze der EZB sind zwei Kandidaten im Rennen, je einer aus den Niederlanden und aus Spanien.",
-   "e": "Die EZB-Präsidentschaft bestimmt maßgeblich die Zinspolitik des Euroraums und damit Finanzierungskosten in Deutschland.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0s1T2ZIUWc1STRpQ1ZPVk1fcmJndmN3eFFXTWpScHN0OVpYdm9QOWRGQjFxUGhQVVVzbTF4b19yMWlaLURaM2RrbDd4Y2htNmRXeFRmM0lYOElBSmNaU1FfNjM4T1o2T3JHZWs5OFhjTmdwWkR0akk1bzM4aWF2d055QWpJTnBwVU8zYk5hQUY?oc=5",
-   "quelle": "ZDFheute",
-   "zeit": "2026-11-06T19:08:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -3185,7 +3185,7 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "Google News Iserlohn",
@@ -3205,12 +3205,12 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Google News Fed",
