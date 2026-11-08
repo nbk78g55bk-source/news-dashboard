@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-08T15:01:23.361537+00:00",
+ "aktualisiert": "2026-11-08T15:06:36.304423+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.956 $",
-   "delta": 0.09277522566817023
+   "wert": "75.948 $",
+   "delta": 0.1285376367683783
   },
   {
    "name": "Ethereum",
-   "wert": "2.239 $",
-   "delta": -0.26565770661564325
+   "wert": "2.238 $",
+   "delta": -0.23775842022637056
   },
   {
    "name": "Gold",
@@ -80,6 +80,30 @@
   ]
  },
  "items": [
+  {
+   "id": "03adc7ba6ecab6d7",
+   "k": "finanzen",
+   "titel": "Innovationen: Unternehmen investieren erstmals weniger in neue Produkte und Verfahren",
+   "t": "Unternehmen investieren laut einer Erhebung der Industrie- und Handelskammern erstmals weniger in neue Produkte und Verfahren. Die Lage in Chemie und Pharma wird als schlecht beschrieben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/innovationen-unternehmen-investieren-erstmals-weniger-in-neue-produkte-und-verfahren/100262848.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T15:00:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "641ce6f2efd42a52",
+   "k": "finanzen",
+   "titel": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+   "t": "Die Gewinne der S&P-500-Unternehmen übertreffen die Analystenschätzungen laut MarketWatch nur knapp, so knapp wie seit etwa vier Jahren nicht mehr.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-08T15:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "89e95c76fbe8b2b1",
    "k": "welt",
@@ -309,6 +333,18 @@
    "tag": null
   },
   {
+   "id": "4db9d99731b9a76e",
+   "k": "usa",
+   "titel": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver - myMotherLode.com",
+   "t": "Nach der Forderung der Wähler nach wirtschaftlicher Entlastung stehen Trump und die Demokraten vor schwierigen Entscheidungen über die Umsetzung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVFFYQWx5YUFEMU0wQkh4bHlXQ3ozU3NhTHMxQm5NS1R4ZmZIOHJLN2VCLUwyVDFibTFMTGtSLXNoUmh2Y3QwU1BlOHcxNDN6a050aFoxTERGbld4U2dvdjk2MXlSS1RIUWE2Tjl2RjdrT0hzY3J4RHdTeF9sbm1SNmpPMDNVbGRNdWNZSHpHbzktM21waTVWUGp2WGc0aGNXV0dCMlZPMnN3Q3ptUmtBekxqV2gwMm5QUG5hLUo0bG83c3lib1RfQTRZZkI2Mkh0WkxLSThlcndSZ09vQXg4QmdJbUFLdnh3X01FZEtYbDLSAfABQVVfeXFMTlRRWEFseWFBRDFNMEJIeGx5V0N6M1NzYUxzMUJuTUtUeGZmSDhySzdlQi1MMlQxYm0xTExrUi1zaFJodmN0MFNQZTh3MTQzemtOdGhaMUxERm5XeFNnb3Y5NjF5UktUSFFhNk45dkY3a09Ic2NyeER3U3hfbG5tUjZqTzAzVWxkTXVjWUh6R285LTNtcGk1VlBqdlhnNGhjV1dHQjJWTzJzd0N6bVJrQXpMaldoMDJuUFBuYS1KNGxvN3N5Ym9UX0E0WWZCNjJIdFpMS0k4ZXJ3UmdPb0F4OEJnSW1BS3Z4d19NRWRLWGwy?oc=5",
+   "quelle": "myMotherLode.com",
+   "zeit": "2026-11-08T13:53:05+00:00",
+   "tag": null
+  },
+  {
    "id": "e1182e3756e5cd9f",
    "k": "deutschland",
    "titel": "Geförderte Altersvorsorge: Was das neue Altersvorsorgedepot bringt",
@@ -318,6 +354,42 @@
    "link": "https://www.faz.net/aktuell/finanzen/altersvorsorge-schwarz-rot-hofft-auf-rendite-booster-fuer-sparer-accg-201656541.html",
    "quelle": "FAZ",
    "zeit": "2026-11-08T13:49:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "7e78e2dac320c1ae",
+   "k": "deutschland",
+   "titel": "„Kitas kurz vorm Kollaps, und Prien kürzt Mittel für frühkindliche Bildung“, rügt Reichinnek",
+   "t": "Die Grünen fordern ein verpflichtendes Kita-Jahr, Die Linke kritisiert Kürzungen bei der frühkindlichen Bildung durch Familienministerin Prien. Union und SPD verteidigen ihren Plan.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6af039131125adfe9365c307/bildungspolitik-kitas-kurz-vorm-kollaps-und-prien-kuerzt-mittel-fuer-fruehkindliche-bildung-ruegt-reichinnek.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T13:45:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "d721c370a7ee6d9b",
+   "k": "welt",
+   "titel": "Erst Messerattacken, jetzt tödliche Schüsse – im sonst so sicheren Polen greift Nervosität um sich",
+   "t": "In Polen haben mehrere schwere Gewalttaten, darunter Messerattacken und tödliche Schüsse, binnen weniger Wochen die Debatte über die Sicherheitslage ausgelöst.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/plus6af072d41125adfe9365c91e/terrorangriff-in-krakau-erst-messerattacken-jetzt-toedliche-schuesse-im-sonst-so-sicheren-polen-greift-nervositaet-um-sich.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T13:42:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "0c47a4493900aac4",
+   "k": "deutschland",
+   "titel": "84-Jährige fährt Radfahrer an – drei Schwerverletzte, darunter zwei Kinder",
+   "t": "In Köln wurden nach einem mutmaßlichen Rotlichtverstoß einer 84-Jährigen drei Radfahrer schwer verletzt, darunter zwei Kinder.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/article6af06ea4a389bc337cfca0b8/koeln-84-jaehrige-faehrt-radfahrer-an-drei-schwerverletzte-darunter-zwei-kinder.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T13:41:24+00:00",
    "tag": null
   },
   {
@@ -345,6 +417,18 @@
    "tag": null
   },
   {
+   "id": "a3f872b1c54e3436",
+   "k": "welt",
+   "titel": "Hybride Attacken: Italiens Verteidigungsminister fordert offensive Aktionen nach Hackerangriffen",
+   "t": "Italiens Verteidigungsminister Crosetto will nach Hackerangriffen auf italienische Politiker, die mutmaßlich russischen Akteuren zugeschrieben werden, offensiver gegen hybride Angriffe vorgehen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ausland/hackerangriff-auf-italienischen-aussenminister-tajani-accg-201662733.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-08T13:14:30+00:00",
+   "tag": null
+  },
+  {
    "id": "026683dcaae6af1e",
    "k": "finanzen",
    "titel": "BEIGE BOOK: GLP-1S AFFECTING DEMAND FOR POULTRY, ALCOHOL - InsuranceNewsNet",
@@ -366,6 +450,18 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2Y0cTctQklubW03UWpiQUltdC1RZ0FBek5zc2pYbV9MaVp4V3h0RHczclJkenlldDdCa21ZSmpIcGlUNzFfTlNyLVg5amYyenNsOFlWYldkWnVKRjdETGJsZVQtTmw5MDFiVnlCN3BOR3czTzJOSk9kNmRtSzlfMkZueHVnbTZ0Nk9UdWdWc0lRX3U1TjBobDZheTFEQkJFSUdFMHRVSzNLOGtjWFd3RHA5MnU4dw?oc=5",
    "quelle": "Investing.com Deutsch",
    "zeit": "2026-11-08T13:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0003ab75ee28eb0a",
+   "k": "finanzen",
+   "titel": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
+   "t": "Die Kryptobörse Binance wechselt nach einem Hackerangriff, bei dem laut Bericht 6,4 Milliarden Dollar verloren gingen, ihren Finanzvorstand aus.",
+   "e": "Ein Hack dieser Größenordnung ist ein Sicherheits- und Vertrauensthema für den gesamten Kryptomarkt, da Binance zu den größten Handelsplätzen zählt.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T13:01:39+00:00",
    "tag": null
   },
   {
@@ -414,6 +510,30 @@
    "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-08T12:57:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "a349d034d8fcf13a",
+   "k": "deutschland",
+   "titel": "„Lisa hat nicht freiwillig ihr familiäres Umfeld verlassen“ – Ermittler prüfen mehr als 100 Hinweise",
+   "t": "Die 13-jährige Lisa aus Berlin-Marzahn wird seit Dienstag vermisst. Die Polizei geht nicht von einem freiwilligen Verschwinden aus, eine Mordkommission ermittelt mit über 140 Einsatzkräften.",
+   "e": "Der Fall beschäftigt die Öffentlichkeit stark, die Ermittlungen laufen mit mehr als 100 Hinweisen.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6af01344a389bc337cfc9a41/berlin-marzhan-lisa-hat-nicht-freiwillig-ihr-familiaeres-umfeld-verlassen-ermittler-pruefen-mehr-als-100-hinweise.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T12:57:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d7b0864dcb8b8f7",
+   "k": "deutschland",
+   "titel": "Klimawandel: Forscher beerdigen letzten Gletscher in den Allgäuer Alpen",
+   "t": "Der Schwarzmilzferner in den Allgäuer Alpen hat so viel Masse verloren, dass Experten ihn nicht mehr als Gletscher einstufen.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/klimawandel-forscher-beerdigen-letzten-gletscher-in-den-allgaeuer-alpen/100268215.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-08T12:56:54+00:00",
    "tag": null
   },
   {
@@ -520,6 +640,18 @@
    "e": "",
    "s": 5,
    "link": "https://www.welt.de/politik/deutschland/article6af06052a389bc337cfc9fa1/berlin-palaestinenser-flagge-auf-reichstagsgebaeude-gehisst-drei-festnahmen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-08T12:39:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "e54b386f508510d1",
+   "k": "deutschland",
+   "titel": "Palästinenser-Flagge vor Reichstagsgebäude gehisst – drei Festnahmen",
+   "t": "Vor dem Berliner Reichstagsgebäude wurde die Deutschlandflagge durch eine Palästinaflagge ersetzt. Der Staatsschutz ermittelt gegen drei Verdächtige.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6af06052a389bc337cfc9fa1/berlin-palaestinenser-flagge-vor-reichstagsgebaeude-gehisst-drei-festnahmen.html",
    "quelle": "Welt",
    "zeit": "2026-11-08T12:39:14+00:00",
    "tag": null
@@ -2947,138 +3079,6 @@
    "quelle": "News.de",
    "zeit": "2026-11-07T14:14:02+00:00",
    "tag": null
-  },
-  {
-   "id": "66f7b7ee56d605bb",
-   "k": "welt",
-   "titel": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
-   "t": "Unbekannte Täter haben sich Zugang zu Daten der Baugesellschaft des Brennerbasistunnels verschafft; zuvor war ein Tunnelprojekt zwischen Deutschland und Dänemark von einem IT-Angriff betroffen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/angriffe-auf-bahnprojekte-cyberattacke-auf-brennerbasistunnel-firma/100268113.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T14:10:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "1ca71008cc6444cf",
-   "k": "finanzen",
-   "titel": "Bitcoin Price Prediction as December Fed Rate Hike Odds Hit 99% - The Market Periodical",
-   "t": "Marktberichte nennen die Wahrscheinlichkeit einer Zinserhöhung der US-Notenbank im Dezember mit 99 Prozent. Die Einschätzung stammt aus einem Krypto-Marktbericht.",
-   "e": "Sollte sich das bestätigen, wäre es ein deutlicher Kurswechsel der Fed und würde Zinsdruck auf Bitcoin und andere risikoreiche Anlagen erhöhen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTQzRkdHeVZpWXpra213UFlteWUxM19FVVVDVVFKX3ZHOHdsdmVIVUdMenJGLVZPRlhfWUdSdXNIcVIzeGt4X3hJTFVNejl0UXVqZURpRVpTN2tSbGplUTVHQTZONi1OZE56ZWlVRWxGUF9ER0ZqLUFTZjI0SV9vX2d2amZfbzlkSVdzeTZXRE9oeFV3VllHRGc2M3ZCdGVjVy03TThTaHNKUQ?oc=5",
-   "quelle": "The Market Periodical",
-   "zeit": "2026-11-07T14:07:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "23f5a068d38324bf",
-   "k": "usa",
-   "titel": "Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight",
-   "t": "Kalifornische Staatsanwälte kritisieren Gouverneur Newsom, weil er alle 548 Todesurteile im Bundesstaat umwandeln will, und kündigen rechtliche Schritte an.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-07T14:00:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4064bc3b4a68ed9",
-   "k": "usa",
-   "titel": "Infektionswelle in den USA: Drei Menschen in einer Woche in den USA an Masern gestorben",
-   "t": "In den USA sind innerhalb einer Woche in verschiedenen Bundesstaaten drei Menschen an Masern gestorben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/infektionswelle-in-den-usa-drei-menschen-in-einer-woche-in-den-usa-an-masern-gestorben/100268107.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-07T13:59:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "add37b6d9aa820e9",
-   "k": "usa",
-   "titel": "US-Regierung bietet 20 Millionen Dollar Belohnung für Hinweise zum iranischen Atomprogramm",
-   "t": "Die US-Regierung setzt 20 Millionen US-Dollar Belohnung für Hinweise zum iranischen Atomprogramm aus.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.welt.de/politik/article6aef2c24bd9dc1882a99ed87/krieg-in-nahost-us-regierung-bietet-20-millionen-dollar-belohnung-fuer-hinweise-zum-iranischen-atomprogramm.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-07T13:54:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "284ec86df0754df8",
-   "k": "finanzen",
-   "titel": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains - Cryptonews.net",
-   "t": "Der Bitcoin-Kurs ist gefallen, weil die Stablecoin-Bestände geschrumpft sind, obwohl die US-Notenbank Reserven hinzugewonnen hat.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41T0tLU2F2ak1MWnBFSDc3YXNRb3Q4YkJaTEJGTlhXRXZubDdkUW1YUmJkeDZuRE1XNUNGbjVRSzEtTGJfRmRxb25sR2JocEtjcG9YTWNEX2U?oc=5",
-   "quelle": "Cryptonews.net",
-   "zeit": "2026-11-07T13:49:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "a88243aff84a4d6a",
-   "k": "finanzen",
-   "titel": "Bawag PSK Aktie: EZB genehmigt PTSB-Übernahme - ad-hoc-news.de",
-   "t": "Die EZB hat die Übernahme der PTSB durch die österreichische Bawag genehmigt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVdsYUZPVW5RbWJEQ0lkbXYzSmctMGh2a0RTMmFuYkRqUXpoNkNyNWlob19lVV9wR1Y0SjJVT0puTmZqSzNLUTVlVTl5NENzVlJZVnpWemlCVzNDdVlRcmNpRmNId1VQWXg1Nl9XTjdjdjU2b1BBd2IxUjdjYUh5Sm5KbzgyVjVCTloyaUdBclFITUR0NGZrQkVrdEhneUNoRnE0UlZ1aDhkVFJreG9Sc3RsdXI5ZjhG?oc=5",
-   "quelle": "ad-hoc-news.de",
-   "zeit": "2026-11-07T13:49:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "eba5028dc376d474",
-   "k": "finanzen",
-   "titel": "Fed’s Schmid Warns Against Viewing Oil Shock as Transitory - EnergyNow.com",
-   "t": "Fed-Vertreter Schmid warnt davor, den Ölpreisschock als vorübergehend abzutun.",
-   "e": "Die Aussage zeigt, dass die Notenbank Inflationsrisiken durch Energiepreise ernst nimmt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0dkQlJ3Nm5XZEI5OHRFVEUyQ2xrWFJUR3lYSERGSTgzMXd4ejhxVjVJQmFDSThkQWliQXlSOTZ6QVpaVEFZUUtYU3hLaDB0VklwdG1FQjdvZ3gxTVJ6Z0Z5aU1BNlFfd1dEd2lRMmFSYVBIdUdGQndyOEVOZ0ZNdnhPTFk2ZnU5N1ZfazZWWnI0dw?oc=5",
-   "quelle": "EnergyNow.com",
-   "zeit": "2026-11-07T13:34:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "fdbf6954c9e00b1c",
-   "k": "usa",
-   "titel": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
-   "t": "Der Abgeordnete Josh Gottheimer hat neue KI-bezogene Aktienkäufe offengelegt, obwohl er zuvor für ein Verbot von Aktiengeschäften im Kongress gestimmt hat.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-07T13:30:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "f77db363b6aec41e",
-   "k": "finanzen",
-   "titel": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
-   "t": "Im Techsektor wächst die Unsicherheit, ob der KI-Anbieter Anthropic seinen geplanten Börsengang verschiebt oder mit Abschlag an die Börse geht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-07T13:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f09d7416022d4031",
-   "k": "finanzen",
-   "titel": "Bitcoin holders have received eCash — What can you do with it?",
-   "t": "Nach dem Bitcoin-eCash-Fork erhalten berechtigte Bitcoin-Inhaber ein entsprechendes Guthaben in ECX; unklar ist, wo die Token gehandelt werden können.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-07T13:30:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3096,7 +3096,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
