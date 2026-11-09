@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-09T21:01:24.330260+00:00",
+ "aktualisiert": "2026-11-09T23:01:32.348939+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "128,44 €",
-   "delta": 0.887560410733057
+   "delta": 0.5125589481023818
   },
   {
    "name": "iShares MSCI EM",
    "wert": "44,45 €",
-   "delta": 1.3660240518193367
+   "delta": 2.542274839842018
   },
   {
    "name": "Deka S&P 500",
    "wert": "139,56 €",
-   "delta": 0.6671960577205649
+   "delta": 0.6635621184958973
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "176,10 €",
-   "delta": 1.8390017723385332
+   "delta": 2.348019585453298
   },
   {
    "name": "Deka DAX",
    "wert": "229,30 €",
-   "delta": 1.7528261768361864
+   "delta": -0.5852997755075751
   },
   {
    "name": "Bitcoin",
-   "wert": "74.837 $",
-   "delta": -1.1234068877900092
+   "wert": "75.201 $",
+   "delta": 0.7305350474832087
   },
   {
    "name": "Ethereum",
-   "wert": "2.129 $",
-   "delta": -4.3292104480324385
+   "wert": "2.134 $",
+   "delta": 0.09848299193849527
   },
   {
    "name": "Gold",
-   "wert": "4.148 $",
-   "delta": 1.8037276845493722
+   "wert": "4.150 $",
+   "delta": 1.8307222126693778
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,174 @@
   ]
  },
  "items": [
+  {
+   "id": "a7e09581d02898c1",
+   "k": "finanzen",
+   "titel": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "t": "Das Tokenisierungsunternehmen Securitize übernimmt River One und will in den Markt für forderungsbesicherte Finanzprodukte im Umfang von rund 6 Billionen Dollar expandieren.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-09T22:56:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "0fcece49c628e4ab",
+   "k": "usa",
+   "titel": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+   "t": "Bernie Sanders legt einen Plan vor, die Sozialversicherung langfristig zu sichern, indem die Beitragsbemessungsgrenze abgeschafft wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-09T22:49:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1463770e0d672cef",
+   "k": "finanzen",
+   "titel": "Nvidia: Trump zufolge ermittelt FBI wegen Affäre von Nvidia-Chef Huang",
+   "t": "Laut Trump ermittelt das FBI wegen der Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin. Trump sagte, er habe mit Huang telefoniert.",
+   "e": "Nvidia ist einer der wichtigsten Chipwerte; die Ermittlungen berühren Fragen der Unternehmensführung und der nationalen Sicherheit im Chipgeschäft mit China.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/nvidia-trump-zufolge-ermittelt-fbi-wegen-affaere-von-nvidia-chef-huang/100268570.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T22:46:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "c88cb1188a5f30cd",
+   "k": "welt",
+   "titel": "Trump erklärt Iran-Krieg für militärisch beendet",
+   "t": "US-Präsident Trump erklärt den Krieg gegen den Iran für militärisch beendet. Neue Angriffe seien nicht geplant, er hoffe auf ein baldiges Friedensabkommen. Die Seeblockade gegen Iran bleibe bestehen.",
+   "e": "Der Konflikt beeinflusst Ölpreise, Inflationserwartungen und Märkte, die zuletzt stark auf geopolitische Schlagzeilen reagierten.",
+   "s": 8,
+   "link": "https://www.welt.de/politik/ausland/article6af24820d0fb1ac9ce0ed30e/katar-vermittlung-trump-erklaert-iran-krieg-fuer-militaerisch-beendet.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T22:36:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "594993e6e3716350",
+   "k": "finanzen",
+   "titel": "3 unexpected reasons the October jobs report was so strong",
+   "t": "Der US-Arbeitsmarktbericht für Oktober fiel deutlich stärker aus als von Ökonomen erwartet.",
+   "e": "Ein starker Arbeitsmarkt stützt die Konjunktur, erschwert aber der Fed Zinssenkungen.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T22:23:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "7250a85eb6b2ce1f",
+   "k": "deutschland",
+   "titel": "Rüstung: Bund zahlt offenbar 6,6 Milliarden Euro für KNDS-Einstieg",
+   "t": "Die Bundesregierung zahlt laut Medienbericht 6,6 Milliarden Euro für den Einstieg beim Rüstungskonzern KNDS. Offenbar gibt es Streit um einen möglichen Großauftrag der Bundeswehr.",
+   "e": "Die Staatsbeteiligung an einem großen Rüstungskonzern hat finanzielle Bedeutung für den Bundeshaushalt und die Beschaffung der Bundeswehr.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-bund-zahlt-offenbar-66-milliarden-euro-fuer-knds-einstieg/100268563.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T21:58:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "df9cf56d39197cc6",
+   "k": "finanzen",
+   "titel": "Trump committee to hold hearing on possible removal of Lisa D. Cook from Federal Reserve Board - Consumer Finance Monitor",
+   "t": "Ein Ausschuss unter Trump hält eine Anhörung zu einer möglichen Abberufung von Fed-Gouverneurin Lisa Cook ab.",
+   "e": "Ein Eingriff in die Unabhängigkeit der Fed ist ein zentrales Thema für Zinserwartungen und Märkte.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUlsWk1nb0NqNncwcVFnNjRUZW92MFdseExGdDR1SXlLQkF5bTN0UEp4WDE0OXExRFoxczFMeEE3WkNiZndjVllYUHFNNE82ajhoa3hGY3RYNkZkSWVXNElPOFYzaV9fNjl6WXRkZm94NFQ1aWhSS1BtT1VfTFAtdkRaQUFNZVpfMmkzNEZGN3liWGlFR2ZHU0FVcDEyaVNoZzJLU1k3NzlmZnltNlNJaGlZN1pZTTlESUJ2Sk9neFVOTzVUVV9wbVhwaDhzaWlET0h2LVpwMm1VVThQ?oc=5",
+   "quelle": "Consumer Finance Monitor",
+   "zeit": "2026-11-09T21:57:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "de3c9b9d6b4ffeb9",
+   "k": "finanzen",
+   "titel": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+   "t": "Der Dow Jones verzeichnet seine dritte Schwankung von 1.000 Punkten innerhalb von vier Tagen.",
+   "e": "Die starken Schwankungen zeigen erhöhte Unsicherheit an der US-Börse, die auch durch politische Entwicklungen getrieben wird.",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-09T21:52:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7912aa6b5631c8a5",
+   "k": "usa",
+   "titel": "Trump tells DHS chief to work with Democrats on immigration reform, but no amnesty",
+   "t": "Trump soll Heimatschutzminister Mullin zufolge mit den Demokraten über eine Einwanderungsreform sprechen. Eine Amnestie werde es nicht geben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/trump-tells-dhs-chief-work-democrats-immigration-reform-no-amnesty",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T21:45:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "d9368d3c8bc466dc",
+   "k": "deutschland",
+   "titel": "Sondereinheit: Polizei durchsucht Hells-Angels-Vereinsheim und weitere Objekte in Berlin",
+   "t": "Die Berliner Polizei durchsucht das Vereinsheim der Hells Angels und weitere Objekte im Rahmen der Sondereinheit „Ferrum“ gegen Schusswaffenkriminalität.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/grosseinsatz-in-berlin-polizei-durchsucht-hells-angels-vereinsheim-201667611.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T21:27:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "74beb0788ca945ef",
+   "k": "usa",
+   "titel": "Trump's redistricting gamble faces reckoning as GOP holdouts claim vindication",
+   "t": "Trumps Pläne zur Neuziehung von Wahlkreisen in North Carolina, Florida und Texas haben laut Berichten bei den Midterms nicht den erhofften Effekt gehabt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/trumps-redistricting-gamble-faces-reckoning-gop-holdouts-claim-vindication",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T21:22:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "18d0bc5043e2fd33",
+   "k": "usa",
+   "titel": "+++ US-Midterms +++: Trump zweifelt Ergebnis der Midterms an",
+   "t": "US-Präsident Trump zweifelt das Ergebnis der Midterms an. Der Republikaner Massie beantragt zudem die Amtsenthebung von Verteidigungsminister Hegseth.",
+   "e": "Zweifel an Wahlergebnissen sind ungewöhnlich und belasten das politische Klima in den USA.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-zweifelt-ergebnis-der-midterms-an/29669594.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T21:10:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b22013bd8b563960",
+   "k": "deutschland",
+   "titel": "Bundespräsidentenwahl: NRW-CDU nominiert Günther Jauch für Bundesversammlung - DIE ZEIT",
+   "t": "Die NRW-CDU nominiert Günther Jauch für die Bundesversammlung zur Wahl des Bundespräsidenten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1djVFplZHlwbHY0N25VRjBBLUIyR3piY3ZfZlpMMjJvaU4yVWU2Y2VuYWkzTnhtRjJrN3E1TGpHa0ZjTFluVmQtQnlpUVllelNnXzBvS0tWVEMxemszMFFjQzBNUk5Nay11ekdfUjkwaHhEcVk0ZTdzVjFMV21KTmhOSndQalROR1NDTW9ScVM3Y3VZcUE?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-09T21:01:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "56f3d5586cde2e2c",
+   "k": "finanzen",
+   "titel": "What to Expect from Tuesday’s Closely Watched Inflation Report - Investopedia",
+   "t": "Der US-Verbraucherpreisindex für Oktober wird am Dienstag veröffentlicht. Erwartet wird ein Anstieg von 0,3 Prozent im Monatsvergleich, die Kernrate soll um 0,2 Prozent steigen.",
+   "e": "Die Inflationsdaten sind wichtig für die Zinserwartungen an die Fed.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1otOVlzYW04MzZYZk9OSjNiTzVpUjQ2Y2hJaE84SkNFQm1ITHY2NDhHcTNPU2ZwS0VSRENyX1NqUjQ1ZXNyUWNTWjNZelhaMDZucFNnSkZUVTF5WEIzT1o1MDRrdTkyZThIQkM1ZjAxOEg5SmprSzFnZ2NHU2xDcFdCX2ZXdDZhQVMzemhfbzk1Wk1SbUdWTDAxS29ZU3dBeWViR2JqS0lxcG16WEZ1a0xmdTg4MXNxQW9nUmtiQVlGN3VFRWpVWEpZeUYxZ3BvQ3JheQ?oc=5",
+   "quelle": "Investopedia",
+   "zeit": "2026-11-09T20:53:23+00:00",
+   "tag": null
+  },
   {
    "id": "573b6d4237366b04",
    "k": "deutschland",
@@ -297,6 +465,18 @@
    "tag": null
   },
   {
+   "id": "7a4aa4556aedf960",
+   "k": "welt",
+   "titel": "tagesschau 20:00 Uhr",
+   "t": "Frankreich macht den Iran für Cyberangriffe auf Kühlsysteme in Supermärkten verantwortlich.",
+   "e": "Cyberangriffe auf Infrastruktur in Europa sind ein sicherheitspolitisches Thema mit Bezug zum Iran-Konflikt.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681028.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T19:38:06+00:00",
+   "tag": null
+  },
+  {
    "id": "39d0abe9680c14b0",
    "k": "usa",
    "titel": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
@@ -306,6 +486,18 @@
    "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
    "quelle": "CNBC",
    "zeit": "2026-11-09T19:34:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "fbe82e6d8e9458ac",
+   "k": "welt",
+   "titel": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+   "t": "Papst Leo XIV. feiert in Buenos Aires eine Messe vor rund zwei Millionen Menschen und würdigt die Bedeutung der Familie.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T19:34:13+00:00",
    "tag": null
   },
   {
@@ -354,6 +546,30 @@
    "link": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
    "quelle": "Fox News Politik",
    "zeit": "2026-11-09T19:25:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "cd401f964b01326f",
+   "k": "usa",
+   "titel": "Verlacht, verachtet und gefürchtet: Hardliner Stephen Miller übernimmt das Weiße Haus - TZ",
+   "t": "Stephen Miller, als Hardliner bezeichnet, übernimmt laut Medienberichten eine neue, einflussreiche Rolle im Weißen Haus.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVE5sbGJRc094MnRmSVhZTHJMNkZFa1dDN01xSjVKbTJSV1l6TnRRMEptTFVFTzZSMWswd0xHM1JsaWFaM2xrWU1NdkVIcW1aakJBRjBDMllnbGNqZ1JkeEtwTVhxY0h5M0V1cE5WZXpWRi14cDhxUXVzcVlaOWZqNUtjYXFXanRzV2VsaWVQYUtKZXpLeEJJdVh6djVtaUk4NUE?oc=5",
+   "quelle": "TZ",
+   "zeit": "2026-11-09T19:11:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "cf66a86038583484",
+   "k": "deutschland",
+   "titel": "„Haftstrafe ist die einzige Sprache, die solche Straftäter verstehen“",
+   "t": "Die Polizeigewerkschaft fordert nach einer Flaggen-Aktion am Reichstag Haftstrafen für die Täter und mehr Personal für die Berliner Polizei.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af2146239ea9ae342b207ac/pali-flagge-am-reichstag-haftstrafe-ist-die-einzige-sprache-die-solche-straftaeter-verstehen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T19:08:44+00:00",
    "tag": null
   },
   {
@@ -414,6 +630,18 @@
    "link": "https://www.welt.de/politik/deutschland/video6af20f2979e1656222c38059/drossmann-gegen-wehrpflicht-ich-wuerde-eine-wehrpflicht-doch-nicht-aus-einer-unwaegbarkeit-heraus-beschliessen.html",
    "quelle": "Welt",
    "zeit": "2026-11-09T18:35:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce8572ef75dfb5ea",
+   "k": "usa",
+   "titel": "Secret Service riegelt Weißes Haus nach zwei Sicherheitsvorfällen ab | USA-News - T-Online",
+   "t": "Der Secret Service riegelt das Weiße Haus nach zwei Sicherheitsvorfällen ab.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGQzSjd4SEJxaV9PR3FFZlZ4cXJ6SjhMS0JDQWduWS1yTTVkNGJOWXcydTA4eWx1SmJ3ZEoybGFYaHVadEliLVdUVkJaYzJacUJyY0wxdDI3RG9Pc3otTThpWTJ2ZTFoMW5JcTVtU1E2THlLUTdGVHJydXlkNVRfRDQxQ05QVXFKeHlyVGtpNXVabUdWekdMcHZhLWlidXd5elozM0Itd0YwS1RiVTBSeXNtQVV3cXp5YzZxTUJFYmZ2ZTBZLW5ZQTVFdlBuVW15UHRvcQ?oc=5",
+   "quelle": "T-Online",
+   "zeit": "2026-11-09T18:30:00+00:00",
    "tag": null
   },
   {
@@ -629,6 +857,18 @@
    "s": 4,
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1o1b3VyUGl1eGd5eE5BWW84ZlNiSi1wWTJrUW5ueHJ0MFV3ejA3U05uNTJBQm9HSHY2S3lrNXExeE00Qlh4TkgzcmFMN216Y2M1eWFDZWhBeGxTdzVaNnJ2OU1yZWVUMktqeDhHOFN6ZTQ2M0E4Wmt5M2tROUFBQldGMDcwbThMUWgtWkNpMkVhWnNTclhJU2plSU1wN3U5OC0tbTdZYWI2NDJYRWFSWjVVLU14VkMtLVBadG5qS1V1TTlZX0x3VmozLUZVM041WVNtVzNZdWNCYXRSVVNkNTF3UQ?oc=5",
    "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-09T17:14:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "25426d29eb7474be",
+   "k": "finanzen",
+   "titel": "Atlanta Fed: Nowcast-Schätzung für das US-BIP im 4. Quartal bei 3,5 % nach zuvor 3,4 % - MarketScreener Schweiz",
+   "t": "Die Schätzung der Atlanta Fed (Nowcast) für das US-Bruttoinlandsprodukt im vierten Quartal liegt bei 3,5 Prozent, nach zuvor 3,4 Prozent.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQalhwLWh6M3NyeUF5UWgwUExKMG9RXzhvZzZfTGEtaXcwcUZSMXFyMGxfb0dhcHZ6clRLOGxLb28xNEJlX0lrQXhVSGRWdTEzMVdSZU1Nbm1NOWZ0V3I3dmFuTzQ5ZnJ0dURtSnUxZUtndzNSb1lRMjhJYzlZYl9DM1VqRktQc0xiSmx1d0tCYUZuRmVoZDlfVndPZE9lOXFtYkl3VUV2M2o5NGdGcEF1S0ZEenczd0FnSG1MaDNZZnFxNDhDNUdIZXFvakFxV2JyNGhBTnN0eVNvYzBSblpLbGtNVQ?oc=5",
+   "quelle": "MarketScreener Schweiz",
    "zeit": "2026-11-09T17:14:55+00:00",
    "tag": null
   },
@@ -1089,6 +1329,18 @@
    "tag": null
   },
   {
+   "id": "7874c7ef1093facf",
+   "k": "finanzen",
+   "titel": "Umfrage der New Yorker Fed: Amerikaner sorgen sich stärker über künftige Arbeitslosenzahlen - MarketScreener Schweiz",
+   "t": "Eine Umfrage der New Yorker Fed zeigt, dass sich Amerikaner stärker über künftige Arbeitslosenzahlen sorgen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUWwzUkh4TF9taDNybDVUb3NKOFlwVUowcURIcnpoRm1mcmFQTTkwY0RSN043RnBwMnk0eXVGZThTd210NmUyVUZjallmN2l4MmU0aFhHQUI0VVk2TWNHT3kxVUx0b3VWbmpDYXFFbDM5WEdteUZNdTU0LUZ6eW9ZaFRyM1ZDQTYzMU0tc0dKUmlVdEJ4QWZnNExvbzlMUUx5M19kWmQ5THVZR1BlVm02QTVReHZYZV93Y21xcEVjbDFNWVJ2V251ZUZFVmVEdzQ1a2tpV0J1Vm1XSktxTXFfbXBVbHJJMzhvRHJlM213WUY?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-09T16:04:38+00:00",
+   "tag": null
+  },
+  {
    "id": "02be4d51a16ad00e",
    "k": "finanzen",
    "titel": "NY Fed survey finds Americans more worried over future jobless levels - Reuters",
@@ -1386,6 +1638,18 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaTgtZkhXczF1M0Y1OXA4TjlsS21WYjFocHFmYVh1NnJVZXliMW4xRlFSbHVqUE5DUlFUZ3U4MFZxMGxvNDJvaE92N29JZkU4OVFqSGFkcHUtRmpEd0I4TXR5RVVyU2hSZlZCZWVlaEE0aktqb2kta2xDLTJadFRtODY2V0MxVFk5Ui1ibTBQYUpma0pLRU8yZmhhbVdkTjJNMDNnSUk0ZnFrMjFYUUQ2SHZWb0c1RndaeFNaRlFmdEJLSHhIdFJNMVU5cDJIWnFLMDE3RXp3?oc=5",
    "quelle": "tagesschau.de",
    "zeit": "2026-11-09T15:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6dc1ef4b2fa86b55",
+   "k": "finanzen",
+   "titel": "Devisen: Eurokurs gestiegen - EZB-Referenzkurs: 1,1193 US-Dollar - Yahoo Finanzen Deutschland",
+   "t": "Der EZB-Referenzkurs liegt bei 1,1193 US-Dollar; der Euro ist gegenüber dem Vortag gestiegen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTQzUlcxdEJtSVVXTnByTi1jUFVzYm5ScGZpX3lTRDNvbndQRkZwNXVMTDE5MUIzdmJNUGJyQW5CX3FzYTA0dlNPa0dfUEJ4NS1BaHZKWEFHcml5MDFuZndEdDMtanFjSUtaSXhPczFRNFZlRmNLT3lWMkxzZUZDdzZfX3RYOU5lQ1ZVYzZjTWltUFFmTGxzVWZMN2EwWmM4?oc=5",
+   "quelle": "Yahoo Finanzen Deutschland",
+   "zeit": "2026-11-09T15:22:37+00:00",
    "tag": null
   },
   {
@@ -2505,6 +2769,18 @@
    "tag": null
   },
   {
+   "id": "5872045677585bfb",
+   "k": "deutschland",
+   "titel": "Schneider fordert Alternative zur Plastiksteuer",
+   "t": "Umweltminister Schneider schlägt eine Alternative zur Plastiksteuer vor, nachdem Unionsfraktionschef Frei eine solche Steuer ausgeschlossen hatte. Über die möglichen Einnahmen wird bereits diskutiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-09T09:03:50+00:00",
+   "tag": null
+  },
+  {
    "id": "969f38e64b01a3d7",
    "k": "usa",
    "titel": "Binance, Tether and Trump crypto firms face Senate records deadline",
@@ -2803,282 +3079,6 @@
    "quelle": "FAZ",
    "zeit": "2026-11-09T08:09:29+00:00",
    "tag": null
-  },
-  {
-   "id": "ead28c1c518e2aa9",
-   "k": "finanzen",
-   "titel": "Lagarde deutet weitere Zinserhöhung der EZB im Dezember an - Finanzen.net",
-   "t": "EZB-Präsidentin Lagarde deutet eine weitere Zinserhöhung im Dezember an.",
-   "e": "Die Andeutung verstärkt die Erwartungen an einen weiteren Zinsschritt der EZB und wirkt auf Euro, Anleihen und Bankaktien.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXI1b01tQ3JoeGcybXRuVlVtWnFOa3o3WDBWUGxnNk5tR0tDSUItLU5IRGxoZXhlQ2N6ZjVQdXVGamRlZmEtTTR4WUNrbWZrNTBoMFllbmQyOTZZRlNzRVdyTkYzdVVkeE1WR0daYV9oMmxvV3ZHLVRYeEF0QUhNREQ0bU1oNWFBQ21YTmZYMUFHSUZSQ0h4X2Y4RjgwT01yZy0tT0MtUmRaMEtBUUY3M0lSeEtJRmhZWGplazdLTQ?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-09T08:09:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "52a60e1343b7a2b2",
-   "k": "deutschland",
-   "titel": "Fundort der 13-jährigen Lisa – Nachbarn hörten Hilferufe aus verlassenem Haus",
-   "t": "Die Leiche der 13-jährigen Lisa wurde in einem verlassenen Haus gefunden, Nachbarn hatten zuvor Hilferufe gehört.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/article6af1707c80d3a1c6aa66de72/lisa-t-fundort-der-leiche-nachbarn-hoerten-hilferufe-aus-verlassenem-haus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:06:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "467ab6d1886b0c77",
-   "k": "welt",
-   "titel": "Wie steht es um den Klimaschutz im Gastgeberland Türkei?",
-   "t": "Gastgeber Türkei will den Anteil elektrischer Energie bis 2035 weltweit auf 35 Prozent erhöhen, setzt im eigenen Land aber weiter vor allem auf Kohle.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T08:05:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce4f569250df5ffc",
-   "k": "finanzen",
-   "titel": "Federal Reserve: December rate hike view reinforced – Commerzbank - FXStreet",
-   "t": "Die Commerzbank sieht die Ansicht bestätigt, dass die US-Notenbank Fed im Dezember die Zinsen erhöhen könnte.",
-   "e": "Höhere US-Zinsen stärken den Dollar und belasten Risikoanlagen wie Aktien und Krypto.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk02ckhHbWJueXMzVjJqcFU1VjRLSEc1djRMTVg3N1hwTHlwcXVGWm5scHZ5Ym1GeFhsYzJUNXVfeS1TaUFuOGNHd3U5cVc1aXhEUGdwaV9mUmxJb3d2VzlUeThKemswZjl3VWhQR0xpWnhaYUU0aUQtSU51akZQamc1LVFPdkdobDZ5cU1qS3lKZ29NZlBOYUs5NGFsMmpwNmpHQ0dPVVc?oc=5",
-   "quelle": "FXStreet",
-   "zeit": "2026-11-09T08:05:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "845e74a13075d5c5",
-   "k": "deutschland",
-   "titel": "Ersetzbar am Arbeitsplatz: Ifo: KI-Effekt am Arbeitsmarkt - Berufseinsteiger leiden",
-   "t": "Eine Ifo-Analyse zeigt erste auffällige Effekte von KI auf den Arbeitsmarkt, vor allem für Berufseinsteiger.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/ersetzbar-am-arbeitsplatz-ifo-ki-effekt-am-arbeitsmarkt-berufseinsteiger-leiden/100268376.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T08:00:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "e9673285dcd829e9",
-   "k": "welt",
-   "titel": "Flughäfen: EU verklagt IBM und Partner wegen fehlerhaften Einreisesystems",
-   "t": "Die EU hat das Konsortium um IBM wegen des fehlerhaften Einreisesystems verklagt, das im Sommer zu Wartezeiten an Flughäfen führte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/flughaefen-eu-verklagt-ibm-und-partner-wegen-fehlerhaften-einreisesystems/100268331.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:59:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "6fcac27577b4bdd5",
-   "k": "deutschland",
-   "titel": "Knapp zwei Drittel sind unzufrieden mit dem Funktionieren der Demokratie in Deutschland - WAZ",
-   "t": "Knapp zwei Drittel der Befragten sind laut Umfrage unzufrieden mit dem Funktionieren der Demokratie in Deutschland.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGZyVTdVTk9ZTGNncnhBNHFMMmxYYzJWU005ZTBuX2w0d0ZPTHBncDBqTTVmWFhMa09MMVA5R21lWWNlTC1NVWtTbnI2S2xFWUZ5QjN5N3I1azZIRmpnSnQxLWU4TGV3VDNuSEx0R1dHRW94cHQzSG9uZTRfTlhFcmF0ZG4zMlU1X1NrVGpyR1BfYU1mUHFvYWlCeGprc1BHRkthUEZMdzZpU1NhNm9vMm1oSWl6a3dUXzFiTlN0QzIxcGhyMXI3Y0ltN3J0SHpzTmc?oc=5",
-   "quelle": "WAZ",
-   "zeit": "2026-11-09T07:54:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "8d7f9621c12d1ebc",
-   "k": "finanzen",
-   "titel": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey",
-   "t": "Vor der Veröffentlichung der US-Inflationsdaten für Oktober werden moderat sinkende Teuerungsraten erwartet.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBnTU9ZdVZuNFpZLXZONDUxNFpVZFVKU2Z4OEU2d2lYaXlBcTdCTFpjTWo5UUhRSmdRU0dpekdLd3c4NzE3QkRCWnBGaXFpUnNpWnAyQXJjbE56THJFN3piX0dOc1dMNTE0UFlvUTYxdXE3YnAzYjJVYmxNYUw4OGZmSDh3Y3RwZXBpTTFYaU40VTg0TENxRTY0a1VFeFR1Tk1zcHNocVJENkdneDMtVVp6aEVhOXc5Q29uV2RlZmZJMjUzckhYTTVld2JoMEpEWWZPRVhvR0d0bWJWV1ZnMnVibw?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-09T07:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "452b8d419ad0eed6",
-   "k": "finanzen",
-   "titel": "Technologie: Trumpf wächst massiv im Geschäft mit der Chipindustrie",
-   "t": "Der Laserspezialist Trumpf wächst im Geschäft mit der Chipindustrie stark und erhöht die Produktion.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-warum-trumpf-auf-das-chipgeschaeft-setzt/100266927.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b1bb4086afdbe9c",
-   "k": "deutschland",
-   "titel": "„Tief irritiert“ – Mehr als 50 Grünen-Mitglieder kritisieren Claudia Roths „Schuld“-Aussagen",
-   "t": "Mehr als 50 Grünen-Mitglieder verlangen von der Parteispitze eine öffentliche Zurückweisung von Claudia Roths Aussagen über den Zentralrat der Juden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af1737da389bc337cfcac23/claudia-roth-tief-irritiert-mehr-als-50-gruenen-mitglieder-kritisieren-schuld-aussagen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T07:45:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "11fc9257d6a4b3c3",
-   "k": "deutschland",
-   "titel": "„Zwei Bilder sind noch genau in meinem Kopf“ – George Shefi erinnert an Reichspogromnacht",
-   "t": "Der Holocaust-Überlebende George Shefi schildert in der Neuen Synagoge Berlin seine Erinnerungen an die Reichspogromnacht von 1938.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af1677b80d3a1c6aa66ddf1/holocaust-ueberlebender-zwei-bilder-sind-noch-genau-in-meinem-kopf-george-shefi-erinnert-an-reichspogromnacht.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T07:42:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "e0cccd238a5c030e",
-   "k": "finanzen",
-   "titel": "Außenhandel: „Made in Germany“ gefragt - Ausfuhren legen im September zu",
-   "t": "Die deutschen Ausfuhren sind im September gestiegen, der US-Markt entwickelt sich trotz Handelskonflikt mit der Trump-Regierung gut.",
-   "e": "Die Exporte sind ein zentraler Konjunkturindikator für Deutschland.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-made-in-germany-gefragt-ausfuhren-legen-im-september-zu/100268354.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:33:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d58b98dbb1b7f9e",
-   "k": "finanzen",
-   "titel": "Lieferketten: BMW will mehr Batteriezellen aus Europa und den USA kaufen",
-   "t": "BMW will mehr Batteriezellen aus Europa und den USA beziehen und die Lieferketten stärker regionalisieren.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/lieferketten-bmw-will-mehr-batteriezellen-aus-europa-und-den-usa-kaufen/100268355.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:31:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "0835fff67fc36c0b",
-   "k": "welt",
-   "titel": "Rasante Erwärmung: Weltwetterorganisation schlägt Alarm – Warnung vor weiterer Erderwärmung",
-   "t": "Die Weltwetterorganisation warnt vor weiterer Erderwärmung: Die vergangenen vier Jahre waren die wärmsten seit Beginn der Aufzeichnungen, verstärkt durch das Phänomen El Niño. Ein neuer Wärmerekord 2027 gilt als möglich.",
-   "e": "Die Warnung erhöht den Druck auf die bevorstehende UN-Klimakonferenz.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wissen/erde-klima/weltwetterorganisation-warnt-vor-weiterer-erderwaermung-accg-201664814.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T07:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8e2b40965917106f",
-   "k": "welt",
-   "titel": "Trump verkündet baldiges Kriegsende und stellt Ukraine auf Gebietsabtretungen ein",
-   "t": "Trump geht nach eigenen Angaben von einem baldigen Ende des Ukraine-Kriegs aus und bringt veränderte Grenzen der Ukraine ins Spiel.",
-   "e": "Ein Kriegsende mit Gebietsabtretungen wäre eine grundlegende Weichenstellung für die europäische Sicherheitsordnung.",
-   "s": 8,
-   "link": "https://www.welt.de/politik/ausland/video6af16bc4a389bc337cfcabb8/ukraine-krieg-trump-verkuendet-baldiges-kriegsende-und-stellt-ukraine-auf-gebietsabtretungen-ein.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T07:29:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "fa8acaac8115546c",
-   "k": "usa",
-   "titel": "USA: Trump räumt nach Midterms „zu harte Abschiebepolitik“ ein",
-   "t": "US-Präsident Trump räumt in einem TV-Interview eine „zu harte“ Abschiebepolitik ein und macht den Iran-Krieg und hohe Energiepreise für die republikanische Wahlniederlage mitverantwortlich.",
-   "e": "Das Eingeständnis ist ein seltener Kurswechsel in der Linie der Regierung.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-raeumt-nach-midterms-zu-harte-abschiebepolitik-ein/100268336.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:28:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "b35eb5f3d8ffaa86",
-   "k": "finanzen",
-   "titel": "Oil Prices Fall, Staying below $100, as Trump Plays Down New Iran Strikes",
-   "t": "Die Ölpreise geben nach und bleiben unter 100 Dollar je Barrel, nachdem Trump neue Iran-Angriffe heruntergespielt hat. Berichtet werden Angriffe auf Saudi-Arabien und Zwischenfälle mit Tankern in der Straße von Hormus.",
-   "e": "Die Lage in der Golfregion bleibt ein Risikofaktor für Energiepreise und Inflation, da über Hormus ein großer Teil des globalen Öltransports läuft.",
-   "s": 7,
-   "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-09T07:27:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bc3f87f510097c35",
-   "k": "deutschland",
-   "titel": "„Nicht ansprechen“ – Straftäter flieht, Polizei warnt Bevölkerung",
-   "t": "Ein wegen schwerer Straftaten untergebrachter 49-Jähriger ist aus einer Klinik in Bremen-Ost geflohen, die Polizei warnt die Bevölkerung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af1691c80d3a1c6aa66de22/bremen-nicht-ansprechen-straftaeter-flieht-polizei-warnt-bevoelkerung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T07:20:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "6343d86600e50aa0",
-   "k": "deutschland",
-   "titel": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
-   "t": "Die SED-Opferbeauftragte Zupke warnt davor, das Erbe der friedlichen Revolution politisch zu missbrauchen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/november-gedenken-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T07:19:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "97b15dc6fd950956",
-   "k": "finanzen",
-   "titel": "Euro legt dank Zinserhöhungserwartungen für die EZB und schwächerem US-Dollar zu - www.tmgm.com",
-   "t": "Der Euro legt zu, gestützt von Erwartungen an EZB-Zinserhöhungen und einem schwächeren US-Dollar.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWk1WXNKVnl2cWhpd0JyRlhBVUxaUmxiLVRyOXhiWlJhS1RKQnFNUEZQcURfU3d6UTJhY1JSdTdUbU1pSksyOEFac0JnZmJ1aWtHakpYMjJSSktDNWJHb1JDc0lHTzREYWJLTkRUdktMVWxYdUoxclBDbUtDZXo1WVVTaWd6Y0FFWF9kQU5VMnB3NzhOUHVteHI3RHNrYkQ0QWFTZVVveHBNeGR2VVZGZzlHOFhpSUpyNTdiRnk5WDA5SkR0?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-09T07:14:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "3bc3c748449755bf",
-   "k": "finanzen",
-   "titel": "Versicherer: Hannover Rück sieht sich auf Kurs – Ruhige Hurrikan-Saison",
-   "t": "Die Hannover Rück legt Zahlen zum dritten Quartal vor und sieht sich trotz bröckelnder Preise auf Kurs.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-hannover-rueck-sieht-sich-auf-kurs-ruhige-hurrikan-saison/100266548.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:06:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "d9981593153f3c86",
-   "k": "deutschland",
-   "titel": "9. November: Merz: „Freiheit und Demokratie sind nie selbstverständlich“",
-   "t": "Bundeskanzler Merz erinnert am 9. November an Ausrufung der Republik, Reichspogromnacht und Mauerfall und betont, Freiheit und Demokratie seien nie selbstverständlich.",
-   "e": "Der Gedenktag verbindet drei zentrale Wendepunkte der deutschen Geschichte.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/9-november-merz-freiheit-und-demokratie-sind-nie-selbstverstaendlich/100268346.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T07:00:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "c8b5896127e1c32c",
-   "k": "nrw",
-   "titel": "Wetter: Zunächst trocken in NRW - zur Wochenmitte teilweise Regen - DIE ZEIT",
-   "t": "Für NRW ist zunächst trockenes Wetter vorhergesagt, zur Wochenmitte gibt es teilweise Regen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDhYR1F6NHlQRGxENmFJQXFGRExvbW9lUEZ5WGlydHdJOElWbnpUVkltalNLMVFQUE96b25pTjg1UzZJejB3M25DbEx0TUxPdzc1b2VMOU1DQjlPaWhhSl9kdU9KNmpBRFZZQl9SempHd3RLVUlaQTFvV1U5eVljWTFNem05dzhpU0FmdFJvR2N2QjdNbFc0?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-09T06:59:05+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3091,7 +3091,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -3116,7 +3116,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "WSJ USA",
@@ -3176,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Google News Iserlohn",
@@ -3206,12 +3206,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 27
    }
   ],
   "markt": [],
