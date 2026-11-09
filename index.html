@@ -98,6 +98,22 @@ nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
 nav button.on span{background:rgba(255,255,255,.22);color:#fff}
 @media(prefers-color-scheme:dark){nav button.on{color:#0a0c11}nav button.on span{background:rgba(0,0,0,.18);color:#0a0c11}}
 
+/* Gelesen */
+.chk{margin-left:auto;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--bd);background:var(--surface2);color:var(--mu);border-radius:999px;padding:3px 11px 3px 8px;font:inherit;font-size:12px;font-weight:650;cursor:pointer}
+.hot+.chk{margin-left:8px}
+.chk i{font-style:normal;width:16px;height:16px;border-radius:50%;border:1.5px solid var(--mu);display:inline-flex;align-items:center;justify-content:center;font-size:11px;line-height:1;color:transparent}
+.chk:hover{border-color:var(--up);color:var(--up)}
+.chk:hover i{border-color:var(--up)}
+.card.read{opacity:.55}
+.card.read .chk{color:var(--up);border-color:color-mix(in srgb,var(--up) 45%,var(--bd))}
+.card.read .chk i{background:var(--up);border-color:var(--up);color:#fff}
+@media(max-width:480px){.chk{padding:3px 6px}.chk .lbl{display:none}}
+.card.gone{opacity:0;transform:scale(.98);transition:opacity .18s,transform .18s}
+.tools{grid-column:1/-1;display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--mu);padding:0 2px}
+.tools span{margin-right:auto}
+.tools button{border:1px solid var(--bd);background:var(--surface);color:var(--tx);border-radius:999px;padding:5px 12px;font:inherit;font-size:12.5px;font-weight:620;cursor:pointer}
+.tools button:active{transform:scale(.97)}
+
 /* Meldungen */
 main{padding:6px 0 24px;display:grid;gap:12px}
 @media(min-width:880px){main{grid-template-columns:1fr 1fr;gap:14px}}
@@ -142,7 +158,11 @@ footer ul{list-style:none;padding:0;margin:8px 0 0;text-align:left;display:inlin
 <script>
 const TABS=[["top","Wichtig"],["alle","Alle"],["finanzen","Finanzen"],["deutschland","Deutschland"],["nrw","NRW"],["usa","USA"],["welt","Welt"]];
 const NAMES={finanzen:"Finanzen",deutschland:"Deutschland",nrw:"NRW",usa:"USA",welt:"Welt"};
-let TERM=[],DATA={items:[],markt:[]},tab="top",query="",lastVisit=0;
+let TERM=[],DATA={items:[],markt:[]},tab="top",query="",lastVisit=0,showRead=false,READ={};
+try{READ=JSON.parse(localStorage.getItem("readItems")||"{}")||{}}catch(e){READ={}}
+function saveRead(){try{localStorage.setItem("readItems",JSON.stringify(READ))}catch(e){}}
+function pruneRead(){const ids=new Set((DATA.items||[]).map(i=>i.id));let ch=false;
+  Object.keys(READ).forEach(k=>{if(!ids.has(k)&&Date.now()-READ[k]>3*86400000){delete READ[k];ch=true}});if(ch)saveRead()}
 try{lastVisit=+localStorage.getItem("lastVisit")||0}catch(e){}
 
 function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
@@ -230,6 +250,7 @@ function renderBrief(){
 }
 function filtered(){
   let items=(DATA.items||[]).slice();
+  if(!showRead&&!query.trim())items=items.filter(i=>!READ[i.id]);
   const ql=query.trim().toLowerCase();
   if(ql){
     items=items.filter(i=>(i.titel+" "+i.t+" "+(i.e||"")+" "+i.quelle).toLowerCase().includes(ql));
@@ -242,7 +263,7 @@ function filtered(){
 }
 function renderNav(){
   const nav=document.getElementById("nav");nav.textContent="";
-  const all=DATA.items||[];
+  const all=(DATA.items||[]).filter(i=>showRead||!READ[i.id]);
   TABS.forEach(([k,l])=>{
     const n=k==="top"?all.filter(i=>i.s>=7).length:k==="alle"?all.length:all.filter(i=>i.k===k).length;
     const b=el("button",k===tab&&!query?"on":"",l);
@@ -251,20 +272,51 @@ function renderNav(){
     nav.appendChild(b);
   });
 }
+function setRead(i,val){
+  if(val)READ[i.id]=Date.now();else delete READ[i.id];
+  saveRead();
+}
 function renderList(){
   const main=document.getElementById("main");main.textContent="";
   const items=filtered();
-  if(!items.length){main.appendChild(el("div","leer",query?"Nichts gefunden.":"Gerade nichts in dieser Rubrik."));return}
+  const total=(DATA.items||[]).length,nread=(DATA.items||[]).filter(i=>READ[i.id]).length;
+  if(total){
+    const tl=el("div","tools");
+    tl.appendChild(el("span","",showRead?"Alle Meldungen ("+total+")":(total-nread)+" ungelesen"));
+    if(items.some(i=>!READ[i.id])){
+      const b=el("button","","✓ Diese alle gelesen");
+      b.onclick=()=>{items.forEach(i=>{READ[i.id]=Date.now()});saveRead();renderNav();renderList()};
+      tl.appendChild(b);
+    }
+    if(nread){
+      const b2=el("button","",showRead?"Gelesene ausblenden":"Gelesene zeigen ("+nread+")");
+      b2.onclick=()=>{showRead=!showRead;renderNav();renderList()};
+      tl.appendChild(b2);
+    }
+    main.appendChild(tl);
+  }
+  if(!items.length){main.appendChild(el("div","leer",query?"Nichts gefunden.":(total&&nread?"Alles gelesen ✓":"Gerade nichts in dieser Rubrik.")));return}
   items.forEach((i,idx)=>{
-    const a=el("a","card"+(idx===0&&tab==="top"&&!query?" big":""));
+    const isRead=!!READ[i.id];
+    const a=el("a","card"+(idx===0&&tab==="top"&&!query?" big":"")+(isRead?" read":""));
     a.href=safe(i.link);a.target="_blank";a.rel="noopener noreferrer";
     a.style.setProperty("--cc",colorOf(i.k));
     const top=el("div","top");
-    if(lastVisit&&new Date(i.zeit).getTime()>lastVisit)top.appendChild(el("span","dot"));
+    if(lastVisit&&new Date(i.zeit).getTime()>lastVisit&&!isRead)top.appendChild(el("span","dot"));
     top.appendChild(el("span","chip",NAMES[i.k]||i.k));
     top.appendChild(el("span","",i.quelle+" · "+ago(i.zeit)));
     if(i.tag)top.appendChild(el("span","tag",i.tag));
     if(i.s>=8)top.appendChild(el("span","hot","wichtig"));
+    const c=el("button","chk");c.type="button";
+    c.setAttribute("aria-label",isRead?"Als ungelesen markieren":"Als gelesen markieren");
+    c.appendChild(el("i","","✓"));c.appendChild(el("span","lbl",isRead?"Gelesen":"Gelesen?"));
+    c.addEventListener("click",ev=>{
+      ev.preventDefault();ev.stopPropagation();
+      const now=!READ[i.id];setRead(i,now);
+      if(now&&!showRead){a.classList.add("gone");setTimeout(()=>{renderNav();renderList()},190)}
+      else{renderNav();renderList()}
+    });
+    top.appendChild(c);
     a.appendChild(top);
     a.appendChild(el("h3","",i.titel));
     a.appendChild(el("p","",i.t));
@@ -295,7 +347,7 @@ async function load(){
     DATA=await r.json();
   }catch(e){DATA={items:[],markt:[]}}
   try{const r2=await fetch("termine.json?"+Date.now(),{cache:"no-store"});TERM=(await r2.json()).termine||[]}catch(e){TERM=[]}
-  renderAll();
+  pruneRead();renderAll();
 }
 document.getElementById("q").addEventListener("input",e=>{query=e.target.value;renderNav();renderList()});
 document.getElementById("rf").addEventListener("click",load);
