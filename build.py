@@ -490,6 +490,17 @@ def main():
         "items": behalten,
         "status": {"feeds": feed_status, "markt": markt_status, "briefing": briefing_fehler},
     }
+    # Archiv fuer "Frag dein Dashboard": Meldungen 7 Tage aufbewahren (liegt in state.json)
+    archiv = state.get("archiv") or {}
+    for i in behalten:
+        archiv[i["id"]] = {k: i.get(k) for k in ("id", "k", "titel", "t", "e", "s", "quelle", "zeit", "link")}
+    arch_grenze = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=cfg.get("archiv_tage", 7))
+    def _jung(x):
+        try:
+            return dt.datetime.fromisoformat(x["zeit"]) > arch_grenze
+        except Exception:
+            return False
+    state["archiv"] = {k: v for k, v in archiv.items() if _jung(v)}
     # alte seen-Eintraege nach 7 Tagen loeschen
     state["seen"] = {k: v for k, v in seen.items() if now - v < 7 * 86400}
     save_json(DATA_PATH, data)
