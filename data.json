@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-09T17:26:15.771130+00:00",
+ "aktualisiert": "2026-11-09T19:01:35.426546+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.715 $",
-   "delta": -1.2516941582060495
+   "wert": "74.601 $",
+   "delta": -1.6232251482056335
   },
   {
    "name": "Ethereum",
    "wert": "2.123 $",
-   "delta": -4.625746880654503
+   "delta": -4.932827545440313
   },
   {
    "name": "Gold",
    "wert": "4.114 $",
-   "delta": 0.9595351687966769
+   "delta": 0.9668973128294178
   },
   {
    "name": "EZB Zins",
@@ -54,32 +54,236 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-09T11:01:34.072069+00:00",
+  "slot": 19,
+  "stand": "2026-11-09T19:01:35.426524+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "EZB-Präsidentin Lagarde deutet eine weitere Zinserhöhung im Dezember an; der EZB-Zins liegt laut Marktdaten bei 2,50 %, der Fed Funds Rate bei 3,88 %. Nach starken US-Arbeitsmarktdaten werden in einem Bericht Wetten auf eine Fed-Zinserhöhung im Dezember mit 79 Prozent angegeben."
+    "t": "Nvidia-Chef Jensen Huang ist in eine mutmaßliche Spionageaffäre verwickelt, der Konzern hat eine Untersuchung eingeleitet. Die Nvidia-Aktie fällt deutlich, laut Berichten hat sie mehr als 200 Milliarden Euro Börsenwert verloren."
    },
    {
     "k": "finanzen",
-    "t": "Zu den Märkten gehören Deka DAX 227,15 €, iShares MSCI World 127,01 €, Deka S&P 500 137,52 € und Deka Nasdaq-100 171,10 €. Bitcoin notiert bei 74.123 $, Gold bei 4.105 $ und Ethereum bei 2.107 $."
+    "t": "EZB-Präsidentin Lagarde deutet eine weitere Zinserhöhung im Dezember an, der Leitzins liegt bei 2,50 %. Ein starker US-Arbeitsmarkt hat laut Meldungen die Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember erhöht, der Fed Funds Satz liegt bei 3,88 %. Zuletzt notierten Deka DAX 229,30 €, iShares MSCI World 128,44 € und Gold bei 4.114 $."
+   },
+   {
+    "k": "deutschland",
+    "t": "Bundeskanzler Merz hat die CSU-Politikerin Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominiert, als Nachfolgerin von Steinmeier. Die Wahl durch die Bundesversammlung steht noch aus, und die AfD-Fraktion will sich ihr offenbar nicht vorstellen."
+   },
+   {
+    "k": "nrw",
+    "t": "Vodafone streicht in Deutschland rund 2.300 Stellen, etwa jeder fünfte Arbeitsplatz ist betroffen. Der Konzern mit Sitz in Düsseldorf reagiert damit auf Marktanteilsverluste."
    },
    {
     "k": "welt",
-    "t": "Trump verkündet nach eigenen Angaben ein baldiges Ende des Ukraine-Kriegs und deutet dafür Gebietsabtretungen der Ukraine an. Selenskyj hatte Trumps Friedensplan zuvor als gefährlich bezeichnet."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die CDU hat Ilse Aigner offiziell als Kandidatin für das Amt der Bundespräsidentin nominiert, nachdem Merz sie unterstützt hatte. Die Wahl durch die Bundesversammlung steht noch aus."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die vermisste 13-jährige Lisa wurde tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht."
+    "t": "Trump geht nach eigenen Angaben von einem baldigen Ende des Ukraine-Kriegs aus und bringt veränderte Grenzen der Ukraine ins Spiel."
    }
   ]
  },
  "items": [
+  {
+   "id": "04830ab84828baea",
+   "k": "finanzen",
+   "titel": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+   "t": "Anthropic hat neue Frontier-Modelle veröffentlicht, die ersten seit Amodeis Aufruf zu einer Verlangsamung. Parallel laufen Vorbereitungen für einen erwarteten großen Börsengang.",
+   "e": "Ein möglicher Börsengang des KI-Unternehmens wäre ein wichtiges Signal für die Bewertung der gesamten KI-Branche.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T19:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "82247caf9240b89b",
+   "k": "deutschland",
+   "titel": "Linken-Landesvorstand unterstützt Kandidatur von Eva von Angern bei Ministerpräsidentenwahl",
+   "t": "Der Linke-Landesvorstand unterstützt die Kandidatur von Fraktionschefin Eva von Angern für die Ministerpräsidentenwahl. Gegen sie tritt der AfD-Kandidat Ulrich Siegmund an. Im dritten Wahlgang genügt die Mehrheit der abgegebenen Stimmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6af2105179e1656222c3806e/sachsen-anhalt-linken-landesvorstand-unterstuetzt-kandidatur-von-eva-von-angern-bei-ministerpraesidentenwahl.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T18:55:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "55d54989f62c71d2",
+   "k": "deutschland",
+   "titel": "„Ich würde eine Wehrpflicht doch nicht aus einer Unwägbarkeit heraus beschließen“",
+   "t": "Der SPD-Politiker Falko Droßmann warnt davor, die Wehrpflicht vorschnell wieder einzuführen. Steigende Bewerberzahlen zeigten, dass das Modell der Freiwilligkeit funktioniere.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/video6af20f2979e1656222c38059/drossmann-gegen-wehrpflicht-ich-wuerde-eine-wehrpflicht-doch-nicht-aus-einer-unwaegbarkeit-heraus-beschliessen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T18:35:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "97baf26109e8246e",
+   "k": "finanzen",
+   "titel": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+   "t": "Die brasilianische Krypto-Börse Mercado Bitcoin nimmt nach einem Hack den Betrieb schrittweise wieder auf. Einen Zeitplan für Auszahlungen nennt sie noch nicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-09T18:25:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "4dd78a9c05fd4a10",
+   "k": "welt",
+   "titel": "Türkei: Mindestens 16 Tote bei Explosion in Stahlwerk",
+   "t": "In einem Stahlwerk in der Türkei sind nach dem Absturz eines Krans in einen Industrieofen mindestens 16 Arbeiter ums Leben gekommen. Rettungskräfte suchen weiter nach Überlebenden.",
+   "e": "Schwerer Arbeitsunfall mit hoher Opferzahl; die Ursache ist bisher nicht geklärt.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/explosion-in-stahlwerk-in-izmir-16-tote-201667382.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T18:21:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "26c3dc729937b35b",
+   "k": "finanzen",
+   "titel": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+   "t": "Boeing will rund fünf Prozent der Beschäftigten in der Verkehrsflugzeugsparte streichen. Grund ist, dass die Produktionssteigerung bei der 737 MAX länger dauert als erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T18:16:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "2f74281a77064951",
+   "k": "finanzen",
+   "titel": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+   "t": "Goldman-Sachs-Chef David Solomon sagt, die Investorennachfrage nach KI-Infrastruktur bleibe trotz Kursrückgängen bei KI-Aktien stark.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T18:14:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "ecc24196d509bbf7",
+   "k": "usa",
+   "titel": "Verdacht auf Spionage: Die Staatsaffäre – der Fall Nvidia erschüttert Washington",
+   "t": "In Washington wächst der Druck nach dem Verdacht auf Spionage rund um Nvidia. Kongressmitglieder fordern Untersuchungen, eine Anhörung könnte bereits nächste Woche stattfinden.",
+   "e": "Die Affäre berührt die Frage, wie die US-Regierung mit Exportkontrollen und Sicherheitsrisiken im Chipsektor umgeht.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/nvidia-die-staatsaffaere-der-fall-huang-erschuettert-washington/100268411.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T18:11:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "d5c5ca5cdb95b5e4",
+   "k": "welt",
+   "titel": "Botschafter einbestellt: Frankreich sieht Iran hinter Angriff auf Kühlanlagen",
+   "t": "Frankreich hat den iranischen Botschafter einbestellt und macht die Revolutionsgarden für Cyberangriffe auf Supermarkt-Kühlanlagen verantwortlich. Außenminister Barrot spricht von einer beispiellosen Attacke.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/botschafter-einbestellt-frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen/100268528.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T18:08:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "365fffddc84b4ebb",
+   "k": "finanzen",
+   "titel": "Deutsche Telekom: Eine KI-Fabrik, mit der die Welt rechnen soll",
+   "t": "Die Deutsche Telekom kündigt an, ihre KI-Fabrik im Münchner Tucherpark auszubauen. Politiker fordern zugleich mehr Tempo, damit Deutschland im KI-Zeitalter wettbewerbsfähig bleibt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/telekom-erweitert-ki-fabrik-fuer-mehr-digitale-souveraenitaet-201660064.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T18:08:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "ec1d0e6416a75914",
+   "k": "deutschland",
+   "titel": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
+   "t": "Die CSU-Politikerin Ilse Aigner wurde als Kandidatin für das Amt der Bundespräsidentin nominiert. Die AfD-Fraktion will sich ihr offenbar nicht vorstellen.",
+   "e": "Die Wahl des Bundespräsidenten ist ein zentrales Verfassungsamt; die Nominierung zeigt die Koalitionsabstimmung der Mitte.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T18:05:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "f06a0e4fb0971fc3",
+   "k": "deutschland",
+   "titel": "Judentum: Merz: Schutz jüdischen Lebens bleibt eine Pflicht",
+   "t": "Kanzler Merz betont bei einem Festakt in der Münchner Synagoge, dass der Schutz jüdischen Lebens eine Pflicht bleibt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/judentum-merz-schutz-juedischen-lebens-bleibt-eine-pflicht/100268537.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T18:01:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ecb39e6948150e2",
+   "k": "finanzen",
+   "titel": "PNC Bank tests turning USDC payments into dollar deposits",
+   "t": "PNC Bank testet die Umwandlung von USDC-Zahlungen in Dollar-Einlagen. Teilnehmen können berechtigte Firmenkunden; jeder Token wird vor der Einzahlung zu einem Dollar umgerechnet.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-09T17:48:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "cd689cc9698df475",
+   "k": "finanzen",
+   "titel": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+   "t": "Der Avalanche-Token AVAX stieg zeitweise um bis zu zehn Prozent, nachdem die NYSE die Blockchain für die Abwicklung einer geplanten Plattform für tokenisierte Aktien ausgewählt hat.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-09T17:41:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "87f8f8acc3322e6d",
+   "k": "deutschland",
+   "titel": "Bundeshaushalt: Studie: 60 Prozent der geplanten Sozialkürzungen treffen Frauen",
+   "t": "Eine Studie beziffert, dass 60 Prozent der geplanten Sozialkürzungen im Bundeshaushalt 2027 Frauen treffen. Die Bundesregierung muss eine Lücke von über 20 Milliarden Euro schließen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundeshaushalt-60-prozent-der-geplanten-sozialkuerzungen-treffen-frauen/100268370.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T17:40:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "37ec59fea69f63d3",
+   "k": "finanzen",
+   "titel": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny - Bloomberg.com",
+   "t": "Das schnelle Wachstum privater Kreditvergabe rückt bei regionalen Fed-Banken stärker in den Fokus der Aufsicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUtNWVlPVy1UcEpxQzlVbVNEYlcxZ2tiZmFQbnY4RkdsS1lJQVFQdW9MTEtqSnJ2Yl9tWjItLWlMX1JXVVJGVmxTeEtoZVR2LVozM2NqY1ZHUkJsV0dzZGVXV1JOUHhLSi1meUVyU2w1eWFZVHItNHpjR1V0M3c5OXlkMUpnMFY3dFp3ZTA4XzBIb1Y1MWtTdW05Vmx2M09FM3ZZeldBQ0dYZlMzbkFHWGw2WDM?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-09T17:36:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "af2c47c957d26daf",
+   "k": "finanzen",
+   "titel": "US-Beschäftigungsschub erhöht Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember - MarketScreener Schweiz",
+   "t": "Ein starker US-Arbeitsmarkt hat die Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember erhöht. Mehrere Fed-Vertreter halten weitere Zinsschritte für möglich.",
+   "e": "Nach einer stark steigenden Inflation rechnen die Märkte mit einer restriktiveren Geldpolitik der Fed.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYU5tV05CRXl1NGFpNUpMT3g2cmZmR0FkWDhObERzN2c2X0FrZlpwSzU0S2tOSmM5TmtFcDVHODlERUtjUXZ1NkRtY01kdE1KZDNKbml4ekNldDlpbEZBaTJTUEJjMWEtVjBpWHVmbnMweWFXbWsxWXdYWUFWMVlRY1FvakhIY2RlNXRNckN3SnQ1RzV0MkdYSkNhaHVHOFplckdXekt4Q0Nrb09DQ180elF3cmdlWldTcFcwc0phVEtlZnk5Y0dVVW1lUTZxMWZYNzFTVG0yRmMzXzNaYmhiQjlZRG9XXzQ?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-09T17:21:56+00:00",
+   "tag": null
+  },
   {
    "id": "5a79d30769f7d5ae",
    "k": "finanzen",
@@ -258,6 +462,18 @@
    "link": "https://www.tagesschau.de/video/video-1680856.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-09T16:42:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "72c4877b263bec0d",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Stau auf B258: Verletzte nach Überholmanöver auf Himmelsleiter - tagesschau.de",
+   "t": "Auf der B258 kam es nach einem Überholmanöver auf der Himmelsleiter zu einem Unfall mit Verletzten und Stau.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbm1JYW5QWHc5eWh3OXRxUWlReFdjNU9Dc19zNHh4S1BjV25zdVU4aDZaN2dPdVRtUzhXYUR5SkdPMWFsOHpXR0RvcUJqUm15NTdTaTM2LUd2VEEzdWZ2cWpzdDl5NTR1V0Vfc3hReThKa3c5d3RDeVJkbXNLR1lFTjFFRjhVVHExQk1YZVQ1Y2pvajlfY3VzLU05aVpUWHpKZURaa1dfa3IzenAyeGxEQ0hlR0JsMmNkOWVkQTVRQ0RGNWhzT2dzZm1scHN6Qm5pQWhv?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-09T16:42:00+00:00",
    "tag": null
   },
   {
@@ -957,6 +1173,18 @@
    "tag": null
   },
   {
+   "id": "1086e1b4073d9543",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Aus einem Bus schlagen Flammen - tagesschau.de",
+   "t": "In Nordrhein-Westfalen schlagen aus einem Bus Flammen. Hinweise auf Verletzte liegen nicht vor.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXBRck5iZWhnS3U4Uy1ZNmpqWFl0NWhUWkhmVkY5NnFXMWdNdTJicVcxNEtmbUoycXdQeHd2LXpHMU0yZW40bE9VdVJfR0lzVXVuU3hQdUxTaUpoVXRaU3F6XzNBWXdkcWFYRk1VQ0NidTdxUHBBcFBPTHNSWUE5X3B1LUlfSjQtSlBBSE1sSVBEajB0U1A4d0paaTZvcnh1ZlBBeEdZUm1xZmtCc3RvU0M5LU1BUzV6cDVoSXZKLXFYZw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-09T14:55:00+00:00",
+   "tag": null
+  },
+  {
    "id": "bc6785a5d98b5a22",
    "k": "nrw",
    "titel": "Starke Regenfront erreicht Köln und NRW – 30 Liter in wenigen Stunden an Karneval - t-online – Köln",
@@ -1137,6 +1365,18 @@
    "tag": null
   },
   {
+   "id": "4db4d0f03e4646cf",
+   "k": "welt",
+   "titel": "Krakauer Todesschütze hatte 500 Schuss Munition",
+   "t": "Nach dem Anschlag in Krakau veröffentlicht die polnische Staatsanwaltschaft neue Details. Der Täter hatte rund 500 Schuss Munition bei sich und starb am Morgen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-102.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T13:55:03+00:00",
+   "tag": null
+  },
+  {
    "id": "1fcdfd3b0663e6da",
    "k": "finanzen",
    "titel": "Home listings pile up in October, but sellers won't slash prices",
@@ -1158,6 +1398,18 @@
    "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-09T13:52:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "775e8aeb126bdbf1",
+   "k": "finanzen",
+   "titel": "Nvidia-Affäre lässt Aktie einbrechen",
+   "t": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Jensen Huang belastet die Nvidia-Aktie deutlich. Betroffen ist auch die gesamte KI-Branche.",
+   "e": "Nvidia ist einer der größten Werte im KI-Segment; Unsicherheit um den Konzern wirkt auf den Gesamtmarkt.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T13:44:48+00:00",
    "tag": null
   },
   {
@@ -2827,258 +3079,6 @@
    "quelle": "News.de",
    "zeit": "2026-11-09T05:59:02+00:00",
    "tag": null
-  },
-  {
-   "id": "3b033ce87c37fc54",
-   "k": "finanzen",
-   "titel": "Zollstreit: China setzt einige Zusatzzölle gegen USA weiter aus",
-   "t": "China setzt einige Zusatzzölle auf US-Waren vorerst aus. Die Maßnahme folgt kurz vor einer Fristsetzung im Handelsstreit.",
-   "e": "Die Entspannung im Zollstreit zwischen den beiden größten Volkswirtschaften ist für Exporteure und Lieferketten weltweit relevant.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/zollstreit-china-setzt-einige-zusatzzoelle-gegen-usa-weiter-aus/100268330.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T05:58:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "f95fcddc0b187389",
-   "k": "deutschland",
-   "titel": "Welche Städte jetzt bei ihren Gästen neu abkassieren",
-   "t": "Immer mehr Städte und Gemeinden erheben Kurtaxe oder Bettensteuer, 2027 kommen weitere Orte hinzu. Bayern bleibt aufgrund eines Gesetzes eine Ausnahme.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.welt.de/reise/article6aede796a389bc337cfc8297/touristenabgabe-welche-staedte-jetzt-bei-ihren-gaesten-neu-abkassieren.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:53:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "34ef5ef766b481af",
-   "k": "deutschland",
-   "titel": "Abflug gestoppt – Geplante Abschiebung von Iranern kurzfristig abgebrochen",
-   "t": "Ein geplanter Abschiebeflug mit iranischen Staatsangehörigen wurde kurzfristig abgebrochen. Menschenrechtsorganisationen warnen vor Verfolgung im Iran.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6af15db3a389bc337cfcab05/usa-abflug-gestoppt-geplante-abschiebung-von-iranern-kurzfristig-abgebrochen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:53:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "a95dc1ed68fa5370",
-   "k": "welt",
-   "titel": "Verstörende Gewaltfantasien – Mitschülerin berichtet über Krakauer Attentäter",
-   "t": "Eine Mitschülerin des Krakauer Attentäters berichtet über Gewaltfantasien des Täters. Weitere Einzelheiten zum mutmaßlichen Täter werden bekannt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/video6af155e280d3a1c6aa66dcf2/michal-o-verstoerende-gewaltfantasien-mitschuelerin-berichtet-ueber-krakauer-attentaeter.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:41:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf2e693557f8d315",
-   "k": "deutschland",
-   "titel": "„Selbstverständlich werde ich mein Mandat weiter ausüben!“ – Emde reagiert auf Rückzugsforderung",
-   "t": "Die Berliner Linke-Politikerin Vanessa Emde weigert sich, dem Rückzugsverlangen ihres Parteivorstands nachzukommen, und will ihr Mandat weiter ausüben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af155ff80d3a1c6aa66dcf7/die-linke-selbstverstaendlich-werde-ich-mein-mandat-weiter-ausueben-emde-reagiert-auf-rueckzugsforderung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:36:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "d5b9f62195d428b1",
-   "k": "nrw",
-   "titel": "Hemer: Dauerbaustelle am Schopenhauerweg in Höcklingsen ab heute - News.de",
-   "t": "Am Schopenhauerweg in Höcklingsen in Hemer beginnt eine Dauerbaustelle. Die Arbeiten laufen ab heute.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNFZWMi1SRW9qVFR3R0dRQThqenZjQUhlVmN3dzM5RklpZWdIVFhHOEVSSHYzenVRdFBFTlZKLTZCRU9lV2MxdmxSWDdXc1BWenRKLV9fRkQwNTUxbWMtR0hEU2xUbDU5eHRZVTN0WHF3SHZaczNxa2VTdnM1X1Jjb21oai1raWRCbWNhZEdLelhfdWxIMm9CQm1hNXhZeC1jU3VwQkRUeVcxOEhTSUJTWi1WUVcyWHZIUDZqMjR1aFRaVGlhdWhRLUFucEhab3ZlTTY4OGpJYTR3RWk1S2lQUFNVWFJjVVBmbzB5TXRxQmdiUmJJSUp0YVZxRE1uOUJ4Y1VQSlVfdXNGS1Uyc3RXc19IX1VsSWpTVVVvOFI3T01hNnRNcGNyUkdyR01UVV9tdWl0MGotWUJZVFZhNlMyWFV4ME8yT0w5bUZ6WjNkSmswSXZIZ1pFSDJxREdHRXM?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T05:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "156297cb69e6b5b2",
-   "k": "deutschland",
-   "titel": "CDU/CSU-Fraktionschefs fordern von Merz Stromsteuersenkung für alle – Plastiksteuer vor dem Aus",
-   "t": "Die CDU/CSU-Landtagsfraktionschefs fordern eine Senkung der Stromsteuer für alle. Unionsfraktionschef Frei lehnt eine Plastiksteuer ab.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af1557780d3a1c6aa66dce1/reformforderungen-cdu-csu-fraktionschefs-fordern-von-merz-stromsteuersenkung-fuer-alle-plastiksteuer-vor-dem-aus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:34:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "405802b04bada3a7",
-   "k": "deutschland",
-   "titel": "Ilse Aigner soll Bundespräsidentin werden – Linke schimpft über „parteipolitischen Wanderpokal“",
-   "t": "Die CDU will Ilse Aigner (CSU) offiziell als Kandidatin für das Bundespräsidentenamt nominieren. Die Linke kritisiert das Vorgehen als parteipolitischen Wanderpokal.",
-   "e": "Mit der offiziellen Nominierung rückt die Bundespräsidentenwahl konkret in den Fokus der Berliner Politik.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/video6af1559680d3a1c6aa66dce5/merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden-linke-schimpft-ueber-parteipolitischen-wanderpokal.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:32:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "f79961ee5d194ec0",
-   "k": "deutschland",
-   "titel": "Palästinaflagge gehisst – Klöckner spricht von „Palästina-Chaoten“ und fordert mehr Schutz",
-   "t": "Eine 22-Jährige hat am Sonntag eine Palästinaflagge am Bundestag gehisst und eine schwarz-rot-goldene Fahne heruntergeholt. Klöckner spricht von „Palästina-Chaoten“ und fordert mehr Schutz.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af1563c80d3a1c6aa66dcff/vor-reichstag-palaestinaflagge-gehisst-kloeckner-spricht-von-palaestina-chaoten-und-fordert-mehr-schutz.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:30:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "6dd9d69599b94ea7",
-   "k": "finanzen",
-   "titel": "„Ich war meiner Frau untreu“ – Nvidia-Chef Huang bestätigt Affäre, Konzern ermittelt",
-   "t": "Nvidia-Chef Jensen Huang hat eine Affäre mit einer mutmaßlichen chinesischen Agentin eingeräumt. Der Konzern hat eine Untersuchung zu möglicher ausländischer Spionage eingeleitet.",
-   "e": "Der Vorgang betrifft den wichtigsten Chiphersteller des KI-Booms und könnte für Investoren und Lieferbeziehungen Folgen haben.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/video6af1567880d3a1c6aa66dd09/affaere-und-spionageverdacht-ich-war-meiner-frau-untreu-nvidia-chef-huang-bestaetigt-affaere-konzern-ermittelt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:23:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c2e2d81a9d3a38e",
-   "k": "deutschland",
-   "titel": "Vermisste 13-jährige Lisa tot aufgefunden – Mann in kritischem Zustand unter Verdacht",
-   "t": "Die seit Dienstag vermisste 13-jährige Lisa wurde am Sonntag tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht.",
-   "e": "Der Fall löst bundesweit Bestürzung aus und betrifft das Thema Gewaltverbrechen an Kindern.",
-   "s": 7,
-   "link": "https://www.welt.de/vermischtes/video6af155b380d3a1c6aa66dce9/leiche-in-brandenburg-entdeckt-vermisste-13-jaehrige-lisa-tot-aufgefunden-mann-in-kritischem-zustand-unter-verdacht.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T05:18:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "010f7b14b01ad4a9",
-   "k": "finanzen",
-   "titel": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-   "t": "Die Zcash-Entwickler schlagen eine weitere Verkürzung der Blockzeit wenige Tage nach dem Upgrade NU7 vor. Ziel ist eine schnellere Transaktionsbestätigung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-09T05:16:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "c5103e8a863c7ecc",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Polizeipräsident kritisiert Gewalt bei Imbiss-Eröffnung - n-tv.de",
-   "t": "Der Polizeipräsident hat Gewalt bei der Eröffnung eines Imbisses kritisiert. Details zu Ort und Verlauf sind dem Bericht zufolge nicht Gegenstand der Kurzmeldung.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWJpeHNqSEZFajJZSHBRZ0hGTnZrc0hVRnBUdFc2TElHMWFvVWsxeWlFcUNoR2ZzWi04WXBXLXhDenlXbkwtLWEzcFBGci1WQ2ZTSDJHOGJrM0h3M0lUWVEzR2REeGdXNW1VY3dlMnc1WFNWZ3dpS3Q2bTU3cmUtNjJtQTZ4QWMyVFZWamJnUlhJcWxtMUxmdFVxcEE3WkxNV2I5c09OUWxPbTNiOEI2YkNEaE92amxoYi1hbmJXd2VRUQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-09T05:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ac4f932288e33107",
-   "k": "nrw",
-   "titel": "Kommunale Schulden: So groß sind die Unterschiede in der Region - Aachener Zeitung",
-   "t": "Die kommunalen Schulden unterscheiden sich in der Region Aachen deutlich von Kommune zu Kommune. Der Bericht stellt die Unterschiede dar.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOazFEZzFMdXRRQlJBZS1LcWFheVhjNGNFb3Z1cENyWHNrV3hVWTlTWnV0TElVUUJFLWF2NFlCdjZTVzFtc1FfdF9zWmJyRlVfRHEwQ0dBM2Q0UjVMOGJIMjZyajVwRWZlTzhNU3kxT2hzM0toVy1fQ20xX09tdXBMTlBCeWEtYzhjZWhFdzZyQ3FGNnhNZ1JMckdOdGRVY08zdEUtaG42bXBNbWlNV0JEeUJrYzVSQTQ3dkNuMUxoVXkxNV90czE5Z2thQ1FqMEhJT3lGcUZn?oc=5",
-   "quelle": "Aachener Zeitung",
-   "zeit": "2026-11-09T05:07:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "da733005c46b306e",
-   "k": "welt",
-   "titel": "Klimakonferenz: Die Welt soll zum Stromer werden",
-   "t": "Auf der Klimakonferenz in Antalya beraten fast 200 Regierungen. Eine Gruppe williger Staaten will den Ausstieg aus fossilen Energieträgern vorantreiben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cop31-in-antalya-klimakonferenz-startet-mit-streit-um-fossile-energien-accg-201651541.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T05:04:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "c8439e0c77468789",
-   "k": "deutschland",
-   "titel": "Cannabis auf Rezept: Aus für Blüten - Kritik an Reform bei medizinischem Cannabis",
-   "t": "Cannabisblüten sind seit Juli nicht mehr auf Kassenrezept erhältlich. Andere Cannabispräparate bleiben verschreibungsfähig, was auf Kritik stößt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/cannabis-auf-rezept-aus-fuer-blueten-kritik-an-reform-bei-medizinischem-cannabis/100268325.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T05:00:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "b99198b03309adfc",
-   "k": "welt",
-   "titel": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-   "t": "Cyberangriffe auf Kühlsysteme in Supermärkten und eine Welle von Bombendrohungen belasten Europas Infrastruktur. Behörden prüfen die Lage.",
-   "e": "Die Häufung solcher Vorfälle stellt die Widerstandsfähigkeit kritischer Infrastruktur in Europa auf die Probe.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T05:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "ee798603f42015df",
-   "k": "deutschland",
-   "titel": "„Ein großer Sargnagel für die SPD“ – Sigmar Gabriel rechnet mit Hubertus Heil ab",
-   "t": "Ex-SPD-Chef Sigmar Gabriel kritisiert bei Caren Miosga Hubertus Heil und dessen Bürgergeld-Politik. Zudem warnt er, Trump könnte in der Ukraine einen „Friedhofsfrieden“ als Erfolg verkaufen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/article6af14847a389bc337cfcaa75/caren-miosga-ein-grosser-sargnagel-fuer-die-spd-sigmar-gabriel-rechnet-mit-hubertus-heil-ab.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T04:44:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "64536d1c8c75618f",
-   "k": "welt",
-   "titel": "Russland wütet brutaler denn je in der Ukraine, doch Trump sieht einen Frieden in Griffweite",
-   "t": "Abgesandte Russlands und der Ukraine setzen sich nach langer Pause wieder an den Verhandlungstisch, während Russland seine Angriffe in der Ukraine verstärkt.",
-   "e": "Die Gespräche finden während eines anhaltenden Krieges statt, der Ausgang ist offen.",
-   "s": 6,
-   "link": "https://www.nzz.ch/international/ukraine-trotz-kriegsrealitaet-sieht-trump-frieden-in-griffnaehe-ld.10057858",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5c0f0ba3d7bad673",
-   "k": "welt",
-   "titel": "Fast eine halbe Million Gefallener? Hacker erbeuten Daten zu russischen Opferzahlen im Krieg",
-   "t": "Proukrainische Hacker sollen Daten erbeutet haben, die Rückschlüsse auf die Zahl gefallener russischer Soldaten zulassen. Beide Seiten veröffentlichen keine verlässlichen Verlustzahlen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/fast-eine-halbe-million-gefallener-hacker-erbeuten-daten-zu-russischen-opferzahlen-im-krieg-ld.10057840",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c7581e8ef148c4b2",
-   "k": "welt",
-   "titel": "Die Kommunistische Partei Chinas baut ihren globalen Einfluss aus",
-   "t": "Eine Recherche zeigt, dass die KP Chinas ihre Überwachung im Ausland über Hunderte Organisationen ausbaut. Illegale Polizeiposten, die angeblich geschlossen wurden, bestehen unter anderen Namen weiter.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/die-kommunistische-partei-chinas-baut-ihren-globalen-einfluss-aus-ld.10055967",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T04:30:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,7 +3086,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3096,12 +3096,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Welt",
@@ -3116,7 +3116,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
@@ -3136,7 +3136,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 23
+    "n": 27
    },
    {
     "name": "CNBC Politik",
@@ -3146,7 +3146,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 0
+    "n": 2
    },
    {
     "name": "MarketWatch",
@@ -3156,12 +3156,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Fox News Politik",
@@ -3176,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Google News Iserlohn",
@@ -3191,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -3206,12 +3206,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 9
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 20
    }
   ],
   "markt": [],
