@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-09T05:01:50.876350+00:00",
+ "aktualisiert": "2026-11-09T06:13:46.420975+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.735 $",
-   "delta": -1.3926889492092838
+   "wert": "74.527 $",
+   "delta": -1.5753610848287123
   },
   {
    "name": "Ethereum",
-   "wert": "2.136 $",
-   "delta": -4.347686932402101
+   "wert": "2.130 $",
+   "delta": -4.5762042394922595
   },
   {
    "name": "Gold",
-   "wert": "4.133 $",
-   "delta": 0.466755804059793
+   "wert": "4.129 $",
+   "delta": 1.3202802264002944
+  },
+  {
+   "name": "EZB Zins",
+   "wert": "2,50 %",
+   "delta": null
   },
   {
    "name": "Fed Funds",
@@ -49,36 +54,276 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-08T19:01:23.640526+00:00",
+  "slot": 7,
+  "stand": "2026-11-09T06:13:46.420957+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "In Krakau hat ein Schütze auf dem Marktplatz wahllos Menschen erschossen; sechs starben, mehr als 15 wurden verletzt. Im Haus des Täters fand die Polizei drei weitere Leichen, darunter seine Eltern und Schwester, und unter den Verletzten ist ein Deutscher. Die Staatsanwaltschaft ermittelt wegen Terrorismusverdachts, das Motiv ist weiterhin unklar."
-   },
-   {
-    "k": "welt",
-    "t": "In der Straße von Hormus sind zwei Öltanker auf Minen gelaufen und brennen, und das US-Militär hat ein Handelsschiff im Golf von Oman beschossen. Trump bestätigte neue Angriffe auf iranische Luftverteidigung auf Qeshm und hält eine Rückkehr zum Krieg mit dem Iran für „höchst unwahrscheinlich“, solange die Atomgespräche Fortschritte machen."
+    "t": "In Krakau hat ein 24-Jähriger auf einem zentralen Platz sechs Menschen erschossen; die Staatsanwaltschaft ermittelt wegen Terrorverdachts, und auch Eltern und Schwester des Schützen wurden tot aufgefunden. Polen hat Staatstrauer angeordnet, das Motiv ist weiterhin unklar."
    },
    {
     "k": "finanzen",
-    "t": "An der US-Börse gingen an einem Tag rund 2,8 Billionen Dollar Börsenwert verloren, und die US-Aktienmärkte bewegen sich erstmals seit längerer Zeit wieder synchron. Die Marktdaten zeigen Deka DAX 225,35 €, Deka S&P 500 138,64 € und Deka Nasdaq-100 172,92 €; ob es ein kurzer Einbruch oder ein anhaltender Ausverkauf ist, ist offen. Dazu kommen Gold mit 4.075 $ und Bitcoin mit 75.865 $."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die EZB hat den Leitzins angehoben, Lagarde nannte die Entscheidung ein „No-Brainer“; der EZB-Zins liegt laut Marktdaten bei 2,50 %. Die Fed lässt die Zinsen laut Meldung unverändert, der Fed Funds Rate liegt bei 3,88 %, während Notenbankchef Warsh zur Inflation Stellung nehmen muss."
-   },
-   {
-    "k": "usa",
-    "t": "Die US-Wirtschaft hat im Oktober 165.000 neue Stellen geschaffen, mehr als erwartet, und die Arbeitslosenquote sank auf 4,1 Prozent. Nach der Niederlage der Republikaner bei den Kongresswahlen droht Präsident Trump den Demokraten mit Ermittlungen."
+    "t": "Im Markt notieren der Deka DAX bei 225,35 € und der iShares MSCI World bei 127,31 €; die EZB-Zinsen liegen bei 2,50 %, die Fed Funds bei 3,88 %. EZB-Chefin Lagarde erwartet, dass die Inflation kurzfristig hoch bleibt, und sieht wenig Anlass, den Zinspfad zu ändern."
    },
    {
     "k": "deutschland",
-    "t": "Im Fall der vermissten 13-jährigen Lisa T. gehen die Ermittler von einem schweren Verbrechen aus. In Berlin-Marzahn weiten mehr als 100 Einsatzkräfte die Suche aus, und mehr als 100 Hinweise werden geprüft."
+    "t": "Die seit Dienstag vermisste 13-jährige Lisa wurde am Sonntag tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht, er ist in kritischem Zustand."
+   },
+   {
+    "k": "deutschland",
+    "t": "Bundeskanzler Merz unterstützt laut Berichten Söders Vorschlag, Ilse Aigner (CSU) als Kandidatin für die Bundespräsidentenwahl zu nominieren. Sie wäre die erste Frau in diesem Amt, und es zeichnet sich eine parteiübergreifende Lösung ab."
+   },
+   {
+    "k": "usa",
+    "t": "Nach den Kongresswahlen haben die Demokraten in beiden Kammern deutliche Mehrheiten gewonnen und kündigen Untersuchungen gegen die Trump-Familie sowie Musk-nahe Akteure an. Präsident Trump droht den Demokraten mit Ermittlungen und spricht von einem „riesigen Schritt zurück“ für Amerika."
+   },
+   {
+    "k": "welt",
+    "t": "Trump hält eine Rückkehr zum Krieg mit dem Iran für „höchst unwahrscheinlich“, solange die Gespräche über das Atomprogramm Fortschritte machen. Das US-Militär ergänzt unterdessen die Seeblockade gegen iranische Ölexporte um Maßnahmen an Land."
    }
   ]
  },
  "items": [
+  {
+   "id": "aecfa7efc9f06995",
+   "k": "welt",
+   "titel": "Attentäter von Krakau ist tot",
+   "t": "Der mutmaßliche Attentäter des tödlichen Angriffs im Zentrum von Krakau ist tot. Weitere Details zu den Umständen liegen bislang nicht vor.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/article6af1625aa389bc337cfcab34/anschlag-in-polen-attentaeter-von-krakau-ist-tot.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T06:05:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "90e7b863fbce6bf3",
+   "k": "finanzen",
+   "titel": "PROGNOSEN/Konjunkturdaten USA, Fed-Termine 9. bis 15. November (46. KW) - MarketScreener Deutschland",
+   "t": "Vor der kommenden Woche stehen Termine zu US-Konjunkturdaten und Auftritte von Fed-Vertretern an. Die Prognosen für die Konjunkturdaten sind veröffentlicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZzVmVqMlY0OXZMemFoQVd4UllBa0Q4UFVtUHVyOUlGdlh0UjU1WElZQUg4TUVfMWxlZjF0azFQd1FzQ1JHdEQ1OHh2TFFYSU5ucUJFVXpQYlpCeDlFdXEzbkR3c3diNm9mVmtEbFo3SUZfSHpReG5fYmdDb0lmVzRSaEVaelpqTnExbVFkcEM3N040YnJLMkVIVTkwU0EtOW1wLTZyMVdxbnU0YkdxMVIwY0dad1k4TDB6V3FnNng4TG94WE04YVktWQ?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-09T06:00:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "b1cb56b3a46674d5",
+   "k": "nrw",
+   "titel": "Erstmals mit Tochter am Start: Willi Schütte auf dem Kreativmarkt in Iserlohn - IKZ-Online",
+   "t": "Der Iserlohner Künstler Willi Schütte ist erstmals mit seiner Tochter auf dem Kreativmarkt in Iserlohn vertreten.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHJUT21iMUN0YUFaTDNCbDZra0psbnNNNVd6MkI5M2dXMVcwQklpOUJHeFlkb0RxLVhVRk9XVnRJb2JfSFlyZEEya3BjZVhiUThvTHlDckNHc3lNVUZyYzVFX1plYklZc1c1NWVWY25xOGtHc0JyTFRobmZoZ1RLZTdaNDlPeWVyUHJWd0J1OHU2SGVMOXllLTJXS1l3b3FMS3VhQmNHUE5uNW9oaUhIdUp0TnNVOUlvM1RLdHRXQVg3cDA?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b033ce87c37fc54",
+   "k": "finanzen",
+   "titel": "Zollstreit: China setzt einige Zusatzzölle gegen USA weiter aus",
+   "t": "China setzt einige Zusatzzölle auf US-Waren vorerst aus. Die Maßnahme folgt kurz vor einer Fristsetzung im Handelsstreit.",
+   "e": "Die Entspannung im Zollstreit zwischen den beiden größten Volkswirtschaften ist für Exporteure und Lieferketten weltweit relevant.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/zollstreit-china-setzt-einige-zusatzzoelle-gegen-usa-weiter-aus/100268330.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T05:58:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "f95fcddc0b187389",
+   "k": "deutschland",
+   "titel": "Welche Städte jetzt bei ihren Gästen neu abkassieren",
+   "t": "Immer mehr Städte und Gemeinden erheben Kurtaxe oder Bettensteuer, 2027 kommen weitere Orte hinzu. Bayern bleibt aufgrund eines Gesetzes eine Ausnahme.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/reise/article6aede796a389bc337cfc8297/touristenabgabe-welche-staedte-jetzt-bei-ihren-gaesten-neu-abkassieren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:53:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "34ef5ef766b481af",
+   "k": "deutschland",
+   "titel": "Abflug gestoppt – Geplante Abschiebung von Iranern kurzfristig abgebrochen",
+   "t": "Ein geplanter Abschiebeflug mit iranischen Staatsangehörigen wurde kurzfristig abgebrochen. Menschenrechtsorganisationen warnen vor Verfolgung im Iran.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6af15db3a389bc337cfcab05/usa-abflug-gestoppt-geplante-abschiebung-von-iranern-kurzfristig-abgebrochen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:53:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "a95dc1ed68fa5370",
+   "k": "welt",
+   "titel": "Verstörende Gewaltfantasien – Mitschülerin berichtet über Krakauer Attentäter",
+   "t": "Eine Mitschülerin des Krakauer Attentäters berichtet über Gewaltfantasien des Täters. Weitere Einzelheiten zum mutmaßlichen Täter werden bekannt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/video6af155e280d3a1c6aa66dcf2/michal-o-verstoerende-gewaltfantasien-mitschuelerin-berichtet-ueber-krakauer-attentaeter.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "cf2e693557f8d315",
+   "k": "deutschland",
+   "titel": "„Selbstverständlich werde ich mein Mandat weiter ausüben!“ – Emde reagiert auf Rückzugsforderung",
+   "t": "Die Berliner Linke-Politikerin Vanessa Emde weigert sich, dem Rückzugsverlangen ihres Parteivorstands nachzukommen, und will ihr Mandat weiter ausüben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af155ff80d3a1c6aa66dcf7/die-linke-selbstverstaendlich-werde-ich-mein-mandat-weiter-ausueben-emde-reagiert-auf-rueckzugsforderung.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:36:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "d5b9f62195d428b1",
+   "k": "nrw",
+   "titel": "Hemer: Dauerbaustelle am Schopenhauerweg in Höcklingsen ab heute - News.de",
+   "t": "Am Schopenhauerweg in Höcklingsen in Hemer beginnt eine Dauerbaustelle. Die Arbeiten laufen ab heute.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNFZWMi1SRW9qVFR3R0dRQThqenZjQUhlVmN3dzM5RklpZWdIVFhHOEVSSHYzenVRdFBFTlZKLTZCRU9lV2MxdmxSWDdXc1BWenRKLV9fRkQwNTUxbWMtR0hEU2xUbDU5eHRZVTN0WHF3SHZaczNxa2VTdnM1X1Jjb21oai1raWRCbWNhZEdLelhfdWxIMm9CQm1hNXhZeC1jU3VwQkRUeVcxOEhTSUJTWi1WUVcyWHZIUDZqMjR1aFRaVGlhdWhRLUFucEhab3ZlTTY4OGpJYTR3RWk1S2lQUFNVWFJjVVBmbzB5TXRxQmdiUmJJSUp0YVZxRE1uOUJ4Y1VQSlVfdXNGS1Uyc3RXc19IX1VsSWpTVVVvOFI3T01hNnRNcGNyUkdyR01UVV9tdWl0MGotWUJZVFZhNlMyWFV4ME8yT0w5bUZ6WjNkSmswSXZIZ1pFSDJxREdHRXM?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T05:36:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "156297cb69e6b5b2",
+   "k": "deutschland",
+   "titel": "CDU/CSU-Fraktionschefs fordern von Merz Stromsteuersenkung für alle – Plastiksteuer vor dem Aus",
+   "t": "Die CDU/CSU-Landtagsfraktionschefs fordern eine Senkung der Stromsteuer für alle. Unionsfraktionschef Frei lehnt eine Plastiksteuer ab.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af1557780d3a1c6aa66dce1/reformforderungen-cdu-csu-fraktionschefs-fordern-von-merz-stromsteuersenkung-fuer-alle-plastiksteuer-vor-dem-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:34:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "405802b04bada3a7",
+   "k": "deutschland",
+   "titel": "Ilse Aigner soll Bundespräsidentin werden – Linke schimpft über „parteipolitischen Wanderpokal“",
+   "t": "Die CDU will Ilse Aigner (CSU) offiziell als Kandidatin für das Bundespräsidentenamt nominieren. Die Linke kritisiert das Vorgehen als parteipolitischen Wanderpokal.",
+   "e": "Mit der offiziellen Nominierung rückt die Bundespräsidentenwahl konkret in den Fokus der Berliner Politik.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af1559680d3a1c6aa66dce5/merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden-linke-schimpft-ueber-parteipolitischen-wanderpokal.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:32:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "f79961ee5d194ec0",
+   "k": "deutschland",
+   "titel": "Palästinaflagge gehisst – Klöckner spricht von „Palästina-Chaoten“ und fordert mehr Schutz",
+   "t": "Eine 22-Jährige hat am Sonntag eine Palästinaflagge am Bundestag gehisst und eine schwarz-rot-goldene Fahne heruntergeholt. Klöckner spricht von „Palästina-Chaoten“ und fordert mehr Schutz.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af1563c80d3a1c6aa66dcff/vor-reichstag-palaestinaflagge-gehisst-kloeckner-spricht-von-palaestina-chaoten-und-fordert-mehr-schutz.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:30:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "6dd9d69599b94ea7",
+   "k": "finanzen",
+   "titel": "„Ich war meiner Frau untreu“ – Nvidia-Chef Huang bestätigt Affäre, Konzern ermittelt",
+   "t": "Nvidia-Chef Jensen Huang hat eine Affäre mit einer mutmaßlichen chinesischen Agentin eingeräumt. Der Konzern hat eine Untersuchung zu möglicher ausländischer Spionage eingeleitet.",
+   "e": "Der Vorgang betrifft den wichtigsten Chiphersteller des KI-Booms und könnte für Investoren und Lieferbeziehungen Folgen haben.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/video6af1567880d3a1c6aa66dd09/affaere-und-spionageverdacht-ich-war-meiner-frau-untreu-nvidia-chef-huang-bestaetigt-affaere-konzern-ermittelt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:23:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c2e2d81a9d3a38e",
+   "k": "deutschland",
+   "titel": "Vermisste 13-jährige Lisa tot aufgefunden – Mann in kritischem Zustand unter Verdacht",
+   "t": "Die seit Dienstag vermisste 13-jährige Lisa wurde am Sonntag tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht.",
+   "e": "Der Fall löst bundesweit Bestürzung aus und betrifft das Thema Gewaltverbrechen an Kindern.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/video6af155b380d3a1c6aa66dce9/leiche-in-brandenburg-entdeckt-vermisste-13-jaehrige-lisa-tot-aufgefunden-mann-in-kritischem-zustand-unter-verdacht.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T05:18:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "010f7b14b01ad4a9",
+   "k": "finanzen",
+   "titel": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+   "t": "Die Zcash-Entwickler schlagen eine weitere Verkürzung der Blockzeit wenige Tage nach dem Upgrade NU7 vor. Ziel ist eine schnellere Transaktionsbestätigung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-09T05:16:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "c5103e8a863c7ecc",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Polizeipräsident kritisiert Gewalt bei Imbiss-Eröffnung - n-tv.de",
+   "t": "Der Polizeipräsident hat Gewalt bei der Eröffnung eines Imbisses kritisiert. Details zu Ort und Verlauf sind dem Bericht zufolge nicht Gegenstand der Kurzmeldung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWJpeHNqSEZFajJZSHBRZ0hGTnZrc0hVRnBUdFc2TElHMWFvVWsxeWlFcUNoR2ZzWi04WXBXLXhDenlXbkwtLWEzcFBGci1WQ2ZTSDJHOGJrM0h3M0lUWVEzR2REeGdXNW1VY3dlMnc1WFNWZ3dpS3Q2bTU3cmUtNjJtQTZ4QWMyVFZWamJnUlhJcWxtMUxmdFVxcEE3WkxNV2I5c09OUWxPbTNiOEI2YkNEaE92amxoYi1hbmJXd2VRUQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T05:15:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ac4f932288e33107",
+   "k": "nrw",
+   "titel": "Kommunale Schulden: So groß sind die Unterschiede in der Region - Aachener Zeitung",
+   "t": "Die kommunalen Schulden unterscheiden sich in der Region Aachen deutlich von Kommune zu Kommune. Der Bericht stellt die Unterschiede dar.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOazFEZzFMdXRRQlJBZS1LcWFheVhjNGNFb3Z1cENyWHNrV3hVWTlTWnV0TElVUUJFLWF2NFlCdjZTVzFtc1FfdF9zWmJyRlVfRHEwQ0dBM2Q0UjVMOGJIMjZyajVwRWZlTzhNU3kxT2hzM0toVy1fQ20xX09tdXBMTlBCeWEtYzhjZWhFdzZyQ3FGNnhNZ1JMckdOdGRVY08zdEUtaG42bXBNbWlNV0JEeUJrYzVSQTQ3dkNuMUxoVXkxNV90czE5Z2thQ1FqMEhJT3lGcUZn?oc=5",
+   "quelle": "Aachener Zeitung",
+   "zeit": "2026-11-09T05:07:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "da733005c46b306e",
+   "k": "welt",
+   "titel": "Klimakonferenz: Die Welt soll zum Stromer werden",
+   "t": "Auf der Klimakonferenz in Antalya beraten fast 200 Regierungen. Eine Gruppe williger Staaten will den Ausstieg aus fossilen Energieträgern vorantreiben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cop31-in-antalya-klimakonferenz-startet-mit-streit-um-fossile-energien-accg-201651541.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T05:04:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "c8439e0c77468789",
+   "k": "deutschland",
+   "titel": "Cannabis auf Rezept: Aus für Blüten - Kritik an Reform bei medizinischem Cannabis",
+   "t": "Cannabisblüten sind seit Juli nicht mehr auf Kassenrezept erhältlich. Andere Cannabispräparate bleiben verschreibungsfähig, was auf Kritik stößt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/cannabis-auf-rezept-aus-fuer-blueten-kritik-an-reform-bei-medizinischem-cannabis/100268325.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T05:00:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "b99198b03309adfc",
+   "k": "welt",
+   "titel": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+   "t": "Cyberangriffe auf Kühlsysteme in Supermärkten und eine Welle von Bombendrohungen belasten Europas Infrastruktur. Behörden prüfen die Lage.",
+   "e": "Die Häufung solcher Vorfälle stellt die Widerstandsfähigkeit kritischer Infrastruktur in Europa auf die Probe.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T05:00:01+00:00",
+   "tag": null
+  },
   {
    "id": "ee798603f42015df",
    "k": "deutschland",
@@ -2468,6 +2713,18 @@
    "tag": null
   },
   {
+   "id": "3e6b7b153cf721ed",
+   "k": "finanzen",
+   "titel": "The Week Ahead: Fed Rate Decision Looming as Microsoft, Alphabet, and Amazon Report Earnings - TradingKey",
+   "t": "Vor der anstehenden Zinsentscheidung der Fed berichten Microsoft, Alphabet und Amazon über ihre Quartalszahlen. Die Woche steht damit im Zeichen von Zinserwartungen und Techwerten.",
+   "e": "Die Fed-Entscheidung und die Bilanzen der großen Techkonzerne bestimmen derzeit die Stimmung an den US-Börsen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzkzdWt1dE9XQWRvZVdyRmJENW15NjNkYks2V0Rab1pNOE9QZFBXVWZHR0NVNURIQmYwc0dtcjZvXzVKZVhZWFQ4dFJVZ2lrTmhmVER3N0V4MXVWX2psZTB5eUR2SVVtWG5VbWpvajZGVVhMMEltSUVwQmFJY1ZlR0JLUVpsU2ZBaVJxeGJUbjBJU1JralRiZndDNGY5aVJtSWJhbG9ocmNGaVVyZ1Q5bllINTBIQjlBUTdz?oc=5",
+   "quelle": "TradingKey",
+   "zeit": "2026-11-08T10:12:06+00:00",
+   "tag": null
+  },
+  {
    "id": "17ba7773394b273e",
    "k": "deutschland",
    "titel": "„Wenn erneute Angriffe Irans Verbrecher-Regime schwächen, würde ich sie begrüßen“",
@@ -2826,258 +3083,6 @@
    "quelle": "RND.de",
    "zeit": "2026-11-08T07:53:48+00:00",
    "tag": null
-  },
-  {
-   "id": "62a1882442f137d2",
-   "k": "usa",
-   "titel": "Treffen mit Trump am Montag: UFC-Chef Dana White soll Pressesprecher im Weißen Haus werden - RND.de",
-   "t": "UFC-Chef Dana White soll nach einem Treffen mit Trump am Montag Pressesprecher im Weißen Haus werden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUllRzVGVWlaaEp5M1JVQzhOMGtpYTdJNkNHQWNwRmxCZVNzdTE5Qi1oVjJYa3JyNnpmYld1b0szREtOcURrdnVTSk1SNEJUaEhjcEk1c1VUV2U1bnQ5SzFtYjBPNHJQZzg5UXI4Q0Y1Qm9ZWXlDUElQRkhwMW92VnFKb01mNWNLeEVQRmtKTEVTSnpnOUh4eURLZkRmV3ZhMF9oR1ZCcXYwamwyRVpQWU1mMFJ3ODdWbmZtN3VyV09jWWctWFlnUXpSZmIwUGQ5SU8xVUFIQTZST0E?oc=5",
-   "quelle": "RND.de",
-   "zeit": "2026-11-08T07:53:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "7b0625ecb480037f",
-   "k": "finanzen",
-   "titel": "NZD/USD-Ausblick: Wohin geht der fallende Kiwi nach der Wahl in Neuseeland? - TradingView",
-   "t": "Der neuseeländische Dollar fällt nach der Wahl in Neuseeland.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxSmFnU3ZOdGNQMk9iSGQzVG5QQVlZM2prMVNkZlNxV2hub2xWQVJCRFVrVlplYV9CUlY2ajdzS2RqR0MwaEx5czJsT002bi1nR2ltaGdHTkF4MjlRUklvY09lUVlwaFU?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-08T07:53:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2729824455957b3",
-   "k": "welt",
-   "titel": "Eltern und Schwester des Schützen tot aufgefunden – ein Deutscher unter den Verletzten",
-   "t": "Beim Schusswaffenangriff auf dem Marktplatz in Krakau starben sechs Menschen, 16 weitere wurden verletzt. Im Haus des mutmaßlichen Schützen fanden die Behörden drei weitere Leichen, darunter seine Eltern und Schwester. Unter den Verletzten ist ein Deutscher.",
-   "e": "Die polnische Regierung bezeichnet die Tat als Terrorakt, die Ermittlungen zum Motiv laufen.",
-   "s": 9,
-   "link": "https://www.welt.de/vermischtes/article6aef445b80d3a1c6aa66c4ff/nach-schuessen-in-krakau-eltern-und-schwester-des-schuetzen-tot-aufgefunden-ein-deutscher-unter-den-verletzten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T07:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "93b954bc515eb37b",
-   "k": "nrw",
-   "titel": "POL-HA: Platzverweis missachtet: 56-Jähriger verbringt Nacht in Polizeigewahrsam - Presseportal",
-   "t": "In Hagen hat ein 56-Jähriger einen Platzverweis missachtet und musste die Nacht in Polizeigewahrsam verbringen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tMFF3bkc5S2tXbTNMMkp4VTZ1Wl9ici1FNEFBejhIWV9rR0hlREpYeGI0ejN5SHhoSUNZV2VBQmNadGlIdnQ1RHhMWHlZOUUtazBHU3NTUHVuY1FRNnpQdmd0NHE?oc=5",
-   "quelle": "Presseportal",
-   "zeit": "2026-11-08T07:45:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "a61e73f67a43049b",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Fußgänger bei Verkehrsunfall in Düren schwer verletzt - tixio - Nachrichten",
-   "t": "In Düren wurde ein Fußgänger bei einem Verkehrsunfall schwer verletzt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9lV2FRQmpMTWlreXd1TWI2djVBRmsxeUFrZEpjTXBQMzFIcGM3eThKek5ienQzWVJnZ1AzVVhha24zNTFHZlBvOUptQktfYkFnc0dKSzQ0QVBtTXljbjlCTzhXNEE4T0V1QWtGM080ODhkV2dFbVFyU1g5ODJtaWIzMlpyUUtVcnBqVGxyck5Iczdy?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-08T07:39:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb0b57fd6ed8404a",
-   "k": "welt",
-   "titel": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
-   "t": "In Guatemala riskieren Korruptionsbekämpfer ihr Leben. Der Mord an einem bekannten Anwalt zeigt den massiven Widerstand einflussreicher Kreise gegen die Bekämpfung der Korruption.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T07:39:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4a61396de301ea9",
-   "k": "finanzen",
-   "titel": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
-   "t": "Die Deutsche Börse ermöglicht den Handel mit DAX-Werten nun auch nachts und am Wochenende. Eine technische Hürde bleibt laut Bericht bestehen.",
-   "e": "Der erweiterte Handel verschafft Privatanlegern zeitlich mehr Zugang zum Aktienmarkt.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T07:35:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "63f3678eacfa956c",
-   "k": "welt",
-   "titel": "Bankskandal: Paraguays Ex-Präsident Peña muss in Untersuchungshaft",
-   "t": "Paraguays Ex-Präsident Santiago Peña muss laut Bericht in Untersuchungshaft, die Justiz wirft ihm im Zusammenhang mit einem Bankenskandal schwere Rechtsverstöße vor.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/bankskandal-paraguays-ex-praesident-pena-muss-in-untersuchungshaft/100268181.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T07:34:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "69ead8b16dcaa034",
-   "k": "usa",
-   "titel": "New Jersey town reveals staggering $26M theft days after election, sparking backlash",
-   "t": "In Cranbury Township im US-Bundesstaat New Jersey wurde ein betrügerischer Überweisungsbetrag von 26 Millionen Dollar bekannt, der laut Berichten erst Tage nach der Wahl öffentlich wurde. Anwohner fordern Aufklärung.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/new-jersey-town-reveals-staggering-26m-theft-days-after-election-sparking-backlash",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-08T07:34:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "5d909a3c29312d6d",
-   "k": "finanzen",
-   "titel": "US inflation set to cool in October after two months of sharp increases - Business Standard",
-   "t": "Die US-Inflation dürfte im Oktober nach zwei Monaten starker Anstiege laut Erwartungen wieder etwas nachlassen.",
-   "e": "Die Verbraucherpreisdaten sind für die Erwartungen an die Zinspolitik der Fed zentral.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbnRZTVBwc0g1ZkpyV05HVTJuMGZKU0JTVll2RS1JVU5ubjdEZTc2aUJUc2daaVRBVElIY1cyeFRlNzlvWFlUOXFKVDBYZjlqWGE2eGMzRU50ZElxOE1wcVdPNUlQZjJqZXJwTEdtckdFaEU0RnZ4dDkxNzVDWUVwY1Nhd1NyQ2hISkRoVzNiOGM3T3J2WTRWYmFoX0I2UFhvVWFpUy15c3NXSFJKWVpnVlZHUk1iaUczYXZEbFFtSkwxcUpGX2hqWThWSGNZRExSRGfSAdcBQVVfeXFMTmRSMFpDNDFYLU1pcUZQTWw1Q19qZlZoNXZUcHNWSmFFT0FsdmFjLV84SldqWU9WcXhiTGVsOXkzazllQk9GUTBxRFJoNGVObTJ6RG5PRThDQTYxNThXb0I2Q3JfeExGcHItYm1tUDI4QmV2ZTdUblUtSE9JSWUyMlBtQlVReEU4TUIwdjJQT1NXSTNZWDk5akxhMEJYNjdMdHRVUE41WlFwWXdnaUJSM2tvNmxJT1MxNzBfQWdLSUNOTVFOd1NOeGxlbGYxWVFHd1ZENmhTTnM?oc=5",
-   "quelle": "Business Standard",
-   "zeit": "2026-11-08T07:33:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "2914fdca50331d2a",
-   "k": "deutschland",
-   "titel": "Sterbehilfe als Grund?: Suizidzahlen steigen an, vor allem unter Frauen",
-   "t": "Die Suizidzahlen steigen seit 2020, vor allem bei Frauen. Fachleute sehen eine Ursache in einer gerichtlichen Entscheidung zur Sterbehilfe.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/warum-suizidzahlen-ansteigen-vor-allem-unter-frauen-accg-201653049.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T07:30:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "07bf7f8ad17a1da0",
-   "k": "deutschland",
-   "titel": "Rüstungsprojekte: Warum FCAS gescheitert ist",
-   "t": "Das deutsch-französische Rüstungsprojekt FCAS ist gescheitert, die Zusammenarbeit bleibt laut Kommentar aber wichtig.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsch-franzoesische-ruestungskooperation-warum-fcas-gescheitert-ist-201656323.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T07:28:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "199019d9307af3db",
-   "k": "welt",
-   "titel": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
-   "t": "Ein Erdbeben der Stärke 5,7 hat Teile Zentraljapans erschüttert. Mehr als 20 Menschen wurden verletzt, am stärksten betroffen war die Präfektur Aichi.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T07:27:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "0044e3a39681e218",
-   "k": "welt",
-   "titel": "„All diese Attacken haben nicht dazu geführt, dass die Russen sich zurückziehen“",
-   "t": "An der Front in der Ukraine gibt es trotz heftiger Kämpfe kaum Veränderungen, wie WELT-Korrespondent Christoph Wanner einordnet.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/ausland/video6af0185080d3a1c6aa66cc09/ukraine-krieg-all-diese-attacken-haben-nicht-dazu-gefuehrt-dass-die-russen-sich-zurueckziehen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T07:20:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "fa4416e154ec63a8",
-   "k": "deutschland",
-   "titel": "Umweltminister Schneider: „Privat fahren wir einen 13 Jahre alten Diesel“",
-   "t": "Umweltminister Carsten Schneider äußert vor der Klimakonferenz in Antalya, der Verbrenner sei ein Auslaufmodell, und sagt, er selbst fahre noch einen 13 Jahre alten Diesel.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/umweltminister-carsten-schneider-privat-fahren-wir-einen-13-jahre-alten-diesel-accg-201653839.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T07:04:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "587d25d2f18a0cb0",
-   "k": "welt",
-   "titel": "„Ganz Polen steht unter Schock“ – Sechs Tote und 15 Verletzte in Krakau",
-   "t": "In Krakau sind bei einem Angriff sechs Menschen getötet und 15 verletzt worden. Ministerpräsident Tusk spricht von Terrorismus, der Täter habe wahllos auf Menschen gezielt.",
-   "e": "Die Zahl der Todesopfer ist gegenüber der ersten Meldung gestiegen, was die Schwere des Anschlags in Polen unterstreicht.",
-   "s": 8,
-   "link": "https://www.welt.de/vermischtes/video6af0178ba389bc337cfc9a6b/angriff-auf-marktplatz-ganz-polen-steht-unter-schock-sechs-tote-und-15-verletzte-in-krakau.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T07:04:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "c6dd70a3bbe37ac6",
-   "k": "finanzen",
-   "titel": "What Happens To Gold If The AI Boom Cools? Jefferies Has An Answer - NDTV Profit",
-   "t": "Eine Analyse von Jefferies beschreibt, wie sich der Goldpreis entwickeln könnte, falls der KI-Boom abkühlt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6czNmRnpLVWc3M2o4MWhiY3BmRG9oTGVHLWhKcENEZ0FMNER1SUV0eHBfbzJzRXFTR0hZR1k1cTBWMlBqcjQ1ek93NjdHanpGX3hsVFR5eGZrNnJFTDM4QlpmYUc0TXAyNzZhMVJqWXQ3ZXp0OTFoOFk1NlRSek9sTk1Ka3lNaFhHUG5lNGVKQmNDblh6N2Z3bDY2WHVBeTBmT2pDbjltNHViM2fSAbYBQVVfeXFMTm9lM01vX2hPYmNON1RRNkJyU1JLTWlaOU9WalFaRG5tQkViWkQ4UVpOdnlCbDd0UWVzX0xKWTFGaDlNcndGd1lBNHNVZzFYSTdXYWdiYThjUDlBel9XamZhUHhOaVg2R1BFbDNJSzhBWkt2aGVCd096LUdxX1VUS0hVWU5ybXlBc1Yxc3hYbHhnUGNnOEVIMnZqX1NvVGFPYXRGai1UUlVfTkJDTmdfYW1HQkRTS0E?oc=5",
-   "quelle": "NDTV Profit",
-   "zeit": "2026-11-08T06:52:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "49fb480a264f07d4",
-   "k": "welt",
-   "titel": "Attentat in Polen: Nach Schüssen in Krakau: Ministerpräsident Tusk spricht von „Terrorismus“",
-   "t": "In Krakau hat ein junger Mann wahllos auf Passanten geschossen und sechs Menschen getötet. In seiner Wohnung fand die Polizei drei weitere Leichen, unter den Verletzten ist auch eine Person aus Deutschland. Ministerpräsident Tusk spricht von Terrorismus.",
-   "e": "Ein Gewaltverbrechen dieses Ausmaßes in einem EU-Nachbarland ist außergewöhnlich; die Frage nach dem Motiv und einem möglichen rechtsextremen Hintergrund ist noch offen.",
-   "s": 8,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/attentat-in-krakau-tusk-spricht-von-terrorismus-accg-201661603.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T06:41:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "a10aa47109429fc5",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Wohnungsbrand in Duisburg: Eine Toter und vier Schwerverletzte - tagesschau.de",
-   "t": "Bei einem Wohnungsbrand in Duisburg ist eine Person gestorben, vier weitere wurden schwer verletzt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVE1YZGxkYXdocDBxLXRQSTBrR0lzc2UtTEFQNlN1SlNRdFJQbXQzYlNPYzBoNUxBNEI2elFFT0t3aE95bHFVR080NjQ2SUNuYWowa3Q0UllGREQ3WVBZSUV0VUNMSEkwMHIzZWw4MElzOWZ5Z1Rkd1RvamROWXdwNEswU2V0SmhfdVdxcFFoTHpiTFdpMVZVWElIRUFhM1ZYektaY3VVWnB3Z0k0dXpNb1R5MjV0OVRkLVc3LXVUeHQzSzA0VE01QVhaRG4xaFpS?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-08T06:39:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4973a700f020972e",
-   "k": "welt",
-   "titel": "Selenskyj kündigt weitere Entlassungen bei Geheimdienst SBU an",
-   "t": "Selenskyj kündigt nach einem Korruptionsskandal weitere personelle Konsequenzen beim ukrainischen Inlandsgeheimdienst SBU an. Es hat bereits Entlassungen gegeben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/video6af01252a389bc337cfc9a32/ukraine-selenskyj-kuendigt-weitere-entlassungen-bei-geheimdienst-sbu-an.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T06:30:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "2f43f683c3c7f5d4",
-   "k": "finanzen",
-   "titel": "Fed likely to hold rates steady amid oil spike ahead of Powell’s exit - WXLV",
-   "t": "Die US-Notenbank Fed dürfte die Zinsen laut Erwartungen trotz eines Ölpreisanstiegs unverändert lassen, kurz vor dem Ende der Amtszeit von Powell.",
-   "e": "Der Ölpreisanstieg erschwert die Zinspolitik, weil er die Inflation antreibt.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYWRzVkhpOXdEV1RJSFU0RWJTbkhlUE55VW5kYms5WmZoRGdMTE9CNUNwOGRYVHpPTWI0ZjFpYnZyaDBCcWlLczRzRm45cEtpVGxuaTZqeFNfWGl1a19UVlc2NW9TM0I5Vi1fWU5oa0hwOWpaQ1BweEwzRnR1UmlaVFU5SjhldXRES0F5S21xWnVyV29KRkNxaExzaXFpQWh5bHNrbUYtbXVPX1BOeV9VYnY3ZDVPRmRjNlBudWpLZWlzd0NqRVJkaDF4WDVicGM4SjVwTTRPSEFlclV3anFGbWg4T3pudkJCR29UTGE1VFBjZU1JeG9Rd2tHamtodTNPQnVhNHpvUFJOZkRUVWU5Y3V6U2ZkbnpLWGhqZGxn?oc=5",
-   "quelle": "WXLV",
-   "zeit": "2026-11-08T06:28:30+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 27
+    "n": 28
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -3140,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "CNBC Finance",
@@ -3175,12 +3180,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "Google News Iserlohn",
@@ -3190,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News NRW",
@@ -3200,7 +3205,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 20
+    "n": 15
    },
    {
     "name": "Google News USA",
@@ -3213,9 +3218,7 @@
     "n": 30
    }
   ],
-  "markt": [
-   "EZB Zins: HTTPSConnectionPool(host='data-api.ecb.europa.eu', port=443): Read timed out. (read timeout=15) / HT"
-  ],
+  "markt": [],
   "briefing": null
  }
 }
