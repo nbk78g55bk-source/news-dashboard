@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-09T09:01:22.541711+00:00",
+ "aktualisiert": "2026-11-09T11:01:34.072088+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,93 €",
-   "delta": -0.3024014719580581
+   "wert": "127,01 €",
+   "delta": -0.23956520092486278
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,63 €",
-   "delta": -0.49030440502291217
+   "wert": "43,69 €",
+   "delta": -0.36943781016708366
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,44 €",
-   "delta": -0.8655506310814687
+   "wert": "137,52 €",
+   "delta": -0.8078472263265524
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "171,54 €",
-   "delta": -0.7980558544749994
+   "wert": "171,10 €",
+   "delta": -1.0525087833780478
   },
   {
    "name": "Deka DAX",
-   "wert": "226,20 €",
-   "delta": 0.37718831748951853
+   "wert": "227,15 €",
+   "delta": 0.7987547582570587
   },
   {
    "name": "Bitcoin",
-   "wert": "74.490 $",
-   "delta": -1.7966951458321156
+   "wert": "74.123 $",
+   "delta": -2.226258723213025
   },
   {
    "name": "Ethereum",
-   "wert": "2.121 $",
-   "delta": -5.172893354436104
+   "wert": "2.107 $",
+   "delta": -5.652411113287594
   },
   {
    "name": "Gold",
-   "wert": "4.103 $",
-   "delta": 0.6895898875966866
+   "wert": "4.105 $",
+   "delta": 0.7288546557712383
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,272 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-09T06:13:46.420957+00:00",
+  "slot": 12,
+  "stand": "2026-11-09T11:01:34.072069+00:00",
   "punkte": [
    {
-    "k": "welt",
-    "t": "In Krakau hat ein 24-Jähriger auf einem zentralen Platz sechs Menschen erschossen; die Staatsanwaltschaft ermittelt wegen Terrorverdachts, und auch Eltern und Schwester des Schützen wurden tot aufgefunden. Polen hat Staatstrauer angeordnet, das Motiv ist weiterhin unklar."
+    "k": "finanzen",
+    "t": "EZB-Präsidentin Lagarde deutet eine weitere Zinserhöhung im Dezember an; der EZB-Zins liegt laut Marktdaten bei 2,50 %, der Fed Funds Rate bei 3,88 %. Nach starken US-Arbeitsmarktdaten werden in einem Bericht Wetten auf eine Fed-Zinserhöhung im Dezember mit 79 Prozent angegeben."
    },
    {
     "k": "finanzen",
-    "t": "Im Markt notieren der Deka DAX bei 225,35 € und der iShares MSCI World bei 127,31 €; die EZB-Zinsen liegen bei 2,50 %, die Fed Funds bei 3,88 %. EZB-Chefin Lagarde erwartet, dass die Inflation kurzfristig hoch bleibt, und sieht wenig Anlass, den Zinspfad zu ändern."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die seit Dienstag vermisste 13-jährige Lisa wurde am Sonntag tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht, er ist in kritischem Zustand."
-   },
-   {
-    "k": "deutschland",
-    "t": "Bundeskanzler Merz unterstützt laut Berichten Söders Vorschlag, Ilse Aigner (CSU) als Kandidatin für die Bundespräsidentenwahl zu nominieren. Sie wäre die erste Frau in diesem Amt, und es zeichnet sich eine parteiübergreifende Lösung ab."
-   },
-   {
-    "k": "usa",
-    "t": "Nach den Kongresswahlen haben die Demokraten in beiden Kammern deutliche Mehrheiten gewonnen und kündigen Untersuchungen gegen die Trump-Familie sowie Musk-nahe Akteure an. Präsident Trump droht den Demokraten mit Ermittlungen und spricht von einem „riesigen Schritt zurück“ für Amerika."
+    "t": "Zu den Märkten gehören Deka DAX 227,15 €, iShares MSCI World 127,01 €, Deka S&P 500 137,52 € und Deka Nasdaq-100 171,10 €. Bitcoin notiert bei 74.123 $, Gold bei 4.105 $ und Ethereum bei 2.107 $."
    },
    {
     "k": "welt",
-    "t": "Trump hält eine Rückkehr zum Krieg mit dem Iran für „höchst unwahrscheinlich“, solange die Gespräche über das Atomprogramm Fortschritte machen. Das US-Militär ergänzt unterdessen die Seeblockade gegen iranische Ölexporte um Maßnahmen an Land."
+    "t": "Trump verkündet nach eigenen Angaben ein baldiges Ende des Ukraine-Kriegs und deutet dafür Gebietsabtretungen der Ukraine an. Selenskyj hatte Trumps Friedensplan zuvor als gefährlich bezeichnet."
+   },
+   {
+    "k": "deutschland",
+    "t": "Die CDU hat Ilse Aigner offiziell als Kandidatin für das Amt der Bundespräsidentin nominiert, nachdem Merz sie unterstützt hatte. Die Wahl durch die Bundesversammlung steht noch aus."
+   },
+   {
+    "k": "deutschland",
+    "t": "Die vermisste 13-jährige Lisa wurde tot in einem unbewohnten Haus etwa eine Stunde von Berlin entfernt gefunden. Ein Tatverdächtiger wurde in ein Krankenhaus gebracht."
    }
   ]
  },
  "items": [
+  {
+   "id": "234a4982bf64bbd2",
+   "k": "finanzen",
+   "titel": "Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie",
+   "t": "Die IG Metall ruft zur Warnstreik-Kundgebung in Ingolstadt auf, zum Start der dritten Verhandlungsrunde in der bayerischen Metall- und Elektroindustrie. Mehr als 15.000 Beschäftigte werden erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-09T10:52:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "bb51ae3bef0b2440",
+   "k": "finanzen",
+   "titel": "Künstliche Intelligenz: Telekom verdoppelt KI-Rechenleistung in München",
+   "t": "Die Telekom verdoppelt die KI-Rechenleistung ihrer KI-Fabrik in München und investiert dafür knapp eine weitere Viertelmilliarde Euro.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-telekom-verdoppelt-ki-rechenleistung-in-muenchen/100268438.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T10:51:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "b43f8b117ee21159",
+   "k": "nrw",
+   "titel": "NRW führt Abschiebeflug mit nur einem Migranten durch",
+   "t": "NRW hat einen Abschiebeflug mit einer gecharterten Boeing mit 189 Plätzen nach Bulgarien durchgeführt, an Bord war nur ein abzuschiebender Libanese.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6af19a9080d3a1c6aa66e204/nrw-fuehrt-abschiebeflug-mit-nur-einem-migranten-durch.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T10:49:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "f2b5c0ccf41f9519",
+   "k": "finanzen",
+   "titel": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
+   "t": "Berkshire Hathaway meldet für das dritte Quartal rund 357 Milliarden Dollar Cash, die schwache Entwicklung der Versicherungstochter Geico fällt dabei besonders auf.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-09T10:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5647cf45a3e0379f",
+   "k": "finanzen",
+   "titel": "Ugandas Zentralbank belässt ihren Leitzins bei 12 % - MarketScreener Schweiz",
+   "t": "Die Zentralbank Ugandas lässt ihren Leitzins unverändert bei 12 Prozent.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDBKU0hqT2NaNUZYMURLU3R0ckJqeFg5R3dweGU3emJTMG5xSUptdUxJR2oycWQtV2ppbUZhbzRobGM0WFduS2xIQzNyNjZiTDhvbXh1V21HVzY4c05vWnFxbDkwMlRaS00xMklHTm1SUlByanBkbTllZzYwazlOSE1kNl9XVEdad0ctX1VyZ3VUR24yWjZlbTR0b0g5NTFCdG5fX2F2VkpIU3RjUTJLbFh6UThDUU12?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-09T10:45:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "0bc97506c82a86a9",
+   "k": "deutschland",
+   "titel": "Staatsoberhaupt: CDU nominiert Aigner als Bundespräsidentin",
+   "t": "Die CDU hat Ilse Aigner offiziell als Kandidatin für das Amt der Bundespräsidentin nominiert. Die Wahl durch die Bundesversammlung steht noch aus.",
+   "e": "Aigner wäre die erste Frau im Amt des Bundespräsidenten, die Wahl selbst ist aber noch nicht entschieden.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-nominiert-aigner-als-bundespraesidentin/100268312.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T10:43:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ed891f29e024d08",
+   "k": "nrw",
+   "titel": "Iserlohn: SPD-Fraktion fordert Klärung zu Einschränkungen in Offenen Ganztagsschulen - IKZ-Online",
+   "t": "Die SPD-Fraktion in Iserlohn fordert Klärung zu Einschränkungen in den Offenen Ganztagsschulen.",
+   "e": "Betrifft die Betreuungsangebote für Schulkinder in Iserlohn und die Frage, wie die Stadt die Versorgung sicherstellt.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUd1X0JYSWFmWExIc2U0Z044V3NNemFnOXUyelVKZ0IweGdHLW9qc1VZMVdaMkFEeXNHQzlOcmRFamJHWmFqbjFyNndIOFRZeVlVX2ZCSDBxNkpHSUFrVWNUTDhHZGwzT3pUbUJiaXd0aEZHY09ZRFZWNE01U2hDUFdNVmZEMFAybVFTZHhCYjBiWGhtbGNCY295a0k5aDBYLWNhcDFIcGtPOW1maWRSVGRpZHpBRFl6WEtIQ0xyVmVzaTdUbWdPRGRSUURJQVVFamo4eFVFSTNla2lDV0I0QXZOZEg?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T10:36:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "bcbc9bd1ad76fae9",
+   "k": "deutschland",
+   "titel": "Tote 13-Jährige aus Marzahn war gefesselt – Verdächtiger kannte das leerstehende Haus",
+   "t": "Die tote 13-jährige Lisa T. aus Berlin-Marzahn war laut Berichten gefesselt. Der Verdächtige soll eine persönliche Verbindung zu dem Grundstück haben, auf dem die Tat geschah.",
+   "e": "Die Ermittlungen zu dem Tötungsdelikt in Brandenburg mit Berliner Bezug laufen weiter.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/plus6af196ffeaa675c45847c563/tote-13-jaehrige-aus-marzahn-war-gefesselt-verdaechtiger-kannte-das-leerstehende-haus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T10:36:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "e3bcd3f92d9a2e92",
+   "k": "finanzen",
+   "titel": "Entscheidung über EZB-Chefposten bleibt wohl noch in der Schwebe - Cash",
+   "t": "Die Entscheidung über die Nachfolge von EZB-Präsidentin Christine Lagarde bleibt wohl noch offen. Im Rennen sind unter anderem Notenbankchef Klaas Knot und Spaniens Pedro Hernández de Cos.",
+   "e": "Die Besetzung der EZB-Spitze ist für die Zinspolitik im Euroraum und die Glaubwürdigkeit der Notenbank bedeutsam.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWE4zMFdUV1Nvel81QURiN2FaUnEzdXFjZ3l3cW5sNkZEdG1CWGNYaXFYY3laSnZXdzZEbVZWODhWSExZdEVMQVRWbVpCNlFUWkVZUW11UHdQWllNdXdwd2pHeFZtQzRTV3A1MnRwWkNQM2QzV1ZFOWwyVUNZaHlMdnRkM21hak5Nb0syR1pTOGdScmlnUmd4bkRRa01iaUVYckVySG5sZ3Q?oc=5",
+   "quelle": "Cash",
+   "zeit": "2026-11-09T10:33:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ecf23804318fa7d",
+   "k": "welt",
+   "titel": "Durch Fischer gerettet: Pianist von Kreuzfahrtschiff überlebt neun Stunden im Meer",
+   "t": "Fischer haben vor Kalifornien einen Pianisten eines Kreuzfahrtschiffs aus dem Pazifik gerettet, nach Angaben soll er über neun Stunden im Wasser getrieben sein. Wie er dorthin gelangte, ist unklar.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/pianist-von-kreuzfahrtschiff-ueberlebt-neun-stunden-im-pazifik-accg-201665036.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T10:31:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "3999a80c0b7cc455",
+   "k": "finanzen",
+   "titel": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+   "t": "Ein Morgan-Stanley-Chefstratege erwartet, dass der S&P 500 in den kommenden Wochen bis an das untere Ende der bankeigenen Abwärtsspanne fallen könnte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-09T10:26:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2e104f370e830b75",
+   "k": "finanzen",
+   "titel": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "t": "Nvidia hat nach Berichten über eine ausländische Geheimdienst-Operation gegen Konzernchef Jensen Huang einen unabhängigen Untersuchungsausschuss des Verwaltungsrats eingesetzt. Die Aktie fiel um rund 4 Prozent.",
+   "e": "Der Konzern ist zentraler Ausrüster des KI-Booms, daher wirkt die Affäre auf den gesamten Tech-Sektor.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T10:13:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "07ade090cedc6f07",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Horringhausen heute, am 09.11.2026 - News.de",
+   "t": "Auf der A45 bei Lüdenscheid nahe Horringhausen gibt es heute eine Tagesbaustelle.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPRlhzS2pleW5wNVFmZVFubS1vOGs1cWJpckUzRGttWGR5X0lIdHpyalZfOEFjOVhFVEg4ODViRld1eVZCNXRrcFJQM3VUeWlxSmZPZ3QxMVdaV2lWc2dsWEhISmk5S1UyXzJEbGZQcThjWElwcW16NjJHNEZySHIzMmdoQjFkMlFiUXNDSmxFLUQ4ZE01RjFjNU9NcjJXVXJXSUQ0eDV3cU12ZWpnanYwX01JaktLRG1OZXlydFV1RnpoMk1jcUx5eElOa2lwQVdsUmF6eGM0NVFaZ2ZIWEthZjAzQkVwcWVnbVlfWXJ6Y2lISU5jZmJ5cXdoeWNDNUNSUnpKTGE1YnBkVWRPNlZsTmtWX0FuNVRNZmxsZW43b1FhdDRDOUtoRWNfZW5iOUI2MWEyT294WFpuTDRtajd3ZXhnWjJsc0dxN0pwWVFNazY?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T10:07:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "cee28599f555cdb5",
+   "k": "finanzen",
+   "titel": "In Deutschland: Vodafone streicht 2300 Stellen",
+   "t": "Vodafone streicht in Deutschland 2300 Stellen. Der Konzern hat sein Geschäft etwas stabilisiert, kämpft aber weiter mit ineffizienten Prozessen und hohen Kosten.",
+   "e": "Der Stellenabbau betrifft den Arbeitsmarkt in Deutschland und zeigt den Sparkurs etablierter Telekomkonzerne.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vodafone-streicht-2300-stellen-in-deutschland-accg-201665118.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T10:02:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "220249a114271ea1",
+   "k": "nrw",
+   "titel": "Meinerzhagen: Tagesbaustelle auf der A45 nahe Willertshagen heute, am 09.11.2026 - News.de",
+   "t": "Auf der A45 bei Meinerzhagen nahe Willertshagen gibt es heute eine Tagesbaustelle.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdC1COXg4TlZkM3NKV1RKb0hHalVxOHIzUHFsc0xjZ3hrZk15MjN1aTFORzhXZ2xLY1RrdXVYWkRhbURnWXNZY2FFWGpHaVZIdEktRGRGRlI4RHIxNmF1Rk5HWV9jWVFVdURXaG05TzBvejhuNmhGSWl1cWp4T3VxN0ZJdjV0b2hjekJMZkNDYXVTam5VcmxEMV9tMGdSdUFiVjhCQTItVnhTZ0dJTWNpM3NieFBpVWloMnZCQnVmQklRZEJ5endINUQ2SHZzZEtCblNYeWVWcUJaMF95T29Jbnk3bFdtTm1aUW92NzBnTTNCdG4tWERia1h4NFFNSzVBRnZtbVM0b2JGRl9Cb2RBbTNCbmRVbW56NERtT2JXQWNBeGV3ekpodW1uNUNXSXNyTE02VU9iUjJvUl9rNDdTTFVLVkZHZ0xCQVlpUTh1cUVOT3dBQld0OGNzT1hLUFBYU2Vn?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T10:02:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4b1081d64f225d1",
+   "k": "usa",
+   "titel": "Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races: 'Closet is full of s—'",
+   "t": "Der US-Kongress kehrt in die Lame-Duck-Phase zurück, mit einer Frist für einen Regierungsstillstand, Farm Bill, Schuldenobergrenze und Führungswahlen vor dem Machtwechsel im Januar.",
+   "e": "Ohne Einigung bis zur Frist droht ein Teil-Shutdown der US-Regierung, bevor die Demokraten im Januar die Kontrolle übernehmen.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T10:00:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "f283b5855fcebf47",
+   "k": "finanzen",
+   "titel": "Coinbase gets full U.S. trust charter from federal banking regulator",
+   "t": "Coinbase hat von der US-Bankenaufsicht eine vollständige Trust-Lizenz erhalten.",
+   "e": "Die Lizenz gibt dem Kryptoanbieter einen regulierten Rahmen auf Bundesebene in den USA und ist ein Schritt zur institutionellen Anerkennung.",
+   "s": 6,
+   "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-09T10:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f7974bcd85a93328",
+   "k": "finanzen",
+   "titel": "Gold slips in early Asian trade as rate-hike expectations grow - سانا",
+   "t": "Gold gibt im frühen asiatischen Handel leicht nach, da die Erwartungen an weitere Zinserhöhungen wachsen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PTlpweXJzYkJvakY4VFljTnphSkRzWHJ2RHQwbFRFMmNuSnMyNVNJZHo4QXRCV2RVU1doYnd2SWpWLVdGb0diYllmbjE?oc=5",
+   "quelle": "سانا",
+   "zeit": "2026-11-09T09:29:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "9672a605f49ead2d",
+   "k": "welt",
+   "titel": "\"Heftiges Symbol\", Silke Diettrich, ARD Moskau, zum Aus von unabhängiger russischer Zeitung Nowaja Gaseta",
+   "t": "Die unabhängige russische Zeitung Nowaja Gaseta stellt ihre Arbeit ein.",
+   "e": "Das Ende der Zeitung schränkt unabhängige Berichterstattung in Russland weiter ein.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1680638.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T09:24:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "969f38e64b01a3d7",
+   "k": "usa",
+   "titel": "Binance, Tether and Trump crypto firms face Senate records deadline",
+   "t": "Der US-Senator Richard Blumenthal hat vier Krypto-Firmen, darunter Binance und Tether, aufgefordert, bis 30. November Unterlagen zu übermitteln. Bei Versäumnis bis 4. Januar drohen weitere Schritte.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-09T09:00:17+00:00",
+   "tag": null
+  },
   {
    "id": "c17789f0f333691a",
    "k": "usa",
@@ -2843,246 +3079,6 @@
    "quelle": "MarketWatch",
    "zeit": "2026-11-08T14:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "2cba4a078172d477",
-   "k": "nrw",
-   "titel": "Hier blitzt der Kreis - LokalDirekt",
-   "t": "Im Märkischen Kreis wird mit Blitzern kontrolliert; Details zu Standorten nennt der Bericht.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pWVJteG1zYlBMSVNoaFNOUkhIaXgzel8zWkJXMGVUbHg1cTBSWWx1VGNINjEzamwzNVpFRk1TNjdlSXp5YUMwaE9hdVFkcjlPc09DSVBVNG5zejFfVGszVTlDQQ?oc=5",
-   "quelle": "LokalDirekt",
-   "zeit": "2026-11-08T14:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ebf1310f6ff9fd12",
-   "k": "finanzen",
-   "titel": "KI: Anthropic steckt 3,4 Milliarden Dollar in Stromgeneratoren",
-   "t": "Anthropic sichert sich laut Bericht gasbetriebene Stromgeneratoren mit 1,7 Gigawatt für rund 3,4 Milliarden Dollar.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-anthropic-steckt-34-milliarden-dollar-in-stromgeneratoren/100268219.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T13:58:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "4db9d99731b9a76e",
-   "k": "usa",
-   "titel": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver - myMotherLode.com",
-   "t": "Nach der Forderung der Wähler nach wirtschaftlicher Entlastung stehen Trump und die Demokraten vor schwierigen Entscheidungen über die Umsetzung.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVFFYQWx5YUFEMU0wQkh4bHlXQ3ozU3NhTHMxQm5NS1R4ZmZIOHJLN2VCLUwyVDFibTFMTGtSLXNoUmh2Y3QwU1BlOHcxNDN6a050aFoxTERGbld4U2dvdjk2MXlSS1RIUWE2Tjl2RjdrT0hzY3J4RHdTeF9sbm1SNmpPMDNVbGRNdWNZSHpHbzktM21waTVWUGp2WGc0aGNXV0dCMlZPMnN3Q3ptUmtBekxqV2gwMm5QUG5hLUo0bG83c3lib1RfQTRZZkI2Mkh0WkxLSThlcndSZ09vQXg4QmdJbUFLdnh3X01FZEtYbDLSAfABQVVfeXFMTlRRWEFseWFBRDFNMEJIeGx5V0N6M1NzYUxzMUJuTUtUeGZmSDhySzdlQi1MMlQxYm0xTExrUi1zaFJodmN0MFNQZTh3MTQzemtOdGhaMUxERm5XeFNnb3Y5NjF5UktUSFFhNk45dkY3a09Ic2NyeER3U3hfbG5tUjZqTzAzVWxkTXVjWUh6R285LTNtcGk1VlBqdlhnNGhjV1dHQjJWTzJzd0N6bVJrQXpMaldoMDJuUFBuYS1KNGxvN3N5Ym9UX0E0WWZCNjJIdFpMS0k4ZXJ3UmdPb0F4OEJnSW1BS3Z4d19NRWRLWGwy?oc=5",
-   "quelle": "myMotherLode.com",
-   "zeit": "2026-11-08T13:53:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "e1182e3756e5cd9f",
-   "k": "deutschland",
-   "titel": "Geförderte Altersvorsorge: Was das neue Altersvorsorgedepot bringt",
-   "t": "Das neue Altersvorsorgedepot soll die geförderte Altersvorsorge in Deutschland verändern, ohne einen Bruch zu bedeuten.",
-   "e": "Die Reform betrifft Millionen Sparer und die Frage, wie die staatlich geförderte Rendite aussieht.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/altersvorsorge-schwarz-rot-hofft-auf-rendite-booster-fuer-sparer-accg-201656541.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T13:49:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "7e78e2dac320c1ae",
-   "k": "deutschland",
-   "titel": "„Kitas kurz vorm Kollaps, und Prien kürzt Mittel für frühkindliche Bildung“, rügt Reichinnek",
-   "t": "Die Grünen fordern ein verpflichtendes Kita-Jahr, Die Linke kritisiert Kürzungen bei der frühkindlichen Bildung durch Familienministerin Prien. Union und SPD verteidigen ihren Plan.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/article6af039131125adfe9365c307/bildungspolitik-kitas-kurz-vorm-kollaps-und-prien-kuerzt-mittel-fuer-fruehkindliche-bildung-ruegt-reichinnek.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T13:45:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "d721c370a7ee6d9b",
-   "k": "welt",
-   "titel": "Erst Messerattacken, jetzt tödliche Schüsse – im sonst so sicheren Polen greift Nervosität um sich",
-   "t": "In Polen haben mehrere schwere Gewalttaten, darunter Messerattacken und tödliche Schüsse, binnen weniger Wochen die Debatte über die Sicherheitslage ausgelöst.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/plus6af072d41125adfe9365c91e/terrorangriff-in-krakau-erst-messerattacken-jetzt-toedliche-schuesse-im-sonst-so-sicheren-polen-greift-nervositaet-um-sich.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T13:42:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c47a4493900aac4",
-   "k": "deutschland",
-   "titel": "84-Jährige fährt Radfahrer an – drei Schwerverletzte, darunter zwei Kinder",
-   "t": "In Köln wurden nach einem mutmaßlichen Rotlichtverstoß einer 84-Jährigen drei Radfahrer schwer verletzt, darunter zwei Kinder.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/article6af06ea4a389bc337cfca0b8/koeln-84-jaehrige-faehrt-radfahrer-an-drei-schwerverletzte-darunter-zwei-kinder.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T13:41:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "395a5888e0f2aaa6",
-   "k": "deutschland",
-   "titel": "Parteitag: FDP arbeitet an Comeback – Kubicki setzt auf Wirtschaftspartei",
-   "t": "Auf dem Bundesparteitag der FDP ringt die Partei nach Wahlniederlagen um einen politischen Neustart.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/parteitag-fdp-arbeitet-an-comeback-kubicki-setzt-auf-wirtschaftspartei/100268218.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T13:36:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "793413acd013534d",
-   "k": "finanzen",
-   "titel": "Märkte Insight: Von wegen KI-Ängste – Investoren reißen sich um neue Anleihen von Big Tech",
-   "t": "Big-Tech-Konzerne haben trotz des Kursabsturzes an den Aktienmärkten Anleihen über fast 75 Milliarden Dollar platziert.",
-   "e": "Die Großemissionen zeigen, dass Investoren Tech-Schuldtitel trotz KI-Sorgen stark nachfragen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ki-aengste-investoren-reissen-sich-um-neue-anleihen-von-big-tech/100266249.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T13:17:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "a3f872b1c54e3436",
-   "k": "welt",
-   "titel": "Hybride Attacken: Italiens Verteidigungsminister fordert offensive Aktionen nach Hackerangriffen",
-   "t": "Italiens Verteidigungsminister Crosetto will nach Hackerangriffen auf italienische Politiker, die mutmaßlich russischen Akteuren zugeschrieben werden, offensiver gegen hybride Angriffe vorgehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/hackerangriff-auf-italienischen-aussenminister-tajani-accg-201662733.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T13:14:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "026683dcaae6af1e",
-   "k": "finanzen",
-   "titel": "BEIGE BOOK: GLP-1S AFFECTING DEMAND FOR POULTRY, ALCOHOL - InsuranceNewsNet",
-   "t": "Das Beige Book der US-Notenbank berichtet, dass GLP-1-Medikamente die Nachfrage nach Geflügel und Alkohol beeinflussen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVdXelNCVkpuVTg0aklRbWNDMGlub1Nqb0YyY1lHVGFPMF9tdXpKd3c5dUhLU3VEaGJHbmwzU0ZlYW5pR0NHYkdqajJmcGo2U2t2aFd2QmF6cGpsUDlQRmMxRGNNajY0bEpieFBrbnAwdmZvVkY2VWs5aEoxWXVrOVJRQ1RqNU4ycjlWQ3R5T09DSlBTdHhZ?oc=5",
-   "quelle": "InsuranceNewsNet",
-   "zeit": "2026-11-08T13:13:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "e520100a08d91013",
-   "k": "nrw",
-   "titel": "Schüsse und kein Ende - In Köln-Ostheim feuern Unbekannte mehrere Schüsse auf Autohaus ab - WDR",
-   "t": "In Köln-Ostheim haben Unbekannte mehrere Schüsse auf ein Autohaus abgefeuert.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14ZUFZR2VRaV9RRFBwdkxzSTVEUk5zb1NBQlBkbF9Zb1BSS3NJQWZCRFljU1Rvek1hQ1BHOTBjNjNBWkpjWHZqbkRuM2lINWVlbFNIMmhMelpSSTZ3WXgyNWFSX1o1V0l2QURxSk1tX3k0QQ?oc=5",
-   "quelle": "WDR",
-   "zeit": "2026-11-08T13:11:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "772590f47fa5afa6",
-   "k": "finanzen",
-   "titel": "Börsen zittern, Fed und EZB bleiben hart: Zinserhöhungen trotz Kursrutsch? - Investing.com Deutsch",
-   "t": "Nach einem Kursrutsch an den Börsen bleiben Fed und EZB bei ihrem restriktiven Kurs; Zinserhöhungen werden diskutiert.",
-   "e": "Hohe Zinsen und fallende Kurse belasten Bewertungen und Anleihen gleichzeitig.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2Y0cTctQklubW03UWpiQUltdC1RZ0FBek5zc2pYbV9MaVp4V3h0RHczclJkenlldDdCa21ZSmpIcGlUNzFfTlNyLVg5amYyenNsOFlWYldkWnVKRjdETGJsZVQtTmw5MDFiVnlCN3BOR3czTzJOSk9kNmRtSzlfMkZueHVnbTZ0Nk9UdWdWc0lRX3U1TjBobDZheTFEQkJFSUdFMHRVSzNLOGtjWFd3RHA5MnU4dw?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-08T13:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0003ab75ee28eb0a",
-   "k": "finanzen",
-   "titel": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
-   "t": "Die Kryptobörse Binance wechselt nach einem Hackerangriff, bei dem laut Bericht 6,4 Milliarden Dollar verloren gingen, ihren Finanzvorstand aus.",
-   "e": "Ein Hack dieser Größenordnung ist ein Sicherheits- und Vertrauensthema für den gesamten Kryptomarkt, da Binance zu den größten Handelsplätzen zählt.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T13:01:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "4bf9049c5bf0aa3a",
-   "k": "usa",
-   "titel": "Democrats’ midterm sweep opens path to bypassing Electoral College by 2028",
-   "t": "Demokratische Mehrheiten in Swing States könnten den National Popular Vote Interstate Compact aktivieren und so die Wahlmänner-Regel umgehen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-08T13:00:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "95a16ad37e2925ed",
-   "k": "finanzen",
-   "titel": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-   "t": "Apple soll laut Bericht durch Gewinnverlagerung rund 2,7 Milliarden Dollar Steuern in Singapur gespart haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-08T13:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ab1d6ffb042fbe3",
-   "k": "usa",
-   "titel": "How Democrats will try to end Trump's tariffs",
-   "t": "Der designierte Repräsentantenhaus-Sprecher Jeffries macht das Ende der Zölle von Präsident Trump zu einer Top-Priorität der Demokraten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-08T13:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "633fb0d0d3d42318",
-   "k": "finanzen",
-   "titel": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-   "t": "Binance France kündigt per E-Mail die Schließung aller Nutzerkonten zum 31. Dezember an; verbleibende Vermögen werden ab 29. November monatlich mit Gebühren belastet.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-08T12:57:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "a349d034d8fcf13a",
-   "k": "deutschland",
-   "titel": "„Lisa hat nicht freiwillig ihr familiäres Umfeld verlassen“ – Ermittler prüfen mehr als 100 Hinweise",
-   "t": "Die 13-jährige Lisa aus Berlin-Marzahn wird seit Dienstag vermisst. Die Polizei geht nicht von einem freiwilligen Verschwinden aus, eine Mordkommission ermittelt mit über 140 Einsatzkräften.",
-   "e": "Der Fall beschäftigt die Öffentlichkeit stark, die Ermittlungen laufen mit mehr als 100 Hinweisen.",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/video6af01344a389bc337cfc9a41/berlin-marzhan-lisa-hat-nicht-freiwillig-ihr-familiaeres-umfeld-verlassen-ermittler-pruefen-mehr-als-100-hinweise.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T12:57:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c9bcb6b94c2cbdb",
-   "k": "finanzen",
-   "titel": "US-Beschäftigung steigt um 165.000 | 7 Nov. 2026 - www.tmgm.com",
-   "t": "Der US-Arbeitsmarkt hat laut Bericht 165.000 neue Stellen geschaffen.",
-   "e": "Der starke Arbeitsmarkt verstärkt die Debatte über den künftigen Zinskurs der Fed.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVbGQtb1MzTXZwVEZCYlkwSEN6TFN2aXpIRUFrSGpVWDB3VHhxWFd3clBJYTBxc2hkSWZYTXE0dW42eXR4SkFlU1ZVNnZKRjBIMlhvck9tZHVVQ3FfaEtHaXZTWnRUeEdEMWVNNWFOcC0xeEh1ZWhfTW9SSEQ?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-08T12:57:16+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,12 +3096,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "Welt",
@@ -3115,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "NZZ",
@@ -3160,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "WSJ USA",
@@ -3180,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 11
+    "n": 14
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Google News Iserlohn",
@@ -3195,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 10
+    "n": 13
    },
    {
     "name": "Google News NRW",
@@ -3205,7 +3201,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 25
+    "n": 33
    },
    {
     "name": "Google News USA",
@@ -3215,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 29
    }
   ],
   "markt": [],
