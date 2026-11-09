@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-09T15:01:28.314625+00:00",
+ "aktualisiert": "2026-11-09T17:01:33.816311+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,99 €",
-   "delta": 0.5301791192317662
+   "wert": "128,44 €",
+   "delta": 0.887560410733057
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "44,20 €",
-   "delta": 0.7981791061759447
+   "wert": "44,45 €",
+   "delta": 1.3660240518193367
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,97 €",
-   "delta": -0.48687203737742824
+   "wert": "139,56 €",
+   "delta": 0.6671960577205649
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "171,90 €",
-   "delta": -0.5898670944633921
+   "wert": "176,10 €",
+   "delta": 1.8390017723385332
   },
   {
    "name": "Deka DAX",
-   "wert": "228,45 €",
-   "delta": 1.3756351508863007
+   "wert": "229,30 €",
+   "delta": 1.7528261768361864
   },
   {
    "name": "Bitcoin",
-   "wert": "74.819 $",
-   "delta": -1.5198335861112626
+   "wert": "75.006 $",
+   "delta": -0.9112767506967616
   },
   {
    "name": "Ethereum",
-   "wert": "2.128 $",
-   "delta": -4.965079308350913
+   "wert": "2.133 $",
+   "delta": -4.280056094305838
   },
   {
    "name": "Gold",
-   "wert": "4.133 $",
-   "delta": 1.4307123868912086
+   "wert": "4.115 $",
+   "delta": 0.9938918409494013
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,522 @@
   ]
  },
  "items": [
+  {
+   "id": "c6fdad5d65b997a7",
+   "k": "usa",
+   "titel": "Trump questions midterm election results, revives voting-machine conspiracy",
+   "t": "Präsident Trump stellt die Legitimität seiner Niederlage bei der Wahl 2020 infrage und greift Wahlmaschinen erneut als Thema auf. Der Angriff auf das Kapitol wird in diesem Zusammenhang erwähnt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T16:55:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "76db823ec1aeeeff",
+   "k": "welt",
+   "titel": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+   "t": "Frankreichs Außenminister macht die iranische Revolutionsgarde für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich. Mehrere europäische Länder hatten zuvor ähnliche Vorfälle gemeldet.",
+   "e": "Ein staatlich zugeordneter Angriff auf zivile Infrastruktur in mehreren EU-Ländern wäre eine neue Stufe der Spannungen mit Teheran.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/kuehlanlagen-cyberangriffe-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T16:52:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "1e5dd161b1356b0e",
+   "k": "finanzen",
+   "titel": "Chef des Chipherstellers Nvidia in Spionageaffäre verwickelt",
+   "t": "Der Chef des Chipherstellers Nvidia ist in eine Spionageaffäre verwickelt. Der Konzern leitet eine Untersuchung ein.",
+   "e": "Der Vorfall hat geopolitische Brisanz, weil eine mutmaßliche chinesische Spionin beteiligt sein soll.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/video/video-1680854.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T16:44:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "189b4c7faa749674",
+   "k": "usa",
+   "titel": "Secret Service arrests two after car crash and barricade breach outside White House",
+   "t": "Der Secret Service hat zwei Personen nach einem Autounfall und dem Durchbrechen einer Absperrung vor dem Weißen Haus festgenommen.",
+   "e": "",
+   "s": 7,
+   "link": "https://www.foxnews.com/politics/secret-service-arrests-two-car-crash-barricade-breach-outside-white-house",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T16:43:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "456a5bcb99761648",
+   "k": "deutschland",
+   "titel": "Gedenkan an 88. Jahrestag der NS-Pogromnacht",
+   "t": "Bundesweit wird des 88. Jahrestags der NS-Pogromnacht gedacht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1680856.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T16:42:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "180f2369fb240310",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Kind soll Halloween-Süßigkeit selbst manipuliert haben - n-tv.de",
+   "t": "In Nordrhein-Westfalen soll ein Kind Halloween-Süßigkeiten selbst manipuliert haben.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnA0MDlvYkdDWTE2Y1FFSDhHTl9GQ2ZtalZyOWQ5RmlRU2VEMEY5S29yNnhhekNQanE1SUVDU2xqTnNPcW93bWVzQlZBa3JNWkpfcHpiZmU3MG40QmxHQTFZM1JOTU5USWw2VmE5dFJKV0lKd0I2dVJEUXdzcGxnVGNVZXZVQ3liUGVpOElOTDVEZEx2UzZmZ2JlSDF4MllXcExfM051UlI3U0NrbGt4VW8tYTU3bkUxUlQ5WVZNNG8?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T16:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e381efe085208ce8",
+   "k": "finanzen",
+   "titel": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+   "t": "Honda investiert drei Milliarden Dollar in ein neues Fahrzeugwerk in Ohio, das ab 2029 Hybridfahrzeuge produzieren soll.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T16:39:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "f1d9c91d3b2496d2",
+   "k": "welt",
+   "titel": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
+   "t": "Die letzte unabhängige russische Zeitung Nowaja Gaseta hat ihren Betrieb eingestellt. Mitbegründer Muratow nennt den Druck des Kremls als Grund.",
+   "e": "Die Einstellung verringert die verbleibende unabhängige Berichterstattung in Russland weiter.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T16:35:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "b26b08a557601eed",
+   "k": "deutschland",
+   "titel": "Krawalle in Frankfurt: Polizei nennt Herkunft der Tatverdächtigen",
+   "t": "Die Polizei hat nach den Krawallen in Frankfurt eine Auswertung zur Herkunft der Tatverdächtigen vorgelegt. Die öffentliche Debatte dazu dauert an.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-polizei-nennt-herkunft-der-tatverdaechtigen-nach-ausschreitungen-201666995.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T16:35:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "15af18fadb74e317",
+   "k": "deutschland",
+   "titel": "Der fatale KI-Effekt für Deutschlands Berufseinsteiger",
+   "t": "Eine Ifo-Studie zeigt, dass KI den deutschen Arbeitsmarkt verändert hat. Unter 25-Jährige geraten dabei stärker unter Druck, ältere Beschäftigte sind kaum betroffen.",
+   "e": "Die Studie deutet darauf hin, dass der Einstieg ins Berufsleben durch KI schwieriger wird, was Bildungs- und Arbeitsmarktpolitik betrifft.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6af1b81dd0fb1ac9ce0ec6c3/ifo-studie-der-fatale-ki-effekt-fuer-deutschlands-berufseinsteiger.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T16:34:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "f10f69773fd5e4d5",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Nach Tod einer 12-Jährigen: Berufungsprozess startet - n-tv.de",
+   "t": "In Nordrhein-Westfalen beginnt der Berufungsprozess nach dem Tod einer 12-Jährigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlBIOVkyU041Qy1IVWZ5MjBkd2VwS0N4Z1hRdkU5OEI2a1RDem83R0FfTlFia3lFQjdKckl6S2xZLXNLTGRZX1JZWnZuTXpFaTNMbXU5Y1RkT3kwTDFOaGN3ZFhNZXlGTFVhOUdyMWNDdGE0MHozYmdkTEt0NVdJaGNsa1pJbWsySkExdm5ydjEzU19FaWtTRVA0WUZzNDdMcmYwWWFiVl9vWEg1QXhrMHc1Q2ZFaTR0NUxr?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T16:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9443efd08e384a44",
+   "k": "welt",
+   "titel": "Frankreich erhöht Mindestlohn nach Protesten – Gewerkschaften bleiben unzufrieden",
+   "t": "Frankreich erhöht den Mindestlohn nach Protesten um rund 24 Euro monatlich. Die Gewerkschaften zeigen sich unzufrieden und kündigen weitere Aktionen an.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/ausland/article6af1f27479e1656222c37e2e/rund-24-euro-mehr-frankreich-erhoeht-mindestlohn-nach-protesten-gewerkschaften-bleiben-unzufrieden.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T16:30:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "faca8ef084c50172",
+   "k": "finanzen",
+   "titel": "Energiekrise: Italien darf mehr Schulden wegen Energiekrise machen",
+   "t": "Die EU erlaubt wegen Rüstungsausgaben und der Energiekrise Ausnahmen von den Schuldenregeln. Nun darf auch Italien mehr Schulden machen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/energiekrise-italien-darf-mehr-schulden-wegen-energiekrise-machen/100268516.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T16:29:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "b2c066c0fd1b6850",
+   "k": "deutschland",
+   "titel": "IG Metall in Bayern und NRW: Keine Annäherung im Metall-Tarifstreit - WirtschaftsWoche",
+   "t": "Im Tarifstreit der IG Metall in Bayern und NRW gibt es keine Annäherung zwischen Gewerkschaft und Arbeitgebern.",
+   "e": "Die Metalltarife betreffen Millionen Beschäftigte in der Industrie, auch im Märkischen Kreis.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHRaY09HbURiV0s2OUl5RURhRmlmenhHZXE0UzZhamQ1TFJOTDR0TVdyM2VJcVRUQ2NYUXNlY25fLXQxcE1xRFREanRBRmg2Wi1VaHY1cHYyMGxnS0d4SDA2bU4wMF90bDRTM3JydjBYNzU3YWJzRlpXcXdBZHpmdDBwTVpkSFp3VGxxRWxNdHFqLWpMTUUxSXdrVmRYa2tOaVRTYlk3dTBrQWJxMlZFQUo5ZkNGMFhXTmVPU3UtcGZzQQ?oc=5",
+   "quelle": "WirtschaftsWoche",
+   "zeit": "2026-11-09T16:29:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "b0000080f2500c2c",
+   "k": "welt",
+   "titel": "Feuer im Bundesasylzentrum in Zürich ausgebrochen",
+   "t": "Im Bundesasylzentrum in Zürich ist ein Feuer ausgebrochen. Feuerwehr und Sanitäter sind im Einsatz, Flammen dringen aus einem Fenster.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/zuerich/zuerich-brand-im-bundesasylzentrum-ld.10058950",
+   "quelle": "NZZ",
+   "zeit": "2026-11-09T16:29:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "956d42796be564e4",
+   "k": "deutschland",
+   "titel": "„Das ist eine Identitätsfrage der deutschen Gesellschaft“",
+   "t": "Vor dem Reichstagsgebäude in Berlin wurde die deutsche Einheitsflagge abgenommen und eine Palästina-Fahne gehisst. CDU-Politiker Rödder spricht von einem Angriff auf die Identität.",
+   "e": "Der Vorfall hat eine Debatte über Symbolik und Protest am Regierungssitz ausgelöst.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af1ee07c422fb6d38f4823b/palaestina-fahne-am-reichstag-das-ist-eine-identitaetsfrage-der-deutschen-gesellschaft.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T16:28:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "fdc1ebd597c1808f",
+   "k": "nrw",
+   "titel": "Iserlohn: „Wenn wir über Menschen sprechen, wird Geschichte nahbar“ - IKZ-Online",
+   "t": "Im Iserlohner Stadtgespräch geht es um die Vermittlung von Geschichte über persönliche Biografien.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlZ0My0za25JYXhsUENVdjdZRWVFUm9CY0p2MHJLN3UwQU5XZExmcVZpbGtUQWxxVFd5cUdmVUE3dU1wQkpEemhDUElKa3lyTTFzY1JsMC1kSmo4LU8td0c3T1hLdi1uSEFkdGVKZi1WUnJHVFJtMVZILVJ1dDd1ekoxWEF3ZlpPcnkxVC14Ym1hZDBsajFYaEZoMU1SV1B6endfMTFURVcwQy13c0pVVDdicC1YY2lfcGQyY0hpQkxIMGUzeEp4Sg?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T16:25:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "8d02ac1c37b86984",
+   "k": "deutschland",
+   "titel": "Ilse Aigner: Merz verkündet CDU-Nominierung für das Amt der Bundespräsidentin",
+   "t": "Bundeskanzler Merz nominiert CDU-Politikerin Ilse Aigner für das Amt der Bundespräsidentin, die Steinmeier nachfolgen soll. Aigner ist CSU-Politikerin.",
+   "e": "Die Nominierung ist die Entscheidung über das höchste Staatsamt in Deutschland und zeigt die Abstimmung zwischen Union und Koalition.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/video/politik/ilse-aigner-merz-verkuendet-cdu-nominierung-fuer-das-amt-der-bundespraesidentin/100268509.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T16:24:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "4ff9e0abbf475f97",
+   "k": "welt",
+   "titel": "Der Papst in Buenos Aires: Leo XIV. kritisiert Javier Mileis soziale Kettensäge",
+   "t": "Papst Leo XIV. kritisiert zu Beginn seiner dreitägigen Argentinien-Reise die Wirtschaftspolitik von Präsident Milei. Die Wirtschaft müsse den Menschen dienen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/papst-in-argentinien-leo-xiv-kritisiert-mileis-sparpolitik-ld.10058762",
+   "quelle": "NZZ",
+   "zeit": "2026-11-09T16:22:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "47a0688b046fb0f5",
+   "k": "nrw",
+   "titel": "Unbekannte sprengen Miet-Toilette in Iserlohn - IKZ-Online",
+   "t": "In Iserlohn haben Unbekannte eine Miet-Toilette gesprengt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmxiV0Q3OXR4SXVUS0hyWnEta2c0OGlUXzdSTHF4QVJnejdiaTNYQVFvenZUckU5UllZSTRxb0FKcHhHZ3NKNkVMNXp2eTZ3ek55MmgzT1FzZGhUN3dTY3dJWUllY0FjS2hLVmJZMFNXanZmTWpTVXhoLXQxUEFBZlZSRFhqNTdWNXJqOFNENG9vTWR1d3VxNEd4YzEzQXNoX19WVy1pdnlrMGNMWlNJ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T16:21:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "5e3fe8fed6e54613",
+   "k": "finanzen",
+   "titel": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+   "t": "Ein Bitcoin-Block hat sich einem Transaktionsrekord von 2015 angenähert, die Gebühren betrugen jedoch nur etwa 180 Dollar.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-09T16:19:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "9032214b47fd17fe",
+   "k": "finanzen",
+   "titel": "Federal Reserve bids $5.5 billion for six-month Treasury bills as US bond market watches Fed activity - Business Upturn",
+   "t": "Die US-Notenbank Fed bietet 5,5 Milliarden Dollar für sechsmonatige Schatzwechsel an.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWlndnktaW94VjN1YjBESVlaV2xoUmhfSEdPcmdOTXVocldEc1lTaGtoRnIxLWNCekZOZk9uWHJfQTJNQXZMVXFTYXZLdTNRUklCelBfbUVXZkg4aWpVNU9icHdyOWhXeVkzMVBmQ0JDZUxiMXZISXQzUXVaNHNDTEdEcmJaY2wzRktmOWxjbWRZT1IyNWdnRkVzUmhWWk9ycllNYVZDcE92Qm1EV0VZa0pUdjRFWmUwWHYzRllTSHZRLWlPa0N1NnY3MDN4MWRJM3NlbFpYaWx3OUJKRXJtMVRDMA?oc=5",
+   "quelle": "Business Upturn",
+   "zeit": "2026-11-09T16:18:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f1a821090e8d62d",
+   "k": "finanzen",
+   "titel": "U.S. Treasury, Fed scrap $250 transaction reporting proposal - TheStreet",
+   "t": "US-Finanzministerium und Fed verwerfen den Vorschlag, Transaktionen ab 250 Dollar zu melden.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWVHcF8xWVFsa1Qyc251RWloNS1IVzdIaDRIalV3UEt6TW9BeFJ2RW8xeUphN2c3cV9qTmh2NTNxcHc5ZGZLSUltb0hwaUJzU3VKWHBhVG0yRWpEenMxb1d5ZXRqQy1lS2stakY1eVpvN2JUR0VaWkI5Y1pVUFB2MHphT1BlZ0JmRVR0V1lpRmNRV3lWaTJ3LVgwenc2QQ?oc=5",
+   "quelle": "TheStreet",
+   "zeit": "2026-11-09T16:14:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "5098ba26edb6772d",
+   "k": "nrw",
+   "titel": "Diebe stehlen Autoschlüssel aus Sporttasche und räumen Wagen aus - IKZ-Online",
+   "t": "In Iserlohn haben Diebe Autoschlüssel aus einer Sporttasche gestohlen und den Wagen ausgeräumt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVRaTEJKcnlqMzZBdGljZE9RdUhVV3dEbkYzTGZlYUR3VEFUQlp3aEdxNzBnYzVYOEdMOXotNGZ0V1JrMmFXaXN3aHVIc3dZb3NLSWRVaEpYQ054Rno1MTN3YXZhNHNiN1dRV2NtTzZpRU01ci1sbTA0c0dibXh2WnJrR0Nfa3QweDRMQTNxdzRRMzVDd1NnN1d3b05iaTB4RjRTSjBmalFuSVB0d0pSNGp5OFZPSHpQYW9qQklIRmR1TmE2bVl4a0puRQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T16:11:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "111b10407e41f54e",
+   "k": "usa",
+   "titel": "All the Republican House members ousted from Congress",
+   "t": "Mindestens 30 republikanische Abgeordnete haben bei den Midterms 2026 ihre Sitze verloren. Die Demokraten gewinnen beide Kammern des Kongresses.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/republican-house-members-ousted-congress",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T16:07:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "3c3eae3b0a21eafe",
+   "k": "finanzen",
+   "titel": "Fed’s Goolsbee Says Officials Must Address Inflation Failure - Bloomberg.com",
+   "t": "Fed-Vertreter Goolsbee fordert, dass die Notenbank das Versagen bei der Inflationsbekämpfung angehen müsse.",
+   "e": "Die Aussage zeigt die anhaltende Debatte in der Fed über Zinskurs und Inflationsziel.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-09T16:06:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "02be4d51a16ad00e",
+   "k": "finanzen",
+   "titel": "NY Fed survey finds Americans more worried over future jobless levels - Reuters",
+   "t": "Laut einer Umfrage der New Yorker Fed machen sich US-Amerikaner mehr Sorgen um künftige Arbeitslosigkeit.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXhtQ01sMkNWc05UbEI3bVUxc2t4ZDM1Vm15aC1iMFV4MXc0OXNsMXpWSmE2TVdzVldTLWljanY5QUlvRm1UUjZ6VEwtZW9uWkZvYVlxczFrY0hjMktLczhmSGdTYmptMGU4YTdjQ3lmZkgwTWl0OWVxUExlV2tYeW45dHNLWjZTdkdoMHlVbVZEUTlXdGNDWjJjSjhETkxoMlJfM3VlVnZsWTFpZHNveE9ZWmg?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-09T16:03:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1c0b43a2ac4712d",
+   "k": "deutschland",
+   "titel": "Die SPD stellt sich gegen Merz’ wichtigsten Verkehrsauftrag",
+   "t": "Die SPD stellt sich gegen Merz' Vorhaben zur Planungssicherheit für Autobahnen und stellt eine neue Bedingung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af1db05d43db387e55071cf/schiene-vs-strasse-die-spd-stellt-sich-gegen-merz-wichtigsten-verkehrsauftrag.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T16:01:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "cf9e8fca8d61765a",
+   "k": "nrw",
+   "titel": "Iserlohn: Straßensperrung auf der Grüner Talstraße in Voßwinkel ab diesen Dienstag, 10.11.2026 - News.de",
+   "t": "Auf der Grüner Talstraße in Voßwinkel (Iserlohn) gilt ab dem 10.11.2026 eine Straßensperrung.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSVpueGlXendTLWpBblVDNlRsTTBLcXNpY0owaGUxVVJhMnJlS2NIZE5IdE5FY05jTTl5ZzE2NkQ0ZkhrWTNSc190UUJ4alhGZmxMcTlLZl9OZFlJcmY4NFB4c3dEMnkxbTVLOFdkYVpYaFRURlF3VmpaSUdCWUhIbzVKQVY1dGpsZmpkeFJWUFU2RWFvSlZJcnJ2OGpRcUN1MlpObldNQjJ5YzBnZlB0ZUtrem9CVjFOb0FYVzJkWU1tc1RJdFpqR3VJeGk1YUZnUzF2YnV0VFFrUXYyN2JSd1Q1aWRKczREQzd1Z3hJRDBxdDU0VkdFaW5KMkgxajE5OWJ1c1Q2VWZseHp3MndBeXNnSG1XNDVvTWlGcVJuRDNId3UyN1ZPMG41MDVyM2p5RVV5Y095bk9UUjZyTjVKUERwc0lwOXFxc1lJbWdCc2k4NzN0SVNKQUF5YjBDMFdjRk5n?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T15:58:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "90db2bc3dee541ad",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Unbekannter schneidet Signalkabel durch - n-tv.de",
+   "t": "In Nordrhein-Westfalen hat ein Unbekannter ein Signalkabel durchgeschnitten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXBELU1EZzJ4cG1WeVRGYnZKV1Rvdm9NcFpvMnFnaVNpY2I2aHU5bVVWUUtIR3RjazJfckhGTktrU20wX2VDYi1iOE1TZmdsYUhKQkZMcmVzZDd2aUlDa2tvb1o1SDVFcTlQZjIyUFJsMXMtZFlmLUpTZUpzbjc3dE9DWC00dUdUR1JYTHZJN2NSME1ZS09HMWlnZ2t0bnRQTV9jdmkyTWZlUQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T15:57:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3ba8403efb8df82b",
+   "k": "nrw",
+   "titel": "Taschendiebe bestehlen fünf Seniorinnen in Iserlohn - IKZ-Online",
+   "t": "In Iserlohn haben Taschendiebe fünf Seniorinnen bestohlen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWpOeDdOUWlhVHozVU1XWWdXN0VCMEp6Vm9UR2hrSzhTUzc5OU41VjRmeGhUaVE2UnFvdW5kRzZ5cjhxeWtHUFF1U2pPR1BNNW9LUXEwVnd2QTZTSl9xRjlSNEl3UTNoaUpOWlhFWXZMeDhXVzBleTVwbDN1cWlVVU9NTDRMZGtLbHVMbGE4NDhUVUdRbTdwS20xYVU0dXV1NkREQU9fM0hPZXFGd1d4UXNzeHJZR0I5?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-09T15:55:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "794a26df6e82c812",
+   "k": "finanzen",
+   "titel": "Chef der Eurogruppe deutet Paketlösung bei EZB-Spitzenpositionen an - FinanzNachrichten.de",
+   "t": "Der Chef der Eurogruppe deutet eine Paketlösung für die Besetzung der EZB-Spitzenposten an.",
+   "e": "Die Besetzung der EZB-Spitze entscheidet über die künftige Ausrichtung der Zinspolitik im Euroraum.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLXV6LVI5Tm50WFJQZjF6ZVg1WkV5eERWdzBFMWZXTWFsTnNLTENRUTNGalI5eTlvSnY5azUzM2NwT0w2TG4tbW5KUmtXMVE5cHg4blh4SVRHalVRcTN1RW5uT1NsNzNkTXhkb0ZBTzBRcElBSEYzU2g2VllDSHZUV19SOFlBTjJKakM1MGZHWVdUbGtIdWNKd3hYdFQ2dGN3YW9WSENrSWlVc042XzRnWlBlSnFXNE5jdExZdFJFSE5pbmJST3RjbGVINXFEdUtrcmdsUw?oc=5",
+   "quelle": "FinanzNachrichten.de",
+   "zeit": "2026-11-09T15:51:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "99d7545eaa4ccac5",
+   "k": "welt",
+   "titel": "Energiesicherheit verdrängt den Klimaschutz als politische Priorität – und die Erneuerbaren boomen",
+   "t": "Auf der Weltklimakonferenz in der Türkei rückt Energiesicherheit vor den Klimaschutz. Erneuerbare Energien verzeichnen dennoch einen Boom.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/international/energiesicherheit-verdraengt-den-klimaschutz-als-politische-prioritaet-und-die-erneuerbaren-boomen-ld.10056502",
+   "quelle": "NZZ",
+   "zeit": "2026-11-09T15:50:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "b38a257e5c664bfb",
+   "k": "finanzen",
+   "titel": "Kleinkinder erkranken an Krebs: Novartis erleidet mit der Gentherapie Zolgensma einen weiteren Rückschlag",
+   "t": "Novartis erleidet mit der Gentherapie Zolgensma einen weiteren Rückschlag, da der Verdacht besteht, dass das Mittel Krebs verursachen kann.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/wirtschaft/kleinkinder-erkranken-an-krebs-novartis-erleidet-mit-der-gentherapie-zolgensma-einen-weiteren-rueckschlag-ld.10058685",
+   "quelle": "NZZ",
+   "zeit": "2026-11-09T15:48:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "b9e7859600dc2dac",
+   "k": "nrw",
+   "titel": "Schalksmühle: Tagesbaustelle auf der A45 auf Höhe Heedfeld am Dienstag - News.de",
+   "t": "Auf der A45 bei Heedfeld (Schalksmühle) gibt es am Dienstag eine Tagesbaustelle.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTXJUd3hSUXZLU1FVaEZGaEhEMVY1c3RZTnNhblh4c2F6Z3BCNTZDbWFuV0QwWk1yZ3BuaGc5Y0ctX2FQeTlSclNrOGpLMzZyVEMxTEpEOWwyZEZfUEpTNlphUENxc2NrRXBzWmtQX0N2WVBuN29EYTFKQVlMeE54c2lhdlRmY2tzRkpxSnY0R0pCX0VsRllzSVZ2cV9Ea1JTUkRHTkpqYnNic0Y4ekRrUVlMWFBCZlZhaDdrUXJSNUM1b2xwSFdmcXE0V2s3SlBVSjBtLUVUQUNYSWJEYjBndHlhVGVaOU9IY0ItSUpNNERQdk9CT0Z5ZW1SSXB2ZVBrYk1BWk04TE41Uk00OVhHTkNTYmRFdUZPYmY4c1VtSkpuWkVCTXA0TVRTNWw5bzY3M1ZRVDhtSW5Ld0pCX1M4?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T15:47:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "22cdf76b5f030f3d",
+   "k": "finanzen",
+   "titel": "Nachfolge bei der Notenbank: Poker um EZB-Spitze: Wer folgt auf Christine Lagarde? - Tagesspiegel",
+   "t": "Nach der Nachfolgesuche bei der EZB wird über die Besetzung der Spitze nach Christine Lagarde verhandelt.",
+   "e": "Die Nachfolge bestimmt, wer künftig über Leitzinsen im Euroraum entscheidet.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTl9mc2p4R1J1UE41TjF4clEyZUJXakdJejF3OWhJM0JINTB2LTh6SVVCUm1rUzUwOEFTZFFhNDFEd1U3TXBvSTBVMnJ4Wmh2eS1nQmU5ZWJwbzRfcUhoRTVST2s5aWFJNkV6UDdBeVhyXzM2UnRjQmE4WnNwWlk0TVVLM2ZDZ3FZeEwwX3hGV1dVRWFsMXplWERrM2lxT2tldG01X0x0bndWQmlqNEZXQUFhcm9OMmFmZUs5LVg5aEJPaDlYdVVkUldvbjI5OGQ3ZHc?oc=5",
+   "quelle": "Tagesspiegel",
+   "zeit": "2026-11-09T15:44:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "9d1c1af7588962a7",
+   "k": "finanzen",
+   "titel": "EZB-Nachfolge: Knot und Hernández de Cos nominiert - ad-hoc-news.de",
+   "t": "Für die EZB-Nachfolge sind Knot und Hernández de Cos nominiert worden.",
+   "e": "Die Personalie entscheidet über die künftige Führung der Europäischen Zentralbank und damit über den Euro-Zinskurs.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm9LVnpfUjF0RmoyV2pNNUpmcjlnS2xuVHZOWk90ZDFyeEdCcE1EWEtpVkg4X2MyVWxYZ091ekN0NjFTbDhraFc1ZG1kUWR6S3g4Y0w5ai1hckl2QWNheHhKVkpuOWlxc3N2Zk16cmlqZ2dnRWRtNmhoUWIxQThtei15cThER0JQaTB0dlBwaG5EUFg3dzdIUWN2TGE?oc=5",
+   "quelle": "ad-hoc-news.de",
+   "zeit": "2026-11-09T15:43:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "9f57cc262a02e247",
+   "k": "finanzen",
+   "titel": "Spanien und Niederlande werben für EZB-Kandidaten - Börsen-Zeitung",
+   "t": "Spanien und die Niederlande werben für ihre Kandidaten für die EZB-Spitze.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUM4ZldreVZsREV2Q1RnMjhSZk42WlZJYU1aOV8xZnAtV0l6RnNVWU04OE1oMEd1RFBKS3NzeXdUZnAtLWg0MGp1M21QcXNIMDVqU2VyeVJKVmFBSEpNNmVwalpDT0IzTFBxbjJ1TFZ1dmF5WU1PNllZMkQxb3VsdGN6UjdJSzFXLUkwcTlIQUxqWUdBNmhnd3pfSFlwZHQzVmc?oc=5",
+   "quelle": "Börsen-Zeitung",
+   "zeit": "2026-11-09T15:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e53d42bca22edc85",
+   "k": "nrw",
+   "titel": "Iserlohn: Dauerbaustelle auf der Grüner Talstraße in Dannenhöfer ab diesen Freitag - News.de",
+   "t": "Auf der Grüner Talstraße in Dannenhöfer (Iserlohn) gibt es ab Freitag eine Dauerbaustelle.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQXNYTkp5OWdkNFo4WTZFLVVGcjFjczA2NklwV1RyOUoxQTctczV1ZWtlaVdkQjc2bGNQVHFjc2dGQ0JDSTBZeDFQNFVJZk9LNGxnS19GMkl1UUZERElvU2FUckZtRUFDbHBpWlRDOXV0RFRCZjNFUVlIa18wYWFkWEx2cFdaY0tfSzVIdHhIdW4zTy13bVMxNThyX1dhVmlaZUY1cXo1YWhNcmt5ckd3eUw0aGZLSTVvazdjSjZaQnVlMlZkZjc3QzVjeGRLbTd1V0dWNlFnS2pwV3lfSzZDQndyemU2M0M4REdqck5CY0hvOFMtblFJazZHSkpaOHQ4a0VXcmpWd2IxcGlVWnhUWnpQcmVzNlczYmVPa1hvZk5MRWZLcVpORmVwTEFGalJycmVCeHhrWHdPSU9yZXFDWHhwNjVhMzNCNTFNeEI5QjQzZG9LSU9IZnd2eVFubmFK?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-09T15:36:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "92b2c2d9cc674776",
+   "k": "finanzen",
+   "titel": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+   "t": "Nach dem Börsengang von SpaceX hat ein gestaffelter Lockup-Plan Sorgen vor großen Kursschwankungen in Indizes abgemildert.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-09T15:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0f6c76881b18df5d",
+   "k": "finanzen",
+   "titel": "Google’s AI chip push adds more pressure on Nvidia",
+   "t": "Googles eigene KI-Chips setzen den Marktführer Nvidia zusätzlich unter Druck.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-09T15:20:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "102e993657461e6d",
+   "k": "finanzen",
+   "titel": "Nvidia Stock Slides After Chip Maker Opens Probe",
+   "t": "Die Nvidia-Aktie fällt, nachdem der Chiphersteller eine Untersuchung gegen Konzernchef Jensen Huang eingeleitet hat. Der Dow Jones legt gleichzeitig um mehr als 600 Punkte zu.",
+   "e": "Die Untersuchung betrifft den weltweit wichtigsten KI-Chiphersteller und ist damit für den Gesamtmarkt relevant.",
+   "s": 8,
+   "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-09T15:10:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a10dac1f3478734f",
+   "k": "welt",
+   "titel": "Rubio blasts Iran’s ‘outrageous and ridiculous’ demands — casting doubt on diplomatic breakthrough",
+   "t": "US-Außenminister Rubio bezeichnet die Forderungen Irans als absurd und lässt Zweifel an einem baldigen diplomatischen Durchbruch aufkommen.",
+   "e": "Die Verhandlungslage mit Iran beeinflusst auch Ölpreis und geopolitische Risikoaufschläge an den Märkten.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/09/us-news/rubio-blasts-irans-outrageous-and-ridiculous-demands/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-09T15:03:29+00:00",
+   "tag": null
+  },
   {
    "id": "be05809028a6c43b",
    "k": "finanzen",
@@ -249,6 +765,18 @@
    "tag": null
   },
   {
+   "id": "12d616adac8a0a6a",
+   "k": "finanzen",
+   "titel": "Quartalszahlen: Unicredit strotzt vor Kraft",
+   "t": "Die Unicredit legt Quartalszahlen vor und will die Commerzbank so schnell wie möglich integrieren. Zudem wird eine rasche Fusion mit der Hypovereinsbank geprüft.",
+   "e": "Die Pläne zur Commerzbank-Integration betreffen den zweitgrößten deutschen Bankenmarkt und sind für Aktionäre und Beschäftigte relevant.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/unicredit-uebertrifft-erwartungen-und-plant-rasche-fusion-mit-hvb-accg-201665509.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-09T14:10:50+00:00",
+   "tag": null
+  },
+  {
    "id": "24bf8c32b746e4e1",
    "k": "welt",
    "titel": "Russland rekrutiert immer mehr Soldaten aus Südostasien. Dagegen wehrt sich nun Indonesien",
@@ -270,6 +798,18 @@
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-09T13:58:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "1fcdfd3b0663e6da",
+   "k": "finanzen",
+   "titel": "Home listings pile up in October, but sellers won't slash prices",
+   "t": "Im Oktober sind die Immobilienangebote in den USA gestiegen, Verkäufer senken die Preise aber kaum.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T13:54:29+00:00",
    "tag": null
   },
   {
@@ -342,6 +882,18 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHUxVjN1V2hGR2dTZ2prbVlVTHAyUUpwM25uV1IyNDNpdzdjdGZFMVpMSWJBM3Vldm9qM2FzVVRMaWtxaWJyUU04c2JLZnlkLVpCY0U4R2h2UkItRi1pMDB0SndNOUh0ZllfU2JMVTY2RkpKVjhVZHBUUVp4dm5sbUpXZFVTSlZ0R19IUFg5Wm84UERCSHRwZDIwN2dkUDdhNHIzZnBIb0hwdHRqLV9xMVEyeTNibm1qTGxjM2cydEdpZ2dEd05JS1BSZ2s2ZmFFZUJCSTdpOGJZdEF4V1E?oc=5",
    "quelle": "News.de",
    "zeit": "2026-11-09T13:26:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "512ee13780dc6fcd",
+   "k": "finanzen",
+   "titel": "Windflaute treibt Strompreise auf bis zu 600 Euro je Megawattstunde",
+   "t": "Eine Windflaute treibt die Strompreise in Deutschland, Großbritannien und den Benelux-Ländern auf bis zu 600 Euro je Megawattstunde. Der britische Netzbetreiber warnt bereits vor Engpässen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/article6af1ad0f79e1656222c37279/erneuerbare-energien-windflaute-treibt-strompreise-auf-bis-zu-600-euro-je-megawattstunde.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-09T13:16:51+00:00",
    "tag": null
   },
   {
@@ -2527,558 +3079,6 @@
    "quelle": "WEB.DE",
    "zeit": "2026-11-08T23:57:18+00:00",
    "tag": null
-  },
-  {
-   "id": "c2d708e60326fec8",
-   "k": "usa",
-   "titel": "Nach Wahlsieg: Wichtiger Demokrat erwartet Untersuchung von Trump-Familie",
-   "t": "Ein wichtiger Demokrat kündigt nach dem Wahlsieg seiner Partei Untersuchungen gegen die Trump-Familie an. Die Demokraten haben in beiden Kongresskammern deutliche Mehrheiten gewonnen. Aus dem Weißen Haus kommt Gegenwind.",
-   "e": "Mit Mehrheiten in beiden Kammern können die Demokraten Ermittlungen und Anhörungen gegen die Regierung deutlich leichter durchsetzen.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/nach-wahlsieg-wichtiger-demokrat-erwartet-untersuchung-von-trump-familie/100268285.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T23:55:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c96e733f51f9f79",
-   "k": "finanzen",
-   "titel": "Rising Rates Cleave AI Infrastructure Stocks (NASDAQ: CRWV, NBIS, MSFT, MU) Into Winners And Losers - Foreign Policy Journal",
-   "t": "Steigende Zinsen trennen KI-Infrastrukturaktien in Gewinner und Verlierer, unter anderem bei CoreWeave, Nebius, Microsoft und Micron.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX0FTSkxfUnJiQkxtRm1kZHpqVDZIZU0tZC0zbkdHUFZuUVo3ZlVteGo0VHZfeC1tU2p0SkgtaW1QZXZ2Wm1TYXhVRk1JRU5KcTEtUTFwYXJQRk1uV3NfYXphRFVXYVpoYTZaNXJXUGYyNkZ1Mi14d0hLcjVJbjlIYTRWS0lkSDRJVWlUTFpnWlJTbF9BMTlYNXM5SmdvWVBhQThXbEVOeDByZlBwSHNtMmZyOUt1R0tKUTNxblRZNjFHZ21Tc1VTZURWeFpKMUN1NnJEOVd4YVowUQ?oc=5",
-   "quelle": "Foreign Policy Journal",
-   "zeit": "2026-11-08T23:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0cec61bb2c262769",
-   "k": "finanzen",
-   "titel": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets - Bloomberg",
-   "t": "Der Goldpreis gibt nach, nachdem starke US-Arbeitsmarktdaten Wetten auf eine Zinserhöhung der Fed im Dezember befeuert haben.",
-   "e": "Erwartungen an höhere US-Leitzinsen belasten in der Regel Gold, das keine Zinsen abwirft, und stärken den Dollar.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5",
-   "quelle": "Bloomberg",
-   "zeit": "2026-11-08T23:40:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "5756f901319e2db5",
-   "k": "finanzen",
-   "titel": "US Money Supply Hits $23.34 Trillion: Why Is Bitcoin Not Following? - BeInCrypto",
-   "t": "Die US-Geldmenge erreicht laut Berichten 23,34 Billionen US-Dollar, während der Bitcoin-Kurs dieser Entwicklung nicht folgt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtOFlpY0tISzJ2aXlzVDhEZ0VPTEllV25fOVJkT0o2VmgwQ09ubExTQkRqeXVqSVlMbTRZZ3hSVGMyYmoxemNmZkxON1A1UFZ5NG9Kc2RsNlUyS2tMazE5RmlTaHkyc0VZYVNJ?oc=5",
-   "quelle": "BeInCrypto",
-   "zeit": "2026-11-08T23:36:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb81f1945a1fe83a",
-   "k": "finanzen",
-   "titel": "US-Wahlergebnisse verändern Zinsaussichten und Ölpreise? - IDNFinancials",
-   "t": "Nach den US-Zwischenwahlen wird diskutiert, wie sich das Ergebnis auf Zinsaussichten und Ölpreise auswirkt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0ZrYThvTnBRc3BwdnQxS0JXNzFKWEd2azVSNks3OC1CbVdEU0hkWjB5QzU3MHJKU1pEeGZwZmdONUhqQ0Y0NGVzNEZqYm03b1BmNjg5cnB2WlpydFRpUUhVQzM2THZucl9RODhRRXVtU0V6d29IaWFMQk5wUzNlYWxEdy05azlMVUlQLUpDb1ZqZ2pDWUczQlJRVEU5c3lDeTY1TkpER0hSdjNHdVE?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-08T23:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0e798312f6f93a8e",
-   "k": "finanzen",
-   "titel": "Australischer Dollar gibt angesichts robuster US-Arbeitsmarktdaten leicht nach und fällt in die Nähe von 0,6850 - DE.COM",
-   "t": "Der australische Dollar hat nach robusten US-Arbeitsmarktdaten leicht nachgegeben und liegt nahe 0,6850 US-Dollar.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGg5TzFRbWstXzROdWFWbldraDlCcU1qeWFkQTFOR2lkSmV3WExzcWh4NW0yUW1BaWg0SFJLWVZoMVJFcG9WZm93S2FkY1QxMkFrMWNPbjlDZzdSbm94M1BxaEItTXN0TDFfd2M1MHJ2OGlPa3NfXzZtLVFQc0RnTnhCX3dWNFhKZTdGNlpzdGxqN0dzTU1Fd0NpVmp3enNUc3VlTG9fUkw4bzJfblh4VlUxYWRZR3FQa3ZnQlhVcTNncjQwUGc?oc=5",
-   "quelle": "DE.COM",
-   "zeit": "2026-11-08T23:19:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "acba0e9c619b13b1",
-   "k": "finanzen",
-   "titel": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-   "t": "Nvidia hat eine Untersuchung gegen Gründer und Konzernchef Jensen Huang eingeleitet. Hintergrund ist der Verdacht, er habe eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt.",
-   "e": "Die Untersuchung betrifft den Chef des weltweit wertvollsten Chipkonzerns, dessen Entwicklungen für KI-Rechenzentren zentral sind.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T23:11:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "3923494628f4a7e2",
-   "k": "usa",
-   "titel": "DeSantis says ‘corporatist Republicans’ drive young voters toward socialism after GOP’s midterm disaster",
-   "t": "Florida-Gouverneur DeSantis kritisiert, dass 'Unternehmenslobbyisten-Republikaner' junge Wähler in Richtung Sozialismus treiben. Anlass ist die schwache Republikaner-Bilanz bei den Zwischenwahlen.",
-   "e": "",
-   "s": 3,
-   "link": "https://nypost.com/2026/11/08/us-news/florida-gov-ron-desantis-says-corporatist-repulicans-drive-young-voters-toward-socialism-after-midterm-disaster/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-08T23:02:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "4f06e1fc525fdf01",
-   "k": "welt",
-   "titel": "Papst auf Reisen: Papst Leo fordert in Argentinien mehr Rücksicht auf Schwache",
-   "t": "Papst Leo XIV. hat in Argentinien mehr Rücksicht auf Schwache gefordert. Der Besuch findet auf Einladung von Präsident Milei statt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/papst-auf-reisen-papst-leo-fordert-in-argentinien-mehr-ruecksicht-auf-schwache/100268282.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T23:02:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "4c7fc304258822b1",
-   "k": "finanzen",
-   "titel": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-   "t": "Vitalik Buterin will Ethereum stärker als Wertspeicher positionieren. Der Kryptomarkt zeigt sich nach den US-Zwischenwahlen laut Bericht unsicher.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-08T22:59:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "94ebb5f76725ffa4",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Polizei hält 300 Leverkusen-Fans fest - tagesschau.de",
-   "t": "In Nordrhein-Westfalen hat die Polizei rund 300 Fans von Bayer Leverkusen festgehalten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2pEQzBYcjFzbTZoaWlxejloRFJZcVoxQ2twRk1SekRubHFLaExxXzRoRDZjLUpLem1RTGNJSVdsRHdwZVlsSW1palRqY3kyVGEtV1NrcGpqU3ktSjlyTjFLSGtvbmhGaERUaFR1MDNDc3dYcUFaalNjOTJnUEtCRHVGcFVFSkVBN1hUQkhHN3NTWE84OFBrM1F4V0x3UmFUY193WHZ4QUJmdUpaNnljRUpZaExfNEp3Y0o5X1hXX1dKYzdRUmt0Z1lfSWkxQ20xUzFV?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-08T22:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "38d7fcd9df3cca4e",
-   "k": "usa",
-   "titel": "Elon Musk’s Austin home targeted by well-funded leftist groups aboard party buses",
-   "t": "Vor dem Haus von Elon Musk in Austin hat es laut Bericht eine Protestaktion gegen ihn gegeben, die von drei linksgerichteten Non-Profit-Organisationen organisiert wurde.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/far-left-groups-56-1m-revenues-target-musks-austin-home-mass-produced-signs-vilifying-him",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-08T22:41:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "88f10b66582600fd",
-   "k": "usa",
-   "titel": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land",
-   "t": "Das US-Militär ergänzt die Seeblockade gegen iranische Ölexporte um Maßnahmen an Land. Laut Bericht soll damit die Lieferung von Waffen in den Iran unterbunden werden (Operation „Iron Gate“).",
-   "e": "Die Ausweitung der Blockade auf das Festland erhöht die militärische Eskalationsstufe im Iran-Konflikt und betrifft Öl- und Rohstoffmärkte.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land/100268278.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T22:08:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "b26d68b15a5990fb",
-   "k": "finanzen",
-   "titel": "Democrats Slam the Door On Trump’s Fed Plans - Political Wire",
-   "t": "Demokraten lehnen Pläne von Präsident Trump zur Fed ab. Details zu den Plänen werden in der Meldung nicht genannt.",
-   "e": "Die Debatte betrifft die Unabhängigkeit der US-Notenbank Fed, die für Zinsen und Anleihemärkte zentral ist.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmZYbHlXTEs4c1NkLUozZklFRE9TbEVZWmxjZ0E0X04zU1A4YUpXQTB3NE84R0tmMDc0Q2lGRDYtM2FIeGo0MW5hRk1laU5qOFV2enBVaC1WUl9ZbGh0bU9NNC1SNHNmVHBJaHM5c3lLckFvUV9Zd2pHQXdzeWlCanUxRjRKUGdO?oc=5",
-   "quelle": "Political Wire",
-   "zeit": "2026-11-08T21:20:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "d56a994b2a88518b",
-   "k": "usa",
-   "titel": "NY Dem Suozzi warns party against impeaching Trump again: ‘Waste of time’",
-   "t": "Der Demokrat Tom Suozzi warnt seine Partei davor, ein erneutes Amtsenthebungsverfahren gegen Trump anzustreben.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/08/us-news/ny-dem-suozzi-warns-party-against-impeaching-trump-again-waste-of-time/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-08T21:18:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "3a8bcdcb93720559",
-   "k": "finanzen",
-   "titel": "Jensen Huang: Nvidia prüft Berichte zu ausländischer Spionage gegen Konzernchef",
-   "t": "Nvidia prüft Medienberichte, wonach Konzernchef Jensen Huang eine außereheliche Beziehung zu einer Frau hatte, die laut US-Behörden vom chinesischen Geheimdienst angeworben worden sein könnte. Huang bleibt im Amt und kooperiert mit der Untersuchung.",
-   "e": "Der weltgrößte Chiphersteller ist ein Schwergewicht im Nasdaq; Fragen zu Geschäftsgeheimnissen und Sicherheit berühren den Konflikt USA–China um Halbleiter.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-jensen-huang-201664216.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T21:12:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "3915d6befc1f5dfb",
-   "k": "usa",
-   "titel": "California DA goes ballistic over Gavin Newsom’s death row bombshell, vows to keep seeking executions",
-   "t": "Gouverneur Gavin Newsom hat die Todesstrafen von 548 Verurteilten in Kalifornien umgewandelt. Der Bezirksstaatsanwalt von San Joaquin County kritisiert dies scharf und kündigt an, weiter Hinrichtungen zu beantragen.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/08/us-news/california-da-blasts-gavin-newsoms-death-row-commutations/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-08T21:04:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "1198ee244efc534f",
-   "k": "finanzen",
-   "titel": "FinCEN Withdraws Proposed Crypto Travel Rule Expansion in Separate November Move - TradingView",
-   "t": "Die US-Behörde FinCEN hat einen Vorschlag zur Ausweitung der Travel-Rule für Krypto-Transaktionen zurückgezogen.",
-   "e": "Die Travel-Rule verpflichtet Krypto-Dienstleister zur Weitergabe von Absenderdaten; ein Rückzug lockert die Regulierung im Kryptobereich.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPalFTV3FsR1lhRFY1V29qbXBLMmtnUF80V0lmQVhLd2VfOGdTcGUyNmEzWkZ2T05FREpmMDJfWWtNWlcwOXpjcGdaOC1QMW5MbC1Ea280RkFkQWlITC1CWUs2VW9NZ3Q1MkpsbkhHNEloOFdEY2plM2lUX25vQ0xYdF9BVTVQamkwM3JyUlpsQndpMENMWFhvN1VhLVFGQzVHMG9abmVReDBrUFlza2FVc0lxRld3QzJES0hfLWw0NXcyTWFGbGpkenBFVmpzTEN3bkhnbg?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-08T21:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "872bf2409561e2b9",
-   "k": "finanzen",
-   "titel": "The market bloodbath just exposed Wall Street's true fears about U.S. debt, top economist warns - Fortune",
-   "t": "Ein Ökonom sieht in den jüngsten Kursverlusten an der Wall Street Sorgen des Marktes um die US-Staatsverschuldung.",
-   "e": "Zweifel an der Tragfähigkeit der US-Staatsfinanzen können Zinsen für US-Staatsanleihen beeinflussen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVFRa2tNVUgxVHFMRy1ub243MW1jM01PaVBiSlg2dll1bFdWUGpGaVhHSHhkSGxRWTBYQ0RDWGY5bmk3Y1RwTmRveFp1NlFTMXRSNllkT2hZUVdHMnp2NmxoZ2kyMUwzU1RIMnJnTjZCMzFsQVUzOXJ1amkzRVVVRmc4ZllBX2paalB5TzIySHRNSUk2MkM1MXVsZF9uZw?oc=5",
-   "quelle": "Fortune",
-   "zeit": "2026-11-08T20:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a7e9b579e49261fd",
-   "k": "usa",
-   "titel": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover",
-   "t": "Der stellvertretende Stabschef des Weißen Hauses, Richard Walters, verlässt sein Amt; Nachfolger wird Stephen Miller.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/deputy-white-house-chief-staff-richard-walters-exits-job-ahead-stephen-miller-takeover",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-08T20:43:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "310cfa6841ef2126",
-   "k": "deutschland",
-   "titel": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
-   "t": "Unionsfraktionschef Frei lehnt die geplante Plastiksteuer ab, während SPD-Fraktionschef Miersch auf laufende Verhandlungen verweist.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T20:38:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "575cc88483fb6a8e",
-   "k": "welt",
-   "titel": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-   "t": "Starker Regen hat Teile des Gazastreifens überschwemmt; laut Gesundheitsministerium haben rund eine Million Vertriebene kein Dach mehr über dem Kopf.",
-   "e": "Hilfsorganisationen warnen vor einer weiteren humanitären Katastrophe in dem ohnehin zerstörten Gebiet.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T20:15:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "21fa212160712396",
-   "k": "welt",
-   "titel": "+++ Iran-Krieg +++: Irak – Einigung mit USA über Ölexporte durch Straße von Hormus",
-   "t": "Irak und die USA haben sich über Ölexporte durch die Straße von Hormus geeinigt, während die Lage mit dem Iran angespannt bleibt.",
-   "e": "Die Straße von Hormus ist ein zentraler Engpass für den globalen Öltransport, daher beeinflusst die Einigung die Ölmärkte.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irak-einigung-mit-usa-ueber-oelexporte-durch-strasse-von-hormus/100136895.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T20:13:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2a0059141bb4e1cd",
-   "k": "welt",
-   "titel": "+++ Iran-Krieg +++: Trump wird Katars Regierungschef zu Iran-Gesprächen empfangen",
-   "t": "Trump will den Regierungschef Katars zu Gesprächen über den Iran empfangen. Laut Newsblog haben sich der Irak und die USA zudem über Ölexporte durch die Straße von Hormus geeinigt.",
-   "e": "Die Einigung zu den Ölexporten ist für die Energiemärkte relevant, da die Straße von Hormus einer der wichtigsten Engpässe für den globalen Öltransport ist.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-wird-katars-regierungschef-zu-iran-gespraechen-empfangen/100136895.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T20:13:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3bf82b6fbb47a2be",
-   "k": "finanzen",
-   "titel": "Fed Official Questions Stablecoins’ Cash-Out Promise - Coindoo",
-   "t": "Ein fed-naher Beamter stellt das Versprechen von Stablecoins in Frage, jederzeit in Bargeld getauscht werden zu können.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSTlkRHpNTGdIQUR2d2dEWUUxbC01aW1OY1JEc1BKRGR6YXRtTXF5WG1feXlZZUYtemZqVWV0cE5hY2pKYXRNTU9ZbnBvczhhS0pRLTB0THg5ckxBUU1OcDIwVlk0eGktVll1QXR2TVB4ZkVubWVNT2JZWnA?oc=5",
-   "quelle": "Coindoo",
-   "zeit": "2026-11-08T20:12:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "48f89c067755655a",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Dönerladen-Eröffnung endet mit Polizeieinsatz - tagesschau.de",
-   "t": "In Nordrhein-Westfalen hat die Eröffnung eines Dönerladens zu einem Polizeieinsatz geführt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3JlclJoQ1BJcHQwNk9rNGRDZ1dMRmJiczJ4TWpraEhkRWR5MHZBR1VoTlppOXBHLWt1eTd6QlRsVk83WFFQMUpKYUN4Q0NoVDctZ01UWWs5Um5IdnVkY1JlSG1QeUJVbVRmd3FlcllqaGloV3pvR1JvZkMxUHJrbmVzYTNuZTJpVVRSZmg5aEpLQ3B2NGFjMkNQZUVudl9KQXpkcHIxbVRuekNXa3VId1N5cGxIelVuZUdWWlVaZzJpY1pPY2JCYy1FU2xpZVc1aUdkUDR3TjFjY2p3eXhV?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-08T20:05:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5ba7d20f81c87333",
-   "k": "deutschland",
-   "titel": "CDU/CSU-Fraktionschefs fordern von Merz Stromsteuersenkung für alle und umfassende Sozialreformen",
-   "t": "Die CDU/CSU-Fraktionschefs fordern von Kanzler Merz eine Senkung der Stromsteuer für alle sowie umfassende Sozialreformen.",
-   "e": "Die Forderungen erhöhen den Druck auf die Koalition vor den Haushaltsberatungen und betreffen Strompreise und Sozialabgaben.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/article6af0cbda1125adfe9365d03b/reformforderungen-cdu-csu-fraktionschefs-fordern-von-merz-stromsteuersenkung-fuer-alle-und-umfassende-sozialreformen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T19:59:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "f009a83472ac4930",
-   "k": "finanzen",
-   "titel": "Welche Branchen wachsen: Aufschwung – echt jetzt?",
-   "t": "Die deutsche Wirtschaft wächst wieder, doch ob der Aufschwung breit und nachhaltig ist, wird nach Branchen differenziert betrachtet.",
-   "e": "Die Konjunktur in Deutschland ist für Beschäftigung, Steuereinnahmen und Haushaltsdebatten zentral.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-wirtschaftsaufschwung-wo-er-ankommt-und-wo-nicht-201626495.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T19:44:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "54d83184fcc4dc8d",
-   "k": "finanzen",
-   "titel": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans - ABC13 Houston",
-   "t": "Die US-Wirtschaft schafft weiterhin Arbeitsplätze, während die Inflation die Kaufkraft vieler Amerikaner verringert.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOE9iTF95Y1owUEk0R0sxWllHa0tmcFdMZ1hFNVRObUF2VzZZcmlsNFgtWFZTSnlHNWZjMFhmaDVMYXQ3akx2Y3BnT0k3XzFGeGozMGszbnFodFJpYzh1WklXSXM4cnBGLTVQUWlJNG1Wc0pMbjJ1WjBHM3BFVDN1UHM0Mk1IeFYwWWFNYWFnaFQ0REljNVNhdV9kbF9FUUZoMTRzUkZCbUVORVVTd3o0WHZ1X0lJdw?oc=5",
-   "quelle": "ABC13 Houston",
-   "zeit": "2026-11-08T19:39:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4c558fb815c9f55",
-   "k": "finanzen",
-   "titel": "Deutsche Bank Aktie: Goldman schraubt das Kursziel hoch - Finanztrends",
-   "t": "Goldman Sachs hat das Kursziel für die Deutsche-Bank-Aktie angehoben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJ3VHVFMUZvcHpQTTIzTGJZbE1kT3c3MHl4eXJ4Yy1fWjc0Sk9xMEhETUFfenhwMGdVQVI5ZVRLLS1SV05IbDRTa0JiNk55T3hPYUY3bXhfMVJYc29BS2lFR0F2Yk1aem12a3pfN1dqX0xtWW00alBVUG9lTHJ6MkMzRmVmS1pIdkRlLQ?oc=5",
-   "quelle": "Finanztrends",
-   "zeit": "2026-11-08T19:35:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "01ba62a338390008",
-   "k": "usa",
-   "titel": "Bundespräsidentin: Erste Frau im Amt – Merz schlägt Aigner als Bundespräsidentin vor",
-   "t": "Der demokratische Fraktionschef Jeffries erklärt, er stimme einem Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth zu.",
-   "e": "Ein mögliches Impeachment eines Kabinettsmitglieds wäre ein ungewöhnlicher Schritt mit Folgen für die Machtverhältnisse im Kongress.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-merz-schlaegt-aigner-als-bundespraesidentin-vor/100268202.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T19:33:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "910bfc42f9f5013f",
-   "k": "finanzen",
-   "titel": "What the election results mean for crypto: State of Crypto",
-   "t": "CoinDesk analysiert, welche Folgen die US-Wahlergebnisse für Krypto-Regulierung und den Sektor haben könnten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-08T19:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4313bbc6099a11a9",
-   "k": "deutschland",
-   "titel": "Deutschland Liveblog: Merz will Aigner als Bundespräsidentin vorschlagen",
-   "t": "Der CSU-Abgeordnete Emde weigert sich, auf sein Mandat zu verzichten. Die BSW-Spitze kritisiert die Nominierung von Constantin Schreiber durch einen Landesverband.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-merz-will-aigner-als-bundespraesidentin-vorschlagen-faz-110093143.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-08T19:29:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c901751bffabea1",
-   "k": "deutschland",
-   "titel": "Merz folgt Söders Vorschlag – Ilse Aigner soll Bundespräsidentin werden",
-   "t": "CDU-Chef Friedrich Merz unterstützt laut Berichten den Vorschlag von Markus Söder, Ilse Aigner als Kandidatin für das Bundespräsidentenamt zu nominieren. Damit zeichnet sich eine parteiübergreifende Lösung ab.",
-   "e": "Mit Aigner würde erstmals eine Frau das Amt der Bundespräsidentin übernehmen, die Entscheidung fällt in der Bundesversammlung.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/deutschland/article6af0cd0280d3a1c6aa66d965/steinmeier-nachfolge-merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-08T19:29:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "4817a58dd5335bc5",
-   "k": "usa",
-   "titel": "California’s new insurance czar reveals massive overhaul to entire industry in the state: ‘No more’",
-   "t": "Kaliforniens neue Versicherungsbeauftragte Jane Kim plant einen staatlich betriebenen Fonds für Waldbrandversicherungen. Das wäre ein deutlicher Bruch mit dem bisherigen Versicherungsmodell des Bundesstaats.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/08/us-news/jane-kim-vows-state-run-wildfire-insurance-fund-for-california/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-08T19:28:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "4001971847fd3a63",
-   "k": "nrw",
-   "titel": "Demo gegen Rechts in Essen, Nordrhein-Westfalen » Gegen die Verschärfung des PsychKG - DemokraTEAM",
-   "t": "In Essen hat eine Demonstration gegen die geplante Verschärfung des Psychisch-Kranken-Gesetzes (PsychKG) in Nordrhein-Westfalen stattgefunden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzbHJFeEhub1doeEhNeTRXRVRCQldEU0JsZmItYXp0ZUNZMC01SGlVR1U2Z1cyLV9nUXJMQzlxZTY3eWpCX01sazBNZm5rUVNlU1pkaVF0UGdLMUNUUmwwOS1mTGhQX2RxbGxpMXpxSWg5Q3VPNkdyZWZSUTNiZw?oc=5",
-   "quelle": "DemokraTEAM",
-   "zeit": "2026-11-08T19:28:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "2eb70cb63359eaeb",
-   "k": "deutschland",
-   "titel": "Mann hisst Palästinenser-Flagge vor Reichstagsgebäude",
-   "t": "Ein Mann hat eine palästinensische Flagge vor dem Reichstagsgebäude in Berlin gehisst.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680466.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T19:24:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "54ab8ddc65c608b9",
-   "k": "welt",
-   "titel": "Zehntausende Menschen demonstrieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
-   "t": "In Amsterdam haben Zehntausende gegen das militärische Vorgehen Israels im Gazastreifen demonstriert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680464.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T19:22:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "cb1fee9ddd6701f0",
-   "k": "welt",
-   "titel": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
-   "t": "Israels Präsident Isaac Herzog hat Oppositionsführer Benny Gantz...",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T19:21:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "7cbffd59fc166534",
-   "k": "welt",
-   "titel": "Nach tödlichen Schüssen in Krakau ermittelt Staatsanwaltschaft wegen Terrorismus",
-   "t": "Nach den tödlichen Schüssen in Krakau ermittelt die Staatsanwaltschaft nun wegen Terrorismus.",
-   "e": "Die Einstufung als Terrorismus verändert die Zuständigkeit und den Umfang der Ermittlungen deutlich.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680448.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T19:18:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "441262094ea5a138",
-   "k": "finanzen",
-   "titel": "Stablecoin growth has stalled. The payments boom hasn't",
-   "t": "Das Wachstum bei Stablecoins hat sich laut CoinDesk verlangsamt, während die Nutzung von Krypto-Zahlungen weiter zunimmt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-08T19:16:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "c6078025c86cf9a9",
-   "k": "usa",
-   "titel": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
-   "t": "Nach den Midterm-Wahlen wollen die US-Demokraten im Kongress die Einwanderungspolitik Trumps sowie mögliche Verfehlungen von Unternehmen und Musk-nahen Akteuren untersuchen. Ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth wird unterstützt.",
-   "e": "Die Kongressmehrheit kann Untersuchungen und Vorladungen durchsetzen, was die Regierung Trump in den kommenden Monaten unter Druck setzen dürfte.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier/100268255.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-08T19:07:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "91b4e1c35f35abd6",
-   "k": "usa",
-   "titel": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-   "t": "Die Demokraten kündigen Untersuchungen des Weißen Hauses und von Unternehmen an, die mit der Regierung zusammenarbeiten. Justizminister Blanche hält dagegen, er könne Abgeordnete überprüfen lassen.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-08T18:57:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "aafb4ed9b0d1c1c3",
-   "k": "deutschland",
-   "titel": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
-   "t": "Die FDP bündelt auf einem digitalen Parteitag ihre Kräfte für die Landtagswahlen im kommenden Jahr. Parteichef Kubicki will die Liberalen als Gegengewicht zur Regierung positionieren.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-08T18:53:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "505c4f0b93424e39",
-   "k": "nrw",
-   "titel": "Iserlohn: Nachbar rettet Seniorin am Sonntagabend aus verrauchter Wohnung - IKZ-Online",
-   "t": "In Iserlohn hat ein Nachbar am Sonntagabend eine Seniorin aus einer verrauchten Wohnung gerettet.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcndiT1JGSkJhY2lYUmdGbFU5d3I2T0VLU2xrTm90amFINzRGeUFUbUczeFM4Y2hSTlVkOGMyWTJoc2N6Q3VyUGRrN1RLVUsyaEtmbG8yUGdKb291TE9XOUJkNk03clRsa2NraGZxNnVSZV81RWIwa1FJcXQtQzQ2Q2hxekRxTkN0SFdRbjRFakhjem8zaDVFaE0yZnN4dzB0bW5ybXRKamtYcWwxYUFTTEQ4NzQ1RkdFbVQ3UzJUWDY4SXVwTl9vTnNTQVNSMkFJNjZj?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-08T18:46:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "64a663df93dd3f87",
-   "k": "welt",
-   "titel": "Opinion | Why the Lights Go Dark in Cuba",
-   "t": "Bei den Kommunalwahlen in Südafrika hat die Regierungspartei ANC eine schwere Niederlage erlitten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-08T18:35:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,17 +3086,17 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 26
+    "n": 31
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3111,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 15
+    "n": 17
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "NZZ",
@@ -3136,17 +3136,17 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 25
+    "n": 23
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 2
+    "n": 0
    },
    {
     "name": "MarketWatch",
@@ -3156,17 +3156,17 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 23
+    "n": 25
    },
    {
     "name": "New York Post Politik",
@@ -3176,7 +3176,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Cointelegraph",
@@ -3191,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 19
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -3201,17 +3201,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 37
+    "n": 40
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 23
    }
   ],
   "markt": [],
