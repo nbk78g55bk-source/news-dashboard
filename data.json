@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-10T01:01:55.128766+00:00",
+ "aktualisiert": "2026-11-10T01:29:58.200253+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.993 $",
-   "delta": -0.2518484402233297
+   "wert": "75.083 $",
+   "delta": 0.3437375296140919
   },
   {
    "name": "Ethereum",
-   "wert": "2.123 $",
-   "delta": -0.9046837911215447
+   "wert": "2.127 $",
+   "delta": -0.07515905254320202
   },
   {
    "name": "Gold",
-   "wert": "4.133 $",
-   "delta": 1.4159880988257711
+   "wert": "4.140 $",
+   "delta": 1.5902255076002847
   },
   {
    "name": "Fed Funds",
@@ -75,6 +75,42 @@
   ]
  },
  "items": [
+  {
+   "id": "39357910ed1cfc17",
+   "k": "welt",
+   "titel": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+   "t": "In Abu Dhabi beginnen trilaterale Gespräche zwischen der Ukraine, den USA und Russland. Die Ukraine äußert sich zurückhaltend zu den Erwartungen.",
+   "e": "Die Gespräche sind für die Frage eines Friedens in der Ukraine zentral, und die Verhandlungen laufen parallel zur Debatte über die europäische Finanzierung der Ukraine-Hilfe.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T01:13:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "64c46f47f3f2919d",
+   "k": "welt",
+   "titel": "Klimaschutz: CO₂‑Emissionen aus fossilen Brennstoffen sinken leicht",
+   "t": "Die weltweiten CO2-Emissionen steigen trotz eines Rückgangs beim Ölverbrauch, wie neue Forschungsdaten zeigen. Die Zahlen liegen vor der Klimakonferenz in der Türkei vor, bei der es um den Ausbau erneuerbarer Energien geht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/klimaschutz-coemissionen-aus-fossilen-brennstoffen-sinken-leicht/100267030.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T01:01:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "d69a93ea06529851",
+   "k": "finanzen",
+   "titel": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
+   "t": "Junge Privatanleger in Asien geraten nach dem Kursrückgang an den Börsen in Schwierigkeiten, berichtet das Wall Street Journal.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-10T01:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "95faf8ecd4ab991b",
    "k": "nrw",
@@ -700,6 +736,18 @@
    "tag": null
   },
   {
+   "id": "5d272c48999ff9ad",
+   "k": "deutschland",
+   "titel": "Deutscher Autozulieferer an Investor verkauft: 450 Jobs fallen weg - BILD",
+   "t": "Ein deutscher Autozulieferer wurde an einen Investor verkauft, wodurch 450 Arbeitsplätze wegfallen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVJfV2dJREVZMldFQmlpTzhGZTdnZjBfbnM3T2RmVFhLcy1NNzAzdHdBd2hQOXZRYzh4WVd2bUo4RnJqZWNTMWZCRkN1N2tiQWczZUprWXZ2N0dKdGJIZE9VenhjQkc1b3FrTkExUUp5YzAzbXhBeHNtRk80U21ObTRHa3RQdXRTYTBkTHNDUklaLW9QVWlTM2I5THZSNlF3ZVY4RFc1WjNjcVVOczhfYlpfa3dhSDlfb1pfSGt1MEQ3OVRncElOSGpmRVBMWkg3YUVJdEZ3?oc=5",
+   "quelle": "BILD",
+   "zeit": "2026-11-09T19:25:32+00:00",
+   "tag": null
+  },
+  {
    "id": "70073437d0ee5604",
    "k": "usa",
    "titel": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
@@ -1045,6 +1093,18 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUtNWVlPVy1UcEpxQzlVbVNEYlcxZ2tiZmFQbnY4RkdsS1lJQVFQdW9MTEtqSnJ2Yl9tWjItLWlMX1JXVVJGVmxTeEtoZVR2LVozM2NqY1ZHUkJsV0dzZGVXV1JOUHhLSi1meUVyU2w1eWFZVHItNHpjR1V0M3c5OXlkMUpnMFY3dFp3ZTA4XzBIb1Y1MWtTdW05Vmx2M09FM3ZZeldBQ0dYZlMzbkFHWGw2WDM?oc=5",
    "quelle": "Bloomberg.com",
    "zeit": "2026-11-09T17:36:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "eebaf5f1fd6bab92",
+   "k": "usa",
+   "titel": "Innere Sicherheit - Zwei Festnahmen nahe dem Weißen Haus - Präsidentensitz kurz abgeriegelt - UNTERNEHMEN-HEUTE.de",
+   "t": "Am Weißen Haus wurden zwei Personen festgenommen, der Präsidentensitz wurde kurzzeitig abgeriegelt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WN0JQODJQOVlrQV9MTm5PZjMyMHk0NHlSS1RMb2NiTmhDc3lyX1dKTmxIMVNrdE5sODR1M0MzVXYwY1BqckVabHlfSjZPVjFncUVIWWl1YmtCekVaU1FWb0RR?oc=5",
+   "quelle": "UNTERNEHMEN-HEUTE.de",
+   "zeit": "2026-11-09T17:34:00+00:00",
    "tag": null
   },
   {
@@ -3014,66 +3074,6 @@
    "quelle": "www.tmgm.com",
    "zeit": "2026-11-09T10:07:25+00:00",
    "tag": null
-  },
-  {
-   "id": "07ade090cedc6f07",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Horringhausen heute, am 09.11.2026 - News.de",
-   "t": "Auf der A45 bei Lüdenscheid nahe Horringhausen gibt es heute eine Tagesbaustelle.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPRlhzS2pleW5wNVFmZVFubS1vOGs1cWJpckUzRGttWGR5X0lIdHpyalZfOEFjOVhFVEg4ODViRld1eVZCNXRrcFJQM3VUeWlxSmZPZ3QxMVdaV2lWc2dsWEhISmk5S1UyXzJEbGZQcThjWElwcW16NjJHNEZySHIzMmdoQjFkMlFiUXNDSmxFLUQ4ZE01RjFjNU9NcjJXVXJXSUQ0eDV3cU12ZWpnanYwX01JaktLRG1OZXlydFV1RnpoMk1jcUx5eElOa2lwQVdsUmF6eGM0NVFaZ2ZIWEthZjAzQkVwcWVnbVlfWXJ6Y2lISU5jZmJ5cXdoeWNDNUNSUnpKTGE1YnBkVWRPNlZsTmtWX0FuNVRNZmxsZW43b1FhdDRDOUtoRWNfZW5iOUI2MWEyT294WFpuTDRtajd3ZXhnWjJsc0dxN0pwWVFNazY?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T10:07:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "cee28599f555cdb5",
-   "k": "finanzen",
-   "titel": "In Deutschland: Vodafone streicht 2300 Stellen",
-   "t": "Vodafone streicht in Deutschland 2300 Stellen. Der Konzern hat sein Geschäft etwas stabilisiert, kämpft aber weiter mit ineffizienten Prozessen und hohen Kosten.",
-   "e": "Der Stellenabbau betrifft den Arbeitsmarkt in Deutschland und zeigt den Sparkurs etablierter Telekomkonzerne.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vodafone-streicht-2300-stellen-in-deutschland-accg-201665118.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T10:02:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "220249a114271ea1",
-   "k": "nrw",
-   "titel": "Meinerzhagen: Tagesbaustelle auf der A45 nahe Willertshagen heute, am 09.11.2026 - News.de",
-   "t": "Auf der A45 bei Meinerzhagen nahe Willertshagen gibt es heute eine Tagesbaustelle.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdC1COXg4TlZkM3NKV1RKb0hHalVxOHIzUHFsc0xjZ3hrZk15MjN1aTFORzhXZ2xLY1RrdXVYWkRhbURnWXNZY2FFWGpHaVZIdEktRGRGRlI4RHIxNmF1Rk5HWV9jWVFVdURXaG05TzBvejhuNmhGSWl1cWp4T3VxN0ZJdjV0b2hjekJMZkNDYXVTam5VcmxEMV9tMGdSdUFiVjhCQTItVnhTZ0dJTWNpM3NieFBpVWloMnZCQnVmQklRZEJ5endINUQ2SHZzZEtCblNYeWVWcUJaMF95T29Jbnk3bFdtTm1aUW92NzBnTTNCdG4tWERia1h4NFFNSzVBRnZtbVM0b2JGRl9Cb2RBbTNCbmRVbW56NERtT2JXQWNBeGV3ekpodW1uNUNXSXNyTE02VU9iUjJvUl9rNDdTTFVLVkZHZ0xCQVlpUTh1cUVOT3dBQld0OGNzT1hLUFBYU2Vn?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T10:02:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4b1081d64f225d1",
-   "k": "usa",
-   "titel": "Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races: 'Closet is full of s—'",
-   "t": "Der US-Kongress kehrt in die Lame-Duck-Phase zurück, mit einer Frist für einen Regierungsstillstand, Farm Bill, Schuldenobergrenze und Führungswahlen vor dem Machtwechsel im Januar.",
-   "e": "Ohne Einigung bis zur Frist droht ein Teil-Shutdown der US-Regierung, bevor die Demokraten im Januar die Kontrolle übernehmen.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-09T10:00:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "f283b5855fcebf47",
-   "k": "finanzen",
-   "titel": "Coinbase gets full U.S. trust charter from federal banking regulator",
-   "t": "Coinbase hat von der US-Bankenaufsicht eine vollständige Trust-Lizenz erhalten.",
-   "e": "Die Lizenz gibt dem Kryptoanbieter einen regulierten Rahmen auf Bundesebene in den USA und ist ein Schritt zur institutionellen Anerkennung.",
-   "s": 6,
-   "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-09T10:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3201,12 +3201,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 26
    }
   ],
   "markt": [
