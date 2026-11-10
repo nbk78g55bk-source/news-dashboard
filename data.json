@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-10T15:01:29.387974+00:00",
+ "aktualisiert": "2026-11-10T17:01:37.729259+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,53 €",
-   "delta": 0.0622777618590753
+   "wert": "128,65 €",
+   "delta": 0.15959567448489143
   },
   {
    "name": "iShares MSCI EM",
    "wert": "44,55 €",
-   "delta": 0.23847259694205203
+   "delta": 0.23172328894538463
   },
   {
    "name": "Deka S&P 500",
-   "wert": "139,64 €",
-   "delta": 0.053736651224745025
+   "wert": "139,88 €",
+   "delta": 0.22211697285923204
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "175,24 €",
-   "delta": -0.48836233600700885
+   "wert": "176,02 €",
+   "delta": -0.04543219803671006
   },
   {
    "name": "Deka DAX",
-   "wert": "231,75 €",
-   "delta": 1.068467909130022
+   "wert": "230,20 €",
+   "delta": 0.39249757359969273
   },
   {
    "name": "Bitcoin",
-   "wert": "74.259 $",
-   "delta": -0.6667641317942421
+   "wert": "72.835 $",
+   "delta": -2.860351851862492
   },
   {
    "name": "Ethereum",
-   "wert": "2.079 $",
-   "delta": -2.1701909720045065
+   "wert": "2.017 $",
+   "delta": -5.346212603756404
   },
   {
    "name": "Gold",
-   "wert": "4.043 $",
-   "delta": -1.7450480009721714
+   "wert": "4.025 $",
+   "delta": -2.177664357759146
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,234 @@
   ]
  },
  "items": [
+  {
+   "id": "4496be8b1e262ed1",
+   "k": "welt",
+   "titel": "Wadephul warnt Iran vor hybriden Angriffen",
+   "t": "Außenminister Wadephul warnt Iran vor hybriden Angriffen. Frankreich macht Iran für Cyberangriffe auf die Kühlsysteme von rund 700 Standorten verantwortlich, Teheran dementiert. Die deutschen Behörden haben sich noch nicht festgelegt.",
+   "e": "Die Vorwürfe betreffen Kühltechnik im Lebensmittelhandel, Frankreich kündigt europäische Sanktionen gegen Iran an.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T16:51:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "41995efdc6085dab",
+   "k": "deutschland",
+   "titel": "„Vertrauen zerstört“ – Berliner Linke-Abgeordnete Emde soll Fraktion verlassen",
+   "t": "Die Berliner Linksfraktion bereitet den Ausschluss der Abgeordneten Vanessa Emde vor. Hintergrund sind antiisraelische Äußerungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6af3490dd7afd5ab8c0528fc/israelfeindliche-aeusserungen-vertrauen-zerstoert-berliner-linke-abgeordnete-emde-soll-fraktion-verlassen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T16:42:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "81106a776e2b655a",
+   "k": "finanzen",
+   "titel": "Fed’s Waller Backs December Rate Hike, Open to Larger Move - Bloomberg.com",
+   "t": "Fed-Gouverneur Waller unterstützt eine Zinserhöhung im Dezember und hält auch einen größeren Schritt für denkbar.",
+   "e": "Die Aussage erhöht die Wahrscheinlichkeit einer weiteren Zinserhöhung der Fed nach dem stärker als erwarteten Inflationsbericht.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-10T16:36:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "62851b7568b1b367",
+   "k": "deutschland",
+   "titel": "Michel Friedman, Günther Jauch und Klaas Heufer-Umlauf wählen Bundespräsidentin mit",
+   "t": "Die Länder entsenden prominente Vertreter zur Bundesversammlung am 30. Januar, die über das Amt des Bundespräsidenten entscheidet. Die Union hat Ilse Aigner nominiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6af338d7b9cef129a20e147c/bundesversammlung-michel-friedman-guenther-jauch-und-klaas-heufer-umlauf-waehlen-bundespraesidentin-mit.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T16:35:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "a1db6cbc2eb8d7b2",
+   "k": "finanzen",
+   "titel": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
+   "t": "Der Börsengang des KI-Unternehmens Anthropic soll eine Bewertung von über 1,4 Billionen Dollar erreichen. Privatanleger hätten laut CNBC schon früher Zugang zur Aktie gehabt.",
+   "e": "Der Börsengang gilt als Test dafür, wie stark die Märkte an die Zukunft der KI-Technologie glauben.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-10T16:30:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ca0dd34f46b5c88",
+   "k": "finanzen",
+   "titel": "Fed-Vertreterin Logan fordert mindestens zwei weitere Zinsschritte - TradingView",
+   "t": "Fed-Vertreterin Logan spricht sich für mindestens zwei weitere Zinserhöhungen aus.",
+   "e": "Die Aussage verschiebt die Erwartungen an die Zinspolitik der US-Notenbank nach oben.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtc2FsbXl0ZmE2S19RSm9JcFpQUkdWcjlxUldNSlRGSlpRdVZ6WDYwLUREQS13N1dwc3BzRGdUQld1d09EOGZSaHhMbWlUb0NPbWpIUHp5Wmc5Z05NNmFBc29jc2lGTEt5bndMdjFZNlJfeC1nMFBv?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-10T16:28:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "7921f5572387bf4a",
+   "k": "finanzen",
+   "titel": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report",
+   "t": "Die Rendite zehnjähriger US-Staatsanleihen steigt nach dem heißeren Inflationsbericht wieder nahe 5 Prozent, Aktien geben nach.",
+   "e": "Steigende Langfristrenditen verteuern Kredite und belasten die Bewertungen am Aktienmarkt.",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-10T16:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "797080cf211d3184",
+   "k": "finanzen",
+   "titel": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+   "t": "Bitcoin nähert sich nach dem stärker als erwarteten US-Inflationsbericht einem Elf-Wochen-Tief.",
+   "e": "Höhere Zinserwartungen belasten risikoreiche Anlagen wie Kryptowährungen.",
+   "s": 6,
+   "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-10T16:25:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "a9f10edbe0750587",
+   "k": "finanzen",
+   "titel": "Nvidia spy case exposes how foreign agents target America’s corporate elite: 'He is compromised'",
+   "t": "Nvidia-Chef Jensen Huang hat sich bei Mitarbeitern für eine Affäre entschuldigt. Der Verwaltungsrat hat eine unabhängige Untersuchung zu möglichen Verbindungen zu einem mutmaßlichen chinesischen Spion gestartet.",
+   "e": "Die Affäre belastet den wichtigsten Hersteller von KI-Chips, von dem auch Großkunden wie Mercedes abhängen.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/nvidia-spy-case-exposes-foreign-agents-target-americas-corporate-elite-compromised",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-10T16:24:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "f52203430b75c899",
+   "k": "nrw",
+   "titel": "Warsteiner Braugruppe trennt sich von hunderten Mitarbeitern in Nordrhein-Westfalen - n-tv.de",
+   "t": "Die Warsteiner Braugruppe trennt sich von hunderten Mitarbeitern in Nordrhein-Westfalen.",
+   "e": "Der Stellenabbau betrifft die Region Sauerland direkt und zeigt die Lage in der Industrie des Landes.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkxJMW9xRXdmaTVjN0JVQXRaTWxZa2lQNlc0SGZNVFhmOTM5Q1laOHllUnhDR2NQQS04SFMwTDMwOE9ic3lBdlJmSDVTQ3FpbmQtQXgxVWF4eGpndWFnUExuTGQ3VHlkaUZtaVU4WEFEWGstWDExZmlyQjBybWtHdWpqb3VKVnduM0dxZnpjUkpqR3RpbkhOTVZBODJqMVpISHZBd2VPT3dockVjcEhDV3hYTl9jSUxrR3MtYlFTWEtXQjNh?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-10T16:23:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "898e2082ea8db45b",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Weltkriegsbombe in Bochum gefunden - tagesschau.de",
+   "t": "In Bochum wurde eine Weltkriegsbombe gefunden.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd003cElwc19iSjAzVE9JeHV0UFBNTTJkU1pGdjM1LUp1LVVUM192Ql9sZHpQb2hBT2Y4ZHBaQndnMndBQlp1NDZhUjFhMklSSWJfd0ZsUTc3SW5rUkNocUQ5M1pybXhVNG1yZGdNYUttdnBYZ3IydFdQblBwcm56M25ORnpxbjU0dWxYTnNrUGdya3h6SE1ucFZGRUI2UlNCR21kN2ROeUQxeWlDanNBUmRLVlBIakVaaEllMWg2YkpKUkJhQnN1b3l3MVIzZw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-10T16:17:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4042a31f7790e5a",
+   "k": "deutschland",
+   "titel": "Diskussion über bundesweiten Einsatz von \"Handy-Blitzern\"",
+   "t": "Es wird diskutiert, sogenannte Handy-Blitzer bundesweit einzusetzen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1681490.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T16:16:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "89b736417aea1a72",
+   "k": "welt",
+   "titel": "Nach Zugunglück in Spanien: Trauermesse für die Opfer",
+   "t": "Nach dem Zugunglück in Spanien findet eine Trauermesse für die Opfer statt.",
+   "e": "Ein schweres Unglück mit Todesopfern; Details zur Ursache liegen in den Meldungen nicht vor.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1681482.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T16:12:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "7dce25d4382176d6",
+   "k": "finanzen",
+   "titel": "NY Fed finds troubled debt levels ticked up in third quarter - Reuters",
+   "t": "Der Anteil problematischer Schulden in den USA ist laut NY Fed im dritten Quartal leicht gestiegen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelV3WGdkWXIwRXpyakl4OGdEQXl3M0dQbmgyYzF6VWtSa2M1V29JdWYyMmNpZ3p2QkZRSUl6QXBKdUt6ZXk5Zk1KaE51NmpTZGNGNFJhVWtScmhXVW5rd2xtUTJuSktWTFVVT1hCdEtPWTRaWWFIQy1FRnptQkY3V3VJRlZmNkpiaTNfX0o0aTNlUG1rVUI2WHlsVHhRUGpP?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-10T16:10:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "45b71e2cd414de2c",
+   "k": "deutschland",
+   "titel": "Die Berufslehre verliert weiter an Boden",
+   "t": "Der Anteil der Jugendlichen, die eine Berufslehre absolvieren, ist laut Bericht deutlich gesunken.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/schweiz/die-berufslehre-verliert-weiter-an-boden-ld.10059842",
+   "quelle": "NZZ",
+   "zeit": "2026-11-10T15:59:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b098139d8d4d8a3c",
+   "k": "nrw",
+   "titel": "Märkischer Kreis: AOK sucht rauchfreie Schulklassen - Radio MK",
+   "t": "Die AOK sucht im Märkischen Kreis Schulklassen für eine rauchfreie Aktion.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9ad28xZkYxZy1QV01WOTIxRWZTUzlDcWlWMlVTN1RkdDAxSW5jMV9HaFZ5NWZ5UXh5djlydFM0djA5OXExMWV6eHRqMVRRNVlkXzI3dEJIRkx5aEZsY2dnUFF1VmpjOVVVWHR6eDY5N25zMnZ0Y1ZTRkRrMUlaTkZ1WmlzUjFpY0FJZ2VMZUk4OW9Y?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-10T15:58:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce10abc630f75d3e",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Straßensperrung auf der L694 in Schmittehahn ab kommende Woche Montag - News.de",
+   "t": "In Lüdenscheid wird die L694 in Schmittehahn ab kommenden Montag gesperrt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxONmdyemR4QWlWYnIzcHFtSTZndUJGMUF1NUtaM01ULWdVRWRqSnRVamdySmw2WFFwZWhzWEowU0Qzbmw4Q1cyS3dPay02ZWNJSjJieDZZTlF1Mjc0bnFhc2JVLVpneFAzbVFPbWRpZ3FUTktMQzZ4SG5BYmZwMUJzanpWX0hYNDA3aWJRLU1sYXFBbHpZN0hHR0VtNnBVajhjd0JWMTFhUUpFU2poWnJBcU44dm02MDVQRDFiV0s4MFc1bnY2YU95b2JwRG5PYTNXWmltYXZmNW1PemJaREJBT1dFdDJmdkFPWkR0X3pEX3RwNkg1TDMwM2dKVFl2QUpQTklRUWVaUXNERy1kbHE2aHpVZ0l6UmpoV2l3cjJJUWdOY2JQaEhBT3VtOXg2ZzNlR0F0U0owRThjV3Nra092N2VTSXF5S19BMGJEZEtHV1pNZE9zekE3UE9R?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-10T15:52:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "580fe6ea7f7c1ede",
+   "k": "nrw",
+   "titel": "Gegen E-Scooter-Anarchie: Städte in NRW wollen Geschwindigkeit drosseln - Neue Westfälische",
+   "t": "Städte in NRW wollen die Geschwindigkeit von E-Scootern drosseln.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZlVIZzk2a0s3ZlR1cjFlZWJsTzlaQ1VpRGpIT2d0TlZPXzltZVNlRTJxa1dWLUZVLURVUGttanNZLUdtcHFSU1RYWWpxMGg5RDYtM2VobkF5ZXMzVlVLRFRNazVKLWhqWENhWTBROVlRb2doLXpfMDdBcjBBb2g5a2hYT1hkN1o1ODlOYUZuSUtFZGlULTYxV3Q1V2g0RkNfZmd3NkNpdEZRWTRLX0d0NlBPMVJIbEcxNTg2WlI3UXdqNnQxenlDTmt0a0lWZHZiTldCTUU1QQ?oc=5",
+   "quelle": "Neue Westfälische",
+   "zeit": "2026-11-10T15:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ac98a31936c8b5a7",
+   "k": "usa",
+   "titel": "Trump signals surprising approach to choosing his successor as GOP's 2028 field grows",
+   "t": "Trump lässt offen, ob er sich im Vorwahlkampf der Republikaner für 2028 festlegen wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/trump-signals-surprising-approach-choosing-his-successor-gops-2028-field-grows",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-10T15:21:19+00:00",
+   "tag": null
+  },
   {
    "id": "26d3bf5247cb6e63",
    "k": "deutschland",
@@ -277,6 +505,18 @@
    "tag": null
   },
   {
+   "id": "acf70361c04bd852",
+   "k": "deutschland",
+   "titel": "Neue Pläne für Ehepaare – Klingbeil will laut Bericht Steuerklassen III und V streichen",
+   "t": "Lars Klingbeil will laut Bericht die Steuerklassen III und V abschaffen und durch ein automatisches Faktorverfahren ersetzen. Der Vorstoß gilt politisch als heikel.",
+   "e": "Die Reform würde die Besteuerung von Ehepaaren grundlegend verändern.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/article6af3083842c2bfde5b99298b/steuererklaerung-klingbeil-will-laut-bericht-steuerklassen-iii-und-v-streichen.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-10T13:24:53+00:00",
+   "tag": null
+  },
+  {
    "id": "7e79fad8941f436a",
    "k": "usa",
    "titel": "Hegseth rips impeachment effort in first press conference since May: ‘This is not patriotism. This is sabotage’",
@@ -358,6 +598,18 @@
    "link": "https://www.wsj.com/economy/central-banking/bankof-englands-lombardelli-signals-another-rate-rise-likely-in-near-term-baac0950?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-10T12:59:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "31612fb43719549a",
+   "k": "finanzen",
+   "titel": "NAch TechAusverkauf: Sinkender Ölpreis treibt Rekordjagd des Dax an",
+   "t": "Der Dax ist nach dem Ausverkauf bei Techwerten auf Rekordjagd, gestützt durch einen Ölpreis, der seit Ende Oktober um mehr als ein Fünftel gefallen ist.",
+   "e": "Ein niedrigerer Ölpreis entlastet Unternehmen und Verbraucher und wirkt dämpfend auf die Inflation.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-auf-rekordjagd-sinkender-oelpreis-und-ki-comeback-treiben-kurse-accg-201668899.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-10T12:58:02+00:00",
    "tag": null
   },
   {
@@ -1849,6 +2101,18 @@
    "tag": null
   },
   {
+   "id": "137d0bb63dca49a1",
+   "k": "finanzen",
+   "titel": "Frustrierte Maschinenbauer: „Deutschland macht uns fassungslos“",
+   "t": "VDMA-Präsident Bertram Kawlath kritisiert vor dem Branchengipfel den Standort Deutschland scharf und sieht ihn nahe einem Kipppunkt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vdma-praesident-bertram-kawlath-deutschland-macht-uns-fassungslos-accg-201661284.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-10T05:29:52+00:00",
+   "tag": null
+  },
+  {
    "id": "b225417e8fef36be",
    "k": "finanzen",
    "titel": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
@@ -2819,270 +3083,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-09T19:53:00+00:00",
    "tag": null
-  },
-  {
-   "id": "b513b90dfedb4ed5",
-   "k": "welt",
-   "titel": "Auftakt der 31. Weltklimakonferenz im türkischen Antalya",
-   "t": "Die 31. Weltklimakonferenz hat im türkischen Antalya begonnen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681020.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T19:48:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "d8f96349abb629a3",
-   "k": "deutschland",
-   "titel": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
-   "t": "Die Union hat Ilse Aigner offiziell als Kandidatin für das Amt der Bundespräsidentin nominiert.",
-   "e": "Die Nominierung ist ein politisch bedeutender Schritt; Aigner hat sich zudem im Bundestag vorgestellt und einen Besuch bei der AfD-Fraktion abgesagt.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681010.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T19:44:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "eee071ec4cb3306c",
-   "k": "nrw",
-   "titel": "„Die Zukunft braucht uns“: Iserlohner Schüler sprechen am Mahnmal am Poth - IKZ-Online",
-   "t": "Iserlohner Schüler haben am Mahnmal am Poth gesprochen. Thema ist das Gedenken und die Frage, was die junge Generation für die Zukunft leistet.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObkNpWGg4Tm5fOFNQRjg5M1AxbXJjTF9qNlhpS2JmRVQ5UW14eExqaVJOTDB4a0tzVHdSODc0ZFhfZjJWckJ3dm1BNUhhY2RzVllNb0YwRzNVRzh3SGxIV3UtRm10LXVOSmM2Y2ZaMUtCdzlOT2g2RHFGNGhKVlFYR1BhMVJzNkNWb00yaDEtZWY5ZUYtdmM1eGc3SFhnQlZDYWpUeDkyWEFsR0JoNW9kcVFndXJLRHNmaHJBOXVjcVM1NVUzeXhUMkpob2lZTmIwS3c?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-09T19:39:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "7a4aa4556aedf960",
-   "k": "welt",
-   "titel": "tagesschau 20:00 Uhr",
-   "t": "Frankreich macht den Iran für Cyberangriffe auf Kühlsysteme in Supermärkten verantwortlich.",
-   "e": "Cyberangriffe auf Infrastruktur in Europa sind ein sicherheitspolitisches Thema mit Bezug zum Iran-Konflikt.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681028.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T19:38:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "39d0abe9680c14b0",
-   "k": "usa",
-   "titel": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
-   "t": "Senatorin Elizabeth Warren übernimmt den Vorsitz im Bankenausschuss des Senats und hat ihre Agenda vorgestellt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T19:34:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "fbe82e6d8e9458ac",
-   "k": "welt",
-   "titel": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
-   "t": "Papst Leo XIV. feiert in Buenos Aires eine Messe vor rund zwei Millionen Menschen und würdigt die Bedeutung der Familie.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T19:34:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "4e9da53eb2709d16",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Lkw fährt auf Stauende auf - entzündliches Mittel ausgelaufen - tagesschau.de",
-   "t": "Ein Lkw ist auf ein Stauende aufgefahren, dabei ist ein entzündliches Mittel ausgelaufen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLTdVUWR4NEYtQ2taRFFvUlVkOWd5RU9OS2NhQVlkZk4tWnNhcmVtQ2M0MldfUTFpeU5EZkZfano3VWFaNnlwRE1XZmkwemZ5NTZja0lXSlBOVEtTRl9oUG1VdVlyRlpscDRYdnZWY1VhMkVMdkI1V2lmZzdhVGFfRXlUelN1dDBDdGozUlVxeXE5SXFUa1VRSllEcFVXYVZ1bktKZzR4WE11ZFlnUGZZR3o0RDQzaGk1VW1BYmdPQnpRRlZaVnlwYWdGR1RKc0I3QmhiTDhudTVFQUxvZzdvTG5B?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-09T19:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "aba7359c0ea24af7",
-   "k": "deutschland",
-   "titel": "Bevölkerung schrumpft: So viele Wohnungen braucht Deutschland gar nicht mehr",
-   "t": "Wegen der schrumpfenden Bevölkerung wird der Bedarf an neuen Wohnungen in Deutschland deutlich geringer als bisher geplant.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/deutschlands-wohnungsbedarf-sinkt-warum-200-000-neubauten-reichen-accg-201625438.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T19:26:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "8edf2ad1b4d05b50",
-   "k": "welt",
-   "titel": "Envoy Jared Kushner says Trump ‘determined’ to end Ukraine war, as prez tells ‘60 Minutes’ country will be ‘different shape’",
-   "t": "Trumps Sondergesandter Jared Kushner erklärte, Trump sei entschlossen, den Ukraine-Krieg zu beenden. Zeitgleich beginnen zwei Tage Friedensgespräche, unter anderem in Abu Dhabi.",
-   "e": "Die Gespräche finden parallel zu neuen russischen und ukrainischen Angriffen im Grenzgebiet statt; ein Ergebnis ist derzeit offen.",
-   "s": 7,
-   "link": "https://nypost.com/2026/11/09/us-news/envoy-jared-kushner-says-trump-determined-to-end-ukraine-war-as-prez-tells-60-minutes-country-will-be-different-shape/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-09T19:25:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "5d272c48999ff9ad",
-   "k": "deutschland",
-   "titel": "Deutscher Autozulieferer an Investor verkauft: 450 Jobs fallen weg - BILD",
-   "t": "Ein deutscher Autozulieferer wurde an einen Investor verkauft, wodurch 450 Arbeitsplätze wegfallen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVJfV2dJREVZMldFQmlpTzhGZTdnZjBfbnM3T2RmVFhLcy1NNzAzdHdBd2hQOXZRYzh4WVd2bUo4RnJqZWNTMWZCRkN1N2tiQWczZUprWXZ2N0dKdGJIZE9VenhjQkc1b3FrTkExUUp5YzAzbXhBeHNtRk80U21ObTRHa3RQdXRTYTBkTHNDUklaLW9QVWlTM2I5THZSNlF3ZVY4RFc1WjNjcVVOczhfYlpfa3dhSDlfb1pfSGt1MEQ3OVRncElOSGpmRVBMWkg3YUVJdEZ3?oc=5",
-   "quelle": "BILD",
-   "zeit": "2026-11-09T19:25:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "70073437d0ee5604",
-   "k": "usa",
-   "titel": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-   "t": "Trump hat signalisiert, mit den Demokraten über eine Regelung für Migranten zu verhandeln, die seit über zehn Jahren in den USA leben. Im konservativen Lager gibt es dafür scharfe Kritik.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-09T19:25:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "343d4e25a5d494e2",
-   "k": "welt",
-   "titel": "Klimaanpassung: Die EU bereitet sich auf drei Grad Erderwärmung vor",
-   "t": "Die EU bereitet sich auf eine mögliche Erderwärmung von drei Grad vor und setzt verstärkt auf Klimaanpassung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-eu-bereitet-sich-auf-drei-grad-erderwaermung-vor-201642712.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T19:17:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "cd401f964b01326f",
-   "k": "usa",
-   "titel": "Verlacht, verachtet und gefürchtet: Hardliner Stephen Miller übernimmt das Weiße Haus - TZ",
-   "t": "Stephen Miller, als Hardliner bezeichnet, übernimmt laut Medienberichten eine neue, einflussreiche Rolle im Weißen Haus.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVE5sbGJRc094MnRmSVhZTHJMNkZFa1dDN01xSjVKbTJSV1l6TnRRMEptTFVFTzZSMWswd0xHM1JsaWFaM2xrWU1NdkVIcW1aakJBRjBDMllnbGNqZ1JkeEtwTVhxY0h5M0V1cE5WZXpWRi14cDhxUXVzcVlaOWZqNUtjYXFXanRzV2VsaWVQYUtKZXpLeEJJdVh6djVtaUk4NUE?oc=5",
-   "quelle": "TZ",
-   "zeit": "2026-11-09T19:11:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf66a86038583484",
-   "k": "deutschland",
-   "titel": "„Haftstrafe ist die einzige Sprache, die solche Straftäter verstehen“",
-   "t": "Die Polizeigewerkschaft fordert nach einer Flaggen-Aktion am Reichstag Haftstrafen für die Täter und mehr Personal für die Berliner Polizei.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af2146239ea9ae342b207ac/pali-flagge-am-reichstag-haftstrafe-ist-die-einzige-sprache-die-solche-straftaeter-verstehen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T19:08:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b15e694bdb70da8",
-   "k": "usa",
-   "titel": "Schumer's grip on power slips as Dems begin to revolt against him, eye new leadership",
-   "t": "Chuck Schumer soll laut Berichten an Rückhalt bei den Senats-Demokraten verlieren, einige erwägen Alternativen zu seiner Führung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-09T19:08:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "04830ab84828baea",
-   "k": "finanzen",
-   "titel": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-   "t": "Anthropic hat neue Frontier-Modelle veröffentlicht, die ersten seit Amodeis Aufruf zu einer Verlangsamung. Parallel laufen Vorbereitungen für einen erwarteten großen Börsengang.",
-   "e": "Ein möglicher Börsengang des KI-Unternehmens wäre ein wichtiges Signal für die Bewertung der gesamten KI-Branche.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T19:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "e29114a280cb1a6d",
-   "k": "finanzen",
-   "titel": "Goolsbee: Fed muss das Scheitern bei der Inflationsbekämpfung angehen - MarketScreener Schweiz",
-   "t": "Der Fed-Vertreter Goolsbee sieht ein Versagen der Fed bei der Inflationsbekämpfung und fordert, dieses anzugehen.",
-   "e": "Solche Aussagen beeinflussen die Erwartungen an den künftigen Zinskurs der US-Notenbank und damit Anleihen, Aktien und Krypto.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hNU3JsN1drc1N0QVM3Qk1TTVpxdUs4Y3F5dDhGaE5KX3RydHQ5R3NfekNUSWdzcmt0SGQ4czd1dHcybUhZZU1DRDhtckkzSzZMSkZ0aWNmbHBtMWZoTkJHcEFZTVV6dmZGRVhGS2gwNk1PR2k0bmtxd05iUmR5NWdGdG91bDRpNE1xWnp5amJmcm03TmVQODZMTW5WZm0zV0cyb0ZNVDUyMEs3UlRROUtqeGU2TDJaSTYwLUNMNHlieW55VVZRbjg5VzJtamVU?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-09T18:59:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "adb827d8e2f97e61",
-   "k": "finanzen",
-   "titel": "Fed-Mitglied Barkin sieht Zinssätze nahe dem neutralen Niveau, gibt kein Signal für Dezember - TradingView",
-   "t": "Fed-Mitglied Barkin sieht die Zinsen nahe am neutralen Niveau. Ein Signal für eine Zinsentscheidung im Dezember gibt er nicht.",
-   "e": "Die Aussage zeigt, dass die Fed nach der Zinspause abwartet und keine klare Richtung für die nächste Sitzung vorgibt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWDQwdk1ZODVheU93ZU02SnZ5RXBPcTZvWkJTVnR5S0p4a3pRMmVBOHQ2Z3ZFcGw1WkR3bGh6c2FnTS1lNFNpUFpqQWhJcEh5QjFMakNEODdqX2FYbWRRMk8tdC03SHB4?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-09T18:58:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "82247caf9240b89b",
-   "k": "deutschland",
-   "titel": "Linken-Landesvorstand unterstützt Kandidatur von Eva von Angern bei Ministerpräsidentenwahl",
-   "t": "Der Linke-Landesvorstand unterstützt die Kandidatur von Fraktionschefin Eva von Angern für die Ministerpräsidentenwahl. Gegen sie tritt der AfD-Kandidat Ulrich Siegmund an. Im dritten Wahlgang genügt die Mehrheit der abgegebenen Stimmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6af2105179e1656222c3806e/sachsen-anhalt-linken-landesvorstand-unterstuetzt-kandidatur-von-eva-von-angern-bei-ministerpraesidentenwahl.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T18:55:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "2a8b5d3320cbd0e9",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Großvater war NS-Verbrecher - tagesschau.de",
-   "t": "In Nordrhein-Westfalen wird berichtet, dass der Großvater einer Person ein NS-Verbrecher war.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOckFSU0d5WFZBQ1h6NWpJbm5sQlh3V0pKOF9RY0RfTGlGU3dGakNHbXBLaTI2XzVVRjBpUnpBc0l5c01KcWFJZHFXdm9YbEpzZG1IaFZrMzU4X0FTY3U5ZHY5MFZyb3duYmNQRGszY1lENjNBeFlSX2pRdGZZa0IySTN2ZkdXdDhIZldYWnFkQkFDV1psQWpGWERmbkpSdVRFaWdUZGFhTXlyX2Z6aWN3SmwtUF9IYk0wdHF2WVVBRHFxN2VUMWtTNnpXYlo3VERYa2w0WFM1UGlXZVZKdEE?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-09T18:52:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "55d54989f62c71d2",
-   "k": "deutschland",
-   "titel": "„Ich würde eine Wehrpflicht doch nicht aus einer Unwägbarkeit heraus beschließen“",
-   "t": "Der SPD-Politiker Falko Droßmann warnt davor, die Wehrpflicht vorschnell wieder einzuführen. Steigende Bewerberzahlen zeigten, dass das Modell der Freiwilligkeit funktioniere.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af20f2979e1656222c38059/drossmann-gegen-wehrpflicht-ich-wuerde-eine-wehrpflicht-doch-nicht-aus-einer-unwaegbarkeit-heraus-beschliessen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T18:35:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "7b9fdde5b1aaa7c1",
-   "k": "finanzen",
-   "titel": "Fed's Goolsbee says AI spending resembles demand shock - Asset Securitization Report",
-   "t": "Fed-Gouverneur Goolsbee sagt, die Ausgaben für KI wirkten derzeit wie ein Nachfragеschock für die Wirtschaft.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXdPY0dzQkI3YXFIRmlTQjBkbTkyaTRpaERmNGRjYjJuNmF1S3NnaVQ3V3R5SXNYMDRLYnI3S2xrbllnTGxaY1JkNTlFb1ZpbVhsdThqTnBxS1M1YnlfTHdCM3ZGNmg4THMwUTJONEQyZUkzUnVjOVlzVEphdlJVNFJiOW1ibF9lMWtYa3N4Y3JMMHhBVHhBTGtR?oc=5",
-   "quelle": "Asset Securitization Report",
-   "zeit": "2026-11-09T18:35:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3120,17 +3120,17 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 14
+    "n": 16
    },
    {
     "name": "Handelsblatt",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 4
+    "n": 5
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 33
+    "n": 36
    },
    {
     "name": "Google News NRW",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 38
+    "n": 40
    }
   ],
   "markt": [],
