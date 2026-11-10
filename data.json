@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-10T09:42:52.489474+00:00",
+ "aktualisiert": "2026-11-10T11:01:57.284057+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,85 €",
-   "delta": 0.3153043346861839
+   "wert": "128,82 €",
+   "delta": 0.2958407521610251
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "44,56 €",
-   "delta": 0.2609702902642175
+   "wert": "44,49 €",
+   "delta": 0.08323851301903495
   },
   {
    "name": "Deka S&P 500",
@@ -28,23 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.305 $",
-   "delta": 0.08299106689046466
+   "wert": "74.155 $",
+   "delta": 0.11303287197382095
   },
   {
    "name": "Ethereum",
-   "wert": "2.097 $",
-   "delta": -0.4929324470231121
+   "wert": "2.089 $",
+   "delta": -0.7853767118023075
   },
   {
    "name": "Gold",
-   "wert": "4.097 $",
-   "delta": -0.42046421193341343
-  },
-  {
-   "name": "EZB Zins",
-   "wert": "2,50 %",
-   "delta": null
+   "wert": "4.083 $",
+   "delta": -0.7607242678332793
   },
   {
    "name": "Fed Funds",
@@ -54,32 +49,300 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-10T07:01:40.464607+00:00",
+  "slot": 12,
+  "stand": "2026-11-10T11:01:57.284038+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "EZB-Präsidentin Lagarde deutet eine Zinsanhebung an, der EZB-Leitzins liegt bei 2,50 %. Die Fed-Funds-Rate liegt bei 3,88 %, und nach starken US-Arbeitsmarktdaten ist eine Fed-Zinserhöhung im Dezember wahrscheinlicher geworden."
+    "t": "Der Brent-Ölpreis ist erstmals seit August unter 90 US-Dollar je Barrel gefallen, getragen von Hoffnungen auf eine Entspannung im Iran-Konflikt. Gold notiert laut Marktdaten bei 4.083 $ und Bitcoin bei 74.155 $."
    },
    {
     "k": "finanzen",
-    "t": "Zuletzt notierten der Deka DAX mit 229,30 €, der iShares MSCI World mit 128,44 € und der Deka S&P 500 mit 139,56 €. Bitcoin lag bei 74.558 $, Gold bei 4.129 $."
+    "t": "Fed-Gouverneur Waller befürwortet eine Zinserhöhung um 0,25 Prozentpunkte im Dezember und hält bei anhaltender Inflation auch 0,5 Prozentpunkte für möglich. Die Fed Funds Rate liegt laut Marktdaten bei 3,88 %, und die hohe US-Inflation hält die geplante Zinserhöhung im Plan."
+   },
+   {
+    "k": "finanzen",
+    "t": "Der Dow Jones verzeichnet seine dritte Schwankung von 1.000 Punkten innerhalb von vier Tagen. Zu den Kursen zählen Deka DAX 232,05 €, Deka S&P 500 139,93 € und iShares MSCI World 128,82 €."
+   },
+   {
+    "k": "welt",
+    "t": "Ukraine und Russland verhandeln erstmals seit acht Monaten wieder direkt in Abu Dhabi unter US-Vermittlung, Vertreter der EU sind Berichten zufolge anwesend. Die Ukraine äußert sich dabei zurückhaltend zu den Erwartungen."
    },
    {
     "k": "usa",
-    "t": "Trump erklärt den Krieg gegen den Iran für militärisch beendet und hofft auf ein baldiges Friedensabkommen. Die Seeblockade gegen Iran bleibt jedoch bestehen."
-   },
-   {
-    "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang ist in eine Spionageaffäre verwickelt, der Konzern hat eine Untersuchung eingeleitet und die Nvidia-Aktie fällt. Trump zufolge ermittelt das FBI wegen einer mutmaßlichen chinesischen Spionin."
+    "t": "Trump erklärt den Krieg gegen den Iran für militärisch beendet und plant nach eigenen Angaben keine neuen Angriffe. Die Seeblockade gegen Iran bleibt jedoch bestehen."
    },
    {
     "k": "deutschland",
-    "t": "Die Union hat Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominiert, die Steinmeier nachfolgen soll. Die AfD-Fraktion will sich ihr offenbar nicht vorstellen."
+    "t": "Die Union nominiert Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin, Bundeskanzler Merz äußerte sich dazu. Die AfD-Fraktion will sich ihr Berichten zufolge nicht vorstellen."
    }
   ]
  },
  "items": [
+  {
+   "id": "7d08af23426f0a57",
+   "k": "welt",
+   "titel": "Dutzende Verletzte: Elf Tote bei Massenkarambolage auf Autobahn in Bulgarien",
+   "t": "In Bulgarien sind auf einer Autobahn im Südosten Dutzende Fahrzeuge ineinander gekracht. Mindestens elf Menschen kamen ums Leben, zahlreiche wurden verletzt.",
+   "e": "",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/elf-tote-bei-massenkarambolage-auf-autobahn-in-bulgarien-accg-201669209.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-10T10:53:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f68cefcc24ee9d5",
+   "k": "welt",
+   "titel": "In Krakau herrschen nach dem Blutbad Fassungslosigkeit und Schweigen",
+   "t": "Nach einem Blutbad in Krakau nehmen die untereinander zerstrittenen Spitzen des polnischen Staates an einem Trauermarsch teil. Über den Hintergrund der Tat ist bislang wenig bekannt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/bluttat-in-krakau-trauermarsch-vereint-politische-gegner-ld.10059543",
+   "quelle": "NZZ",
+   "zeit": "2026-11-10T10:53:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "be9ac60d07dc5320",
+   "k": "deutschland",
+   "titel": "Arbeitsrecht: Reiche wirbt für längere Arbeitszeit und weniger Kündigungsschutz",
+   "t": "Bundeswirtschaftsministerin Reiche wirbt auf dem Maschinenbau-Gipfel für längere Arbeitszeiten und weniger Kündigungsschutz. Sie fordert mehr Tempo bei Reformen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-reiche-wirbt-fuer-laengere-arbeitszeit-und-weniger-kuendigungsschutz/100268768.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:49:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "9f181d606db1595e",
+   "k": "finanzen",
+   "titel": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
+   "t": "Anthropic hat laut Berichten irrtümlich Unterlagen eines geplanten Börsengangs mit einem Volumen von bis zu 69,3 Milliarden US-Dollar an Banken geschickt und dies danach als Fehler bezeichnet.",
+   "e": "Der geplante Börsengang wäre einer der größten überhaupt und gilt als Stimmungsbarometer für Investitionen in KI.",
+   "s": 6,
+   "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-10T10:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3911501745b8504a",
+   "k": "deutschland",
+   "titel": "Immobilien: Mietsteigerung: In diesen Großstädten wird es besonders teuer – Entwicklung unterscheidet sich regional deutlich",
+   "t": "Laut Verband deutscher Pfandbriefbanken steigen die Mieten in den Großstädten im dritten Quartal 2026 regional sehr unterschiedlich stark.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-die-mieten-in-deutschland-am-staerksten-steigen/100266848.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:46:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b974a0ecae346be5",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Metzgerei in Velbert beschossen: Vandalismus oder Hass? - tagesschau.de",
+   "t": "In Velbert wurde eine Metzgerei beschossen. Die Polizei prüft, ob es sich um Vandalismus oder einen Hass-Hintergrund handelt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWpoRXNMMTRMLXBidWN2U3IxNVNXYkllNGFPYzBWRnZmMGs0RmJXUHIxZVlCeXRrVjBFRUdVc1lCNml4M05vcDl1bERmQkYyNGtGUTJ1M3NlbERKUzNuYzdqT3V4ZVdkeUxuNjZfeUZoa2o2WGE1OFVUQzF3VXo5bXA0Q3ZwTFNJZE1mRGpLbjdIV0FqbndBSGE4djZTdXJPY0Z0amh0c0xBOWFRVGtON1R1eG9rMzZDYjgzbmU0blRwTmxuTWc?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-10T10:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "72ecebebef64e56b",
+   "k": "deutschland",
+   "titel": "Ifo-Institut: Bund nutzt 75 Prozent neuer Schulden für laufende Ausgaben",
+   "t": "Laut Ifo-Institut nutzt der Bund 75 Prozent der neuen Schulden für laufende Ausgaben statt für Investitionen aus dem Infrastruktur-Sondervermögen.",
+   "e": "Wenn Schulden nicht in Zukunftsinvestitionen fließen, belastet das künftige Generationen ohne entsprechenden Mehrwert.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/ifo-institut-bund-nutzt-75-prozent-neuer-schulden-fuer-laufende-ausgaben/100268755.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:43:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "5bd17e36f272c837",
+   "k": "finanzen",
+   "titel": "Fed Governor Christopher J. Waller favors 25 bps rate hike in December; 50 bps may be needed if inflation persists - ANI News",
+   "t": "Fed-Gouverneur Christopher Waller befürwortet im Dezember eine Zinserhöhung um 0,25 Prozentpunkte. Sollte die Inflation hartnäckig bleiben, könnte aus seiner Sicht auch ein Schritt um 0,5 Prozentpunkte nötig werden.",
+   "e": "Die Fed bewegt sich auf weitere Zinsschritte zu, was Aktien, Krypto und Dollar unter Druck setzen kann.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVUtaWxLdmtZVGV6bDBwaDRTRk9saVd1R1FlUXowOVV1eVp6Qks5LWZVN0ZzS0Q1U09yemlnTVZjaEVlempESldNVEo4RE5Fb0R5OTAtU2R2cW5zMnF1SllpTXJUR3BDeWZYUjQ2U1VkZ2kzZ3VkNjRDQzhobEpSaW45NWlTSTlvMmhhYXRqUFNFeWRKRWJlUDdaMmNfR0kxOEZSa1JoS0syVFUtNG84Q3B4akh0dWNQajZ1S05FSlN2RFZYSmFLcjY0dzdNNi1wYmRqLVVvQVBOZkRJeURwajN4TjlkZUZ0blJmdktvMEFuLTFnMmc?oc=5",
+   "quelle": "ANI News",
+   "zeit": "2026-11-10T10:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "acbfa4249a3758e9",
+   "k": "deutschland",
+   "titel": "Versorgung: Bremsen die Länder die Notfallreform aus?",
+   "t": "Die Länder verzögern laut Bericht möglicherweise die Notfallreform, mit der Patienten gezielter an die richtige Versorgungsstelle geleitet werden sollen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/versorgung-bremsen-die-laender-die-notfallreform-aus/100268584.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:40:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "31623a13bbff1820",
+   "k": "finanzen",
+   "titel": "Porsche SE: Krise bei Volkswagen und Porsche reduziert Vermögen der Eigentümerfamilie",
+   "t": "Die Porsche SE muss wegen der Krise bei Volkswagen und Porsche mehrere Beteiligungen massiv abwerten. Das Vermögen der Eigentümerfamilie sinkt dadurch.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobranche-krise-bei-vw-und-porsche-reduziert-vermoegen-der-eigentuemerfamilie/100268469.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:40:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "9bfbd3a992c1d972",
+   "k": "deutschland",
+   "titel": "Arbeitsmarkt: „800.000 Jobs werden in Deutschland aufgrund von KI wegfallen“",
+   "t": "Arbeitsagentur-Chefin Andrea Nahles rechnet damit, dass durch KI in Deutschland 800.000 Jobs wegfallen. Sie drängt auf eine schnelle Work-and-Stay-Agentur für ausländische Fachkräfte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-800.000-jobs-werden-in-deutschland-aufgrund-von-ki-wegfallen-01/100264931.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T10:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce843df648327943",
+   "k": "finanzen",
+   "titel": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
+   "t": "Der Brent-Ölpreis fiel erstmals seit August unter 90 US-Dollar je Barrel. Hintergrund sind Hoffnungen auf eine Entspannung im Iran-Konflikt, nachdem Präsident Trump sich zuversichtlich zu einem baldigen Ende geäußert hat.",
+   "e": "Der Ölpreis reagiert stark auf geopolitische Signale, was Inflation und damit die Zinspolitik der Notenbanken beeinflusst.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-10T10:38:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "22ae00c6f4c65d5e",
+   "k": "nrw",
+   "titel": "Vier junge Menschen sterben bei Autounfall in NRW",
+   "t": "Vier junge Menschen sind im Kreis Soest bei Bad Sassendorf mit ihrem Auto gegen einen Baum geprallt und gestorben. Die Polizei geht von überhöhter Geschwindigkeit als Unfallursache aus.",
+   "e": "Tragischer Unfall im Nachbarkreis, der die Verkehrssicherheit junger Fahrer in NRW erneut in den Blick rückt.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6af2f2c442c2bfde5b992535/16-bis-19-jahre-alt-vier-junge-menschen-sterben-bei-autounfall-in-nrw.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T10:38:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "726341caecdfb49e",
+   "k": "usa",
+   "titel": "Texas governor-elect’s plan to freeze electricity prices raises questions over legal authority",
+   "t": "Die gewählte Gouverneurin von Texas, Gina Hinojosa, will am ersten Amtstag die Strompreise für Haushalte einfrieren. Rechtliche Befugnisse dafür sind umstritten.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/10/us-news/texas-governor-elect-gina-hinojosas-plan-to-freeze-electricity-prices-raises-questions-over-legal-authority/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-10T10:38:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "9e59e7b32dfa51d2",
+   "k": "usa",
+   "titel": "Mike Johnson slams voters for making ‘wrong choice,’ predicts ‘circus’ after GOP’s midterm drubbing",
+   "t": "Der scheidende Sprecher des Repräsentantenhauses, Mike Johnson, kritisiert die Wähler für die falsche Wahl bei den Midterms und erwartet turbulente Wochen im Kongress.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/10/us-news/house-speaker-mike-johnson-slams-voters-for-making-wrong-choice-predicts-circus-after-gops-midterm-drubbing/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-10T10:37:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "2d6864245f9961c7",
+   "k": "deutschland",
+   "titel": "Hamburg: Zwei Verletzte durch Schüsse in der Hafencity",
+   "t": "In der Hamburger HafenCity hat ein Polizeieinsatz begonnen, nachdem Schüsse gefallen sein sollen. Zwei Personen wurden verletzt, die Ermittlungen dauern an.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuesse-in-der-hamburger-hafencity-zwei-menschen-verletzt-accg-201669087.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-10T10:30:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "e2119cf2a597eab4",
+   "k": "nrw",
+   "titel": "BPOL NRW: Bundespolizisten angegriffen und Sprengstoff in der Tasche - Presseportal",
+   "t": "Bundespolizisten wurden in NRW angegriffen. Bei einem Beteiligten wurde Sprengstoff in der Tasche gefunden.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jeG12LUthdGQ2bmhCMUkzS1NMZ2l2b19OZXVsQzhERkhEdnJRTjBEZzNzci10Q3lhaWZpNldQNmtmNXgyRlJ0RXlKbmFhY3BXUVZBXzRxVjVpSk03TkFWZkZVSm4?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-10T10:26:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "3d0701754bf6898f",
+   "k": "deutschland",
+   "titel": "Horror-Crash auf Landstraße: Auto rast gegen Baum – vier Teenager (†19/†18/†16/†16) tot - Rosenheim24",
+   "t": "In Bayern ist ein Auto in der Nähe von Rosenheim auf einer Landstraße gegen einen Baum geprallt. Vier Teenager im Alter von 16 bis 19 Jahren starben.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjBPQkNqS0tkVF9oQ3oxT3RpTDNyQlR3QnQ0QWNSVjdpNVRwSzRYQXc0Wjd4YXR6US1ndktHVVlsZUdlUjdsM00zVS1TT0RjZDh5emtJSlVYVG1fWkVNZFZPWW53bFhfellvN3p2UVVFN1E3UkQ3TkpzRWNObEZSZU5sSmxad05vUGs5RlVGOXpsQml4U3dhTExNQnViTDRiQ2pfSmhjVHlxcjVnVUtkbFU5SzVldGozb2pTdEg3YTdTdG1TSVFObUlBcVp5dTZvbUUydDhTYnBwZw?oc=5",
+   "quelle": "Rosenheim24",
+   "zeit": "2026-11-10T10:06:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b5fdead5d09aaa9",
+   "k": "usa",
+   "titel": "GOP senator withholds support for Thune as leadership showdown looms",
+   "t": "Senator Rick Scott verweigert John Thune die Unterstützung für den Fraktionsvorsitz der Republikaner im Senat, solange kein konkreter Plan für die Sitzungsphase vor der Machtübernahme der Demokraten vorliegt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/gop-senator-withholds-support-thune-leadership-showdown-looms",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-10T10:00:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "b17cdb2a48d81a5b",
+   "k": "usa",
+   "titel": "Trump's Supreme Court majority faces looming threat after Dem Senate takeover: 'Stuck'",
+   "t": "Richter Samuel Alito erklärt, dass er keine Pläne für einen Rücktritt hat. Nach dem Senatssieg der Demokraten steigt jedoch der Druck auf die konservative Mehrheit am Supreme Court.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/trumps-supreme-court-majority-faces-looming-threat-after-dem-senate-takeover-stuck",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-10T10:00:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "dbceb9cfa383c6c4",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 bei Tweer heute, am 10.11.2026 - News.de",
+   "t": "Auf der A45 bei Tweer gibt es am 10.11.2026 eine Tagesbaustelle mit Behinderungen im Verkehr.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWUFwMmppVTY3UHUtRVdvaXB3ZWZNTkQ2a0NwaWN3dFd3bFdMSmpqOWtTRUJPQnNtODVzbXcza09IN0hZNXRBSVNTa1VMbG1VbmhkZTIyWllyOWpoXzloc280bWtvejJXNHNtR05EMy11TDh4TGs4aElrbXFxZzloRVg0X3V1MUxoaVhOdGxUcUNPVXJpWTc0VmN0MjdmUHVtX0VNUjhoZEIwOFkyUXZmcXNXN2pIWEF3bDBuX0E3Z0VCOGdid24xT1cxcmVUaXpIYURpWFFVTzBKTERxWkhwQkpNalZDVE5XVkYtLVJEaWZVUFVmUDF1cFdUWWQ1Vk1KS1F0djRmUUdqWHdFVFl6bm5rMkxXNzBaMHozWU5BNjk2djN0ZmlObkxTd2VNamQ5V0RPSjlsZGhxcWhxSVlMbFZVOWc?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-10T09:57:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "ac9889fcab375300",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Keine Miele-Waschmaschinen mehr in Gütersloh? - tagesschau.de",
+   "t": "In Gütersloh gibt es Berichte, dass Miele-Waschmaschinen nicht mehr produziert werden sollen. Die Hintergründe werden noch geprüft.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXoydDJkeW5RTmhQVzc0eF94LWlBQjZSdkUtOV9IdGtlZEo5X3pJSTlBQ0Zhc1BiY195R01LblB1VVE0ckJ6Q0laR2ZYajdVbXlndEpJcVdyVTVhNmNiZ09uMXU4VnJGbk9ESW1jenFFYmxQenZ6RVpwMGhCUWFUNGJiZW9ENU10dER4R3kzdmxfQjF2OXRjZkRKTGRJQWhCV1k5RWxTTVlvMk1tblhKM3JObm1WSVd2eGFuVlZNS0xQM3Y5eEN6a0J4a3JqSkQ1ajBSQ3NR?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-10T09:47:00+00:00",
+   "tag": null
+  },
   {
    "id": "e5d2c83092b90da2",
    "k": "finanzen",
@@ -465,6 +728,18 @@
    "tag": null
   },
   {
+   "id": "cfb40ddf43e18f07",
+   "k": "nrw",
+   "titel": "Polizei-News Iserlohn, 10.11.26: Falscher Bank-Mitarbeiter erbeutet Geld - News.de",
+   "t": "Ein falscher Bankmitarbeiter hat in Iserlohn Geld erbeutet. Die Polizei warnt vor solchen Betrugsmaschen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUE0ZDlDTUpveVVnejh1VWpZX3EzQmdieXlWUWozRHRFcmRHQlI1Xzljc1NSemtJLWNaUlNEV19YeVZvTmZ6SVRmSHhPMkpOV3hINnI5ME1MWUZNeW1yQVA0QjYwNFp0MGRVM3RMUUtFUkdPZlRRZVYtTjl1akZLT3hEamljVkROUUt6QlJHcDhQSlhZV2xwS3RQd1JpNlJsSnZ5VQ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-10T08:16:02+00:00",
+   "tag": null
+  },
+  {
    "id": "3f4e0348651fa154",
    "k": "welt",
    "titel": "Israels neu gewähltes Parlament kommt erstmals zusammen",
@@ -609,6 +884,30 @@
    "tag": null
   },
   {
+   "id": "9c6efa287e346c4a",
+   "k": "finanzen",
+   "titel": "BMW lässt Schichten in drei Werken ausfallen",
+   "t": "BMW lässt in drei Werken die Produktion ausfallen, weil wichtige Komponenten nicht geliefert werden können. Welche Bauteile betroffen sind, nennt der Konzern nicht.",
+   "e": "Lieferengpässe bei einem großen deutschen Autobauer treffen Zulieferer und Beschäftigte in der Region.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6af2b9570caaf73de09f9798/bmw-laesst-schichten-in-drei-werken-ausfallen.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-10T06:56:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "a47bb0a59dc0da62",
+   "k": "welt",
+   "titel": "26 Prozent ab 800.000 Euro Vermögen – kommt in Italien die Wegzugsteuer?",
+   "t": "Die italienische Regierung plant im Haushalt 2027 eine Sonderabgabe von 26 Prozent für Personen mit Vermögen ab 800.000 Euro, die das Land verlassen.",
+   "e": "Eine Wegzugsteuer dieser Art könnte Kapitalflucht auslösen und die Debatte über Vermögensbesteuerung in Europa anheizen.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6af1929153650a498f207d29/wegzugsteuer-das-plant-italien-fuer-vermoegen-ab-800-000-euro.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-10T06:55:55+00:00",
+   "tag": null
+  },
+  {
    "id": "2627be6a6477c42d",
    "k": "deutschland",
    "titel": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
@@ -618,6 +917,18 @@
    "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-10T06:42:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "43d351056c816957",
+   "k": "finanzen",
+   "titel": "Affäre mit mutmaßlicher Spionin – Sammelklage gegen Nvidia-Chef Jensen Huang",
+   "t": "Gegen Nvidia-Chef Jensen Huang wurde eine Sammelklage eingereicht. Die Kläger werfen ihm und dem Unternehmen vor, Anleger über eine Affäre mit einer mutmaßlichen chinesischen Spionin in die Irre geführt zu haben.",
+   "e": "Der Fall betrifft die Glaubwürdigkeit der Berichterstattung eines der wertvollsten Chip-Konzerne der Welt.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6af2b48bd0fb1ac9ce0ed52b/nvidia-affaere-mit-mutmasslicher-spionin-sammelklage-gegen-konzern-chef-jensen-huang.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-10T06:42:33+00:00",
    "tag": null
   },
   {
@@ -858,6 +1169,18 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-10T04:10:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "f747329259bc0236",
+   "k": "deutschland",
+   "titel": "Landgericht Rostock verkündet das Urteil im Fall Fabian",
+   "t": "Das Landgericht Rostock verkündet das Urteil im Mordprozess um den Tod des achtjährigen Fabian aus Güstrow. Die Angeklagte muss mit lebenslanger Haft oder Freispruch rechnen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/landgericht-rostock-verkuendet-urteil-im-fall-fabian,fabian-284.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T04:08:00+00:00",
    "tag": null
   },
   {
@@ -2755,330 +3078,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-09T16:00:29+00:00",
    "tag": null
-  },
-  {
-   "id": "cf9e8fca8d61765a",
-   "k": "nrw",
-   "titel": "Iserlohn: Straßensperrung auf der Grüner Talstraße in Voßwinkel ab diesen Dienstag, 10.11.2026 - News.de",
-   "t": "Auf der Grüner Talstraße in Voßwinkel (Iserlohn) gilt ab dem 10.11.2026 eine Straßensperrung.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSVpueGlXendTLWpBblVDNlRsTTBLcXNpY0owaGUxVVJhMnJlS2NIZE5IdE5FY05jTTl5ZzE2NkQ0ZkhrWTNSc190UUJ4alhGZmxMcTlLZl9OZFlJcmY4NFB4c3dEMnkxbTVLOFdkYVpYaFRURlF3VmpaSUdCWUhIbzVKQVY1dGpsZmpkeFJWUFU2RWFvSlZJcnJ2OGpRcUN1MlpObldNQjJ5YzBnZlB0ZUtrem9CVjFOb0FYVzJkWU1tc1RJdFpqR3VJeGk1YUZnUzF2YnV0VFFrUXYyN2JSd1Q1aWRKczREQzd1Z3hJRDBxdDU0VkdFaW5KMkgxajE5OWJ1c1Q2VWZseHp3MndBeXNnSG1XNDVvTWlGcVJuRDNId3UyN1ZPMG41MDVyM2p5RVV5Y095bk9UUjZyTjVKUERwc0lwOXFxc1lJbWdCc2k4NzN0SVNKQUF5YjBDMFdjRk5n?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T15:58:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "ba2eb93d5db03c6d",
-   "k": "welt",
-   "titel": "Frankreich: Der einsame Präsident – diese Alleingänge kosteten Macron das Vertrauen",
-   "t": "In Frankreich treffen Ausschreitungen und Streiks auf einen Präsidenten, der nach Berichten kaum noch Rückhalt hat, sechs Monate vor dem Ende seiner Amtszeit.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/frankreich-diese-alleingaenge-haben-macron-das-vertrauen-gekostet-01/100264909.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T15:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a0e05a84b6561842",
-   "k": "deutschland",
-   "titel": "Bundespräsidentenwahl: Unwürdige Präsidentenmacher",
-   "t": "Das BSW wendet sich gegen den Plan des in Sachsen als Wahlmann benannten Journalisten Constantin Schreiber, einen eigenen Kandidaten für das Bundespräsidentenamt zu benennen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/unwuerdig-constantin-schreiber-und-bsw-vor-praesidentenwahl-201666576.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T15:57:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "90db2bc3dee541ad",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Unbekannter schneidet Signalkabel durch - n-tv.de",
-   "t": "In Nordrhein-Westfalen hat ein Unbekannter ein Signalkabel durchgeschnitten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXBELU1EZzJ4cG1WeVRGYnZKV1Rvdm9NcFpvMnFnaVNpY2I2aHU5bVVWUUtIR3RjazJfckhGTktrU20wX2VDYi1iOE1TZmdsYUhKQkZMcmVzZDd2aUlDa2tvb1o1SDVFcTlQZjIyUFJsMXMtZFlmLUpTZUpzbjc3dE9DWC00dUdUR1JYTHZJN2NSME1ZS09HMWlnZ2t0bnRQTV9jdmkyTWZlUQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-09T15:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4352e5d541334ee",
-   "k": "welt",
-   "titel": "Russell Brand zu mehr als zehn Jahren Haft verurteilt",
-   "t": "Der frühere Comedian Russell Brand muss wegen Vergewaltigung und sexueller Nötigung für zehneinhalb Jahre ins Gefängnis, er bestritt die Vorwürfe im Prozess.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T15:56:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "3ba8403efb8df82b",
-   "k": "nrw",
-   "titel": "Taschendiebe bestehlen fünf Seniorinnen in Iserlohn - IKZ-Online",
-   "t": "In Iserlohn haben Taschendiebe fünf Seniorinnen bestohlen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWpOeDdOUWlhVHozVU1XWWdXN0VCMEp6Vm9UR2hrSzhTUzc5OU41VjRmeGhUaVE2UnFvdW5kRzZ5cjhxeWtHUFF1U2pPR1BNNW9LUXEwVnd2QTZTSl9xRjlSNEl3UTNoaUpOWlhFWXZMeDhXVzBleTVwbDN1cWlVVU9NTDRMZGtLbHVMbGE4NDhUVUdRbTdwS20xYVU0dXV1NkREQU9fM0hPZXFGd1d4UXNzeHJZR0I5?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-09T15:55:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "8105c3470cdfa74e",
-   "k": "finanzen",
-   "titel": "Der Börsen-Tag: Lagarde deutet EZB-Zinsanhebung an - n-tv.de",
-   "t": "EZB-Präsidentin Lagarde deutet eine Zinsanhebung der EZB an.",
-   "e": "Ein möglicher Zinsschritt der EZB wäre für Zinsen, Anleihen und Börsen in Europa ein wichtiges Signal.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEtVQXhfUnJseUZ1bWdiZkJpRktOcFlOSGVROC13V1VrbTh4Z3h4UTJrcThoNFlHa2pHanl0ajBCSTRpbXpXWkZCOHdfRThzMFRfRERpbGRvSWdaU05yOHRvX01WaTNBR2VhZm9FOVNQMTlhR0ozMEVreF9oUkgtX2JVWlMwUFVlTFZNMEJnWTVKSlZrOF9PSG84Mkh2Zw?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-09T15:54:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "794a26df6e82c812",
-   "k": "finanzen",
-   "titel": "Chef der Eurogruppe deutet Paketlösung bei EZB-Spitzenpositionen an - FinanzNachrichten.de",
-   "t": "Der Chef der Eurogruppe deutet eine Paketlösung für die Besetzung der EZB-Spitzenposten an.",
-   "e": "Die Besetzung der EZB-Spitze entscheidet über die künftige Ausrichtung der Zinspolitik im Euroraum.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLXV6LVI5Tm50WFJQZjF6ZVg1WkV5eERWdzBFMWZXTWFsTnNLTENRUTNGalI5eTlvSnY5azUzM2NwT0w2TG4tbW5KUmtXMVE5cHg4blh4SVRHalVRcTN1RW5uT1NsNzNkTXhkb0ZBTzBRcElBSEYzU2g2VllDSHZUV19SOFlBTjJKakM1MGZHWVdUbGtIdWNKd3hYdFQ2dGN3YW9WSENrSWlVc042XzRnWlBlSnFXNE5jdExZdFJFSE5pbmJST3RjbGVINXFEdUtrcmdsUw?oc=5",
-   "quelle": "FinanzNachrichten.de",
-   "zeit": "2026-11-09T15:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "99d7545eaa4ccac5",
-   "k": "welt",
-   "titel": "Energiesicherheit verdrängt den Klimaschutz als politische Priorität – und die Erneuerbaren boomen",
-   "t": "Auf der Weltklimakonferenz in der Türkei rückt Energiesicherheit vor den Klimaschutz. Erneuerbare Energien verzeichnen dennoch einen Boom.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/energiesicherheit-verdraengt-den-klimaschutz-als-politische-prioritaet-und-die-erneuerbaren-boomen-ld.10056502",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T15:50:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "b38a257e5c664bfb",
-   "k": "finanzen",
-   "titel": "Kleinkinder erkranken an Krebs: Novartis erleidet mit der Gentherapie Zolgensma einen weiteren Rückschlag",
-   "t": "Novartis erleidet mit der Gentherapie Zolgensma einen weiteren Rückschlag, da der Verdacht besteht, dass das Mittel Krebs verursachen kann.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/kleinkinder-erkranken-an-krebs-novartis-erleidet-mit-der-gentherapie-zolgensma-einen-weiteren-rueckschlag-ld.10058685",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T15:48:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "b9e7859600dc2dac",
-   "k": "nrw",
-   "titel": "Schalksmühle: Tagesbaustelle auf der A45 auf Höhe Heedfeld am Dienstag - News.de",
-   "t": "Auf der A45 bei Heedfeld (Schalksmühle) gibt es am Dienstag eine Tagesbaustelle.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTXJUd3hSUXZLU1FVaEZGaEhEMVY1c3RZTnNhblh4c2F6Z3BCNTZDbWFuV0QwWk1yZ3BuaGc5Y0ctX2FQeTlSclNrOGpLMzZyVEMxTEpEOWwyZEZfUEpTNlphUENxc2NrRXBzWmtQX0N2WVBuN29EYTFKQVlMeE54c2lhdlRmY2tzRkpxSnY0R0pCX0VsRllzSVZ2cV9Ea1JTUkRHTkpqYnNic0Y4ekRrUVlMWFBCZlZhaDdrUXJSNUM1b2xwSFdmcXE0V2s3SlBVSjBtLUVUQUNYSWJEYjBndHlhVGVaOU9IY0ItSUpNNERQdk9CT0Z5ZW1SSXB2ZVBrYk1BWk04TE41Uk00OVhHTkNTYmRFdUZPYmY4c1VtSkpuWkVCTXA0TVRTNWw5bzY3M1ZRVDhtSW5Ld0pCX1M4?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T15:47:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "17365518ec16cfbe",
-   "k": "welt",
-   "titel": "Anschlag in Krakau: Der Täter hatte Hunderte von Patronen im Auto – über das Motiv herrscht nach wie vor Unklarheit",
-   "t": "Bei einem Anschlag in der Krakauer Altstadt gab es ein Blutbad, der Täter hatte Hunderte Patronen im Auto. Das Motiv ist weiterhin unklar, und die Politik streitet über eine mögliche ideologische Ausrichtung.",
-   "e": "Die Menge der Munition zeigt, dass der Angriff noch verheerender hätte ausfallen können; das Motiv ist für die Einordnung der Tat zentral.",
-   "s": 8,
-   "link": "https://www.nzz.ch/international/anschlag-in-krakau-taeter-hatte-hunderte-patronen-motiv-noch-unklar-ld.10058694",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T15:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c638151c7f3e949f",
-   "k": "nrw",
-   "titel": "Einbrecher stehlen Parfums und Schmuck aus zwei Wohnungen in Iserlohn - IKZ-Online",
-   "t": "In Iserlohn sind Einbrecher in zwei Wohnungen eingedrungen und haben Parfums und Schmuck gestohlen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3gzYWF1SW13ZGhWQloya2dtei1rOUNPd09IRUVoTlF3NFVGSTd0a3d3ajZRVjBiNDJJQlphNll3TXEtNEJjRkpUSHozYy1oS25HbXJCWjJVd1BjRkRCOE9xdU1qc0lQdWZsUkZKSHJ1Mi1yZ25JZFI2WHBjZUp4dDRtdGhZODk2bnhxSUNkNFB1YkhIczZtZjlTb3VzZDBHQWIxTlFRMFgwZGNfR05pVml1T282Z2REWl9KMFR6dWhvVmRrcHdNejVMZ3Z1WEk?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-09T15:45:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "22cdf76b5f030f3d",
-   "k": "finanzen",
-   "titel": "Nachfolge bei der Notenbank: Poker um EZB-Spitze: Wer folgt auf Christine Lagarde? - Tagesspiegel",
-   "t": "Nach der Nachfolgesuche bei der EZB wird über die Besetzung der Spitze nach Christine Lagarde verhandelt.",
-   "e": "Die Nachfolge bestimmt, wer künftig über Leitzinsen im Euroraum entscheidet.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTl9mc2p4R1J1UE41TjF4clEyZUJXakdJejF3OWhJM0JINTB2LTh6SVVCUm1rUzUwOEFTZFFhNDFEd1U3TXBvSTBVMnJ4Wmh2eS1nQmU5ZWJwbzRfcUhoRTVST2s5aWFJNkV6UDdBeVhyXzM2UnRjQmE4WnNwWlk0TVVLM2ZDZ3FZeEwwX3hGV1dVRWFsMXplWERrM2lxT2tldG01X0x0bndWQmlqNEZXQUFhcm9OMmFmZUs5LVg5aEJPaDlYdVVkUldvbjI5OGQ3ZHc?oc=5",
-   "quelle": "Tagesspiegel",
-   "zeit": "2026-11-09T15:44:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "9d1c1af7588962a7",
-   "k": "finanzen",
-   "titel": "EZB-Nachfolge: Knot und Hernández de Cos nominiert - ad-hoc-news.de",
-   "t": "Für die EZB-Nachfolge sind Knot und Hernández de Cos nominiert worden.",
-   "e": "Die Personalie entscheidet über die künftige Führung der Europäischen Zentralbank und damit über den Euro-Zinskurs.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm9LVnpfUjF0RmoyV2pNNUpmcjlnS2xuVHZOWk90ZDFyeEdCcE1EWEtpVkg4X2MyVWxYZ091ekN0NjFTbDhraFc1ZG1kUWR6S3g4Y0w5ai1hckl2QWNheHhKVkpuOWlxc3N2Zk16cmlqZ2dnRWRtNmhoUWIxQThtei15cThER0JQaTB0dlBwaG5EUFg3dzdIUWN2TGE?oc=5",
-   "quelle": "ad-hoc-news.de",
-   "zeit": "2026-11-09T15:43:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "9f57cc262a02e247",
-   "k": "finanzen",
-   "titel": "Spanien und Niederlande werben für EZB-Kandidaten - Börsen-Zeitung",
-   "t": "Spanien und die Niederlande werben für ihre Kandidaten für die EZB-Spitze.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUM4ZldreVZsREV2Q1RnMjhSZk42WlZJYU1aOV8xZnAtV0l6RnNVWU04OE1oMEd1RFBKS3NzeXdUZnAtLWg0MGp1M21QcXNIMDVqU2VyeVJKVmFBSEpNNmVwalpDT0IzTFBxbjJ1TFZ1dmF5WU1PNllZMkQxb3VsdGN6UjdJSzFXLUkwcTlIQUxqWUdBNmhnd3pfSFlwZHQzVmc?oc=5",
-   "quelle": "Börsen-Zeitung",
-   "zeit": "2026-11-09T15:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e53d42bca22edc85",
-   "k": "nrw",
-   "titel": "Iserlohn: Dauerbaustelle auf der Grüner Talstraße in Dannenhöfer ab diesen Freitag - News.de",
-   "t": "Auf der Grüner Talstraße in Dannenhöfer (Iserlohn) gibt es ab Freitag eine Dauerbaustelle.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOQXNYTkp5OWdkNFo4WTZFLVVGcjFjczA2NklwV1RyOUoxQTctczV1ZWtlaVdkQjc2bGNQVHFjc2dGQ0JDSTBZeDFQNFVJZk9LNGxnS19GMkl1UUZERElvU2FUckZtRUFDbHBpWlRDOXV0RFRCZjNFUVlIa18wYWFkWEx2cFdaY0tfSzVIdHhIdW4zTy13bVMxNThyX1dhVmlaZUY1cXo1YWhNcmt5ckd3eUw0aGZLSTVvazdjSjZaQnVlMlZkZjc3QzVjeGRLbTd1V0dWNlFnS2pwV3lfSzZDQndyemU2M0M4REdqck5CY0hvOFMtblFJazZHSkpaOHQ4a0VXcmpWd2IxcGlVWnhUWnpQcmVzNlczYmVPa1hvZk5MRWZLcVpORmVwTEFGalJycmVCeHhrWHdPSU9yZXFDWHhwNjVhMzNCNTFNeEI5QjQzZG9LSU9IZnd2eVFubmFK?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T15:36:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "02b94d59120dbd01",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Baustelle auf der Stillekingstraße in Neuenhof in Kürze - News.de",
-   "t": "In Lüdenscheid wird demnächst eine Baustelle auf der Stillekingstraße in Neuenhof eingerichtet.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOV0Zsbm95LV9IZHhvTnJuN015OFlROHYzTnJoZlltNm82eHZGSmdYRXpnVFdTTkZqbDdBTVRYampNQmZ1aTVXcW5LZzNMQVdvbGtYczhxcXBYYWkxMVY1bUFOcTVId28yLTJqYVBsemg2WFB5eXlqUTFRYnVOSTRFWEFkUXY5SlFORTVQMDBDYVM5QWJ4TER1SXJxaUpRWDJXS1h0OS1tV3RmVVFrZTVVeWRia29qaDhPdUttQVAwenFmbDdLWmE5SmNrZlZzYlFsWDFqNHFSdUVYNFhDaUg1YWZlNm8tejlHckllSlZMTC15d04tdC00VGc4Rkd2SVhkTnFrc2hhc3NNX0F0WUM3X3o3WV9YMGRhMG9PLTlWN3ZtRVdXeXRjMm12Y3JGdWVfdXdja3BmV1pmUlhSVTZub3g3SV81LUhIQndCMV85eE9qSVc2bWpqQklSaVdFRmNBS25WZ3Zn?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-09T15:36:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "f13a3794d17eec76",
-   "k": "finanzen",
-   "titel": "Lagarde-Nachfolge offen: Niederlande und Spanien rangeln um EZB-Chefposten - MarketScreener Schweiz",
-   "t": "Die Nachfolge von EZB-Präsidentin Lagarde ist offen, Niederlande und Spanien konkurrieren um den Posten.",
-   "e": "Die Personalie entscheidet mit über die künftige Ausrichtung der EZB-Geldpolitik.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTDRfWXNpUlgzV1NXblJxVFZMMXdiTkF5aUZGOGl4M3ViSnhhTDJlTjBsT3pXblByOFlUek8zaDh5ZjcwQ0RUYm9QU0FnS19RQmZqTWxLcHJvNS16WklVVE90b05YM1Q0ZlJueUxuRGlUcmxHTWdMU3BUSF9fbmVtdndMYndHQkRkMEVXcE1hNzl1YjNqd0ltWDhTQmNzNE83UXU4cjcxS2pKT1dHUXZuN1pmbGJyN0phMndBQTl3T0hRRzNPaWNpWmpTem96N056empsYjlR?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-09T15:35:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "92b2c2d9cc674776",
-   "k": "finanzen",
-   "titel": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
-   "t": "Nach dem Börsengang von SpaceX hat ein gestaffelter Lockup-Plan Sorgen vor großen Kursschwankungen in Indizes abgemildert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-09T15:35:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6c56010af5f3d9e8",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Chips für die Tonne: Müll-Digitalisierung in Bonn stockt - tagesschau.de",
-   "t": "In Bonn stockt die Digitalisierung der Mülltonnen mit Chips.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2NBNWFZamZOMUh4cVFNUW55YjREREFuNXNsMnU3cXNYT2I3Mmc4S0ZmQnVWaHQ3QloxLUp0NzFvdjNvZllWcXdVLTREQVkxbllxMFN6N2lURlVDREQwWE1OWUtOY2ZDQzdNempzV2xtQmZac1EwQ1JVWWVlSzlyQUptbzZfZGxhQ3NVTUdEbWpIUG9fY2JfNGlkRDdFbTU0aXlLdWk1NmRVODBfOXR1ZXgyNmIwd2dUVXpaN0w2VFlBRmExU1FtYnRCYw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-09T15:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8812202e8df25ea6",
-   "k": "finanzen",
-   "titel": "SNB-Leitzins soll laut UBS schon Anfang 2027 ansteigen - Blick",
-   "t": "Die UBS erwartet, dass die SNB ihren Leitzins schon Anfang 2027 anhebt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHlyVVYzX3loc3BqVkVtb3NUMTdKSC0zZEZiaEZTaDFxSDdZS3dzdW1lTGNIQ2dMYTVTRVprSFFHQ01KXzFhT2x5XzcxWXhzQUI0RjlnbUh1cTBTWl90ampobHlod1RRWWNBMkV6ejZUSkRSZ21RODR1aDR2aFM3UW40Ujh4RVpZVlg5cG0td3U4YVp4N1FtQzRMcFJNem8zcXpnak5B?oc=5",
-   "quelle": "Blick",
-   "zeit": "2026-11-09T15:30:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "f8fe89dd62cee031",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: 14-Jähriger im geklauten Mercedes auf der Flucht - tagesschau.de",
-   "t": "Ein 14-Jähriger ist in NRW in einem gestohlenen Mercedes auf der Flucht gewesen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaTgtZkhXczF1M0Y1OXA4TjlsS21WYjFocHFmYVh1NnJVZXliMW4xRlFSbHVqUE5DUlFUZ3U4MFZxMGxvNDJvaE92N29JZkU4OVFqSGFkcHUtRmpEd0I4TXR5RVVyU2hSZlZCZWVlaEE0aktqb2kta2xDLTJadFRtODY2V0MxVFk5Ui1ibTBQYUpma0pLRU8yZmhhbVdkTjJNMDNnSUk0ZnFrMjFYUUQ2SHZWb0c1RndaeFNaRlFmdEJLSHhIdFJNMVU5cDJIWnFLMDE3RXp3?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-09T15:28:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6dc1ef4b2fa86b55",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gestiegen - EZB-Referenzkurs: 1,1193 US-Dollar - Yahoo Finanzen Deutschland",
-   "t": "Der EZB-Referenzkurs liegt bei 1,1193 US-Dollar; der Euro ist gegenüber dem Vortag gestiegen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTQzUlcxdEJtSVVXTnByTi1jUFVzYm5ScGZpX3lTRDNvbndQRkZwNXVMTDE5MUIzdmJNUGJyQW5CX3FzYTA0dlNPa0dfUEJ4NS1BaHZKWEFHcml5MDFuZndEdDMtanFjSUtaSXhPczFRNFZlRmNLT3lWMkxzZUZDdzZfX3RYOU5lQ1ZVYzZjTWltUFFmTGxzVWZMN2EwWmM4?oc=5",
-   "quelle": "Yahoo Finanzen Deutschland",
-   "zeit": "2026-11-09T15:22:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f6c76881b18df5d",
-   "k": "finanzen",
-   "titel": "Google’s AI chip push adds more pressure on Nvidia",
-   "t": "Googles eigene KI-Chips setzen den Marktführer Nvidia zusätzlich unter Druck.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-09T15:20:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "f460c6c0a2d6fe09",
-   "k": "nrw",
-   "titel": "Märkischer Kreis: Startschuss für Weihnachten im Schuhkarton - Radio MK",
-   "t": "Im Märkischen Kreis ist die Aktion Weihnachten im Schuhkarton gestartet.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1JaVnJNWmFZT01pUmdWdEltclhsdG5Id0s3RE9sZkFuMlZmMGhSQW5vTG0yOVBFYkI5S01VUUdkV015YkhwSGRHZExZZVpxS0RhUjFNTGQ2S0RYdFNRYTJsdWkwN0U3dkJHd1ZOS3VxSnhyVkFVODVCLXlWS3VqR09sb3RiTjdySDBvVnp5T0ZKOTRxTURuWk9iZUFZTHlQV1E?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-09T15:14:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4f30d3ae256aa0f",
-   "k": "deutschland",
-   "titel": "Baufirma setzt Stadt Hamburg in Sachen Elbtower unter Druck",
-   "t": "Die Baufirma Lupp droht Hamburg mit dem Abbau wichtiger Technik am Elbtower, ohne die ein Weiterbau nach Angaben des Unternehmens nicht möglich ist.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.welt.de/regionales/hamburg/article6af1e0bcd43db387e55072ad/benko-pleite-baufirma-setzt-stadt-hamburg-in-sachen-elbtower-unter-druck.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T15:13:56+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3101,7 +3100,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 15
+    "n": 18
    },
    {
     "name": "Welt",
@@ -3111,12 +3110,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 29
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 30
    },
    {
     "name": "FAZ Finanzen",
@@ -3156,7 +3155,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 26
    },
    {
     "name": "WSJ USA",
@@ -3191,7 +3190,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 31
+    "n": 33
    },
    {
     "name": "Google News NRW",
@@ -3206,15 +3205,17 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 36
+    "n": 37
    }
   ],
-  "markt": [],
+  "markt": [
+   "EZB Zins: HTTPSConnectionPool(host='data-api.ecb.europa.eu', port=443): Read timed out. (read timeout=15) / HT"
+  ],
   "briefing": null
  }
 }
