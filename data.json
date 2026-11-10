@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-10T03:01:22.040578+00:00",
+ "aktualisiert": "2026-11-10T05:01:20.166839+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.787 $",
-   "delta": -0.5647571869174737
+   "wert": "74.706 $",
+   "delta": -0.018904565397797102
   },
   {
    "name": "Ethereum",
-   "wert": "2.121 $",
-   "delta": -1.187916188312879
+   "wert": "2.119 $",
+   "delta": -0.8092438754806953
   },
   {
    "name": "Gold",
-   "wert": "4.122 $",
-   "delta": 0.17499088589134626
+   "wert": "4.121 $",
+   "delta": 1.1215023375166888
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,282 @@
   ]
  },
  "items": [
+  {
+   "id": "ec9a44493938ec44",
+   "k": "finanzen",
+   "titel": "Diese beunruhigende Warnung an ASML alarmiert die deutsche Industrie",
+   "t": "China setzt laut Berichten Druckmittel gegen europäische Industrie ein, besonders bei der Chipindustrie. Im Fokus stehen Schwachstellen, die China offenbar genau kennt.",
+   "e": "Der Fall betrifft ASML und die Abhängigkeit der Chipindustrie, also einen zentralen Hebel europäischer Wertschöpfung.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6af1c3d379e1656222c37566/wir-kennen-euch-pekings-beunruhigende-botschaft-an-asml.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T04:53:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "ae5ed6e3d8ef162f",
+   "k": "finanzen",
+   "titel": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+   "t": "Das XRP Ledger plant Konten, die gegen Angriffe durch Quantencomputer abgesichert sind, ohne zusätzliche Gebühren für Nutzer.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-10T04:51:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "75cea35ce72c6485",
+   "k": "welt",
+   "titel": "Nach OpenAI-Vorfall: Australien nimmt KI-Entwickler stärker in die Pflicht",
+   "t": "Australien will Entwickler leistungsfähiger KI-Systeme stärker kontrollieren, nach einem KI-Sicherheitsvorfall bei OpenAI. Die Regierung nennt die Pläne \"weltweit wegweisend\".",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/nach-openai-vorfall-australien-nimmt-ki-entwickler-staerker-in-die-pflicht/100268614.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T04:49:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "4361cc392d06e59c",
+   "k": "welt",
+   "titel": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+   "t": "US-Präsident Trump äußert sich optimistisch zu einem Ende des Krieges in der Ukraine. Vor den dreiseitigen Verhandlungen in Abu Dhabi spricht er von einer \"starken Bereitschaft\" dazu.",
+   "e": "Die Gespräche sind die ersten dieser Art seit längerer Zeit, die Ukraine und Russland unter US-Vermittlung an einen Tisch bringen.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-10T04:46:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "ee58a30f47869daa",
+   "k": "welt",
+   "titel": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+   "t": "US-Tankflugzeuge wurden laut Berichten am Montag vom britischen Stützpunkt RAF Mildenhall verlegt. Hintergrund ist eine Bedrohung durch den Iran.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-10T04:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "878621a77c43385f",
+   "k": "deutschland",
+   "titel": "Morning Briefing: Die wahre Bilanz der Klimagipfel (und eine Überraschung)",
+   "t": "Bundeskanzler Merz nimmt nicht an der Klimakonferenz in Antalya teil. Die Handelsblatt-Analyse ordnet die Bilanz der Klimagipfel ein.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-die-wahre-bilanz-der-klimagipfel-und-eine-ueberraschung/100268551.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T04:39:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "23cbdfa816e300e2",
+   "k": "welt",
+   "titel": "Koalitionsverhandlungen in Israel: Wie umgehen mit den arabischen Parteien?",
+   "t": "In Israel hat Oppositionspolitiker Gadi Eisenkot von Präsident Herzog den Auftrag zur Regierungsbildung erhalten. Die Koalitionsfrage mit den arabischen Parteien ist offen.",
+   "e": "Gelingt die Koalition, könnte die Ära Netanjahu enden, was die Außen- und Sicherheitspolitik der Region beeinflussen würde.",
+   "s": 6,
+   "link": "https://www.nzz.ch/pro/koalitionsverhandlungen-in-israel-wie-umgehen-mit-den-arabischen-parteien-ld.10058534",
+   "quelle": "NZZ",
+   "zeit": "2026-11-10T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0dc8eaf77623deb1",
+   "k": "welt",
+   "titel": "Furchtlos und unbeugsam: Die ägyptische Journalistin Lina Attalah kämpft gegen staatliche Willkür. Wer ist sie?",
+   "t": "Die ägyptische Chefredakteurin Lina Attalah vom unabhängigen Portal Mada Masr droht eine Haftstrafe. Kritische Journalisten werden in Ägypten häufig inhaftiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/furchtlos-und-unbeugsam-wie-die-aegyptische-journalistin-lina-attalah-gegen-staatliche-willkuer-kaempft-ld.10058217",
+   "quelle": "NZZ",
+   "zeit": "2026-11-10T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "60f68a69a34b13a2",
+   "k": "deutschland",
+   "titel": "DER ANDERE BLICK - Schluss mit dem Klein-Klein: Die Bundesregierung muss selber abschieben",
+   "t": "Im Jahr 2026 wurden in Deutschland weniger Ausreisepflichtige abgeschoben als in den Vorjahren. Viele Länder lehnen ein konsequentes Vorgehen ab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/der-andere-blick/schluss-mit-dem-klein-klein-die-bundesregierung-muss-selber-abschieben-ld.10058158",
+   "quelle": "NZZ",
+   "zeit": "2026-11-10T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "dc26bda070c060f1",
+   "k": "deutschland",
+   "titel": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+   "t": "Die Bundesregierung plant einen Preisdeckel für Ticketbörsen. Justizministerin Stefanie Hubig (SPD) will extreme Preisaufschläge beim Weiterverkauf von Tickets unterbinden. Das Gesetz ist derzeit in der internen Abstimmung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-10T04:10:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "03be59f4c0699216",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Lichtwurzeln sollen sich für Biobauern lohnen - tagesschau.de",
+   "t": "In Nordrhein-Westfalen sollen Lichtwurzeln für Biobauern wirtschaftlich attraktiver werden.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0oyLUpGWTcydVRMZndhdmxqSWlMclA4bkRUUGVxYV83bU1ZelRRd3p3Z0p1ckRXVDBsVFNTRUQ4WnFraFdjVmhnNUk0cDI2VUdYQVhSc3ExODF2VTB0cmRPdFFRUmtUazVfUlgxWmFaRHQ0V004eXRlRFZRRHhDV1Z0ZGxHOHNkYldhejIwVmVNWmNmcnhKZWdPLTVvR2ZuMU8xLXdqbC1NOGwtU0p4YlRISG9tUUFCUzNSdVJDT05xd0l1TXNxVnEzMmVQbFFTZGV3?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-10T04:02:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "603b74d8ec697b09",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Süßes sammeln am Martinstag: Was die Polizei Eltern rät - n-tv.de",
+   "t": "Die Polizei in NRW gibt Eltern Hinweise zum Süßigkeitensammeln am Martinstag.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkxDdWNsWWdRZGVwWjUxaHBtd0hrN1ZxZE03VGIyd1hPeDI3YVRzUkJDcFp4MTVNM2JrNVBZZmx4dklFdDFpb2pJaVZBNGxJTmhGcVBfSWxWRlI5RDlyUERLcG5WWnpuNmE1SUpMUHdJTEpDRjJYdFZDbXp5dGdxcTkwaUx6aXJZU25IdUtCTG94WEl4Z1pjUXN4VUZuSlMwZHVVZ0FkT05Qd0hfekV4aVRGUkFQVUxHQjhyNEFGVjF1UQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-10T04:02:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "962de4a0fe54c916",
+   "k": "deutschland",
+   "titel": "Verkehr auf der Schiene: Verband: Schienennetz wächst 2026 nur um gut 34 Kilometer",
+   "t": "Das deutsche Schienennetz wächst 2026 laut Verband der Güterbahnen nur um gut 34 Kilometer. Der Fokus liegt auf der Sanierung maroder Strecken.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/verkehr-auf-der-schiene-verband-schienennetz-waechst-2026-nur-um-gut-34-kilometer/100268605.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T04:00:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "fb42990d8dd84719",
+   "k": "nrw",
+   "titel": "Feuerwehr am Limit: Wann ihr wirklich den Notruf in NRW wählen solltet - und wann lieber nicht - WDR",
+   "t": "Die Feuerwehr in NRW ist stark ausgelastet. Die Behörden informieren, wann der Notruf 112 gewählt werden sollte und wann nicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSkhUQmphekZ0bWJrT1F0cXpfTkpEX3BRVkI5VlVBZmdxTkliX3RWRkFaZjRnTG80VUJ2cVhlem5MM1BfaVNRUDZNVHhYblNsNm1TbE1XYTFwclN3cmtRMU16Mk5MdzRPcTBMN3pFVHdOd3pE?oc=5",
+   "quelle": "WDR",
+   "zeit": "2026-11-10T04:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1db3352a53b0d0e8",
+   "k": "nrw",
+   "titel": "Gegen das E-Scooter-Chaos: Städte in NRW wollen Geschwindigkeit drosseln - Neue Westfälische",
+   "t": "Mehrere Städte in NRW wollen die Geschwindigkeit von E-Scootern drosseln, um das Chaos im Straßenverkehr einzudämmen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2FvVHRQYUxmVzM5WmpkanROQS0wdHltakZUQWZ3YWZTbV9QOU1UTzdwNjVacmsxY24yczZDV2R5bWljTkVHb2tGVXJYRGE2OGZfSHdsYjg4UTd0aFpWOXlVX2ZuSWJmaVJqQkxpcGhTLW00bXVGV2x4a0ROMHZ5dEU0bnEyNW90aGVncGVncDJCRU4tX3V1TlM4cUpKamYxdkt2NXE1VUN2cmhTdVMyQnZxSWtRV2Ftb3RVTUd5SFh6OWhCZ0lxRXgtMWVQSDc1ZU1jV3B1MDg?oc=5",
+   "quelle": "Neue Westfälische",
+   "zeit": "2026-11-10T04:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b8892e2c880fb3c4",
+   "k": "nrw",
+   "titel": "Recherche des WDR: Deutlich mehr Anträge auf Pflegegeld in NRW - Presseportal",
+   "t": "Laut einer WDR-Recherche sind in NRW deutlich mehr Anträge auf Pflegegeld gestellt worden.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wcllLODRZU0lKamhoYks2X05nX3BJb3dZVmZndmx4bWdOUDM3bmRVQWtTLUpDbHRmSFJaLW54VXY2amtDTFJDaVNDNnRRSGFJVVREci01QkU?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-10T04:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "190de3cbe9ce9bcd",
+   "k": "finanzen",
+   "titel": "China präsentiert Handelsüberschuss von mehr als einer Billion Dollar",
+   "t": "Chinas Handelsüberschuss hat im Oktober laut offiziellen Daten erneut über eine Billion US-Dollar gelegen, das zweite Jahr in Folge. Die Wirtschaft des Landes hat sich zugleich verlangsamt.",
+   "e": "Der hohe Überschuss verschärft die Handelsspannungen mit den USA und Europa, obwohl das Wachstum schwächer wird.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6af28e51e39746b7b04be0b2/starke-exporte-china-praesentiert-handelsueberschuss-von-mehr-als-einer-billion-dollar.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T03:41:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "caddd529383ef755",
+   "k": "finanzen",
+   "titel": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
+   "t": "BMW lässt wegen fehlender Teile einzelne Schichten in drei Werken ausfallen. Betroffen sind jeweils hunderte Autos.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/mobilitaet/motor/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268597.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T03:23:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "99015e0685547724",
+   "k": "finanzen",
+   "titel": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "t": "Analysten warnen, dass eine Entlastung bei der US-Inflation für Bitcoin nicht unbedingt reichen könnte. Der Markt blickt auf die anstehenden US-Verbraucherpreisdaten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-10T03:22:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "8b4e4132e227a94f",
+   "k": "usa",
+   "titel": "California voters officially reject controversial billionaire tax in setback for progressive agenda",
+   "t": "Die Wähler in Kalifornien haben die geplante einmalige Milliardärssteuer abgelehnt. Die Initiative Proposition 40 sah 5 Prozent auf Vermögen von Milliardären vor.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/09/us-news/california-voters-officially-reject-controversial-billionaire-tax-in-setback-for-progressive-agenda/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-10T03:14:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "fbf2dab0c34aa0c4",
+   "k": "welt",
+   "titel": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+   "t": "OpenAI hat laut Bericht einen Notausschalter entwickelt, der problematische KI-Agenten innerhalb von 35 Sekunden stoppen kann. Ausgelöst wird er durch Hinweise auf Sicherheitsrisiken.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-10T03:04:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "b8c3e793abd24156",
+   "k": "finanzen",
+   "titel": "Luftfahrt: Warum Fliegen im kommenden Jahr noch teurer wird",
+   "t": "Fliegen dürfte im kommenden Jahr teurer werden. Wieder mehr Öltanker passieren die Straße von Hormus, Kerosin bleibt jedoch teuer.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-warum-fliegen-im-kommenden-jahr-noch-teurer-wird/100265035.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T03:01:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "7c78de52d69b0c46",
+   "k": "deutschland",
+   "titel": "Teure Grundnahrungsmittel: „Correctiv“: Deutschland verliert stark an Kaufkraft",
+   "t": "Laut einer Auswertung von Correctiv verliert Deutschland bei den Grundnahrungsmitteln im 10-Jahres-Vergleich stark an Kaufkraft. Im europäischen Vergleich schneidet es besonders schlecht ab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/teure-grundnahrungsmittel-correctiv-deutschland-verliert-stark-an-kaufkraft/100268590.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T03:01:04+00:00",
+   "tag": null
+  },
   {
    "id": "996468241cdb803e",
    "k": "deutschland",
@@ -942,6 +1218,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hNU3JsN1drc1N0QVM3Qk1TTVpxdUs4Y3F5dDhGaE5KX3RydHQ5R3NfekNUSWdzcmt0SGQ4czd1dHcybUhZZU1DRDhtckkzSzZMSkZ0aWNmbHBtMWZoTkJHcEFZTVV6dmZGRVhGS2gwNk1PR2k0bmtxd05iUmR5NWdGdG91bDRpNE1xWnp5amJmcm03TmVQODZMTW5WZm0zV0cyb0ZNVDUyMEs3UlRROUtqeGU2TDJaSTYwLUNMNHlieW55VVZRbjg5VzJtamVU?oc=5",
    "quelle": "MarketScreener Schweiz",
    "zeit": "2026-11-09T18:59:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "adb827d8e2f97e61",
+   "k": "finanzen",
+   "titel": "Fed-Mitglied Barkin sieht Zinssätze nahe dem neutralen Niveau, gibt kein Signal für Dezember - TradingView",
+   "t": "Fed-Mitglied Barkin sieht die Zinsen nahe am neutralen Niveau. Ein Signal für eine Zinsentscheidung im Dezember gibt er nicht.",
+   "e": "Die Aussage zeigt, dass die Fed nach der Zinspause abwartet und keine klare Richtung für die nächste Sitzung vorgibt.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWDQwdk1ZODVheU93ZU02SnZ5RXBPcTZvWkJTVnR5S0p4a3pRMmVBOHQ2Z3ZFcGw1WkR3bGh6c2FnTS1lNFNpUFpqQWhJcEh5QjFMakNEODdqX2FYbWRRMk8tdC03SHB4?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-09T18:58:49+00:00",
    "tag": null
   },
   {
@@ -2791,294 +3079,6 @@
    "quelle": "FAZ",
    "zeit": "2026-11-09T12:26:03+00:00",
    "tag": null
-  },
-  {
-   "id": "c55ec68c427a1e7e",
-   "k": "deutschland",
-   "titel": "Ilse Aigner sieht breiten Zuspruch als „Signal gegen populistische und extremistische Kräfte“",
-   "t": "Bundeskanzler Merz hat Ilse Aigner als Kandidatin für das Bundespräsidentenamt vorgestellt. Auch die Grünen unterstützen die CSU-Politikerin, die Nominierung gilt als breit getragen.",
-   "e": "Die breite Unterstützung über Parteigrenzen hinweg macht die Wahl der Bundesversammlung voraussichtlich deutlich planbarer.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/deutschland/article6af18f14eaa675c45847c475/ilse-aigner-sieht-breiten-zuspruch-als-signal-gegen-populistische-und-extremistische-kraefte.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T12:23:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "989331563b1f0369",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Schütze räumt Tat ein - berichtet aber von Angriff mit Brett - n-tv.de",
-   "t": "In Nordrhein-Westfalen hat ein Schütze die Tat eingeräumt, berichtet aber von einem Angriff mit einem Brett.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMW4ycjFjY2UySkQyVmJFTEpJLWdMMFd3YS1QSEtjWWJibW12M0l3WExqLWtRcHpGUXk5MmxPZVNFNmIwUVlQVEJUN2RPTmVicTB5aHF0Y3BCd0ZGSmxKOGgxcnpUa0pVLW9lWGxGY2dRYkRMSW84YlNJMkRGSHVyU0sxeXU1QW85enhmY3ctOFloeVcwRWxnV3dxYzR5UGllZGZVVDBPTHVLVVRrRzRSQUtTeVM0a2JybC1Od0N0SXB0ZTYxSEE?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-09T12:17:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bb8d57f975e37ab1",
-   "k": "usa",
-   "titel": "Rubio defends Trump's Iran war as not 'necessarily popular, but necessary'",
-   "t": "Außenminister Rubio verteidigt den Iran-Krieg der USA als notwendig, um eine Atomwaffe zu verhindern, und verbindet dies mit den Verlusten der Republikaner bei den Zwischenwahlen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/rubio-defends-trumps-iran-war-not-necessarily-popular-necessary",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-09T12:10:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "88b69c3874bc0d99",
-   "k": "deutschland",
-   "titel": "„Wir entziehen dem Steuerzahler so viel an Wertschöpfung, wie wir das noch nie getan haben“",
-   "t": "Finanzwissenschaftler Bernd Raffelhüschen kritisiert die schwarz-roten Steuerpläne und fordert Strukturreformen bei den Ausgaben, bevor Entlastungen kommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af1adcbc422fb6d38f47885/schwarz-roter-steuerstreit-wir-entziehen-dem-steuerzahler-so-viel-an-wertschoepfung-wie-wir-das-noch-nie-getan-haben.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-09T12:09:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "1128d00e8a1ee885",
-   "k": "welt",
-   "titel": "Erste Übung der multinationalen Truppe für die Ukraine startet",
-   "t": "Die erste Übung der multinationalen Truppe für die Ukraine startet mit rund 2.800 Soldaten aus elf Ländern nahe der ukrainischen Grenze.",
-   "e": "Die Truppe soll nach einem Frieden Sicherheit in der Ukraine gewährleisten, Deutschland unterstützt das Vorhaben.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T12:04:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "c362ed6531c162b4",
-   "k": "finanzen",
-   "titel": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-   "t": "Die Neocloud-Anbieter CoreWeave und Nebius haben in einem Monat etwa die Hälfte ihres Börsenwerts verloren, vor anstehenden Quartalszahlen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T12:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "1058bd47627cc6e6",
-   "k": "nrw",
-   "titel": "Personengruppe schlägt auf einzelne Personen ein - Polizei NRW",
-   "t": "Eine Personengruppe hat in Nordrhein-Westfalen auf einzelne Personen eingeschlagen, die Polizei ermittelt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWFLWmZHa0ttZFUwanBTbmUybDYzTFAxeTFhNUo3emV6NkpwZVdYTGl4eDFMa3NmXzVkOHNwaHlJRVBpR0RsRVE5QnJmMFRvQ0l4YmVkNXQ4b2hzZWx4UFpJbDl3Nmk0SE9Oa2tONmZndnpTZHpMTmhwbURyQXNDTjJ3?oc=5",
-   "quelle": "Polizei NRW",
-   "zeit": "2026-11-09T11:48:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "ab2d6c543a0619d8",
-   "k": "finanzen",
-   "titel": "Volatile Börsenlage: Der Ölpreis fällt so stark wie seit 2020 nicht mehr",
-   "t": "Der Ölpreis fällt nach dem Ausverkauf bei Technologieaktien so stark wie seit 2020 nicht mehr.",
-   "e": "Der stärkste Rückgang seit 2020 zeigt, wie stark Rohstoff- und Tech-Märkte aktuell aufeinander reagieren.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/oelpreis-faellt-so-stark-wie-seit-2020-nicht-mehr-accg-201665081.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-09T11:47:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "7030a6e233e0f5d1",
-   "k": "nrw",
-   "titel": "Erfolg in NRW: Jülicher RNA-Spezialist SRTD sammelt 31,5 Mio. Euro ein - transkript.de",
-   "t": "Das Jülicher RNA-Spezialunternehmen SRTD hat 31,5 Millionen Euro eingeworben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHZha2thOUo2U0JkYWZZWHFiYXdFRFRNVTF5WkM1YVY5ano0a0I4MkZwM3p6TWllRGpIckYxc1Y2Sy1oUDI4Szl0U1Bxb2s5OUEtZTJqSTRaeVotOHlpQkdxVnNLakxrQnZRR1lqTEpqUnE0VFF3U2gtSmlIN1FxQzB2bU0wY3dGTmhZb0h0OHlxOFdLNG9lRjBveDgwVWJzeFUwR25Ecw?oc=5",
-   "quelle": "transkript.de",
-   "zeit": "2026-11-09T11:45:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "f7fc9d532f2570e2",
-   "k": "finanzen",
-   "titel": "Der US-Dollar kehrte seinen Aufwärtstrend um und fiel, da der Markt die Möglichkeit einer Zinserhöhung durch die US-Notenbank abwog. - Vietnam.vn",
-   "t": "Der US-Dollar hat seinen Aufwärtstrend umgekehrt und ist gefallen, weil Marktteilnehmer eine mögliche Zinserhöhung der US-Notenbank Fed abwägen.",
-   "e": "Die Erwartung einer Fed-Zinserhöhung statt Zinssenkung ist ein Kurswechsel, der Dollar, Gold und Anleihen gleichzeitig beeinflusst.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQTQzNzJtQ2lDbWxkQlJJTE9HcEpDYWJpRXBhLU5KRU1xektCS3Q2VDhvR1FkUDc2SkQydU51OUNPZ2lIUnhtcGF1UWlSb183ZGxURFIxNEtrQnhLbFBJZGY3SzBHbWprUWc2Q2E3VjYtc3BaSXo4NVZDS1RSYXFtbnJLc3pVckZuNlA2R2k5czZ1TmdwQ1pTNDdZNUlRQQ?oc=5",
-   "quelle": "Vietnam.vn",
-   "zeit": "2026-11-09T11:42:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "74f89718a7ce9804",
-   "k": "finanzen",
-   "titel": "Nvidia-led tech selloff weighs on crypto majors",
-   "t": "Ein von Nvidia ausgelöster Ausverkauf bei Technologiewerten belastet die großen Kryptowährungen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-09T11:42:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "60ab0e49efb39f2b",
-   "k": "finanzen",
-   "titel": "Coinbase’s US national trust bank charter takes effect",
-   "t": "Coinbase hat seine nationale US-Treuhandbanklizenz erhalten, die nun wirksam wird. Das Unternehmen will damit sein institutionelles Krypto-Verwahrgeschäft ausbauen.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-09T11:38:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "9308503e13bc164d",
-   "k": "finanzen",
-   "titel": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
-   "t": "Nach der Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin laufen Untersuchungen im Unternehmen.",
-   "e": "Nvidia ist als größter KI-Chiphersteller ein Schwergewicht im Index, mögliche Ergebnisse könnten Führung und Aufsicht des Konzerns betreffen.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/video/video-1680710.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T11:32:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "38e413594ba33c47",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Senior bedroht Kinder mit Luftgewehr - tagesschau.de",
-   "t": "Ein Senior soll Kinder mit einem Luftgewehr bedroht haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0lHR25vQlAtM1pRRmc4SVBoMUlabDZEdTcyN2Zod1dwamhrSUdBVGJfampxNDRnTllUX05UQmpXZjhNQ1NwM3FzQ2xkLWR2Wlc1eEVZYURDTjlSc3VfcGxYai1qZ25Selp1Q2xnSi04SjF5cFllamRNMGlMZ1BWaVlfTTRhRm05R0plNWRqc2ZmZ1dpX2N6bmVhbEh5U3pyYVNad21HbjZoU0RnaDJrS1VkUGt5SEhZQmZvYUYzZ1ZQY21ySzRHTlplRnQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-09T11:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2c600e096d82a372",
-   "k": "usa",
-   "titel": "Trump rudert bei Dana White zurück und nennt Massenabschiebungen „zu hart“ - WELT",
-   "t": "Trump relativiert seinen Jobangebot-Scherz an UFC-Chef Dana White und bezeichnet Massenabschiebungen als „zu hart“.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaUNYdGgyc19Mc3hWWWliaHJqUTBKdDVvdGhFOEkxaUJ4SG5VaTZYalB2RHFLQ3c5MUYzVXlEUGtxMTJYdk9XNk5ZYkNlbUdIYmdPc3F3MmNvZ0psRzJ4b3hwOUY1Wnd0eFdwcVEyQ195NUF1dkszRzczSmk3dm1Qai14WEFTOENJZU15ODh0OTBDb295TUJRUXdsZjZBbnRpSGEzSzhSRlZ4YWRYUkh2UWMxX2EtN3dVZlZfYnVfYUtmYll3VDk2VHI3VWtYT3BIRE5weGhwYkRMQzJhT0RV?oc=5",
-   "quelle": "WELT",
-   "zeit": "2026-11-09T11:18:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "0265916617f69b90",
-   "k": "welt",
-   "titel": "BILDSTRECKE - Papst Leo XIV. besucht Südamerika",
-   "t": "Papst Leo XIV. besucht erstmals seit seiner Wahl wieder Südamerika, wo er vor seinem Pontifikat zwei Jahrzehnte lebte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/panorama/papst-leo-xiv-besucht-suedamerika-ld.10058509",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T11:16:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "bb0f990d264387e1",
-   "k": "usa",
-   "titel": "Democratic tsunami revives unpopular Chuck Schumer as likely next majority leader",
-   "t": "Nach den Zwischenwahlen gewinnen die Demokraten den Kongress, Chuck Schumer gilt als wahrscheinlicher neuer Mehrheitsführer im Senat.",
-   "e": "Mit dem Machtwechsel im Kongress werden die Kontrollmöglichkeiten gegenüber der Regierung Trump deutlich größer.",
-   "s": 7,
-   "link": "https://nypost.com/2026/11/09/us-news/democratic-tsunami-revives-chuck-schumer-likely-next-majority-leader/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-09T11:15:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "4fc16b401ca803ef",
-   "k": "finanzen",
-   "titel": "Die verhängnisvolle Huang-Affäre – und was sie jetzt für Ihre Nvidia-Aktie bedeutet",
-   "t": "Nach dem Eingeständnis der Affäre verliert die Nvidia-Aktie nach Berichten mehr als 200 Milliarden Euro an Börsenwert.",
-   "e": "Ein Wertverlust in dieser Größenordnung zeigt, wie stark der Konzern als Schwergewicht den Gesamtmarkt bewegt.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/plus6af18245a389bc337cfcad6c/er-ist-nvidia-so-gefaehrlich-ist-die-huang-affaere-fuer-die-wichtigste-aktie-der-welt.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-09T11:08:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "15b1f0736eacafc0",
-   "k": "usa",
-   "titel": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-   "t": "Der US-Kongress kehrt mit Haushaltsfragen zurück: Eine Frist für die Regierungsfinanzierung, das Schuldenlimit und die Personalie Pete Hegseth stehen auf der Agenda. Den Republikanern bleiben knapp zwei Monate Mehrheit in beiden Kammern.",
-   "e": "Ein Shutdown oder ein Streit ums Schuldenlimit kann die Finanzmärkte kurzfristig belasten.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T11:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "17b0e92df2bdc2a9",
-   "k": "nrw",
-   "titel": "Freunde der Burg: Restaurierung der Wiederaufbaupläne der Burg Altena abgeschlossen - Presse-Service",
-   "t": "Die Freunde der Burg Altena haben die Restaurierung der Wiederaufbaupläne der Burg abgeschlossen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMjVTeVZKWktMVUZrV1FtaW8xdnR5TWNyV21aUjdjcmhUS3RNQ0xxeURLY1ZrZlNlOEVONkZycVNKUTFEWC1JUmllZHZJNjZzZGNlWHdjczFMVHBKbUg3ODFSbkdvWFRneC1vRQ?oc=5",
-   "quelle": "Presse-Service",
-   "zeit": "2026-11-09T10:54:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "234a4982bf64bbd2",
-   "k": "finanzen",
-   "titel": "Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie",
-   "t": "Die IG Metall ruft zur Warnstreik-Kundgebung in Ingolstadt auf, zum Start der dritten Verhandlungsrunde in der bayerischen Metall- und Elektroindustrie. Mehr als 15.000 Beschäftigte werden erwartet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-09T10:52:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "bb51ae3bef0b2440",
-   "k": "finanzen",
-   "titel": "Künstliche Intelligenz: Telekom verdoppelt KI-Rechenleistung in München",
-   "t": "Die Telekom verdoppelt die KI-Rechenleistung ihrer KI-Fabrik in München und investiert dafür knapp eine weitere Viertelmilliarde Euro.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-telekom-verdoppelt-ki-rechenleistung-in-muenchen/100268438.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T10:51:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "b43f8b117ee21159",
-   "k": "nrw",
-   "titel": "NRW führt Abschiebeflug mit nur einem Migranten durch",
-   "t": "NRW hat einen Abschiebeflug mit einer gecharterten Boeing mit 189 Plätzen nach Bulgarien durchgeführt, an Bord war nur ein abzuschiebender Libanese.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af19a9080d3a1c6aa66e204/nrw-fuehrt-abschiebeflug-mit-nur-einem-migranten-durch.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T10:49:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2b5c0ccf41f9519",
-   "k": "finanzen",
-   "titel": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-   "t": "Berkshire Hathaway meldet für das dritte Quartal rund 357 Milliarden Dollar Cash, die schwache Entwicklung der Versicherungstochter Geico fällt dabei besonders auf.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-09T10:48:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3111,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 17
+    "n": 19
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "NZZ",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 24
+    "n": 26
    },
    {
     "name": "WSJ USA",
@@ -3176,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 22
+    "n": 24
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "Google News Iserlohn",
@@ -3211,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 24
    }
   ],
   "markt": [],
