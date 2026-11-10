@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-10T01:29:58.200253+00:00",
+ "aktualisiert": "2026-11-10T03:01:22.040578+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.083 $",
-   "delta": 0.3437375296140919
+   "wert": "74.787 $",
+   "delta": -0.5647571869174737
   },
   {
    "name": "Ethereum",
-   "wert": "2.127 $",
-   "delta": -0.07515905254320202
+   "wert": "2.121 $",
+   "delta": -1.187916188312879
   },
   {
    "name": "Gold",
-   "wert": "4.140 $",
-   "delta": 1.5902255076002847
+   "wert": "4.122 $",
+   "delta": 0.17499088589134626
+  },
+  {
+   "name": "EZB Zins",
+   "wert": "2,50 %",
+   "delta": null
   },
   {
    "name": "Fed Funds",
@@ -75,6 +80,102 @@
   ]
  },
  "items": [
+  {
+   "id": "996468241cdb803e",
+   "k": "deutschland",
+   "titel": "Arbeitsmarkt: „800.000 Jobs werden in Deutschland aufgrund von KI wegfallen“",
+   "t": "Arbeitsmarktchefin Andrea Nahles erwartet, dass durch KI in Deutschland rund 800.000 Jobs wegfallen. Sie drängt zugleich auf eine Work-and-Stay-Agentur für ausländische Fachkräfte.",
+   "e": "Die Zahl ist eine Schätzung der Bundesagentur für Arbeit und betrifft die Debatte über Fachkräftemangel und Qualifizierung.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-800.000-jobs-werden-in-deutschland-aufgrund-von-ki-wegfallen/100264931.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T02:58:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "35f61d976c549fee",
+   "k": "finanzen",
+   "titel": "China exports, imports soar past expectations in October — surplus narrows sharply",
+   "t": "Chinas Warenexporte stiegen im Oktober um 35,2 Prozent zum Vorjahresmonat und übertrafen damit die Erwartungen. Der Handelsüberschuss verengte sich deutlich.",
+   "e": "Die starken Exporte zeigen die Stärke der chinesischen Industrie trotz schwacher Binnennachfrage, der geringere Überschuss könnte auf steigende Importe hindeuten.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-10T02:55:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e26e372cb9e27e3",
+   "k": "usa",
+   "titel": "Verfahren beantragt: Wird Pentagon-Chef Hegseth nun wirklich des Amtes enthoben?",
+   "t": "Nach der Wahlniederlage der Republikaner wurde ein Verfahren zur möglichen Amtsenthebung von Verteidigungsminister Pete Hegseth beantragt. Ob es tatsächlich dazu kommt, gilt als fraglich.",
+   "e": "Ein Amtsenthebungsverfahren gegen ein Kabinettsmitglied ist ungewöhnlich und zeigt die verschobenen Machtverhältnisse im Kongress nach den Midterms.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/verfahren-beantragt-wird-pentagon-chef-hegseth-nun-wirklich-des-amtes-enthoben/100268581.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T02:54:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7bf99f24d4c639b",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: NRW-Gericht verhandelt Streit um Kosten für Teilhabe - n-tv.de",
+   "t": "Ein Gericht in Nordrhein-Westfalen verhandelt über einen Streit um die Kosten für Teilhabeleistungen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEJCUTR1NWZfQ05SNGJ6MFQ1UUZNMWo4aG9Ub3h4WFVtMXp4andscjBjOVBLeENTZjhuSWFuN0VwSUV4WmUzMXdSR1lkQ08wNjBhSm5OWHN5YU5Iai1oSFlIRVhlOUFaSDRnQzJ1VEIzUGJMZzJPc0VFTXF5VVRSMTdVakhwWlpfRzBZVDVwRUotNk1Fd1JtenlRY2lFcUNuR3owS0cwOG1YNVpkMUlXdF9iZ0ZWd3VoNWdKQQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-10T02:31:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1a2a1a0dea9345eb",
+   "k": "deutschland",
+   "titel": "Versorgung: Länder-Widerstände gegen Notfallreform",
+   "t": "Der Bundestag hat ein Gesetz zur Notfallreform beschlossen, das Patienten bei dringenden Anliegen besser an passende Versorgungsstellen lenken soll. Einige Länder blockieren oder verzögern es im Bundesrat.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/versorgung-laender-widerstaende-gegen-notfallreform/100268584.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-10T02:00:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "20cecae998b754d5",
+   "k": "usa",
+   "titel": "Ex-Dem Senate leader asks California Supreme Court to block Gavin Newsom’s death row commutations",
+   "t": "Ein früherer demokratischer Fraktionschef im kalifornischen Senat hat das Oberste Gericht des Staates gebeten, die Begnadigung von 548 Todeskandidaten durch Gouverneur Gavin Newsom zu stoppen. Er nennt die Entscheidung ein politisches Manöver mit Blick auf 2028.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/09/us-news/ex-senate-leader-asks-court-to-halt-gavin-newsoms-death-row-relief/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-10T02:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9466d7094cd5e78d",
+   "k": "deutschland",
+   "titel": "Aiwangers Partnerin von Todesnachricht „überrollt“",
+   "t": "Die Partnerin des überraschend im Alter von 55 Jahren gestorbenen Freie-Wähler-Chefs Hubert Aiwanger hat sich erstmals öffentlich geäußert. Nach eigenen Angaben hat sie im engen Familienkreis zunächst die erste Trauer verarbeitet.",
+   "e": "Aiwanger war bayerischer Vize-Ministerpräsident und Bundesvorsitzender der Freien Wähler, sein Tod hat deshalb politische Bedeutung über Bayern hinaus.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/article6af26cbae39746b7b04be029/persoenliche-worte-aiwangers-partnerin-von-todesnachricht-ueberrollt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T01:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b31f9acedbf91555",
+   "k": "finanzen",
+   "titel": "US-Inflation: Anleger stellen sich auf eine Fed-Zinserhöhung ein - Kapitalmarktexperten",
+   "t": "Nach den jüngsten US-Inflationsdaten stellen sich Kapitalmarktexperten auf eine mögliche Zinserhöhung der US-Notenbank Fed ein.",
+   "e": "Eine Fed-Zinserhöhung würde die Finanzierungsbedingungen verschärfen und wirkt auf Aktien, Krypto und den Dollar; die Erwartung hängt stark an der weiteren Inflationsentwicklung.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcE1LRUlIdHA1cHhOWXp1VkQxaHRqVk1aMHVBMWtOaWlMcC1CVnVNWjFuZ0NBUTh5RTdDR0lvQ0R3RVI3OF82X3dRNXItMElKNWpYUGZXTXJMcGh1UGxzRHY1Z1hsMHpsZEhJYWJZd1I2V0hIYlVvN1RLNmdib1pKZlg3VTY0MWFTOTFPSC1PWlQyZWdTTkQwbEd4Ui15U3ZOSGhZ?oc=5",
+   "quelle": "Kapitalmarktexperten",
+   "zeit": "2026-11-10T01:27:02+00:00",
+   "tag": null
+  },
   {
    "id": "39357910ed1cfc17",
    "k": "welt",
@@ -157,6 +258,18 @@
    "link": "https://www.welt.de/vermischtes/article6af260cbd0fb1ac9ce0ed363/texas-fbi-nimmt-person-wegen-toetungsdelikt-auf-kreuzfahrtschiff-fest.html",
    "quelle": "Welt",
    "zeit": "2026-11-10T00:43:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "e969c3de4c539cdd",
+   "k": "finanzen",
+   "titel": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+   "t": "Die Bitcoin-Miner HIVE und MARA haben mehr Bitcoin gefördert, verdienten aber weniger, da die Kryptopreise gefallen sind und die Stromkosten steigen. Beide bauen zugleich ihr KI-Infrastrukturgeschäft aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-10T00:42:39+00:00",
    "tag": null
   },
   {
@@ -2380,6 +2493,18 @@
    "tag": null
   },
   {
+   "id": "2caaa9549f895e70",
+   "k": "finanzen",
+   "titel": "Wer folgt auf Lag­ar­de an der EZB-​Spitze? - Die Rheinpfalz",
+   "t": "Es wird diskutiert, wer als Nachfolger von EZB-Präsidentin Christine Lagarde an die Spitze der Europäischen Zentralbank rücken könnte.",
+   "e": "Die Personalie bestimmt, wer die Geldpolitik des Euroraums in den kommenden Jahren maßgeblich prägt.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnBocjE0QVl3T0dEakczcGR4aGp0V1ZiSjhiVktaeGJsQkZaRE10b28wZDgxdEhSbzg3TXZYbWVYOVdibEk2WVZMS2tMTW51aEpYSGpSTkFpUHIyN3pmUXhQMHlEeTBBaWRtS0UxNHNPZzRhdFZLc1Uwc19qVng0cDBpclFCQmhKR0ZuSGd3WS1rS2RBbi1PV1ZwOThHT2g2SmJxbW56cw?oc=5",
+   "quelle": "Die Rheinpfalz",
+   "zeit": "2026-11-09T13:30:00+00:00",
+   "tag": null
+  },
+  {
    "id": "5b454be4cceaf096",
    "k": "finanzen",
    "titel": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
@@ -2954,126 +3079,6 @@
    "quelle": "MarketWatch",
    "zeit": "2026-11-09T10:48:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5647cf45a3e0379f",
-   "k": "finanzen",
-   "titel": "Ugandas Zentralbank belässt ihren Leitzins bei 12 % - MarketScreener Schweiz",
-   "t": "Die Zentralbank Ugandas lässt ihren Leitzins unverändert bei 12 Prozent.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDBKU0hqT2NaNUZYMURLU3R0ckJqeFg5R3dweGU3emJTMG5xSUptdUxJR2oycWQtV2ppbUZhbzRobGM0WFduS2xIQzNyNjZiTDhvbXh1V21HVzY4c05vWnFxbDkwMlRaS00xMklHTm1SUlByanBkbTllZzYwazlOSE1kNl9XVEdad0ctX1VyZ3VUR24yWjZlbTR0b0g5NTFCdG5fX2F2VkpIU3RjUTJLbFh6UThDUU12?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-09T10:45:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "0bc97506c82a86a9",
-   "k": "deutschland",
-   "titel": "Staatsoberhaupt: CDU nominiert Aigner als Bundespräsidentin",
-   "t": "Die CDU hat Ilse Aigner offiziell als Kandidatin für das Amt der Bundespräsidentin nominiert. Die Wahl durch die Bundesversammlung steht noch aus.",
-   "e": "Aigner wäre die erste Frau im Amt des Bundespräsidenten, die Wahl selbst ist aber noch nicht entschieden.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-nominiert-aigner-als-bundespraesidentin/100268312.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T10:43:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ed891f29e024d08",
-   "k": "nrw",
-   "titel": "Iserlohn: SPD-Fraktion fordert Klärung zu Einschränkungen in Offenen Ganztagsschulen - IKZ-Online",
-   "t": "Die SPD-Fraktion in Iserlohn fordert Klärung zu Einschränkungen in den Offenen Ganztagsschulen.",
-   "e": "Betrifft die Betreuungsangebote für Schulkinder in Iserlohn und die Frage, wie die Stadt die Versorgung sicherstellt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUd1X0JYSWFmWExIc2U0Z044V3NNemFnOXUyelVKZ0IweGdHLW9qc1VZMVdaMkFEeXNHQzlOcmRFamJHWmFqbjFyNndIOFRZeVlVX2ZCSDBxNkpHSUFrVWNUTDhHZGwzT3pUbUJiaXd0aEZHY09ZRFZWNE01U2hDUFdNVmZEMFAybVFTZHhCYjBiWGhtbGNCY295a0k5aDBYLWNhcDFIcGtPOW1maWRSVGRpZHpBRFl6WEtIQ0xyVmVzaTdUbWdPRGRSUURJQVVFamo4eFVFSTNla2lDV0I0QXZOZEg?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-09T10:36:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "bcbc9bd1ad76fae9",
-   "k": "deutschland",
-   "titel": "Tote 13-Jährige aus Marzahn war gefesselt – Verdächtiger kannte das leerstehende Haus",
-   "t": "Die tote 13-jährige Lisa T. aus Berlin-Marzahn war laut Berichten gefesselt. Der Verdächtige soll eine persönliche Verbindung zu dem Grundstück haben, auf dem die Tat geschah.",
-   "e": "Die Ermittlungen zu dem Tötungsdelikt in Brandenburg mit Berliner Bezug laufen weiter.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/plus6af196ffeaa675c45847c563/tote-13-jaehrige-aus-marzahn-war-gefesselt-verdaechtiger-kannte-das-leerstehende-haus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T10:36:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "e3bcd3f92d9a2e92",
-   "k": "finanzen",
-   "titel": "Entscheidung über EZB-Chefposten bleibt wohl noch in der Schwebe - Cash",
-   "t": "Die Entscheidung über die Nachfolge von EZB-Präsidentin Christine Lagarde bleibt wohl noch offen. Im Rennen sind unter anderem Notenbankchef Klaas Knot und Spaniens Pedro Hernández de Cos.",
-   "e": "Die Besetzung der EZB-Spitze ist für die Zinspolitik im Euroraum und die Glaubwürdigkeit der Notenbank bedeutsam.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWE4zMFdUV1Nvel81QURiN2FaUnEzdXFjZ3l3cW5sNkZEdG1CWGNYaXFYY3laSnZXdzZEbVZWODhWSExZdEVMQVRWbVpCNlFUWkVZUW11UHdQWllNdXdwd2pHeFZtQzRTV3A1MnRwWkNQM2QzV1ZFOWwyVUNZaHlMdnRkM21hak5Nb0syR1pTOGdScmlnUmd4bkRRa01iaUVYckVySG5sZ3Q?oc=5",
-   "quelle": "Cash",
-   "zeit": "2026-11-09T10:33:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "171f9b8f3bbc84b3",
-   "k": "finanzen",
-   "titel": "Vodafone baut in Deutschland rund 2300 Stellen ab – fast jeder fünfte Arbeitsplatz betroffen",
-   "t": "Vodafone streicht in Deutschland rund 2300 Stellen, etwa jeder fünfte Arbeitsplatz ist betroffen. Der Konzern mit Sitz in Düsseldorf reagiert auf Marktanteilsverluste mit Umstrukturierungen.",
-   "e": "Der Abbau betrifft einen großen Arbeitgeber in NRW und spiegelt den Druck im deutschen Telekommunikationsmarkt wider.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/article6af19bf853650a498f207e51/vodafone-baut-in-deutschland-rund-2300-stellen-ab-fast-jeder-fuenfte-arbeitsplatz-ist-betroffen.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-09T10:32:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ecf23804318fa7d",
-   "k": "welt",
-   "titel": "Durch Fischer gerettet: Pianist von Kreuzfahrtschiff überlebt neun Stunden im Meer",
-   "t": "Fischer haben vor Kalifornien einen Pianisten eines Kreuzfahrtschiffs aus dem Pazifik gerettet, nach Angaben soll er über neun Stunden im Wasser getrieben sein. Wie er dorthin gelangte, ist unklar.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/pianist-von-kreuzfahrtschiff-ueberlebt-neun-stunden-im-pazifik-accg-201665036.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T10:31:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "3999a80c0b7cc455",
-   "k": "finanzen",
-   "titel": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
-   "t": "Ein Morgan-Stanley-Chefstratege erwartet, dass der S&P 500 in den kommenden Wochen bis an das untere Ende der bankeigenen Abwärtsspanne fallen könnte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-09T10:26:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2e104f370e830b75",
-   "k": "finanzen",
-   "titel": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-   "t": "Nvidia hat nach Berichten über eine ausländische Geheimdienst-Operation gegen Konzernchef Jensen Huang einen unabhängigen Untersuchungsausschuss des Verwaltungsrats eingesetzt. Die Aktie fiel um rund 4 Prozent.",
-   "e": "Der Konzern ist zentraler Ausrüster des KI-Booms, daher wirkt die Affäre auf den gesamten Tech-Sektor.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-09T10:13:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "f82c3f4facaa1d45",
-   "k": "finanzen",
-   "titel": "Federal Reserve: Expectations of December rate hike strengthen – Commerzbank - www.tmgm.com",
-   "t": "Die Erwartungen an eine Zinserhöhung der Fed im Dezember haben sich laut Commerzbank verstärkt.",
-   "e": "Eine Zinserhöhung im Dezember würde die Zinswende in den USA umkehren und ist für Anleihen und Aktienmärkte relevant.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGkxNUpkWGRhbDg1Wjh3aTJ0bFR1LXZNcjRDa0V6ZzZ4NWJYUFFtd095RENRT0FPMjZ5cGMxT0dCZWZsdkJGM1lBQkRTazl3ZFVTQW1jbGdWa0p1dVp1WC1nZ2FMbTZkQ2oxZVRJLUxqcVFack9GeUQyYzdLNzVRZWwyNnFxQ0c1cWxHaUlRR2J0RzhzQkt3WDhSaXdtTWNHZy16aWRBclIxb2k1YnprSTM2REZhUEJkY0R3NWdrd2pLWmZ6ZXdxdElubw?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-09T10:07:25+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,12 +3091,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3111,7 +3116,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
@@ -3156,7 +3161,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3206,12 +3211,10 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 26
+    "n": 25
    }
   ],
-  "markt": [
-   "EZB Zins: HTTPSConnectionPool(host='data-api.ecb.europa.eu', port=443): Read timed out. (read timeout=15) / HT"
-  ],
+  "markt": [],
   "briefing": null
  }
 }
