@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-09T23:01:32.348939+00:00",
+ "aktualisiert": "2026-11-10T01:01:55.128766+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,23 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "75.201 $",
-   "delta": 0.7305350474832087
+   "wert": "74.993 $",
+   "delta": -0.2518484402233297
   },
   {
    "name": "Ethereum",
-   "wert": "2.134 $",
-   "delta": 0.09848299193849527
+   "wert": "2.123 $",
+   "delta": -0.9046837911215447
   },
   {
    "name": "Gold",
-   "wert": "4.150 $",
-   "delta": 1.8307222126693778
-  },
-  {
-   "name": "EZB Zins",
-   "wert": "2,50 %",
-   "delta": null
+   "wert": "4.133 $",
+   "delta": 1.4159880988257711
   },
   {
    "name": "Fed Funds",
@@ -80,6 +75,138 @@
   ]
  },
  "items": [
+  {
+   "id": "95faf8ecd4ab991b",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Gefahrgut auf A4 bei Köln ausgetreten – Sperrung bis morgens - n-tv.de",
+   "t": "Auf der A4 bei Köln ist Gefahrgut ausgetreten, die Autobahn ist bis zum Morgen gesperrt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUJZLTVvWnZPV3F1aFJNTnRmdDRDYktBSVhueGNRdEdkVXlEQ29nUzk1NEpCY2VmMFhxaG5DcGNiMzRlVjQ4MDNpVTJSRmtsTVVJTVg4U0lDYnpZXzNuU1RES2N6SnVYU3J6N3lPc2UtQVJrNW12ZktjTnVYNVpvdjZTa1hXeGNENkpBTEFrOHdEaGxBSkhBUGFIR28wRGdVOWFrT0RQZ19LNnk0UEdMcUkxMVdSMFc3dVVnX0ItNkNDZnZx?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-10T00:51:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ec908034446cdb3",
+   "k": "finanzen",
+   "titel": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+   "t": "Der Leerverkäufer Culper Research behauptet, Megaspeed sei nicht das einzige Unternehmen, das China beim Zugang zu Chips helfe. Culper hält an seiner früheren Recherche zu Nvidia fest.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-10T00:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a3290d206e56f91a",
+   "k": "finanzen",
+   "titel": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
+   "t": "Die Aktien der SoftBank Group steigen um 11 Prozent, als asiatische Technologiewerte nach einer Erholung an der Wall Street zulegen. Der deutliche Ölpreisrückgang stützt stimmungsmäßig.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-10T00:43:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "27d0ea85a6c23cb3",
+   "k": "welt",
+   "titel": "FBI nimmt Person wegen Tötungsdelikt auf Kreuzfahrtschiff fest",
+   "t": "Das FBI ermittelt wegen eines mutmaßlichen Tötungsdelikts auf dem Kreuzfahrtschiff MSC Seascape. Ein Tatverdächtiger wurde festgenommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/article6af260cbd0fb1ac9ce0ed363/texas-fbi-nimmt-person-wegen-toetungsdelikt-auf-kreuzfahrtschiff-fest.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-10T00:43:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "f278b1b2d3f50543",
+   "k": "usa",
+   "titel": "Scalise and Jordan face off in House leadership battle as GOP reels from blue tsunami",
+   "t": "Im US-Repräsentantenhaus bewerben sich Steve Scalise und Jim Jordan um die Führung der Republikaner, nachdem die Partei bei den Midterms Verluste hinnehmen musste.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/09/us-news/steve-scalise-and-jim-jordan-face-off-in-house-leadership-battle-as-gop-reels-from-blue-tsunami/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-10T00:21:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "87276be209fc6682",
+   "k": "usa",
+   "titel": "Senate advances Trump-backed bipartisan bill to speed critical infrastructure projects",
+   "t": "Der US-Senat bringt ein von Trump unterstütztes überparteiliches Gesetz voran, das kritische Infrastrukturprojekte beschleunigen soll. KI-Konzerne und Rechenzentrumsbetreiber sollen ihre Stromkosten und Netzausbauten selbst tragen.",
+   "e": "Der steigende Strombedarf von KI-Rechenzentren rückt damit stärker in den Fokus der Gesetzgebung.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/09/senate-infrastructure-bill-data-centers.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-09T23:54:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "472e8ebbfe994e96",
+   "k": "deutschland",
+   "titel": "„Deutschland ist Hauptexporteur von Kindergeld ins EU-Ausland“ – Unionspolitiker fordern Kürzung",
+   "t": "CDU- und CSU-Politiker fordern, das Kindergeld für im EU-Ausland lebende Kinder an die dortigen Lebenshaltungskosten anzupassen, und wollen dafür das EU-Recht ändern.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/article6af25758e39746b7b04bdfde/fast-300-000-betroffene-deutschland-ist-hauptexporteur-von-kindergeld-ins-eu-ausland-unionspolitiker-fordern-kuerzung.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T23:51:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "a948e0692b134646",
+   "k": "deutschland",
+   "titel": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+   "t": "Verkehrsminister Bilger verteidigt den seit Oktober geltenden Tankrabatt als notwendige Entlastung. Zugleich äußert er sich kritisch zu Debatten über ein generelles Tempolimit.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T23:40:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "e79ca06a26ada49b",
+   "k": "deutschland",
+   "titel": "Finanzierung der Ukraine: Merz dringt auf Bekenntnis aller EU-Staaten zu Ukraine-Hilfe",
+   "t": "Merz dringt vor einem informellen EU-Gipfel auf ein Bekenntnis aller Mitgliedstaaten zu Ukraine-Hilfen. Nächstes Jahr sollen 45 zusätzliche EU-Milliarden fließen.",
+   "e": "Nicht alle Mitgliedstaaten wollen mitmachen; Merz droht mit einer Blockade des EU-Haushalts.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/finanzierung-der-ukraine-merz-dringt-auf-bekenntnis-aller-eu-staaten-zu-ukraine-hilfe/100268555.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T23:30:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "f76be822b943de5d",
+   "k": "finanzen",
+   "titel": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
+   "t": "Trump sagt, Nvidia-Chef Jensen Huang habe nicht gewusst, dass Alice Huang eine mutmaßliche Spionin war. Er verteidigt Huang als wichtigen Verbündeten der KI-Branche.",
+   "e": "Die Affäre belastet einen der wertvollsten Chipkonzerne der Welt und damit auch die Erwartungen an KI-bezogene Börsenwerte.",
+   "s": 6,
+   "link": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-09T23:08:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "8701c7d88eebf680",
+   "k": "deutschland",
+   "titel": "Haushalt: Drei Milliarden Euro zusätzlich – Regierung muss Bundesagentur für Arbeit mit neuem Kredit helfen",
+   "t": "Finanzminister Klingbeil nimmt kurz vor Abschluss des Etatentwurfs 2027 Änderungen vor: Die Bundesagentur für Arbeit erhält ein größeres Darlehen, und E-Auto-Käufer bekommen mehr Geld.",
+   "e": "Die zusätzlichen Mittel zeigen, wie angespannt die Haushaltslage für 2027 ist.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-regierung-muss-arbeitsagentur-mit-milliarden-kredit-helfen/100267082.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T22:58:41+00:00",
+   "tag": null
+  },
   {
    "id": "a7e09581d02898c1",
    "k": "finanzen",
@@ -126,6 +253,18 @@
    "link": "https://www.welt.de/politik/ausland/article6af24820d0fb1ac9ce0ed30e/katar-vermittlung-trump-erklaert-iran-krieg-fuer-militaerisch-beendet.html",
    "quelle": "Welt",
    "zeit": "2026-11-09T22:36:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7827f1bdeb8bdcf9",
+   "k": "deutschland",
+   "titel": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+   "t": "Die Union nominiert Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin. Merz äußert sich dazu und Aigner will als Staatsoberhaupt Gräben überwinden.",
+   "e": "Die Bundesversammlung wählt das Staatsoberhaupt; die Kandidatur ist ein zentraler Personalentscheid der Union.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-09T22:35:25+00:00",
    "tag": null
   },
   {
@@ -234,6 +373,30 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1djVFplZHlwbHY0N25VRjBBLUIyR3piY3ZfZlpMMjJvaU4yVWU2Y2VuYWkzTnhtRjJrN3E1TGpHa0ZjTFluVmQtQnlpUVllelNnXzBvS0tWVEMxemszMFFjQzBNUk5Nay11ekdfUjkwaHhEcVk0ZTdzVjFMV21KTmhOSndQalROR1NDTW9ScVM3Y3VZcUE?oc=5",
    "quelle": "DIE ZEIT",
    "zeit": "2026-11-09T21:01:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "e6ed05b44fa40160",
+   "k": "usa",
+   "titel": "SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend",
+   "t": "Der Supreme Court hebt eine Blockade auf und erlaubt dem Trump-Ministerium vorläufig den Weiterbau der Grenzmauer im Big-Bend-Sektor in Texas. Die Klage von Umweltgruppen läuft weiter.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T21:01:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "f79a2376468d5328",
+   "k": "finanzen",
+   "titel": "Children’s Place files for bankruptcy protection, seeks buyer",
+   "t": "The Children's Place hat Insolvenz nach Chapter 11 angemeldet und sucht bis 9. Dezember nach Käufern.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-09T20:57:46+00:00",
    "tag": null
   },
   {
@@ -549,6 +712,18 @@
    "tag": null
   },
   {
+   "id": "343d4e25a5d494e2",
+   "k": "welt",
+   "titel": "Klimaanpassung: Die EU bereitet sich auf drei Grad Erderwärmung vor",
+   "t": "Die EU bereitet sich auf eine mögliche Erderwärmung von drei Grad vor und setzt verstärkt auf Klimaanpassung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-eu-bereitet-sich-auf-drei-grad-erderwaermung-vor-201642712.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-09T19:17:45+00:00",
+   "tag": null
+  },
+  {
    "id": "cd401f964b01326f",
    "k": "usa",
    "titel": "Verlacht, verachtet und gefürchtet: Hardliner Stephen Miller übernimmt das Weiße Haus - TZ",
@@ -570,6 +745,18 @@
    "link": "https://www.welt.de/politik/deutschland/video6af2146239ea9ae342b207ac/pali-flagge-am-reichstag-haftstrafe-ist-die-einzige-sprache-die-solche-straftaeter-verstehen.html",
    "quelle": "Welt",
    "zeit": "2026-11-09T19:08:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "2b15e694bdb70da8",
+   "k": "usa",
+   "titel": "Schumer's grip on power slips as Dems begin to revolt against him, eye new leadership",
+   "t": "Chuck Schumer soll laut Berichten an Rückhalt bei den Senats-Demokraten verlieren, einige erwägen Alternativen zu seiner Führung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-09T19:08:31+00:00",
    "tag": null
   },
   {
@@ -630,6 +817,30 @@
    "link": "https://www.welt.de/politik/deutschland/video6af20f2979e1656222c38059/drossmann-gegen-wehrpflicht-ich-wuerde-eine-wehrpflicht-doch-nicht-aus-einer-unwaegbarkeit-heraus-beschliessen.html",
    "quelle": "Welt",
    "zeit": "2026-11-09T18:35:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b9fdde5b1aaa7c1",
+   "k": "finanzen",
+   "titel": "Fed's Goolsbee says AI spending resembles demand shock - Asset Securitization Report",
+   "t": "Fed-Gouverneur Goolsbee sagt, die Ausgaben für KI wirkten derzeit wie ein Nachfragеschock für die Wirtschaft.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXdPY0dzQkI3YXFIRmlTQjBkbTkyaTRpaERmNGRjYjJuNmF1S3NnaVQ3V3R5SXNYMDRLYnI3S2xrbllnTGxaY1JkNTlFb1ZpbVhsdThqTnBxS1M1YnlfTHdCM3ZGNmg4THMwUTJONEQyZUkzUnVjOVlzVEphdlJVNFJiOW1ibF9lMWtYa3N4Y3JMMHhBVHhBTGtR?oc=5",
+   "quelle": "Asset Securitization Report",
+   "zeit": "2026-11-09T18:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "27279cf7d497d072",
+   "k": "finanzen",
+   "titel": "Fed-Chef Barkin sieht kein Basisszenario für die Dezember-Sitzung - MarketScreener Deutschland",
+   "t": "Fed-Chef Barkin sieht kein Basisszenario für die Dezember-Sitzung der US-Notenbank.",
+   "e": "Die Erwartungen an die Dezember-Sitzung der Fed sind offen und beeinflussen Zinsmärkte und Aktienkurse.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnRiU2RrVzZtOFpvanNYd0NSMWd4SURMSlZtbVN4OERUemhHR2poRFo0ZWJOSjlDa01sS29rT2MxYVFOcmFEcHRtXzBGUlJyUkVJblB6WHlxcF9Ia1k5Ql9IOUxYN0pBUHdCWEhPcXdlTjdsUTdJQTZlazlYTXdqUE1vTzRhSkdvMzA2NVBTbzg3ZHNkeW1uRHhScjVrRnJXcmpWT0gwekthdTFvSFRaRlQ5cUFfTnozeHpHbFhscnBWRDlFcUJ4UVE0b2M?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-09T18:34:15+00:00",
    "tag": null
   },
   {
@@ -762,6 +973,30 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/judentum-merz-schutz-juedischen-lebens-bleibt-eine-pflicht/100268537.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-09T18:01:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "132e79431d175f02",
+   "k": "deutschland",
+   "titel": "„Stehen unverbrüchlich an der Seite Israels“, versichert Merz – Aigner beklagt „Klima der Angst“",
+   "t": "Bei einem Festakt in München versichert Merz die Unterstützung Deutschlands für Israel und fordert besseren Schutz für Juden. Aigner beklagt ein 'Klima der Angst'.",
+   "e": "Die Bedrohungslage für jüdische Einrichtungen ist ein zentrales Sicherheitsthema in Deutschland und NRW.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/article6af1fea4c422fb6d38f48358/synagogen-festakt-in-muenchen-stehen-unverbruechlich-an-der-seite-israels-versichert-merz-aigner-beklagt-klima-der-angst.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T17:52:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "928a3c57e8cdfc1f",
+   "k": "usa",
+   "titel": "Zwei Festnahmen nahe dem Weißen Haus – Präsidentensitz kurzzeitig abgeriegelt",
+   "t": "Zwei Männer sind nahe dem Weißen Haus festgenommen worden, der Präsidentensitz war kurzzeitig abgeriegelt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af2050cc422fb6d38f483bd/washington-d-c-zwei-festnahmen-nahe-dem-weissen-haus-praesidentensitz-kurzzeitig-abgeriegelt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-09T17:50:49+00:00",
    "tag": null
   },
   {
@@ -1293,6 +1528,18 @@
    "tag": null
   },
   {
+   "id": "356d11a5fca73c2b",
+   "k": "finanzen",
+   "titel": "Fondsanbieter: Bafin zieht bei Deutsche-Finance-Fondstochter die Notbremse",
+   "t": "Die Bafin setzt einen Sonderbeauftragten als Geschäftsführer der Deutsche Finance Investment GmbH ein, um die bis zu 50.000 Anleger der Publikumsfonds zu schützen.",
+   "e": "Der Fall betrifft viele Kleinanleger und zeigt, wie stark die Finanzaufsicht bei Fondsanbietern eingreift.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fondsanbieter-bafin-zieht-bei-deutsche-finance-fondstochter-die-notbremse/100268489.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T16:10:18+00:00",
+   "tag": null
+  },
+  {
    "id": "920834f99e914558",
    "k": "finanzen",
    "titel": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
@@ -1386,6 +1633,18 @@
    "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSVpueGlXendTLWpBblVDNlRsTTBLcXNpY0owaGUxVVJhMnJlS2NIZE5IdE5FY05jTTl5ZzE2NkQ0ZkhrWTNSc190UUJ4alhGZmxMcTlLZl9OZFlJcmY4NFB4c3dEMnkxbTVLOFdkYVpYaFRURlF3VmpaSUdCWUhIbzVKQVY1dGpsZmpkeFJWUFU2RWFvSlZJcnJ2OGpRcUN1MlpObldNQjJ5YzBnZlB0ZUtrem9CVjFOb0FYVzJkWU1tc1RJdFpqR3VJeGk1YUZnUzF2YnV0VFFrUXYyN2JSd1Q1aWRKczREQzd1Z3hJRDBxdDU0VkdFaW5KMkgxajE5OWJ1c1Q2VWZseHp3MndBeXNnSG1XNDVvTWlGcVJuRDNId3UyN1ZPMG41MDVyM2p5RVV5Y095bk9UUjZyTjVKUERwc0lwOXFxc1lJbWdCc2k4NzN0SVNKQUF5YjBDMFdjRk5n?oc=5",
    "quelle": "News.de",
    "zeit": "2026-11-09T15:58:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "ba2eb93d5db03c6d",
+   "k": "welt",
+   "titel": "Frankreich: Der einsame Präsident – diese Alleingänge kosteten Macron das Vertrauen",
+   "t": "In Frankreich treffen Ausschreitungen und Streiks auf einen Präsidenten, der nach Berichten kaum noch Rückhalt hat, sechs Monate vor dem Ende seiner Amtszeit.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/frankreich-diese-alleingaenge-haben-macron-das-vertrauen-gekostet-01/100264909.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-09T15:58:00+00:00",
    "tag": null
   },
   {
@@ -1713,6 +1972,18 @@
    "tag": null
   },
   {
+   "id": "95a00bd449388641",
+   "k": "finanzen",
+   "titel": "TREASURIES-Renditen uneinheitlich, während Händler Börsenschwankungen und Fed-Ausblick abwägen - MarketScreener Deutschland",
+   "t": "Die US-Staatsanleihenrenditen zeigen ein uneinheitliches Bild, während Händler Börsenschwankungen und den Ausblick der Fed abwägen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRmlzTEVqeFVSZ3k0bU9jd3NPbUo1Q19RUWs0VkwtMHZPTW1QYll1TmR3cmlaOUlWMkJTWk5IQUxROXdEMjNFZHZTMUN3XzR3SDE0dlZORE5TR3lRZ3hoNFM3VHkwMi0wUkVvLUZIc2hPcWx5MjQ0QWUzTE9oYVg3bm92WVFkeXBuME16bzVpSzRKUzI5SkhOLVY4M0RRZmtwVmR3UGgzTVZNYVRhdnUyVG1VTUNkTWhyT0l5Q0R5M0l2dlp6eTE1UlJvQm0tbFJBMVJXbGhnaUNzU1oxWlY1YVNyRDM0eXlocnd3cFNETTZWVUZBOFE?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-09T15:06:25+00:00",
+   "tag": null
+  },
+  {
    "id": "a10dac1f3478734f",
    "k": "welt",
    "titel": "Rubio blasts Iran’s ‘outrageous and ridiculous’ demands — casting doubt on diplomatic breakthrough",
@@ -1989,6 +2260,18 @@
    "tag": null
   },
   {
+   "id": "9e602ba59701cebd",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Bedrohungslage: Mehr Geld für jüdische Gemeinden in NRW - n-tv.de",
+   "t": "Wegen der Bedrohungslage erhalten die jüdischen Gemeinden in NRW mehr Geld.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnF3WTVPR2RmS1h6eWhWcDlTNGZ5Y0lYaHViWGpIYnVSdjFyQ2ZJVU9XeTh5OEpfblNGMVRHdWVsSmxnMzFZWGt3Szc0bGJYeXRQdW92OWRfMWRyR2ZnTHZ0aURrNkNQbkNVckxNUkR3VGZ2SDhUbnFfbGZMUDVSb3gyU1NnQWM4UGE1SldDVkIzUnlNeDQtdklnZFdqSndYTUhJZWFUTTdMNWphZEpUY3FxUFRIakgtaDYxbmNuZXU?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T13:46:00+00:00",
+   "tag": null
+  },
+  {
    "id": "775e8aeb126bdbf1",
    "k": "finanzen",
    "titel": "Nvidia-Affäre lässt Aktie einbrechen",
@@ -2022,6 +2305,18 @@
    "link": "https://www.nzz.ch/international/raetselhafter-ebola-fall-schweizerin-geht-es-besser-ld.10056188",
    "quelle": "NZZ",
    "zeit": "2026-11-09T13:38:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a2f8c0ca2b35b013",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Urteil gefallen: Erkelenzer hat vier Jungen sexuell missbraucht - tagesschau.de",
+   "t": "Ein Gericht verurteilt einen Mann aus Erkelenz wegen sexuellen Missbrauchs von vier Jungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQXZ1amhvVkt2QTJ3VjJsS2dPZDlYbUt2TFh1VEo5TUw5WU5hSzA2SDhDd1NDUHhBcW8zQmkzWFdpVHRKQ3g0Q0JVeFNTd3MxYm5fT0dWVjhObW13b1l4LUM2bllKRzhQU1RRSV9NZFppdy1ScDJORWRsQTNpUUJfVFdtcnRVNTd2cnRTc0F0emdCQU45aFl0eFRlSmNEU1RsRklMUXkyTGVzb0pyMHppRmNINWZyNDMtNVBhUVd6NWRvZUNrbHg0Tzh4dEJIdmlqOEE?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-09T13:31:00+00:00",
    "tag": null
   },
   {
@@ -2082,6 +2377,30 @@
    "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
    "quelle": "CNBC",
    "zeit": "2026-11-09T13:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "329fa2808d771085",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Döner-Eröffnung in Dortmund eskaliert - Polizei sucht Täter - n-tv.de",
+   "t": "Die Eröffnung eines Döner-Ladens in Dortmund eskaliert, die Polizei sucht die Täter.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzhqWEk0cDZ2dzdMd0ZLb2xld1ZLcWY1eG5JTkd4ZTFUdWhHMVd4SnpjWXYtVUhfOENTcVp4eFpMTFlnam00REFKREs3QnpYNUlibTh3WUJfbmYwVi1ZaTBaZ0k3V0dUeWZBZ1RIY0hEeHlpTnVDWVU5cVduTEdoNWJONU8xTi10dmhsLWN1Rmtvc3YzRWo2NWFhVlNrWkVNcTg4ZVRUWHNrc3VLV1QtZU1abWFiTmJlT245M2o1WGh0SHB0ZGc?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-09T12:59:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "d410ef26e910cf59",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Vodafone streicht 2.300 Stellen - tagesschau.de",
+   "t": "Vodafone streicht rund 2.300 Stellen, Teil des Sparkurses im Mobilfunkgeschäft.",
+   "e": "Der Stellenabbau ist Teil der Kostensenkung im Telekommunikationsmarkt in Deutschland.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeEkzbmpuSE5pSTU4TGszOTU3UzdZUVRJWUJsb3RmVjZpeTVKVmFOd3kyOWFrZXRfbW9EbThQOTdrSFAya19JWFNYODFLcGRkcXQwVjFKM2Z5Zzd0QzRHaU53WS1hRUl2enBWWnBYV1M2VnhGUGlleFRfdFlZYm16V01vODI5U0JjbGxjSTA1UXBXLWViN2trem55WkZ4Qlk0RUhFNGM3aklSeXBEeHZYdWtNcXk1WlgtTkZHMnFHY3k2emt0bnNVU2RNVHZTQ1pmWS0w?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-09T12:57:00+00:00",
    "tag": null
   },
   {
@@ -2445,6 +2764,18 @@
    "tag": null
   },
   {
+   "id": "38e413594ba33c47",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Senior bedroht Kinder mit Luftgewehr - tagesschau.de",
+   "t": "Ein Senior soll Kinder mit einem Luftgewehr bedroht haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0lHR25vQlAtM1pRRmc4SVBoMUlabDZEdTcyN2Zod1dwamhrSUdBVGJfampxNDRnTllUX05UQmpXZjhNQ1NwM3FzQ2xkLWR2Wlc1eEVZYURDTjlSc3VfcGxYai1qZ25Selp1Q2xnSi04SjF5cFllamRNMGlMZ1BWaVlfTTRhRm05R0plNWRqc2ZmZ1dpX2N6bmVhbEh5U3pyYVNad21HbjZoU0RnaDJrS1VkUGt5SEhZQmZvYUYzZ1ZQY21ySzRHTlplRnQ?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-09T11:20:00+00:00",
+   "tag": null
+  },
+  {
    "id": "2c600e096d82a372",
    "k": "usa",
    "titel": "Trump rudert bei Dana White zurück und nennt Massenabschiebungen „zu hart“ - WELT",
@@ -2743,342 +3074,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-09T10:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "f7974bcd85a93328",
-   "k": "finanzen",
-   "titel": "Gold slips in early Asian trade as rate-hike expectations grow - سانا",
-   "t": "Gold gibt im frühen asiatischen Handel leicht nach, da die Erwartungen an weitere Zinserhöhungen wachsen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PTlpweXJzYkJvakY4VFljTnphSkRzWHJ2RHQwbFRFMmNuSnMyNVNJZHo4QXRCV2RVU1doYnd2SWpWLVdGb0diYllmbjE?oc=5",
-   "quelle": "سانا",
-   "zeit": "2026-11-09T09:29:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "9672a605f49ead2d",
-   "k": "welt",
-   "titel": "\"Heftiges Symbol\", Silke Diettrich, ARD Moskau, zum Aus von unabhängiger russischer Zeitung Nowaja Gaseta",
-   "t": "Die unabhängige russische Zeitung Nowaja Gaseta stellt ihre Arbeit ein.",
-   "e": "Das Ende der Zeitung schränkt unabhängige Berichterstattung in Russland weiter ein.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1680638.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T09:24:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "5872045677585bfb",
-   "k": "deutschland",
-   "titel": "Schneider fordert Alternative zur Plastiksteuer",
-   "t": "Umweltminister Schneider schlägt eine Alternative zur Plastiksteuer vor, nachdem Unionsfraktionschef Frei eine solche Steuer ausgeschlossen hatte. Über die möglichen Einnahmen wird bereits diskutiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-09T09:03:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "969f38e64b01a3d7",
-   "k": "usa",
-   "titel": "Binance, Tether and Trump crypto firms face Senate records deadline",
-   "t": "Der US-Senator Richard Blumenthal hat vier Krypto-Firmen, darunter Binance und Tether, aufgefordert, bis 30. November Unterlagen zu übermitteln. Bei Versäumnis bis 4. Januar drohen weitere Schritte.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-09T09:00:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "c17789f0f333691a",
-   "k": "usa",
-   "titel": "US-Präsident Trump bezeichnet Jobangebot für neuen Pressersprecher White als Spaß",
-   "t": "Trump bezeichnet das Jobangebot für den neuen Pressesprecher Steven Cheung nicht ernsthaft.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/video/video-1680608.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T08:57:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "418883021f2c77d5",
-   "k": "nrw",
-   "titel": "Imbiss-Eröffnung mit Döner für einen Euro eskaliert – Polizisten mit Flaschen und Stuhl beworfen",
-   "t": "Bei der Eröffnung eines Imbisses in Dortmund mit Döner für einen Euro kam es zu einem Massenandrang. Polizisten wurden mit Flaschen und einem Stuhl beworfen.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/article6af169eef440347ad9f2fa9c/dortmund-imbiss-eroeffnung-mit-doener-fuer-einen-euro-eskaliert-polizisten-mit-flaschen-und-stuhl-beworfen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:57:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "e0bff860c685eecf",
-   "k": "deutschland",
-   "titel": "Endlich! Merz spricht sich für Ilse Eigner aus Westfalen aus",
-   "t": "Bundeskanzler Merz hat sich für Ilse Aigner aus Brakel als neue Bundespräsidentin ausgesprochen. Die Nachfolge von Steinmeier ist damit ein Stück weiter geklärt.",
-   "e": "Die Entscheidung ist für die Union und den Bundestag wichtig und betrifft mit Aigner eine Politikerin aus Westfalen.",
-   "s": 7,
-   "link": "https://www.welt.de/satire/article6af188cb80d3a1c6aa66e01a/endlich-merz-spricht-sich-fuer-ilse-eigner-aus-westfalen-aus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:55:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "1dda0fe48c037f54",
-   "k": "welt",
-   "titel": "„Die Türkei ist jetzt auch nicht besonders für Klimaschutz bekannt“",
-   "t": "Zur Klimakonferenz in Antalya kommen Vertreter aus rund 200 Staaten sowie zehntausende Delegierte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/video6af18897eaa675c45847c3d8/weltklimakonferenz-in-antalya-die-tuerkei-ist-jetzt-auch-nicht-besonders-fuer-klimaschutz-bekannt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "138272e15850afb8",
-   "k": "finanzen",
-   "titel": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
-   "t": "Die Ölpreise sind deutlich gesunken, weil Anleger auf ein baldiges Ende des US-Iran-Krieges hoffen. Ein Abkommen ist noch nicht unterzeichnet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-09T08:52:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b32737640233e7d",
-   "k": "deutschland",
-   "titel": "Ein Viertel der Juden fühlt sich angefeindet – neue Zahlen aus Hamburg",
-   "t": "Laut Hamburger Antisemitismusbeauftragter fühlt sich ein Viertel der Juden angefeindet, auch in Schulen und Universitäten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/regionales/hamburg/article6af1851deaa675c45847c39a/hass-im-netz-ein-viertel-der-juden-fuehlt-sich-angefeindet-neue-zahlen-aus-hamburg.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:48:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "e92335ea2f9fcc91",
-   "k": "deutschland",
-   "titel": "„Migrantisches Milieu“: Die Stunde der Sozialarbeit",
-   "t": "In Frankfurt haben Männer randaliert. Stadträtinnen, Sozialarbeiter und Zuwanderervereine sollen nun bei der Lösung helfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/nach-krawallen-in-frankfurt-sozialarbeiter-und-zuwanderervereine-gefragt-201662824.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T08:48:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "a12381599a08f5db",
-   "k": "finanzen",
-   "titel": "Banken: Crédit Agricole will Banco BPM mit Italien-Tochter fusionieren",
-   "t": "Crédit Agricole will die italienische Banco BPM mit ihrer Italien-Tochter fusionieren, wodurch die drittgrößte Bank des Landes entstehen soll.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-credit-agricole-will-banco-bpm-mit-italien-tochter-fusionieren/100268387.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T08:43:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "2afdbcb4b0e3ac16",
-   "k": "welt",
-   "titel": "\"Todesschütze im Krankenhaus gestorben\", Lisa Posorske, ARD-aktuell, zur Lage nach Schusswaffenangriff in Krakau",
-   "t": "Nach einem Schusswaffenangriff in Krakau ist der Todesschütze im Krankenhaus gestorben.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1680598.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-09T08:42:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "44080face39a9ccb",
-   "k": "finanzen",
-   "titel": "Bawag-Aktie: EZB genehmigt 1,6-Milliarden-Euro-Übernahme - ad-hoc-news.de",
-   "t": "Die EZB hat die Übernahme der österreichischen Bawag für 1,6 Milliarden Euro genehmigt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXNFcWl4QW96ZFFic2pseFBwR2VDMFBFQ2ZEZXM2dlE4ZzFsZWlYTkVmYnRjSWFqeWxZX3RvYTNnNUZ2a0dPZ1RJc3A1V2lBbTE2SUdqVFQtQmIySmFWQjRnS09xc2pDMzJrMkhDNUNrUXNZWFVnUnZKejJaVTg5RGRMRVJvdkYwX1RCcm1TbHlMbzRRckNzUmZ1RTNNRERISzZRZUpOTDdWRmlfQTR0TW12MFhGc290azJz?oc=5",
-   "quelle": "ad-hoc-news.de",
-   "zeit": "2026-11-09T08:36:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c836a1ce6867a42",
-   "k": "deutschland",
-   "titel": "„Eine Terrorflagge vor dem Reichstag kann man an Symbolwirkung gar nicht hoch genug bewerten“",
-   "t": "In Berlin hat ein Mann die Deutschlandfahne vor dem Reichstag abgenommen und eine Palästina-Fahne gehisst.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af17d8ca389bc337cfcacfe/eklat-in-berlin-eine-terrorflagge-vor-dem-reichstag-kann-man-an-symbolwirkung-gar-nicht-hoch-genug-bewerten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:36:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "a06b5e3593f8672e",
-   "k": "finanzen",
-   "titel": "Spaniens Wirtschaftsminister: Optimistischer de Cos kann EZB-Spitzenposten erhalten - MarketScreener Schweiz",
-   "t": "Spaniens Wirtschaftsminister de Cos gilt als möglicher Kandidat für einen EZB-Spitzenposten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZHVEYTRFX1A1b1VLcl8tWkxyQ1Etc1NkOEVuY1ZXdmZLVkF3UnA0NTlpRE1Zd2NWd1k3S0RUVFh6Y1l0MV9kUUZGZTlzbHMwa2JmdWl6c3k1R205b1lGVHpMamc1d0tmbGhVMXQyTDRuNjB5SkF1RFdBeGY3TVlxUEkxNURVV2RQTlBWbk9DNjJUaEw2dndyM2ZnWExxMGxJWHdBYVI1WWhwd2VyNmJDaVpfQnhDME03eWNRQ2VGQTN4M0NGVVgzQlVyVGpELTdNT0JsdG53bFdrWjc5WmxlN3d3?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-09T08:35:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "7780eafbaedb7816",
-   "k": "welt",
-   "titel": "COP31 in antalya: Was hat Erdoğan vom Klimagipfel in der Türkei?",
-   "t": "Die UN-Klimakonferenz COP31 hat im türkischen Antalya begonnen. Zwei Wochen lang beraten Vertreter aus etwa 200 Staaten.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/erdoan-gibt-den-vermittler-auf-der-un-klimakonferenz-accg-201647876.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T08:35:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "47b963a7f77eeb2c",
-   "k": "deutschland",
-   "titel": "„Es war die Strategie der Linken, sich teils antisemitische Positionen zu eigen zu machen“",
-   "t": "Die Berliner Linken-Abgeordnete Vanessa Emde will ihr Mandat trotz Rücktrittsforderung des Landesvorstands behalten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af1833853650a498f207bb7/umgang-mit-vanessa-emde-es-war-die-strategie-der-linken-sich-teils-antisemitische-positionen-zu-eigen-zu-machen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-09T08:35:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "336a27982353e915",
-   "k": "nrw",
-   "titel": "Reichspogromnacht: Gedenken im Märkischen Kreis - Radio MK",
-   "t": "Im Märkischen Kreis wurde der Reichspogromnacht gedacht.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHY2OGpCcTlnMnlOQTg4VUFrUjhiclIxZW1xQTc5WEsyTFpnbExmTGlEVk9ZcWN1WWIyUkNIZVdyN2FfZHhJeFJZQUhfTjRUbFBhZ0ZvUi02VDVsRmJ5OHB1YlNVY1BJWjBfdkw4V0hWOEotUVNhLXIzNFdLMHlfUERKZ0RBdURaMFV1S2ZkVQ?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-09T08:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b42d06b4f3853f8d",
-   "k": "finanzen",
-   "titel": "Dax aktuell: Dax startet leicht im Plus – aber unter 26.000-Punkte-Marke",
-   "t": "Der Dax startet nach den Turbulenzen der Vorwoche leicht im Plus, bleibt aber unter der Marke von 26.000 Punkten. Zwei Dax-Konzerne legten überzeugende Quartalszahlen vor.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-leicht-im-plus-aber-unter-26.000-punkte-marke/100268348.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T08:30:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ea6285f802a80ac",
-   "k": "welt",
-   "titel": "DIE NEUESTEN ENTWICKLUNGEN - Migrationskrise in Europa: Mindestens 20 tote Migranten bei Schiffsunglücken vor Kreta",
-   "t": "Vor Kreta sind bei Schiffsunglücken mindestens 20 Migranten ums Leben gekommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/migrationskrise-in-europa-die-wichtigsten-fakten-und-news-ld.1535949",
-   "quelle": "NZZ",
-   "zeit": "2026-11-09T08:29:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "d62530e35267e8df",
-   "k": "finanzen",
-   "titel": "Banken: Unicredit will Anfang 2027 bei Commerzbank durchstarten",
-   "t": "Unicredit will laut Bericht schon in wenigen Wochen bei der Commerzbank das Sagen haben und Anfang 2027 durchstarten.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/banken-unicredit-will-anfang-2027-bei-commerzbank-durchstarten/100268386.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T08:26:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "2a405fb5b9213ed3",
-   "k": "finanzen",
-   "titel": "Banken: Unicredit-Chef beschleunigt Umbaupläne und will Commerzbank früher mit HVB zusammenlegen",
-   "t": "Unicredit will die Kontrolle über die Commerzbank Anfang 2027 übernehmen und die geplante Fusion mit der Tochter HVB vorziehen.",
-   "e": "Die Übernahme wäre eine der größten Bankenumwälzungen in Deutschland seit Jahren und betrifft den deutschen Bankenmarkt direkt.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-will-commerzbank-frueher-mit-hvb-zusammenlegen/100266238.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-09T08:25:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "eda365b2f68dec10",
-   "k": "deutschland",
-   "titel": "FAll Lisa T.: Vermisste Schülerin ist tot – Obduktion soll Hinweise auf Todesursache bringen",
-   "t": "Die vermisste 13-jährige Schülerin Lisa aus Berlin-Marzahn ist tot. Ein Mann steht im Verdacht, sie verschleppt und getötet zu haben. Eine Obduktion soll die Todesursache klären.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/brandenburg-leiche-der-vermissten-schuelerin-aus-berlin-in-haus-gefunden-accg-201664929.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T08:24:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "1cfd28a64470c174",
-   "k": "finanzen",
-   "titel": "EZB nimmt Rechenzentrums-Kredite ins Visier - FinanzBusiness",
-   "t": "Die EZB nimmt Kredite für Rechenzentren genauer unter die Lupe.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ocWYzLXdkbmotZ1BWOS1KcFFRTWV0cW1ZV3doTDkwdjh2UG9qTlVWMlVsQVBWYXJpT0Jrc1BFRFhUaUItYVBHUmFrcFRZZFVfc0RucG9vRURjVHRWbllFMUtwOW9iM1FvTVJvMVNnb25ucG82N3BtYg?oc=5",
-   "quelle": "FinanzBusiness",
-   "zeit": "2026-11-09T08:21:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "948b6d8b9bd3cf2f",
-   "k": "finanzen",
-   "titel": "Huang-Affäre: Nvidia-Aktie nach Spionage-Verdacht vorbörslich im Minus",
-   "t": "Nvidia-Chef Jensen Huang hat eine außereheliche Beziehung eingeräumt. Im Raum steht ein Spionageverdacht, die Aktie lag vorbörslich rund sechs Prozent im Minus.",
-   "e": "Nvidia ist einer der wertvollsten Konzerne der Welt, Personalfragen an der Spitze und Sicherheitsvorwürfe können den Kurs stark bewegen.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktienkurs-wegen-spionage-verdacht-im-minus-201664216.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T08:21:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c693436789529c49",
-   "k": "finanzen",
-   "titel": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-   "t": "Bitcoin-ETFs verzeichneten laut Bericht den größten Wochenabfluss seit Ende Juni, BlackRocks IBIT verlor 1,21 Milliarden US-Dollar. Bitcoin fiel unter 76.000 US-Dollar.",
-   "e": "Der Abfluss zeigt eine nachlassende Nachfrage institutioneller Anleger nach Bitcoin, parallel zu schwächeren US-Technologiewerten.",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-09T08:17:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "f949780c2b7b38fb",
-   "k": "welt",
-   "titel": "Vor Machtwechsel: Die Studenten stellen Serbien schon jetzt auf den Kopf",
-   "t": "In Serbien mischt die Studentenbewegung nach dem Wahlsieg die bislang von Regierungsnahen dominierten Institutionen auf, bevor die neue Regierung gebildet ist.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/nach-sieg-ueber-vui-studenten-stellen-serbien-schon-jetzt-auf-den-kopf-accg-201662502.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-09T08:09:29+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,12 +3081,12 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -3181,7 +3176,7 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Google News Iserlohn",
@@ -3211,10 +3206,12 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 25
    }
   ],
-  "markt": [],
+  "markt": [
+   "EZB Zins: HTTPSConnectionPool(host='data-api.ecb.europa.eu', port=443): Read timed out. (read timeout=15) / HT"
+  ],
   "briefing": null
  }
 }
