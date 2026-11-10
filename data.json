@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-10T05:01:20.166839+00:00",
+ "aktualisiert": "2026-11-10T07:01:40.464627+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.706 $",
-   "delta": -0.018904565397797102
+   "wert": "74.558 $",
+   "delta": 0.3777566115385576
   },
   {
    "name": "Ethereum",
-   "wert": "2.119 $",
-   "delta": -0.8092438754806953
+   "wert": "2.115 $",
+   "delta": 0.13300917737303355
   },
   {
    "name": "Gold",
-   "wert": "4.121 $",
-   "delta": 1.1215023375166888
+   "wert": "4.129 $",
+   "delta": 0.35241220075343804
   },
   {
    "name": "EZB Zins",
@@ -54,28 +54,28 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-09T19:01:35.426524+00:00",
+  "slot": 7,
+  "stand": "2026-11-10T07:01:40.464607+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang ist in eine mutmaßliche Spionageaffäre verwickelt, der Konzern hat eine Untersuchung eingeleitet. Die Nvidia-Aktie fällt deutlich, laut Berichten hat sie mehr als 200 Milliarden Euro Börsenwert verloren."
+    "t": "EZB-Präsidentin Lagarde deutet eine Zinsanhebung an, der EZB-Leitzins liegt bei 2,50 %. Die Fed-Funds-Rate liegt bei 3,88 %, und nach starken US-Arbeitsmarktdaten ist eine Fed-Zinserhöhung im Dezember wahrscheinlicher geworden."
    },
    {
     "k": "finanzen",
-    "t": "EZB-Präsidentin Lagarde deutet eine weitere Zinserhöhung im Dezember an, der Leitzins liegt bei 2,50 %. Ein starker US-Arbeitsmarkt hat laut Meldungen die Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember erhöht, der Fed Funds Satz liegt bei 3,88 %. Zuletzt notierten Deka DAX 229,30 €, iShares MSCI World 128,44 € und Gold bei 4.114 $."
+    "t": "Zuletzt notierten der Deka DAX mit 229,30 €, der iShares MSCI World mit 128,44 € und der Deka S&P 500 mit 139,56 €. Bitcoin lag bei 74.558 $, Gold bei 4.129 $."
+   },
+   {
+    "k": "usa",
+    "t": "Trump erklärt den Krieg gegen den Iran für militärisch beendet und hofft auf ein baldiges Friedensabkommen. Die Seeblockade gegen Iran bleibt jedoch bestehen."
+   },
+   {
+    "k": "finanzen",
+    "t": "Nvidia-Chef Jensen Huang ist in eine Spionageaffäre verwickelt, der Konzern hat eine Untersuchung eingeleitet und die Nvidia-Aktie fällt. Trump zufolge ermittelt das FBI wegen einer mutmaßlichen chinesischen Spionin."
    },
    {
     "k": "deutschland",
-    "t": "Bundeskanzler Merz hat die CSU-Politikerin Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominiert, als Nachfolgerin von Steinmeier. Die Wahl durch die Bundesversammlung steht noch aus, und die AfD-Fraktion will sich ihr offenbar nicht vorstellen."
-   },
-   {
-    "k": "nrw",
-    "t": "Vodafone streicht in Deutschland rund 2.300 Stellen, etwa jeder fünfte Arbeitsplatz ist betroffen. Der Konzern mit Sitz in Düsseldorf reagiert damit auf Marktanteilsverluste."
-   },
-   {
-    "k": "welt",
-    "t": "Trump geht nach eigenen Angaben von einem baldigen Ende des Ukraine-Kriegs aus und bringt veränderte Grenzen der Ukraine ins Spiel."
+    "t": "Die Union hat Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominiert, die Steinmeier nachfolgen soll. Die AfD-Fraktion will sich ihr offenbar nicht vorstellen."
    }
   ]
  },
@@ -3091,7 +3091,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -3101,7 +3101,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "Welt",
@@ -3111,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 19
+    "n": 23
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 31
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "NZZ",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 14
+    "n": 16
    },
    {
     "name": "CNBC Finance",
@@ -3176,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Google News Iserlohn",
@@ -3211,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 26
    }
   ],
   "markt": [],
