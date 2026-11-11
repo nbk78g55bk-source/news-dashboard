@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-11T17:01:39.194854+00:00",
+ "aktualisiert": "2026-11-11T19:01:40.220716+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "74.236 $",
-   "delta": 1.8961115246286644
+   "wert": "74.442 $",
+   "delta": 1.3942513454065428
   },
   {
    "name": "Ethereum",
-   "wert": "2.076 $",
-   "delta": 2.9431299008023992
+   "wert": "2.082 $",
+   "delta": 1.954227356222904
   },
   {
    "name": "Gold",
-   "wert": "4.006 $",
-   "delta": -0.595502740872611
+   "wert": "3.995 $",
+   "delta": -0.8734045853392436
   },
   {
    "name": "EZB Zins",
@@ -54,32 +54,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-11T11:01:29.468654+00:00",
+  "slot": 19,
+  "stand": "2026-11-11T19:01:40.220694+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nach einem stärker als erwartet ausgefallenen US-Verbraucherpreisbericht ist die Rendite zehnjähriger US-Staatsanleihen über 5 Prozent gestiegen. Laut Meldungen gilt eine weitere Fed-Zinserhöhung im Dezember als gesetzt; die Fed Funds liegen bei 3,88 %."
+    "t": "Die US-Inflation liegt über den Erwartungen, und an den Märkten ist eine Zinserhöhung der Fed im Dezember inzwischen fest eingepreist. Goldman Sachs erwartet laut Reuters im März eine weitere Erhöhung."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB lässt ihren Zins trotz steigender Inflation unverändert bei 2,50 %."
+    "t": "Marktdaten: Deka DAX 232,80 €, Deka S&P 500 142,74 €, Deka Nasdaq-100 181,82 € und iShares MSCI World 130,96 €. Die EZB lässt die Zinsen trotz steigender Inflation unverändert, der EZB-Zins liegt bei 2,50 %, die Fed Funds bei 3,88 %."
    },
    {
-    "k": "finanzen",
-    "t": "Im Markt zeigen die Kurse Deka DAX 231,90 €, Deka Nasdaq-100 179,60 € und iShares MSCI World 130,00 €. Nvidia verliert laut Meldung binnen einer Woche rund eine Billion Dollar Börsenwert, im Zusammenhang mit der Affäre um Jensen Huang."
+    "k": "usa",
+    "t": "Laut einem Beamten wurde US-Finanzminister Scott Bessent wegen konkreter iranischer Mordpläne gegen US-Funktionäre auf einen Militärstützpunkt verlegt. Netanjahu fordert im Iran-Krieg eine Einheitsregierung."
    },
    {
     "k": "welt",
-    "t": "Im Iran-Konflikt droht die iranische Militärführung Israel mit Vernichtung. Der US-Finanzminister ist nach diesen Drohungen auf eine Militärbasis gereist."
+    "t": "Russland und die Ukraine sprechen unter US-Vermittlung in Abu Dhabi wieder direkt miteinander und vereinbaren einen weiteren Gefangenenaustausch. Ein Gipfeltreffen ist im Gespräch."
    },
    {
     "k": "nrw",
-    "t": "Die Warsteiner Brauerei-Gruppe baut in Nordrhein-Westfalen hunderte Stellen ab, nach Angaben von n-tv etwa jede dritte Stelle."
+    "t": "Ein deutscher Bierkonzern streicht laut BILD jeden dritten Arbeitsplatz in Nordrhein-Westfalen."
    },
    {
     "k": "deutschland",
-    "t": "Nach dem plötzlichen Tod von Wirtschaftsminister Hubert Aiwanger findet am Samstag in München ein Staatsakt im Bayerischen Landtag statt."
+    "t": "Eine Bundeswehr-Studie zeigt, dass fast drei von vier Soldatinnen sexuelle Belästigung erfahren haben, genannt werden verbale Belästigung, unerwünschte Blicke und körperliche Übergriffe."
    }
   ]
  },
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 36
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,12 +3100,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Welt",
@@ -3120,12 +3120,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "NZZ",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 32
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Google News Fed",
