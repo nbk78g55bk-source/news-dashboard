@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-11T06:02:58.256340+00:00",
+ "aktualisiert": "2026-11-11T07:01:21.880846+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "73.852 $",
-   "delta": -1.1071678312765743
+   "wert": "73.547 $",
+   "delta": -1.367357537049915
   },
   {
    "name": "Ethereum",
-   "wert": "2.069 $",
-   "delta": -2.4379462716915725
+   "wert": "2.054 $",
+   "delta": -2.918964043845016
   },
   {
    "name": "Gold",
-   "wert": "4.066 $",
-   "delta": 0.8882946072617415
+   "wert": "4.067 $",
+   "delta": 0.9155885384147133
   },
   {
    "name": "EZB Zins",
@@ -85,6 +85,294 @@
  },
  "items": [
   {
+   "id": "b5da01c2ade11331",
+   "k": "welt",
+   "titel": "Großbritannien: US-Soldat wegen Spionageverdachts für Russland festgenommen",
+   "t": "In Großbritannien wurde ein hochrangiger US-Soldat wegen Verdachts der Spionage für Russland festgenommen. Der Zeitpunkt der Festnahme wirft Fragen auf.",
+   "e": "Ein mutmaßlicher Spionagefall mit einem hochrangigen US-Militär berührt das westliche Bündnis und die Sicherheitslage in Europa.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/grossbritannien-us-soldat-wegen-spionageverdachts-fuer-russland-festgenommen/100268990.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:54:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "056366801fb84ac8",
+   "k": "deutschland",
+   "titel": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+   "t": "Laut Rheinischer Post melden sich ältere Beschäftigte deutlich häufiger krank: mehr als 30 Tage im Jahr, etwa doppelt so viel wie der Durchschnitt. 60- bis 65-Jährige fallen zudem häufiger länger aus.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/krankenstand-aeltere-beschaeftigte-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-11T06:51:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "d28edda663ababe8",
+   "k": "welt",
+   "titel": "Österreichs Innenminister fordert Zurückweisung von Flüchtlingen ohne individuelle Asylprüfung",
+   "t": "Österreichs Innenminister Gerhard Karner fordert, Flüchtlinge bei einem von Schleusern organisierten Massenansturm ohne individuelle Asylprüfung an der Grenze zurückweisen zu können.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/video6af40b1342c2bfde5b99394a/gerhard-karner-oesterreichs-innenminister-fordert-zurueckweisung-von-fluechtlingen-ohne-individuelle-asylpruefung.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:51:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "d8085554580ee8b6",
+   "k": "finanzen",
+   "titel": "Immobilien: Deutschland verliert bei Immobilieninvestoren an Attraktivität",
+   "t": "Laut einer Studie verliert Deutschland bei Immobilieninvestoren an Attraktivität: Die Zahl deutscher Metropolen in den europäischen Top Ten sinkt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-deutschland-bei-investoren-an-attraktivitaet-verliert/100266860.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:47:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6c925a8d6b1a0f8e",
+   "k": "deutschland",
+   "titel": "Krawalle in Frankfurt: Poseck kündigt mehr Polizei und härtere Gangart an",
+   "t": "Hessens Innenminister Poseck kündigt nach den Ausschreitungen vom 31. Oktober in Frankfurt mehr Polizei und eine härtere Gangart an. In einer Sondersitzung des Innenausschusses warnt er davor, die Gewalt zu verharmlosen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/krawallnacht-in-frankfurt-poseck-kuendigt-mehr-polizei-und-haertere-gangart-an-accg-201671202.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-11T06:46:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "583b68fb883434d4",
+   "k": "deutschland",
+   "titel": "Deloitte-Studie: „Pflegefinanzen unter Druck“: Milliardenpotenzial durch KI und Robotik in der Pflege",
+   "t": "Eine Deloitte-Studie geht davon aus, dass die Pflegeausgaben bis 2050 auf 305 Milliarden Euro im Jahr steigen könnten. KI und Robotik könnten den Anstieg im besten Fall bremsen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/studie-milliardenpotenzial-in-der-pflege-durch-ki-und-robotik/100268426.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:45:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1c159572f93e7ed1",
+   "k": "finanzen",
+   "titel": "Goldman nimmt nach überraschend hoher Inflation weitere Zinserhöhung in Fed-Prognose auf - MarketScreener Schweiz",
+   "t": "Goldman Sachs nimmt nach überraschend hoher Inflation eine weitere Fed-Zinserhöhung in seine Prognose auf.",
+   "e": "Eine höher als erwartete Inflation erhöht den Druck auf die Fed und stützt die Erwartung weiterer Zinsschritte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUpSSDZjMmlnS2RGV2ZVZ3ZjSTc1eUFLUDg2NktCcVl5TDFobVNpbFIzVjhYMlZtcnZXUzAyQlZVYlFBZnN2dkhwTGNGNnluWlRVUzQtUGtubUxwRDJGR0lMckVlRS1HSmRQZFF5ZlRRYV9YOEZHOWlacTBxNEJYTGloZHhqT1dYMG9KQjV4ZXg0d1JNQThFQndCVWNjX09MMlZFMjRVV0RSd1NCZGUyNURRS091RV9aZGt2c0xmeVVLNzM4X2Y5OEhkN2pILWh4VUtiRGRkUFhpYUlvYWJHYWxHbi1CWWZUbG9veA?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-11T06:43:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "482645cc481b6530",
+   "k": "finanzen",
+   "titel": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
+   "t": "Ein britischer Wirtschaftsthinktank fordert, die Bank of England solle den Leitzins auf rund 5 Prozent anheben, um die Inflation innerhalb von drei Jahren zu bremsen. Die Notenbank agiere zu langsam.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/economy/global/boe-should-raise-key-rate-to-around-5-u-k-economic-think-tank-says-04090d09?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-11T06:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "22b3be88ad330d1e",
+   "k": "nrw",
+   "titel": "Vier junge Menschen sterben bei schwerem Autounfall in NRW - n-tv.de",
+   "t": "In Nordrhein-Westfalen sind bei einem schweren Autounfall vier junge Menschen ums Leben gekommen.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjVGWTVLcDFic1h5c0JpMFVKQlprYjBuU0J2SzZXeHNrWDdSWkxYX2x4b09MSWFOMFAxbjVPMVJTcGlXS1h3dllRTlBXS1k4QUNjOXBoV3htNWdnWDZ5WDR2NVpvQnhDT09uY1BwS2NRZ2F1dktHZW9YTEtkM2pENXJZOHhmZEpqVlZOaUdmYktFc2lvMHFLYWFBZFFBelp1TlFWdDhNYlk1WHVmaS14TG53MXJKdzJZTkk5NmVkSmoxOURaM3daZnRBcHA?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-11T06:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c7ad1567fcbf9c6c",
+   "k": "finanzen",
+   "titel": "Marktbericht: DAX-Rekord bleibt in Sichtweite",
+   "t": "Zur Wochenmitte könnte der DAX seine Rekordjagd wieder aufnehmen. Erste Indikatoren deuten auf Kursgewinne hin.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-11T06:38:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ae52773087a269a",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: A4 bei Köln nach schwerem Unfall nicht mehr gesperrt - n-tv.de",
+   "t": "Die A4 bei Köln ist nach einem schweren Unfall wieder frei, die Sperrung wurde aufgehoben.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenlVV2VrTjhsNF9FbWNINnQzNUVkbUJkSXgtdlVwSy1kc0NOazczX1VGV20zdmxGWmZyQzRoLVZ6YV8wWk95MlU4M3N4LWFWdlFRMXo2dEdzaGU3RUJzeVJ4YzdUSWxXYk1Ua2ZtSjBoQUltUHVTVk4tRW1uRVZnN2RtMVlyMjNNRVJxWk5DSGxReU51YThmZUVNSkhCb1NMaVI5c3B1M2tVSm9QRkhBc0ZySzFubGNqalJ1Zw?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-11T06:38:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d44da8b4bdf4fd7a",
+   "k": "welt",
+   "titel": "Lettland und Litauen warnen vor Drohnen – Bürger sollen Schutzräume aufsuchen, Kampfjets steigen auf",
+   "t": "Lettland und Litauen warnen vor Drohnen und rufen Bürger in mehreren Regionen auf, Schutzräume aufzusuchen. Kampfjets sind aufgestiegen. Auslöser sind offenbar ukrainische Drohnenangriffe auf den Nordwesten Russlands.",
+   "e": "Der Vorfall betrifft NATO-Mitglieder im Baltikum und zeigt, wie der Ukraine-Krieg auf Grenzregionen des Bündnisses übergreift.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/article6af40652f0b67a4b246650bf/ukraine-krieg-lettland-und-litauen-warnen-vor-drohnen-buerger-sollen-schutzraeume-aufsuchen-kampfjets-steigen-auf.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:37:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "29f6eb613c1edc8a",
+   "k": "usa",
+   "titel": "SUV-Fahrer fährt auf Bürgersteig – drei Tote in Los Angeles",
+   "t": "In North Hollywood hat ein SUV-Fahrer Passanten auf einem Bürgersteig erfasst. Drei Menschen kamen ums Leben, drei weitere wurden verletzt, darunter der Fahrer. Die Hintergründe sind unklar.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/article6af4076d42c2bfde5b993919/los-angeles-suv-fahrer-faehrt-auf-buergersteig-drei-tote-in-north-hollywood.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:37:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "200ae6da25da2973",
+   "k": "deutschland",
+   "titel": "Mehr Sanktionen bei neuer Grundsicherung – Jobcenter-Mitarbeiter klagen jedoch über Schlupflöcher",
+   "t": "Im ersten Monat der neuen Grundsicherung zählte die Bundesagentur für Arbeit 39.803 neue Sanktionen. Jobcenter-Mitarbeiter kritisieren weiter Bürokratie und Schlupflöcher.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/video6af409f5f0b67a4b24665101/erste-zahlen-mehr-sanktionen-bei-neuer-grundsicherung-jobcenter-mitarbeiter-klagen-jedoch-ueber-schlupfloecher.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:36:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "0a291f70a19d1751",
+   "k": "welt",
+   "titel": "„Unterm Strich kommt man bei diesen Verhandlungen in Abu Dhabi nicht weiter“",
+   "t": "Bei den unter US-Vermittlung in Abu Dhabi laufenden Verhandlungen zwischen Russland und der Ukraine ist laut Korrespondent keine Annäherung erkennbar.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/video6af40a32f0b67a4b2466510d/ukraine-krieg-unterm-strich-kommt-man-bei-diesen-verhandlungen-in-abu-dhabi-nicht-weiter.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:36:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "bab88ec6b2f4d6b3",
+   "k": "nrw",
+   "titel": "Forderung aus Düsseldorf: Kostenlos mit Bus und Bahn zum Advent in ganz NRW - DerWesten",
+   "t": "In Düsseldorf wird gefordert, dass Bus und Bahn in ganz NRW in der Adventszeit kostenlos genutzt werden können.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXhxWU1aTjVGMmZxNHdobnhRS3ZOb0R0Zkl3bVBINmtjR3plNGtOd0NnaFRCMU9SSTRldEg5TzlkSVJtUF93UG5iQTM1ZkZGUmJmYVU0bnVYVFlSZzJlNHlOdVRzTHdzSFFhRDRxYnZsNWlqN1Jab21QbkoxZVhhVk9qaUVNdmlJUTltVWJaMWNZVnJZ?oc=5",
+   "quelle": "DerWesten",
+   "zeit": "2026-11-11T06:34:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b843d1761fb5dd5",
+   "k": "finanzen",
+   "titel": "Porsche SE: Krise bei Volkswagen und Porsche reduziert Vermögen der Eigentümerfamilie",
+   "t": "Die Porsche SE muss mehrere Beteiligungen wegen der Krise bei Volkswagen und Porsche massiv abwerten. Das Vermögen der Eigentümerfamilie sinkt dadurch.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-krise-bei-vw-und-porsche-reduziert-vermoegen-der-eigentuemerfamilie/100268469.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:33:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "189d88ae22288e4c",
+   "k": "finanzen",
+   "titel": "+++ Geschäftszahlen +++: Bilfinger sieht zurückhaltende Kunden und deutlich weniger Geschäft",
+   "t": "Bilfinger meldet zurückhaltende Kunden und deutlich weniger Geschäft. Sportschuhhersteller On übertrifft die Erwartungen, Brenntag legt starke Zahlen vor.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-bilfinger-meldet-deutlich-weniger-geschaeft/24098412.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9d4e2e409ced66a7",
+   "k": "finanzen",
+   "titel": "Energie: Eon steigert Ergebnis leicht und hält an Investitionsplänen fest",
+   "t": "Eon steigert sein Ergebnis im dritten Quartal leicht und hält an den Investitionen in die Netze fest, trotz des zuvor bekannt gewordenen Sparprogramms.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-eon-steigert-ergebnis-leicht-und-haelt-an-investitionsplaenen-fest/100267945.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:19:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "9b16517937d0b695",
+   "k": "deutschland",
+   "titel": "Nachhaltigkeit: Deutschland bei Klimatechnik-Export laut Studie auf Platz zwei",
+   "t": "Laut einer Studie liegt Deutschland beim Export von Klimaschutztechnologie auf Platz zwei hinter China. Bei klimafreundlicher Verkehrstechnik hat China Deutschland überholt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/nachhaltigkeit/nachhaltigkeit-deutschland-bei-klimatechnik-export-laut-studie-auf-platz-zwei/100268984.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:14:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "d9420c8fee060c58",
+   "k": "finanzen",
+   "titel": "Stromversorger: RWE profitiert von Energiehandel und steigert Ergebnis",
+   "t": "RWE steigert sein Ergebnis durch den Energiehandel und übertrifft die Analystenerwartungen. Die Ziele für Zahlen und Dividende werden bestätigt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/energie/stromversorger-rwe-profitiert-von-energiehandel-und-steigert-ergebnis/100266650.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:12:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "58905d024fff42ee",
+   "k": "usa",
+   "titel": "USA: Diesen Brief hinterließ Donald Trump 2021 im Weißen Haus für Joe Biden - WELT",
+   "t": "Ein Brief, den Donald Trump 2021 beim Auszug aus dem Weißen Haus für Joe Biden hinterließ, wurde durch Bidens Memoiren bekannt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOVRhaUZReUFpemlaOXFxN0RRMGpVcWJmZEIwTGItTkZNZVROQWU4U004UTJzRFMzUUN2cGctaFFBZTZfaE9uUkV5NEI0d2drMkRmWmZHUDM1MGY3YWlhQjZ6UnNneG1tLTlpNEQxQnZKRUd0TzNTMC14ejBwVnoyZUp2eHJqUUlSaEhRUC1QOWhMM2RWZUgzOWZZdWVfMW1SSXhFMWYwZlNZU2pQUnR1TE9WWWNELVloSkNUMy1CcDJ4SUowRzlsVXI5a0xlUVFPaGRocWdYVDVtQjRoeTNoTkRwaC0?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-11T06:09:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "9b78fca35f72459f",
+   "k": "usa",
+   "titel": "Biden war überrascht – diesen Brief hinterließ Trump 2021 im Weißen Haus",
+   "t": "Laut Memoiren von Joe Biden schrieb Donald Trump 2021 einen ungewöhnlich versöhnlichen Brief an seinen Nachfolger, der nun bekannt wird.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/politik/ausland/article6af3a75042c2bfde5b99375d/usa-diesen-brief-hinterliess-donald-trump-2021-im-weissen-haus-fuer-joe-biden.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c19f42b91aae31f7",
+   "k": "finanzen",
+   "titel": "Energietechnik: Siemens Energy mit neuen Zielen – Aktie soll profitieren",
+   "t": "Siemens Energy stellt neue Ziele vor. Die Aufspaltung des DAX-Konzerns rückt näher, die Kapitalmärkte hatten die Fortschritte bei der Transformation bisher kaum honoriert.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/energietechnik-siemens-energy-mit-neuen-zielen-aktie-soll-profitieren/100264499.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:02:20+00:00",
+   "tag": null
+  },
+  {
    "id": "78bb16796774b6af",
    "k": "welt",
    "titel": "Spanien gedenkt der 69 Todesopfer des Zugunglücks von Urda",
@@ -94,6 +382,42 @@
    "link": "https://www.welt.de/vermischtes/video6af3fa88f0b67a4b2466503c/trauerfeier-spanien-gedenkt-der-69-todesopfer-des-zugungluecks-von-urda.html",
    "quelle": "Welt",
    "zeit": "2026-11-11T06:01:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "3945eb7daa38325f",
+   "k": "finanzen",
+   "titel": "Energietechnik: 4,1 Milliarden Euro: Rekordgewinn bei Siemens Energy",
+   "t": "Siemens Energy meldet einen Rekordgewinn von 4,1 Milliarden Euro. Für das neue Geschäftsjahr sind weitere Ziele angekündigt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/energietechnik-41-milliarden-euro-rekordgewinn-bei-siemens-energy/100268986.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T06:00:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "17a88325dc58078c",
+   "k": "finanzen",
+   "titel": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+   "t": "Anleger schichten laut Bericht von Technologiewerten in defensive Sektoren um, weil Technologieaktien an Schwung verloren haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-11T06:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "46301a0ce3294f2c",
+   "k": "finanzen",
+   "titel": "KI: OpenAI steigert Umsatz im dritten Quartal um 50 Prozent",
+   "t": "OpenAI steigert den Umsatz im dritten Quartal um 50 Prozent, die Verluste wachsen wegen hoher Investitionen weiter. Rivale Anthropic liegt weiterhin vorn.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/ki-openai-steigert-umsatz-im-dritten-quartal-um-50-prozent/100268979.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T05:57:49+00:00",
    "tag": null
   },
   {
@@ -121,6 +445,18 @@
    "tag": null
   },
   {
+   "id": "6e0a50098433aeac",
+   "k": "finanzen",
+   "titel": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+   "t": "Das Krypto-Netzwerk Initia meldet einen zweiten Exploit innerhalb von drei Wochen. Angreifer haben 3,27 Millionen Dollar in Kryptowerten abgezogen, rund 2,16 Millionen Dollar sind auf dem gestoppten Netzwerk eingefroren.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-11T05:52:14+00:00",
+   "tag": null
+  },
+  {
    "id": "f300613ed1c21b2d",
    "k": "deutschland",
    "titel": "Zwei Tote in Baden-Württemberg, Schüsse in Hamburg – Polizei prüft Zusammenhang",
@@ -130,6 +466,18 @@
    "link": "https://www.welt.de/vermischtes/video6af3fa6af0b67a4b24665036/elbphilharmonie-evakuiert-zwei-tote-in-baden-wuerttemberg-schuesse-in-hamburg-polizei-prueft-zusammenhang.html",
    "quelle": "Welt",
    "zeit": "2026-11-11T05:46:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "d05cb9462477bf02",
+   "k": "finanzen",
+   "titel": "PIMCO: Was die demokratische Welle für Fed, Defizit und KI bedeutet | Investments | Aktuell - investrends.ch",
+   "t": "Die Investmentgesellschaft PIMCO analysiert, welche Folgen die demokratische Welle für Fed, Staatsdefizit und KI hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXNheDBTWTQxNTdKZ2Y1ZGt4LUFSakFRZVpjSVhySG5SdGotTmRCTXozVFpNTXhNWlVwU1c0dG1QUjVndGlHbkVHSmphSjc5QlVQcC1SYm5jaWUxVENUUmQzVzZKdksxWXQtMEt6N1RtaVVOaVlKcmg4MFl0U3FYMDlZdUlsVC1vbE5pbUxOZDhoYmdBbHVSdVV4aW5mSmxMT0pCdFphT2ZyeHFCa09YVTByRXNHTFd2Z2lLVTVB?oc=5",
+   "quelle": "investrends.ch",
+   "zeit": "2026-11-11T05:46:00+00:00",
    "tag": null
   },
   {
@@ -178,6 +526,18 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Kc01Wb2p0SUZuVzZ2TW9LZTRPU0JnOWlBcmlaSWUyMGJyY0lzUnctRG1yVzJvaDdOcE9KTXRGVDU5LVlhVHFNTm5tUDVpUHBWUTJxaE1zMWduWUNpc3RCdmdIX0U?oc=5",
    "quelle": "Presseportal",
    "zeit": "2026-11-11T05:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "11ea7c6ea9bebc53",
+   "k": "finanzen",
+   "titel": "Fed-Zinserhöhungserwartungen treffen auf KI-Schuldenboom: Wo entsteht der Engpass? - Yahoo Finanzen Deutschland",
+   "t": "Steigende Zinserhöhungserwartungen der Fed treffen auf einen Boom kreditfinanzierter KI-Investitionen. Analysen fragen, wo der Engpass entsteht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmlTODl4QmpzS0VwTjkzcHplOHM5ckNmdEppb0VrVklwR1JSQXdNZWJud2dJQm1XcC04bmV5dnZHU2o0ZnVGNmpWQ3dNNjE2TkdMM0ZqeTJfTDRKVHk1UUlFdzE0M1VxT1Vpa1JSTTdVeFdWWjhUcUo2UTlHa1g0OHNUQmFfSFRPeFBaWXZEZm5VVmNwZUtiQ0Z0RWlaMW9tMHVxWWR2aHBiOHpUa2NMRTNIVQ?oc=5",
+   "quelle": "Yahoo Finanzen Deutschland",
+   "zeit": "2026-11-11T05:29:00+00:00",
    "tag": null
   },
   {
@@ -541,6 +901,18 @@
    "tag": null
   },
   {
+   "id": "255839dd828f6692",
+   "k": "deutschland",
+   "titel": "Zahl der arbeitslosen Akademiker erreicht Höchststand",
+   "t": "Die Zahl arbeitsloser Akademiker hat laut Bundesagentur für Arbeit einen Höchststand erreicht. Besonders betroffen sind jüngere Absolventen sowie Geisteswissenschaftler und Ingenieure.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/article6af3dc63f0b67a4b24664fa2/studium-und-beruf-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T03:51:13+00:00",
+   "tag": null
+  },
+  {
    "id": "f2f54815613e675c",
    "k": "usa",
    "titel": "Mary Peltola’s campaign files lawsuit over Alaska Senate race absentee ballots — but judge predicts quick decision",
@@ -776,6 +1148,18 @@
    "e": "Die Eskalation im Nahen Osten berührt Energiemärkte, Finanzmärkte und die sicherheitspolitische Lage in Europa unmittelbar.",
    "s": 8,
    "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-finanzminister-zieht-nach-drohungen-irans-auf-militaerbasis/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T01:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "aa22e8e25e4797fe",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: Medienberichte: US-Finanzminister zieht nach Drohungen Irans auf Militärbasis",
+   "t": "Im Iran-Konflikt droht die iranische Militärführung Israel mit Vernichtung. Netanjahu fordert eine Einheitsregierung. Medienberichten zufolge ist der US-Finanzminister nach iranischen Drohungen auf eine Militärbasis gereist.",
+   "e": "Die Eskalation zwischen Iran und Israel mit US-Beteiligung hat direkte Folgen für Energiepreise und die Sicherheitslage im Nahen Osten.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-medienberichte-us-finanzminister-zieht-nach-drohungen-irans-auf-militaerbasis/100136895.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-11T01:28:00+00:00",
    "tag": null
@@ -1162,6 +1546,18 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/knackpunkt-fuer-die-koalition-und-den-kanzler-201669108.html",
    "quelle": "FAZ",
    "zeit": "2026-11-10T20:56:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "5f87c1e9a2bcc7d2",
+   "k": "welt",
+   "titel": "Aufruf an Deutsche: Ein Hilferuf für 50.000 Polen, die unter Deutschland litten",
+   "t": "Vertreter der noch lebenden Opfer der deutschen Besatzung in Polen rufen in einem Aufruf zur Unterstützung auf. Die Politik zögert laut Bericht noch.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/ausland/ns-ueberlebende-aus-polen-warten-auf-hilfe-aus-deutschland-201669266.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-10T20:53:28+00:00",
    "tag": null
   },
   {
@@ -2687,402 +3083,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-10T14:50:03+00:00",
    "tag": null
-  },
-  {
-   "id": "9d9be43cfda1f05d",
-   "k": "welt",
-   "titel": "+++ Iran-Krieg +++: Irans Militärführung droht Israel mit Vernichtung",
-   "t": "Irans Militärführung droht Israel mit Vernichtung. Der Iran weist zugleich die Verantwortung für Cyberangriffe auf Kühlanlagen zurück.",
-   "e": "Die Drohung ist Teil der anhaltenden militärischen Spannungen in der Region.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-militaerfuehrung-droht-israel-mit-vernichtung/100136895.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T14:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cbaabdb9efa3e992",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Innenministerium: Versuchte Plünderungen in Köln - n-tv.de",
-   "t": "Das NRW-Innenministerium berichtet über versuchte Plünderungen in Köln.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGQ4T1JiQlBhWFZ5RGFCTk4zV2RURFdqanNFVUtPekROM2xSaEo4dmNtZGpXYXFGWVE5RG5NVHJSTGIxdzU4dDk5YmtWVFJyV2t2V3gyd0x1cXI5cHAza2xOSk5DT2dzSXN6bGo2eUhtdktKNXBCb1dZRjRCa3FLNlZ4X1M4OHhMcG02Q1VESHBIN29vUU9jNV82SUVPTjNBTHVaeGJZQWRhMFUtamFQczRNOUVJYUk?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T14:49:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "65594caec2e71761",
-   "k": "usa",
-   "titel": "GOP wipeout goes from bad to worse as Dems quietly score another major win with big ramifications",
-   "t": "Die Demokraten haben bei den Zwischenwahlen Parlamentskammern in Wisconsin, Michigan, Arizona und weiteren Swing States gewonnen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/gop-wipeout-goes-bad-worse-dems-quietly-score-another-major-win-big-ramifications",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-10T14:45:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "514a412a6f64f1ce",
-   "k": "deutschland",
-   "titel": "Klamme Haushalte: Defizit der Rentenkasse wächst rapide",
-   "t": "Die Rentenkasse muss 2027 nach Schätzungen rund 20 Milliarden Euro mehr auszahlen, als sie einnimmt. Die Finanzreserve reicht dafür noch aus.",
-   "e": "Eine mögliche Kürzung des Bundeszuschusses könnte eine Beitragserhöhung nach sich ziehen.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/wirtschaft/rentenkasse-droht-2027-eine-beitragserhoehung-201669168.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-10T14:45:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "33b5cc03f2857dfd",
-   "k": "finanzen",
-   "titel": "Die deutschen Speicher sind so leer wie noch nie um diese Zeit. Im Winter könnte das Gas knapp werden.",
-   "t": "Die deutschen Gasspeicher sind zu dieser Jahreszeit so leer wie nie zuvor. Speicherbetreiber warnen, dass die Vorräte bei sehr kaltem Wetter womöglich nicht reichen.",
-   "e": "Wirtschaftsministerium und Bundesnetzagentur sehen derzeit keinen Grund zur Unruhe.",
-   "s": 6,
-   "link": "https://www.nzz.ch/wirtschaft/die-deutschen-speicher-sind-so-leer-wie-noch-nie-um-diese-zeit-im-winter-koennte-das-gas-knapp-werden-ld.10059510",
-   "quelle": "NZZ",
-   "zeit": "2026-11-10T14:44:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4fa7fb4d0b1fb20",
-   "k": "welt",
-   "titel": "Zwei Tote bei russischen Luftangriffen",
-   "t": "Russland hat die Ukraine erneut mit Luftangriffen überzogen. Nach ukrainischen Angaben starben zwei Menschen, mehrere Umspannwerke wurden in verschiedenen Regionen getroffen.",
-   "e": "Angriffe auf die Energieinfrastruktur treffen die Versorgung vor dem Winter und laufen parallel zu den Verhandlungen in Abu Dhabi.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T14:42:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "e67914b520ec3c14",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Fahrer flüchtet: 14-Jährige wird in Bornheim angefahren und stirbt - tagesschau.de",
-   "t": "In Bornheim ist eine 14-Jährige von einem flüchtenden Fahrer angefahren worden und gestorben.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY01aSVZZdFFpVko3N1RJUzAzRDNtN0lvQ0VaZHdvVkJuRV92RWhrS3lzWXNpb3JuRmthUld1LVBhYWYxWkJ4OXRVRkNPMGs0a25lMWI5NDFIRmFVVXAwXzRJSXhCNUJReUdla0N4Q3Bqek42SmpiMDlLQTVZcGtfQ1NzZ1VUTFYtb3NFMnJrWjl2MjVVdXNJU3NZOHVBQ2ZYY0ZmSnVSM2owTjhBbDJ4TVoxVmxJM2l6QkRHYkVicEtFajB0emtwUGV0Qmlkdkwyd3M5NUc3REg?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T14:34:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "06af9ab602e99feb",
-   "k": "deutschland",
-   "titel": "„Menschen werden von der Linken für dumm verkauft“ – Union wirft Schwerdtner Wählertäuschung vor",
-   "t": "Die Union wirft Linke-Chefin Schwerdtner vor, die Wähler zu täuschen, weil sie nicht ausschließt, dass auch in landeseigenen Wohnungen die Miete steigen könnte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/plus6af1c2cbd43db387e5506c25/mieterhoehungen-in-berlin-oh-tow-pl-ab-menschen-werden-von-der-linken-fuer-dumm-verkauft-union-wirft-schwerdtner-waehlertaeuschung-vor.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T14:32:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "9823e2b2c9e027c7",
-   "k": "welt",
-   "titel": "Russland und Ukraine verhandeln fast vier Stunden lang – Lawrow lehnt sofortige Waffenruhe ab",
-   "t": "Russland und die Ukraine haben in Abu Dhabi fast vier Stunden unter Vermittlung der USA verhandelt. Der russische Außenminister Lawrow lehnt eine sofortige Waffenruhe ab.",
-   "e": "Die Gespräche finden ohne direkte europäische Beteiligung statt, die Positionen liegen weiterhin weit auseinander.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/ausland/article6af2cea9e39746b7b04be327/ukraine-krieg-russland-und-ukraine-verhandeln-in-abu-dhabi-fast-vier-stunden-lang-sergej-lawrow-lehnt-sofortige-waffenruhe-ab.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T14:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6c464a88ac89d42d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: In Brunnen geworfen: Freispruch für Sohn nach Mordvorwurf an eigener Mutter - tagesschau.de",
-   "t": "Ein Sohn wird im Prozess um den Tod seiner Mutter, die in einen Brunnen geworfen wurde, freigesprochen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTdpUWZYdGh0c3VSLTQxVUs0VXpyN0swMkZkanMxM19BaXNrbzJtSUVzWkRWajJheUowSU9FOUlYVEttZzBJTS0zU2xfMTJrZlh0aFQxQlhDZ3JMY3QwRV9zT3RhNjVCTDlKT3RSdFlUVnlwSk5RZDVEVzRMeUkzdjJUaGo5WEJvbVVuTGxsN3BhVXFvbTg1YVR6RDRkT1I0WFRDLXRuTmlNcVNCU3hBcHhtLWx0RFVDdEJvbVFVRVdGYkVoZ0YzSkN1OHBvVG9hUVBzbQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T14:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ff0fa57f2252deca",
-   "k": "nrw",
-   "titel": "Rassegeflügelzüchter präsentieren 330 Tiere auf Iserlohner Stiftungshof - IKZ-Online",
-   "t": "Rassegeflügelzüchter zeigen auf dem Iserlohner Stiftungshof 330 Tiere.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckk1UFlIbjlGSFJmVmhDVnF4TE5tVmoxZWx6VFpsa0UwMTZaaHVvWklXcDdVT3Q3d2g2TUF2Ym9tNzZJaGpMSFZqdU9qeGxHX2VJRUdlUTVnZnpYaFJmY25mWTE1Sm5QZ3BSWWFLdENLM3FBMlpBQXBKVFI5eEhaQ0dyZ1BwMlpIVGduXzlPWUpnVzc1MHg2TWhfQlFvcU1WQ3BUR1RmbkZPbUtwYzRIOGt5dWRYTWY3N0lQR2hWSjFxR0JZakpOLWVwZFBtdjNtcGVKVWdR?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-10T14:26:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c6a8517709f7704",
-   "k": "welt",
-   "titel": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
-   "t": "Vertreter der Ukraine, Russlands und der USA verhandeln in Abu Dhabi über ein Ende des Krieges. Deutschland sitzt nicht am Verhandlungstisch.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T14:15:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "ddc8a80c3f8ab7aa",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: 14-jährige Radfahrerin von Auto erfasst und getötet - STERN.de",
-   "t": "In Nordrhein-Westfalen ist eine 14-jährige Radfahrerin von einem Auto erfasst und getötet worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQampJOUtORGN0ZDdrci1sS01panBLMUNsZEhscXF0Q2tIRlNRYm90MkdjNHM4TEE1UVNfZXliVmxEcEtObU9QRjhDcHpXMk1KaS1XUHgwUUM2djlPYjM4cnpua1dxX01ORVZFVVpHSWtWOFRhM25wSWpKNzBvdDNkUjkySXhFUDdRajFueE5iTlczbUd0WkxlUWJZV25NMjZ5Yk1weVEtcnQ1YmY0LUNmbHl4Z2E?oc=5",
-   "quelle": "STERN.de",
-   "zeit": "2026-11-10T14:13:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "5ec984a61e2e6f6b",
-   "k": "welt",
-   "titel": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-   "t": "Bei Auffahrunfällen auf einer bulgarischen Autobahn sind bei dichtem Nebel und nasser Fahrbahn mindestens zwölf Menschen gestorben.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T14:09:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "5cfe3237e6daf1aa",
-   "k": "usa",
-   "titel": "Explosive House report exposes failures it says allowed Epstein's abuse to continue for years",
-   "t": "Ein Bericht republikanischer Abgeordneter wirft Bundesstaatsanwälten Interessenkonflikte vor und bemängelt Versäumnisse von Finanzinstituten im Fall Epstein.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-10T14:00:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "7a719510730e0252",
-   "k": "welt",
-   "titel": "Knapp 7000 Migranten in einer Woche: Die Kanarischen Inseln rufen den Notstand aus",
-   "t": "Auf den Kanarischen Inseln sind in einer Woche knapp 7000 Migranten angekommen. Die Regionalregierung hat den Notstand ausgerufen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
-   "quelle": "NZZ",
-   "zeit": "2026-11-10T14:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "69f48c011187cac1",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Warsteiner sagt nächste Montgolfiade ab - tagesschau.de",
-   "t": "Warsteiner sagt die nächste Montgolfiade ab.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGxBUjZGYW1EZUUtV0RWNHNzYzhhbndCUEoyQ1JkdnFUcEJGaUpIdGRJMnlaLUppcW5WNE9SSjIyWUF0RzQxakVUQTNZWW9MeERTQ1hLNlc1ODIwU1NucmU1N3FCa21LUUlka2I4NmFQdVVuY21PVjJtbnlPWmJmTFp1SnFHYTVxelY0N05MRFFueW9Jc1hjMjR3MDF2UDQ5elp3Z29CZzhkS09EejZGTXpYSnVSdXhaTlRydDM2T183ODdlc2lDaEZPN044dHRsaXg3S25aSUw3NHF1SlRV?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T14:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "496df74a3fa170c8",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: NRW-Gericht entscheidet im Dezember über Eingliederungshilfe - n-tv.de",
-   "t": "Ein NRW-Gericht will im Dezember über Fragen der Eingliederungshilfe entscheiden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25kMWN0Zjg4OTl1aVhVY3ZmbGQtcV9GbkVtOThnY0xzM3UxOFRtTlA3Tko4bEQ5YjhLTEJad0VLWHV3NnV2ZS1nZi1YdkJZWXNYMHJxQkc0VWFBWWZlRGFaUWw2eHJfWndtdjRkd3AzRG9LQzdVbW9JcFlPVEZDcEl4dmpoVWtTMjRCTlg4NHpRaXVtdjlwUGlxc2RYTUE0dkJaMnhseEs2U1RqQlhCek0wUFV6YkZpWTZmMWczbmMtdmxaQk40?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T13:39:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "88984bb7951e9505",
-   "k": "finanzen",
-   "titel": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-   "t": "Infineon meldet einen Rekordumsatz, getragen vom Ausbau der KI-Infrastruktur und einem besseren Automobilgeschäft. Der Konzern erwartet weiterhin zweistelliges Wachstum.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-10T13:33:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "23cee5a0b7e7432b",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Kreis Olpe: Polizei gibt Entwarnung nach Bombendrohung - tagesschau.de",
-   "t": "Im Kreis Olpe hat die Polizei nach einer Bombendrohung Entwarnung gegeben.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGxreTl6NmVwTzItWEhJX1hFTlFmaUczdlFKRVBSNG9sZ21NZTVqaFlMZGZYWEdIOWt6Q2hFQzBNNUgtbTZ2ekd5MXhYUzJULWQtNDNFMFpSWkotLXN4Z1FJZ0pVaWlTaVQyNnFtdEZNRldjb3pkcks0eXhmd0FDMUhmN3V6eHJRamtLVDVwOV9veHpEbVpydFRtYkpnaExrSW45SzBrd1VxRk9TSkg1VXRxMU9aVWVWeExtTEFTTkhpRUhVUy1iZzUxenQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T13:27:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bdbe35289659a1b5",
-   "k": "usa",
-   "titel": "GOP lawmaker ousts fellow Republican in gerrymandered California district",
-   "t": "In Kalifornien hat der Republikaner Ken Calvert den Abgeordneten Young Kim in einem Duell innerhalb der eigenen Partei geschlagen, ausgelöst durch die neue Wahlkreiseinteilung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/gop-lawmaker-ousts-fellow-republican-gerrymandered-california-district",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-10T13:25:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "acf70361c04bd852",
-   "k": "deutschland",
-   "titel": "Neue Pläne für Ehepaare – Klingbeil will laut Bericht Steuerklassen III und V streichen",
-   "t": "Lars Klingbeil will laut Bericht die Steuerklassen III und V abschaffen und durch ein automatisches Faktorverfahren ersetzen. Der Vorstoß gilt politisch als heikel.",
-   "e": "Die Reform würde die Besteuerung von Ehepaaren grundlegend verändern.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/article6af3083842c2bfde5b99298b/steuererklaerung-klingbeil-will-laut-bericht-steuerklassen-iii-und-v-streichen.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-10T13:24:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "7e79fad8941f436a",
-   "k": "usa",
-   "titel": "Hegseth rips impeachment effort in first press conference since May: ‘This is not patriotism. This is sabotage’",
-   "t": "Verteidigungsminister Pete Hegseth hat das Amtsenthebungsverfahren des Abgeordneten Thomas Massie als Sabotage bezeichnet. Es war seine erste Pressekonferenz seit Mai.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/10/us-news/hegseth-rips-impeachment-effort-in-press-conference-this-is-not-patriotism-this-is-sabotage/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-10T13:19:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "c965136a7d423174",
-   "k": "nrw",
-   "titel": "Falsche Bankmitarbeiter ergaunern Bankkarte von 80-Jähriger in Iserlohn - IKZ-Online",
-   "t": "In Iserlohn haben falsche Bankmitarbeiter einer 80-Jährigen die Bankkarte abgenommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWdjVW9JUTZHX3ZIZTZzc1dEeGVFYWw3T1p4OGRyNy1lZ3pnT041RHRhX3k0VXNQN0JlVGdkVXBrTlhFSHdYS3RsLTk2dVhNOUJSdXNtY1o4N3J6dDRMSHB6cUdqa3IyeFFMTFAySDRQSnNVTHh1X3g1NjdGT3FOMm9fNm9EU3FCZXNaQmx4ckhqWTZtdDVjc3RIbnpTbDBENGZUcnBiYTZUWHNBWjZHXzRnWVNFb3VzWTIxZDlyM3ZneklLdDBOOXk1bmsyZWN3bnI4?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-10T13:13:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2791de356b9684e",
-   "k": "nrw",
-   "titel": "Parken am Iserlohner Nußberg: Bauarbeiten starten – ohne Sperrungen - IKZ-Online",
-   "t": "Am Iserlohner Nußberg beginnen Bauarbeiten am Parkplatz, ohne Sperrungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUpWUGEwM0dQVVA2N1FiZlVMSnBuTjQydFdEbWdVWTNhMlprM1l6TmEtZXo4NEY0VW1WQWpWWlJCdXRCenRzbTJZcm4wQ0dYalFxUm1SWkMxVGY4ckU0YUZaUEI3VFJOOVljZ2NHaUprc194LTVkX3BEZnlYc1BxYVU1blhHc3gybWNMaGw0b3dTOXRMZ29xaFA5cnZoWnlYNGJuU1Q2dUFiSkRvNHpkQ0ZqQ2NvMVgwX2FPSGZDVVlRcEZkUTZtR253?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-10T13:10:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "9c865d3b4d574a41",
-   "k": "welt",
-   "titel": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
-   "t": "Die USA und der Iran tragen Kämpfe um die Kontrolle der Straße von Hormus aus, beide Seiten haben zuletzt Inseln in der Wasserstraße angegriffen.",
-   "e": "Die Straße von Hormus ist einer der wichtigsten Seewege für Öllieferungen, Spannungen dort wirken direkt auf die Energiepreise.",
-   "s": 8,
-   "link": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-strikes-on-islands-as-they-fight-for-control-of-strait-895801e5?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-10T13:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "17b5e3407b35b16a",
-   "k": "welt",
-   "titel": "U.S. Overture to Russia on European Security Sparks Alarm",
-   "t": "US-Vertreter sagen, Arbeiten an einem Waffenstillstand in der Ukraine müssten parallel zu Gesprächen über die künftige Sicherheitsarchitektur Europas laufen.",
-   "e": "Die Forderung nach einer Europa-Regelung verschiebt die Rolle der europäischen Staaten in den Verhandlungen.",
-   "s": 6,
-   "link": "https://www.wsj.com/world/europe/u-s-overture-to-russia-on-european-security-sparks-alarm-eb9b6acf?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-10T13:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "81c9143d5c76dfa6",
-   "k": "welt",
-   "titel": "Koalition der Willigen: Russische Krokodilstränen",
-   "t": "Westliche Streitkräfte üben seit Montag in Polen, über Rumänien und im Schwarzen Meer; Moskau reagiert scharf. Die USA sind an dem Manöver nicht beteiligt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/russland-weint-krokodilstraenen-ueber-westliches-militaermanoever-201666394.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-10T13:05:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "1bce8598d36a3764",
-   "k": "deutschland",
-   "titel": "Schüsse in der Hamburger Hafencity - Verdächtiger tot aufgefunden",
-   "t": "In der Hamburger Hafencity sind zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde später tot in einem Hotelzimmer der Elbphilharmonie gefunden.",
-   "e": "Die Polizei prüft laut Berichten einen möglichen Zusammenhang mit zwei Toten in Baden-Württemberg.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/regional/hamburg/verletzte-nach-schuessen-in-der-hamburger-hafencity,schuesse-170.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T12:59:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c10d240e80f3e1d",
-   "k": "finanzen",
-   "titel": "Bank of England’s Lombardelli Signals Another Rate Rise Likely in Near Term",
-   "t": "Die stellvertretende Gouverneurin der Bank of England, Lombardelli, hält eine weitere Zinserhöhung in naher Zukunft für wahrscheinlich.",
-   "e": "Die Aussage deutet auf einen restriktiveren Kurs der britischen Notenbank trotz anhaltender Inflationsrisiken hin.",
-   "s": 7,
-   "link": "https://www.wsj.com/economy/central-banking/bankof-englands-lombardelli-signals-another-rate-rise-likely-in-near-term-baac0950?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-10T12:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "31612fb43719549a",
-   "k": "finanzen",
-   "titel": "NAch TechAusverkauf: Sinkender Ölpreis treibt Rekordjagd des Dax an",
-   "t": "Der Dax ist nach dem Ausverkauf bei Techwerten auf Rekordjagd, gestützt durch einen Ölpreis, der seit Ende Oktober um mehr als ein Fünftel gefallen ist.",
-   "e": "Ein niedrigerer Ölpreis entlastet Unternehmen und Verbraucher und wirkt dämpfend auf die Inflation.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-auf-rekordjagd-sinkender-oelpreis-und-ki-comeback-treiben-kurse-accg-201668899.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-10T12:58:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "75272258a8aaf9db",
-   "k": "finanzen",
-   "titel": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
-   "t": "Anthropic hat laut Insidern eine Preisspanne von 70 bis 78 Dollar je Aktie für den Börsengang festgelegt. Der Handelsstart ist für den 19. November geplant.",
-   "e": "Der Börsengang gilt als wichtiger Test für das Anlegervertrauen in den KI-Sektor.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-10T12:57:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "4d371fa75b9d7062",
-   "k": "finanzen",
-   "titel": "Nvidia-Affäre: Jensen Huang kämpfte für lockerere Chipexporte nach China – doch nun drohen schärfere Kontrollen",
-   "t": "Nach Bekanntwerden der Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin wächst der Druck auf die Exportpolitik für KI-Chips nach China. Schärfere Kontrollen werden diskutiert.",
-   "e": "Nvidia ist einer der wichtigsten Chipkonzerne weltweit, Exportregeln für China beeinflussen die Geschäftsaussichten direkt.",
-   "s": 6,
-   "link": "https://www.nzz.ch/wirtschaft/nvidia-affaere-jensen-huang-kaempfte-fuer-lockerere-chipexporte-nach-china-doch-nun-drohen-schaerfere-kontrollen-ld.10059482",
-   "quelle": "NZZ",
-   "zeit": "2026-11-10T12:55:01+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -3105,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Welt",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 10
    },
    {
     "name": "Google News Fed",
