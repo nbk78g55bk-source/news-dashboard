@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-11T09:01:33.352941+00:00",
+ "aktualisiert": "2026-11-11T11:01:29.468675+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "129,97 €",
-   "delta": 1.1911655483184846
+   "wert": "130,00 €",
+   "delta": 1.045477005306239
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "45,58 €",
-   "delta": 2.5422363931325576
+   "wert": "45,64 €",
+   "delta": 2.4510726952791106
   },
   {
    "name": "Deka S&P 500",
-   "wert": "141,12 €",
-   "delta": 1.1177569815532307
+   "wert": "141,58 €",
+   "delta": 1.2189454870420002
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "179,08 €",
-   "delta": 1.6922168047698305
+   "wert": "179,60 €",
+   "delta": 2.0338573120346037
   },
   {
    "name": "Deka DAX",
-   "wert": "232,50 €",
-   "delta": 1.3955503295479232
+   "wert": "231,90 €",
+   "delta": 0.7384896065572244
   },
   {
    "name": "Bitcoin",
-   "wert": "73.655 $",
-   "delta": -1.0886734275964076
+   "wert": "73.977 $",
+   "delta": -0.23859978006405191
   },
   {
    "name": "Ethereum",
    "wert": "2.057 $",
-   "delta": -2.5533025750964473
+   "delta": -1.536595024199337
   },
   {
    "name": "Gold",
-   "wert": "4.065 $",
-   "delta": 0.8734070084510215
+   "wert": "4.059 $",
+   "delta": 0.7195684874069963
   },
   {
    "name": "EZB Zins",
@@ -54,24 +54,24 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-11T06:02:58.256319+00:00",
+  "slot": 12,
+  "stand": "2026-11-11T11:01:29.468654+00:00",
   "punkte": [
    {
+    "k": "finanzen",
+    "t": "Nach einem stärker als erwartet ausgefallenen US-Verbraucherpreisbericht ist die Rendite zehnjähriger US-Staatsanleihen über 5 Prozent gestiegen. Laut Meldungen gilt eine weitere Fed-Zinserhöhung im Dezember als gesetzt; die Fed Funds liegen bei 3,88 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die EZB lässt ihren Zins trotz steigender Inflation unverändert bei 2,50 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Im Markt zeigen die Kurse Deka DAX 231,90 €, Deka Nasdaq-100 179,60 € und iShares MSCI World 130,00 €. Nvidia verliert laut Meldung binnen einer Woche rund eine Billion Dollar Börsenwert, im Zusammenhang mit der Affäre um Jensen Huang."
+   },
+   {
     "k": "welt",
-    "t": "Die USA und der Iran kämpfen um die Kontrolle der Straße von Hormus, und beide Seiten haben zuletzt Inseln in der Wasserstraße angegriffen. Die iranische Militärführung droht Israel mit Vernichtung, und die US-Regierung hat die Task Force Iron Gate eingerichtet, um Irans Landgrenzen für den Handel abzuschneiden."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die US-Verbraucherpreise stiegen im Oktober um 0,4 Prozent und damit stärker als erwartet, die Kerninflation lag bei 0,3 Prozent. Die Rendite zehnjähriger US-Staatsanleihen liegt wieder nahe bzw. über 5 Prozent, und eine weitere Fed-Zinserhöhung im Dezember gilt laut Meldungen als wahrscheinlich bzw. als gesetzt."
-   },
-   {
-    "k": "finanzen",
-    "t": "Marktdaten: iShares MSCI World 128,65 €, iShares MSCI EM 44,55 €, Deka S&P 500 139,88 €, Deka Nasdaq-100 176,02 €, Deka DAX 230,20 €. Außerdem notieren Gold bei 4.066 $, Bitcoin bei 73.852 $ und die EZB liegt bei 2,50 %, die Fed Funds bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die Nvidia-Aktie hat binnen einer Woche rund eine Billion Dollar Börsenwert verloren. Im Zusammenhang mit der Affäre um Jensen Huang wird auch über strengere US-Exportregeln für Chips nach China diskutiert."
+    "t": "Im Iran-Konflikt droht die iranische Militärführung Israel mit Vernichtung. Der US-Finanzminister ist nach diesen Drohungen auf eine Militärbasis gereist."
    },
    {
     "k": "nrw",
@@ -79,11 +79,371 @@
    },
    {
     "k": "deutschland",
-    "t": "Nach dem plötzlichen Tod des bayerischen Wirtschaftsministers Hubert Aiwanger findet am Samstag ein Staatsakt im Bayerischen Landtag in München statt."
+    "t": "Nach dem plötzlichen Tod von Wirtschaftsminister Hubert Aiwanger findet am Samstag in München ein Staatsakt im Bayerischen Landtag statt."
    }
   ]
  },
  "items": [
+  {
+   "id": "83fb853fb64d9826",
+   "k": "nrw",
+   "titel": "E-Bike in Iserlohn aus Gartenhütte gestohlen: Polizei sucht Zeugen - IKZ-Online",
+   "t": "In Iserlohn wurde ein E-Bike aus einer Gartenhütte gestohlen. Die Polizei sucht Zeugen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMi04Wlh4TzNOSEFjb1Fic1daODJuZU1qUUVRdk81VndTTFV4Zy0zbnpCQ0duRndqMHlmbl9VLS1XZ3h3UmhOekctTXZOTGZkN3NybjVGTGtMSEVpVGpDWEhhTnh3LVhDRVZhYnhEdG5WdDZPbFVrNlhiZUl2MjVLTTdjMzZxZV9oVWtVa2lLakNrd053dU95dWJFTV83bkl5TjFILVg4ZU1CYVZuaWNjX0F2MVhDWlVYV1MwZjF4cm5rS0ZQWVlnRFdUVQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-11T10:57:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "7befb3377f156a98",
+   "k": "finanzen",
+   "titel": "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
+   "t": "Nvidia-Aktien erholen sich um rund 5 Prozent, während Investoren prüfen, ob Berichte über CEO Jensen Huang das Geschäft belasten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-11T10:56:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "47216ce741040af9",
+   "k": "finanzen",
+   "titel": "European TTF Gas Rises as Storage Withdrawals Accelerate",
+   "t": "Der europäische Erdgas-Future TTF steigt wieder über 85 Euro je Megawattstunde, da die Speicherentnahmen zunehmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-11T10:54:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d34c73c9a5583c32",
+   "k": "finanzen",
+   "titel": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+   "t": "Bitcoin tritt auf der Stelle, nachdem CoreWeave-Zahlen den KI-Ausblick stützen und Anthropic laut Berichten eine höhere Bewertung für einen Börsengang anstrebt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-11T10:45:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "d0f601895727e51c",
+   "k": "deutschland",
+   "titel": "Gasversorgung: Bundesregierung will Gasreserve für Versorgungskrisen schaffen – Reiche hält an Umlage fest",
+   "t": "Die Bundesregierung plant eine Gasreserve für Versorgungskrisen, etwa bei Sabotage oder seltenen Großereignissen. Der Aufbau soll mehr als 1,2 Milliarden Euro kosten, die Umlage bleibt bestehen.",
+   "e": "Die Kosten dürften über die Umlage an Gaskunden weitergegeben werden.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-bundesregierung-will-gasreserve-fuer-versorgungskrisen-schaffen/100269068.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T10:45:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "8d12df22f44d9000",
+   "k": "welt",
+   "titel": "Weltklimakonferenz: UN-Chef: Fossile Brennstoffe müssen sterben wie Dinosaurier",
+   "t": "UN-Generalsekretär Guterres fordert den Ausstieg aus fossilen Brennstoffen und einen klaren Kurswechsel. Er nennt die vergangenen vier Jahre als die heißesten seit Beginn der Messungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-un-chef-fossile-brennstoffe-muessen-sterben-wie-dinosaurier/100268967.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T10:44:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "f615ca1312131ff4",
+   "k": "deutschland",
+   "titel": "Verteidigung: Bundeswehr-Studie zeigt: Fast drei von vier Soldatinnen erfahren sexuelle Belästigung",
+   "t": "Eine Befragung zeigt, dass fast drei von vier Soldatinnen in der Bundeswehr sexuelle Belästigung erfahren haben. Verbale Belästigung, unerwünschte Blicke und körperliche Übergriffe werden genannt.",
+   "e": "Die Studie macht das Ausmaß sexualisierten Fehlverhaltens in der Bundeswehr erstmals sichtbar und liegt deutlich über dem bisher gemeldeten Niveau.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-bundeswehr-studie-fast-drei-von-vier-soldatinnen-sexuell-belaestigt/100269031.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T10:39:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "d98a3c8992da42e8",
+   "k": "welt",
+   "titel": "EU Lays Out Plan to Tighten Online Consumer Protection Rules",
+   "t": "Die EU schlägt neue Regeln zum Verbraucherschutz im Netz vor, unter anderem gegen Dark Patterns, Influencer-Werbung und KI.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-11T10:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b2dc8c96e7b017b0",
+   "k": "nrw",
+   "titel": "Kind vor Supermarktparkplatz angefahren - Polizei NRW",
+   "t": "Ein Kind wurde auf einem Supermarktparkplatz in NRW angefahren.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBieGhrNlB2VThRR0tYWFBOeHNQU0xKRDFEUWhPMFBrdXhpdF9kNERaQ3JmWDdQUDRRMk9jdWp5SG93ajdNV0U1eTZ0RkxZNXFySU5mMEl2VEstWnNFbjVUS1RjTm1FNDROR1VPaFJPRFFSWWZi?oc=5",
+   "quelle": "Polizei NRW",
+   "zeit": "2026-11-11T10:36:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "121860d593924704",
+   "k": "deutschland",
+   "titel": "Rüstung: Helsing greift Palantir mit neuem Produkt auf dem Software-Markt an",
+   "t": "Das Rüstungsunternehmen Helsing bringt eine KI-Plattform für die Auswertung militärischer Daten auf den Markt und tritt damit gegen Palantir an.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-will-zum-palantir-fuer-europas-streitkraefte-werden/100268520.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T10:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2e2cc2e4eaa2e757",
+   "k": "nrw",
+   "titel": "Nur vier Jahre nach der Übernahme: Klinik im MK vor erneutem Trägerwechsel - Come-on",
+   "t": "Eine Klinik im Märkischen Kreis steht vier Jahre nach der Übernahme vor einem erneuten Trägerwechsel.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRlI4ZVN6blVrb0JzVVRsQ3ZZLVZ6YmZqM3J0b2xEakFVREhlVk92Rkl5c29jS0dJa0ozSDV4MGpxRzRmUTNKdEZOUUU2eVlBY1lldHlvczVHLW5vZGE1OTdzWXYyYy1UR1MzS2ZFZE1ZV1JuQXpLbGhmanlXVC1KaFNCWTFvTGpfRXcxT1djNlBvVjRxR1I4WUpHaDRyNThFZzlNQTJQVXFuNTVHSnhTemcxbUh5SUdZUXJkOTJn?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-11T10:29:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0ff73e6d2b0f3da2",
+   "k": "nrw",
+   "titel": "Stellenabbau bei Warsteiner: Brauereien in NRW schließen nach historischem Absatz-Tiefstand - Merkur",
+   "t": "Warsteiner streicht Stellen, nachdem der Bierabsatz einen historischen Tiefstand erreicht hat. Auch andere Brauereien in NRW schließen.",
+   "e": "Der Rückgang betrifft die regionale Brauwirtschaft im Sauerland-Umfeld.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3BObUczdTVERW5tSDMwdGV5WWFtRjFUNUFuY3pSWEtLNWtiZ3h2c3dWWFRxRjBlcldOaWVseEZibG42Q255eDJ1WEMtdTN6YTVXak5mYU84Y2xFTFZqLURKMklsZzJ2NUc1N0tKZDZGamhIMG9YakI4SVBROFNENFJ4dlJISXM0a1VkYTVSZXhJMi03RXhmSTFfa0I4TGtWWlE?oc=5",
+   "quelle": "Merkur",
+   "zeit": "2026-11-11T10:19:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4482bc3c74e5a86f",
+   "k": "finanzen",
+   "titel": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
+   "t": "Nissan senkt zum zweiten Mal in wenigen Monaten seine Absatzprognose für das Jahr, da der Wettbewerb in China zunimmt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-11T10:16:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f8062611c7ba8b0",
+   "k": "finanzen",
+   "titel": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations - Yahoo Finance",
+   "t": "Der Goldpreis erholt sich über 4.040 Dollar, während Anleger die Erwartungen an mögliche Zinserhöhungen der Fed bewerten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbE9pY2xWMlFnbjZTNnNOU04tbE1fZzUzQ2xfS3JaUUZ3ZnM4bFpGLUM1QXJ1UEVSOVlzc3ctUUtkYVowR01lQTNEUExDMzlNTU53bnVYN0ZLTTB5ZXpzVE9rcDM3ME9ncTNYM3hoa21UY0trOG9IWHlOVzhHOFNONGtYOHF3WjZ2RXF4S0k5eDZpUEZWVU1IX1V5dGNzQQ?oc=5",
+   "quelle": "Yahoo Finance",
+   "zeit": "2026-11-11T10:13:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "5e38fc8a85c04753",
+   "k": "deutschland",
+   "titel": "Zahl der arbeitslosen Akademiker auf Höchststand",
+   "t": "Die Zahl arbeitsloser Akademiker hat einen Höchststand erreicht. Vor allem jüngere Absolventen sind betroffen, auch wegen Konjunktur und KI.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-11T10:07:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "d26f6bb30be66629",
+   "k": "finanzen",
+   "titel": "Europäische Zentralbank: De Cos oder Knot? Personalpoker um die EZB-Spitze - AktienCheck.de",
+   "t": "Es gibt Berichte über einen Personalpoker um die Spitze der Europäischen Zentralbank, mit den Namen De Cos und Knot.",
+   "e": "Die Besetzung der EZB-Spitze beeinflusst die künftige Geldpolitik im Euroraum.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3lmVWpHZllzNmVwUUlxSFdzQ0gweWZRMjQ4S3BKM1BCZ0psc2hhMlI3REUwdEJHaktJTFBQelM5Y3pycVdSbDVYVDc3M1NTWi1HSEY3cmtVcGRveHdkSl9fczNqb0IwX3B1amdhOWNMLVdhaEhZQWZGTGVfMDBsSXFpSzh0a21XUklnOTVTb09IWnZOUlZXaGowMUE2Vm9ZLVNibXhDSQ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-11T10:00:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "38d129baf78cb81f",
+   "k": "nrw",
+   "titel": "Bornheim (NRW): 14-Jährige totgerast! Fahrer (21) flieht vor Polizei - BILD",
+   "t": "In Bornheim bei Bonn ist eine 14-Jährige bei einem Unfall tödlich verletzt worden. Der Fahrer soll vor der Polizei geflohen sein.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXJlX1d4YXQ1UnJGQUhwYVlIQ0dLMGNKUmZnQ2RMWjlUeEpNMXA5T2xjeExLTlBlcklZNXNMbk0wUXB0NTJtQmdoaEl2TnhFSktlRmpUSE8wMVpqSXJvZ0dlMG8yWFlIWWE5cGQ5VE5uRmFuZU1LYnJMd0x2R1g0RHg4RHZBQVVJeDFVTG4tUmpURVV5LWNzd2ZJaldKTWtUWUZrcUFwTUtsWVVJdl9kNHVzYXc5QnV6TUhYc2hKeTJVMGZ6bTc3Mk5td084b0RQN2Zn?oc=5",
+   "quelle": "BILD",
+   "zeit": "2026-11-11T09:59:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "96b96c87ed67017a",
+   "k": "finanzen",
+   "titel": "EZB: Keine Zinserhöhung trotz steigender Inflation - freenet Mail",
+   "t": "Die EZB lässt die Zinsen trotz steigender Inflation unverändert.",
+   "e": "Die Entscheidung steht im Gegensatz zu Erwartungen weiterer Zinserhöhungen in den USA, was den Zinsabstand zwischen Euroraum und Fed vergrößert.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOFVjMEVTYm9jY3BxZV9VR3A5dDJOUFYwYVVOMlg0NWxaRmdmSk9tV2RadHlJR0FlZFJrVFY4WnFiWHctVkFZeXVxMDRrSXVLaU5adFpaSWJFY25hOURlSno5TzR5ZHp4dUpUNDM1enZFWDJRRUd3U2ZnSk1yTlpRcFZTV1JQU2NXLVoydUhiNFNkd21CdG9iVU1qT0FWUUxnWHFybUJ2bllSUnRZSk1xS3Q2bWlBYV9jSG8zcl9R?oc=5",
+   "quelle": "freenet Mail",
+   "zeit": "2026-11-11T09:58:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "3eed90ea9fb4c88e",
+   "k": "finanzen",
+   "titel": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+   "t": "Bitmine meldet für das Geschäftsjahr 2026 einen Nettoverlust von 6,3 Milliarden Dollar, vor allem wegen Buchverlusten auf digitale Assets.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-11T09:58:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "cc27b90f77542f10",
+   "k": "welt",
+   "titel": "Japan: Mögliche Veränderungen der US-Außenpolitik sorgen für Unbehagen - DW.com",
+   "t": "In Japan wächst die Sorge über mögliche Veränderungen der US-Außenpolitik.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0hINEZJTGpaZG01aUVOVDRyVnFmSnJzWFdkNnVBNy1RVjdicHZfU3lMTVNVSG9LeGwyN21WdGVzUVpQbW4xNmpuRUhyOXY5R2NPcXVqbHIwSXdTOWZHUWJvaUJ3T1NXUEE3MkMwRHRiT0dzSWNwR2h3NDdmbng3NGtNcldJZ0hKVzViUUxRRmp5dTdFN1Vtdm5hV0xGNms3OXZYb0c2S1ZTOFY1c01aSjRfUlF3aVZsM3pyWlpNY9IBvwFBVV95cUxQWTFaVE1LekEzT2ZXWTNhN0N3WElxd3RZQWlva1hOMWV3cl9RcWxUNmk4YmE2NEltWFNOR3R0X2x6OXZKOTRoMjltUnc1MzhnNkZ2WWNKQXA2LTg0RTd5OXd4WFhOaWJyQURiMU5zZzhtREJqVnQ2ZEd4T2g5eW9oRy1tQ18xVHZxUFdyZlJqZlFnUHR5c3licGVsb09kYkZTWTk5OXo5VERGWnBRVWVJZjJ6Tk02MVh2M0ZPSm5Ocw?oc=5",
+   "quelle": "DW.com",
+   "zeit": "2026-11-11T09:50:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "6a48afd0b6845f5c",
+   "k": "usa",
+   "titel": "Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change",
+   "t": "Bernie Sanders spricht sich gegen Chuck Schumer als Führer der Demokraten im Senat aus und fordert einen Wandel.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/11/us-news/bernie-sanders-wont-support-schumer-for-senate-democratic-leader-saying-its-time-for-change/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-11T09:47:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "079edcd0a801f198",
+   "k": "nrw",
+   "titel": "Vierstellige Summe abgehoben: 80-Jährige wird Opfer von Trickbetrügern - IKZ-Online",
+   "t": "Eine 80-Jährige in Iserlohn ist Opfer von Trickbetrügern geworden und hat eine vierstellige Summe abgehoben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd2JmelJnZVY1Nld6VmpsWWNScHZBNFBTdFRuX0I4a3hkSVN4ZVFVcjFtYnZlVnEyRWkycDExU3NzRFJzc1pJRkdTWmpRTm5TQmhHSlNScnRFY0xfbm5Ma0VCb1RWYVNWUGo5TlVST1dDZk5yclBzNG5XcmZaRHJwT01Pb0hHTnlDeGNLbXVhM0Mxd1B6MklfNjd0R2dUdTYzT2ZzY0lrc2FRTkZCMGM1SWdnUzdTU3dCdTBueGFDQllrNjFDajVocEdCbFotTHF3VEw1Z3preVpqWnZ3NERORFVn?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-11T09:21:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "6757510317a5d2e1",
+   "k": "finanzen",
+   "titel": "Fed Speak: Goolsbee calls CPI 'borderline disturbing,' Paulson backs gradual tightening - TradingView",
+   "t": "Fed-Vertreter Goolsbee bezeichnet die jüngsten Inflationsdaten als „grenzwertig beunruhigend“, Paulson spricht sich für eine schrittweise Straffung aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUgyYm1zNGJFWDFacUN5aE9NaGt5ZkNuMER2QUNHam42YjBrbXBaZFlKR3pyRnExZ1FyOG9JYkR2SjdadmEydXllNUZNV2NnR05KRkQwRmg2V2dxRDFvdE40NS1hMXZhRUI5d2dPd1p1VF82YjBqMFVYM0lEY3UwTTYzRVFUSkFfdUlJQWt5MmgxMWtMdFRKdHo5V3p0WWJRVm01eWdzN1NYeVpuVXg3V2xpR1dCZWVBMmh6MFl0dFBQLXZSZEFGdDJpc2pMYlJQVkRxRG5NZ3V2RkdvcjVz?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-11T09:14:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "78284105f10a4bd9",
+   "k": "finanzen",
+   "titel": "ECB warns legislative delays could postpone digital euro launch",
+   "t": "EZB-Direktor Cipollone warnt, dass Verzögerungen bei der Gesetzgebung den geplanten digitalen Euro gefährden könnten.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-11T09:03:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "7bc9008e40363d5a",
+   "k": "finanzen",
+   "titel": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+   "t": "US-Spot-Bitcoin-ETFs haben im November 1,6 Milliarden Dollar an Mittelabflüssen verzeichnet, während Aktienfonds Milliarden anziehen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-11T08:55:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "a127bbcd8e875bb3",
+   "k": "welt",
+   "titel": "BILDSTRECKE - Tausende von Migranten erreichen die Kanarischen Inseln – Bilder einer humanitären Krise",
+   "t": "Auf den Kanarischen Inseln wurde der Notstand ausgerufen, nachdem rund 7.000 Migranten aus Westafrika innerhalb einer Woche angekommen sind.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.nzz.ch/fotografie/tausende-von-migranten-erreichen-die-kanarischen-inseln-bilder-einer-humanitaeren-krise-ld.10060510",
+   "quelle": "NZZ",
+   "zeit": "2026-11-11T08:43:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "a15ad52231793976",
+   "k": "finanzen",
+   "titel": "Federal Reserve: December rate hike expectations reinforced – Commerzbank - FXStreet",
+   "t": "Commerzbank sieht die Erwartungen an eine Zinserhöhung der Fed im Dezember durch aktuelle Daten gestützt.",
+   "e": "Höhere US-Zinsen wirken auf Dollar, Anleihen und internationale Märkte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkZlb2dWSTdGcmNBeEdCX195UTFJdktHRld5bDJjaUtPaG1sU0lMYWhZZF9nT09BSFVYWXJFQWhxSzVDRGJBM3hCRGh6T2lYUUl5RTluVUFJUjJ1LXpJSTJHVGdBQ05pRUpLVzU2NldZTU81d3daLWdvWnhCTWllMnhTZEM2czUwOGRwMmpRbVB5Z0VtNjVFOF9TOE5TekFrM013YVFzRVd4UGM5R0xvT1Fxcw?oc=5",
+   "quelle": "FXStreet",
+   "zeit": "2026-11-11T08:30:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f119028c8b5372e",
+   "k": "usa",
+   "titel": "Weißes Haus hält trotz Wahlniederlage an Trumps Zöllen fest - aktien.news",
+   "t": "Das Weiße Haus hält trotz der Wahlniederlage an Trumps Zöllen fest.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGg0NDB4bUVuS1o2dk80ZkNqMDhqOWYwOHNBWHR5WkFvcGpqTzJlVmgyQkxsN3Y0V3pSTnZEZ0JsQ3lLS1lNMHkwZXUxVG8wV181S21YRlcyT2c5WUpZcXpMWURhVHJSNDRNekw1SnRXeng5Xzh3akJkQ1Z4ZVJWSEMyVElINEx1azcwbw?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-11T08:28:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "b121bdc086be9bbf",
+   "k": "usa",
+   "titel": "Kennedy family members ask judge to block Trump’s 250-foot Arlington memorial arch",
+   "t": "Neun Angehörige der Kennedy-Familie wollen per Klage einen geplanten 250 Fuß hohen Triumphbogen Trumps am Arlington-Friedhof stoppen.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/11/us-news/kennedy-family-members-ask-a-judge-to-block-trumps-250-foot-arlington-memorial-arch/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-11T07:57:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "a9f4cc8ddf93c988",
+   "k": "deutschland",
+   "titel": "Ein Mann schiesst bei Stuttgart auf seine Frau und seinen Schwiegervater. Dann fährt er nach Hamburg – und die Elbphilharmonie muss evakuiert werden",
+   "t": "Nach Schüssen bei Stuttgart auf Frau und Schwiegervater fuhr der Tatverdächtige nach Hamburg, wo die Elbphilharmonie evakuiert wurde. Der Verdächtige und zwei Angehörige sind tot.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.nzz.ch/panorama/ein-mann-schiesst-bei-stuttgart-auf-seine-frau-und-seinen-schwiegervater-dann-faehrt-er-nach-hamburg-und-die-elbphilharmonie-muss-evakuiert-werden-ld.10060471",
+   "quelle": "NZZ",
+   "zeit": "2026-11-11T07:12:22+00:00",
+   "tag": null
+  },
   {
    "id": "b5da01c2ade11331",
    "k": "welt",
@@ -2723,366 +3083,6 @@
    "quelle": "ZDFheute",
    "zeit": "2026-11-10T16:10:00+00:00",
    "tag": null
-  },
-  {
-   "id": "af44b062b8c6baf5",
-   "k": "deutschland",
-   "titel": "Ilse Aigner: „So, Frau Kollegin, ich beende das jetzt“ – wie Aigner der AfD die Grenzen aufzeigt",
-   "t": "Ilse Aigner, als mögliche Bundespräsidentin im Gespräch, lehnt eine Koalition mit der AfD ab. Sie hat die Partei als bayerische Landtagspräsidentin deutlich in die Schranken gewiesen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/aigner-die-kandidatin-und-die-afd-frau-kollegin-ich-beende-das-jetzt/100268633.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T16:07:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d3e7065eab8ed0b",
-   "k": "finanzen",
-   "titel": "Gold reserve repatriations don’t mean central banks are de-dollarizing – Fed’s Weiss - Kitco",
-   "t": "Ein Fed-Ökonom argumentiert, Goldrückführungen von Zentralbanken hätten deren Dollar-Anteil nicht verändert.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1dmX2w5RWs0ZHd3cEtEVmFDZ1VKOXNVdmJFb0QtV2hKX282RmMxTldrNlVoam5XUmJBR0NxWHNCeXVtUHhMR2l4S0N0bWhFZnJ4bl9aWUpGbTBIR1FzWXlBb3BQc0ZUUnhRejVDTTJJejdVcGxYY2J5ZEFwSGdpTU9Ub3RrT3RYTU41NjZ4QmlmOVZ1SFJaVG1BMHNwXy1jYzZZVWVQdHplME1ZaGdGV29wM1kwSjUtSHlFMg?oc=5",
-   "quelle": "Kitco",
-   "zeit": "2026-11-10T16:05:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "36392bd15c1b3e8a",
-   "k": "deutschland",
-   "titel": "Maschinenbaugipfel: Die Wut der Branche auf die Politik",
-   "t": "Auf dem Maschinenbaugipfel übt die Branche deutliche Kritik an der Politik.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1681474.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T16:05:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "e13478b8fe27cdff",
-   "k": "welt",
-   "titel": "EU-rechnungshof: Wie EU-Staaten ihre eigenen Russland-Sanktionen umgehen",
-   "t": "Der Europäische Rechnungshof legt dar, dass EU-Staaten die Russland-Sanktionen unterschiedlich streng bei Zollkontrollen anwenden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/eu-staaten-umgehen-eigene-russland-sanktionen-201669118.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-10T16:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "45b71e2cd414de2c",
-   "k": "deutschland",
-   "titel": "Die Berufslehre verliert weiter an Boden",
-   "t": "Der Anteil der Jugendlichen, die eine Berufslehre absolvieren, ist laut Bericht deutlich gesunken.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/schweiz/die-berufslehre-verliert-weiter-an-boden-ld.10059842",
-   "quelle": "NZZ",
-   "zeit": "2026-11-10T15:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b098139d8d4d8a3c",
-   "k": "nrw",
-   "titel": "Märkischer Kreis: AOK sucht rauchfreie Schulklassen - Radio MK",
-   "t": "Die AOK sucht im Märkischen Kreis Schulklassen für eine rauchfreie Aktion.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9ad28xZkYxZy1QV01WOTIxRWZTUzlDcWlWMlVTN1RkdDAxSW5jMV9HaFZ5NWZ5UXh5djlydFM0djA5OXExMWV6eHRqMVRRNVlkXzI3dEJIRkx5aEZsY2dnUFF1VmpjOVVVWHR6eDY5N25zMnZ0Y1ZTRkRrMUlaTkZ1WmlzUjFpY0FJZ2VMZUk4OW9Y?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-10T15:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8f711a2cd0dc1b5f",
-   "k": "nrw",
-   "titel": "Von heilenden Kräften und tiefen Wurzeln: „Yarákā“ im Iserlohner Weltsalon - IKZ-Online",
-   "t": "Im Iserlohner Weltsalon wird die Ausstellung Yarákā gezeigt, die sich mit heilenden Kräften und Wurzeln befasst.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWhjV1dBUWVfTVdHZUJtdzU2Y1Roc2hPUTM5ZkdsSmk4aDRyNmxaZEFNMWZDRjNTSExSUE1aQ0R4ZzBSc1NqNXpSa1NseEsxWFd5Yk05VmlqVXNzckJCQmVlLXRnalo2TGFqUnFKaXROU2JmNTFSLXNBeUJlREVkM1VXZ0JNNjhlQzZnM3p1VGd2WDlPMFFVUXBxSnhTRF92dE1xX0ZzZ3ZPZnVxM2VURU5YN0NoU050Ny1vTDZ3dGRFUWstTzBxdHVZaXJqMGx6X0dVOVNnQ05KNVk?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-10T15:56:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "b27ef6ae81a66cb4",
-   "k": "nrw",
-   "titel": "Stellenabbau: Warsteiner Braugruppe trennt sich von Hunderten Mitarbeitern",
-   "t": "Die Warsteiner Brauerei streicht über 330 Stellen. Zugleich werden Marken und Anlagen nach Warstein verlagert, in Paderborn bangen Beschäftigte weiter.",
-   "e": "Der Stellenabbau betrifft die Region Sauerland und Hochsauerland direkt und zeigt den Druck auf die Brauwirtschaft.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/stellenabbau-warsteiner-braugruppe-trennt-sich-von-hunderten-mitarbeitern/100268860.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:55:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce10abc630f75d3e",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Straßensperrung auf der L694 in Schmittehahn ab kommende Woche Montag - News.de",
-   "t": "In Lüdenscheid wird die L694 in Schmittehahn ab kommenden Montag gesperrt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxONmdyemR4QWlWYnIzcHFtSTZndUJGMUF1NUtaM01ULWdVRWRqSnRVamdySmw2WFFwZWhzWEowU0Qzbmw4Q1cyS3dPay02ZWNJSjJieDZZTlF1Mjc0bnFhc2JVLVpneFAzbVFPbWRpZ3FUTktMQzZ4SG5BYmZwMUJzanpWX0hYNDA3aWJRLU1sYXFBbHpZN0hHR0VtNnBVajhjd0JWMTFhUUpFU2poWnJBcU44dm02MDVQRDFiV0s4MFc1bnY2YU95b2JwRG5PYTNXWmltYXZmNW1PemJaREJBT1dFdDJmdkFPWkR0X3pEX3RwNkg1TDMwM2dKVFl2QUpQTklRUWVaUXNERy1kbHE2aHpVZ0l6UmpoV2l3cjJJUWdOY2JQaEhBT3VtOXg2ZzNlR0F0U0owRThjV3Nra092N2VTSXF5S19BMGJEZEtHV1pNZE9zekE3UE9R?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-10T15:52:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "fed01b0856d4f3c1",
-   "k": "finanzen",
-   "titel": "Immobilien: Neuer Millionenpoker: Was plant Aroundtown beim Rivalen LEG?",
-   "t": "Der Immobilienkonzern Aroundtown und LEG stehen nach dem Einstieg von Grand City Properties bei LEG im Fokus, neue Zahlen werden erwartet.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neuer-millionenpoker-was-plant-aroundtown-beim-rivalen-leg/100266866.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:50:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "580fe6ea7f7c1ede",
-   "k": "nrw",
-   "titel": "Gegen E-Scooter-Anarchie: Städte in NRW wollen Geschwindigkeit drosseln - Neue Westfälische",
-   "t": "Städte in NRW wollen die Geschwindigkeit von E-Scootern drosseln.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZlVIZzk2a0s3ZlR1cjFlZWJsTzlaQ1VpRGpIT2d0TlZPXzltZVNlRTJxa1dWLUZVLURVUGttanNZLUdtcHFSU1RYWWpxMGg5RDYtM2VobkF5ZXMzVlVLRFRNazVKLWhqWENhWTBROVlRb2doLXpfMDdBcjBBb2g5a2hYT1hkN1o1ODlOYUZuSUtFZGlULTYxV3Q1V2g0RkNfZmd3NkNpdEZRWTRLX0d0NlBPMVJIbEcxNTg2WlI3UXdqNnQxenlDTmt0a0lWZHZiTldCTUU1QQ?oc=5",
-   "quelle": "Neue Westfälische",
-   "zeit": "2026-11-10T15:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1afb3409eb080436",
-   "k": "finanzen",
-   "titel": "Wall Street: Heiße Inflation verschärft das Fed-Risiko. Tech unter Druck.",
-   "t": "An der Wall Street belastet die heiße Inflation das Fed-Risiko; Technologiewerte stehen unter Druck.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-heisse-inflation-verschaerft-das-fed-risiko-tech-unter-druck/100268864.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e870285dabe2da14",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Hat 20-Jähriger aus Aachen aus Mordlust gehandelt? - tagesschau.de",
-   "t": "Im Fall eines getöteten Menschen in Aachen wird gegen einen 20-Jährigen ermittelt, die Frage nach einem Mordmotiv ist offen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaS0tY3IyVWlxakh0THVjY1g5X05lcmxSSEt6WUVQMHhpTTBnX0NUQl9GZ190eFpxNVJVZkdZcHVaazFncmxzUjkzWVYwdjQ5SDRzbFJiS1ZpcHEtaG5iMGh2SjY0NVVvQmZKbktNdDgyS2Nnek9tZWRqU05ZYjdrbko5eHdwNXZRSGZJMkJyMnlsbTItLUROejZsazhfZk9FUGk1dWk2NjA2WnVhSUZUQVIycVp2YVpmQkhNbXlRdk5RZWlIUnkySkp4RklxWWVkbV9IVG5NeUNtZ1VyaHc?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T15:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "158694c3c09d3dc3",
-   "k": "deutschland",
-   "titel": "Maschinenbauer \"fassungslos\" über Bundesregierung",
-   "t": "Der Maschinenbauverband VDMA kritisiert die Bundesregierung wegen internem Streit und Reformstau und sieht den Industriestandort gefährdet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T15:43:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "4ba1d6162031545f",
-   "k": "welt",
-   "titel": "Friedensgespräche: Russland und Ukraine kehren nach acht Monaten an den Verhandlungstisch zurück",
-   "t": "Russland und die Ukraine nehmen nach acht Monaten wieder Gespräche auf; die zweitägigen Verhandlungen in Abu Dhabi werden von den USA vermittelt.",
-   "e": "Die Wiederaufnahme direkter Gespräche ist ein seltener Schritt; Ziel ist laut Verhandlungsführern ein dauerhafter Frieden.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/video/politik/friedensgespraeche-russland-und-ukraine-kehren-nach-acht-monaten-an-den-verhandlungstisch-zurueck/100268788.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "05be99bc69d67456",
-   "k": "finanzen",
-   "titel": "Bericht der Pfandbriefbanken: Höhere Bauzinsen bremsen die Immobilienpreise",
-   "t": "Laut Bericht der Pfandbriefbanken steigen die Wohnimmobilienpreise in Deutschland im Jahresvergleich nur noch um 0,2 Prozent, Büroflächen sinken.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/immobilienpreise-in-deutschland-bauzinsen-bremsen-den-markt-201665254.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-10T15:41:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "c0e94e8b4da63990",
-   "k": "finanzen",
-   "titel": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-   "t": "Anthropic hat Details zu seinem Börsengang veröffentlicht und strebt eine Bewertung von über einer Billion Dollar an.",
-   "e": "Ein Börsengang dieser Größenordnung wäre einer der bedeutendsten Tech-Listings der Geschichte und ist ein Gradmesser für die Bewertung von KI-Unternehmen.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T15:37:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "f51e0f74cf87af4b",
-   "k": "deutschland",
-   "titel": "Haushalt: „Er räumt den Etat leer“: Grüne rechnen mit Klingbeil ab",
-   "t": "Die Grünen werfen Finanzminister Klingbeil vor, dem Verkehrsetat weitere Milliarden zu entziehen, um das Parlament unter Druck zu setzen. Im Raum steht auch eine Pkw-Maut.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-er-raeumt-den-etat-leer-gruene-rechnen-mit-klingbeil-ab/100268711.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:31:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "6a13dc78cf42458a",
-   "k": "finanzen",
-   "titel": "Private Credit: Mehr als jeder zweite Investor fürchtet höhere Kreditausfälle",
-   "t": "Mehr als jeder zweite befragte Investor im Private-Credit-Segment erwartet laut einer Goldman-Sachs-Umfrage höhere Kreditausfälle.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/private-credit-mehr-als-jeder-zweite-investor-fuerchtet-hoehere-kreditausfaelle/100267959.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T15:23:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "ac98a31936c8b5a7",
-   "k": "usa",
-   "titel": "Trump signals surprising approach to choosing his successor as GOP's 2028 field grows",
-   "t": "Trump lässt offen, ob er sich im Vorwahlkampf der Republikaner für 2028 festlegen wird.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/trump-signals-surprising-approach-choosing-his-successor-gops-2028-field-grows",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-10T15:21:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "574b10fdcb20ee51",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gestiegen - EZB-Referenzkurs: 1,1214 US-Dollar - 10.11.26 - News - Ariva",
-   "t": "Der EZB-Referenzkurs für den Euro liegt am 10.11. bei 1,1214 US-Dollar und ist gestiegen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYk5EYnpkOUJnTzVzMnlUZE4xdXlob2lwa2dscEFPUGpGM01Wd0NpSmJqcjB0aW9OQ0NidWhvblBHdWFRdXJaWXRDRThCYzNYeWFEMTk4eUxwYW1nV0tsMXUyYTkwOU84YlZhOG44amktaS01QzFpYlU5MVUtcmF3Y3NLcGttVExzLS05cDl3?oc=5",
-   "quelle": "Ariva",
-   "zeit": "2026-11-10T15:21:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "dea3ed5ba7e3053d",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gestiegen - EZB-Referenzkurs: 1,1214 US-Dollar - Yahoo Finanzen Deutschland",
-   "t": "Der EZB-Referenzkurs für den Euro liegt bei 1,1214 US-Dollar, der Euro hat gegenüber dem Vortag zugelegt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUdZRndVRFZiakRBNWw5Vlhpa1loUmlkTGlSYWhRYzBCTUYyMDU0Y1FpLWJJaTJaRzNBa3hPN1JoWXh3OFFKSlNpdDByM2tXTHY0R0g0dFdJQV9CbEZJRF9JQXVBVm1Gc2RyVkloaVRnSDRrRHY4bm00QldQZGpXbmhTRXB2QmpqRU1UdE5CWlUxczBqZTBKeUotWHk2TWlu?oc=5",
-   "quelle": "Yahoo Finanzen Deutschland",
-   "zeit": "2026-11-10T15:21:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "9c1a470963a9d31f",
-   "k": "finanzen",
-   "titel": "Consumer prices increased 0.4% in October; energy, shelter rose - upi",
-   "t": "Die US-Verbraucherpreise stiegen im Oktober um 0,4 Prozent, vor allem getrieben durch Energie und Wohnkosten.",
-   "e": "Der Anstieg verstärkt die Sorge vor anhaltend hoher Inflation und dämpft die Hoffnung auf baldige Zinssenkungen der Fed.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFNhZTl4SkQ3SkthR0o5UXZjcGJuQTJOdjFVYkQ2dkkxVWg4UzVoT09vZ0JaT2NIX0w0Q1lCWnRDMGt2V2txU3lIWWhhWjFkcnM4UmpqOVBXSVNja2FtN0ljSFZJUEVSZG5ITUJGdXkzUkZjeHpiUFphRzJYQ3ZKYXhZMmJrbkwydjhEX3NqNEg0dkIwVkQ1U0VvYmpQdjdleE5Ya3pfdm9SN3fSAbABQVVfeXFMT1BzRlRXWG4zajBGMl9ROW93SWlRY0thUFFoT2ZYTko2eW1ZbWdKQlpXa0czOTVzaDN2eWQyN3VwTzNLQVk3eDRLTnR1bjFHT1Y2aVBSRnJuMHJCUWs2ZlFwQWFuelBnaHh4MWlIR0dZQVpwZ1Z6eTY2OFUxVXdqYTlfck5ocjk0cW1CTVhILTloSVlmSHE3WjNJR0dPek15ZGttZW9rd1VnNlktZnY1S3g?oc=5",
-   "quelle": "upi",
-   "zeit": "2026-11-10T15:21:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "88059554c0c8de85",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gestiegen - EZB-Referenzkurs: 1,1214 US-Dollar - boerse.de - boerse.de",
-   "t": "Der EZB-Referenzkurs liegt bei 1,1214 US-Dollar, der Euro notiert gestiegen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXRyaDduTXdqTUY0dUVyUFBSbUNpbGVWVWlBRkNKV1B3djJxZmZjTUxMeEF5WU05Y0lxTUc4VU1DMlk5WGRUN0htdC1tMElNQTVVZFAyTTIxUkxSWGJYaFVqdXRrU1ZOR0x0dlU5MHRlY05yam5FVm9JNHVOcTZFblJtR2pMSU1sOXZmQ1NQSUJseENNdWZwb0c2bE1wSHQ5M2laOUpR0gGrAUFVX3lxTE8zTDFJMTJaU3otZ2ZjYVFYYWR6NldyV1ptY2plUEFuMkwyNjJSS0lHYlctZDBmV2hDbW80Qy1lVExUajMwdHp0SnhWNHpmME1GNzdLdE9SVVVjLWZZeWdLRnd2aDl5cDVhSWJmd09SYjBFd0hXSzZ5THQ5eDJucTlhS3B5WmF2VUZkc0JtR0k5ZkNPQTVtU0pQalRXRWlNY21TTVZZLUtFZ3JwVQ?oc=5",
-   "quelle": "boerse.de",
-   "zeit": "2026-11-10T15:21:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8a4f62a10bda9589",
-   "k": "finanzen",
-   "titel": "October Inflation Comes in Hotter Than Expected - Investopedia",
-   "t": "Die US-Inflation für Oktober fällt höher aus als erwartet. Die Preissteigerung hat sich damit zum zweiten Mal in Folge als hartnäckiger erwiesen als von Analysten veranschlagt.",
-   "e": "Ein heißer Inflationsbericht erhöht den Druck auf die Fed, die Leitzinsen weiter anzuheben, und belastet Aktien und Anleihen.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0JhOWFodE9fMUh4WnFHaTNBbmFtaDNIallfMktpLVcwRGg5SkVHX0NQUlF1eUVPSUJ2RlZwM2NSZjBZa1JiLWJCc09RY0w5b2NSSWJvWXM0OWJWWVJ5WHZNa3ZVc3lodjAwR0tMc0UwVXNROGk0ZmpRamRER0M2ZFhWWVF4a0ZYZUMyT1YtalpMSF9FejB3TV9iX194dkV0d19GRnRhUTdsbUJWN3FGYw?oc=5",
-   "quelle": "Investopedia",
-   "zeit": "2026-11-10T15:16:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "aac1c157ced6b7db",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Tod einer 12-Jährigen - Arzt schweigt zum Prozessauftakt - n-tv.de",
-   "t": "Im Prozess um den Tod einer 12-Jährigen in Nordrhein-Westfalen schweigt der angeklagte Arzt zum Prozessauftakt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT2E0NDlGUmtNMW1zYlo2bzRVemk2dnRqMXFkX1lNajZkcmlYZjRkUEhjNGR5TDhGVjh5ZlFSUHBpN2l6a3JRUlFuUUdPMkhhVnp2MFFXaTE5dkpaMkRFeDlpX0dRWU9RVjlZQ1pfdTR5ZTlGdE5hX0VEZnJwN2pScEZITm5jN2J1TTNpNVEzUUo5aGRiM3k1ZTRlZWxYOVVOYjFlVG54VUFaNXczMWo4UUEwN29uOFJMSGRfSGZUMA?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T15:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf483a90ab4c4dbd",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Untersuchungsausschuss: Schwere Vorwürfe gegen Polizeibeamte - n-tv.de",
-   "t": "Im Untersuchungsausschuss in Nordrhein-Westfalen werden schwere Vorwürfe gegen Polizeibeamte erhoben.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1d4cU5CdFhyZVZmQWZnbHN2UHcwUjNpb1BDR1p0dzYxNjhBaXNkRUlmOTRoWkRENEdublcyYW1sTkhUc3lPREU2c2xXYjhQNkVzRVpTXzBZZVJULXRDb1RJWldhRmlEVzBLalNsbVFUUXYyVU9GeVVwa2h2WFRYRXFfWllJQzJGNXhwRGtBOXdIRHFER1JKYkc1UjZpRU00WWZQRXcwYXE4QlZZTHByM2dqVHQ2cnBudUVNQVhYekYxR1drWGc?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T15:14:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d36840416e013073",
-   "k": "finanzen",
-   "titel": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-   "t": "Vor den Quartalszahlen von CoreWeave richtet sich der Blick auf die schuldenfinanzierten Investitionen in den KI-Ausbau des Unternehmens.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-10T15:01:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "26d3bf5247cb6e63",
-   "k": "deutschland",
-   "titel": "Ilse Aigner bekommt breite Unterstützung – Sehen Sie hier die Statements der Union",
-   "t": "Union, SPD und Grüne unterstützen die Kandidatur von Ilse Aigner (CSU) für das Amt der Bundespräsidentin.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af32567f0b67a4b24664727/hoechstes-staatsamt-ilse-aigner-bekommt-breite-unterstuetzung-sehen-sie-hier-die-statements-der-union.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T14:57:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "d5d03f82fcc4d112",
-   "k": "finanzen",
-   "titel": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-   "t": "Die US-Verbraucherpreise sind im Oktober um 0,4 Prozent gestiegen und damit stärker als erwartet. Die Kerninflation lag bei 0,3 Prozent.",
-   "e": "Der Anstieg erschwert den Kampf der Fed gegen die Inflation vor ihrer nächsten Zinsentscheidung im Dezember.",
-   "s": 8,
-   "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-10T14:50:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,12 +3100,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Welt",
@@ -3125,7 +3125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "NZZ",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "CNBC Finance",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 32
    },
    {
     "name": "WSJ USA",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 39
+    "n": 37
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Fed",
