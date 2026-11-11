@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-11T05:01:23.189472+00:00",
+ "aktualisiert": "2026-11-11T06:02:58.256340+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "73.652 $",
-   "delta": -1.3879594039780343
+   "wert": "73.852 $",
+   "delta": -1.1071678312765743
   },
   {
    "name": "Ethereum",
-   "wert": "2.062 $",
-   "delta": -2.7119633650236623
+   "wert": "2.069 $",
+   "delta": -2.4379462716915725
   },
   {
    "name": "Gold",
-   "wert": "4.053 $",
-   "delta": -1.4922833880179898
+   "wert": "4.066 $",
+   "delta": 0.8882946072617415
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,300 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-10T19:01:39.810877+00:00",
+  "slot": 7,
+  "stand": "2026-11-11T06:02:58.256319+00:00",
   "punkte": [
    {
-    "k": "finanzen",
-    "t": "Die US-Verbraucherpreise sind im Oktober um 0,4 Prozent gestiegen, stärker als erwartet, die Kerninflation lag bei 0,3 Prozent. Fed-Gouverneur Waller befürwortet eine Zinserhöhung im Dezember, und der Leitzins der Fed liegt laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Nach dem heißeren Inflationsbericht steigt die Rendite zehnjähriger US-Staatsanleihen wieder nahe 5 Prozent, und Aktien geben nach. Marktdaten: Deka DAX 230,20 €, iShares MSCI World 128,65 €, Gold 4.035 $, Bitcoin 73.422 $."
-   },
-   {
     "k": "welt",
-    "t": "USA und Iran tragen Kämpfe um die Straße von Hormus aus und haben zuletzt Inseln in der Wasserstraße angegriffen. Der Brent-Ölpreis fiel dennoch erstmals seit August unter 90 Dollar je Barrel, auf Hoffnungen auf Entspannung hin."
+    "t": "Die USA und der Iran kämpfen um die Kontrolle der Straße von Hormus, und beide Seiten haben zuletzt Inseln in der Wasserstraße angegriffen. Die iranische Militärführung droht Israel mit Vernichtung, und die US-Regierung hat die Task Force Iron Gate eingerichtet, um Irans Landgrenzen für den Handel abzuschneiden."
    },
    {
-    "k": "deutschland",
-    "t": "Der plötzliche Tod des bayerischen Wirtschaftsministers Hubert Aiwanger hat die Landespolitik erschüttert. Am Samstag findet dafür im Bayerischen Landtag in München ein Staatsakt statt."
+    "k": "finanzen",
+    "t": "Die US-Verbraucherpreise stiegen im Oktober um 0,4 Prozent und damit stärker als erwartet, die Kerninflation lag bei 0,3 Prozent. Die Rendite zehnjähriger US-Staatsanleihen liegt wieder nahe bzw. über 5 Prozent, und eine weitere Fed-Zinserhöhung im Dezember gilt laut Meldungen als wahrscheinlich bzw. als gesetzt."
+   },
+   {
+    "k": "finanzen",
+    "t": "Marktdaten: iShares MSCI World 128,65 €, iShares MSCI EM 44,55 €, Deka S&P 500 139,88 €, Deka Nasdaq-100 176,02 €, Deka DAX 230,20 €. Außerdem notieren Gold bei 4.066 $, Bitcoin bei 73.852 $ und die EZB liegt bei 2,50 %, die Fed Funds bei 3,88 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die Nvidia-Aktie hat binnen einer Woche rund eine Billion Dollar Börsenwert verloren. Im Zusammenhang mit der Affäre um Jensen Huang wird auch über strengere US-Exportregeln für Chips nach China diskutiert."
    },
    {
     "k": "nrw",
     "t": "Die Warsteiner Brauerei-Gruppe baut in Nordrhein-Westfalen hunderte Stellen ab, nach Angaben von n-tv etwa jede dritte Stelle."
    },
    {
-    "k": "welt",
-    "t": "Ukraine und Russland verhandeln erstmals seit acht Monaten wieder direkt in Abu Dhabi unter US-Vermittlung, Vertreter der EU sind laut Berichten dabei. Russlands Außenminister Lawrow lehnt eine sofortige Waffenruhe ab."
+    "k": "deutschland",
+    "t": "Nach dem plötzlichen Tod des bayerischen Wirtschaftsministers Hubert Aiwanger findet am Samstag ein Staatsakt im Bayerischen Landtag in München statt."
    }
   ]
  },
  "items": [
+  {
+   "id": "78bb16796774b6af",
+   "k": "welt",
+   "titel": "Spanien gedenkt der 69 Todesopfer des Zugunglücks von Urda",
+   "t": "In Spanien haben König Felipe und Königin Letizia bei einer Trauerfeier in der Kathedrale von Toledo der 69 Todesopfer des Zugunglücks von Urda gedacht.",
+   "e": "Das Unglück mit 69 Toten ist eines der schwersten Zugunglücke in Spanien der jüngeren Zeit und löst eine nationale Trauer aus.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6af3fa88f0b67a4b2466503c/trauerfeier-spanien-gedenkt-der-69-todesopfer-des-zugungluecks-von-urda.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T06:01:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "b634c9a4d654f139",
+   "k": "welt",
+   "titel": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+   "t": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden und hat dabei die Sozialpolitik von Präsident Javier Milei deutlich kritisiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-11T05:54:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "0d020655debad8ab",
+   "k": "deutschland",
+   "titel": "AfD droht nach Hackerangriff Millionenstrafe",
+   "t": "Nach einem Hackerangriff auf die AfD sind im Internet Namen und Adressen Tausender Parteispender einsehbar. Der Partei droht laut Bericht eine Millionenstrafe, weil viele der Daten nicht hätten gespeichert werden dürfen.",
+   "e": "Der Fall betrifft Datenschutzrecht und Parteienfinanzierung und könnte ein Präzedenzfall für den Umgang der Parteien mit Spenderdaten werden.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af3f89a42c2bfde5b993894/spendernamen-einsehbar-afd-droht-nach-hackerangriff-millionenstrafe.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:54:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "f300613ed1c21b2d",
+   "k": "deutschland",
+   "titel": "Zwei Tote in Baden-Württemberg, Schüsse in Hamburg – Polizei prüft Zusammenhang",
+   "t": "In Hamburg wurden nach Schüssen in der Hafencity der mutmaßliche Täter leblos in einem Hotelzimmer der Elbphilharmonie gefunden. Die Polizei prüft einen Zusammenhang mit einem Doppelmord in Baden-Württemberg.",
+   "e": "Die Ermittlungen zu einem möglichen überregionalen Zusammenhang laufen, Details sind noch offen.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6af3fa6af0b67a4b24665036/elbphilharmonie-evakuiert-zwei-tote-in-baden-wuerttemberg-schuesse-in-hamburg-polizei-prueft-zusammenhang.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:46:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b563c3c3face7a8",
+   "k": "deutschland",
+   "titel": "Linke-Fraktionsspitze bringt Ausschluss von Vanessa Emde auf den Weg",
+   "t": "Die Berliner Linke-Fraktionsspitze will die umstrittene Abgeordnete Vanessa Emde aus der Fraktion im Abgeordnetenhaus ausschließen. Über den Antrag soll voraussichtlich in zwei Wochen entschieden werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af3f9c5f0b67a4b2466501d/regierungsbildung-in-berlin-linke-fraktionsspitze-bringt-ausschluss-von-vanessa-emde-auf-den-weg.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:39:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "ff6932966207f7d7",
+   "k": "deutschland",
+   "titel": "Union setzt auf breite Mehrheit für Aigner – AfD wirft ihr fehlende Überparteilichkeit vor",
+   "t": "Die Union stellt Ilse Aigner (CSU) als Kandidatin für das Bundespräsidentenamt vor und setzt auf eine breite Mehrheit. Die AfD wirft ihr fehlende Überparteilichkeit vor, nachdem sie deren Einladung ausgeschlagen hatte.",
+   "e": "Die Bundespräsidentenwahl ist eine der wenigen Wahlen, bei der sich Unionsparteien und Opposition auf eine breite Mehrheit verständigen können.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af3fea442c2bfde5b9938c4/bundespraesidentenwahl-union-setzt-auf-breite-mehrheit-fuer-aigner-afd-wirft-ihr-fehlende-ueberparteilichkeit-vor.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:37:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "3a24208c1e38f046",
+   "k": "deutschland",
+   "titel": "„Beim eigenen Regierungsapparat sitzt der Gürtel ganz schön locker – für Deko und Co.“",
+   "t": "Die Ministerien haben seit Mai 2025 fast sechs Millionen Euro für Mobiliar und Einrichtung ausgegeben. Der Bund der Steuerzahler übt daran scharfe Kritik.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af3fa2ef0b67a4b2466502f/kritik-vom-steuerzahlerbund-beim-eigenen-regierungsapparat-sitzt-der-guertel-ganz-schoen-locker-fuer-deko-und-co.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:32:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "28d976e7101a97c6",
+   "k": "nrw",
+   "titel": "POL-MK: Sichergestellt: Manipulierter E-Scooter fährt 127 km/h schnell - Presseportal",
+   "t": "Die Polizei im Märkischen Kreis hat einen manipulierten E-Scooter sichergestellt, der laut Mitteilung eine Geschwindigkeit von 127 km/h erreicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Kc01Wb2p0SUZuVzZ2TW9LZTRPU0JnOWlBcmlaSWUyMGJyY0lzUnctRG1yVzJvaDdOcE9KTXRGVDU5LVlhVHFNTm5tUDVpUHBWUTJxaE1zMWduWUNpc3RCdmdIX0U?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-11T05:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1a22b759b02f031",
+   "k": "welt",
+   "titel": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+   "t": "Die EU-Kommission legt einen Vorschlag für einen sogenannten Digital Fairness Act vor. Er soll Regeln für Werbung, Algorithmen, Influencer, Onlineshops und Ticketverkäufer verschärfen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/digital-fairness-act-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-11T05:28:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "282cea9fdc7d66b0",
+   "k": "deutschland",
+   "titel": "AfD baut Vorsprung auf sieben Punkte aus – Mehrheit der Unionsanhänger unzufrieden mit Merz",
+   "t": "Im Forsa-Trendbarometer für RTL und ntv erreicht die AfD 27 Prozent und liegt damit sieben Punkte vor CDU und CSU. Die Mehrheit der Unionsanhänger ist laut Umfrage mit Kanzler Merz unzufrieden.",
+   "e": "Ein Vorsprung von sieben Punkten ist der größte Abstand dieser Art im Trendbarometer und setzt die Union unter Druck.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af3f988f0b67a4b24665019/forsa-umfrage-afd-baut-vorsprung-auf-sieben-punkte-aus-mehrheit-der-unionsanhaenger-unzufrieden-mit-merz.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:27:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "751f0b3c8209ef0f",
+   "k": "usa",
+   "titel": "Amtsenthebung vorerst gescheitert – Hegseth bleibt US-Verteidigungsminister",
+   "t": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Hegseth bleibt damit im Amt.",
+   "e": "Die nahezu geschlossene Abstimmung der Republikaner zeigt, dass Hegseth im Kongress vorerst über die Parteilinie gestützt wird.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/video6af3f86b42c2bfde5b99388f/repraesentantenhaus-amtsenthebung-vorerst-gescheitert-hegseth-bleibt-us-verteidigungsminister.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-11T05:23:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b0161a638ac799a",
+   "k": "welt",
+   "titel": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+   "t": "In Spanien findet heute der erste Generalstreik seit 2012 statt. Die Initiative stammt nicht von Gewerkschaften, sondern von einem Mieterverbund.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-11T05:16:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "8181e961dff07bdc",
+   "k": "finanzen",
+   "titel": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+   "t": "US-Finanzminister Bessent sagt, Washington und Peking sollten bei der Zusammenarbeit und dem Wettbewerb im Bereich KI keine Illusionen hegen. Nach Xis Besuch im September wurde ein KI-Dialog mit Kommunikationskanal vereinbart, um ernste Zwischenfälle zu entschärfen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-11T05:15:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "2902e7f442d5a114",
+   "k": "finanzen",
+   "titel": "„Was zum Teufel ist Nvidia?“ Jetzt steht Trumps enger Vertrauter Huang unter Spionageverdacht - Frankfurter Rundschau",
+   "t": "Nvidia-Chef Jensen Huang steht nach Medienberichten unter Spionageverdacht. Huang gilt als enger Vertrauter von US-Präsident Trump.",
+   "e": "Nvidia ist einer der wichtigsten Chiphersteller weltweit, Ermittlungen gegen den Konzernchef könnten Auswirkungen auf die Halbleiterbranche und die US-China-Beziehungen haben.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEE4V0oxQkl5Y1pKZ1Q3cWkwOENCRjNYZ09NVFN3bnJBWFJqWXA2dFVlRVpIOFg0WlNnd1RmeXhmOEF0MHBobzhXaDNnTy1oRjN5bjdyNXRudElaMWZuMnVDYnNnWkdPQ3BTdDlLS2FBby1iVDcxX3NONXNtQXB2T0xLYmp1SUNBbTdjNXB3MWptRWNQeGF1dm1sNVhKT3hVbVNCUw?oc=5",
+   "quelle": "Frankfurter Rundschau",
+   "zeit": "2026-11-11T05:15:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "b8e88a549af8439c",
+   "k": "usa",
+   "titel": "Mayor Karen Bass reveals her political future as she speaks for first time since stunning election loss",
+   "t": "Die Bürgermeisterin von Los Angeles, Karen Bass, hat nach ihrer deutlichen Wahlniederlage erstmals öffentlich über ihre politische Zukunft gesprochen. Auf die Frage nach den Gründen verwies sie auf eine breitere Welle der Unzufriedenheit unter Wählern und die Forderung nach Veränderung.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/11/us-news/outgoing-la-mayor-karen-bass-breaks-her-silence-after-historic-upset-by-nithya-raman/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-11T05:12:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "3bc524f24be587d5",
+   "k": "finanzen",
+   "titel": "Börse am 11. November: Fünf Punkte, die für Anleger heute wichtig sind",
+   "t": "Vor Börsenbeginn am 11. November blicken Anleger nach der jüngsten Rekordjagd auf den deutschen Aktienmarkt, insbesondere auf die Quartalszahlen von Siemens Energy und Eon.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T05:12:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "66d3a1cfab39e19e",
+   "k": "finanzen",
+   "titel": "Morning Briefing Podcast: Steuern: Vereinfachen statt senken ? / Anthropic: Der zweitgrößte Börsengang aller Zeiten",
+   "t": "Der KI-Konzern Anthropic plant laut Handelsblatt einen Börsengang, der als zweitgrößter aller Zeiten bezeichnet wird.",
+   "e": "Ein Börsengang dieser Größenordnung wäre ein wichtiger Test für die Bewertung von KI-Unternehmen am Kapitalmarkt.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-steuern-vereinfachen-statt-senken---anthropic-der-zweitgroesste-boersengang-aller-zeiten/100268970.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T05:03:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "b83c7230f58c3a71",
+   "k": "nrw",
+   "titel": "Nur noch -4 Grad: Erhebliche Glätte folgt auf starken Regen in Aachen und NRW - t-online – Aachen",
+   "t": "Nach starkem Regen wird es in Aachen und weiten Teilen NRWs bei Temperaturen bis minus 4 Grad glatt, der Deutsche Wetterdienst warnt vor erheblicher Glätte.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTc5QVhlbnhzQXRQWThjSXNEdVZjZXJYdnNxYnBjSk51cEVtQnBEUk4yY0NYY2tHY0FPcDlnX2dXN3l1RDAxVlZhVHZPM2l6aWJJLVB0RFlFNlpuY1hsN3lEVHhnNEhlQ1VnRk9CQ1VseklOZ2g1QjhfTmZMR1NVVGkycjJlUDE2cTV0aE1QSVRrYThqWExVS1RWdDV5ejNXX3p5Wld1eU4xTmxrQjZ1UElGaEpVVHZZanRVczZn?oc=5",
+   "quelle": "t-online – Aachen",
+   "zeit": "2026-11-11T05:03:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "dc8c01824140828e",
+   "k": "nrw",
+   "titel": "\"Stromversorgung hat Priorität\": Wüst rückt von vorzeitigem Kohleausstieg in NRW ab - n-tv.de",
+   "t": "NRW-Ministerpräsident Wüst rückt von einem vorzeitigen Kohleausstieg ab und stellt die Stromversorgung in den Vordergrund.",
+   "e": "Die Entscheidung betrifft die Energiepolitik in Nordrhein-Westfalen, zu der auch das Revier und die Strompreise zählen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUpCVVdNb2xzRm1nYzJWR2F4YXhVd1pEUTZKdnpGZzlMSUVGZ25falpSb1VDaWpiYkpNVnh0TVprSm9CaXZNRkFMajJSSEhCUTRaMWxQV3UzTEV6cE94M1FpSGhrOVdyUElzeUgyemhVMm0xbC1pcUFRUmVNWjdlbS1wN3lTMkV0MlItZk9qcnYzdURLY2pkYm9qd0Y?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-11T05:02:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "74284ead13c3fb4c",
+   "k": "deutschland",
+   "titel": "Weltklimakonferenz: Deutschland rutscht im Klimaschutz-Ranking ins Mittelmaß ab",
+   "t": "Deutschland fällt im neuen Klimaschutz-Ranking ins Mittelmaß zurück. Experten kritisieren vor allem den geplanten Ausbau von Erdgas-Projekten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-deutschland-rutscht-im-klimaschutz-ranking-ins-mittelmass-ab/100268579.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T05:00:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "a40f2811f4b6161c",
+   "k": "finanzen",
+   "titel": "Gold erholt sich nach kräftigem Ausverkauf, doch Zinserhöhungserwartungen der Fed belasten - MarketScreener Schweiz",
+   "t": "Der Goldpreis erholt sich nach einem kräftigen Ausverkauf, belastet werden die Kurse jedoch durch die gestiegenen Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed.",
+   "e": "Gold reagiert sensibel auf Zinserwartungen, weil höhere Zinsen die Attraktivität des zinslosen Edelmetalls gegenüber verzinslichen Anlagen verringern.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0tuakIzNEt2cWNiRzZVQjNxOTBGQVdJaW5vXzVxam1oUnNnVG5OQzlGYkQ3NlRURU5DZGlqS01udzJlOU9wbE10c2ltTl8xQlVoc0hpZTJpUDhRcEpWNFRGZ2h2MXREd3JMUmVNek9ScFhUaVl1VUhWR1d6UV81ZDYwUnVkS0Q2WElHanF6R2VZS2pnTUdNTW1rUDZDSjA0ZnV4UkdpSWlnZlBHMElOTldISi0wdmN5Y3BNNWhaYmhkTHVYQXpydTU0ZjNxS3UyekROZUY5aTZLSTRUdDhhdjJuVHYxS0g3aWpCRG9B?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-11T04:59:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "406dd657b67e1ac4",
+   "k": "finanzen",
+   "titel": "Goldman expects additional Fed rate hike in March - Reuters",
+   "t": "Die Investmentbank Goldman Sachs erwartet laut Reuters im März eine weitere Zinserhöhung der US-Notenbank Fed.",
+   "e": "Die Erwartung einer weiteren Zinserhöhung im März würde die Zinswende der Fed fortsetzen und betrifft Anleihen, Aktien und Gold gleichermaßen.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGZrcC11RmpmMVp3a09iZl9aR2N6TDVFV2d1eE50MzBMT0hkZFMtbXFteWFvcDBnSEM0MXdhWFJmM0d4eXZNVFMtNDA2VHozS0UyeEdWcGtQanctN3pxdVVVeWRacnFxS2d3N1I1MktUbUVISWhwZ0VibFgtTWVUX0ZtelYwSmJMQXdUbDJqZmxPMklpS2c?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-11T04:58:00+00:00",
+   "tag": null
+  },
   {
    "id": "1395253a0e691d04",
    "k": "finanzen",
@@ -500,6 +764,18 @@
    "e": "Die Eskalation zwischen Iran und Israel ist eines der größten geopolitischen Risiken für Energiepreise und Finanzmärkte.",
    "s": 7,
    "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-finanzminister-zieht-nach-drohungen-des-irans-auf-militaerbasis/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T01:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c340516357a3cfc3",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: US-Finanzminister zieht nach Drohungen des Irans auf Militärbasis",
+   "t": "Vor dem Hintergrund des Iran-Konflikts droht die iranische Militärführung Israel mit Vernichtung. Der US-Finanzminister reiste nach den Drohungen auf eine Militärbasis, Netanjahu fordert eine Einheitsregierung.",
+   "e": "Die Eskalation im Nahen Osten berührt Energiemärkte, Finanzmärkte und die sicherheitspolitische Lage in Europa unmittelbar.",
+   "s": 8,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-us-finanzminister-zieht-nach-drohungen-irans-auf-militaerbasis/100136895.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-11T01:28:00+00:00",
    "tag": null
@@ -2807,282 +3083,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-10T12:55:01+00:00",
    "tag": null
-  },
-  {
-   "id": "5b98d9fadcc38abd",
-   "k": "deutschland",
-   "titel": "Zwei Tote in Baden-Württemberg: Polizei prüft Verbindungen zu Schüssen in Hamburg",
-   "t": "In Baden-Württemberg sind in einer Wohnung südlich von Stuttgart zwei Tote gefunden worden. Die Polizei prüft einen Zusammenhang mit den Schüssen in Hamburg.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-verbindungen-reutlingen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T12:54:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4cccb24af345b042",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: ICE-Anschlag: Prozess wegen versuchten Mordes gestartet - n-tv.de",
-   "t": "Vor einem Gericht hat der Prozess wegen versuchten Mordes im Zusammenhang mit einem ICE-Anschlag begonnen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkl4VE10dDhrUkVoTUtMVm9JdjhzR1pnbGVYckhFU19JWHZpWkRLOGdtWWJSTkJiY1ZuNjlRTnZBSXRTNy1tdmduTHh6RTVhdnM0ZHZCZHJScHB4Yy1zWHpvVDB1SE1HTVU0WXVQdXNMSEdRTV83MDZNaVdtRW9GWjFYTEY0OHh6SlJXXy1tM3VsaW90b29FYkxiMWZmV29UZ25yWDNFUjFDc2hINkg3bThxTHhVczBGQUw0TDBR?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T12:52:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "955049e9143a4064",
-   "k": "finanzen",
-   "titel": "Fed’s Goolsbee Warns AI Data Center Boom Is Starting to Look Like ‘Demand Overheating,’ Says Central Bankers Must Be ‘Aggressive Up Front’ - TradingView",
-   "t": "Fed-Vertreter Goolsbee warnt, der Boom bei KI-Rechenzentren zeige Anzeichen einer Nachfrageüberhitzung. Zentralbanken müssten zu Beginn aggressiv handeln.",
-   "e": "Die Aussage stützt die Erwartung weiterer Zinsschritte der Fed und passt zur jüngsten Inflationsdatenlage.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdURjVjhzQmc3Wmx4dUtnVmJybEtmT0hrVExxY3hieDBvT21tUWJGVkdydTdHM1Y1M0ZxLTNHZFZPa2ZPVWFmdzlqRnZNa1hLVjBGblYzcjNRTW0tYkk5X29PTVZ1VEdUUEZhU29pRDI3cHBxUkxHVTVoaldZeE0zMnMxLXRERFNJaUJrZzY2MjM2TjRjRE9XMW43TzJHT2hrT0IyNkpadmJVempWOW1HemJ0UnB1N3NablQ4OWE3ajl1aTRYVkVyWVVHREtxU0tveHBZWnBrTkhLOWNpZXlqelRSaVl4WldfQzlEMDJzUUM2WnZKeGJVWnBTVnZGelEzd0JrQ3JaZXNEUkFwNnpQLXFaM3dYUnBFV2xDNg?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-10T12:50:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "bbe44e03ab5a6c00",
-   "k": "nrw",
-   "titel": "Verfassungsgerichtshof: NRW-Gericht entscheidet im Dezember über Eingliederungshilfe - DIE ZEIT",
-   "t": "Der NRW-Verfassungsgerichtshof entscheidet im Dezember über Fragen zur Eingliederungshilfe.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkRSWkpta3luNlhSb3ZBNHM0eU5TVTlwRjJtWUozMVFNeHVKTGFWSjQwWWtHU3J6dVlSZHhWTlZ6bDZSYVBaQXFmMV9kQVhLUmJmeUlfMXREQlgxeGtpcml6Wmg5ZjBJN04wZEZKbGVQMUZvY1RvS0pJWWZWeWdVdVd0TVRkZV9SRTZxRGlXczBpUzNVTFpKb01LTG00UQ?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-10T12:43:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "f3493ea580d75a7f",
-   "k": "deutschland",
-   "titel": "Angeklagte im Fall Fabian zu lebenslanger Haft verurteilt",
-   "t": "Im Mordprozess um den achtjährigen Fabian aus Güstrow hat das Landgericht Rostock die Angeklagte schuldig gesprochen und zu lebenslanger Haft verurteilt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/urteil-im-fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt,aktuellmv-438.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T12:40:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "e270a5f80967b421",
-   "k": "finanzen",
-   "titel": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-   "t": "Ripple Prime-Chef Marc Asch tritt zurück, Noel Kimmel wird sein Nachfolger.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-10T12:38:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "63f3d34db86b6c4d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Gefahrgut auf A4 bei Köln ausgetreten - Sperrung - n-tv.de",
-   "t": "Auf der A4 bei Köln ist Gefahrgut ausgetreten, die Autobahn wurde gesperrt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3pLcjBYV2JDUjFyWmtsby1Ob0FjbDd5ZkxhelNnMHVGcHVnSlhMOXVwbmRnYndsTExramNhd0htT245aXd2cXVMdUJNeW41aDlWclBTaEpYUzllUW9sbkNFZ1dkc0RhUFJ1WWpLb0M3S0owd3lsa3RqeDhmWTR6bFNMUFBTenR2X1dMZzFzVjlGSkk1c0dxbV9TenRRNUpGa0hTNERfQ0hsQ0RKYXVfZC1pUkc?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T12:38:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c60f245e2b38521",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Lawrow fordert Folgeregelung vor einem Waffenstillstand in der Ukraine",
-   "t": "Lawrow fordert eine Folgeregelung vor einem Waffenstillstand in der Ukraine. Ukraine und Russland verhandeln in Abu Dhabi über ein Kriegsende, Drohnenangriffe sollen laut Insidern ein Drittel der russischen Raffineriekapazität lahmlegen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-lawrow-fordert-folgeregelung-vor-einem-waffenstillstand/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T12:37:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "669ec5146e450d2a",
-   "k": "deutschland",
-   "titel": "Energiewende: Rüge für Reiche: Kartellamt kritisiert Vergabe von Back-up-Kraftwerken",
-   "t": "Das Kartellamt kritisiert die Vergabe von Back-up-Kraftwerken für die Stromnetzreserve. Zehn von elf Zuschlägen gingen an nur zwei Unternehmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-kartellamt-kritisiert-vergabe-von-back-up-kraftwerken/100268781.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T12:34:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "801099115f473c1a",
-   "k": "deutschland",
-   "titel": "Steuern: Klingbeil will Steuerklassen III und V abschaffen",
-   "t": "Finanzminister Klingbeil plant, die Steuerklassen III und V abzuschaffen. Künftig soll die Besteuerung von Ehepaaren nach dem tatsächlichen Verdienst erfolgen.",
-   "e": "Die Reform würde die bei Ehepaaren verbreitete Steuerklassenkombination betreffen und ist ein größeres steuerpolitisches Vorhaben.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-die-steuerklassen-iii-und-v-abschaffen/100268559.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-10T12:33:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "9fe76599a137569d",
-   "k": "finanzen",
-   "titel": "EZB-Präsident: Warum Deutschland den Spitzenposten nicht besetzen sollte - Wirtschaft - SZ.de - SZ.de",
-   "t": "Diskutiert wird, ob Deutschland bei der Besetzung der EZB-Präsidentschaft zum Zuge kommen sollte.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmVxM25uaXdmdWlnSkpsX0QxdHJBTHNVQThKSnJOSjRWZk5BRDIzcnJPWjllYUt4YkRJTFpmTWdHd1BuN0ZhMm9MUUxVbjRaYVN5MWo5Ukx3SHd0YWQzNktUa1BJRHAzOFRYSDA5SFRjNG5lcTN0aDduYWJqNi0tWWF6VjZrSjFWemlGOTBkVmp1VVp1NFR5Tmd4TUMxVWZMQWlWbEpERnE1V211MjZFQlVzdUNtSm1TUkxZdDJmd0tXWkU?oc=5",
-   "quelle": "SZ.de",
-   "zeit": "2026-11-10T12:31:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "ee125c5f91d7f6b8",
-   "k": "finanzen",
-   "titel": "„Strohfeuer der Konjunktur erlischt schon wieder“ – Jede dritte Firma rechnet 2027 mit Stellenabbau",
-   "t": "Laut IW-Konjunkturumfrage will jede dritte Firma 2027 Stellen abbauen und weniger investieren. Die Stimmung in der deutschen Wirtschaft bleibt gedrückt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6af302a442c2bfde5b9928b9/iw-umfrage-strohfeuer-der-konjunktur-erlischt-schon-wieder-jede-dritte-firma-rechnet-2027-mit-stellenabbau.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T12:24:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d131beda36db4f6",
-   "k": "deutschland",
-   "titel": "Rentner können voraussichtlich auch 2027 mit deutlichem Plus rechnen",
-   "t": "Die Deutsche Rentenversicherung rechnet damit, dass die Renten auch 2027 deutlich steigen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6af2fe36f0b67a4b24663f42/rente-rentner-koennen-voraussichtlich-auch-2027-mit-deutlichem-plus-rechnen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T12:23:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "8298a308224d5c0b",
-   "k": "deutschland",
-   "titel": "Erster Prozess um Drogen-Gang – Angeklagter bestreitet Vergewaltigung von 16-Jähriger",
-   "t": "In Nürnberg beginnt der erste Prozess gegen einen mutmaßlichen Täter aus einer Drogen-Gang, dem Vergewaltigung einer 16-Jährigen vorgeworfen wird.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.welt.de/vermischtes/article6af2fbbbf0b67a4b24663ee7/nuernberg-erster-prozess-um-drogen-gang-angeklagter-bestreitet-vergewaltigung-von-16-jaehriger.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-10T12:19:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "5ec82450b4f5649b",
-   "k": "finanzen",
-   "titel": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-   "t": "Bitcoin hat sich von den Aktienmärkten abgekoppelt und fällt, da ETF-Abflüsse zunehmen. Der Bitcoin-Miner MARA hat zudem seine Bestände verringert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-10T12:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "38453d10b66cad24",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Bombendrohung: Jobcenter in Attendorn geräumt - n-tv.de",
-   "t": "Das Jobcenter in Attendorn wurde wegen einer Bombendrohung geräumt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON251ZzlFS1dJSEg3cmszRmZYUU01YUI2REltWjdlblRmLXFydWJ0N3FyeFI3SnpKQ2stbmFGNFViWEtoQkxNc1BrM3RxNUcxbFJOaUUteGY0ME92MFhrX0lHbWlka3Q4R3VRNjJxdjF0LVlQNXM5WUd3a1dLOFNoTXBfcGg2RUp1UDlTQ01USkFaQXJqLUJwRXRndUFMMWN5Mk5ZRlN1bl9RYVJyeHh1RDln?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-10T12:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b8b3decd06ad3e23",
-   "k": "finanzen",
-   "titel": "Wie sicher sind Bitcoin?: „Wir setzen für die Verwahrung von Kryptowerten auf ein mehrstufiges Sicherheitskonzept“",
-   "t": "Die Börse Stuttgart erläutert, wie sie Kryptowerte verwahrt und sich dabei absichert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/boerse-stuttgart-digital-so-sicher-werden-kryptowerte-verwahrt-accg-201652531.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-10T12:14:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "858314f074e229c1",
-   "k": "usa",
-   "titel": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-   "t": "In den USA gibt es den größten Masernausbruch seit Jahrzehnten, unter anderem wegen widersprüchlicher Aussagen des Gesundheitsministers zur Impfung.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T12:13:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "eae1970d89a93fb4",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Drogenbande tarnte Cannabis-Depot - tagesschau.de",
-   "t": "In Nordrhein-Westfalen hat die Polizei eine Drogenbande gefasst, die ein Cannabis-Depot getarnt hatte.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1JTdDZ0cnc1OXRhbm5BbFJGQV9zLXBoNTJJZEk5Zm9MSGpIa1RrX2hmbm1fN3hsckRvdHV2SmZkQUFUanhVTS1WeHJjSHhIbGhuWmZ4U19UeG1LV0pFOVl1bGR6Ym9UNy1lSzRjdUttdEw0ZkFFOEpIOGdyOTlYVlVDWDBuU3BNSlMzdTFIRl95bU5nWFBJdllYS3BIOEZDWENGQWV6TEs1RUV1eC0wdjFBaldVRFpkTzh4V0g1RVRxUHpJbmRQa1NoVVhSR1VyYlZFUWtqa1k?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-10T12:10:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6cfee8babfbacaa2",
-   "k": "usa",
-   "titel": "Hin und Her im Weißen Haus: Trump findet niemanden für Job - DerWesten",
-   "t": "Im Weißen Haus gibt es nach Berichten Hin und Her bei der Besetzung einer Stelle, für die Trump noch niemanden gefunden hat.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDZBZHQyY0JOOTE3dnp4UXVwZVR1dDNaMlpzU3BfbWpZLUxpa01lNlhnZzNGNEtsYXllaUY5bGkxenR4VGNJREFaZFlvTzRBRnM4QTBybkxLLVJ0WUlnenpuU0x5S0RpY25Wd3JNVmxobm84eUo3c2ZzSFpQZDZkYzBzZkNuLTh5RXhtMFhVOWFqREUyd3VVSGp4WUlBRGpaOGg5am5lekxONi1GZlBySmRGNkVDVlVyUWlneG53?oc=5",
-   "quelle": "DerWesten",
-   "zeit": "2026-11-10T12:09:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "8776f6e40b89be4c",
-   "k": "nrw",
-   "titel": "NRW: Pro-Kopf-Abfallaufkommen sinkt 2025 um fast 14 Kilogramm zum Vorjahr - IT.NRW",
-   "t": "In NRW ist das Pro-Kopf-Abfallaufkommen 2025 um knapp 14 Kilogramm gegenüber dem Vorjahr gesunken.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTVzOHRjR3FWaVgzMWlLeC1TSEJaZkgwMDJVQXVpNjNOWmJUaXcwWGpkclRFc2RQUHM5anYzT2Zmb1hMQUVpY2RRbTZmU3kyMDF1RjBIUnpyaVV0cW12YUpLRUc4U29yM09tcGdsQ24zUVpUZEMxRU1wby1Gc2otU3JrSUZpNnFzODRRZElZMlRtQ1FVQUFKRVBrajhXZnc?oc=5",
-   "quelle": "IT.NRW",
-   "zeit": "2026-11-10T12:03:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "259464fa30fa2e0a",
-   "k": "usa",
-   "titel": "WATCH: Jeffries faces uncertainty from incoming Democrats as House speaker vote approaches",
-   "t": "Vor der Wahl des Sprechers im US-Repräsentantenhaus gibt es Unsicherheit, da sich neue Demokraten noch nicht auf einen Kandidaten geeinigt haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/watch-jeffries-faces-uncertainty-from-incoming-democrats-house-speaker-vote-approaches",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-10T12:00:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "932ec18c87c6b0f5",
-   "k": "welt",
-   "titel": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-   "t": "Australien will nach einem KI-Sicherheitsvorfall die Regeln für KI-Entwickler verschärfen und auch das Strafrecht anpassen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-10T12:00:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 29
+    "n": 31
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "CNBC Finance",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Fox News Politik",
