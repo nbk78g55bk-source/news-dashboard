@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T17:01:18.615719+00:00",
+ "aktualisiert": "2026-11-12T18:52:30.815566+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "71.709 $",
-   "delta": -3.3707295403003443
+   "wert": "71.582 $",
+   "delta": -3.8711949760396673
   },
   {
    "name": "Ethereum",
-   "wert": "2.006 $",
-   "delta": -3.349672202832684
+   "wert": "2.010 $",
+   "delta": -3.6470890610208557
   },
   {
    "name": "Gold",
-   "wert": "3.883 $",
-   "delta": -2.9421322334708067
+   "wert": "3.890 $",
+   "delta": -2.749656292963376
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,312 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-12T11:01:28.054118+00:00",
+  "slot": 19,
+  "stand": "2026-11-12T18:52:30.815548+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nvidia gerät nach zwei Affären von Konzernchef Jensen Huang unter Druck. Laut Berichten bereitet der Verwaltungsrat seine Ablösung vor, die Aktie gab um weitere acht Prozent nach und der Konzern verlor rund 600 Milliarden Dollar an Börsenwert."
+    "t": "Nvidia-Chef Jensen Huang tritt nach Vorwürfen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Finanzchefin Colette Kress übernimmt interimistisch, die Aktie gab zweistellig nach."
    },
    {
     "k": "finanzen",
-    "t": "Der Dax hat erstmals die Marke von 27.000 Punkten überschritten, getragen von starken Bilanzen und Hoffnungen auf Frieden. Der Deka DAX notiert bei 234,85 €."
+    "t": "Der Dax hat erstmals die Marke von 27.000 Punkten übersprungen und erreichte ein Rekordhoch von 27.001,67 Zählern. Der Deka DAX notiert aktuell bei 233,85 €."
    },
    {
     "k": "finanzen",
-    "t": "Der US-Dollar-Index steigt über 103 auf den höchsten Stand seit April 2025, weil die Märkte weitere Zinserhöhungen der Fed einpreisen. Der Leitzins der Fed (Fed Funds) liegt bei 3,88 %, der der EZB bei 2,50 %. Gold fiel unter 4.000 Dollar, der Preis liegt bei 3.958 $."
+    "t": "Die EZB liegt aktuell bei 2,50 %, und Ökonomen erwarten laut Reuters-Umfrage für die Dezember-Sitzung eine Erhöhung auf 2,75 %. In den USA liegen die Fed Funds bei 3,88 %, der Druck auf die Fed für weitere Zinserhöhungen wächst."
    },
    {
-    "k": "nrw",
-    "t": "Warsteiner streicht in Nordrhein-Westfalen etwa jeden dritten Arbeitsplatz."
+    "k": "finanzen",
+    "t": "Gold ist unter 4.000 US-Dollar gefallen, der US-Dollar-Index liegt über 103 und nähert sich einem 19-Monatshoch. Bitcoin notiert bei 71.582 $."
    },
    {
     "k": "deutschland",
-    "t": "Die Koalition meldet Kompromisse im Haushaltsstreit: Die Zuckersteuer kommt erst 2028, eine Steuer auf Plastikverpackungen entfällt. Für die versprochene Senkung der Stromsteuer fehlen 5,4 Milliarden Euro, und die Wirtschaftsweisen warnen vor einer Staatsschuldenkrise."
+    "t": "Mercedes hat alle neuen Investitionen in deutsche Standorte gestoppt und prüft Werksschließungen. Die Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen stocken."
    },
    {
-    "k": "welt",
-    "t": "Die US-Gesandten Witkoff und Kushner sind in Moskau eingetroffen, um Präsident Putin zu treffen. Moskau und Kiew haben laut Tass einen Austausch von mehr als 1.000 Gefangenen vereinbart."
+    "k": "nrw",
+    "t": "Warsteiner streicht in Nordrhein-Westfalen etwa jeden dritten Arbeitsplatz. Die IG Metall kündigt im Märkischen Kreis 24-Stunden-Warnstreiks an."
    }
   ]
  },
  "items": [
+  {
+   "id": "4b04af37e6009e7c",
+   "k": "deutschland",
+   "titel": "Deutschland plant Milliarden-Beteiligung am Atom-Konzern Urenco",
+   "t": "Die Bundesregierung plant laut WELT-Informationen, die Anteile von RWE und E.on am Atomtechnik-Konzern Urenco zu übernehmen. Urenco beliefert unter anderem die Produktion von Reaktorbrennstoff und Material für Verteidigungszwecke.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af5efe2c45061d752ba8c29/deutschland-plant-milliarden-beteiligung-am-atom-konzern-urenco.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-12T18:49:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "7dd32ad74bac26ab",
+   "k": "deutschland",
+   "titel": "VW verdient offenbar nur noch zwölf Euro pro verkauftem Auto",
+   "t": "Laut einer Studie verdient Volkswagen nur noch rund zwölf Euro pro verkauftem Auto und liegt damit deutlich unter dem Branchenschnitt. Mercedes konnte seinen Gewinn je Auto dagegen um 31 Prozent steigern.",
+   "e": "Die geringe Marge bei VW verstärkt den Spardruck in der deutschen Autoindustrie.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6af60601c45061d752ba8ed5/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-12T18:49:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "b27fff640583e4bd",
+   "k": "finanzen",
+   "titel": "Fed’s Daly signals potential for more rate hikes amid rising inflation pressures - Crypto Briefing",
+   "t": "Fed-Vertreterin Mary Daly schließt weitere Zinserhöhungen nicht aus, da der Inflationsdruck zunimmt.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjFTZHpWR0ZXRWJUVnpmLTlWZjhManRHak1rV3Jzam5JSnFpWFZ2WXdWMTZVdDFDcjhTTzlMQm9TTFBqeHF0aUlYVXpkTFh5NnBSRGdJbm5uTjFiQjh4RTFVbDdYR0RQbjRNRVFIZXhhT0ZvcnVGSXpKWG1Tc2xFRWhCdVJNb0kyb2lJUUtTQ09hTmd6RGIwdTZBWkdwUlB4eWNuUzZYQVdBcEk?oc=5",
+   "quelle": "Crypto Briefing",
+   "zeit": "2026-11-12T18:48:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "83104f354e96b51e",
+   "k": "finanzen",
+   "titel": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+   "t": "Mercedes hat alle neuen Investitionen in deutsche Standorte gestoppt und prüft Werksschließungen. Die Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen stocken.",
+   "e": "Der Konzern erhöht den Druck in einem laufenden Streit um Kosten und Standorte, was auch Zulieferer und Beschäftigte in Deutschland betrifft.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T18:44:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "2e46b743958645aa",
+   "k": "welt",
+   "titel": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+   "t": "Klimaaktivistin Greta Thunberg macht auf der COP31 in Antalya die Politik für den außer Kontrolle geratenen Klimawandel verantwortlich. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T18:44:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "ded575514db166ea",
+   "k": "finanzen",
+   "titel": "U.S. inflation is already bad enough. It might get worse.",
+   "t": "Fed-Chef Kevin Warsh hat angekündigt, die hohe Inflation entschlossen zu bekämpfen. Analysten rechnen laut MarketWatch mit einem langwierigen und schwierigen Prozess.",
+   "e": "Die Aussagen des neuen Fed-Chefs zur Inflationsbekämpfung sind für Zinserwartungen, Anleihen und Aktienmärkte weltweit relevant.",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-12T18:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1165c182a8773e0f",
+   "k": "deutschland",
+   "titel": "Vierjährige Kita-Kinder müssen ab 2029 Sprachtest absolvieren",
+   "t": "Der Bundestag hat verpflichtende Sprachtests für vierjährige Kita-Kinder ab 2029 beschlossen. Die Länder fordern vom Bund mehr Geld für die Umsetzung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6af601d1c45061d752ba8e96/vierjaehrige-kita-kinder-muessen-ab-2029-sprachtest-absolvieren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-12T18:27:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ba52ba6ab374716",
+   "k": "finanzen",
+   "titel": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "t": "Die US-Notenbank Fed hat angekündigt, dass ihre Sitzung im Oktober 2027 ohne Zinsabstimmung und ohne Erklärung nach der Sitzung stattfindet. 2027 gibt es insgesamt sieben Sitzungen mit Zinsentscheidung.",
+   "e": "Die Fed reduziert formell die Zahl der geldpolitischen Entscheidungen, was Transparenz und Planbarkeit für Märkte berührt.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-12T18:26:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "d200ec214e372464",
+   "k": "finanzen",
+   "titel": "Mode: Auch Hugo-Boss-Chef geht – Nachfolger kommt vom Großaktionär",
+   "t": "Nach der Übernahme durch den Großaktionär Frasers baut Hugo Boss den Vorstand um. Konzernchef Grieder verlässt das Unternehmen zum Jahresende.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/mode-auch-hugo-boss-chef-geht-nachfolger-kommt-vom-grossaktionaer/100269522.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T18:21:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "179f381d77d64c79",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen - Nationalpark am Rothaarkamm: Holzwirtschaft wehrt sich gegen Pläne - Deutschlandfunk",
+   "t": "Im geplanten Nationalpark am Rothaarkamm wehrt sich die Holzwirtschaft gegen die Pläne.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2xEd3E3VnBWbGtDTkRfQTVtdmVBVExfQzJJcUotQThvUnBrU3I5VnZlTUpLbDg4Q0pYUV84YS16VVZ2a2NFdW05S19uWTZJdWg0anluUjdvdEpYUjlSZGdaOTZmcXFBdjIyVTJuZU1nRTZjRENzcGdLYWpidjRTdk8xWjRJVUtuSTdYbV9iLTJtbERZWW5GbHNNcEFvMExhUEdvd3RkNkRZQQ?oc=5",
+   "quelle": "Deutschlandfunk",
+   "zeit": "2026-11-12T18:21:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "3053a434dfd917d6",
+   "k": "usa",
+   "titel": "DC gym shooter ID’d as Dr. Matt Lambert — who went berserk at HOA over black mold in his $1.1M apartment",
+   "t": "Der Schütze bei einer Schießerei in einem Fitnessstudio in Washington D.C. wurde als Notarzt Dr. Matt Lambert identifiziert. Mehrere Menschen waren verletzt worden.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/12/us-news/matt-lambert-idd-as-dc-shooter-doctor-who-went-berserk-over-hoa-dispute-about-black-mold-in-1-1m-apartment/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-12T18:13:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "b66f4c01151ba57d",
+   "k": "finanzen",
+   "titel": "The bond market now has an even bigger fear than AI fallout",
+   "t": "Die Renditen von US-Staatsanleihen steigen, weil Anleger wieder mit weiteren Zinserhöhungen der Fed rechnen. Zuvor hatten Kursverluste bei Technologieaktien Staatsanleihen attraktiver gemacht.",
+   "e": "Steigende Anleiherenditen verteuern Kredite und können auch Aktienbewertungen unter Druck setzen.",
+   "s": 6,
+   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-12T18:08:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ba63173bdfebc863",
+   "k": "nrw",
+   "titel": "Seniorin in NRW betäubt und ausgeraubt: Europol jagt Pflegerin - BILD",
+   "t": "Eine Pflegerin soll in Nordrhein-Westfalen eine Seniorin betäubt und ausgeraubt haben. Europol fahndet nach ihr.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVU5UTE1hUFJ2eEJCeUU3alJCWC0xUXNrMDlLaERaamNBR1NaSGVCb2Fqb2dfcmxUb3VNQk5meWs2dWEzRXlNY3ZkekppODVwNG1FRXdic2RpTXFSQkptbTJXMmRvMUY1UmhUSTlDekxYamd6ZTd5dkNFOVhMRFhCWkxNMkFsMzhUa05QeE9GTnlBS1NWam9VWnRrMHpWNUdlaGF3MFNONkpmZDROc3BZV3VBNWtMT0VkbHFPODdIcFdJc2dnMlFSMnlGVENsaV9XYUE?oc=5",
+   "quelle": "BILD",
+   "zeit": "2026-11-12T18:02:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "e5a96c36ce5fc378",
+   "k": "finanzen",
+   "titel": "Kapitalmärkte: EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
+   "t": "Das EU-Parlament hat neue Schutzregeln für Kleinanleger abgelehnt. Die Abgeordneten sahen zu viel Bürokratie und zu wenig Nutzen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/kapitalmaerkte-eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger/100269489.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T17:51:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "a4da00f3e998e884",
+   "k": "finanzen",
+   "titel": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+   "t": "Die Führungskrise bei Nvidia wird mit einer Finanzierungswelle für KI-Projekte im Volumen von etwa 500 Milliarden US-Dollar in Verbindung gebracht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-12T17:41:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "17aae50fdc556024",
+   "k": "nrw",
+   "titel": "Schreckmoment in Westfalen: Rätselhafte Explosion reißt komplette Hauswand weg - n-tv.de",
+   "t": "In Westfalen hat eine bislang ungeklärte Explosion eine komplette Hauswand weggerissen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWpkWDNFY2hmdTVtZXNUMWw4ZEtRb3pqUVFfZjByRnIwUWRWMk44eFliSTRGZTNLV00yeDJtT0NLaVoyUFN2SGtPMDVxYXNDRjJDLW9hQ0MwbU5zU3c5bE9fdkhDcnVtdEExQ0dIckFzcDlOaEZuNHlCaUVDOEV0TGk1MUFWbV90VHpBM0NUdTVISUIwS0h5dDlMemloMVJuR0RPQlFvNWxOT3VpWnNTSG5fNFo?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-12T17:39:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f02bbbecb8b7a95",
+   "k": "usa",
+   "titel": "Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal",
+   "t": "Führende Demokraten im US-Repräsentantenhaus fordern eine Untersuchung von Handelsminister Howard Lutnick wegen seiner möglichen Rolle in der Nvidia-Spionageaffäre.",
+   "e": "Die Affäre um Nvidia und China weitet sich auf die Regierung aus, was die politische Debatte über Chip-Exporte berührt.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-12T17:38:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "efd322e6cc54f1fa",
+   "k": "usa",
+   "titel": "Trump-Watch: Trumps neue Männer nach den Midterms – die Trump-News der Woche",
+   "t": "Nach der Niederlage bei den Midterms zieht US-Präsident Trump erste personelle Konsequenzen. Auch die Zukunft von Verteidigungsminister Hegseth wird diskutiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-das-sind-trumps-neue-maenner-nach-den-midterms/100269518.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T17:36:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "56059621fd767527",
+   "k": "usa",
+   "titel": "Trump opens door to immigration deal, but Republicans have one condition",
+   "t": "Trump hat einen möglichen Deal für langfristig im Land lebende Migranten ins Gespräch gebracht. Republikaner im Senat lehnen eine Amnestie allerdings strikt ab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-12T17:35:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "84fca71570cd782c",
+   "k": "finanzen",
+   "titel": "Leitindex: Optimismus an der Börse - Dax erstmals über 27.000 Punkten",
+   "t": "Der Dax hat erstmals die Marke von 27.000 Punkten überschritten, fiel bis zum Handelsschluss aber wieder darunter.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/leitindex-optimismus-an-der-boerse-dax-erstmals-ueber-27000-punkten/100269391.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T17:33:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "eb56dde3da174ecf",
+   "k": "finanzen",
+   "titel": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+   "t": "Die Bundesbank warnt vor wachsenden Risiken für das deutsche Finanzsystem, weil Kredite zunehmend nicht zurückgezahlt werden. Auch Künstliche Intelligenz und Cyberangriffe werden als Gefahren genannt.",
+   "e": "Steigende Ausfallquoten bei Krediten sind ein frühes Warnsignal für Banken und die Konjunktur in Deutschland.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T17:31:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "dd935f9776fdde29",
+   "k": "finanzen",
+   "titel": "Geldpolitik: Merz will das zweitwichtigste Amt bei der EZB – und Macron könnte mitspielen",
+   "t": "Bundeskanzler Merz strebt laut Handelsblatt das zweitwichtigste Amt bei der EZB an, Frankreichs Präsident Macron könnte einem Deal zustimmen. Die Euro-Staaten verhandeln unter Zeitdruck über die Neubesetzung der EZB-Spitze.",
+   "e": "Die Personalentscheidungen an der EZB-Spitze sind für Zinspolitik und Stabilität im Euroraum von großer Bedeutung.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T17:31:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "4484d9cc6cb5ff8e",
+   "k": "nrw",
+   "titel": "Erste Vorbereitungen für den OGS-Neubau an der Hennener Grundschule laufen - IKZ-Online",
+   "t": "Im Hennener Grundschule in Iserlohn laufen die ersten Vorbereitungen für den Neubau der OGS.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ01KS3VJWGdqM09rQ3Fqa0lDY3EzSzRLZkJtYkxVVFoyME1rYWh1Y0VLcnJfV2VNV3h3YzUwOV9wd2U0Yi12bHZYVGJWVXhzdnBuWGlOTlhZek5QTngzc2FSYTMxXzJMUlZnR3Q1dmV3Qi1EMGxfOWN1UkdoUFhFT0NMMHBpbE1Zblp0allyVkwtTlpyM0g5Q2lwMFNHTzc4M0M5eWlVWXpUM3VCYkhRQ0tjbXNoOHJBS0ZrSDBoc3JPS29YSlFnSFJxSzQzXzJhMDNVWUxnSQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-12T17:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "488c3d82b4e2bcb3",
    "k": "finanzen",
@@ -301,6 +577,18 @@
    "tag": null
   },
   {
+   "id": "cf26c3932af7b619",
+   "k": "finanzen",
+   "titel": "Cleveland-Fed-Chefin Hammack will weitere Zinserhöhungen – KI-Boom treibt Inflation - Investing.com Deutsch",
+   "t": "Cleveland-Fed-Chefin Loretta Mester-Nachfolgerin Hammack spricht sich für weitere Zinserhöhungen aus und sieht den KI-Boom als Inflationstreiber.",
+   "e": "Die Forderung nach weiteren Zinsschritten verstärkt die Erwartung, dass die Fed die Zinsen länger hoch halten könnte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaDZfbzBRSFhYWVhJWlZLQU1BM19nV2N1c3BDeEZSRmtxSDVyZHRvRkYyYmU3SkRUQlI1cWc0M05UYlVuTThlS2NUb0xUd2tRNzhzVTJRdmlMZURyUjJkUi1ubVMzZFBFbnpCY3BCLWs4OWVSd3ZqWVY0QzdldlV1ZWpQT3luX25PQTRhUmNfZmZfZ2hmZTAzN0x6S0tMaVRWcnRXNXFudS1KeGphY3R4bUNqU3Y0bVJDcUFkUUQ5MEpZY3Z1YWgwYllmQUlsVWZBRlhSQlJJaGhvekZSSHR4ZDlHdVA?oc=5",
+   "quelle": "Investing.com Deutsch",
+   "zeit": "2026-11-12T15:37:00+00:00",
+   "tag": null
+  },
+  {
    "id": "66647ff2c6431c42",
    "k": "nrw",
    "titel": "Altena: Dauerbaustelle auf der Dahler Straße in Evingsen ab kommende Woche Montag - News.de",
@@ -322,6 +610,18 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlE1YnpWMUhQTXVKa01Oa0ZRMzNyd0Y0UEx4eFdJOC0wQkdtRVJwSkQ1MWRCT3lGYWRpXzd1MmxIOWVNNGdSTXVTVXJQQkZkaVRvT3hTM0U5cGpYRHdjamhtNkx1azUyV1VIZlhFdGlCajJuYWZoWTNzNnhYYm9HRnphUFVzMGFKb09mXzZxLW9pQWJlV0liV2Q2TFdGUQ?oc=5",
    "quelle": "Radio MK",
    "zeit": "2026-11-12T15:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "486d00352baced87",
+   "k": "finanzen",
+   "titel": "Goldpreis unter Abgabedruck: Zinsfantasie der Fed und fester US-Dollar belasten - XTB.com",
+   "t": "Der Goldpreis steht unter Abgabedruck, nachdem Zinserwartungen der Fed und ein fester US-Dollar belastet haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXloTDgyd0MxelhNSDFvOXh1MEZ4MzR3ai0yVkl5ZTM3dWItV2hlRmE2R0RUZnhueF9pN3YwM2JZdVdHX1paTjV5NGd2WFhFVnZjOHhxblViZkFOb2tIaDZlRjFydXByeEQxTjVyaGdNbmd1YmNJeXI3SDRMb0xRemRxS3czUXNZQzl6N184VERGVTN2czFhNmpOOHdubVdyaEplSUxKdHBKTnFtQXFTR3JiMkVKVmxPY1lGV0F4Y2hoOGlxU2xn?oc=5",
+   "quelle": "XTB.com",
+   "zeit": "2026-11-12T15:25:00+00:00",
    "tag": null
   },
   {
@@ -622,6 +922,18 @@
    "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-12T13:29:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "d438c8f0633d1dc1",
+   "k": "welt",
+   "titel": "EPG-Treffen in Irland: Europa will mit an den Tisch",
+   "t": "Beim Treffen der Europäischen Politischen Gemeinschaft in Irland geht es um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Selenskyj nimmt teil.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T13:28:28+00:00",
    "tag": null
   },
   {
@@ -2771,318 +3083,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-12T00:43:35+00:00",
    "tag": null
-  },
-  {
-   "id": "19a7c5e98b8d2763",
-   "k": "finanzen",
-   "titel": "UBS Group: Despite the hotter-than-expected U.S. CPI in October, support for a 50-basis-point rate hike by the Federal Reserve in December remains limited - Moomoo",
-   "t": "Trotz eines heißer als erwarteten US-Verbraucherpreisindex im Oktober ist laut UBS die Unterstützung für eine Zinserhöhung der Fed um 50 Basispunkte im Dezember begrenzt.",
-   "e": "Die Einschätzung deutet darauf hin, dass die Fed im Dezember eher moderat handeln könnte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGk2OFlUUi1leDQ5OG1rWUowWVdKN1VJV216Q0RQa2tVbUEwNXg1RXZBT1RaMkwxSUVfWTBnbVFueUNKVUdWNUdmODNmUEdSQmZaNW12cHNjMGNNODBfSFNNbUhBT09HQnNYVVZkaXpRTjNVUHVidzVGQ2RzbjJtSlR2ZVR4WVdMT3ZkMXg0MzFMekxIXzBqTXpBc3g?oc=5",
-   "quelle": "Moomoo",
-   "zeit": "2026-11-12T00:15:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "8b86f13a25e152dd",
-   "k": "finanzen",
-   "titel": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike - Bloomberg",
-   "t": "Gold notiert weiter unter 4.000 US-Dollar, während der Markt auf eine mögliche Zinserhöhung der Fed blickt.",
-   "e": "Steigende Zinserwartungen belasten in der Regel das zinslose Gold.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
-   "quelle": "Bloomberg",
-   "zeit": "2026-11-12T00:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fef13667bdefb1a2",
-   "k": "finanzen",
-   "titel": "MSCI confirms Strategy’s removal from indexes at end of November",
-   "t": "Der Index-Anbieter MSCI streicht Strategy, Metaplanet und Upexi aus seinen Indizes. Die Änderungen wirken nach dem Handelsschluss am 30. November.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T00:09:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "8a656b3e0ae73b6f",
-   "k": "finanzen",
-   "titel": "Nvidia bereitet nach Affären die Entlassung von Firmenchef Huang vor – Aktie verliert",
-   "t": "Die Nvidia-Aktie hat nach einem Bericht über eine mögliche Entlassung von Firmenchef Jensen Huang um rund acht Prozent nachgegeben.",
-   "e": "Nvidia ist einer der größten Börsenwerte weltweit, Bewegungen dort wirken auf den gesamten KI-Sektor und den Index.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6af5001450175c81de7a23ca/spionagefall-nvidia-bereitet-nach-affaeren-die-entlassung-von-firmenchef-huang-vor-aktie-verliert.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-12T00:00:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "cbfb16c08ee79880",
-   "k": "finanzen",
-   "titel": "Nvidia bereitet nach Affären die Entlassung von Firmenchef Huang vor – Aktie verliert",
-   "t": "Die Nvidia-Aktie hat um weitere acht Prozent nachgegeben, nachdem berichtet wurde, dass der KI-Chipkonzern die Entlassung von Firmenchef Jensen Huang vorbereitet. Huang war in zwei Affären verwickelt.",
-   "e": "Nvidia ist der wichtigste Lieferant für KI-Chips, daher hat die Personalfrage Auswirkungen auf den gesamten KI-Markt und den Chipsektor.",
-   "s": 8,
-   "link": "https://www.welt.de/wirtschaft/article6af5001450175c81de7a23ca/nvidia-bereitet-nach-affaeren-die-entlassung-von-firmenchef-huang-vor-aktie-verliert.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-12T00:00:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "5360651172ad0c42",
-   "k": "usa",
-   "titel": "At least 9 new Dem members will carry Al Green's mantle and try to impeach President Trump",
-   "t": "Der demokratische Abgeordnete Al Green sagt, mindestens neun neue Demokraten wollen seine Initiative für ein Amtsenthebungsverfahren gegen Trump unterstützen, unter anderem wegen Trumps Krypto-Geschäften.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/least-10-new-dem-members-carry-al-greenes-mantle-try-impeach-president-trump",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-11T23:56:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "ff879d5f0241d446",
-   "k": "finanzen",
-   "titel": "Dollar-Index erreicht fast 19-Monats-Hoch über 103 bei zunehmenden Wetten auf Fed-Zinserhöhungen, USD/JPY nähert sich 160 - TradingKey",
-   "t": "Der Dollar-Index erreicht mit über 103 fast ein 19-Monats-Hoch, der Yen nähert sich der Marke von 160 zum Dollar. Märkte preisen zunehmend Zinserhöhungen der Fed ein.",
-   "e": "Ein steigender Dollar belastet Gold und Schwellenländer und zeigt, wie stark die Zinserwartungen der Fed die Devisenmärkte bestimmen.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXNvaWNkRjZyVnFURW8zMjhzMGNZNndQa1JIcHpkaUg4ZHN0ZVp4T2JHM2FwWlY0U1VzUmxDMHZKVEt4UVEtWG9CdVRfTC04UlBoLXdrbndtMDlncUk0NS03amRuaEFQaVFqVS1qcnhVZWdBOEM1elFDWGczZ1JQSEd3eTN5djVldUVBR3VjbkRramduM3FvczNxa24wbmxiNVJYYUxkN2t5aDE0RG1UMVNMTTV1VUlUMHVGWU9jOUpUUQ?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-11T23:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dc31846d597df484",
-   "k": "welt",
-   "titel": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
-   "t": "Der Iran droht mit Angriffen auf US-Militärstützpunkte bis hin nach Europa, falls die USA einen neuen Krieg beginnen.",
-   "e": "Die Drohung betrifft auch europäische Stützpunkte und folgt auf neue Äußerungen Trumps zum Iran.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa/100269249.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-11T23:41:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "c47cddbcf0955d9f",
-   "k": "usa",
-   "titel": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-   "t": "Der Demokrat Scott Colom gewinnt die Senatswahl in Mississippi gegen die republikanische Amtsinhaberin Hyde-Smith. Er ist der erste Demokrat seit 1982, der dort in den Senat einzieht.",
-   "e": "Mississippi gilt als republikanische Hochburg, Trump hatte den Bundesstaat 2024 mit 22,9 Punkten Vorsprung gewonnen.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-11T23:31:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "1138bdba32483803",
-   "k": "finanzen",
-   "titel": "Eine Zinserhöhung um 50 Basispunkte? Warshs Fed hat ein Kommunikationsproblem: McGeever - TradingView",
-   "t": "Analysten diskutieren, ob die Fed unter Warsh eine Zinserhöhung um 50 Basispunkte in Betracht zieht, und sehen ein Kommunikationsproblem der Notenbank.",
-   "e": "Eine Erhöhung um 50 statt 25 Basispunkte wäre ein deutlich schärferer Schritt als erwartet.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TQ1hiQXduWFc5SVdlOFhkand3R0ljRExLUFdTZXExQ2ZoX0pvc0pPMmdFNTVVYlA2aXFYejRtRUYxdVItUTZtQ0diUkZaZE83RUJxZG1qRVFPVmszdmVVLWlfaDdONzllano1SU1YZXQ0N0E2YVhB?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-11T23:30:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "c67c031e51aa3e2e",
-   "k": "welt",
-   "titel": "+++ USA unter Trump +++: Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
-   "t": "In Großbritannien wurde ein US-Soldat wegen des Verdachts festgenommen, für Russland spioniert zu haben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/usa-erstmals-seit-1982-demokrat-holt-senatssitz-in-mississippi/29669594.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-11T23:18:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "24bbf969d2e2bfda",
-   "k": "finanzen",
-   "titel": "Credit card debit climbs to over $1 trillion - ABC Columbia",
-   "t": "Die Kreditkartenschulden in den USA sind laut Bericht auf über eine Billion US-Dollar gestiegen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDZ2VWJ0dXF4NEdDSFhSWnpqNGdpUTFmUURfVUFJSGtKai1PdXRXaWZIMEZ5M1ZZLUVNbHhZbmxPMWp2TTdCTnpFLVlFRWZSZDQ1YTFNTjFyOUp1TTJNNmplSW9kNDg2eFFhbWota09NazA5WmZmRnNVdngxZWhhYnFaT2I3WGFwcjNv?oc=5",
-   "quelle": "ABC Columbia",
-   "zeit": "2026-11-11T23:17:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "4505744d773853fb",
-   "k": "welt",
-   "titel": "Russlands US-Botschafter in Moskau plötzlich verstorben",
-   "t": "Der russische Botschafter in Washington, Alexander Darchiev, ist in Moskau plötzlich verstorben.",
-   "e": "Darchiev sollte eine Annäherung Russlands an die Regierung Trump vorantreiben.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6af4f2ccc45061d752ba6f0b/erfahrener-diplomat-russlands-us-botschafter-in-moskau-ploetzlich-verstorben.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-11T23:09:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "419711eeda1d3121",
-   "k": "finanzen",
-   "titel": "Nvidia: US-Medien berichten von weiterer Affäre von Jensen Huang – Nvidia bereitet offenbar Rauswurf vor",
-   "t": "Laut New York Times soll Nvidia-Chef Jensen Huang eine weitere Affäre gehabt haben. Das Wall Street Journal berichtet, der Verwaltungsrat bereite seine Ablösung vor, die Nvidia-Aktie gab nach.",
-   "e": "Nvidia ist der wichtigste Anbieter von KI-Chips und ein Schwergewicht im Nasdaq, eine Führungsfrage dieser Größe betrifft damit auch den breiteren Markt.",
-   "s": 8,
-   "link": "https://www.handelsblatt.com/technik/ki/nvidia-us-medien-berichten-von-weiterer-affaere-von-jensen-huang-nvidia-bereitet-offenbar-rauswurf-vor/100269242.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-11T22:57:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "0ac8c5d7f11d3d82",
-   "k": "usa",
-   "titel": "Bessent Moved to Military Base After Threats Linked to Iran",
-   "t": "Finanzminister Scott Bessent wurde nach Drohungen im Zusammenhang mit dem Iran auf einen Militärstützpunkt verlegt. Er leitet die wirtschaftliche Druckkampagne der Regierung gegen Teheran.",
-   "e": "",
-   "s": 7,
-   "link": "https://www.wsj.com/politics/national-security/bessent-moved-to-military-base-after-threats-linked-to-iran-95cfced1?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-11T22:39:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cebbfaa14074df69",
-   "k": "deutschland",
-   "titel": "Autoritarismus-Studie: Rechtsextremes Weltbild so verbreitet wie seit Jahren nicht",
-   "t": "Eine Autoritarismus-Studie stellt fest, dass ein rechtsextremes Weltbild so verbreitet ist wie seit Jahren nicht. Besonders im Osten Deutschlands breiten sich chauvinistische und autoritäre Einstellungen aus.",
-   "e": "Die Studie zeigt, dass Demokratie in Deutschland nicht mehr als selbstverständlich gilt, mit besonderer Relevanz für die Landtagswahlen im Osten.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/autoritarismus-studie-rechtsextremes-weltbild-so-verbreitet-wie-seit-jahren-nicht/100269039.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-11T22:30:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "a745f62746b32fb2",
-   "k": "finanzen",
-   "titel": "Yen gibt in Richtung 160,00 nach – Redner der Fed und US-EPI-Daten stehen bevor - TradingView",
-   "t": "Der Yen gibt in Richtung 160 je Dollar nach, Marktteilnehmer warten auf Fed-Redner und US-Inflationsdaten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aZklJZDh2S2JMd2s2emNEN2FxRXpxZDQ2a1ZET2NqUlZ5UUdHamxBbHJfRGhXRG1IWmw0azh1N2NYeFRvcHp6VTQyQXRUZmpVQnBvOFRPYVhvNmI4dERlMjBHdWh5d1BN?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-11T22:30:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "79095fa8882d6b23",
-   "k": "finanzen",
-   "titel": "Record credit card balances, fewer trips to McDonald’s: More signs of strain ahead of the holidays - NBC News",
-   "t": "US-Verbraucher haben laut NBC News Rekordstände bei Kreditkarten, und Besuche bei McDonald's nehmen ab. Die Belastung vor den Feiertagen wächst.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkwxR0tMSEhVaGUzbVdYMUdjaDg5SXY3S3VMQXRQNUNFMlFYd3pwd3ppTkd3akpHT2JlLUlpM0ktem5KU0RldUo3d3FsWGlrekxXTGloY0F5TVdvaXBUc1cwaWZUb09iUDRpRVo4MnJUc1RhRTNlU2M0WDdyalpKbld6XzBZb0UzUEk4RWtobEdlUzdKYUs5VWc1c3k3QVZScEhYUzg2UGo?oc=5",
-   "quelle": "NBC News",
-   "zeit": "2026-11-11T22:28:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "36882c8e66231e45",
-   "k": "finanzen",
-   "titel": "Uncalled US House races could send more crypto allies to Congress",
-   "t": "Bei noch nicht entschiedenen US-Kongresswahlen stehen Kandidaten mit Krypto-Position zur Wahl, Interessengruppen sehen darin eine Chance zur Ansprache.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-11T22:05:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b96ed2624b7aced",
-   "k": "usa",
-   "titel": "Demokraten im US-Kongress: US-Regierung warnt Demokraten wegen geplanter Untersuchungen - DIE ZEIT",
-   "t": "Die US-Regierung warnt die Demokraten vor geplanten Untersuchungen im Kongress.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMU1UNFAxWFl3TkxzQ1N5T3N6T2FyYzhYTXlUeG43VDlORFA0Z3RqUUN5UW5tOE9LNEszakhOb3d3dW9sbHFwYXREa3FTQUVxV2stdjZWY3ZJQkRkdjB3UkRKQTUzeXhOUTF5bnlOcTR6dnFwdGEtXzJFVlpuSWt2RHEyMWthUzl4bmx4Y2dnWm5DUGV0RVBkTkVaYUxVUHdtMGhlVHItM1hSOGM?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-11T21:57:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "07bea6e3dd5c741a",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Nach 30 Jahren: Michael Mronz hört bei CHIO auf - tagesschau.de",
-   "t": "Michael Mronz beendet nach 30 Jahren seine Tätigkeit beim CHIO in Aachen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG8xN25tbjNTU1dBLVYtUU1Pa1Fxc2NkdlJDdUJLRTRHbGtDb1I1Z2pIbThFWnNaR2M1VzBTZUEtYWJwWmtJOEVBdzJHUmFvMkw5aVBvbVpVZmlOMmprSnVCbGVzUHpVMXpoRGJoQ1Z4UzFTZTF0VGxUMWE0N2lLRDZqTTNSZTRQb3JUdHB0bGtOS3BnaDU5UXFLNGNZbFl2MlY2RnhrclVRNHpYSFYxRXAta09xQkJQYmRFdE5B?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-11T21:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c4673032b6842030",
-   "k": "usa",
-   "titel": "Trump's ex-lawyer Alina Habba loses massive contract days after president blasts 'outrageous' deal",
-   "t": "Alina Habba, frühere Anwältin von Donald Trump, hat einen Vertrag über 50 Millionen Dollar mit Concord Partners verloren. Trump hatte den Deal zuvor öffentlich kritisiert.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.foxnews.com/politics/trumps-ex-lawyer-alina-habba-loses-massive-contract-days-after-president-blasts-outrageous-deal",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-11T21:45:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "3955aeae4e0ea021",
-   "k": "finanzen",
-   "titel": "Ausblick auf die US-Erzeugerpreise im Oktober: Zinserhöhungserwartungen der Fed steigen, PPI könnte Schlüsselvariable sein; wie bewegen sich US-Aktien, Dollar und Gold? - TradingKey",
-   "t": "Vor der Veröffentlichung der US-Erzeugerpreise für Oktober steigen die Erwartungen an eine Zinserhöhung der Fed. Die Daten gelten als Schlüsselgröße für Aktien, Dollar und Gold.",
-   "e": "Die Erzeugerpreise gelten als Frühindikator für die Verbraucherinflation und damit für den Kurs der Fed.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2NmeHpIYkcxbmFNTGFxOEk0YzRzSUMxOWZmWnp6N09lT1FRX0dJNHRCd2RSalNqV0ZLa3RXM2QxaldLUGtpRXVDVlpzb3UtVm9BNi1DS1NQa0FneVVjSkJiVHlmek5rc0l1T3lrYmUtR1M1TU5VSW1XUFRVYks3amVBU0dSR3RJWjhuYkY4Ri03SS1KbmdHU0otTER1SUlEMTM5QW53dFo4S3lxVkxxMFlSZDlqYTZqbElfXzhJN3pnSThzWkNXem1oTHR6ZHdkSVNIMXdJZzRfN1U?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-11T21:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9025751a97697ff7",
-   "k": "finanzen",
-   "titel": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-   "t": "Der enge Zusammenhang zwischen Ölpreisen und US-Staatsanleihenrenditen ist zerbrochen: Fallende Ölpreise senken die Anleihezinsen nicht mehr wie zuvor.",
-   "e": "Das deutet darauf hin, dass sich die Inflationssorgen von der Energie auf die breitere Wirtschaft ausweiten und die Fed unter Druck bleibt.",
-   "s": 6,
-   "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-11T21:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "62527fe16cd7a237",
-   "k": "finanzen",
-   "titel": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-   "t": "Die japanische Bank Nomura prüft laut Bloomberg einen Verkauf ihrer Krypto-Einheit Laser Digital. Hintergrund sind vierte Quartalsverluste in Folge im europäischen Geschäft.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-11T21:36:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd6c8945165fdde0",
-   "k": "usa",
-   "titel": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-   "t": "US-Behörden werfen zwei Spitzenmanagern eines kanadischen Unternehmens vor, illegal verschreibungspflichtige Medikamente in die USA importiert zu haben. Gerichtsunterlagen belegen die Vorwürfe.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-11T21:33:17+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3095,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 22
    },
    {
     "name": "Welt",
@@ -3120,12 +3120,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 39
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "NZZ",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -3190,7 +3190,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3210,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 9
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 32
+    "n": 40
    }
   ],
   "markt": [],
