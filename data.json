@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T02:55:42.556079+00:00",
+ "aktualisiert": "2026-11-12T03:01:15.289568+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "73.762 $",
-   "delta": 0.2795455582055276
+   "wert": "73.726 $",
+   "delta": 0.2179411288564414
   },
   {
    "name": "Ethereum",
-   "wert": "2.056 $",
-   "delta": -0.041641910646856156
+   "wert": "2.055 $",
+   "delta": -0.06733383232867261
   },
   {
    "name": "Gold",
-   "wert": "3.980 $",
-   "delta": -1.2356694897332376
+   "wert": "3.988 $",
+   "delta": -1.0545370375362517
   },
   {
    "name": "EZB Zins",
@@ -1177,6 +1177,30 @@
    "tag": null
   },
   {
+   "id": "a3f7431510b6afb9",
+   "k": "welt",
+   "titel": "Ukraine-Gespräche: Moskau und Kiew vereinbaren Austausch von mehr als 1000 Gefangenen",
+   "t": "Moskau und Kiew haben laut der russischen Agentur Tass den Austausch von mehr als 1000 Gefangenen vereinbart. Der US-Gesandte Kushner bezeichnete die beendeten Gespräche in Abu Dhabi als „ersten guten Schritt“ und kündigte weitere Treffen an, unter anderem mit Putin und Selenskyj sowie mit europäischer Beteiligung.",
+   "e": "Ein Gefangenenaustausch wäre ein konkreter Schritt, doch über ein Ende des Krieges ist damit noch nicht entschieden.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/video/politik/ukraine-gespraeche-moskau-und-kiew-vereinbaren-austausch-von-mehr-als-1000-gefangenen/100269181.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T17:03:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "d01c0eca174f4f95",
+   "k": "welt",
+   "titel": "Argentinien: Papst Leo bei Milei: Wirtschaftskritik ja, aber pragmatisch statt antikapitalistisch",
+   "t": "Papst Leo XIV. hat bei seiner Südamerika-Reise den argentinischen Präsidenten Milei wirtschaftlich kritisiert, dabei aber eine pragmatische statt antikapitalistische Haltung betont. Er tritt diplomatischer auf als sein Vorgänger.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/argentinien-papst-leo-bei-milei-wirtschaftskritik-ja-aber-pragmatisch/100268730.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T17:00:42+00:00",
+   "tag": null
+  },
+  {
    "id": "2ef352b2706490a9",
    "k": "deutschland",
    "titel": "„Koalitionen dürfen niemals mehr zur bürgerlichen Selbstaufgabe führen“",
@@ -1258,6 +1282,18 @@
    "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/klimagipfel-antalya-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-11T16:48:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "0da9c09fbf73728d",
+   "k": "deutschland",
+   "titel": "Today: Wirtschaftsweise warnen vor Staatsschuldenkrise – Darum will Klingbeil Steuerklasse III und V streichen",
+   "t": "Die Wirtschaftsweisen warnen vor einer Staatsschuldenkrise. Finanzminister Klingbeil will laut Bericht die Steuerklassen III und V streichen, Ehepaare sollen künftig nach tatsächlichem Verdienst besteuert werden.",
+   "e": "Die Warnung zielt auf die Tragfähigkeit der Staatsfinanzen, während die geplante Steuerreform große Verteilungswirkungen hätte.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/audio/today/today-darum-will-klingbeil-steuerklasse-iii-und-v-streichen/100269193.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T16:40:06+00:00",
    "tag": null
   },
   {
@@ -1366,6 +1402,18 @@
    "link": "https://www.faz.net/aktuell/finanzen/sanjay-shah-und-cum-ex-berufung-gegen-12-jahre-haft-vor-kopenhagener-gericht-201672865.html",
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-11T16:10:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "ff7513c3d97e7064",
+   "k": "deutschland",
+   "titel": "Prozess: BGH stärkt Kläger im Streit um Rechtsschutz bei möglichen Impfschäden",
+   "t": "Der Bundesgerichtshof hat ein Urteil des OLG Düsseldorf im Streit um Rechtsschutz bei möglichen Impfschäden aufgehoben und den Fall zurückverwiesen. Ob der Kläger Anspruch auf Deckungsschutz hat, muss nun erneut geprüft werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/prozess-bgh-staerkt-klaeger-im-streit-um-rechtsschutz-bei-moeglichen-impfschaeden/100269196.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-11T16:10:34+00:00",
    "tag": null
   },
   {
@@ -3035,54 +3083,6 @@
    "quelle": "Investing.com Deutsch",
    "zeit": "2026-11-11T08:53:00+00:00",
    "tag": null
-  },
-  {
-   "id": "84ab03368ed91f3a",
-   "k": "finanzen",
-   "titel": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-   "t": "Die US-Börsenaufsicht SEC hat im Geschäftsjahr 2026 348 Verfahren eingeleitet, nach 456 im Vorjahr. Dazu gehören Fälle zu Bitcoin-Mining-Betrug und ein Vergleich zur FTX-Prüfung.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-11T08:43:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "a127bbcd8e875bb3",
-   "k": "welt",
-   "titel": "BILDSTRECKE - Tausende von Migranten erreichen die Kanarischen Inseln – Bilder einer humanitären Krise",
-   "t": "Auf den Kanarischen Inseln wurde der Notstand ausgerufen, nachdem rund 7.000 Migranten aus Westafrika innerhalb einer Woche angekommen sind.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.nzz.ch/fotografie/tausende-von-migranten-erreichen-die-kanarischen-inseln-bilder-einer-humanitaeren-krise-ld.10060510",
-   "quelle": "NZZ",
-   "zeit": "2026-11-11T08:43:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "0bee5c02ade96061",
-   "k": "nrw",
-   "titel": "Frisierter E-Scooter schafft 127 km/h: Polizei Iserlohn stoppt 16-Jährigen - upday News",
-   "t": "Die Polizei Iserlohn hat einen 16-Jährigen gestoppt, dessen manipulierter E-Scooter bis zu 127 km/h schnell war.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3JSNEhTMy1rYUhxaDgtRGZFY1kwaFdLR1BTczR5a2dNZUdYam83Y0pLV2V2UDBvckJmeVcxU2c1VEZYQk53U2l1OFFhd1NfT3dmcHZwMG5DX0pqallGVTliM0Z5ZjdJZ2wxSEVUd25rNTE1ZHZQSXpKZUpxUjlEOVZOd2ZMWVVFdmFvbUUxcVNNMDFOaUNDaVRHTGRrMHAxS25acmtoUlFfaU95d3hJ?oc=5",
-   "quelle": "upday News",
-   "zeit": "2026-11-11T08:34:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "a15ad52231793976",
-   "k": "finanzen",
-   "titel": "Federal Reserve: December rate hike expectations reinforced – Commerzbank - FXStreet",
-   "t": "Commerzbank sieht die Erwartungen an eine Zinserhöhung der Fed im Dezember durch aktuelle Daten gestützt.",
-   "e": "Höhere US-Zinsen wirken auf Dollar, Anleihen und internationale Märkte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkZlb2dWSTdGcmNBeEdCX195UTFJdktHRld5bDJjaUtPaG1sU0lMYWhZZF9nT09BSFVYWXJFQWhxSzVDRGJBM3hCRGh6T2lYUUl5RTluVUFJUjJ1LXpJSTJHVGdBQ05pRUpLVzU2NldZTU81d3daLWdvWnhCTWllMnhTZEM2czUwOGRwMmpRbVB5Z0VtNjVFOF9TOE5TekFrM013YVFzRVd4UGM5R0xvT1Fxcw?oc=5",
-   "quelle": "FXStreet",
-   "zeit": "2026-11-11T08:30:46+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 34
+    "n": 33
    },
    {
     "name": "WSJ USA",
