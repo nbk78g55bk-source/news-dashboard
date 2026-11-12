@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T19:01:23.694616+00:00",
+ "aktualisiert": "2026-11-12T21:01:22.644126+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "71.666 $",
-   "delta": -3.7060409152794196
+   "wert": "71.406 $",
+   "delta": -4.324044773892954
   },
   {
    "name": "Ethereum",
    "wert": "2.014 $",
-   "delta": -3.2513150447736816
+   "delta": -3.2108598002208675
   },
   {
    "name": "Gold",
-   "wert": "3.886 $",
-   "delta": -2.8621422322209766
+   "wert": "3.882 $",
+   "delta": -2.9696287964004586
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,150 @@
   ]
  },
  "items": [
+  {
+   "id": "418e7848defbb772",
+   "k": "welt",
+   "titel": "Opinion | Cyberattacks Are Coming for Us All",
+   "t": "Nach Cyberangriffen auf französische Supermarktketten warnen Kommentatoren vor weiteren Angriffen auf Krankenhäuser, Versorger und Banken.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/opinion/cyberattacks-are-coming-for-us-all-b19b46d4?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-12T20:56:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "8a7f8b9b1a122a00",
+   "k": "deutschland",
+   "titel": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
+   "t": "Die Bundesregierung will eine Bundesbaugesellschaft rasch starten lassen, um den Bau bezahlbarer Mietwohnungen in den Ballungsräumen zu beschleunigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten/100269519.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T20:55:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "9808e9516fada8e2",
+   "k": "finanzen",
+   "titel": "U.S. jobless claims rise as home sales hit 16-year low - Honolulu Star-Advertiser",
+   "t": "Die Zahl der US-Erstanträge auf Arbeitslosenhilfe ist gestiegen, und die Verkäufe von Häusern erreichten den niedrigsten Stand seit 16 Jahren.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUG1nUXI4YTE5U2hiakJIR0lVVDQ5QmNjMC1Ic0Z1d2kzUUhaU1J2LXVabngtZ1ZzQzg4dzQzVUluLXBTdXhNZGs5N1czTDRXTUJNeWV3OFNrd0ZQM184LXRGdXJOdUw0bGo0ZmFKQ0NPbERJVG9zYmpuRHNlSWx4ZGY3RHBMcWRDeVlETFZRNkE0eWNCVVhrMTFxWjJPTmI5MktPSjdLeWZjSG1RdDZv?oc=5",
+   "quelle": "Honolulu Star-Advertiser",
+   "zeit": "2026-11-12T20:51:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "a828fc59d04ef444",
+   "k": "welt",
+   "titel": "Regierung in der Krise: Niederlande: Regierungskrise eskaliert",
+   "t": "Die Minderheitsregierung des niederländischen Ministerpräsidenten Jetten steht nach einem Streit über die Millionärsteuer vor dem Aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/regierung-in-der-krise-niederlande-regierungskrise-eskaliert/100269534.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T20:39:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "ecd925b9502f865a",
+   "k": "deutschland",
+   "titel": "Deutscher Drohnenhersteller meldet Hackerangriff durch „feindliche Akteure“",
+   "t": "Der Drohnenhersteller Quantum Systems aus Bayern meldet einen Hackerangriff durch „feindliche Akteure“. Laut Medienberichten hat die Bundeswehr Drohnen des Unternehmens vorsorglich aus dem Verkehr gezogen.",
+   "e": "Das Unternehmen ist ein wichtiger Lieferant für die Ukraine, und der Vorfall zeigt die wachsende Bedrohung der Rüstungsindustrie durch Cyberangriffe.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/article6af61e5dd03b96b78bace121/quantum-systems-deutscher-drohnenhersteller-meldet-hackerangriff-durch-feindliche-akteure.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-12T20:36:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "31b99ae03d54aa9c",
+   "k": "welt",
+   "titel": "Gipfel in Dublin: Europäer benennen vorerst keinen Ukraine-Chefverhandler",
+   "t": "Beim Gipfel der Europäischen Politischen Gemeinschaft in Dublin haben sich die Europäer vorerst nicht auf einen gemeinsamen Chefverhandler für die Ukraine-Gespräche geeinigt.",
+   "e": "Ohne abgestimmte europäische Position bleibt Europa in den Verhandlungen zwischen Russland, der Ukraine und den USA ein schwacher Akteur.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/gipfel-in-dublin-europaeer-benennen-vorerst-keinen-ukraine-chefverhandler/100269283.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-12T20:34:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "f9b11b461292fda5",
+   "k": "welt",
+   "titel": "In einer Frage sieht Merz jetzt Putin am Zug – Kreml vergleicht Europäer mit „Spinnen in einem Glas“",
+   "t": "Nach einem Treffen mit Putin spricht der US-Gesandte Witkoff von Fortschritten und einem neuen Termin. Der Kreml weist Forderungen der Europäer zurück.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6af61a9450175c81de7a45e2/ukraine-gespraeche-in-einer-frage-sieht-merz-jetzt-putin-am-zug-kreml-vergleicht-europaeer-mit-spinnen-in-einem-glas.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-12T20:17:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "3bfa5bcf331ebdf7",
+   "k": "finanzen",
+   "titel": "Goolsbee von der Fed: Inflation gerät allmählich in eine schwierige Lage - MarketScreener Schweiz",
+   "t": "Fed-Vertreter Goolsbee sieht die Inflation allmählich in einer schwierigen Lage.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT2VFQk9yWnpsblJrWVljLXNTRzY2WGRxMVFiOWZlT2VmVk9iOG9JdmtjMXRvZ2xya05wbzNJQ1dvWVp2cDlicGNFMVJFbm83dk1DcmJvY0tiVVBqaklRQjJydDdtTzZDZkhUZUNHTHo2ODE1WVpVYzJnVmZGRGc2dkVHZllQLXJnakhvVEFxYUdid3M2ZVFVaFFxSjV3OUkyQ2s5cldsOXYzeHdvdlpZZkhhVkwweDJsX0RBdVR6Ni1iZ3N5akUxaXQxdFBIRE5aTzhBSURR?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-12T20:16:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "6a0423f140064b69",
+   "k": "welt",
+   "titel": "UN renews Iran's committee seat amid war with US, sparking backlash: 'Morally bankrupt'",
+   "t": "Die UN haben den Iran mit 144 Stimmen erneut in einen wichtigen Ausschuss gewählt. Kanada, Australien und US-Abgeordnete üben scharfe Kritik.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/un-renews-irans-committee-seat-amid-war-us-sparking-backlash-morally-bankrupt",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-12T19:52:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "15827eca7173ae45",
+   "k": "usa",
+   "titel": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+   "t": "Das US-Finanzministerium beauftragt erstmals seit sechs Jahren Inkassofirmen, um Studienkredit-Schuldner mit Zahlungsrückstand zu erreichen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-12T19:46:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ff7e764c90061ab",
+   "k": "deutschland",
+   "titel": "Finale Verhandlungen um Bundeshaushalt 2027",
+   "t": "Union und SPD verhandeln in den finalen Runden über den Bundeshaushalt 2027.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682874.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T19:29:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "65f408cdf3efcedc",
+   "k": "finanzen",
+   "titel": "Nvidia-Chef Huang tritt wegen brisanter Liebesaffäre zurück",
+   "t": "Nvidia-Chef Jensen Huang tritt nach einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Die Nvidia-Aktie fiel am Donnerstag nach Angaben von CNBC um rund 5 Prozent.",
+   "e": "Der Abgang des Konzernchefs des wichtigsten KI-Chip-Herstellers belastet einen zentralen Wert der US-Börse und wirft Fragen zur Sicherheit im Umgang mit China auf.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682878.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-12T19:29:20+00:00",
+   "tag": null
+  },
   {
    "id": "4b04af37e6009e7c",
    "k": "deutschland",
@@ -253,6 +397,18 @@
    "tag": null
   },
   {
+   "id": "ab78dcdcf35b5dad",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Klimawandel an der Ruhr: 2026 war so trocken und so warm wie selten - tagesschau.de",
+   "t": "Das Jahr 2026 war an der Ruhr so trocken und so warm wie selten.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ081emFJcl9Wc2ZmNFkzMmh5OHM1QUh4djI5R1l0ZmdQWnNFX1JBNmQ5bGRxY21GWU5UNDlIcjluSHltY3UwNHZyYklQVndkY1B2NXdZX1JUcElmYndzX0N5TEdFLWthQTd0d0FpM3d3Y3owMnFmMFc3RGsxNHNvaGRMS1VYOVlHajVOU29ObHFDTzltOFJ6a1hTMUR2bDU3MHc5MzJSOURtUUVudlVUbTBaTUVwUzRxdGhYUkR6T1ZmR0N0MHJZaEtNelh5RE90RjhzNDRzZw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-12T18:04:00+00:00",
+   "tag": null
+  },
+  {
    "id": "ba63173bdfebc863",
    "k": "nrw",
    "titel": "Seniorin in NRW betäubt und ausgeraubt: Europol jagt Pflegerin - BILD",
@@ -262,6 +418,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVU5UTE1hUFJ2eEJCeUU3alJCWC0xUXNrMDlLaERaamNBR1NaSGVCb2Fqb2dfcmxUb3VNQk5meWs2dWEzRXlNY3ZkekppODVwNG1FRXdic2RpTXFSQkptbTJXMmRvMUY1UmhUSTlDekxYamd6ZTd5dkNFOVhMRFhCWkxNMkFsMzhUa05QeE9GTnlBS1NWam9VWnRrMHpWNUdlaGF3MFNONkpmZDROc3BZV3VBNWtMT0VkbHFPODdIcFdJc2dnMlFSMnlGVENsaV9XYUE?oc=5",
    "quelle": "BILD",
    "zeit": "2026-11-12T18:02:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "6ab2f35575fc84a6",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Schwimmbad-Mangel in Dortmund verschärft sich - tagesschau.de",
+   "t": "In Dortmund verschärft sich der Mangel an Schwimmbädern.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWFM2b2FVTF9VanB2b095VVg3UkMtRlhfMENBOFEwRGpJb1hOODFFdVpZNG1FU3hobmxXR21yYjFRaENoQUNkbDN0OGtQUDZjd2xoZlVaSk16SVAxd1pFU1JyU0ZndE5CczE0bDVneE13SkJLYVlJZFJmdnpPZnlMeVBpbzRDaG5MR0w1TFFkX2VJajVmQTVWMUlXRVNlUTBQZU1KaFhnZnRIb2JHa0lkaEpieFRwMnExek51RUo1NS1VTHd3dTVjT01wcXZWTUVqdlFsTEw2dw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-12T17:55:00+00:00",
    "tag": null
   },
   {
@@ -853,6 +1021,18 @@
    "tag": null
   },
   {
+   "id": "b84b36e4712c6bb2",
+   "k": "usa",
+   "titel": "Acht Tote ducrh Hauseinsturz in New York: Suche nach Unglück in Brooklyn geht weiter - Ruhr Nachrichten",
+   "t": "Beim Einsturz eines Hauses in Brooklyn (New York) sind acht Menschen ums Leben gekommen. Die Suche nach Verschütteten dauert an.",
+   "e": "",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHo3emc1TFpNTGtrdU42N19UUFJERzJORDVNY2hGckhaRldTM3doR1ZGUlFZMUxDcGV4eWZlNDhXY3I2OFJ2TUxBV0pmRHI0aFFDMGI5Nzl1cjREV2dYWWlDUDB1YnZWSGtVSHdXMEhwd19KaEVLdjBOWFlfM1I5X1BQSWNUckNuLTJxWXdkbmpISjNGQTF1dFY0MXJzTnlfajc4VlhJN01iNnp4azJiM1NRNnhPaEc4YlVacUFEZnR4dVNONHAwbUszVmd1ZTFwVkdqaWl5WVNtUjNZeklYSGI1S0NKMmZ6THZMOFJNTThEN0ZxdWxfRWhYVS1OcDA?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-12T15:08:00+00:00",
+   "tag": null
+  },
+  {
    "id": "44628f8749b079f7",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: BGH kippte Urteil: Messer-Attacke in Bad Godesberg wird neu verhandelt - tagesschau.de",
@@ -1006,6 +1186,18 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGdtTzB4ckhfa3ZvOXRmSjR0aTgtYTNZSnRkN2JtR2JVYUNKYmJsbHFYVDNEVWc1WExzaFZqc3V3NnlEbENJM2pUUUdDUFlodTZycmhyR2tCaWE5SW1JLU1EQWtBaEZLNVdGQUVFV0hNbHNRbzVUclRZOXhtMjFYSzZESThDUHN3T3Q5SkpnQ1o4NGoweUVrTUxRdGMzTnZ6dVQ1UTRn?oc=5",
    "quelle": "Bloomberg.com",
    "zeit": "2026-11-12T14:31:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "5f2ba8ccd664e19c",
+   "k": "nrw",
+   "titel": "NRW: Erneuerbarenbranche warnt vor EEG-Unsicherheit - energate messenger",
+   "t": "Die Erneuerbaren-Branche in NRW warnt vor Unsicherheit durch die Pläne zur Reform des EEG.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUY4VS0yaWR5OWxyN2c2dHVTOWlkN3ZSRnZZSE1JN1VTV1NoWXV5N0xNbldhMkk3clIxd1ppRzRtekM2SmFWbzEyaG85WTZlbGV4Wlp3aWNEVDMtdU9DNGVaeHhXbjBGWWdKbjFGUDlOVjBIT0t5alhuOTM0MDYtSVdsR2Voc0FERHAxcklyZE5DR3BEdHdudEhIcmM?oc=5",
+   "quelle": "energate messenger",
+   "zeit": "2026-11-12T14:30:00+00:00",
    "tag": null
   },
   {
@@ -1198,6 +1390,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FXak5vVkEwekJLeTRVOVVGdFFDR09LODJ1Um9EZUhObHhMMVhMV0dCSVpuYVZNbVBWWDlncF9PZVdoSEdpbTZadzVZYm5jX1BZa0FSSGZUWlhIa3pxU1QtWk5OcFViMGtEc2ZKNm9DT2VFUUxHWEhPd1pEeWNPRVNBN3I2cm45VVJtM3JRTzdyVWlqSkdGaENYa014YVc5MWh6NUliTnA?oc=5",
    "quelle": "Come-on",
    "zeit": "2026-11-12T13:19:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e6445299b782ec42",
+   "k": "finanzen",
+   "titel": "BTC/USD unter Druck: ETF-Abflüsse und Fed-Politik belasten Bitcoin - Traders Union",
+   "t": "Bitcoin steht unter Druck, unter anderem wegen Abflüssen aus ETFs und der Geldpolitik der Fed.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFFCU2pxd2duYzczWGk1RXFTMm9EMHpZejVmcnV2eTVpLW1WLUk4RmF1bzZ4X2FIamFkRDNxZlN4d0ZZUUtJM3VCUUZMdklWcjhiNks4Wm5pRktxakhWdFpTSFhSM0lTMmlQaGJZSnpTSGdHRC1tTlhMdzlWUWUwdTZvY2Jmc3k4U1dWZWdoS21vQUNSTlRZSUJCbw?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-12T13:17:54+00:00",
    "tag": null
   },
   {
@@ -2879,210 +3083,6 @@
    "quelle": "IKZ-Online",
    "zeit": "2026-11-12T06:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "3ceb4e3cebef5355",
-   "k": "finanzen",
-   "titel": "South Korea to permit crypto withdrawal freezes during hacking threats",
-   "t": "Südkorea will Kryptobörsen erlauben, Auszahlungen bei Hacker-Bedrohungen vorübergehend einzufrieren. Auslöser sind Sicherheitsvorfälle bei Börsen im Land.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T05:54:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "34dba119c82b79bf",
-   "k": "finanzen",
-   "titel": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-   "t": "Zcash-Inhaber sollen über die Entnahme von 50.000 ZEC, rund 50 Millionen Dollar, aus der Förderkasse abstimmen.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-12T05:49:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "25eb087409675081",
-   "k": "finanzen",
-   "titel": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-   "t": "Bitcoin Core hat einen Fehler behoben, durch den Tausende Knoten im Tor-Netzwerk beliebigen fremden Peers vertrauten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-12T05:22:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "6f57150166baa51a",
-   "k": "finanzen",
-   "titel": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-   "t": "Der Binance-Sicherheitschef hatte in einem Interview im Juli beschrieben, wie gefälschte Programmier-Tests Mitarbeitergeräte kompromittieren können. Genau diese Methode wurde später beim Hackerangriff auf die Börse mit 6,3 Milliarden Dollar genutzt.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T05:07:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "c4b331d685b207f0",
-   "k": "nrw",
-   "titel": "Viel Aufregung um wenig Veränderung: Ein Streit um die Kreisreform ist überflüssig - Ruhr Nachrichten",
-   "t": "Über eine Kreisreform in NRW wird heftig gestritten, die Veränderungen fallen laut Kommentar aber gering aus.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOanZRTkFMSjhWSmE5cWdyUHZPWUEtS1FaRC1Td3N3cVdzNjNEMXJSQVVjeFdWZllNNFhORlNpek1pcGJ5ZUpEMTlzNjhUU3hiZ3R2YkZmUDgtT2pvN3c1akhydnFVMlJRV2xHa1ltY0dkQi1vczI2Zm0tb2ZlRlI3clZQRXJqdUN2RjZHZ2xTT0VPcHBreDdQZF9neFBkUlpLbFpfSG1KcnRQVUVGSUFZYVVYSHFNSGxWVzA3elZjLXN2MHNjbU1FODJiNnowU2JUZUQyM2V5QzdNZw?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-12T05:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a989bc0d2a6707d2",
-   "k": "welt",
-   "titel": "Südamerika-Reise: Hunderttausende jubeln Papst zu bei Rückkehr nach Peru",
-   "t": "Papst Leo XIV. ist auf seiner Südamerika-Reise bei seiner Rückkehr nach Peru von Hunderttausenden empfangen worden; er bezeichnete Peru als seine Heimat und äußerte zugleich kritische Worte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/suedamerika-reise-hunderttausende-jubeln-papst-zu-bei-rueckkehr-nach-peru/100269261.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T04:40:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "076c41c917a0ea8e",
-   "k": "usa",
-   "titel": "Trump will von nichts gewusst haben. Doch jetzt holt ihn Jensen Huangs Affäre mit einer mutmasslichen chinesischen Spionin ein",
-   "t": "Laut Berichten wusste US-Präsident Trump offenbar früh vom Spionageverdacht gegen die Chinesin Alice Huang, suchte aber dennoch die Nähe zu Nvidia-Chef Jensen Huang.",
-   "e": "Die Affäre bringt die US-Regierung im Kongress unter Druck, da sich Sicherheitsfragen mit Chipexporten und Personalentscheidungen verbinden.",
-   "s": 7,
-   "link": "https://www.nzz.ch/international/trump-will-von-nichts-gewusst-haben-doch-jetzt-holt-ihn-jensen-huangs-affaere-mit-einer-mutmasslichen-chinesischen-spionin-ein-ld.10060975",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "72b98513ad24dfe2",
-   "k": "welt",
-   "titel": "ERKLÄRT - Nach den ukrainisch-russischen Verhandlungen steht die Territorialfrage im Raum. Eine visuelle Übersicht über die wichtigsten Streitpunkte",
-   "t": "Nach den ukrainisch-russischen Verhandlungen geht es um die Territorialfrage: Russland beansprucht den gesamten Donbass, die Ukraine will die Frontlinie einfrieren, die USA erwägen eine entmilitarisierte Pufferzone.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/nach-den-ukrainisch-russischen-verhandlungen-steht-die-territorialfrage-im-raum-eine-visuelle-uebersicht-ueber-die-wichtigsten-streitpunkte-ld.10060870",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c223dc8b9e15cb2",
-   "k": "welt",
-   "titel": "Österreich geht schärfer gegen Spionage vor – im Fokus steht Russland",
-   "t": "Österreich verschärft das Vorgehen gegen Spionage, wobei vor allem diplomatische Vertretungen Russlands im Fokus stehen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/oesterreich-verschaerft-gesetze-gegen-spionage-fokus-auf-russland-ld.10060858",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6f4b872c71577a1f",
-   "k": "welt",
-   "titel": "Weniger Migranten, härtere Strafen, tieferes Rentenalter: Das möchten Le Pen und Bardella für Frankreich",
-   "t": "Marine Le Pen gilt in Frankreich derzeit als aussichtsreiche Kandidatin für die Präsidentschaftswahl im Frühjahr; Jordan Bardella hat in einem Buch seine geplante Regierungspolitik skizziert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/frankreich-wahlen-2027-das-programm-von-le-pen-und-bardella-ld.10060676",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "829dfb34f5dfceb7",
-   "k": "deutschland",
-   "titel": "DER ANDERE BLICK - Gen-Z-Porteste: Die Krawalldemonstranten setzen viel mehr als die innere Sicherheit aufs Spiel",
-   "t": "Für den 20. November sind in Deutschland weitere Jugendproteste angekündigt; Sicherheitsbehörden rechnen mit möglichen Gewalttätern unter den Teilnehmern.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/der-andere-blick/gen-z-porteste-die-krawalldemonstranten-setzen-viel-mehr-als-die-innere-sicherheit-aufs-spiel-ld.10060672",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c9562e92ed29993",
-   "k": "welt",
-   "titel": "Michel Houellebecq sagte Attentate und Schiessereien in Moscheen und in muslimischen Cafés voraus. Jetzt wird gegen ihn ermittelt",
-   "t": "Gegen den Schriftsteller Michel Houellebecq wird wegen einer Interview-Aussage über mögliche Gewalt gegen Muslime ermittelt, nachdem Anzeigen eingegangen waren.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.nzz.ch/feuilleton/michel-houellebecq-sagte-attentate-und-schiessereien-in-moscheen-und-in-muslimischen-cafes-voraus-jetzt-wird-gegen-ihn-ermittelt-ld.10060578",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "16663e205c88a9a4",
-   "k": "welt",
-   "titel": "Dubais trister Rettungsanker: wie die Emirate die Strasse von Hormuz umgehen",
-   "t": "Die Vereinigten Arabischen Emirate exportieren wieder etwa so viel Rohöl wie vor dem Iran-Krieg, indem sie über den Hafen Fujairah die Straße von Hormus umgehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/dubais-trister-rettungsanker-wie-die-emirate-die-strasse-von-hormuz-umgehen-ld.10059686",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a4623768fca22113",
-   "k": "welt",
-   "titel": "Wird das Starship endlich komplett wiederverwendbar? Die neuste Rakete von SpaceX soll erstmals nach einem Flug zur Startrampe zurückkehren",
-   "t": "SpaceX plant einen Testflug der Starship-Rakete, bei dem die Rakete erstmals nach dem Flug zur Startrampe zurückkehren soll.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wissenschaft/wird-das-starship-endlich-komplett-wiederverwendbar-die-neuste-rakete-von-spacex-soll-erstmals-nach-einem-flug-zur-startrampe-zurueckkehren-ld.10058733",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "249a2f2bf29e9964",
-   "k": "finanzen",
-   "titel": "Was, wenn VW geht? Die grosse Frage von Zwickau",
-   "t": "In Zwickau, wo seit 122 Jahren das Auto dominiert, wird die Zukunft der Standorte angesichts des Niedergangs der Autoindustrie diskutiert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/was-wenn-vw-geht-die-grosse-frage-von-zwickau-ld.10056615",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d516f1f6d881a39b",
-   "k": "usa",
-   "titel": "US-Regierung warnt Demokraten vor Untersuchungen gegen Trump - WEB.DE",
-   "t": "Die US-Regierung warnt die Demokraten vor Untersuchungen gegen Präsident Trump.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXpvNFFPNGFKYXFUOFoyQmlYWU1NeUg3X1pWYnZWbmpMNlFiN2VpMzF5ZmhWdlNDWHlJUzZKWG1VMXlfdjROT3dqSlN4cjQ5dHJ0Ty1IMEJtblJjSDRkZnJlTVA1by03R2JZNWVIM1VkQjl0MnN5VGdXRHdmOVo1c19GcDlwQU5XVl90SUFMVFhHdGlfdUE0NzFYSDUxMDNCdkd4cDY5SGpfUm1iSXc?oc=5",
-   "quelle": "WEB.DE",
-   "zeit": "2026-11-12T04:29:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "cff0fe82f35439bf",
-   "k": "usa",
-   "titel": "Democratic House lawmaker gets emotional as she blames rush hour traffic for missing Hegseth impeachment vote",
-   "t": "Im US-Repräsentantenhaus wurde ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth, angestoßen von Thomas Massie, mit 211 zu 204 Stimmen blockiert; elf Demokraten fehlten bei der Abstimmung.",
-   "e": "Die knappe Abstimmung zeigt die starke Parteienpolarisierung im Kongress.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/11/us-news/democratic-house-lawmaker-gets-emotional-as-she-blames-rush-hour-traffic-for-missing-hegseth-impeachment-vote/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-12T04:07:07+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 22
+    "n": 24
    },
    {
     "name": "CNBC Finance",
@@ -3190,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 37
+    "n": 36
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 31
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 14
    },
    {
     "name": "Google News Fed",
