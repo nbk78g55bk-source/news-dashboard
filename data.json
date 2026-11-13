@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-13T09:01:31.515239+00:00",
+ "aktualisiert": "2026-11-13T11:01:36.937877+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "130,87 €",
-   "delta": -0.0649091900776333
+   "wert": "131,33 €",
+   "delta": -0.22791527135440637
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "45,14 €",
-   "delta": -2.0271764675394266
+   "wert": "45,30 €",
+   "delta": -0.32785129261810875
   },
   {
    "name": "Deka S&P 500",
    "wert": "142,71 €",
-   "delta": -0.02452395391404627
+   "delta": -0.6336423481927644
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "180,88 €",
-   "delta": -0.5169988375055667
+   "wert": "181,38 €",
+   "delta": -0.6245914123249596
   },
   {
    "name": "Deka DAX",
-   "wert": "233,30 €",
-   "delta": 0.2147753185943957
+   "wert": "234,10 €",
+   "delta": 0.10690352360893662
   },
   {
    "name": "Bitcoin",
-   "wert": "68.700 $",
-   "delta": -6.549854406987765
+   "wert": "69.325 $",
+   "delta": -5.546910527408403
   },
   {
    "name": "Ethereum",
-   "wert": "1.931 $",
-   "delta": -5.694267024624542
+   "wert": "1.951 $",
+   "delta": -4.506386255955774
   },
   {
    "name": "Gold",
-   "wert": "3.898 $",
-   "delta": 0.33716704005464226
+   "wert": "3.896 $",
+   "delta": 0.27282194524647085
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,264 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-13T07:01:33.733378+00:00",
+  "slot": 12,
+  "stand": "2026-11-13T11:01:36.937855+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang tritt nach einer Spionageaffäre um eine mutmaßliche chinesische Spionin zurück, Finanzchefin Colette Kress übernimmt interimistisch. Die Aktie gab zeitweise zweistellig nach, und der Börsenwert sank um 1,6 Billionen Dollar."
+    "t": "Die Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed steigen, nachdem die US-Inflation über den Prognosen lag. Die Staatsanleiherenditen sind laut Meldung so stark gestiegen wie seit 2022 nicht mehr. Die Marktdaten nennen einen Fed Funds Satz von 3,88 % und einen EZB-Zins von 2,50 %."
    },
    {
     "k": "deutschland",
-    "t": "Mercedes stoppt alle Investitionen in Deutschland, weil die Verhandlungen über die Senkung der Arbeitskosten stocken. Werksschließungen werden laut Bericht wahrscheinlicher."
+    "t": "Mercedes hat laut Meldungen alle neuen Investitionen in deutsche Standorte gestoppt, weil die Verhandlungen über Kostensenkungen mit der Arbeitnehmerseite stocken. Werksschließungen werden als wahrscheinlicher eingestuft."
    },
    {
     "k": "finanzen",
-    "t": "Die Renditen von Staatsanleihen sind so stark gestiegen wie seit 2022 nicht mehr, weil die Erwartungen auf weitere Fed-Zinserhöhungen wachsen. Die Marktdaten zeigen Fed Funds 3,88 %, EZB Zins 2,50 %, Bitcoin 69.029 $ und Deka DAX 233,85 €."
+    "t": "Nvidia-Chef Jensen Huang ist nach Vorwürfen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetreten. Die Aktie fiel laut CNBC am Donnerstag um rund 5 Prozent, und der Konzern steuert auf die längste wöchentliche Verlustserie seit 2012 zu. Zum Vergleich: Deka Nasdaq-100 181,38 €."
    },
    {
-    "k": "deutschland",
-    "t": "Der Haushaltsausschuss des Bundestags hat den Etat 2027 mit Ausgaben von 560,9 Milliarden Euro gebilligt. Offen bleiben Fragen zur Stromsteuer-Senkung und zur kalten Progression."
+    "k": "finanzen",
+    "t": "Marktdaten: Deka DAX 234,10 €, iShares MSCI World 131,33 €, iShares MSCI EM 45,30 €. Bitcoin lag bei 69.325 $, Gold bei 3.896 $. Laut Meldung fiel Bitcoin unter 70.000 US-Dollar, während der Dollar-Index ein 19-Monats-Hoch erreichte."
    },
    {
-    "k": "usa",
-    "t": "Der US-Senat lädt Jensen Huang und Handelsminister Lutnick wegen des Spionageverdachts vor. Laut Medienberichten wurde Trump zweimal über die Affäre informiert, was er bestreitet."
+    "k": "nrw",
+    "t": "In Düren wurde eine fünffache Mutter vor einem Jobcenter getötet. Der Tatverdächtige war ausreisepflichtig und war nach einer Abschiebung trotz Wiedereinreiseverbots nach NRW zurückgekehrt."
    },
    {
     "k": "welt",
-    "t": "Bei einem Treffen mit den US-Gesandten Witkoff und Kushner hat Putin seinen Anspruch auf ukrainische Gebiete erneuert. Offen ist, ob Europa an den Friedensgesprächen beteiligt wird und wer dessen Chefverhandler wäre."
+    "t": "Nach einem Treffen mit den US-Gesandten Witkoff und Kushner zeigt sich Putin laut Meldungen offen für Gespräche mit Europa. Die USA wollen Europa in die Ukraine-Verhandlungen einbeziehen, unklar bleibt, wer Chefverhandler für Europa wäre."
    }
   ]
  },
  "items": [
+  {
+   "id": "bd61edae8f09adf6",
+   "k": "finanzen",
+   "titel": "Federal Reserve rate hike expectations strengthen as U.S. inflation runs above forecasts - Traders Union",
+   "t": "Die Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed steigen, nachdem die US-Inflation über den Prognosen lag.",
+   "e": "Die Fed hatte zuvor mit Zinssenkungen gerechnet; ein Kurswechsel hin zur Zinserhöhung würde Aktien, Krypto und Staatsanleihen gleichermaßen unter Druck setzen.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUdjLUgtXzhlaGpNb015Y3VFcXNzaFU1SHRxRGZjMElZRXdEU0wxYVlLalFKNzBfbWc2dTc1b3k4ZHA4elJoclpFc1ZlT3VwdVdtbk1wX04wUGo0SUFHTXp3Q19iZUo4bW1SOVFXN0duckYwSDZFc0MyUElDZ1R6RkVDX2V5VnI2VjN5cnU5SkNaRHZ0ZGcwcjJn?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-13T10:55:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "a51c6ad537a91103",
+   "k": "nrw",
+   "titel": "Fünffache Mutter vor Jobcenter getötet – Verdächtiger war ausreisepflichtig",
+   "t": "In Düren wurde eine fünffache Mutter vor einem Jobcenter getötet. Der Tatverdächtige war ausreisepflichtig, nach einer Abschiebung kehrte er trotz Wiedereinreiseverbots nach NRW zurück.",
+   "e": "Der Fall wirft Fragen zur Durchsetzung von Abschiebungen und Wiedereinreiseverboten in Nordrhein-Westfalen auf.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af6c8087f8bbad09ea61c3f/nrw-fuenffache-mutter-vor-jobcenter-in-dueren-getoetet-verdaechtiger-ignorierte-wiedereinreiseverbot.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T10:54:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "eb8d14ecb15da268",
+   "k": "usa",
+   "titel": "Stephen Miller: Trump-Stabschef vorm Karriere-Aus? Schulfreund prophezeit düsteres Ende - News.de",
+   "t": "Berichte über ein mögliches Karriereende von Trumps Stabschef Stephen Miller.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjJvQWpvR1VsakxoMFA2REkwT3pydTNGU2xzN3F5Rkw2R1h6X1llMDZOMnRaX0FuSzhWMkJnT1hHOUtpTnhlMm1YalYxdWdkRVJiMlBuSUlBLV9pQVU3bUtNdF9tNVN6U2E4WU53emtBdjllcVdOMEhvdVh5RTJfcjYzMHhicG5ZWjBlLU5MOTYzVk1lX2FwajVGNmFOT1UwYkZzVktWc3NrRURheWRFcjNNaWl2UVVNMEhpbkFRbEk?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-13T10:41:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "354e17e1337a580e",
+   "k": "deutschland",
+   "titel": "„Wenn die Regierung von Sparen spricht, dann spart sie nicht bei sich selbst, sondern beim Bürger“",
+   "t": "AfD-Politiker Michael Espendiller kritisiert den schwarz-roten Haushalt für 2027 und die ausbleibende Stromsteuersenkung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af6e12b84c7128d8f27df3d/haushalt-fuer-2027-wenn-die-regierung-von-sparen-spricht-dann-spart-sie-nicht-bei-sich-selbst-sondern-beim-buerger.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T10:41:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "ea84f194dfd5dca5",
+   "k": "usa",
+   "titel": "US-Einwanderungsbehörde ICE meldet Rekord bei Abschiebungen",
+   "t": "Die US-Einwanderungsbehörde ICE meldet mit fast einer halben Million Abschiebungen binnen eines Jahres einen Rekordwert. An der Transparenz der Daten gibt es Zweifel.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T10:38:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "d39345a6a983bb23",
+   "k": "nrw",
+   "titel": "Polizei-News Iserlohn, 13.11.26: Quad gestohlen - News.de",
+   "t": "In Iserlohn wurde ein Quad gestohlen, wie die Polizei berichtet.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVFSMHR0TGJ4a19RcXJfNFBsdkZiUEtUd2lVMk1jRXU1eFUzMlNJb3lQem5pQUJxcWFhSDhHb3ZhcGpmZEUwVVZ0aXJtYk5xS0hBNTRaMW04aXNfdDBSWlN6aWVWdjdROFA0X0s4M2NJUXhSZURaZHU5TzVxSVdtTEZLdk9ycnhiQ1FWTFdJclVYdThzQ0twc2xhVk5JQ0ZyM3hObEJUUmw?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-13T10:28:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "5661930fb94b4607",
+   "k": "finanzen",
+   "titel": "USA gibt 500 Mio. US-Dollar für Yen-Intervention aus, einschließlich Euro - IDNFinancials",
+   "t": "Die USA haben laut Bericht 500 Millionen US-Dollar für eine Intervention zur Stützung des Yen eingesetzt, teils auch in Euro.",
+   "e": "Eine koordinierte Währungsintervention zeigt, wie stark der Yen unter Druck steht, auch wegen der restriktiven Fed.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeW5IWHlualFseE5La2lEMXJRZkVnTmNqaGhEbmpzbHI2RWltZGRSb1U0cnZBS1ZLdXBxX0lLOGtSNV9ZTnBTNlJGQnM3QUhEbWlUdjl6alZibmxHYzQ0cmktaTlITGtGZTdCc1lSUll3YnNNWnoyN1NERWtpQmhwMThKZk5DOVM0WXZKeFB4aERDNk5USkJhVVVBMlBuQ0NBYURmeHZxN2hEUG1zdXdWSjRNTWNlajZuY25HYWVyaFA1TG8?oc=5",
+   "quelle": "IDNFinancials",
+   "zeit": "2026-11-13T10:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a8422b4a78778d27",
+   "k": "usa",
+   "titel": "Donald Trump: Nächstes Land im Visier - US-Präsident erwägt Militärschlag - News.de",
+   "t": "US-Präsident Trump erwägt laut Berichten einen Militärschlag gegen ein weiteres Land.",
+   "e": "",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbEt3LU5tTEpJZWlfYlcwZVBMNS1CUmM0QWEwd2dNeGFqRDVIYUdvRmxhdlRNbUd1LWt2akVnSm41aEpaVV9NcHlKOVdKVWZ0andKdE1LbHB5Mm9rRVFHQnNoN3JnLUJmVHM2aTMzZUdJaHBiR0RwMXFsVV9yVllqZzVabGFDdUx4N0w4RDJMbWxzUjJ0dlh3SWRmX0h6eXVYeGFNYXc4LUVma0hveS1sZ0hOUkprc0xkWFo0Z0Zzc21HNGMtaVhJLXpYdmQ4QUZpVm96NnBrLVNRdW9BQjg4aGtHWUg2SkZqV2MyNzZFdDd4MWQ4NmdodFd3Qi1aZWsyNWRjNA?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-13T10:18:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "752bb026778e761a",
+   "k": "usa",
+   "titel": "Vance suchte Frieden mit dem Iran – dann pfeift Trump ihn öffentlich zurück – „Haben ihre Meerenge“ - Frankfurter Rundschau",
+   "t": "Vizepräsident Vance hatte nach Berichten eine Friedenslösung mit dem Iran gesucht, Trump widersprach ihm öffentlich.",
+   "e": "Die uneinheitliche Linie im Weißen Haus zum Iran ist relevant für Ölpreise und die Lage in der Straße von Hormus.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThRWlEzbE5ieWh6c19zdjh6Y2UyTjA5SGJrV3dOY2kwcUxEc01paE4tSW8zckJOXzZBSFZnQ3NDWm05TEx5VVF5aGliQnJIbThFUDIybERrbVpfZmtrSXdhaktnSTRvSU5xb0xUNGZRSVNsMHo5WERKR20xQnl6ekIzR2cxWG82aE9ZVVY2UnBIaG9oLW9IS1JUS3A?oc=5",
+   "quelle": "Frankfurter Rundschau",
+   "zeit": "2026-11-13T10:07:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "aa0175cd57a88d57",
+   "k": "finanzen",
+   "titel": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+   "t": "Nvidia-Chef Jensen Huang ist nach Berichten über zwei außereheliche Beziehungen als CEO zurückgetreten. Die Aktie reagierte bisher nur leicht.",
+   "e": "Der Rücktritt des Chefs des weltweit wichtigsten KI-Chip-Herstellers ist für den Markt und die Chip-Branche ein bedeutender Einschnitt, auch wegen des Verdachts einer Spionage-Verbindung nach China.",
+   "s": 8,
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-13T10:00:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "a72d3718b4fab5c3",
+   "k": "deutschland",
+   "titel": "INTERAKTIV - Strom und Gas so teuer wie zuletzt Anfang 2023 – die aktuellen Zahlen zur Energieversorgung in Deutschland",
+   "t": "Strom- und Gaspreise in Deutschland liegen laut NZZ-Auswertung so hoch wie zuletzt Anfang 2023.",
+   "e": "Die Energiepreise beeinflussen Inflation, Konsum und die Zinserwartungen der EZB.",
+   "s": 6,
+   "link": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
+   "quelle": "NZZ",
+   "zeit": "2026-11-13T09:56:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "399f5b9521779aef",
+   "k": "welt",
+   "titel": "Nach Putin-Treffen: US-Vermittler wollen Europa in Ukraine-Verhandlungen einbeziehen",
+   "t": "Nach einem Treffen zwischen den US-Vermittlern und Putin wollen die USA Europa in die Ukraine-Verhandlungen einbeziehen.",
+   "e": "Eine Einbindung Europas wäre ein Wechsel in der Verhandlungsstruktur und betrifft direkt die Sicherheitsfragen in Europa.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/video/video-1683048.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T09:48:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "97a5327904e636da",
+   "k": "welt",
+   "titel": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+   "t": "Kanada droht dem Autokonzern Stellantis mit einer Klage, nachdem Jeep-Produktion aus Brampton in die USA verlagert werden soll.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-13T09:45:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "7d505f6d35335064",
+   "k": "finanzen",
+   "titel": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+   "t": "Der Bitcoin-Kurs ist unter 68.000 US-Dollar gefallen und hat dabei die 200-Wochen-Linie durchbrochen. Die Kryptowährung war seit Mitte August nicht mehr dort.",
+   "e": "Die 200-Wochen-Durchschnittslinie gilt bei Analysten als wichtige Trendmarke, die Stärke des Dollars belastet Risikoanlagen.",
+   "s": 6,
+   "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-13T09:39:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "7461920ce5687aea",
+   "k": "finanzen",
+   "titel": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+   "t": "Das US-Justizministerium will rund 1,2 Milliarden US-Dollar aus dem Binance-Hack beschlagnahmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-13T09:27:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "72291984ecd4a5c9",
+   "k": "finanzen",
+   "titel": "Fed Chair Kevin Warsh's Central Bank Reforms Come With a Significant Unintended Consequence - The Motley Fool",
+   "t": "Fed-Chef Kevin Warsh plant Reformen der Zentralbank, die laut Analyse eine erhebliche unbeabsichtigte Nebenwirkung haben könnten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHdjTmRQdklkWGhJSTQwdkNhUUVITGJKZnZ3ODNKaGhrTEFBMEFtRTFPYTZQdEtoeENvN0FtTnhXMWt4NlY0UlBwWS1BOFlZdWdZNzQ0Znp1ZW9yLVBpSWwySjdEcHA1Q2NUbWpHNFdJUnpyTkZoRmQ1cENQWWhvaFNRRVhETlBzVi1MdHFKNzhJQ2h1T2h2X2NYb1ZSdUI1N2JXZldSTUJvcGllUHI3dEJkWjBmVTZuVUZxMFBhY2UwLVM4ek9OcEVpc3o?oc=5",
+   "quelle": "The Motley Fool",
+   "zeit": "2026-11-13T09:06:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0fdfaf62040d1c35",
+   "k": "welt",
+   "titel": "Die Spur des russischen Goldes – Wohin die Sanktionen Putins Milliarden lenken",
+   "t": "Trotz westlicher Sanktionen hat sich der Handel mit russischem Gold laut Analyse auf neue Wege verlagert.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af1c15c79e1656222c37524/russlands-gold-wie-sanktionen-die-wege-von-putins-milliarden-veraendern.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-13T08:39:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "0bbbcef747c5cbbc",
+   "k": "usa",
+   "titel": "Jensen Huang hatte weitere Affären – US-Handelsminister Lutnick unter Druck",
+   "t": "Der Bankenausschuss des US-Senats will neben Jensen Huang auch Handelsminister Howard Lutnick befragen. Lutnick wird Versäumnisse bei der Exportkontrolle vorgeworfen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6af6bca35a72dceba1d6103b/nvidia-jensen-huang-hatte-weitere-affaeren-us-handelsminister-lutnick-unter-druck.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-13T07:52:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4b0c034b83f3fe3",
+   "k": "finanzen",
+   "titel": "Gemeinschaftsaktion: So wollen Banken es Betrügern schwerer machen",
+   "t": "Sparkassen, Deutsche Bank und Commerzbank gründen ein Gemeinschaftsunternehmen, um Betrug bei Datenweitergabe und Geldanlage zu erschweren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/deutsche-bank-commerzbank-und-sparkassen-bekaempfen-gemeinsam-betrug-accg-201672426.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-13T07:49:01+00:00",
+   "tag": null
+  },
   {
    "id": "4af6df0d0f7e229d",
    "k": "nrw",
@@ -2855,234 +3083,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-12T14:25:28+00:00",
    "tag": null
-  },
-  {
-   "id": "73046a0a4ed4d467",
-   "k": "finanzen",
-   "titel": "Nvidia-Niedergang: Plötzlich ist der Dax Favorit",
-   "t": "Der DAX hat erstmals mehr als 27.000 Punkte erreicht. Analysten fragen, ob es sich nur um eine kurze Euphorie nach dem Nvidia-Kursrutsch handelt.",
-   "e": "Der Indexrekord kommt zeitgleich mit einem starken Kursverlust bei Nvidia, was die Stabilität der Marktbewegung fraglich macht.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/nvidia-niedergang-und-ploetzlich-ist-der-dax-favorit-201677435.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-12T14:23:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "76c7de12c5372761",
-   "k": "finanzen",
-   "titel": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
-   "t": "Ölpreise haben sich erholt, nachdem Trump erklärt hatte, die USA bräuchten kein Abkommen mit Iran. Anleger bewerten die Aussichten auf neue Verhandlungen.",
-   "e": "Der Ölpreis reagiert empfindlich auf den US-Iran-Konflikt, da Iran wichtig für die Schifffahrt durch die Straße von Hormus ist.",
-   "s": 6,
-   "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-12T14:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c2fd557a9dd5ff5",
-   "k": "finanzen",
-   "titel": "Bundesverfassungsgericht weist Klagen gegen EZB-Anleihekauf ab - Bloomberg.com",
-   "t": "Das Bundesverfassungsgericht weist Klagen gegen die Anleihekäufe der EZB ab.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGU5U01BRkdyMGFnNGd2a2RXU2hvSGNELWFIYVYtQ3ZaVmRsY25SdUFNZ3lhQWJmN2x4QTJhR2lsVFRiSzJISFpyOTRIZjZIeW9ickNVYXdNMkRQUkw4bThKSm42cDJTSF8yM2lkU0xCcjlISVBqdFAzTnBfb2RsU2RKaFU0TE1VakhySUVmZ1Fyd2laanNSUUdwVVpLQVJMSW1tZnB5OFRqdndyRG5SZkkycw?oc=5",
-   "quelle": "Bloomberg.com",
-   "zeit": "2026-11-12T14:05:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ed1ea960cd368ed",
-   "k": "welt",
-   "titel": "Chinas Überwachungsstaat: KI-gestützte Kameras sollen prüfen, ob Studierende dem Unterricht folgen oder auf ihre Handys starren",
-   "t": "Die Nanjing University testet KI-Kameras in Klassenzimmern, die prüfen sollen, ob Studierende dem Unterricht folgen. Studierende protestieren gegen das System.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/chinas-ueberwachungsstaat-ki-gestuetzte-kameras-sollen-pruefen-ob-studierende-dem-unterricht-folgen-oder-auf-ihre-handys-starren-ld.10061629",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T13:58:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "a2bf3b30a1445f6c",
-   "k": "finanzen",
-   "titel": "Nvidia-Chef Jensen Huang tritt nach Spionageaffäre zurück – Aktie gibt zeitweise zweistellig nach",
-   "t": "Nvidia-Chef Jensen Huang tritt nach der Spionageaffäre um eine mutmaßliche chinesische Spionin zurück. Finanzchefin Colette Kress übernimmt vorläufig, die Aktie gab zeitweise zweistellig nach.",
-   "e": "Der Rücktritt verstärkt die Unsicherheit beim Chipkonzern, der zentral für den KI-Boom ist, und kann die US-China-Beziehungen belasten.",
-   "s": 8,
-   "link": "https://www.welt.de/wirtschaft/article6af5c4b75596369bf0edd3ee/nvidia-chef-jensen-huang-tritt-zurueck.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-12T13:55:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "131406233047e2bb",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Zwölfjährige im Kreis Euskirchen vermisst - n-tv.de",
-   "t": "Im Kreis Euskirchen wird eine zwölfjährige Schülerin vermisst. Die Polizei sucht nach Hinweisen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1sMTJ5dFVTSjlZejFtQ2FOM1BGejZKd2FaWnRoQ05sLTJZakpJSE0xNXAxTmo5NUhHSnBSSHhIOHJGZW1QUEJteTJLMTd3ZC1FdXFZbHJ2V19Ddk1zcXRCQ29mN0hYMFFUajRMU3ZuRE43NVlJd3N5OFdmV0x3NWNpbDJMZ1RhRG5sR2lBcmdrYmVpcGZKMmRWT1M1Tzlsa1pjSFNaQlNWbmY0Rk9v?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-12T13:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1b809fdd681512f7",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Bonner Rat entscheidet über Zukunft des Melbbads - tagesschau.de",
-   "t": "Der Bonner Stadtrat entscheidet über die Zukunft des Melbbads.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUdRcm1UZXpsSkxPOS1rc01aZGNRcWpaNGxFZFhjOEpZcFNNS3o5SlFvWW1rZmhCLURHbFBxaHBVWWpUYUxIbHVGTkJsNjl1Nl8xazZ5ZmNPTDEtX1AxQWZha1p4SHllY185Qk0wYlRwUW5PTlZodXQ3MEctakFIaXFXLXJVbWY4N0JMcGowMGRiUGszS1ZUYzNOSkJYU3M4RU5xeXFDeGF3MWpDTWY4Q0Y1dGZXLXJQME9ZblJaeDB6UUYzSGlyVVpESHFnVVFpWDV3aG1lT05IWUta?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-12T13:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f34e57c4ff223913",
-   "k": "finanzen",
-   "titel": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-   "t": "Thailand schlägt eine tägliche Obergrenze von rund 148.000 Dollar für Stablecoin-Einzahlungen und -Auszahlungen vor. Kunden sollen zudem nur Wallets nutzen, die ihnen gehören.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T13:44:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "3215f36747acd161",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: OVG: Deponie in Duisburg darf nicht errichtet werden - n-tv.de",
-   "t": "Das Oberverwaltungsgericht NRW entscheidet, dass eine Deponie in Duisburg nicht errichtet werden darf.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDFQaGRsWDRQS2V3RHUtVkhOTE9FRHh3d3Y4RU9oVXhTQ2w5VXNqUEM1VDYwdDN2cTAyckI3cUhpWk1nd0hacGlQVkV3a0RkWHc5NHlLVFR6M2hrbmUyelBJOVZ6UnhsbHExT2hHU1VZbE1QejNwS195TDVxZ0h3VV9RMDJkX3RPaW1GalhHcjdsWmRjaG9FRkxpTWJfUkNkRkJDY2dPZmNlcGJ4N3RGT0xCRWRxN2xzOXc?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-12T13:37:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "013eeb86c1a3d7ec",
-   "k": "nrw",
-   "titel": "Gerichtsentscheidung: OVG: Deponie in Duisburg darf nicht errichtet werden - DIE ZEIT",
-   "t": "Das Oberverwaltungsgericht hat entschieden, dass in Duisburg keine Deponie errichtet werden darf.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYThIX0RrVkZUZm5PdExnb2NzWFpwRDlMT0pzdGd6eDVkVnBzek9fNWpGQWFRX3JPdHBkaTVCQl8tTVJ6TFlJZXRmTHBSYjkzdEpaTVNWejZSYnFZWnhZVDZYOUwweWtIdHpoYWVXUDBrM2k5cmxINzNfTE1ocUdyeDBtNkpwU0RpSUlQYUpfcmU?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-12T13:36:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "a04a390289a9a6ec",
-   "k": "finanzen",
-   "titel": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-   "t": "Kryptohacker haben laut ARK-Forschung in diesem Jahr 8,7 Milliarden Dollar erbeutet. Das übersteigt den geschätzten jährlichen Onchain-Umsatz der gesamten Branche.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T13:31:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "34b7f9a98ae62887",
-   "k": "usa",
-   "titel": "Weißes Haus droht Demokraten wegen geplanter Untersuchungen - WEB.DE",
-   "t": "Das Weiße Haus hat Demokraten wegen geplanter Untersuchungen gedroht.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzJlXzcwREVpZEw2Q0dIY0pNS2pWOEVBeEhYQjZkMm15NFZTSW9MUjVxcnVpSXllWUdXRzlwaER1VlJQOFhnSjBSbzdfbUhibTJVMTJaVDQxaVhQQm9jMHhRZWdfMnEtQWFGWjg4ZmNyWG5OVEdfeGxpNExVUTZtajhwUkJsMDRXRV9xTFp4a1hFemt5dk9zRlNPOGlyMndkOHpBRA?oc=5",
-   "quelle": "WEB.DE",
-   "zeit": "2026-11-12T13:30:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "e1a4e436d439e3e0",
-   "k": "usa",
-   "titel": "Weisses Haus droht Demokraten wegen geplanter Untersuchungen - GMX",
-   "t": "Das Weiße Haus droht den Demokraten mit Konsequenzen für geplante Untersuchungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdy1kbmF1b0lxVVBJdTM4QVRIaXBoclBSMkNHcW03Y2gwQzZ4SXZPSWpXQi1ucENBRExGVmJiU09pbUlCLTlGWW1TcjBBQkNmSlVSNnA3bk8yTm9XOVRIVXNvNW9HNXdLYzk3a3NXMjl0d2pnMFR4R1ZQc2FOdUlrY3F2Y3k3T0xBVFRGZWc0ZllYOTk2cGhSS1J3U3BLX0dsVGxKU21EVGRjUQ?oc=5",
-   "quelle": "GMX",
-   "zeit": "2026-11-12T13:30:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "897a964ad2144828",
-   "k": "finanzen",
-   "titel": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
-   "t": "Der DAX hat ein Rekordhoch erreicht. Anleger setzen auf Hoffnung auf Frieden im Nahen Osten und auf gute Geschäftsaussichten deutscher Unternehmen.",
-   "e": "Der Rekord zeigt, wie stark die Stimmung an den Märkten derzeit von geopolitischen Hoffnungen getragen wird.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-12T13:29:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "d438c8f0633d1dc1",
-   "k": "welt",
-   "titel": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-   "t": "Beim Treffen der Europäischen Politischen Gemeinschaft in Irland geht es um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Selenskyj nimmt teil.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T13:28:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "b0e44a6ac081ddbe",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Nach Cyberattacke: Unbekannte Täter erpressen die AWO - tagesschau.de",
-   "t": "Unbekannte Täter erpressen die Arbeiterwohlfahrt (AWO) nach einer Cyberattacke.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWtlSWVVU1F0N21zZV91RWZIeWhGaEdNWmttV1NaVVdQZ1NiMDJpNjM4NjgxdDViSktZSXFPUU5Yb0VOU3RZSUkzdi1oZkJZTHhuTUdORlE5b3Eyb3JubGtpLUhNZG1vVjRfYW4wNEJUNnJqbjRsaUZKd01Rd0VWbVpQQmJRQU90T2JvRUZhZVRZR2tYcnM0ZUxQT3BYdVA2R1ZRSnZ6Q2RxaXhZbHI4eHR3TGlVa0gxeGJhWl9QSEd3RmpTTGc?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-12T13:23:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dcaa6d34544dbb65",
-   "k": "nrw",
-   "titel": "Baustart wohl 2027: Feuerwehrzentrum für 12 Millionen Euro rückt näher - Come-on",
-   "t": "Der Baustart für ein Feuerwehrzentrum mit Kosten von rund zwölf Millionen Euro rückt näher und könnte 2027 erfolgen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FXak5vVkEwekJLeTRVOVVGdFFDR09LODJ1Um9EZUhObHhMMVhMV0dCSVpuYVZNbVBWWDlncF9PZVdoSEdpbTZadzVZYm5jX1BZa0FSSGZUWlhIa3pxU1QtWk5OcFViMGtEc2ZKNm9DT2VFUUxHWEhPd1pEeWNPRVNBN3I2cm45VVJtM3JRTzdyVWlqSkdGaENYa014YVc5MWh6NUliTnA?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-12T13:19:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5adb0a08019d244a",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Polizei warnt vor Einbrüchen in Südwestfalen - tagesschau.de",
-   "t": "Die Polizei warnt vor Einbrüchen in Südwestfalen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMjFJU00ycHcwb2JFWTBhZGJfR2pQai1TU3NBOVVzZFAwRUx2ay1ZVjVsWW4tNFAxVEJnMHN0aWVyaGFMaU9FdU9OSlB4bjEwQnU0Ym9GcmRWVjFoOGNhckNnSXlRTklySmJCYlEtT29nbDhIMWpIUS1wTlhiR0lFZXZNTlpnS3JkbExMbWhIVkZEQUxpT2tWcGIxTU92Q044MEFUYWxVX0ppQTRuVjMwM1JMdWxPR3F4bW5TMG1BekxJN0ZwaGFiN3FTQlVqUjN0UDByQk4wTzZPaVEtb0E?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-12T13:18:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e6445299b782ec42",
-   "k": "finanzen",
-   "titel": "BTC/USD unter Druck: ETF-Abflüsse und Fed-Politik belasten Bitcoin - Traders Union",
-   "t": "Bitcoin steht unter Druck, unter anderem wegen Abflüssen aus ETFs und der Geldpolitik der Fed.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFFCU2pxd2duYzczWGk1RXFTMm9EMHpZejVmcnV2eTVpLW1WLUk4RmF1bzZ4X2FIamFkRDNxZlN4d0ZZUUtJM3VCUUZMdklWcjhiNks4Wm5pRktxakhWdFpTSFhSM0lTMmlQaGJZSnpTSGdHRC1tTlhMdzlWUWUwdTZvY2Jmc3k4U1dWZWdoS21vQUNSTlRZSUJCbw?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-12T13:17:54+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3095,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 24
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 16
    },
    {
     "name": "Welt",
@@ -3120,17 +3120,17 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 39
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Handelsblatt",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "CNBC Finance",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 36
+    "n": 35
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 16
    },
    {
     "name": "Google News Fed",
