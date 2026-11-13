@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-13T17:01:36.982120+00:00",
+ "aktualisiert": "2026-11-13T19:01:29.100214+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "68.639 $",
-   "delta": -4.298042874352538
+   "wert": "68.924 $",
+   "delta": -3.8399120102143103
   },
   {
    "name": "Ethereum",
-   "wert": "1.926 $",
-   "delta": -3.9928779742366736
+   "wert": "1.943 $",
+   "delta": -3.5481160300327144
   },
   {
    "name": "Gold",
-   "wert": "3.883 $",
-   "delta": -0.06692015534062179
+   "wert": "3.884 $",
+   "delta": -0.04632972500201449
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,252 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-13T11:01:36.937855+00:00",
+  "slot": 19,
+  "stand": "2026-11-13T19:01:29.100195+00:00",
   "punkte": [
    {
+    "k": "welt",
+    "t": "Im Iran-Krieg lehnt Iran Gespräche über Atominspektionen ab, und die Internationale Atomenergiebehörde äußert Sorge über die Urananreicherungsanlage in Isfahan. Trump hat die Waffenruhe Anfang Juli für beendet erklärt."
+   },
+   {
     "k": "finanzen",
-    "t": "Die Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed steigen, nachdem die US-Inflation über den Prognosen lag. Die Staatsanleiherenditen sind laut Meldung so stark gestiegen wie seit 2022 nicht mehr. Die Marktdaten nennen einen Fed Funds Satz von 3,88 % und einen EZB-Zins von 2,50 %."
+    "t": "Die Erwartungen an weitere Fed-Zinserhöhungen steigen nach einer über den Prognosen liegenden US-Inflation, und die Rendite zehnjähriger US-Staatsanleihen liegt laut Meldung bei 5,15 Prozent. Die Marktdaten zeigen Fed Funds 3,88 %, EZB Zins 2,50 %, Deka DAX 233,60 € und iShares MSCI World 130,44 €."
+   },
+   {
+    "k": "finanzen",
+    "t": "Nvidia-Chef Jensen Huang tritt als CEO zurück, und der Konzern verliert nach Berichten rund 600 Milliarden Dollar an Börsenwert. Die Aktie reagierte bisher nur leicht."
    },
    {
     "k": "deutschland",
-    "t": "Mercedes hat laut Meldungen alle neuen Investitionen in deutsche Standorte gestoppt, weil die Verhandlungen über Kostensenkungen mit der Arbeitnehmerseite stocken. Werksschließungen werden als wahrscheinlicher eingestuft."
-   },
-   {
-    "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang ist nach Vorwürfen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetreten. Die Aktie fiel laut CNBC am Donnerstag um rund 5 Prozent, und der Konzern steuert auf die längste wöchentliche Verlustserie seit 2012 zu. Zum Vergleich: Deka Nasdaq-100 181,38 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Marktdaten: Deka DAX 234,10 €, iShares MSCI World 131,33 €, iShares MSCI EM 45,30 €. Bitcoin lag bei 69.325 $, Gold bei 3.896 $. Laut Meldung fiel Bitcoin unter 70.000 US-Dollar, während der Dollar-Index ein 19-Monats-Hoch erreichte."
+    "t": "Mercedes will laut Bericht vorerst alle Investitionen in Deutschland streichen, nachdem der Konflikt mit der Gewerkschaft zugespitzt ist. Streitpunkt sind unter anderem Privilegien wie die 35-Stunden-Woche."
    },
    {
     "k": "nrw",
-    "t": "In Düren wurde eine fünffache Mutter vor einem Jobcenter getötet. Der Tatverdächtige war ausreisepflichtig und war nach einer Abschiebung trotz Wiedereinreiseverbots nach NRW zurückgekehrt."
+    "t": "Die IG Metall ruft im Märkischen Kreis 2.500 Beschäftigte zu 24-stündigen Warnstreiks auf."
    },
    {
-    "k": "welt",
-    "t": "Nach einem Treffen mit den US-Gesandten Witkoff und Kushner zeigt sich Putin laut Meldungen offen für Gespräche mit Europa. Die USA wollen Europa in die Ukraine-Verhandlungen einbeziehen, unklar bleibt, wer Chefverhandler für Europa wäre."
+    "k": "deutschland",
+    "t": "Der Bundeshaushalt für 2027 ist beschlossen, und der Bundestag hat eine Reform der Geheimdienste verabschiedet, die Verfassungsschutz und BND bei besonderen Gefahren verdecktes Handeln erlaubt."
    }
   ]
  },
  "items": [
+  {
+   "id": "77f477059b0be5b2",
+   "k": "finanzen",
+   "titel": "KI-Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
+   "t": "Anthropic bereitet einen der größten Börsengänge der Geschichte vor, die Aktie ist nach Angaben des Handelsblatts bereits sechsfach überzeichnet.",
+   "e": "Der Börsengang eines führenden KI-Entwicklers mit einem Volumen von rund 64 Milliarden US-Dollar gilt als Stimmungsbarometer für den KI-Sektor und den Kapitalmarkt.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T18:57:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c7f431a37645c39",
+   "k": "finanzen",
+   "titel": "Fed likely to need to raise rates amid worsening inflation: Daly - Reuters",
+   "t": "Die Fed-Vertreterin Daly hält Zinserhöhungen für wahrscheinlich, da sich die Inflation verschlechtert.",
+   "e": "Weitere Zinserhöhungen würden die Finanzierungskosten in den USA und damit auch Aktien- und Kryptomärkte belasten.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-13T18:48:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "ddd1fcb7aab1aad4",
+   "k": "finanzen",
+   "titel": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+   "t": "Bitcoin ist laut CoinDesk auf rund 68.000 US-Dollar gefallen. Als Grund werden Unruhe am Markt und der bevorstehende Anthropic-Börsengang genannt.",
+   "e": "Der Kursrückgang setzt eine Serie schwacher Wochen fort und zeigt, wie stark Krypto derzeit auf Zinserwartungen und Risikostimmung reagiert.",
+   "s": 6,
+   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-13T18:39:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "2e0e5f6432d78c84",
+   "k": "deutschland",
+   "titel": "Berliner SPD-Spitzenkandidat verhandelt trotz laufender Ermittlungen",
+   "t": "Berlins SPD-Spitzenkandidat Steffen Krach verhandelt über eine neue Regierung, gegen ihn laufen Ermittlungen wegen eines Vergabeverfahrens in Hannover.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/video6af7565815e28ea3dd919d24/steffen-krach-berliner-spd-spitzenkandidat-verhandelt-trotz-laufender-ermittlungen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T18:33:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "be0f439fc3d0da04",
+   "k": "finanzen",
+   "titel": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+   "t": "Jensen Huang tritt als CEO von Nvidia zurück. Wegen der Verbindungen der Familie von Handelsminister Lutnick zum Chipkonzern gerät dieser nun unter Druck.",
+   "e": "Nvidia ist einer der wichtigsten Werte im S&P 500, daher hat der Führungswechsel Bedeutung für den gesamten US-Aktienmarkt.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-13T18:32:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "e3383764d742c56b",
+   "k": "finanzen",
+   "titel": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+   "t": "Metaplanet meldet einen Verlust von 170 Millionen US-Dollar, unter anderem wegen Bitcoin-Verkäufen und Wertverlusten. Der Umsatz und das operative Ergebnis sind gestiegen.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-13T18:28:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "839ff6ff4c75eb17",
+   "k": "usa",
+   "titel": "Alleged White House Correspondents’ Dinner gunman Cole Thomas Allen hit with new terrorism charge",
+   "t": "Gegen den mutmaßlichen Schützen beim Dinner der White House Correspondents' Association wurde eine neue Terrorismusanklage erhoben. Ihm droht lebenslange Haft.",
+   "e": "Der Fall ist ein Beispiel für die anhaltend hohe Gewalt- und Sicherheitsdebatte in den USA.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/13/us-news/alleged-white-house-correspondents-dinner-gunman-cole-tomas-allen-hit-with-new-terrorism-charge/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-13T18:27:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "0cd2223e32cd84c6",
+   "k": "usa",
+   "titel": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
+   "t": "Der Senator Chris Van Hollen fordert Chuck Schumer heraus, unterstützt von Bernie Sanders. Es ist die erste offene Führungswahl der Senats-Demokraten seit 1994.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-13T18:23:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "f897de4362458d38",
+   "k": "welt",
+   "titel": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+   "t": "Die EU hat ein Verhandlungsteam für mögliche Gespräche mit Russland über ein Ende des Ukraine-Kriegs benannt. Deutschland gehört dazu, neben EU-Institutionen und weiteren Ländern.",
+   "e": "Damit könnten Europäer erstmals direkt an Friedensverhandlungen teilnehmen, nachdem die USA eine europäische Beteiligung in Aussicht gestellt hatten.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T18:20:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "233d50aba5ac1966",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Großflächige Stromausfälle in der Ukraine",
+   "t": "In der Ukraine kommt es zu großflächigen Stromausfällen. Russische Behörden melden sieben Tote durch ukrainische Angriffe.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-grossflaechige-stromausfaelle-in-der-ukraine/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T18:08:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "82b128f736d2ad6d",
+   "k": "nrw",
+   "titel": "Fred Auer ist tot: Er prägte 50 Jahre lang Iserlohns Gastronomie - IKZ-Online",
+   "t": "Fred Auer, der über 50 Jahre die Iserlohner Gastronomie geprägt hat, ist gestorben.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkdBb3RpSTAzM2tJbjB1b3BQS2lOaGh2Ulg0N1Q0WFFqVTFIOThMZFlXVE5ZSXNmOHdxanJPYTA5bEo5QWplZ3J6NjBhY2pEckNkQWRXRENEN21JS2dkSEhvQ21NblRxNTN6bVFoaXZ2TWhnWl81b0kwSzJ3Q0tKTUcwRnlxTjBEaFBkR1U4VGp3OFBDRWxpZ3JvME5ZRU9jRjJ4RVVtd1AxQVhmR1BwVVZVZURmNzlJbmRFZlZoeUpIby1UaTV5cg?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-13T18:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "27965f3746ce6c88",
+   "k": "usa",
+   "titel": "Scott Bessent lets loose on Iran after he was moved to military base: ‘F the Iranian leadership’",
+   "t": "Finanzminister Scott Bessent äußert sich scharf zum Iran, nachdem er nach eigenen Angaben Todesdrohungen erhalten hat und auf einen Militärstützpunkt verlegt wurde.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/13/us-news/scott-bessent-lets-loose-on-iran-after-he-was-moved-to-military-base/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-13T17:51:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "3a05b45a61e0a58c",
+   "k": "nrw",
+   "titel": "Jahresbilanz 2026: Ausbildungslücke im Märkischen Kreis - Radio MK",
+   "t": "Die Jahresbilanz 2026 zeigt eine Ausbildungslücke im Märkischen Kreis.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5tUjBMU3VwNzRrRXBNN0RoRWM4MDZkMFVIWmp6eDlsQ19JS3VMVHdudktTd3dPbnRfcHdPa0ZpdFRPem9lWGx2NGVWclo0SDd3cHRXczZRN1dLZ0R0RmVZd2NjTUpXRDFJcGkyRGk4MkVTNUtCVWJaSnFPLUh5TlRjVTByVlFCZDlfb1JqNW9xdlFiZF9xRzRLbw?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-13T17:49:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "efad82942dd8779a",
+   "k": "finanzen",
+   "titel": "EZB-Präsidentschaft: Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos - Euronews.com",
+   "t": "Frankreich und Deutschland haben sich laut Euronews fast auf Pablo Hernández de Cos als nächsten EZB-Präsidenten geeinigt.",
+   "e": "Die Nachfolge von Christine Lagarde an der Spitze der EZB ist für Zinskurs und Euro von großer Bedeutung.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFotaEh5Ty1XaXVxSmtGRnN0VUJra25Vd2VWb0tSeFY0SU9Qblp4aGF5UjdFOUd4amY4WnNkakJCN1pxUFNEZTV2am5vRlhtbVBZbEtMaWxjUUxsZnhKdy0zQ2ZGMjFxRHlyZFBoQlgzMFI2ZVRCaFFUU1hqS2pIc2FhVUVTdFJ6SlNDWV9USUIzbGdXbV9LR3M2b2dOcjZ0SzdLZ0lVWmRYV0c0OENBLWpUYUI2SVhVMWtvVmk0LTdxWXc?oc=5",
+   "quelle": "Euronews.com",
+   "zeit": "2026-11-13T17:38:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "2798592d82f7f478",
+   "k": "finanzen",
+   "titel": "Anja Kohl, HR, zur Auswirkung der Microsoft-Störung auf die Börse",
+   "t": "Eine Microsoft-Störung hat laut Tagesschau Auswirkungen auf die Börse gehabt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1683374.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T17:37:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "85bda214526f3975",
+   "k": "nrw",
+   "titel": "41-Jähriger auf der Straße erschossen – Polizei sucht mehrere Täter",
+   "t": "In Aachen ist ein 41-jähriger Mann nach Schüssen gestorben, trotz Reanimationsversuchen. Die Polizei sucht nach mehreren Tätern und prüft einen möglichen Zusammenhang mit weiteren Vorfällen in der Gegend.",
+   "e": "Die Serie von Vorfällen im Aachener Ostviertel betrifft die innere Sicherheit in NRW.",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/article6af742f97f8bbad09ea62a25/aachen-41-jaehriger-auf-der-strasse-erschossen-polizei-sucht-mehrere-taeter.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T17:25:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce456798528a94b9",
+   "k": "welt",
+   "titel": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
+   "t": "Der Iran hat laut US-Angaben eine Drohne auf Bahrain abgefeuert, die abgefangen wurde. Es ist der erste bekannte Angriff auf das Golfland seit zwei Monaten.",
+   "e": "Der anhaltende niedrigschwellige Konflikt mit dem Iran erhöht das Risiko für die Energieversorgung und die Märkte in der Golfregion.",
+   "s": 6,
+   "link": "https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-13T17:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "837ef83af004c137",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Verdächtiger nach Unfall mit getöteter 14-Jähriger in Haft - STERN.de",
+   "t": "Ein Verdächtiger nach einem Unfall, bei dem eine 14-Jährige ums Leben kam, sitzt in Untersuchungshaft.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2F0Y1R2N2YwM3BTWGtGUElJeDZFSjRoYkpZcUlnUFlYSXJpaXBQOXdMaWpmWFNNN2UwYXo4NWV1NzZIVFdXTF9lNXlrcE9uUGxQRTVVRGphUWhNM0xvYk5ucjB0OTJJN0t0aEU0QnYzNWtoNXI1c08tWFJnY2J5VXVYRXJhS1VSNTRGNmUtTEZWVzhBZEdIVl9DMTRvVGdFQ0prcDNoXzRUS0R3WGtyaURyVFhGRjNnYzJXNGtjbw?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-13T17:11:30+00:00",
+   "tag": null
+  },
   {
    "id": "7e0f4df90f61c9df",
    "k": "nrw",
@@ -262,6 +478,18 @@
    "link": "https://www.tagesschau.de/video/video-1683306.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-13T16:11:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "18948780e7b8f9e8",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Messerangriff in Gelsenkirchen: Mann soll Partnerin verletzt haben - tagesschau.de",
+   "t": "In Gelsenkirchen soll ein Mann seine Partnerin mit einem Messer verletzt haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0lNRzAyMGJpa092ZEVRbWtGSTM4dnhJM0ZLRW9wRC1wUTJvVzZ0MWJVc3JQSmxqT2dkQml0LXJaR05YU19LYVlrZUtGM3ZuUXVMVUdJeEJFY2lfUlVrVG85UzY3NHIta1lMemllWnRudWhZWGpYLWNkNWRNVUEtQU1LS3g3WERHRnlqU2JkbHZtN2Q0YUlSUUxLMGVUQmxJbjl2c1h1RWRJZmhvY2ZpOG9KLXpJbHZ5U0gxOFdsa0t1SFFpcHZ4V0NXYk83LXFlNmVtb3Fn?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-13T16:10:00+00:00",
    "tag": null
   },
   {
@@ -922,6 +1150,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzh2VXZiU3FCYVNzMzZmcHA0ekZNV3hDRWNfNEVWcF9xbDJHQ1dsSnlVN1docFVoUjktZlZlWDZjdFQ3TktSY3U4Vk1GZnVFQWRuMkJnaFpabzFLbjJyYWNyczAyM1VmdmVKa040LVh1alRrOWh6RFBBZWRiLUFZdWNhdUFLN29DQ0pZU2Roc05fRjZyTG5lWE5XVmsyM2Rodk9NSXRuOTJ2alNVWHlSYnBhTlRKTEo0MVF5b3JqczNyQQ?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-13T13:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a70e21bce2d92ed7",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Jugendliche mit Alkoholvergiftung in Kliniken - tagesschau.de",
+   "t": "In NRW wurden Jugendliche mit Alkoholvergiftungen in Kliniken behandelt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR043bXVIVHhKUFkyME1ldGhyS2dCR1hWZm5rNWVYQlBuZHZMOEtRNFVnbUFCSnlBUVcxQVFwNzFiVWNycHpaM3cyVnpZSEdsTW9vMFNzSFNmNXdhZzBpTnh4UmgwakdnLTU3R2tfbEVXU2Z6NTZYd0xDVFlVYnFrTlg1b2dlNVVwNXE1dFpMbmp4ZGhwTjFFWS12SlVvTWFNVC1UR2laOUJOdlFrai1mX3pYMDhxQU00b3g3dGZqTWhJMl9IZUVMZ2RqMVdtd1Rtb1pFRWNZTTNpNm8?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-13T13:30:00+00:00",
    "tag": null
   },
   {
@@ -2843,246 +3083,6 @@
    "quelle": "n-tv.de",
    "zeit": "2026-11-12T22:23:00+00:00",
    "tag": null
-  },
-  {
-   "id": "3b720ff6588fae01",
-   "k": "nrw",
-   "titel": "Iserlohn Roosters gegen Adler Mannheim: 6:2 - tixio - Nachrichten",
-   "t": "Die Iserlohn Roosters haben die Adler Mannheim in der DEL mit 6:2 besiegt.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmZQRS1JTW1YVHhCVjNKeFFveHMwUXB2RVhYRWxhc2UwUkM0cnNMUkZJZE94T3dpS3pSMktFSDFvRnNXeUNfNG1nUFhUazh2TEZMaDVmZHdPZkdtXzY1ZWdwSjhOQ0J2aGdTRmkwNzdWOExMUjlqV2FpMlBCYzM1ZQ?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-12T22:17:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "74d1ad40b1853344",
-   "k": "finanzen",
-   "titel": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-   "t": "Die Renditen von Staatsanleihen sind so stark gestiegen wie seit 2022 nicht mehr. Hintergrund sind Erwartungen auf weitere Zinserhöhungen der US-Notenbank Fed. Die Kommunikation von Fed-Chef Warsh gilt als Grund für volatilere Märkte.",
-   "e": "Ein deutlicher Renditeanstieg verteuert Kredite und setzt Aktien und Anleihen unter Druck, wenn die Fed die Zinsen weiter anhebt.",
-   "s": 7,
-   "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-12T22:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "27defd92b2c93f2f",
-   "k": "deutschland",
-   "titel": "Paul Ziemiak, Fraktion CDU/CSU, zu Unmut der Union über Kompromiss für den Haushalt 2027",
-   "t": "In der Union gibt es Unmut über den Kompromiss zum Haushalt 2027. Bei den Haushaltsberatungen bestehe weiter erheblicher Klärungsbedarf.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1682940.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T22:07:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "3a309375bf0781ad",
-   "k": "usa",
-   "titel": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-   "t": "Kalshi beendet die Beratungsrolle von Donald Trump Jr. Anlass ist dessen Investment in den Konkurrenten Polymarket über 1789 Capital. Kalshi weist politische Motive zurück.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T22:05:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "3aa2c2dec0ac6161",
-   "k": "usa",
-   "titel": "Mamdani prepares to fulfill promise to axe NYPD unit responsible for controlling protest violence",
-   "t": "Bürgermeister Zohran Mamdani will laut Berichten die NYPD-Einheit Strategic Response Group auflösen, die für die Kontrolle von Protestgewalt zuständig ist.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/mamdani-prepares-fulfill-promise-axe-nypd-unit-responsible-controlling-protest-violence",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-12T22:02:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "6e4934300c2f9361",
-   "k": "usa",
-   "titel": "DHS says record number of illegal immigrants deported in past year",
-   "t": "Das US-Heimatschutzministerium meldet, dass im vergangenen Jahr so viele Menschen ohne Aufenthaltsrecht abgeschoben wurden wie nie zuvor. Es geht um knapp eine halbe Million Personen.",
-   "e": "",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/12/us-news/dhs-says-record-number-of-illegal-immigrants-deported-in-past-year/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-12T22:00:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "0912de944ec54b93",
-   "k": "finanzen",
-   "titel": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-   "t": "Die Aktie von Strategy fiel um rund 5 Prozent, nachdem der Index-Anbieter MSCI das Unternehmen aus seinen Indizes entfernt hat. Auch Bitcoin verlor im breiteren Kryptomarkt-Abverkauf.",
-   "e": "Der Ausschluss aus Indizes kann Kapitalabflüsse nach sich ziehen und zeigt die Abhängigkeit des Kurses vom Bitcoin-Preis.",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T21:52:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "884fb5f4d07c7c56",
-   "k": "usa",
-   "titel": "30 elite colleges and universities accused of cleverly bypassing Supreme Court block on affirmative action",
-   "t": "Dutzende Elite-Universitäten sollen das Urteil des Supreme Court zu affirmative action mithilfe eines Dritten umgehen.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/12/us-news/30-elite-colleges-and-universities-accused-of-bypassing-supreme-court-block-on-affirmative-action/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-12T21:35:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "5deda074e3d81601",
-   "k": "usa",
-   "titel": "Insider berichten von dritter Affäre Jensen Huangs – wieder mit einer Nvidia-Mitarbeiterin",
-   "t": "Laut Insidern gibt es eine dritte Affäre von Ex-Nvidia-Chef Jensen Huang, diesmal mit einer Nvidia-Mitarbeiterin. Auch ein Minister in Washington gerät in den Fokus.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6af62a7550175c81de7a4694/nvidia-insider-berichten-von-dritter-affaere-jensen-huangs-wieder-mit-einer-nvidia-mitarbeiterin.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-12T21:33:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "4dea9b04963c188a",
-   "k": "finanzen",
-   "titel": "Ex-Chef Jensen Huang hatte weitere Affären – Vorladung vom US-Senat",
-   "t": "Der US-Senat lädt den früheren Nvidia-Chef Jensen Huang vor den Bankenausschuss. Berichten zufolge gab es eine weitere Affäre, und Handelsminister Howard Lutnick gerät stärker unter Druck.",
-   "e": "Der Skandal um Nvidia-Chips weitet sich aus und betrifft nun auch die US-Regierung.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6af62a7550175c81de7a4694/nvidia-insider-berichten-von-dritter-affaere-jensen-huangs-erneut-mit-einer-mitarbeiterin.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-12T21:33:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "5e1344a87b7c027e",
-   "k": "welt",
-   "titel": "E-Mail-Probleme: Störung bei Microsofts Cloud-E-Mail",
-   "t": "Eine Störung bei Microsofts Cloud-E-Mail-Dienst Outlook hat viele Postfächer unerreichbar gemacht. Betroffen sind Unternehmen und Verbraucher.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/technik/it-internet/e-mail-probleme-stoerung-bei-microsofts-cloud-e-mail/100269542.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T21:32:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "17937f189eb413a6",
-   "k": "finanzen",
-   "titel": "Musk-Konzern: Musk könnte offenbar noch im Dezember Fusion SpaceX und Tesla ankündigen",
-   "t": "Laut Medienbericht könnte Elon Musk die Fusion von SpaceX und Tesla bereits im Dezember ankündigen. Musk hatte das Vorhaben im Oktober als gute Idee bezeichnet.",
-   "e": "Eine Fusion zweier börsennotierter Großkonzerne hätte erhebliche Folgen für Anleger und Bewertungen beider Unternehmen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/it-internet/musk-konzern-musk-koennte-offenbar-noch-im-dezember-fusion-spacex-und-tesla-ankuendigen/100269540.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T21:27:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "99fc1b1648d4d4c6",
-   "k": "finanzen",
-   "titel": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-   "t": "Cisco hat die Erwartungen bei den Quartalszahlen übertroffen. Der Konzern erwartet, dass sich der Umsatz mit KI-Infrastruktur in diesem Geschäftsjahr verdoppelt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-12T21:20:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "dfc8cb3d978920f7",
-   "k": "finanzen",
-   "titel": "Fed blieb im dritten Quartal den Devisenmärkten fern, US-Finanzministerium kaufte Yen - MarketScreener Deutschland",
-   "t": "Die US-Notenbank Fed griff im dritten Quartal nicht an den Devisenmärkten ein, das US-Finanzministerium kaufte dagegen Yen.",
-   "e": "Der Yen nähert sich der Marke von 160 zum Dollar, und Devisenkäufe durch Behörden sind ein seltenes Signal.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanRNenhQcUFNTlpYbVh3Mm5ZQXpiOTJyWExKNnE4eFZKOHlUVk9Sejl1a1hlNzcxQ09aR0tOb055REw1VWFnN3V5UVc5Y2pVRzFnWnZJSUp5QlBYOFVUNUtWYld4UzRDbkhKQzRpNE55Q0Iyd2lrTmhTVjdmNEVUWWpteWh4RUdwT3dZdE1RSTgwNF9XTXJndlNjRzJiYXVuUXdzWXVON216N2hhZHhfaENrYWVNMkxZZm9pU3B2dlJFdGZSUjVhMURRRy1qUjdJWkJkU1ltZHhfS3p2MVpWN2VhQ2pqQQ?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-12T21:15:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "3762bf1635bfc36f",
-   "k": "nrw",
-   "titel": "Demo gegen Rechts in Jülich, Nordrhein-Westfalen » Gegen das Vergessen - DemokraTEAM",
-   "t": "In Jülich fand eine Demonstration gegen Rechts statt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ILXFlN0ZtZkNfcFFSdlpYX1QzWElqWGNnQVMza2dzV1M0VmJvbi1KT0o4azk3akpXbThjNWQ5dE1Cbl9zTXpLZXZ5cWVWNUVtcHByQXJoc29NVmhnNll4N0VhQkg1SnRHVVd2TTFGT09QbWs?oc=5",
-   "quelle": "DemokraTEAM",
-   "zeit": "2026-11-12T21:07:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "bc315bee2a945c1f",
-   "k": "finanzen",
-   "titel": "Fed-Vertreterin Daly warnt: KI treibt die Inflation an, weitere Zinserhöhungen zu erwarten - www.tmgm.com",
-   "t": "Fed-Vertreterin Daly sieht KI als Inflationstreiber und erwartet weitere Zinserhöhungen. Sie spricht von einem besonnenen, schrittweisen Vorgehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZjJQRFJORkZBSjJ1cG5xTXROOTI4WnJPY3NsSzNQZkZSOVREX0t4QXl4Z1VKY1VlSDhocndvTlhOTURHWGloclVla3BMZE9nX09GMWoyR2owV2Jub1paX2hWcUpqSlRuVDJscXlTdFR0STBzZFFXNXBXZFRKVmdtd08tQ21hTjA3SmN5N3NtVmh0Q3FZTVZKdlRfN0RQUkpnSGg2dmtzbUdEM1lLNkNuWmdaUUVWZzlBaUJ5TWVpcE9HckdpejdRMWNtU20?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-12T20:58:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "7035c47ee7e010c7",
-   "k": "finanzen",
-   "titel": "Gold fällt auf Jahrestief nahe 3.850 US-Dollar, da die Falken in der Fed den Ton angeben - www.tmgm.com",
-   "t": "Gold fällt auf ein Jahrestief nahe 3.850 US-Dollar, da sich in der Fed die Falken durchsetzen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVcwelBGZmJuMXp4Z3d2S3dBem03eE5acnl5bjhYZ1JIX2c0X3lkdkNkYzAxM0QxSEg0S2RlTnFJRkh5bm9SdjFwT01sSEQ1OEFHS3lWVlNFQWtROVVIQncySFNQVVpJWWpCcEJlcVJvQ0FFaWtxM0JDRVhnV3hYbTl1Q21veVRONm5wdFJhTlAySkVxMExpSTFMaGx2QTVoTFZzVXNncmRNUUxaMXBBYlVXLUZoRTNRZV9naVR1ZldaYThtV3hVdnpn?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-12T20:58:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "bd99586f24fc31fa",
-   "k": "usa",
-   "titel": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-   "t": "Das US-Justizministerium und Branchenverbände klagen gegen die Krypto-Steuer des Bundesstaats Illinois. Sie argumentieren, sie greife auch ohne Gewinn und verstoße gegen Bundesrecht.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T20:58:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "418e7848defbb772",
-   "k": "welt",
-   "titel": "Opinion | Cyberattacks Are Coming for Us All",
-   "t": "Nach Cyberangriffen auf französische Supermarktketten warnen Kommentatoren vor weiteren Angriffen auf Krankenhäuser, Versorger und Banken.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/opinion/cyberattacks-are-coming-for-us-all-b19b46d4?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-12T20:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8a7f8b9b1a122a00",
-   "k": "deutschland",
-   "titel": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
-   "t": "Die Bundesregierung will eine Bundesbaugesellschaft rasch starten lassen, um den Bau bezahlbarer Mietwohnungen in den Ballungsräumen zu beschleunigen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten/100269519.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T20:55:54+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3095,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Welt",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 40
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 36
+    "n": 35
    },
    {
     "name": "Google News NRW",
