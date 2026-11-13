@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-13T01:01:03.503835+00:00",
+ "aktualisiert": "2026-11-13T03:01:20.352924+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "71.035 $",
-   "delta": -3.969998965995844
+   "wert": "70.257 $",
+   "delta": -4.705184810124837
   },
   {
    "name": "Ethereum",
-   "wert": "2.009 $",
-   "delta": -2.4150525008934953
+   "wert": "1.991 $",
+   "delta": -3.1632136316183765
   },
   {
    "name": "Gold",
-   "wert": "3.892 $",
-   "delta": -2.7246594175728056
+   "wert": "3.913 $",
+   "delta": 0.7103685899419787
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,150 @@
   ]
  },
  "items": [
+  {
+   "id": "70a983439a0cd497",
+   "k": "finanzen",
+   "titel": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+   "t": "Die Huang-Affäre wird im Zusammenhang mit dem bevorstehenden Trump-Xi-Gipfel diskutiert. Die politische Lage habe sich seit dem letzten Treffen im September deutlich verändert.",
+   "e": "Der Gipfel ist für Handelsbeziehungen, Chipexporte und damit auch für Technologiewerte relevant.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+   "quelle": "CNBC Finance",
+   "zeit": "2026-11-13T02:56:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "7f1a6c68485c7daf",
+   "k": "nrw",
+   "titel": "NRW-Wahl 2027: Neubaur erneut vor Kür als Grünen-Frontfrau - Westdeutsche Zeitung",
+   "t": "Die Grünen in NRW wollen Mona Neubaur erneut als Frontfrau für die Landtagswahl 2027 küren.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3NUUXh2RXNxUUNHUHdUSzU1alpCNy1ONzJmZHBveGpHdkFISnRvZl84cDl5QzJ2Z2Y1MndlY0Nqd1daajBOS3F1T2FfWVNHVXBLcU1jWnBvc1N4djRMN0t0X0VCOGdfalEzeVd0bHFQNUlrcG1RajhRTFV0ZFRRblhRcHlBUmt2cnBYRlRmSTd2NUJ5VDlSYXU5WQ?oc=5",
+   "quelle": "Westdeutsche Zeitung",
+   "zeit": "2026-11-13T02:52:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "288177bae879789d",
+   "k": "usa",
+   "titel": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
+   "t": "Der scheidende texanische Vizegouverneur Dan Patrick räumt ein, dass Texas nach dem Wahlerfolg der Demokraten bei den Landesämtern \"lila\" geworden sei.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-13T02:49:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "01267b7d8ff3d433",
+   "k": "usa",
+   "titel": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep",
+   "t": "Chris Van Hollen fordert Chuck Schumer um den Vorsitz der Demokraten im US-Senat heraus. Er wirft Schumer vor, sich am AIPAC zu orientieren.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-13T02:45:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "d8d57f15ddff432f",
+   "k": "usa",
+   "titel": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+   "t": "Laut Medienberichten wurde Trump zweimal über die Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin informiert. Der Präsident bestreitet, davon gewusst zu haben.",
+   "e": "Der Fall verbindet Spitzenmanagement eines Schlüsselkonzerns der KI-Branche mit dem US-China-Verhältnis.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T02:36:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "4ee4813c3cd85451",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Grünes Licht oder Abfuhr für Nationalpark Rothaarkamm? - n-tv.de",
+   "t": "Im Streit um einen Nationalpark am Rothaarkamm ist offen, ob das Vorhaben Zustimmung erhält. Die Holzwirtschaft wehrt sich gegen die Pläne.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdW9kMFNZWE5NNTBPMTltaWsxLXJ2dzlEaWs4WmRrc0tzdnRfM1Z4QVo5cElRV204XzVkcXdWX2dOSi1kdWJDYW9RMWNGSDVRdnFqcnhhVjIxWExib2dzelBrQjVvSkVzTjliSUtLSVp2OHdYZ1VDRG5XbE41THNYRXR4dXdfOUdZRGI5T0VpTi1VTWJtYUNDOW5BYUl0UE1UbTIxNENuSUhsZTNhREhMd0FRTlo0aHV0S0dSVXZWRQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-13T02:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4841c2aa4bf42752",
+   "k": "finanzen",
+   "titel": "Dollar nahe 19-Monats-Hoch wegen Wetten auf Fed-Zinserhöhung, Yen testet Marke von 160 - MarketScreener Deutschland",
+   "t": "Der Dollar liegt nahe seinem 19-Monats-Hoch, getrieben von Wetten auf eine Zinserhöhung der Fed. Der Yen testet die Marke von 160 pro Dollar.",
+   "e": "Eine stärkere Fed-Erwartung stützt den Dollar und erhöht den Druck auf andere Währungen wie den Yen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOFlPVFl4YTA2UWxCeVpEemhRVGtfRUZZY1ZZY0JaaUZ4bmk2SXhaNVdWSEdsNWZtMmx2bEh5NXNCVkktZS1aRHpkeWVsUFktY0tjM1NGX2JzZ3Jrc2Z4WUR6eGwwdFNnZW02aDFLRVc5U3ZPU3E0d1BQZmg2THh5VWItZDJlbjhwb0tVTDg2OTNyN3Uxd3lBQmUzYk94MDNoMzFTblhMaVJvY2RUU2hVM3lYOWIzVG4yT1NqbDVBdmVVWXZDZmh0QkhmR2pTV1JHaVRpWWNJbGRzTnVIcU1henFDMV92N2M?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-13T01:52:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "7a6f15bd7efd46d7",
+   "k": "finanzen",
+   "titel": "Nvidia: Das Rennen um Huangs Nachfolge ist eröffnet",
+   "t": "Nvidia hat Finanzchefin Colette als Übergangschefin eingesetzt, nachdem Jensen Huang zurückgetreten ist. Die dauerhafte Nachfolge ist noch offen.",
+   "e": "Nvidia ist einer der wertvollsten Konzerne an der Börse, die Führungsfrage ist daher für Anleger relevant.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-rennen-um-huangs-nachfolge-ist-eroeffnet-accg-201678861.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-13T01:49:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1a2042c267a049e",
+   "k": "finanzen",
+   "titel": "Fed-Mitglied Williams sagt, die Zentralbank habe noch „Arbeit vor sich“, um die Inflation wieder auf das Zielniveau zu bringen - TradingView",
+   "t": "Fed-Mitglied Williams sagt, die Notenbank habe noch Arbeit vor sich, um die Inflation auf das Zielniveau zurückzuführen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxY2tuNGhvcHNrU3haWUFSdVFtVWVtaG93aUgtSHFkVjc1LXpuWnZsemxiQUhwTlhKZTA0ZzJ3TDhXd2haaGktV1czN1lyc29ZdDdNRVY0VEFuREUzcWJSTGlqWWN0eUxqRTRGVHRfTGZ2WmQxZm5F?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-13T01:34:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "386e40e5b9fc5e77",
+   "k": "welt",
+   "titel": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+   "t": "Beim EPG-Treffen in Dublin wurden neue Impulse für Friedensverhandlungen im Ukraine-Krieg gesehen. Die US-Unterhändler Witkoff und Kushner reisen nach Moskau, NATO-Generalsekretär Rutte sieht Fortschritte.",
+   "e": "Die Gespräche entscheiden darüber, welche Rolle Europa bei einer möglichen Friedenslösung spielt.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T01:22:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "1a40e3af3144e68f",
+   "k": "finanzen",
+   "titel": "Gold legt leicht zu, steuert wegen Sorgen über Fed-Zinserhöhungen jedoch auf Wochenverlust zu - MarketScreener Deutschland",
+   "t": "Gold legt leicht zu, steuert wegen Sorgen über mögliche Fed-Zinserhöhungen aber auf einen Wochenverlust zu.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXNkTHZvN0Z0eEhYQy1xQ1hRX2xpS3N2NkxuN3cyUDllZlFfZW5EUWU4bnh1WVRpaVlYZHhNTXhaUEtIR3lVLW44RE5wQ2prOVhlS1paa2ZHWDQ0eVZDR3dGMGRoY05IcW90RkZrX3p3aGl4bGVaVERpaS1abDNjcUUzNFZGYzdjTzl3RmlKLXpzQTdQZFFjVVNfcmRMai1hdml4dkxyVTV1OUhzbEtsTG9zVjhJYnZvVkxLVkMzYzVRRHREcFhFSGYxVURCNDF6bWJzNDQ1cTYyUE5nOUVMbTVGeC0wSllIQWdmWl9tQXdhdw?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-13T01:05:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "45e3233cf6f29c22",
+   "k": "welt",
+   "titel": "Iran’s New Cyber Playbook: Create Real-World Havoc",
+   "t": "Iran setzt laut Bericht verstärkt auf Cyberangriffe mit physischen Schäden, etwa auf schwach geschützte Tanker und Kühlanlagen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-13T01:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "882455621ec1909f",
    "k": "finanzen",
@@ -141,6 +285,18 @@
    "s": 5,
    "link": "https://www.wsj.com/world/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-d8f26a9a?mod=rss_worldnews",
    "quelle": "WSJ Welt",
+   "zeit": "2026-11-13T00:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2f7b9a0d9036f1f6",
+   "k": "finanzen",
+   "titel": "Fed's Waller Floats a Half-Point Hike After Hot Inflation. What It Means for Your HELOC, ARM or Mortgage - The Mortgage Reports",
+   "t": "Fed-Gouverneur Waller bringt nach heißen Inflationsdaten eine Zinserhöhung um einen halben Prozentpunkt ins Spiel. Die Aussage betrifft unter anderem variable Kredite wie HELOC und ARM.",
+   "e": "Eine solche Erhöhung wäre deutlich größer als der übliche Schritt von 0,25 Prozentpunkten und würde Kreditkosten in den USA zusätzlich verteuern.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYzV3WXU3ZGJZUkpGQjhSOGg4Ym9VWU9iUlJfZUlFcEMydW40bDl1aWNBRUM1SGNOc0g5MHlRd0g4WnVEc1BYVkFHTFF6dVgwdURlTmhfOHE2MlJoX2x2Zlcza2p6OW9DekxuYU1lT0ZwbnQxMkdFdQ?oc=5",
+   "quelle": "The Mortgage Reports",
    "zeit": "2026-11-13T00:00:00+00:00",
    "tag": null
   },
@@ -1981,6 +2137,18 @@
    "tag": null
   },
   {
+   "id": "e1a4e436d439e3e0",
+   "k": "usa",
+   "titel": "Weisses Haus droht Demokraten wegen geplanter Untersuchungen - GMX",
+   "t": "Das Weiße Haus droht den Demokraten mit Konsequenzen für geplante Untersuchungen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdy1kbmF1b0lxVVBJdTM4QVRIaXBoclBSMkNHcW03Y2gwQzZ4SXZPSWpXQi1ucENBRExGVmJiU09pbUlCLTlGWW1TcjBBQkNmSlVSNnA3bk8yTm9XOVRIVXNvNW9HNXdLYzk3a3NXMjl0d2pnMFR4R1ZQc2FOdUlrY3F2Y3k3T0xBVFRGZWc0ZllYOTk2cGhSS1J3U3BLX0dsVGxKU21EVGRjUQ?oc=5",
+   "quelle": "GMX",
+   "zeit": "2026-11-12T13:30:40+00:00",
+   "tag": null
+  },
+  {
    "id": "897a964ad2144828",
    "k": "finanzen",
    "titel": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
@@ -2915,174 +3083,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-12T09:51:13+00:00",
    "tag": null
-  },
-  {
-   "id": "38d49aaa7e24328a",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Großeinsatz in Bünde: Ganze Hauswand bei Explosion herausgerissen - tagesschau.de",
-   "t": "In Bünde hat eine Explosion eine ganze Hauswand herausgerissen. Ein Großeinsatz läuft.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3Zwb0RiclRCWWJUTmw3Zl9CcHI1cDUxWmlHRE12cHVzYUpDMU9JTFdra1RmdGxHbUxlUXV5d20wUGFYNjlrLUVKWTZVNmZlRjlJX3NaZC00MkNCYzBmeTVRZW5uQ0pwR3o0QnZ6VTlQVTlFcDFHeVU0dHN2MjJHVkpDQWl4Skx4Nm1hNWZiOHRhdlVsRUtGbU54WlZlcTZ1elhVUjVVaWlNUWpzUTZQNmVxRUpnVDlYOXlrMGVBTVloa256Q2J4TTJnVmtveHdOc1k0?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-12T09:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "55fa01689c006a51",
-   "k": "welt",
-   "titel": "Liveblog Ukrainekrieg: Selenskyj: Starshield an der gesamten Front erheblich gestört",
-   "t": "Laut Kiew ist der US-Satellitendienst Starshield seit Tagen wieder eingeschränkt. Die US-Gesandten Witkoff und Kushner sind zu Gesprächen in Moskau.",
-   "e": "Die Verhandlungen über die Ukraine laufen parallel zu einer Störung der Kommunikation an der Front, was die Abhängigkeit der Ukraine von US-Diensten zeigt.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-starshield-an-der-gesamten-front-erheblich-gestoert-faz-110683325.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-12T09:44:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "8dfc0329ada24d09",
-   "k": "finanzen",
-   "titel": "Börse: Dax überschreitet erstmals 27.000-Punkte-Marke",
-   "t": "Der Dax steigt erstmals über 27.000 Punkte, getragen von starken Bilanzen und Hoffnungen auf Frieden. Innerhalb einer Woche gewann der Index mehr als 1.000 Punkte.",
-   "e": "Die Rally wird durch gute Unternehmenszahlen und sinkende Ölpreise gestützt, während ein Tech-Konzern den Markt belastet.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-ueberschreitet-erstmals-27.000-punkte-marke/100269311.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T09:44:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "9328f79bdeaf97a4",
-   "k": "finanzen",
-   "titel": "Dax knackt erstmals Marke von 27.000 Punkten",
-   "t": "Der Dax hat erstmals die Marke von 27.000 Punkten übersprungen und erreichte ein Rekordhoch von 27.001,67 Zählern. Starke Unternehmenszahlen, vor allem von Siemens, und sinkende Ölpreise stützten den Index.",
-   "e": "Ein neuer Höchststand beim Leitindex, getragen von Unternehmenszahlen und niedrigeren Energiepreisen.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/article6af58a475596369bf0edc32c/boerse-dax-knackt-erstmals-marke-von-27-000-punkten.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-12T09:44:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "01a3e24d50234e27",
-   "k": "deutschland",
-   "titel": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
-   "t": "Die Bundesregierung hat sich auf einen Haushaltskompromiss geeinigt. Die SPD konnte Kürzungen abwenden, in der Union wächst der Unmut.",
-   "e": "Der Kompromiss ist ein Streitpunkt in der Koalition, besonders wegen nicht beschlossener Entlastungen für Fachkräfte und Unternehmen.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T09:43:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "ff62c79b957c1353",
-   "k": "finanzen",
-   "titel": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
-   "t": "Nvidia-Chef Jensen Huang soll nach Affären mit einer mutmaßlichen chinesischen Spionin und einer ihm unterstellten Angestellten offenbar sein Amt verlieren. Die Nvidia-Aktie fiel zeitweise um 6 Prozent.",
-   "e": "Nvidia ist der wichtigste Chiphersteller für KI, ein Führungswechsel wäre für Aktionäre und die Halbleiterbranche ein bedeutender Schritt.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T09:38:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "5d8c31804e89797c",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Montagearbeiten auf der A45 nahe Eggenscheid noch bis Mai 2027 - News.de",
-   "t": "Auf der A45 nahe Eggenscheid in Lüdenscheid laufen Montagearbeiten noch bis Mai 2027.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxQSjZfNE9Ea1VWLW9MRm1Kckl5bHAxN211MTlDYkV1S0VBT1NEZTViTVNsVjRfR3JhcWQ5ODBKQkJsWW5zbkZjbFcxelNqSURDTU5SQlBXUmZ1THVBTlpRcDdGNXM3Z0F5TjhQOC1KTW9XdXVuZzg0aFdTOTF5MUxnaEZrN0hyWEtoU1VpYnFRSU1GcW13c1RfV2RiZHd0VlN4Y29iTThPdFdkT1VpdUxGWkZ6bFgwVmRGRjRPQ0p4LU9sNmVqNnBiLWg2X3U1azRlcUg2TDlhNXVGN1pJOXhYSzV0VUtCOENma2d5OENrM2NhbHlCd3l3eG9QSjczYUNNN2J2dFl2OUJxTEZGdENXUWpyNGVhQzhYMWhKSGpZZ3NacmExX05yYmR4Tjgtdk03aHppX0JIYkJFaXRZdmpLSTRsZF9haU5nRVp0WDlxbFNGTUhrd1Z2Vk1NYV9wSFFqOWk0TlFhZ2ZqdFkxYnVYN2JUdEtjN3diMXRnT2dXYkl5Vk5PNkxKbjUwNjBzMUN4Qy1LaWQ1THg?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-12T09:38:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "7f9439b3381e22d1",
-   "k": "welt",
-   "titel": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-   "t": "Bei einem israelischen Angriff auf eine Klinik in Gaza sind laut Behörden sechs Menschen gestorben. Israel erklärt, die Hamas habe die Gebäude als Kommando- und Folterzentrum genutzt.",
-   "e": "Die Angaben beider Seiten lassen sich unabhängig kaum überprüfen.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T09:25:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "5a18db81e16cd4fe",
-   "k": "finanzen",
-   "titel": "Neue Bestmarken: Siemens will Vorsprung in industrieller KI ausbauen",
-   "t": "Siemens meldet Rekordzahlen und will sein Wachstum im Bereich industrieller KI ausbauen. Vorstandschef Roland Busch kündigt an, schneller zu wachsen als die Schlüsselmärkte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rekorde-siemens-chef-busch-setzt-voll-auf-die-industrielle-ki-accg-201675215.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-12T09:21:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "3cf4fad52d75c97a",
-   "k": "usa",
-   "titel": "Stephen Miller wird Trumps Stabschef - https://brandaktuell.at/",
-   "t": "Stephen Miller wird Stabschef im Weißen Haus unter Präsident Trump. Die Personalentscheidung betrifft eine der einflussreichsten Positionen in der Regierung.",
-   "e": "Miller gilt als einer der prägenden Berater in Migrationsfragen und hat mit dem Posten direkten Einfluss auf die Arbeit des Präsidenten.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVg4c2VQUkZ6dVczVXVjZ2ZkVXA5LTlxM0JEcnFZTFZIQ252S2xiZzg2ZUNmcEZJZUFpUHExR1RuUVMyTlc5amVNclVYYV9DS0VhT3gyTmpZYWg5LWQxSHFFWlk4SngwMXY2QkpNdV9tWGRvbDRFd2RyenVZeDk0YllJaWpjZThwVEE?oc=5",
-   "quelle": "https://brandaktuell.at/",
-   "zeit": "2026-11-12T09:18:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "6eef86ac7df34930",
-   "k": "welt",
-   "titel": "Gipfel in Dublin: US-Sondergesandte wollen EU und Ukraine einbinden",
-   "t": "Bei EU-Beratungen in Dublin sollen US-Sondergesandte die EU und die Ukraine in die Gespräche einbinden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1682472.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T09:16:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "3762232b967cc654",
-   "k": "finanzen",
-   "titel": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-   "t": "Bitcoin-ETFs verzeichnen Abflüsse von rund 300 Millionen Dollar, während KI-Aktien erneut nachgeben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-12T09:15:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "fcf846bf41231282",
-   "k": "usa",
-   "titel": "Ein Demokrat holt einen Senatssitz in Mississippi – erstmals seit 1982",
-   "t": "In Mississippi hat ein Demokrat erstmals seit 1982 einen Senatssitz gewonnen. Der Unmut über Präsident Trump kam dem Kandidaten Scott Colom zugute.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/demokrat-holt-senatssitz-in-mississippi-erstmals-seit-1982-ld.10061692",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T09:14:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "57f34ed8ab908cc8",
-   "k": "deutschland",
-   "titel": "Abnehmspritze könnte laut Barmer-Chef bald Kassenleistung werden",
-   "t": "Barmer-Chef Straub hält es für möglich, dass die Abnehmspritze bald Kassenleistung wird. Ein Nachweis von Diäten oder Sport sollte dafür nicht nötig sein.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/abnehmspritze-kassenleistung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T09:13:24+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,12 +3095,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 20
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 25
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Google News Fed",
