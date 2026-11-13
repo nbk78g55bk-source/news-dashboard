@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-13T03:01:20.352924+00:00",
+ "aktualisiert": "2026-11-13T05:01:20.359515+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "70.257 $",
-   "delta": -4.705184810124837
+   "wert": "68.544 $",
+   "delta": -6.920082046932268
   },
   {
    "name": "Ethereum",
-   "wert": "1.991 $",
-   "delta": -3.1632136316183765
+   "wert": "1.925 $",
+   "delta": -6.016015467661682
   },
   {
    "name": "Gold",
-   "wert": "3.913 $",
-   "delta": 0.7103685899419787
+   "wert": "3.914 $",
+   "delta": -2.157230346206729
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,174 @@
   ]
  },
  "items": [
+  {
+   "id": "f657fa6b7401d8d5",
+   "k": "finanzen",
+   "titel": "Morning Briefing: Warum Mercedes nicht mehr an Deutschland glaubt",
+   "t": "Mercedes-Benz droht laut Handelsblatt mit einem Rückzug aus Deutschland. Der Konzern begründet dies mit Standortkosten, die er nach eigener Rechnung nicht mehr tragen will.",
+   "e": "Ein Rückzug des ältesten Autokonzerns hätte Folgen für Standort, Beschäftigung und die Automobilindustrie in Deutschland.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-warum-mercedes-nicht-mehr-an-deutschland-glaubt/100269538.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T04:51:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "f0c36394ffb28961",
+   "k": "usa",
+   "titel": "Neun Hinrichtungstermine – jetzt zieht der Staatsanwalt die Mordanklage zurück",
+   "t": "Der Staatsanwalt zieht die Mordanklage gegen Richard Glossip zurück, der 1998 zum Tode verurteilt wurde. Der Fall stand kurz vor mehreren Hinrichtungsterminen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/article6af6903d5a72dceba1d60e5c/nach-28-jahren-haft-neun-hinrichtungstermine-jetzt-zieht-der-staatsanwalt-die-mordanklage-zurueck.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T04:31:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "48899ae4d5e17165",
+   "k": "deutschland",
+   "titel": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+   "t": "Der Bundestag stimmt über die Reform der Nachrichtendienste ab, die BND und Verfassungsschutz mehr Befugnisse geben soll. Innenminister Dobrindt nennt sie ein \"Jahrhundertwerk\", Kritiker sprechen von einem \"Monster\".",
+   "e": "Die Reform erweitert Befugnisse, etwa beim Betreten von Wohnungen und bei Datenströmen, und berührt damit Grundrechte und die parlamentarische Kontrolle.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T04:23:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "34697169d52d8fce",
+   "k": "usa",
+   "titel": "Spionage-Verdacht: US-Senat lädt Jensen Huang und Trumps Handelsminister vor",
+   "t": "Der US-Senat lädt Nvidia-Chef Jensen Huang und Handelsminister Lutnick wegen eines Spionageverdachts vor. Mehrere Ausschüsse drohen mit Zwangsvorladungen, falls Huang nicht freiwillig aussagt.",
+   "e": "Der Fall verbindet Nvidias China-Geschäft mit Fragen der nationalen Sicherheit und kann die US-China-Beziehungen belasten.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/us-senat-laedt-ex-nvidia-chef-jensen-huang-vor-accg-201679188.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-13T04:17:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "22d154d7fb327788",
+   "k": "welt",
+   "titel": "„Wir sind weiter von einem Frieden entfernt als vor dieser Gipfelwoche“",
+   "t": "US-Unterhändler Witkoff spricht nach dem Treffen mit Putin von Fortschritten. Der frühere Ukraine-Sondergesandte Kurt Volker widerspricht und wirft dem Team von Trump vor, die russische Darstellung zu übernehmen.",
+   "e": "Die unterschiedlichen Bewertungen zeigen, wie unklar der Stand der Verhandlungen über einen Frieden in der Ukraine ist.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/article6af628ecc45061d752ba90ab/ukraine-gespraeche-wir-sind-weiter-von-einem-frieden-entfernt-als-vor-dieser-gipfelwoche.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T04:01:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1094bec9d3cf071",
+   "k": "nrw",
+   "titel": "Minister-Erlass: Keine „Bratwurst-Steuer“ bei Feuerwehrfesten in NRW - STERN.de",
+   "t": "Ein NRW-Erlass stellt klar, dass Bratwurst-Verkäufe bei Feuerwehrfesten nicht steuerpflichtig sind.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEtPZzNHM2pPYlNQMjBRN2QzRFkxQ1ZuV3FyVGl3a1MwOHpGMlB3bXoyT0pudWxwejh3Z1hpcWlxY3N5dmQ1YlNDQzNycmszWFEtVFg5MlMwTC0zOGhKekQyaFFJc1pnZjkzTUVKeUoxcHBBZmNPSHZPOS1wUGhQMmhScFNxQUxZVHNROXhzcXdRNTRKVzRRSG5SNzRSSUQwWWxaN29QTjRmc3hINXZ6c1RvQ3JEeFVpNWZJR0hCVHhycW1QN2JDcWdSUnhobGtieXRaQWpsT1YwTUNEc1E?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-13T04:00:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "052cd0a89b0c5ea9",
+   "k": "finanzen",
+   "titel": "Auswertung: Dax-Konzerne steigern Gewinne trotz Autokrise",
+   "t": "Die Dax-Konzerne haben im dritten Quartal insgesamt mehr Umsatz und Gewinn erzielt, in einzelnen Branchen wie der Autoindustrie läuft es aber schlechter. Viele Unternehmen bauen Stellen ab.",
+   "e": "Die Entwicklung zeigt eine gespaltene Konjunktur, in der Gewinne und Stellenabbau nebeneinander stehen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/auswertung-dax-konzerne-steigern-gewinne-trotz-autokrise/100269577.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T04:00:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "a1feaf3c1b87933f",
+   "k": "nrw",
+   "titel": "Hendrik Wüsts Wunderwaffe und Strippenzieher: So tickt Nathanael Liminski - Neue Westfälische",
+   "t": "Porträt von Nathanael Liminski, dem Chef der NRW-Staatskanzlei und enger Vertrauter von Ministerpräsident Hendrik Wüst.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamhpbUdkVGt3V2JEOGNralVNb1FXTDktb05UXzlrUUFoN1dZNl9wdTlzVnh2LVo2NHZSSGxLRXNNTEtUTkpOWmFIU1B2QmxXVzJXaExqTlVUTnlwTmw5UDgxQnNMYV9VOXVtcjByOHpFXzhxWVAtaHpqOFdXZlpnbVJwQUtwOVVvWU54NHM1YjNBWXlMaHNCVFg0OWdaWXJpYUotRWxza2pZRUJ2MHpyWkJnczZVNzN1T0NpZjNQV08xN2g0S090UVZtNTdUbHJDU0JKWUtObUFwQQ?oc=5",
+   "quelle": "Neue Westfälische",
+   "zeit": "2026-11-13T04:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4dc8a036dcf2ea1",
+   "k": "finanzen",
+   "titel": "50 Basispunkte möglich – US-Notenbanker stellt weitere Zinserhöhungen in Aussicht",
+   "t": "US-Notenbanker stellen weitere Zinserhöhungen in Aussicht, eine Anhebung um 50 Basispunkte wird diskutiert. Die Zielspanne liegt aktuell bei 3,75 Prozent.",
+   "e": "Ein Schritt um 50 Basispunkte wäre ungewöhnlich groß und würde Zinsen für Kredite und Hypotheken weiter verteuern.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/article6af688535a72dceba1d60e13/hohe-inflation-50-basispunkte-moeglich-us-notenbanker-stellt-weitere-zinserhoehungen-in-aussicht.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T03:59:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "aecaef79d2788762",
+   "k": "finanzen",
+   "titel": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+   "t": "Bitcoin fällt unter 70.000 US-Dollar, während der Dollar-Index ein 19-Monats-Hoch erreicht.",
+   "e": "Der stärkere Dollar und Zinserhöhungserwartungen der Fed belasten Risikoanlagen wie Krypto.",
+   "s": 7,
+   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-13T03:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d579e2ebd7f52576",
+   "k": "welt",
+   "titel": "Venezuela: Präsidentin Rodríguez spielt auf Zeit, Machado drängt auf Wahlen",
+   "t": "Oppositionsführerin Machado ist nach Venezuela zurückgekehrt und fordert Wahlen. Präsidentin Delcy Rodríguez will ihre Macht festigen, ein Wahltermin ist unklar.",
+   "e": "Die USA verfolgen laut Bericht eigene Pläne, was den politischen Kurs Venezuelas zusätzlich beeinflussen dürfte.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/venezuela-praesidentin-rodriguez-spielt-auf-zeit-machado-draengt-auf-wahlen/100268820.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T03:15:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b0236f7c4189e27",
+   "k": "welt",
+   "titel": "Kriminalität: „Zeitalter der Unsicherheit“ – Italien rätselt über Welle an Bombendrohungen gegen Schulen",
+   "t": "In Italien gibt es eine Welle von Bombendrohungen gegen Schulen, nachdem zuvor bereits Drohungen gegen Supermärkte und Flugzeuge bekannt wurden. Die Regierung spricht von einer breiter angelegten Strategie.",
+   "e": "Die koordinierte Serie von Drohungen zeigt eine neue Form der Bedrohung für öffentliche Einrichtungen in Europa.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/sicherheit-italien-raetselt-ueber-welle-an-bombendrohungen-gegen-schulen/100269330.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T03:13:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f936940d24c7428",
+   "k": "deutschland",
+   "titel": "Verteidigung: Verfassungsschützer warnt vor Spionage durch Tesla-Autos",
+   "t": "Der Verfassungsschutz warnt vor Spionage durch vernetzte Tesla-Autos. Die Bundeswehr schränkt daher die Zufahrt solcher Fahrzeuge zu ihren Liegenschaften ein.",
+   "e": "Vernetzte Fahrzeuge können Daten sammeln und sind damit ein Sicherheitsrisiko in sensiblen Bereichen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-verfassungsschuetzer-warnt-vor-spionage-durch-tesla-autos/100269299.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T03:11:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "b4cf9ed34d0e6968",
+   "k": "deutschland",
+   "titel": "„Nationaler Stahlgipfel“: Welche Zukunft hat die Stahlindustrie in Deutschland?",
+   "t": "Vor einem \"Nationalen Stahlgipfel\" wird über die Zukunft der Stahlindustrie in Deutschland diskutiert. Hohe Energiepreise und globale Überkapazitäten setzen die Erzeuger unter Druck.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/nationaler-stahlgipfel-welche-zukunft-hat-die-stahlindustrie-in-deutschland/100269568.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T03:00:20+00:00",
+   "tag": null
+  },
   {
    "id": "70a983439a0cd497",
    "k": "finanzen",
@@ -493,6 +661,18 @@
    "tag": null
   },
   {
+   "id": "3b720ff6588fae01",
+   "k": "nrw",
+   "titel": "Iserlohn Roosters gegen Adler Mannheim: 6:2 - tixio - Nachrichten",
+   "t": "Die Iserlohn Roosters haben die Adler Mannheim in der DEL mit 6:2 besiegt.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmZQRS1JTW1YVHhCVjNKeFFveHMwUXB2RVhYRWxhc2UwUkM0cnNMUkZJZE94T3dpS3pSMktFSDFvRnNXeUNfNG1nUFhUazh2TEZMaDVmZHdPZkdtXzY1ZWdwSjhOQ0J2aGdTRmkwNzdWOExMUjlqV2FpMlBCYzM1ZQ?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-12T22:17:29+00:00",
+   "tag": null
+  },
+  {
    "id": "74d1ad40b1853344",
    "k": "finanzen",
    "titel": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
@@ -622,6 +802,18 @@
    "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
    "quelle": "CNBC",
    "zeit": "2026-11-12T21:20:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "dfc8cb3d978920f7",
+   "k": "finanzen",
+   "titel": "Fed blieb im dritten Quartal den Devisenmärkten fern, US-Finanzministerium kaufte Yen - MarketScreener Deutschland",
+   "t": "Die US-Notenbank Fed griff im dritten Quartal nicht an den Devisenmärkten ein, das US-Finanzministerium kaufte dagegen Yen.",
+   "e": "Der Yen nähert sich der Marke von 160 zum Dollar, und Devisenkäufe durch Behörden sind ein seltenes Signal.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanRNenhQcUFNTlpYbVh3Mm5ZQXpiOTJyWExKNnE4eFZKOHlUVk9Sejl1a1hlNzcxQ09aR0tOb055REw1VWFnN3V5UVc5Y2pVRzFnWnZJSUp5QlBYOFVUNUtWYld4UzRDbkhKQzRpNE55Q0Iyd2lrTmhTVjdmNEVUWWpteWh4RUdwT3dZdE1RSTgwNF9XTXJndlNjRzJiYXVuUXdzWXVON216N2hhZHhfaENrYWVNMkxZZm9pU3B2dlJFdGZSUjVhMURRRy1qUjdJWkJkU1ltZHhfS3p2MVpWN2VhQ2pqQQ?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-12T21:15:43+00:00",
    "tag": null
   },
   {
@@ -1030,6 +1222,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2xEd3E3VnBWbGtDTkRfQTVtdmVBVExfQzJJcUotQThvUnBrU3I5VnZlTUpLbDg4Q0pYUV84YS16VVZ2a2NFdW05S19uWTZJdWg0anluUjdvdEpYUjlSZGdaOTZmcXFBdjIyVTJuZU1nRTZjRENzcGdLYWpidjRTdk8xWjRJVUtuSTdYbV9iLTJtbERZWW5GbHNNcEFvMExhUEdvd3RkNkRZQQ?oc=5",
    "quelle": "Deutschlandfunk",
    "zeit": "2026-11-12T18:21:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "90c3fffaad64fb8b",
+   "k": "finanzen",
+   "titel": "Fed droht mit drei aufeinanderfolgenden Zinserhöhungen? Wall Street warnt: Aktienmarkt unterschätzt aktuell den Zins-Tsunami - eu.36kr.com",
+   "t": "Analysten warnen, dass die Fed möglicherweise drei Zinserhöhungen in Folge vornimmt und der Aktienmarkt dies unterschätzt.",
+   "e": "Mehrere Zinsschritte in Folge würden Finanzierungskosten und Bewertungen von Aktien spürbar unter Druck setzen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HTkRUVkxreUpGR1o5NWxLdENETHhmd3RITms5c25Wa05VNjhHLTF5SEtJQVpuNk9XQllBS0EtT0ZLaVRNR3VBZ0lSSkcxcHJaQ3V3?oc=5",
+   "quelle": "eu.36kr.com",
+   "zeit": "2026-11-12T18:15:00+00:00",
    "tag": null
   },
   {
@@ -2879,210 +3083,6 @@
    "quelle": "Traders Union",
    "zeit": "2026-11-12T10:32:28+00:00",
    "tag": null
-  },
-  {
-   "id": "ddaea83533c15342",
-   "k": "finanzen",
-   "titel": "Götterdämmerung bei Nvidia – was passiert, wenn der KI-König stürzt",
-   "t": "Nvidia verliert nach Bekanntwerden zweier Affären rund 600 Milliarden Dollar an Börsenwert. Konzernchef Jensen Huang steht vor dem Aus.",
-   "e": "Der Kursrückgang betrifft den wichtigsten Wert im KI-Boom und zieht als Klumpenrisiko auch Indizes und Fonds mit, die stark auf Halbleiterwerte gewichtet sind.",
-   "s": 8,
-   "link": "https://www.welt.de/wirtschaft/plus6af576eac45061d752ba7330/jensen-huang-absturz-oder-absurd-guenstig-was-sie-ueber-die-nvidia-aktie-wissen-sollten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-12T10:30:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "6bd730a43145b14f",
-   "k": "welt",
-   "titel": "Weltklimakonferenz: Thunberg auf dem Klimagipfel: „Der Planet wird getötet“",
-   "t": "Greta Thunberg hat auf dem Klimagipfel COP31 den Mächtigen vorgeworfen, von der Realität abgekoppelt zu sein.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-thunberg-auf-dem-klimagipfel-der-planet-wird-getoetet/100269396.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T10:29:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "b6ac4196c5312f57",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Streit mit Skatern endet tödlich - Anklage gegen 26-Jährigen - n-tv.de",
-   "t": "Nach einem Streit mit Skatern in Nordrhein-Westfalen ist ein Mann gestorben. Gegen einen 26-Jährigen wurde Anklage erhoben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjJ0NklWRC1ZazBBOEUtOXAtZHRiZldRb0xTbXBodFBEWW81TXkyZXdjbHVGYnFubmJpcDNrU1NYYnpENmhnekdtWXFmTmpSSFJfUWxKVFE0STZBLUhUUU5mOWlwNGZDLUh3Q3Mxc2czZld3WFVUWlVYRF9zUklZNjR5LXZOeGJMdVhsNWRITUJNNjlCV3ZMNkFKZG83NEdjX2prTGE3a0pxZ3B0N0JSMTVpSkJJN19yQTBld25zZUU2ZnlNeXc?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-12T10:24:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dafca1aecda40fdd",
-   "k": "deutschland",
-   "titel": "Fabian-Prozess: Gina H. wehrt sich gegen Verurteilung",
-   "t": "Gina H. hat nach ihrer Verurteilung wegen Mordes an dem achtjährigen Fabian Revision eingelegt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/fabian-prozess-gina-h-legt-revision-gegen-urteil-ein-accg-201676355.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-12T10:20:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "6b9885ec7c22eb8f",
-   "k": "nrw",
-   "titel": "L636: „Nepomukstraße“ in Lippstadt-Overhagen ab Montag voll gesperrt - Landesbetrieb Straßenbau Nordrhein-Westfalen | Straßen.NRW",
-   "t": "Die L636 „Nepomukstraße“ in Lippstadt-Overhagen wird ab Montag voll gesperrt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGZ6S3dzQlhBM3BiczR3VVYxLWp2UUlQcGVOVk9DVk1fTGU0UXlYTFA1WnVxVDFrMVlhRWFHVlk0OVI0ZGI1NTctaGE3RnRnaVF1VkFraW00MTctcko2Qk1lcXEzT0doQ0gyblZxTjF0ZVR3Qml5YXhoTWNEUkFMUURTNmYwU3JPMGJPNEdsMlJ0aktpUjRla1dFQlVlZ01Nbmhqd1I0OUN6RHRMVHNR?oc=5",
-   "quelle": "Landesbetrieb Straßenbau Nordrhein-Westfalen | Straßen.NRW",
-   "zeit": "2026-11-12T10:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "571f1241de167bc1",
-   "k": "nrw",
-   "titel": "Fast 500 Roosters-Karten für die Heimspiele gegen Mannheim und Straubing bestellt - IKZ-Online",
-   "t": "Für die Iserlohn Roosters wurden knapp 500 Karten für die Heimspiele gegen Mannheim und Straubing bestellt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUFdEUEQ5S2k4QTdncTk2R0w3OFpVV1B4dm04RThhRXI4clBSaDBHdlpTaFlrSXRGZC0zTlc3QVF5UGlTTVdGZE5HenczSWljYXJOY3dYYmxjeEJEQVlnTWliNlVZdzhFUF9hQ0UxVGR0RlZ6X3Yzb0xzSDNsU3Z1MDhPZndwODI1UGtxekpGMnhkX3ZKZzdZeUxQTFQ0UV9GOHlJZUsxR3YycjFFdnlTZFl1VFNGdHpJQ0N1SkxHVEhuN1huVWVCRHBsNTFkZDdkamljbmptc1RySkFTdE9PRWRJRlhoUjdQaDFueGhKQ2RWb0Z2T09ZTmhETV9aSFY2?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-12T10:19:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1116938794217236",
-   "k": "welt",
-   "titel": "Pick-ups, Transporter, Maschinengewehre: Zeigen diese Satellitenbilder einen verbotenen Krieg?",
-   "t": "Im Nordosten Äthiopiens sammeln sich laut Satellitenbildern Tausende bewaffnete Kämpfer an der Grenze zum Sudan. Experten befürchten einen Angriff auf die sudanesische Armee.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/visuals/zeigen-diese-satellitenbilder-einen-verbotenen-krieg-ld.10054392",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T10:18:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "6aec089790c4ef0c",
-   "k": "finanzen",
-   "titel": "Prognose: Ausgaben für KI steigen 2027 laut Gartner auf vier Billionen Dollar",
-   "t": "Gartner erwartet, dass die Ausgaben für KI im Jahr 2027 auf etwa vier Billionen Dollar steigen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/technik/ki/prognose-globale-ki-ausgaben-sollen-2027-auf-vier-billionen-dollar-steigen/100269346.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T10:18:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "27f12218144b9eeb",
-   "k": "finanzen",
-   "titel": "Der Gewinn der HHLA bricht ein",
-   "t": "Der Gewinn des Hamburger Hafenkonzerns HHLA bricht im dritten Quartal ein. Ursache sind Probleme bei der Terminal-Automatisierung und Streiks.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/regionales/hamburg/article6af5901650175c81de7a2bd3/hafenwirtschaft-der-gewinn-der-hhla-bricht-ein.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-12T10:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1b9f8c78e77ec9e4",
-   "k": "usa",
-   "titel": "VIDEO - Mindestens zwei Personen sterben bei einem Gebäudeeinsturz in Brooklyn",
-   "t": "Beim Einsturz eines mehrstöckigen Wohngebäudes in Brooklyn sind mindestens zwei Menschen gestorben, 17 wurden verletzt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/shorts/mindestens-zwei-menschen-sterben-bei-einem-gebaeudeeinsturz-in-brooklyn-ld.10061752",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T10:15:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "68375809e506095a",
-   "k": "finanzen",
-   "titel": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-   "t": "Indiens Finanzermittlungsbehörde hat die Kryptobörsen CoinDCX und Delta wegen mutmaßlich illegaler grenzüberschreitender Geschäfte durchsucht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-12T10:10:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "9859840edc56bcbb",
-   "k": "finanzen",
-   "titel": "EZB-Ökonomen nutzen Reddit und KI, um die Stimmung der Anleger zu erfassen - MarketScreener Schweiz",
-   "t": "EZB-Ökonomen nutzen Reddit-Beiträge und KI, um die Stimmung der Anleger zu erfassen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHlvaW1MU1pTTmJERlRPU2lBcXFDZVdGbnlvTE9jYl9JQ1lvVDRRcDJQSm1sTDh4Vmp1OUtFcHoySjRUYkhXbzdOcUlwaUtfcUIwSlJfU0k4bnRjZWVTblk0ajRVYnRuSnFpajdhRFE2ZmJIejJCODJVcWtrMkpiNlA0NmFKdEJ4VjM2QXE2alNQRGhsUUNEdERNT2RkMFJSUnFRQktPYWZYNjJPcXdaRFpSRzM5ZVZGSUNFVWQ4UE1SWWl2alBpMFpfb28wNzlWZHVuTkhEOA?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-12T10:01:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "251c4b2fc68e8c74",
-   "k": "finanzen",
-   "titel": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-   "t": "US-Senator Tom Cotton fordert Handelsminister Lutnick auf, den chinesischen Speicherchiphersteller CXMT auf die Entity List zu setzen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-12T10:00:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "c33f54c96188b1a4",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Landesregierung fördert 110 Stellen in der Schuldnerberatung - tixio - Nachrichten",
-   "t": "Die Landesregierung fördert 110 Stellen in der Schuldnerberatung in Nordrhein-Westfalen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSllfTVFUcElRa25TV2VTRHN0RjM3R2VodVp0dzRodGxweWltRmotRExlNUdOUkUwR1lvdlNSSmJ6U2p1ZzZBTEtBT2hXNTExY3RaTnJzNGhkdlV0NkdsRGdUTTAxNmNFWENVeUoyQWJVWWprYmU2U3MyeUgtN0JKX0p2OXV4NVl6Y0NwZ3FfMkNKZVFMUmRvZjVmMA?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-12T09:58:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "be07636a20cc3a11",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Fünf Verletzte nach Unfall auf A43 bei Witten - tixio - Nachrichten",
-   "t": "Auf der A43 bei Witten wurden bei einem Unfall fünf Menschen verletzt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQall1Z2Q2dVRHLUcxLTRONVRGbGtqRExMWjJ5WGZaWWRDVGVSM0xWTVdQSzd6UHFIOUFQb1hLbGtkMWlDOWNTR1A3TUo0Y1BFdDJOZnhxOUJsZHQwUV90dVF6bkRaSk5hU2ZMd1hadjhLa2tia3ZvWVJUYi0wMmZfUDdzNTBENGc?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-12T09:54:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "8ec517d7ea4b3ab0",
-   "k": "finanzen",
-   "titel": "Neue EZB-Studie: So verbreitet sind Stablecoins im Euroraum - Bitcoin2Go",
-   "t": "Eine neue EZB-Studie untersucht die Verbreitung von Stablecoins im Euroraum.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LMHQ3U2JXZkNXczhYbnFWMmdVTFJSeGg5Ql81V2E0anlER3hvcEpXS1otRTRndTFCUHVNVnE4Tm5uNVBNQXpOck5FT2FiSnYzd2lPRzFaY29RRXI2NThn?oc=5",
-   "quelle": "Bitcoin2Go",
-   "zeit": "2026-11-12T09:51:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "4280afe63f84674a",
-   "k": "finanzen",
-   "titel": "Dax knackt erstmals Marke von 27.000 Punkten",
-   "t": "Der Dax ist im Handel am Donnerstag zeitweise um 1,3 Prozent gestiegen und hat damit ein Rekordhoch erreicht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/video6af58b66c45061d752ba7529/neuer-rekordwert-dax-knackt-erstmals-marke-von-27-000-punkten.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-12T09:51:13+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 40
+    "n": 39
    },
    {
     "name": "FAZ Finanzen",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "Google News Fed",
