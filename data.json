@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-13T13:01:27.801837+00:00",
+ "aktualisiert": "2026-11-13T15:01:28.852536+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "131,29 €",
-   "delta": -0.2583034796019401
+   "wert": "131,00 €",
+   "delta": -0.47861798939640154
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "45,26 €",
-   "delta": -0.413663646082596
+   "wert": "45,16 €",
+   "delta": -0.6336953216325769
   },
   {
    "name": "Deka S&P 500",
-   "wert": "143,33 €",
-   "delta": -0.19845105473857982
+   "wert": "143,61 €",
+   "delta": -0.0034853552711044955
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "181,94 €",
-   "delta": -0.3177757280758753
+   "wert": "181,88 €",
+   "delta": -0.3506488371025629
   },
   {
    "name": "Deka DAX",
-   "wert": "233,75 €",
-   "delta": -0.042765063461813746
+   "wert": "233,50 €",
+   "delta": -0.1496711970837783
   },
   {
    "name": "Bitcoin",
-   "wert": "69.155 $",
-   "delta": -4.999130390683282
+   "wert": "68.912 $",
+   "delta": -3.694853478141069
   },
   {
    "name": "Ethereum",
-   "wert": "1.958 $",
-   "delta": -2.989341736354683
+   "wert": "1.949 $",
+   "delta": -2.618405751974709
   },
   {
    "name": "Gold",
-   "wert": "3.894 $",
-   "delta": 0.23421488836157245
+   "wert": "3.902 $",
+   "delta": 0.4426929955400283
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,294 @@
   ]
  },
  "items": [
+  {
+   "id": "315ce5b0ae7e91c3",
+   "k": "usa",
+   "titel": "Treasury Secretary Scott Bessent points finger at Howard Lutnick, Commerce Department over Nvidia chip scandal",
+   "t": "Finanzminister Scott Bessent macht das Handelsministerium unter Howard Lutnick mitverantwortlich dafür, dass die Regierung gegen einen Nvidia-Kunden nicht früher vorging. Dieser soll illegal KI-Chips nach China umgeleitet haben.",
+   "e": "Der Fall betrifft Exportkontrollen für KI-Chips und das Verhältnis zwischen Wirtschaft und Regierung.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/13/us-news/scott-bessent-points-finger-at-howard-lutnick-over-nvidia-chip-scandal/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-13T14:55:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ba08857eaaa44cd",
+   "k": "deutschland",
+   "titel": "Drohnenhersteller: Generalstaatsanwalt ermittelt nach Cyberattacke auf Quantum",
+   "t": "Nach einer Cyberattacke auf den Drohnenhersteller Quantum Systems ermittelt eine Generalstaatsanwaltschaft. Das Unternehmen ist langjähriger Lieferant der ukrainischen Streitkräfte.",
+   "e": "Der Fall betrifft die Sicherheit der Rüstungsindustrie und Lieferungen an die Ukraine.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/drohnenhersteller-generalstaatsanwalt-ermittelt-nach-cyberattacke-auf-quantum/100269774.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T14:44:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "2b2d6181f8fa5e30",
+   "k": "deutschland",
+   "titel": "AfD will Fußballweltmeister als Kandidat für Bundespräsidenten-Wahl aufstellen",
+   "t": "Die AfD will für die Bundespräsidentenwahl im Januar einen früheren Spitzensportler als eigenen Kandidaten benennen.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6af71c4027adfb0b7bb2d3d2/thomas-berthold-afd-will-fussballweltmeister-als-kandidat-fuer-bundespraesidenten-wahl-aufstellen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T14:35:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "5666ee55b25fc62e",
+   "k": "welt",
+   "titel": "Streit in Dublin: Wer soll für Europa mit Russland verhandeln?",
+   "t": "Berlin, Paris und London sehen die Frage, wer für Europa mit Russland verhandelt, als geklärt. Italien, Polen und mehrere kleine Staaten wünschen sich eine andere Lösung.",
+   "e": "Die Streitfrage zeigt die Uneinigkeit der EU in der Sicherheitspolitik gegenüber Russland.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/streit-in-dublin-wer-vertritt-die-eu-bei-russland-verhandlungen-201680307.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-13T14:35:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "64ee2edd74c456cf",
+   "k": "welt",
+   "titel": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+   "t": "EU-Parlament und Mitgliedstaaten haben sich auf zusätzliche kostenlose Emissionszertifikate für betroffene Industriebranchen verständigt. Die Erleichterung ist zeitlich befristet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T14:35:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "121d4e9479ea2a52",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Erst Schlägerei, dann Schüsse auf Lokal im Ostviertel - tagesschau.de",
+   "t": "Nach einer Schlägerei sind auf ein Lokal im Ostviertel Schüsse abgegeben worden.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNGpURng4UFhKdmxCTHotSkJBelpIQ1l0YWlkNm9DUzhkTmVTb0ZNQWlCZU12TEFiV003eDQyLUtEeFdiRUtwWTZ2akJVT3M1ZUtOWUJfbXR5Y3ZzSGl3SkU5V0ZsOHd6VldCd2lvWEl3WENpZDdwaXg0TTlKNkJIdDJEU0FRdEhqWXRTMGZtdHpGdFd3QXUtekFWcUk3SVVYMTQ2QUpTSU8yTkl6YTVnQTRZSkZncDM1QWdjamp5R1JEVVUwT1BnSE51amtmSmM2M3ZwakRnVzlBN2QwLXc?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-13T14:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2110231388f01a90",
+   "k": "welt",
+   "titel": "Ukraine-Krieg: Wieder Störung an Starlink – Kiew nutzt Alternative aus Israel",
+   "t": "Die Ukraine hat erneut Störungen beim Satellitendienst Starlink erlebt. Kiew sucht nach Alternativen, etwa beim israelischen Anbieter HiSky.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-wieder-stoerung-an-starlink-kiew-nutzt-alternative-aus-israel/100269609.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T14:33:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "e13e6017e862ed20",
+   "k": "welt",
+   "titel": "„Bitte keine Überraschungen“ – Auf dem EU-Gipfel richtet Merz einen dramatischen Appell an die USA",
+   "t": "Vor dem EU-Gipfel übt Kanzler Merz Druck auf die EU aus, eine Lösung für die Finanzierung der Ukraine zu finden. Kleinere Länder reagieren verärgert.",
+   "e": "Die Finanzierung der Ukraine entscheidet über die künftige Lastenverteilung in der EU und das Verhältnis zu den USA.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/plus6af70fdc9849eea0701e1abd/ukraine-bitte-keine-ueberraschungen-auf-dem-eu-gipfel-richtet-merz-einen-dramatischen-appell-an-die-usa.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-13T14:32:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "b005d36258775077",
+   "k": "finanzen",
+   "titel": "Commerzbankökonom Krämer: De Cos dürfte EZB-Präsident werden - FAZ",
+   "t": "Commerzbank-Chefvolkswirt Jörg Krämer erwartet, dass der Spanier de Cos neuer EZB-Präsident wird.",
+   "e": "Ein Wechsel an der EZB-Spitze wäre für den Kurs der Euro-Geldpolitik und die Zinsentwicklung in Europa relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPek1uampRRnJEb2FoMnl3UWQ5S3BsUFJJTGJaVkVGaS1GWWRvMU1nVWdObXhibHZtOW1nOW05bGtkcW9iT29PanUtS0VkQ1U2YkRrdnRBc0htUFV2SWNQaC1LX3QxckpFaWRZY2NIZE5mSENVMXBKQ3R6YnBQRFhiaThVcFlFNHoyUnNpcUs3ZWR5YkJaRW1KVVFlZW91bld4alpPaGtQMnpZLW54aWIzSG02ei1oWHBhaHpVVWcyVEFsU0J4RHc?oc=5",
+   "quelle": "FAZ",
+   "zeit": "2026-11-13T14:31:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "74e467dffaec3251",
+   "k": "usa",
+   "titel": "Krypto und Korruption: Amerikaner straften Trump wegen des Verdachts der Selbstbereicherung ab - RP Online",
+   "t": "Laut einer Umfrage haben US-Wähler Trump wegen des Verdachts der Selbstbereicherung über Krypto abgestraft.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXJWYVBWdnhZb2h1dFVjUXYxSG5yWERfcDVDZndNZDBodHZLZERvQlJ6el83Vnc4ZUFxT3RVMG55U1NSbU5hdGhEQ2RoN1Bva1J5UHlScGhDRmU5QVFpS2lXVmdYWGZQaGY3NGxLaEI4VDlFWWcxR0N1TS1IZk50ZHBuZWJJSVA2WVBxVVB5UEhZVFdvLTFmZWJxSHROeVBLR3JHdzY0THBTYVNkU0ljZTdCRVFlSzA1TjVyTE1QRjhVZExH?oc=5",
+   "quelle": "RP Online",
+   "zeit": "2026-11-13T14:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5560ce8e18f38db5",
+   "k": "nrw",
+   "titel": "Frank Ruffing: Ex-Chef der Volksbank Kleverland gerät stärker unter Druck",
+   "t": "Gegen den früheren Chef der Volksbank Kleverland, Frank Ruffing, ermittelt die Staatsanwaltschaft Kleve wegen Untreue und Betrugs. Zuletzt gab es eine Durchsuchung bei der Bank.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-kleverland-ex-bankchef-frank-ruffing-geraet-staerker-unter-druck/100269365.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T14:27:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "ce6ad039e919ec29",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Unfall mit mehreren Autos: A1 bei Euskirchen Richtung Köln gesperrt - tagesschau.de",
+   "t": "Nach einem Unfall mit mehreren Autos ist die A1 bei Euskirchen in Richtung Köln gesperrt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVEJnaFFXMm1pTTByT1huLVR2VUFyeUpaUWlBNG5jSVcxS3RaMFJ6UmpySDBnODBWUi1iSi12RVVjRENVQXJtWW1QVUV6ZXBWSi1xS2ZXNkRCQUVBdzI0YW00WWJtdlIzUzZxdk92a3NMOG1ZRFZJUlhpSkhXSmluSHMwQWJKN1JaTnVVUm1XLW9JU1BSVUNYM243Z0ZyeVhOUVowdWlFbE9ad3lEcEZNNGxDbDNPUTNhbFB3T3lJbEo5TUJxTmd2N1hsWG9VZ0VYVUFBOUs4QXc?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-13T14:25:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d8c2d586f296ebec",
+   "k": "finanzen",
+   "titel": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+   "t": "Chicago-Fed-Präsident Goolsbee sagt, die Notenbank habe bei der Inflation noch Arbeit vor sich. Die Fed werde wahrscheinlich handeln müssen. Er reagiert damit auf die jüngsten Inflationsdaten.",
+   "e": "Die Aussage stützt die Erwartung weiterer Zinserhöhungen in den USA, die an den Märkten bereits eingepreist sind.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+   "quelle": "CNBC Finance",
+   "zeit": "2026-11-13T14:22:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "2ad1aad0f0c79556",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Sprengung in Porta Westfalica: Diese Schornsteine sind bald Geschichte - tagesschau.de",
+   "t": "In Porta Westfalica werden zwei Schornsteine gesprengt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHdlZUtJVUdPOVZGRFlGMjZFZzVZN0lpay11NjBlQzcxQnVKSkRHN1liUGUxcU9mdmdHWk5FY3ZVTDZTb3pmZTBkc3l1UU4xMXAxd1oxb05XazNlTS1xckZKZzZvamUzYkFLTUVldDUxTlJ5cERESlBlLVVpODVjNEh2Uk1GZHkybDBJTjVKRHdVanAyZUduQmxtSmh1c0dyVnk1Q2lBbzJsZHpZZ2IwS0pZUWthZTE3NWpHa0FGenNvbnRtekdPS2pEMy00d1B6LVhEWVlFbENQcWs?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-13T14:21:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "af57cbde264bd66f",
+   "k": "usa",
+   "titel": "Rear Admiral Resigns as Congress’s Top Doctor Amid Probe",
+   "t": "Brian Monahan, der Arzt des US-Kongresses und der Richter am Supreme Court, tritt inmitten einer Untersuchung zurück.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/politics/rear-admiral-resigns-as-congresss-top-doctor-amid-probe-55aba49d?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-13T14:19:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d72634f249039b5b",
+   "k": "welt",
+   "titel": "Ägypten schließt wichtige unabhängige Nachrichtenseite",
+   "t": "Ägypten hat eine wichtige unabhängige Nachrichtenseite geschlossen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/video/video-1683242.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T14:09:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "34f8c050b72746b5",
+   "k": "deutschland",
+   "titel": "Bundeshaushalt für 2027 steht",
+   "t": "Der Bundeshaushalt für 2027 ist beschlossen.",
+   "e": "Der Haushalt legt die finanzpolitischen Prioritäten und den Schuldenkurs des Bundes für das kommende Jahr fest.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/video/video-1683238.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-13T14:07:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "22fe46335a6059a3",
+   "k": "finanzen",
+   "titel": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+   "t": "Die US-Erzeugerpreise sind im Oktober um 0,3 Prozent gestiegen. Auf Jahressicht liegt die Rate bei 6,5 Prozent, dem höchsten Stand seit fast vier Jahren.",
+   "e": "Die Erzeugerpreise gelten als Vorlauf für die Verbraucherpreise und erhöhen den Druck auf die Fed.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-13T14:02:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "17e46764bd083fc4",
+   "k": "welt",
+   "titel": "Indonesiens Vizepräsident tritt zurück – und Prabowo festigt seine Macht",
+   "t": "Indonesiens Vizepräsident Gibran tritt zurück. Damit endet die Allianz zwischen ihm und Präsident Prabowo.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/indonesiens-vizepraesident-tritt-zurueck-und-prabowo-festigt-seine-macht-ld.10062918",
+   "quelle": "NZZ",
+   "zeit": "2026-11-13T13:58:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "80fe20ee6f363475",
+   "k": "nrw",
+   "titel": "Verfügbares Einkommen im Märkischen Kreis 2024 gestiegen - Radio MK",
+   "t": "Das verfügbare Einkommen im Märkischen Kreis ist 2024 gestiegen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORE5PWmduM3VNZ1JuOTViQ3lrZ2hJVmNLbGlhaTE2TUFtMU1fRFBfZDJWRFpNSi1TNUt2THhfY1R3ZTkzTV9fazU5WEY3YV9vVDYxc2dfZUZSVjJPQVA3a2VoTGx1UnctYWJPYWx4QW41SGlwcU9saW9ud0FXQi1wWmV3S2YxeXJ3UnI5bjRCaTMxRUZWRWFDS1RENC1vQQ?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-13T13:27:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "06302f410beb0fb9",
+   "k": "finanzen",
+   "titel": "Rekord: Warum der Dax nach 27.000 Punkten noch Luft nach oben hat",
+   "t": "Der Dax hat die Marke von 27.000 Punkten erreicht. Analysten sehen laut FAZ auf Basis mehrerer Indikatoren weiteres Aufwärtspotenzial.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/dax-ueber-27-000-punkte-wie-weit-kann-der-aufstieg-noch-gehen-accg-201680108.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-13T13:18:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "7495c20ae3172981",
+   "k": "finanzen",
+   "titel": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+   "t": "CFTC-Chef Selig erklärt, die Krypto-Branche akzeptiere die Regeln seiner Behörde, während Gesetzesvorhaben an Hoffnung verlieren. Die Behörde hatte im Oktober Vorschläge zur Krypto-Regulierung vorgelegt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-13T13:15:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "e9d641a379e9076a",
+   "k": "welt",
+   "titel": "LIVE-TICKER - Iran-Krieg: Die USA schiessen offenbar zwei iranische Drohnen auf dem Weg nach Bahrain ab +++ Explosionen an Öltankern in der Strasse von Hormuz",
+   "t": "Im Iran-Krieg sollen die USA zwei iranische Drohnen auf dem Weg nach Bahrain abgeschossen haben. Zugleich werden Explosionen an Öltankern in der Straße von Hormus gemeldet. Trump hat die Waffenruhe Anfang Juli für beendet erklärt.",
+   "e": "Die Lage in der Straße von Hormus berührt den weltweiten Öltransport und damit Energiepreise und Inflation.",
+   "s": 8,
+   "link": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246",
+   "quelle": "NZZ",
+   "zeit": "2026-11-13T13:09:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "1eab4214b756d13e",
+   "k": "nrw",
+   "titel": "IG Metall ruft 2500 Beschäftigte im Märkischen Kreis zu 24-Stunden-Warnstreiks auf - Come-on",
+   "t": "Die IG Metall ruft 2500 Beschäftigte im Märkischen Kreis zu 24-stündigen Warnstreiks auf.",
+   "e": "Die Warnstreiks betreffen Betriebe im Kreisgebiet und können Produktion und Lieferketten in der Region beeinträchtigen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHZzaXpNN3ZINmxwT1FwUnVDMnJSdGptMnhXa19lSWxGM3VCNnZSbkJYeGFQWHVKekdJcHNaa1F1UzRCSXVaaGx0Vnc2ZGx2MVJhd2RuWEZ4Q0hKNVR6dnZ4ajFTazBHTFhUdGFTaFJnTHN4VS1Ic3I3anh3cUxPUnZDNVFBdEdkQ1c4UHNYSzB5ODlPRGRIZXl6bnhqSC1KQkdER3pnd3dTOXoxbDNYbjBLMl95U25UaHQwMWx0XzdkdnNzbVdqTE1R?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-13T13:03:34+00:00",
+   "tag": null
+  },
   {
    "id": "29776199ac1a6429",
    "k": "deutschland",
@@ -166,6 +454,18 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitspolitik-bundestag-beschliesst-weitreichende-geheimdienstreform/100269721.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-13T12:47:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "f23840ea8280de9a",
+   "k": "nrw",
+   "titel": "Deutlicher Raser erwischt: Polizei zieht Bilanz nach Geschwindigkeitskontrollen im Kreisgebiet - meinestadt.de",
+   "t": "Die Polizei hat bei Geschwindigkeitskontrollen im Kreisgebiet einen deutlichen Raser erwischt und eine Bilanz gezogen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxWGZwVE9senFwSlFXTVhySE5iQXRKRXJVWTQzX2VLazFrWWsteFE3ZDhRTHpVOTNUTDdzdlphTlFXQjBpcFA1WXBQVEVuMS1vaWoxSS1EZTctS3NxRW9fcmFVcTFXb0c5ZGlPTGpxZnBjTjdlTEpJRWxZQy1Cc1k?oc=5",
+   "quelle": "meinestadt.de",
+   "zeit": "2026-11-13T12:45:11+00:00",
    "tag": null
   },
   {
@@ -262,6 +562,18 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3J0dGZDT3NHWkhNbUhuOHJ6clltQ2QyN3JPZFBsOXowY1p2LVF5SGhQSXBzU1FRdHAzV0I4N1A2eURCSHBRNkpfOUlwS3BtQmctUjY0V1VnbGRadVJkeTJQUDhJZnhVS3pHQzRoWkpqN2NZcWNrSGszZUQtZ0k1WWVtYlFqNDVRZnc0UUV6NHpiZmdjeWV5NWlFUk5ZMk9QNlNqbzNnTk9UQnFyaHpuSjZUeDVEc0IxLU1ISmpybUZJb09HQUJYQlpZWQ?oc=5",
    "quelle": "FinanzNachrichten.de",
    "zeit": "2026-11-13T12:22:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0dfe32e002090f8c",
+   "k": "finanzen",
+   "titel": "„Huang war nach 30 Jahren noch immer im Founder-Mode“",
+   "t": "Nvidia-Chef Jensen Huang tritt nach Affären als Konzernchef zurück. Der Konzern verliert nach Berichten rund 600 Milliarden Dollar an Börsenwert.",
+   "e": "Der Abgang trifft den bislang wertvollsten KI-Chiphersteller in einer Phase, in der der Markt stark auf KI-Investitionen setzt.",
+   "s": 8,
+   "link": "https://www.welt.de/wirtschaft/video6af700759849eea0701e18f3/nvidia-beben-huang-war-nach-30-jahren-noch-immer-im-founder-mode.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-13T12:21:40+00:00",
    "tag": null
   },
   {
@@ -373,6 +685,18 @@
    "tag": null
   },
   {
+   "id": "584c7683756d78b5",
+   "k": "finanzen",
+   "titel": "Schwarzer Freitag für Microsoft – Diese Kettenreaktion legt die Bürowelt lahm",
+   "t": "Ein stundenlanger Ausfall bei Microsoft legt Teile der Bürowelt lahm, darunter Kliniken und Behörden. Die Microsoft-Aktie gibt nach.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af6dfc884c7128d8f27dee0/microsoft-ausfall-diese-kettenreaktion-legt-die-buerowelt-lahm.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-13T11:06:06+00:00",
+   "tag": null
+  },
+  {
    "id": "bd61edae8f09adf6",
    "k": "finanzen",
    "titel": "Federal Reserve rate hike expectations strengthen as U.S. inflation runs above forecasts - Traders Union",
@@ -469,6 +793,18 @@
    "tag": null
   },
   {
+   "id": "81ba587bee3c8b53",
+   "k": "deutschland",
+   "titel": "Bundesregierung plant Einstieg bei Atomkonzern Urenco für bis zu vier Milliarden Euro",
+   "t": "Die Bundesregierung plant laut Medienberichten, sich mit bis zu vier Milliarden Euro an dem Atomkonzern Urenco zu beteiligen. Die Begründung sind geostrategische Gründe.",
+   "e": "Eine Staatsbeteiligung an einem Anbieter der Urananreicherung betrifft die Versorgungssicherheit Europas bei Kernbrennstoff.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/video6af6dda65a72dceba1d61301/geostrategische-gruende-bundesregierung-plant-einstieg-bei-atomkonzern-urenco-fuer-bis-zu-vier-milliarden-euro.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-13T10:13:03+00:00",
+   "tag": null
+  },
+  {
    "id": "752bb026778e761a",
    "k": "usa",
    "titel": "Vance suchte Frieden mit dem Iran – dann pfeift Trump ihn öffentlich zurück – „Haben ihre Meerenge“ - Frankfurter Rundschau",
@@ -490,6 +826,18 @@
    "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
    "quelle": "CNBC",
    "zeit": "2026-11-13T10:00:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "f4ae5caea07699c1",
+   "k": "finanzen",
+   "titel": "Fed’s Barr says US should prepare for ‘serious’ AI job disruption, widening inequality - Jefferson City News Tribune",
+   "t": "Fed-Gouverneur Barr warnt, die USA sollten sich auf eine ernsthafte Störung des Arbeitsmarkts durch KI und wachsende Ungleichheit vorbereiten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUZiVV9yVUhadVk5UWNNaWVBdWJBLWdQSm5KV0VPYlAyUG4wdnV6Nm5iTXdXVkNrMThxVUV0UEQwd2tYRVJKUDNSOWxtZ25lREZsSkJpWDViUmZiM3Rwem9Ub0xHQkhFNzBoWkI3SlY0UFNfX2h6cmtob1dDRjJiSk9fNjdUVmN1LUQ0Y2hYcTlGV2JCTDN3?oc=5",
+   "quelle": "Jefferson City News Tribune",
+   "zeit": "2026-11-13T10:00:00+00:00",
    "tag": null
   },
   {
@@ -2735,354 +3083,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-12T16:38:38+00:00",
    "tag": null
-  },
-  {
-   "id": "57ab4651551494ea",
-   "k": "deutschland",
-   "titel": "„Streit eskaliert völlig“ – Migrantische Banden gehen aufeinander los",
-   "t": "Nach einem Auto, das in Ronnenberg in eine Menschengruppe gefahren ist, wurde ein Tatverdächtiger festgenommen. In Tuttlingen ermittelt die Polizei nach einer Auseinandersetzung zwischen Jugendgruppen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/videos/video6af5df6ec45061d752ba8a53/jugendkriminalitaet-streit-eskaliert-voellig-migrantische-banden-gehen-aufeinander-los.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-12T16:38:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "58d12aa3cb29106b",
-   "k": "finanzen",
-   "titel": "Fed's Barr: US Must Prepare for 'Serious' AI Job Disruption - Newsmax",
-   "t": "Fed-Vorstand Barr warnt, dass die USA sich auf erhebliche Störungen des Arbeitsmarkts durch KI vorbereiten müssen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnJwNDlyNThIMjNCOGpWazZ3aXUwckU4Q2N1VUh2dlhLM3lsWFNlZWlJU0NrcFAzeVAtTEllc0FuOE8tNUh3ZXQ4LVJFQ2lWMGVJdTVjU3p2akdfYTJoSFpMOVB0SXEySVNtamZxOUU0VGViMm1xS3pkeU51N3NGSTNBeFgyQ0sydGdyb1E1WTBZQXpjZFVZUXF6QVdpZw?oc=5",
-   "quelle": "Newsmax",
-   "zeit": "2026-11-12T16:35:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "45bb3377d69241f8",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Verdächtiger nach Unfall mit getöteter 14-Jähriger festgenommen - STERN.de",
-   "t": "In Nordrhein-Westfalen wurde ein Verdächtiger nach einem Unfall festgenommen, bei dem eine 14-Jährige getötet wurde.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVqdTlXcGdTZ2Z3TUJ2OGVDdGQwc1ZzS2RtY085TndWZW5JVGIyTGtUb3kwMEJhODQ0bEc3NmMwaG44RzJLV3FFYnItVUxwaW5WaWlfMTJocm9CcHFMZGRua1JiNUZtbXFXb1pzQXowX3lPSUFLa25HTVVaQlBwM1VZMXdwQm1MZHV1M2xsQTZ2QnE5c2xXWDhEbUtsdHduQmZnQzZsQlhmY3FZdEhGZmdGX0l5WFUtOUFycGJMb3FDX2h5TXc?oc=5",
-   "quelle": "STERN.de",
-   "zeit": "2026-11-12T16:33:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf15e99f6477f4c2",
-   "k": "nrw",
-   "titel": "Baustelle in Iserlohn wandert weiter: Wo die Grüner Talstraße jetzt gesperrt ist - IKZ-Online",
-   "t": "In Iserlohn wandert eine Baustelle weiter, die Grüner Talstraße ist nun an einer neuen Stelle gesperrt.",
-   "e": "Die Sperrung betrifft den Verkehr im Iserlohner Stadtgebiet direkt, Umleitungen sind zu beachten.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1RPTWVQSHFLb1pXMUVjZ29ITWh6Z0VwSzNqTlhaSnRMemFQWlA1azF2b1pEWmVrdlJLd0RtQVhTMVoxSXVQY0hKaUQzV3c2S2VHemhaNjNCeGFlNUdrUkNrRzRuYmFSUHRXMU9GUmJFaGZyaXJhbnRtYm9wZEJ3QkRac2owWm8wLW1vMHpRTTZEZVg2REMxSjJqa21iMDZ4Z0NzQWRrNk1CSzZ0alVTbUV6RlZjR1FfX0hmcjhOVldILXloQVF0UWxjb2dKR3hEemZUaVpUaVJGQnlCOTln?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-12T16:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f72773c2cbdc12f4",
-   "k": "welt",
-   "titel": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-   "t": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat Putin seinen Anspruch auf ukrainische Gebiete erneuert. Zugleich ist eine mögliche Beteiligung Europas an den Friedensgesprächen im Gespräch.",
-   "e": "Die Gespräche zeigen, dass Russland bei den Gebietsfragen weiter hart bleibt, und die Rolle Europas wird dabei zum offenen Punkt.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T16:29:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "150cfd4a7e84c2b1",
-   "k": "welt",
-   "titel": "Droht ein Schweizer «Shutdown»? Eine unheilige Allianz im Nationalrat stellt sich gegen das Budget 2027 des Bundesrates",
-   "t": "In der Schweiz stellt sich eine Mehrheit im Nationalrat gegen den Budgetvorschlag 2027 des Bundesrates, obwohl die Finanzkommission Mehrausgaben von 241 Millionen Franken beschlossen hat.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/droht-ein-schweizer-shutdown-eine-unheilige-allianz-im-nationalrat-stellt-sich-gegen-das-budget-2027-des-bundesrates-ld.10060912",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T16:27:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "c45cafc033ce0fe9",
-   "k": "welt",
-   "titel": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
-   "t": "Das spanische Übergangsparlament hat mit einer Stimme Mehrheit Maßnahmen für mehr Mieterschutz beschlossen. Die konservative PP will das Dekret wieder kippen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T16:21:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "d87f1d3d66a44517",
-   "k": "deutschland",
-   "titel": "Kompromiss im Haushalt 2027 sorgt für Kritik aus der Union",
-   "t": "Der Kompromiss zum Haushalt 2027 stößt in der Union auf Kritik. Mehrere Politiker werfen der Koalition vor, Zugeständnisse zu machen.",
-   "e": "Der Haushalt 2027 bestimmt, wie stark Steuern, Ausgaben und Schulden in den kommenden Jahren steigen.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1682704.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-12T16:20:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "f45a9ea1525d0850",
-   "k": "finanzen",
-   "titel": "Stabilitätsbericht: Eine neue Finanzkrise? Die Bundesbank schließt das nicht aus",
-   "t": "Die Bundesbank schließt in ihrem Stabilitätsbericht eine neue Finanzkrise nicht aus. Sie verweist auf hohe Staatsschulden, Unwägbarkeiten bei KI-Aktien und wieder zunehmende Baufinanzierungen zu 100 Prozent und mehr.",
-   "e": "Die Bundesbank sieht gleich mehrere Risiken gleichzeitig, was für Zinsen, Staatsfinanzen und Immobilienfinanzierung in Deutschland relevant ist.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bundesbank-warnt-michael-theurer-schliesst-neue-finanzkrise-nicht-aus-201676901.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-12T16:19:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "ec204bc9a60365ba",
-   "k": "deutschland",
-   "titel": "Ukraine-Krieg: Merz fordert Ukraine-Hilfen von allen EU-Mitgliedsstaaten",
-   "t": "Bundeskanzler Merz erklärt die Ukraine-Unterstützung zur gemeinsamen europäischen Aufgabe und fordert Beiträge aller EU-Staaten. Ziel ist, die Finanzierungslücke für 2027 zu schließen.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/video/politik/ukraine-krieg-merz-fordert-ukraine-hilfen-von-allen-eu-mitgliedsstaaten/100269501.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T16:17:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "69c56d962d4546cf",
-   "k": "deutschland",
-   "titel": "Streit um Namensrechte: Klage gegen Helmut-Kohl-Stiftung: Kohl-Witwe verliert",
-   "t": "Die Witwe von Helmut Kohl verliert vor Gericht ihre Klage gegen die Nutzung des Namens durch die Helmut-Kohl-Stiftung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/streit-um-namensrechte-klage-gegen-helmut-kohl-stiftung-kohl-witwe-verliert/100269507.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T16:15:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "67315c49cf81dd2c",
-   "k": "finanzen",
-   "titel": "Analyse: 14 Unternehmen vor Rekordgewinnen: Dax-Konzerne fangen den Einbruch der drei Autobauer auf",
-   "t": "14 Dax-Konzerne erwarten Rekordgewinne und gleichen den Einbruch der drei Autobauer aus. In den ersten drei Quartalen lag das Gewinnplus bei neun Prozent.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/management/dax-37-konzerne-fangen-den-einbruch-der-drei-autobauer-auf/100266156.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-12T16:15:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "cc443ad338d1999e",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Söldner nach vereitelter Entführung vor Gericht - n-tv.de",
-   "t": "In Nordrhein-Westfalen steht ein Söldner nach einer vereitelten Entführung vor Gericht.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUk3MjZjWkJueE43TGc0ZEVac2NhTk5uU3JyMnlmQUpERUNCY0dwN1Jic2pMNXNITGNSSXNJR0hTVUpjZ3ptNFBVOHlXZnNOMmF1MVdMXzloRElMVEIweVZvZk45amN6UkxqTzU1RXo0Y2h6V01UcDNBeVR3RERFdnE4VDRqYVBuZjJzS2ZTeUhjbmVUWmQ5VXN2RjU5YmdxLVhMamMwV21za1k3dGJEdHIxV1BlMGc?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-12T16:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "894067f1c8c2b099",
-   "k": "finanzen",
-   "titel": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
-   "t": "Die Hausverkäufe in den USA sind im Oktober auf den niedrigsten Stand seit 16 Jahren gefallen, während die Preise auf ein Rekordhoch stiegen. Hypothekenzinsen von rund 7 Prozent halten Käufer zurück.",
-   "e": "Die hohen Zinsen belasten den US-Immobilienmarkt deutlich und zeigen, wie stark Zinsniveau und Konjunktur zusammenhängen.",
-   "s": 6,
-   "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-12T15:52:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "14323de2d5be5f7a",
-   "k": "finanzen",
-   "titel": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-   "t": "Bitcoin ist auf rund 71.000 US-Dollar gefallen, den tiefsten Stand seit dem 20. August. Parallel gerieten Technologiewerte nach dem Rücktritt von Nvidia-Chef Huang unter Druck.",
-   "e": "Krypto reagiert derzeit stark auf die Stimmung an den Techmärkten, wodurch Bitcoin und KI-Aktien enger verbunden wirken.",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-12T15:46:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "aa660a0dd1d21792",
-   "k": "nrw",
-   "titel": "B56: Einmündung Adenauerstraße/Westring in Jülich wegen Radwegarbeiten ab 23.11. gesperrt - Landesbetrieb Straßenbau Nordrhein-Westfalen | Straßen.NRW",
-   "t": "In Jülich ist die Einmündung Adenauerstraße/Westring der B56 ab dem 23.11. wegen Radwegarbeiten gesperrt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVBqNTRieGN2WElETE5SLW1tRV84QXk4NkRVanYtaE1MbG1XdkV1Vl9yeGg1eEx5YzdhODRCSEpVdWdrbTBuU0RaSzR0bXlXb2F6QUxtVHV0czd1N21mOHpNQThBaS0yRHh6bkRyRWNMeWZxUV9xZ0kzMHY0UExKN1pyNXJYYUxpVHRrX1JTMU9raHcwNjEwRFNVMnVUWHdmRzdpN1pHSGdOaFRFMEtwcV9jakx6S1lwamlLSS03alQ3QlpiUnBsaFptcm5wTFU?oc=5",
-   "quelle": "Landesbetrieb Straßenbau Nordrhein-Westfalen | Straßen.NRW",
-   "zeit": "2026-11-12T15:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "57ca70a6091bfe99",
-   "k": "finanzen",
-   "titel": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-   "t": "Die DTCC nimmt Solana in ihre Pläne zur Tokenisierung von Wertpapieren auf. Der Rollout ist für 2027 vorgesehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-12T15:45:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "d5afe7c6d2502025",
-   "k": "finanzen",
-   "titel": "Gold Slumps 3% Below $3,900: What Is Causing the Continued Decline in Gold Prices? - TradingKey",
-   "t": "Der Goldpreis ist um rund 3 Prozent unter 3.900 US-Dollar gefallen. Als Gründe werden anhaltender Druck durch die Zinspolitik der US-Notenbank genannt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUxMamcxTS1KSFRiUXduM1FwQ3dCUDFJcEE2RGNfbGJmc2dqbXk1YVA3UGQ0eWxIQWlMYm5HWjNRSE1uMW82WjVZQXByZkNRUVhOOVVwNjJPejJILXVOYVhNZDlVd0pGc0tzMjFkdTY4X1E4OHZWbHE3dTJqY2ZrLWoyYnRPR3dlTERDX3Zjd2NsaWV0VVpjcUFNVGpPV1FxUHhTVlRmNUQyYlIzNFYxQ1lvMG04SzJrQmdNUnducVZlbGh1di1YSWhtLUJZUQ?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-12T15:43:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "0959e5dd28825ce3",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gefallen - EZB-Referenzkurs: 1,1081 US-Dollar - Yahoo Finanzen Deutschland",
-   "t": "Der Euro ist gefallen, der EZB-Referenzkurs liegt bei 1,1081 US-Dollar.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXFyYnlHZVcwTDFMVjdrSjkwemt0VmtLdnNxM25WanhoSXhHZjYyQ3g0S1lzc1R6SV9VckJaT0xEZjBpb0hxQjBIZ05jQnF2bW5aWFoxU045aUtmTHk1YTUtRDdFQnY1aDJ0eU00YURKOHJWN1p1SWZBM2x1UGJRMU5CZXZ6VHNpSHhPQnl0UmJOdXlJdUdMM25ZOWVNcWM?oc=5",
-   "quelle": "Yahoo Finanzen Deutschland",
-   "zeit": "2026-11-12T15:43:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f7e5a99f3de515b",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gefallen - EZB-Referenzkurs: 1,1081 US-Dollar - 12.11.26 - News - Ariva",
-   "t": "Der EZB-Referenzkurs für den Euro liegt am 12. November 2026 bei 1,1081 US-Dollar, der Euro hat gegenüber dem Vortag nachgegeben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnBGTnZpdTNvdjh5X25lTzZDLUt0WVpvY0YySzZtc1J6a3BWaGVRYmlwbnVVVmpDaVlDbDN3SS13VUFuU2pjckdTOFI2Z0xVX1ZNMkhFVVIxWFYxY1pXSTZHaGFjNmZUaWh0aTFYM2RxcnFoWF9Mam4xbzdJRHN3cHRlTnlDUVZhZDhCTA?oc=5",
-   "quelle": "Ariva",
-   "zeit": "2026-11-12T15:43:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "39f640d3601d5650",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Von Gelsenkirchen bis Oberhausen: Kilometerlanger Ölfilm auf der Emscher - tagesschau.de",
-   "t": "Auf der Emscher zwischen Gelsenkirchen und Oberhausen ist ein kilometerlanger Ölfilm entdeckt worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaFFDWWRVay1Ib3AyTUh5dXdHZXpfNW13cmZsLXE5WEE1YVJMbUc3MlluWkxMZXdFV1VJUkZCSzYzaXBpMUxvVnZXdTR2Ym9kZkhSZ1JxWDI1aWVoSHZlbGd5VHMzMFh0YklhS01VdkZLM3h5b0dSMXFETlRONXRocGlpczhfWWh5M0RCVHFxTGRZMVJfRnRiMHQ2QnpyRV9xUWRYSktzRGx6WjJMUGFacktkVTl5eno3a3JqdWtDSFZCNHJHZGRqY2tjc2tydFlBMzlkN004WjBtdXh4MlFR?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-12T15:41:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5461590f7a566f87",
-   "k": "welt",
-   "titel": "LIVE-TICKER - Krieg in der Ukraine: Grossbritanniens Premier Andy Burnham kündigt neue Sanktionen gegen Russland an",
-   "t": "Der britische Premierminister kündigt neue Sanktionen gegen Russland an. Die Ukraine-Berichterstattung läuft als Live-Ticker weiter.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T15:39:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "fed22ecf1b0547a6",
-   "k": "deutschland",
-   "titel": "Ukraine-Kredit: Wieder prescht Merz ohne Absprache vor",
-   "t": "Bundeskanzler Merz setzt vier EU-Länder unter Druck, sich fair an der Ukrainehilfe zu beteiligen. Diese lehnen ab, auch befreundete Staaten äußern Zweifel am Vorgehen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/eu-ukraine-hilfe-wieder-prescht-merz-ohne-absprache-vor-201675866.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-12T15:38:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf26c3932af7b619",
-   "k": "finanzen",
-   "titel": "Cleveland-Fed-Chefin Hammack will weitere Zinserhöhungen – KI-Boom treibt Inflation - Investing.com Deutsch",
-   "t": "Cleveland-Fed-Chefin Loretta Mester-Nachfolgerin Hammack spricht sich für weitere Zinserhöhungen aus und sieht den KI-Boom als Inflationstreiber.",
-   "e": "Die Forderung nach weiteren Zinsschritten verstärkt die Erwartung, dass die Fed die Zinsen länger hoch halten könnte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaDZfbzBRSFhYWVhJWlZLQU1BM19nV2N1c3BDeEZSRmtxSDVyZHRvRkYyYmU3SkRUQlI1cWc0M05UYlVuTThlS2NUb0xUd2tRNzhzVTJRdmlMZURyUjJkUi1ubVMzZFBFbnpCY3BCLWs4OWVSd3ZqWVY0QzdldlV1ZWpQT3luX25PQTRhUmNfZmZfZ2hmZTAzN0x6S0tMaVRWcnRXNXFudS1KeGphY3R4bUNqU3Y0bVJDcUFkUUQ5MEpZY3Z1YWgwYllmQUlsVWZBRlhSQlJJaGhvekZSSHR4ZDlHdVA?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-12T15:37:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "66647ff2c6431c42",
-   "k": "nrw",
-   "titel": "Altena: Dauerbaustelle auf der Dahler Straße in Evingsen ab kommende Woche Montag - News.de",
-   "t": "In Altena-Evingsen wird die Dahler Straße ab kommenden Montag wieder Dauerbaustelle sein.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNekI0dmVPT1pxSHF2MEE0cDh6MGstb2JwSTQ3bDVKd0hBV0lYSXNOSDdXZ2duUHZwM0VuNzVTQzU0SFA1T0wyYW1RX3c3MERxeTJmdndpMV9xNkFEVVphRlhxaUlMNWhvZWtpOWxYUFpmSmJBb0xnTXVfa0hqVXZadjlkUWJPSmJqS1BSd2Q3Tzl2bVlua3BOTG1lOFkzZWM2MnJuT0hxVUVuc0lLZzRxVHNLa2dlY1RHQzN3MzE3UTI5WWtDUFZScTFZMjZ5WGdfNEkzZmRXRWc3dGIwLXFJWU9iaS1rUjg1NUhnb3RsazlWZG12Z2lIczcxTkc5VU5RRDlrdWFwN1VJbFphTF8ydGhzc200bDZHeWRCaUxkQzV4N21RMVdjd0RGQ014WkhCMXZQbFA2Ml9oc3YzdzRZelNIU0VCLUtMdS0xTW9jclRvUHEtcG55Tnl3?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-12T15:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a66ccf51d319058",
-   "k": "nrw",
-   "titel": "Altena: Dauerbaustelle auf der Dahler Straße in Evingsen ab nächste Woche Montag - News.de",
-   "t": "In Altena-Evingsen ist ab kommenden Montag eine Dauerbaustelle auf der Dahler Straße geplant.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNRG45M0g5anktcUQ3UkppZjB3NjItQjk2QXloQUtLZUZ1ZFpCMkZiWGJXLVhBMXFlNlVCMHY5Q1hEYnJhY2FZZGlLUDRob0l4UEN5SUQxdFRqdE5JUGtfVlo3NUE4ODN1eXhkNHdmd3MtaTZUT0k0WDlaaHVvMFNlNW5SSTdWeHZlY3FHM1hhODJtRFNlSHBaeUpKNWh5Y3FhMGpRZ1dvcUp3TVF0dkIzWUNTZ281Ym5CdTZkc3NoMVlkWVFhNWE5aC1LTEJhVTdPejY1TndMZExmNHpBTmtYQ204d0VzbDItcGV2LUNmVTc4ZnY2SnJ1YzVhWmRKVGJiVV9OVmluTGJFaGgzRE5aUGhBMmZuUHpjX093ZE1qaXlIQ2xjX09xZ05icDZwdHVjYnRHMHhCZzIzUXZ6eHItVDhqSVhtSnlpNlFFREhzQlptVk5PdzBDNQ?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-12T15:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "51828045293b1578",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Fünfeinhalb Jahre Haft für Betrug von Versicherungskunden - n-tv.de",
-   "t": "Ein Betrüger, der Versicherungskunden geschädigt hat, wurde zu fünfeinhalb Jahren Haft verurteilt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWlUSlZZYnJNa3dUM2ZsU2ZHbDFiNEozSWJsdmZ0ZGtFNkY2MWtmVHJRa2x3RE9PMXcwWEtGN1JrRVdSWllsa1Z5SEJPSkk0SXhYTFBxMkxUbl8wbVBOdzdyZGFYaTdodzJ3Q0tQWGNjbm1tWDcwbjZtODA3RXRYclNISGEtU1k2WFRyeG9XNzZRb1hKSkhTc0I2bl9MSG52NkZ1OXFGVjJYM2ZyY3dwb2NzTFQ5dkx5VUlocUIwczFVMEZi?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-12T15:34:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b0957d5a122c2ca0",
-   "k": "welt",
-   "titel": "«Roboter statt Einwanderer»: Nun tritt auch Éric Zemmour bei der französischen Präsidentschaftswahl an – mit einem eigenwilligen Programm",
-   "t": "Der französische Publizist Éric Zemmour tritt erneut bei der Präsidentschaftswahl an und setzt auf ein Programm mit Robotern statt Einwanderung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/roboter-statt-einwanderer-nun-tritt-auch-eric-zemmour-bei-der-franzoesischen-praesidentschaftswahl-an-mit-einem-eigenwilligen-programm-ld.10061165",
-   "quelle": "NZZ",
-   "zeit": "2026-11-12T15:30:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "e28dfa7391f73cd0",
-   "k": "finanzen",
-   "titel": "Fed's Hammack signals support for gradual rate-hike path - Reuters",
-   "t": "Fed-Vertreter Hammack signalisiert Unterstützung für einen schrittweisen Pfad weiterer Zinserhöhungen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWi1FbTBFZzFKNzU2S1UweWQ3Vk56U2NXRlRhbHgwSVdYN3NiOEhvOXgxOFh6ckNVbXZabEtCeVNDZzZIYkNud0N0OXd0dV9UY2dCdlpDQkZhX0VER2xpZ2xISmFIUUZIdEQzMDYxQ2s1Mkg5cW9LVWVwQ3d2QXl1dktYMHlpcDZoNHYwYmh1WHZWSDFneWgzeHZlbVc3cG8?oc=5",
-   "quelle": "Reuters",
-   "zeit": "2026-11-12T15:28:30+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,17 +3090,17 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3120,12 +3120,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "NZZ",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 35
+    "n": 38
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 21
    },
    {
     "name": "Google News Fed",
