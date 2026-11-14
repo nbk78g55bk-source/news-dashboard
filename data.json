@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T01:01:10.860304+00:00",
+ "aktualisiert": "2026-11-14T03:01:11.114210+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "68.292 $",
-   "delta": -3.9031544559156623
+   "wert": "67.611 $",
+   "delta": -3.672306964564721
   },
   {
    "name": "Ethereum",
-   "wert": "1.931 $",
-   "delta": -3.910831993346395
+   "wert": "1.910 $",
+   "delta": -3.986700386583495
   },
   {
    "name": "Gold",
@@ -84,6 +84,54 @@
   ]
  },
  "items": [
+  {
+   "id": "745e0f35945b7a56",
+   "k": "usa",
+   "titel": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+   "t": "Die US-Luftfahrtbehörde FAA hat das landesweite Startverbot nach mehreren Stunden wieder aufgehoben. Laut Verkehrsminister Duffy waren überlastete Kommunikationssysteme die Ursache.",
+   "e": "Die Aufhebung ist eine wesentliche Neuigkeit zum bereits gemeldeten Flugstopp; die Ursache ist laut Regierung veraltete Technik, die Untersuchung läuft weiter.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T02:36:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "9d3ff51f4af3c92b",
+   "k": "usa",
+   "titel": "California Voters Pass Ban on Wealth Taxes",
+   "t": "Wählerinnen und Wähler in Kalifornien haben ein Verbot von Vermögenssteuern per Volksabstimmung beschlossen. Die Initiative wurde von Milliardären finanziert, nachdem eine bekannte Milliardärssteuer gescheitert war.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-14T02:03:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e160a0ac6cd6355f",
+   "k": "welt",
+   "titel": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
+   "t": "Ein Bericht des Wall Street Journal beschreibt, dass Peking mit einem groß angelegten Geheimdienstapparat die eigene Technologiebranche stützt. US-Beamte sorgen sich, dass Nvidia-Chef Jensen Huang darin verstrickt sein könnte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-14T02:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0c6fe073d55cbe01",
+   "k": "welt",
+   "titel": "Weißes Haus kündigt historisches Dreiertreffen Trumps mit Xi und Putin an",
+   "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi und Putin angekündigt, das in der kommenden Woche in Shenzhen stattfinden soll. Trump will dabei offenbar auch über eine mögliche Reduzierung der weltweiten Atomwaffenbestände sprechen.",
+   "e": "Es wäre das erste Treffen dieser drei Staatschefs und würde bisher nur bilateral geführte Gespräche zwischen den Atommächten ergänzen.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/article6af7b9d79849eea0701e248e/usa-china-russland-weisses-haus-kuendigt-historisches-dreiertreffen-trumps-mit-xi-und-putin-an.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T01:58:16+00:00",
+   "tag": null
+  },
   {
    "id": "3178b0a1171cc1d1",
    "k": "welt",
@@ -1054,6 +1102,18 @@
    "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/27982126.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-13T18:08:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "106906ffb5d385fd",
+   "k": "finanzen",
+   "titel": "Dow-Jones-Futures fallen angesichts von Zinserhöhungsängsten vor der Fed und einer Führungsumbesetzung bei Nvidia, Erzeugerpreisdaten im Fokus - www.tmgm.com",
+   "t": "Die Dow-Jones-Futures geben nach, weil Anleger Zinserhöhungen der Fed fürchten. Zudem gibt es eine Führungsumbesetzung bei Nvidia; im Fokus stehen die Erzeugerpreisdaten.",
+   "e": "Steigende Erzeugerpreise erhöhen den Druck auf die Fed, die Zinsen trotz der Marktunruhe höher zu halten.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVVIU1hSRW1sZl9PYy1CSk9IN21VMG9DempPcGNCZDQzQnc5LXljMTluYl9DTkNNRm5EcXlycFZxYkM2S3Y0RGFDZHBlZ2JXNTN4VDRKWDRqcWxsanJOUlQ0NEQ0eFpCTHM4eW1TMEpzWTdaX0phVUZaYWFlNlJzTFJWY3pvLTd4RzlXZTdHVzkybmpPdHBIdzZfUk83Q2NaN20wU0xRSUtsMktMTTJXVWFRZnJTTjJhMTFPdDBXR1gzZi1fbnVyMXZCVHVad3MzeUM3c1hob2hkX0Rta0hXV3NnVnltZG8x?oc=5",
+   "quelle": "www.tmgm.com",
+   "zeit": "2026-11-13T18:02:39+00:00",
    "tag": null
   },
   {
@@ -2185,6 +2245,18 @@
    "tag": null
   },
   {
+   "id": "07923b3ac6c0c595",
+   "k": "finanzen",
+   "titel": "US-Finanzminister: Fed sollte Zinsen nicht zu stark anheben - MarketScreener Deutschland",
+   "t": "US-Finanzminister äußert sich, die Federal Reserve solle die Zinsen nicht zu stark anheben.",
+   "e": "Die Aussage zeigt die politische Spannung zwischen Zinsfolgen für die Konjunktur und dem Kampf gegen die Inflation, die derzeit durch steigende Erzeugerpreise angeheizt wird.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmloWFl0TG1ERkJnb0hacUVFbExydFFhVU1VNUpYV3RIaFJ0UDJaWWRIa0F1Sll0UTk5T1F6eHlKRkdkak5PdzhzdVota3VTQzhQcHZmNzJydm51OERNaUdaYnE4a1Q4NnlyX2xBYm1hMWlCdFpYMUFBYWJFMV9aTm9jeDdhbEFMc3NBcG9mQVRRQnRtdDNaSnFjTTBlMmJIeXhTTXFONGlEZ0JpV3U3NWNodURVR2QySEg4OFNzNWRmdw?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-13T13:29:24+00:00",
+   "tag": null
+  },
+  {
    "id": "80fe20ee6f363475",
    "k": "nrw",
    "titel": "Verfügbares Einkommen im Märkischen Kreis 2024 gestiegen - Radio MK",
@@ -3011,78 +3083,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-13T07:52:00+00:00",
    "tag": null
-  },
-  {
-   "id": "8f50f6499154a425",
-   "k": "finanzen",
-   "titel": "Verfassungsgericht weist Klagen gegen EZB-Anleihekäufe ab | Recht | 13.11.2026 - FONDS professionell",
-   "t": "Das Bundesverfassungsgericht weist Klagen gegen die Anleihekäufe der EZB ab.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFlZNjFmeFpKRTNwZmZ4ODV1LWpWR1hGSlpHdXREWjNvMVBFbUVuZGFoVUhXOUFrOVIxZFg1bTJwTUgzZjdCaDNtbkV3YXhZeF9wbFRhcU5zWWdsRlRtcWJwMzE2Q3dyNWViSlA4ZVNkU0IzbFFmX3pyNm1XQ0xvVjZkbEFiZVlLVEdmamJjcFJZRURHcVEyZmkzSHJpNVBPb3FPaVFTejF0bUV5TG1Xb2lDTkp2SWR6cFl6NA?oc=5",
-   "quelle": "FONDS professionell",
-   "zeit": "2026-11-13T07:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4b0c034b83f3fe3",
-   "k": "finanzen",
-   "titel": "Gemeinschaftsaktion: So wollen Banken es Betrügern schwerer machen",
-   "t": "Sparkassen, Deutsche Bank und Commerzbank gründen ein Gemeinschaftsunternehmen, um Betrug bei Datenweitergabe und Geldanlage zu erschweren.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/deutsche-bank-commerzbank-und-sparkassen-bekaempfen-gemeinsam-betrug-accg-201672426.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-13T07:49:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "4af6df0d0f7e229d",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Kreis Soest hat den höchsten und Köln den niedrigsten Anteil alkoholbedingter Behandlungsfälle bei Jugendlichen in NRW - tixio - Nachrichten",
-   "t": "Im Kreis Soest ist der Anteil alkoholbedingter Behandlungsfälle bei Jugendlichen in NRW am höchsten, in Köln am niedrigsten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORG41S3VkRUZ1Uy1EeDdxMFNxTHlkRURtYXRINWp2UHZiTkpLZS1HUFlXaU9sLTVlZ2hTd0VTWndxZ0cxU0VoNU05bDBUazNZS1NqZmZOODdVM0VMeXRwVVU2dld3NF9ZUTY3MHVJa3htMmN1YWZVSGJ5QmhuRlk1dlRXLWQ0cGVaZm51eUt2c01DZExDUWJpZTBZTnVSZmc3akJaMXlsMzRWMWhYc3A1QlowN1RmMEM2TWpRRXpNaGhsdEFEX2VCSVlEOFI3VzBnMjUtSU9NYXB4WjhlcUpjSVM4OFdxMjZQaV9F?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-13T07:48:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "6f40ff0b334d40aa",
-   "k": "deutschland",
-   "titel": "Deutschland Liveblog: Haßelmann wirft Merz Wortbruch vor",
-   "t": "Die Grünen-Fraktionsvorsitzende Haßelmann wirft Kanzler Merz Wortbruch beim Haushaltsentwurf vor. Der Umweltminister lässt eine Verlängerung des Tankrabatts offen. Eine Synagoge wurde nach dem Fund eines verdächtigen Briefs geräumt.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hasselmann-wirft-merz-wortbruch-vor-faz-110093143.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-13T07:34:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "108fb08f6fd4c6f2",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Mordverdächtiger hätte Deutschland verlassen müssen - n-tv.de",
-   "t": "Ein mutmaßlicher Mörder in Nordrhein-Westfalen hätte laut Bericht bereits Deutschland verlassen müssen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDgybjNZM1NtVlhGVks3b1ZYekZ2eDkwSVBfb2Y0MFdta1k2aDBDdXVuLWh5Z2t1d1VjS0lKU2YyY3lFdHZRRm1GS3BWV0ZMcTBXdGFQSWdDaDZlOV81WWJYdmQ5dmJiWG9fQS1HSEJNdkZ2Q0lRb1M0Q0ZNWTQ5amFZMENQck1OUWh0TDlnRTUtQ3U5cVBvSk16UXJxVEZlN2MxdksyVW1ONC1fd2ZhT1ZRNy1wSGQ1TF96NUdn?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-13T07:34:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0a2910d92abcf719",
-   "k": "usa",
-   "titel": "Donald Trump über Jensen Huang: US-Präsident bricht sein Schweigen nach Telefonat zu Affären-Skandal - News.de",
-   "t": "US-Präsident Trump hat sich nach einem Telefonat öffentlich zur Affäre um Jensen Huang geäußert.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckl4bkdCRUZ0dDk4Zk9zSnZqUkpmX1dScXU3TVVCaW1Mb04tNVBxSG53amVCNDVQbUZJOUZxZVg5T3lzb2tXX3AwODg3QnVNVEQwMUVkVlFYUkdoblJ2aUlpdXhLYnNmZUxlaXdvQ1BPeGxRTEI2d29vNmduZ3JLR0Z6R0ZTbDhjX1lURjZrSkIwalU0SlFqMHJCVHZyUzk5QXlsNWlYZGFNMzJSTnBhYkxwMFhLVHRuZGZWVzhndlVvaXdMOWs2bjdya3BCNzZsTUxnODRDVUJoS3pyUzNyYmRrQXE1NU1fNzZiTklDOEo3dWd0V29qRDBn?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T07:30:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3165,7 +3165,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "Google News Fed",
