@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-13T23:01:13.757736+00:00",
+ "aktualisiert": "2026-11-14T01:01:10.860304+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "68.343 $",
-   "delta": -4.2161422207635395
+   "wert": "68.292 $",
+   "delta": -3.9031544559156623
   },
   {
    "name": "Ethereum",
-   "wert": "1.928 $",
-   "delta": -4.1487900940710105
+   "wert": "1.931 $",
+   "delta": -3.910831993346395
   },
   {
    "name": "Gold",
@@ -84,6 +84,138 @@
   ]
  },
  "items": [
+  {
+   "id": "3178b0a1171cc1d1",
+   "k": "welt",
+   "titel": "Die Doppellandung der Musk-Megarakete ist gescheitert",
+   "t": "Die geplante Doppellandung der Musk-Megarakete ist gescheitert. Zunächst sah der Start nach einem Erfolg aus, dann verlief die Mission anders als erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/article6af7acf74495f9bd85b7f5bb/spacex-die-doppellandung-der-musk-megarakete-ist-gescheitert.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T00:56:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "be9027e9137ab9a0",
+   "k": "finanzen",
+   "titel": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "t": "Nvidia-Chef Jensen Huang ist nach Berichten über mehrere Affären zurückgetreten, darunter eine mit einer mutmaßlichen chinesischen Spionin. Die US-Regierung plant laut Berichten keine Ansprache dieser Themen bei der China-Reise.",
+   "e": "Nvidia ist der wichtigste Chiphersteller für KI-Rechenzentren, daher berührt der Führungswechsel den gesamten KI-Handel an den Börsen.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-14T00:56:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "351dc9e09bc2b7ce",
+   "k": "usa",
+   "titel": "U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
+   "t": "Die USA haben laut Pan American Health Organization ihren Status als masernfrei verloren, nachdem es in den vergangenen Jahren eine starke Zunahme der Erkrankungen gab.",
+   "e": "Der Verlust des Status ist ein deutliches Zeichen für sinkende Impfquoten in den USA.",
+   "s": 6,
+   "link": "https://www.wsj.com/health/u-s-loses-measles-elimination-status-as-historic-resurgence-sickens-thousands-b95e8780?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-14T00:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6026e812a293ccfe",
+   "k": "finanzen",
+   "titel": "„Erst dann wird der Automarkt wachsen“ – Aumovio-Chef bemängelt Wettbewerbsfähigkeit",
+   "t": "Der Chef des Autozulieferers Aumovio hält einen Teil der vorgeschriebenen Assistenzsysteme für verzichtbar und fordert günstigere Arbeitskosten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/article6af6fd7f7f8bbad09ea62209/autozulieferer-erst-dann-wird-der-automarkt-wachsen-aumovio-chef-bemaengelt-wettbewerbsfaehigkeit.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T00:11:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "f4970e02b221535f",
+   "k": "deutschland",
+   "titel": "„Verzicht ohne Zukunft ist eine Sackgasse“ – Der Kampf um Deutschlands Autoindustrie",
+   "t": "Die IG Metall zeigt sich laut Welt zu Einschnitten in der Autoindustrie bereit, verknüpft dies aber mit einer Bedingung. Gewerkschafterin Barbara Resch warnt vor den Folgen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af3096242c2bfde5b9929bd/ig-metall-verzicht-ohne-zukunft-ist-eine-sackgasse-der-kampf-um-deutschlands-autoindustrie.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T00:08:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "810fa247b19c1b18",
+   "k": "deutschland",
+   "titel": "„Nicht dauerhaft durchzuhalten“ – Ökonomen warnen vor schwerer Haushaltskrise ab 2028",
+   "t": "Wirtschaftsforscher warnen vor einer schweren Haushaltskrise ab 2028. Sie fordern harte Einschnitte und bringen eine höhere Mehrwertsteuer ins Spiel.",
+   "e": "Die Warnung betrifft die Finanzplanung des Bundes, bevor der Haushalt 2027 überhaupt beschlossen ist.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6af6de737f8bbad09ea61e8b/staatsfinanzen-nicht-dauerhaft-durchzuhalten-oekonomen-warnen-vor-schwerer-haushaltskrise-ab-2028.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T00:04:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "e90e6e1382d0268d",
+   "k": "finanzen",
+   "titel": "Fed’s Jefferson Says Inflation Will Determine Rate Decisions - Bloomberg",
+   "t": "Fed-Vizechef Jefferson erklärt, dass die Inflation die künftigen Zinsentscheidungen bestimmen werde. Zuletzt wurden Zinserhöhungen nicht ausgeschlossen.",
+   "e": "Die Fed richtet ihren Kurs also an der Inflationsentwicklung aus, was Auswirkungen auf Zinsen und Anleihenrenditen hat.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzBwMC1SRHV2ZUJHLTJ2STdWWFlSSXhKN1lkajNFZ0VTNUZNTnRGeW1uMXJRWXhyR05ic2JDMU9xcGxTV0JKZFM3WVByb0gwbEhrQW1WaTViQm12d1FZT1FnU29xX0tZSjJXOXhaWkI5bnk0aENFVTNOTUNYV09RQmJid1E4bFZxeUliR01kTkVCcXFMRDVnTWFUbTFrbk1HM1Q4MDBHbkVVSm9LUHNxMA?oc=5",
+   "quelle": "Bloomberg",
+   "zeit": "2026-11-14T00:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "afd43eece1d1ab8e",
+   "k": "finanzen",
+   "titel": "Fed’s Warsh to take stock of AI revolution as US public grows wary - The Spokesman-Review",
+   "t": "Fed-Chef Warsh will die Auswirkungen der KI-Entwicklung prüfen, während die Skepsis in der US-Bevölkerung wächst.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnVXTWpua3NzblhER2RrZ2NxelUwUnNpYThWaXZnb2NzUm9mLWczSnBuTlhHYWd4dkJtMlBuMmFBZmhtRjR5aGNnNUs0YjBpakRSLUt3bkxCaURQYVJ3YTNieVBvZG4tZ09DS0t4Q1BOdC1QZ0pjTjQtMU4wcTFZWGxXa2RfOVBRckx2WlFTOE9rVmtVRS1QVFROY29Zdw?oc=5",
+   "quelle": "The Spokesman-Review",
+   "zeit": "2026-11-13T23:49:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "5694955e7c2517ec",
+   "k": "finanzen",
+   "titel": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "t": "Bitcoin-Miner zahlen Paraguay laut Bericht rund 350 Millionen Dollar pro Jahr, doch die steigende Nachfrage durch KI verdrängt sie zunehmend.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-13T23:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5e556179f3232a7",
+   "k": "finanzen",
+   "titel": "Fed warnt: Schulden für KI-Rechenzentren könnten im Abschwung die Bilanzrisiken übersteigen - IndexBox",
+   "t": "Die Fed warnt, dass Schulden für KI-Rechenzentren im Fall einer Konjunkturabschwächung größere Bilanzrisiken darstellen könnten als bisher erwartet.",
+   "e": "Die Finanzierung der KI-Infrastruktur über Kredite gilt zunehmend als Stabilitätsthema für den Finanzsektor.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1BnRUxUY1NxWHQ5NW5jd3RoeXhyRl9kdk50Y1NlVUlVOWpPTlluNWxJeHdaTEo4SHBlcDRGcDVFQ3h2R0VyNHBDTzg5a09WMk1QS1ZzeEdQSm54ekI2QjZiU1VqWVlwVEtDaEczS1BqMThNVTVfbDNSUE9XX1V5LS0tV2F4WFRFdHpOUURwU3RrTXdWbUtmZUsxeDM3UkpIcm16dWVkcUkxUWJOUnh3?oc=5",
+   "quelle": "IndexBox",
+   "zeit": "2026-11-13T23:10:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "9e4fd00188382d40",
+   "k": "finanzen",
+   "titel": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote - The Hill",
+   "t": "Die Fed hat ihren Kalender für 2027 veröffentlicht. Die Oktobersitzung wird demnach keine Zinsentscheidung enthalten.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5",
+   "quelle": "The Hill",
+   "zeit": "2026-11-13T22:44:00+00:00",
+   "tag": null
+  },
   {
    "id": "6584c169591f4159",
    "k": "usa",
@@ -493,6 +625,18 @@
    "tag": null
   },
   {
+   "id": "7bd0af39eeb4fe31",
+   "k": "finanzen",
+   "titel": "Inflation isn't going away. Here's what that means for interest rates. - CBS News",
+   "t": "Analysten erwarten laut CBS News, dass die Inflation hartnäckig bleibt, und erläutern die Folgen für die Zinsen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dzBGV004V2lLZGdMR2FUVjByX1E4Q3BCemoxSzhCWF9YVEpJZUo4ejJlcktSeGdSWEozX0NFaEc2V29IYVJaZGpfN2p6WmNaeWpDa0dYc25LaU9NdVJJS1o2d290X2R4S3ZCWlpELVpraUc2bm42VXRn?oc=5",
+   "quelle": "CBS News",
+   "zeit": "2026-11-13T20:19:31+00:00",
+   "tag": null
+  },
+  {
    "id": "d5a728edb7661fd9",
    "k": "deutschland",
    "titel": "Business-Ticker: Von der Leyen: Europa braucht 500 Milliarden Euro Investitionen für KI",
@@ -896,6 +1040,18 @@
    "e": "",
    "s": 5,
    "link": "https://www.handelsblatt.com/politik/international/ukraine-grossflaechige-stromausfaelle-in-der-ukraine/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T18:08:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "4dd59e63e5bb470b",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+   "t": "In der Ukraine kommt es zu großflächigen Stromausfällen. Russlands Sprecher Peskow äußert sich zurückhaltend zu einer möglichen europäischen Beteiligung an Gesprächen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/27982126.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-13T18:08:50+00:00",
    "tag": null
@@ -2053,6 +2209,18 @@
    "tag": null
   },
   {
+   "id": "2451ec2108eec040",
+   "k": "finanzen",
+   "titel": "Notenbank: Merz will deutschen Vorschlag für Posten in EZB-Führung vorlegen - Handelsblatt",
+   "t": "Bundeskanzler Merz will einen deutschen Vorschlag für eine Besetzung in der EZB-Führung vorlegen.",
+   "e": "Die Personalie betrifft die Führungsebene der Europäischen Zentralbank, deren Zinspolitik auch Deutschland beeinflusst.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzJhOW9aNF9PLTJzbjZzdGNzakhUMU1lbUgwMEpSdmVCTi14TXRjVjdCcGl2cEpHYjBrb1hwVWNBMkwxNnpqZ1dlTGZNT2hWSDRqenNtRl9RUFVqT0lIbWJiLWdDWmdzb3Fzck5XSTlzQkNfNGRfM29xaXZ6MURtMkZfTnY3aHFrNEtyN053WkZKY0N1MlhaNUJ4U1pacHhXU0FkaV9OaXZNRDg1VVhlTWwyQnduZHBNSTBrMTkxQVlIemJYeGRYdk05ODlzck1jMkFxdDhqd3I?oc=5",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-13T13:24:56+00:00",
+   "tag": null
+  },
+  {
    "id": "06302f410beb0fb9",
    "k": "finanzen",
    "titel": "Rekord: Warum der Dax nach 27.000 Punkten noch Luft nach oben hat",
@@ -2915,174 +3083,6 @@
    "quelle": "News.de",
    "zeit": "2026-11-13T07:30:02+00:00",
    "tag": null
-  },
-  {
-   "id": "76802561465fbe25",
-   "k": "nrw",
-   "titel": "Iserlohn: „Teamwork“-Spendentag für Tierschutz und Kinderlobby - IKZ-Online",
-   "t": "In Iserlohn gab es einen Spendentag für Tierschutz und Kinderlobby.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXRzeWJiZjFpYkFueWdxRmN1ZVlTeld0TzNEVklaU3JBaXNKanR4U1ZzbUt2TllWVFJ0VUR5QjFXY3JjNmxhX1VTaml6aTl6M05sNVZ1T0JnOXZ3UF9LSzFSMXV5YVZzdDhubFNkWWRCRXBmSmVUNGpSUWVOVHU1Y1pUNVBpOFZtd25oNFlDcnpvTW92dWYyN0dxTnVEZk1ha1JHR1JOOXdRVVluZGtkdHFQbWNadTFDTncwajV6MjZ1WDg?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-13T07:29:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c5bbd32f3277a29d",
-   "k": "finanzen",
-   "titel": "Pharma: Bayer erhält grünes Licht für Schlaganfall-Medikament",
-   "t": "Bayer hat die US-Zulassung für das Schlaganfall-Medikament Asundexian erhalten.",
-   "e": "Das Mittel soll den Umsatzrückgang beim Bestseller Xarelto ausgleichen, vor allem in den USA.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-was-bedeutet-die-us-zulassung-des-schlaganfallmittels-fuer-bayer/100266747.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:27:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "03872bfcda6ebdda",
-   "k": "usa",
-   "titel": "Hegseth verleiht Medaille an Wachsoldaten nach lautstarker Zurechtweisung am Veteranentag",
-   "t": "Verteidigungsminister Hegseth hat einem Wachsoldaten eine Medaille verliehen, nachdem dieser am Grab des Unbekannten Soldaten eine Gruppe um Hegseth zurechtgewiesen hatte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6af6a92c5a72dceba1d60f38/pete-hegseth-verleiht-medaille-an-wachsoldaten-nach-lautstarker-zurechtweisung-am-veteranentag.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-13T07:25:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "d76c3bb2b1f816d0",
-   "k": "finanzen",
-   "titel": "Dow-Jones-Futures geben angesichts von Sorgen vor einer Fed-Zinserhöhung nach, Führungsumbau bei Nvidia und EPI-Daten im Fokus - TradingView",
-   "t": "Dow-Jones-Futures geben nach, weil Anleger eine mögliche Zinserhöhung der Fed fürchten.",
-   "e": "Eine Zinserhöhung statt einer Senkung wäre ein Richtungswechsel der US-Notenbank mit Folgen für die Aktienmärkte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00amtPWHRGeGtKdHdRTjVzY3pmZVA4elFXR1c1Tm5seDNMSExic3BuVmsxbE1zYi0wSnhyZUVnV1NBUmgxRnJQWVVUWmpYcXNIcDMyR01Va3BScmNrS2dOM2Y1U0Qya24t?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-13T07:19:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c99c01a489e93e00",
-   "k": "deutschland",
-   "titel": "Verteidigung: Vor dem Hauptbahnhof warten US-Panzer auf die Weiterfahrt: Wie Bremen die Nato-Drehscheibe blockiert",
-   "t": "US-Panzer warten am Bremer Hauptbahnhof auf die Weiterfahrt. Die Häfen werden für 1,35 Milliarden Euro zum Nato-Logistikzentrum ausgebaut.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/verteidigung-wie-bremen-die-milliardenschwere-nato-drehscheibe-blockiert-01/100266994.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "09510b5fa5cdfd65",
-   "k": "deutschland",
-   "titel": "Monika Schnitzer: Wirtschaftsweisen-Chefin: „Wir laufen mitten in ein Problem historischen Ausmaßes“",
-   "t": "Die Vorsitzende des Sachverständigenrats, Monika Schnitzer, warnt im Interview vor einem Problem historischen Ausmaßes bei den deutschen Staatsfinanzen.",
-   "e": "Die Warnung fällt in die Debatte um den Bundeshaushalt 2027, der Ausgaben von 560,9 Milliarden Euro vorsieht.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/monika-schnitzer-wir-laufen-mitten-in-ein-problem-historischen-ausmasses-01/100267312.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:13:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ecb019f7b728f5ca",
-   "k": "finanzen",
-   "titel": "KI: Anthropic-Börsengang offenbar schon sechsfach überzeichnet",
-   "t": "Der geplante Börsengang von Anthropic soll laut Bericht etwa sechsfach überzeichnet sein. Das Unternehmen gilt als möglicherweise größter Börsengang der Geschichte.",
-   "e": "Die hohe Nachfrage zeigt das anhaltende Interesse der Investoren an KI-Unternehmen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/ki-anthropic-boersengang-offenbar-schon-sechsfach-ueberzeichnet/100269621.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:12:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "77ce02e56a57cf17",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Stau in Bielefeld: Zwei Verletzte nach Glatteis-Unfällen - tagesschau.de",
-   "t": "Bei Glatteis-Unfällen in Bielefeld gab es zwei Verletzte und einen Stau.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzZtcjFSX0hwaGZReWFVclhheTd2NTZDcDZZYU5WUzhWRkdRUml0cjQtR0NGbnhCMW81dk5XV282NmtYaURXYVNFRDJnRk0waXBoYnYyRWtKYTVEeTlkcVhla1BnWl9pUFZ2WUp4bnZlYS1iZ19KTmpBOFQtRkVRMklmM0J5YTNQeThUb2VCcTl2SzN1aVlBRE9SX0J1Slo1Yml2dVAtVU5IdkJYT0xBSGJ1bGNKTTcwRndMNmQxZWZvOVRuMXFmOTdB?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T07:10:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2ad817b86fdf88ba",
-   "k": "usa",
-   "titel": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
-   "t": "Kalifornias Gouverneur Gavin Newsom will bis Anfang Januar entscheiden, ob er 2028 für das Weiße Haus kandidiert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-13T07:08:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c72d2bb4a37a080",
-   "k": "nrw",
-   "titel": "Polizei-News Lüdenscheid, 13.11.26: Widerstand und Taschendiebstahl - News.de",
-   "t": "Die Polizei Lüdenscheid berichtet über einen Fall von Widerstand und einen Taschendiebstahl.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXN0R1E5WXB2YWZ6WFBVVzJNVW82VUdzSUU1MkxiSjc1ZUNhTDFZTmcyZTRmUlAwemVlTEtjX1lhbVltTHEyTm9DUUxpc2pCMkttRTZ6YnpUVDNGdjBJOEpubEp0SFFTXzBrNWVZSzZ1RzQwN1BqdVl3dDlqQXZvT3JxV3lQc3NxYzZYQnkwR0xncThVdFhLckx6eWZ2NHdvT1hlRk9mY3FSZi1VMnc?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T07:08:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "f60812551964f551",
-   "k": "finanzen",
-   "titel": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-   "t": "Die Ethereum-Treasury-Firma BTCS hat Ether mit Verlust verkauft, um einen Aave-Kredit über 64 Millionen Dollar abzusichern.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-13T07:05:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "0399963bce83cc3d",
-   "k": "deutschland",
-   "titel": "ZDF-„Politbarometer“: Umfrage: AfD wieder deutlicher vor Union",
-   "t": "Im ZDF-Politbarometer liegt die AfD wieder deutlicher vor der Union.",
-   "e": "Der Abstand hat sich nach einer zwischenzeitlichen Verringerung wieder vergrößert.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/zdf-politbarometer-umfrage-afd-wieder-deutlicher-vor-union/100269624.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:05:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "9d47a99650815556",
-   "k": "finanzen",
-   "titel": "Kanzleien in der Krise: Der tiefe Fall der Kanzlei Weil, Gotshal & Manges",
-   "t": "Die Wall-Street-Kanzlei Weil, Gotshal & Manges löst sich nach schwindendem Partnervertrauen auf.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/weil-gotshal-manges-was-der-kollaps-ueber-grosskanzleien-verraet-201672109.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-13T07:03:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "cfc4e730116f3b80",
-   "k": "finanzen",
-   "titel": "+++ Geschäftszahlen +++: Cisco hebt Umsatzprognose an",
-   "t": "Cisco hebt seine Umsatzprognose an. Cartier-Mutter Richemont verdient im Halbjahr deutlich mehr.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-cisco-hebt-umsatzprognose-an/24098412.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T07:01:39+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Ausland",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Fox News Politik",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 7
    },
    {
     "name": "Google News Fed",
