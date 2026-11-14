@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T05:01:10.373890+00:00",
+ "aktualisiert": "2026-11-14T07:01:14.070091+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "67.016 $",
-   "delta": -2.006646646396445
+   "wert": "67.351 $",
+   "delta": -2.433282410651333
   },
   {
    "name": "Ethereum",
-   "wert": "1.897 $",
-   "delta": -1.2099959610818822
+   "wert": "1.904 $",
+   "delta": -1.7373309380784285
   },
   {
    "name": "Gold",
-   "wert": "3.888 $",
-   "delta": 0.05919623048338263
+   "wert": "3.886 $",
+   "delta": 0.025736781183138824
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,108 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-13T19:01:29.100195+00:00",
+  "slot": 7,
+  "stand": "2026-11-14T07:01:14.070071+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "Im Iran-Krieg lehnt Iran Gespräche über Atominspektionen ab, und die Internationale Atomenergiebehörde äußert Sorge über die Urananreicherungsanlage in Isfahan. Trump hat die Waffenruhe Anfang Juli für beendet erklärt."
+    "t": "Im Iran-Krieg sind nach einer Kollision mit einer Seemine zwei Öltanker in der Straße von Hormus in Brand geraten. Iran lehnt laut Meldung Gespräche über Atominspektionen ab, und Trump hat die Waffenruhe Anfang Juli für beendet erklärt."
    },
    {
     "k": "finanzen",
-    "t": "Die Erwartungen an weitere Fed-Zinserhöhungen steigen nach einer über den Prognosen liegenden US-Inflation, und die Rendite zehnjähriger US-Staatsanleihen liegt laut Meldung bei 5,15 Prozent. Die Marktdaten zeigen Fed Funds 3,88 %, EZB Zins 2,50 %, Deka DAX 233,60 € und iShares MSCI World 130,44 €."
+    "t": "Die Fed gilt laut Bloomberg als auf Kurs, die Zinsen im nächsten Monat anzuheben, und möglicherweise erneut im Januar. Die US-Erzeugerpreise steigen laut Bericht mit 6,5 Prozent auf Jahresbasis. Fed Funds liegen bei 3,88 %."
    },
    {
     "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang tritt als CEO zurück, und der Konzern verliert nach Berichten rund 600 Milliarden Dollar an Börsenwert. Die Aktie reagierte bisher nur leicht."
+    "t": "Märkte: Deka DAX 233,60 €, iShares MSCI World 130,44 €, Deka Nasdaq-100 178,60 €. Gold kostet 3.886 $, Bitcoin 67.351 $. Der EZB-Zins liegt bei 2,50 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Nvidia-Chef Jensen Huang tritt als Konzernchef zurück, der Konzern verliert laut Berichten rund 600 Milliarden Dollar an Börsenwert. Der Verwaltungsrat hat laut CNBC noch keinen Suchdienst für die Nachfolge beauftragt."
    },
    {
     "k": "deutschland",
-    "t": "Mercedes will laut Bericht vorerst alle Investitionen in Deutschland streichen, nachdem der Konflikt mit der Gewerkschaft zugespitzt ist. Streitpunkt sind unter anderem Privilegien wie die 35-Stunden-Woche."
+    "t": "Mercedes hat nach einem Streit über Kosten einen Investitionsstopp in Deutschland angekündigt. Die IG Metall kritisiert die Haltung des Konzerns laut Meldung scharf."
    },
    {
-    "k": "nrw",
-    "t": "Die IG Metall ruft im Märkischen Kreis 2.500 Beschäftigte zu 24-stündigen Warnstreiks auf."
-   },
-   {
-    "k": "deutschland",
-    "t": "Der Bundeshaushalt für 2027 ist beschlossen, und der Bundestag hat eine Reform der Geheimdienste verabschiedet, die Verfassungsschutz und BND bei besonderen Gefahren verdecktes Handeln erlaubt."
+    "k": "finanzen",
+    "t": "EZB-Ratsmitglied Nagel hält angesichts zunehmender Zweitrundeneffekte eine weitere Zinserhöhung für unerquicklich. Frankreich und Deutschland haben sich laut Euronews fast auf Pablo Hernández de Cos als nächsten EZB-Präsidenten geeinigt."
    }
   ]
  },
  "items": [
+  {
+   "id": "c39b53fe9a015f3c",
+   "k": "deutschland",
+   "titel": "Zehn kurze Fragen, die beweisen, wie gut dein Allgemeinwissen wirklich ist",
+   "t": "Zehn kurze Fragen, die beweisen, wie gut dein Allgemeinwissen wirklich ist",
+   "e": "",
+   "s": 1,
+   "link": "https://www.welt.de/kmpkt/article6af429e7c45061d752ba5db8/quiz-zehn-kurze-fragen-die-beweisen-wie-gut-dein-allgemeinwissen-wirklich-ist.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T06:51:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "0ebaf72e5187561d",
+   "k": "finanzen",
+   "titel": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions",
+   "t": "US-Spot-Bitcoin-ETFs verzeichneten am Freitag Netto-Abflüsse von 185,4 Mio. Dollar, davon 143,5 Mio. bei BlackRocks IBIT. Über zwei Wochen summieren sich die Abflüsse laut Bericht auf rund 2,35 Mrd. Dollar.",
+   "e": "Die anhaltenden Abflüsse aus den großen Bitcoin-ETFs zeigen nachlassende institutionelle Nachfrage nach dem Krypto-Markt.",
+   "s": 6,
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-14T06:33:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "0a7444bf459e802d",
+   "k": "welt",
+   "titel": "Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker",
+   "t": "Ein Kreuzfahrtschiff mit rund 130 Passagieren ist auf dem Mississippi nahe New Orleans nach einer Kollision mit einem Tanker gekentert. Mehr als 30 Menschen wurden verletzt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/vermischtes/video6af7fb5b9849eea0701e25f8/new-orleans-kreuzfahrtschiff-mit-130-passagieren-kollidiert-mit-tanker.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T06:12:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "ed7b0b576a43d6a9",
+   "k": "welt",
+   "titel": "Weißes Haus kündigt historisches Dreiertreffen Trumps mit Xi und Putin an",
+   "t": "Weißes Haus kündigt historisches Dreiertreffen Trumps mit Xi und Putin an",
+   "e": "",
+   "s": 1,
+   "link": "https://www.welt.de/politik/ausland/video6af7fa344495f9bd85b7f728/usa-china-russland-weisses-haus-kuendigt-historisches-dreiertreffen-trumps-mit-xi-und-putin-an.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T06:10:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "064958017b9b91f7",
+   "k": "welt",
+   "titel": "Liveblog Nahost: Iran: Zwei Öltanker in Straße von Hormus brennen nach Kollision mit Seemine",
+   "t": "Im Golf von Hormus sind nach einer Kollision mit einer Seemine zwei Öltanker in Brand geraten. Zugleich werden laut Liveblog Gespräche Israels und des Irans über Atominspektionen und Kontakte in Washington gemeldet.",
+   "e": "Die Hormus-Route ist ein zentraler Engpass für den Öltransport; Zwischenfälle dort können Ölpreise und Versicherungskosten schnell beeinflussen.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-zwei-oeltanker-in-strasse-von-hormus-brennen-nach-kollision-mit-seemine-faz-200583539.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-14T05:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5bc30dd1cd420c8f",
+   "k": "finanzen",
+   "titel": "Fitch bestätigt Bestnote für Deutschland",
+   "t": "Die Ratingagentur Fitch bestätigt die Bestnote AAA für Deutschland, trotz höherer Schulden für Infrastruktur und Bundeswehr.",
+   "e": "Die Bestnote hält die Finanzierungskosten des Bundes tendenziell niedrig, trotz steigender Verschuldung.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/article6af79fdd4495f9bd85b7f560/internationales-finanzrating-fitch-bestaetigt-bestnote-fuer-deutschland.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T05:12:06+00:00",
+   "tag": null
+  },
   {
    "id": "75f629256bfff167",
    "k": "welt",
@@ -982,6 +1054,18 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa0FQdzhUWkJzVzdkLWlxYnlrT1ZpaEFPdjR2ME43X2V4ckVmU0xuSk55MV9zcThfOVI5V0lya2taZ2puYXZlXzBsV1ROR1o4dHZkVWQtNG9CVGZxMlhxckUxQWlEMWZ2a3FuWTVDNHlFMjZiNG5jOVRMbndjSld3enVjMFliU3NWWXhTS21hWlJxTXNJUE44eXo5dHdYcmFueU94eVNmX3BYM1duZHVfb0JRSWIxenF3ZVZFQzBqdGxsZ052S2ZJeG5oMERWelY4OU5JZjAtNnZ2aEUtQzY5SDk0V2VkQ0k?oc=5",
    "quelle": "MarketScreener Schweiz",
    "zeit": "2026-11-13T20:13:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "1bb2c19fe98aca3d",
+   "k": "finanzen",
+   "titel": "Producer prices rise, backing case for more Fed rate hikes - Finance & Commerce",
+   "t": "Steigende Erzeugerpreise in den USA stützen laut Bericht die Argumentation für weitere Zinserhöhungen der Fed.",
+   "e": "Höhere Erzeugerpreise gelten als Vorlauf für Verbraucherpreise und erhöhen den Druck auf die Fed, die Zinsen länger hoch zu halten.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODN2SnpEd2J1UXdvR3RjUG1odzM2NEE1R1dZQy1WYVdEVThRVzlDU1g2djJDckZxZ2NNWWZabGZjdFR0Wk1MQVBhSFlrQ08yTV8xVjFjZC1ybUxZb0dLRlZWOElPU3BNOHZRdGtpR196X0pVMTAzVU9JNmFiUnRGLWRCQWpvOXFNMG54cDdZOW05ODg?oc=5",
+   "quelle": "Finance & Commerce",
+   "zeit": "2026-11-13T20:11:55+00:00",
    "tag": null
   },
   {
@@ -2999,90 +3083,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-13T11:06:30+00:00",
    "tag": null
-  },
-  {
-   "id": "584c7683756d78b5",
-   "k": "finanzen",
-   "titel": "Schwarzer Freitag für Microsoft – Diese Kettenreaktion legt die Bürowelt lahm",
-   "t": "Ein stundenlanger Ausfall bei Microsoft legt Teile der Bürowelt lahm, darunter Kliniken und Behörden. Die Microsoft-Aktie gibt nach.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6af6dfc884c7128d8f27dee0/microsoft-ausfall-diese-kettenreaktion-legt-die-buerowelt-lahm.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-13T11:06:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b14ae27b497c363",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: 18-Jähriger nach Verfolgung schwer verletzt - tagesschau.de",
-   "t": "In NRW wurde ein 18-Jähriger nach einer Verfolgung schwer verletzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGdEMUNKWUZmaWFOQVhWM3NpajltOEk4Y2hZT2RTclFFdm5RN05vS0FzYjIzUWFQOUQwLTFxR1p2WFRlRWc3WVhva0NwalRMWExUZ0JBUzlPRnlfRFVHamNOU2FHOEdOTWxub0xnYWw1Y2lLbWVCVHVfcDBFWS1FemkxT2dobllrdmJzdGlISzI4LUFmczQ3aV8xaC14MUVNUk53V3lkU0xCTVJUdDBnRU1DWjI2WHljWkRpUDlqRTNwaHQxSmpPajRMU0NQNkZI?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T11:01:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bd61edae8f09adf6",
-   "k": "finanzen",
-   "titel": "Federal Reserve rate hike expectations strengthen as U.S. inflation runs above forecasts - Traders Union",
-   "t": "Die Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed steigen, nachdem die US-Inflation über den Prognosen lag.",
-   "e": "Die Fed hatte zuvor mit Zinssenkungen gerechnet; ein Kurswechsel hin zur Zinserhöhung würde Aktien, Krypto und Staatsanleihen gleichermaßen unter Druck setzen.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUdjLUgtXzhlaGpNb015Y3VFcXNzaFU1SHRxRGZjMElZRXdEU0wxYVlLalFKNzBfbWc2dTc1b3k4ZHA4elJoclpFc1ZlT3VwdVdtbk1wX04wUGo0SUFHTXp3Q19iZUo4bW1SOVFXN0duckYwSDZFc0MyUElDZ1R6RkVDX2V5VnI2VjN5cnU5SkNaRHZ0ZGcwcjJn?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-13T10:55:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "a51c6ad537a91103",
-   "k": "nrw",
-   "titel": "Fünffache Mutter vor Jobcenter getötet – Verdächtiger war ausreisepflichtig",
-   "t": "In Düren wurde eine fünffache Mutter vor einem Jobcenter getötet. Der Tatverdächtige war ausreisepflichtig, nach einer Abschiebung kehrte er trotz Wiedereinreiseverbots nach NRW zurück.",
-   "e": "Der Fall wirft Fragen zur Durchsetzung von Abschiebungen und Wiedereinreiseverboten in Nordrhein-Westfalen auf.",
-   "s": 7,
-   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af6c8087f8bbad09ea61c3f/nrw-fuenffache-mutter-vor-jobcenter-in-dueren-getoetet-verdaechtiger-ignorierte-wiedereinreiseverbot.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-13T10:54:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb8d14ecb15da268",
-   "k": "usa",
-   "titel": "Stephen Miller: Trump-Stabschef vorm Karriere-Aus? Schulfreund prophezeit düsteres Ende - News.de",
-   "t": "Berichte über ein mögliches Karriereende von Trumps Stabschef Stephen Miller.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjJvQWpvR1VsakxoMFA2REkwT3pydTNGU2xzN3F5Rkw2R1h6X1llMDZOMnRaX0FuSzhWMkJnT1hHOUtpTnhlMm1YalYxdWdkRVJiMlBuSUlBLV9pQVU3bUtNdF9tNVN6U2E4WU53emtBdjllcVdOMEhvdVh5RTJfcjYzMHhicG5ZWjBlLU5MOTYzVk1lX2FwajVGNmFOT1UwYkZzVktWc3NrRURheWRFcjNNaWl2UVVNMEhpbkFRbEk?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T10:41:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "354e17e1337a580e",
-   "k": "deutschland",
-   "titel": "„Wenn die Regierung von Sparen spricht, dann spart sie nicht bei sich selbst, sondern beim Bürger“",
-   "t": "AfD-Politiker Michael Espendiller kritisiert den schwarz-roten Haushalt für 2027 und die ausbleibende Stromsteuersenkung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6af6e12b84c7128d8f27df3d/haushalt-fuer-2027-wenn-die-regierung-von-sparen-spricht-dann-spart-sie-nicht-bei-sich-selbst-sondern-beim-buerger.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-13T10:41:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "ea84f194dfd5dca5",
-   "k": "usa",
-   "titel": "US-Einwanderungsbehörde ICE meldet Rekord bei Abschiebungen",
-   "t": "Die US-Einwanderungsbehörde ICE meldet mit fast einer halben Million Abschiebungen binnen eines Jahres einen Rekordwert. An der Transparenz der Daten gibt es Zweifel.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T10:38:44+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3125,7 +3125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "NZZ",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "Google News NRW",
