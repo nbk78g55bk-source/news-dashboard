@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T17:57:42.499438+00:00",
+ "aktualisiert": "2026-11-14T19:01:20.264879+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.756 $",
-   "delta": -4.5824432562416595
+   "wert": "65.504 $",
+   "delta": -4.896095344408755
   },
   {
    "name": "Ethereum",
-   "wert": "1.839 $",
-   "delta": -5.100645143493498
+   "wert": "1.830 $",
+   "delta": -5.718475414542945
   },
   {
    "name": "Gold",
@@ -54,36 +54,128 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-14T11:01:28.470008+00:00",
+  "slot": 19,
+  "stand": "2026-11-14T19:01:20.264857+00:00",
   "punkte": [
    {
-    "k": "finanzen",
-    "t": "Führende Fed-Vertreter signalisieren weitere Zinserhöhungen im Kampf gegen die Inflation, und die US-Erzeugerpreise steigen laut Bericht mit 6,5 Prozent auf Jahresbasis. Der Fed Funds Satz liegt bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der EZB-Zins liegt bei 2,50 %. EZB-Ratsmitglied Nagel hält angesichts zunehmender Zweitrundeneffekte eine weitere Zinserhöhung für unerquicklich. Am Markt notieren der Deka DAX 233,60 € und der iShares MSCI World 130,44 €."
-   },
-   {
-    "k": "welt",
-    "t": "Im Iran-Krieg lehnt Teheran laut Meldung Gespräche über Atominspektionen ab. Nach einer Kollision mit einer Seemine brennen im Golf von Hormus zwei Öltanker."
-   },
-   {
-    "k": "deutschland",
-    "t": "Mercedes hat nach einem Streit über Kosten einen Investitionsstopp in Deutschland angekündigt. Die EU hat ein Verhandlungsteam für mögliche Gespräche mit Russland über den Ukraine-Krieg benannt, Deutschland gehört dazu."
-   },
-   {
     "k": "usa",
-    "t": "Die US-Luftfahrtbehörde FAA hat das landesweite Startverbot nach mehreren Stunden wieder aufgehoben. Laut Verkehrsminister Duffy waren überlastete Kommunikationssysteme die Ursache."
+    "t": "Die US-Luftfahrtbehörde FAA hat landesweit alle Starts gestoppt und nach mehreren Stunden wieder aufgehoben. Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache. Laut Meldungen fielen weitere rund 4000 US-Flüge aus, auch der Londoner Flughafen Heathrow war betroffen."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die Fed signalisiert weitere Zinserhöhungen gegen die Inflation, laut Bloomberg womöglich schon im nächsten Monat und erneut im Januar. Der US-Dollar erreichte ein 19-Monats-Hoch. Zum Vergleich: Fed Funds 3,88 %, EZB Zins 2,50 %, Deka DAX 233,60 €, iShares MSCI World 130,44 €."
    },
    {
     "k": "welt",
-    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi und Putin für die kommende Woche in Shenzhen angekündigt. Trump will dabei offenbar auch über eine mögliche Reduzierung der Atomwaffenbestände sprechen."
+    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi Jinping und Wladimir Putin in Shenzhen bestätigt, das Peking organisiert und das in der kommenden Woche stattfinden soll. Trump will dabei laut Berichten auch über eine mögliche Reduzierung der Atomwaffenbestände sprechen."
+   },
+   {
+    "k": "welt",
+    "t": "Selenskyj berichtet, US-Unterhändler hätten einen Nato-Beitritt der Ukraine gegen einen Rückzug aus dem Donbass ins Spiel gebracht. Ein Referendum hänge von umfassenden Sicherheitsgarantien ab. Russland meldet nach eigenen Angaben die Einnahme eines ukrainischen Ortes."
+   },
+   {
+    "k": "welt",
+    "t": "Im Golf von Hormus brennen zwei Öltanker nach einer Kollision mit einer Seemine. Trump erwägt laut Reuters, auf neue Iran-Angriffe zu verzichten, sofern Teheran oder die Huthi die USA nicht provozieren."
    }
   ]
  },
  "items": [
+  {
+   "id": "148f4e3d058c3658",
+   "k": "usa",
+   "titel": "„Versuchen herauszufinden, ob es sich um Inkompetenz handelt“ – weitere 4000 US-Flüge fallen aus",
+   "t": "In den USA fallen nach einem landesweiten Startverbot weitere rund 4000 Flüge aus. Auch der Londoner Flughafen Heathrow ist betroffen. Die Ursache wird noch gesucht.",
+   "e": "Laut NZZ führte ein neues Sicherheitsupdate zum Zusammenbruch veralteter Router, wodurch die Radarsysteme ausfielen. Es gilt als einer der schwersten Ausfälle der US-Luftfahrt.",
+   "s": 8,
+   "link": "https://www.welt.de/wirtschaft/article6af89fab9849eea0701e2f65/historisches-startverbot-versuchen-herauszufinden-ob-es-sich-um-inkompetenz-handelt-weitere-4000-us-fluege-fallen-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T18:55:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "10ab3d931d5ff5e4",
+   "k": "finanzen",
+   "titel": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+   "t": "Die Führungskrise bei Nvidia belastet den KI-Handel, dennoch legte der S&P 500 in der Woche um 2,5 Prozent zu, der Nasdaq um 2,3 Prozent.",
+   "e": "Trotz der Turbulenzen bei einem zentralen KI-Wert zeigt die Wochenentwicklung eine insgesamt stabile Lage an der US-Börse.",
+   "s": 6,
+   "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-14T18:48:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "bdd8dde4f4ea5d93",
+   "k": "welt",
+   "titel": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
+   "t": "Bei der UN-Klimakonferenz COP in Antalya ist Halbzeit, bisher gibt es kaum Ergebnisse. Aktivisten forderten bei einem Protestmarsch mehr Klimagerechtigkeit und stärkere Beiträge der Industriestaaten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T18:47:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "faa06f0504ac039b",
+   "k": "deutschland",
+   "titel": "+++ Bundesregierung +++: Union stimmt für Rentenpaket – aber einige Gegenstimmen",
+   "t": "Das umstrittene Wehrdienstgesetz hat das Bundeskabinett passiert. Die Union stimmte dem Rentenpaket zu, wobei es einzelne Gegenstimmen gab.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/union-stimmt-fuer-rentenpaket-aber-einige-gegenstimmen/30074918.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T18:31:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "aecfe78bbc7ca36b",
+   "k": "deutschland",
+   "titel": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+   "t": "Ex-Arbeitsminister Hubertus Heil hat offiziell seine Kandidatur für den SPD-Vorsitz erklärt. Die komplette Parteiführung wird auf dem Bundesparteitag Mitte Januar neu gewählt.",
+   "e": "Heil begründet seinen Schritt mit der Profillosigkeit der SPD unter Parteichef Klingbeil und fordert damit dessen Führung heraus.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T18:12:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "4d7d016011ed943b",
+   "k": "welt",
+   "titel": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+   "t": "Apples neuer digitaler Assistent „Home View“ wird in den USA ausgeliefert, in der EU ist das Gerät vorerst nicht erhältlich.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-14T18:11:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "35e3d629846e417c",
+   "k": "nrw",
+   "titel": "Klare Nacht, Glätte-Gefahr – Sonntag bringt Regen und gefrierenden Regen - Come-on",
+   "t": "Nach klarer Nacht droht am Sonntag Regen mit gefrierendem Regen, es besteht Glättegefahr.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTZ0RlBKT3lfSTdCN0VUd0dZdTUxdjlROV9aQmhtcU9va2ItWTJFWWFlaXMyajlWNkhTMFJEaWU0dVNlYktIam5iSUtaQl9VZTVKZlladk1OZE1RTVVZcTdGekxwVnJRMi1ReHFKNFBnVUtqNmdZTzBvZWFULXV1YzU4aTdfRHVBT01KVUFidERiSmVqQjNlWTFGMlNudDJna0loTWdIVnByZWVzWElBRjBRNlRJWXZzWFM3RExZVmI1NWQ4Rnc?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-14T18:01:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "23c018fbf91bb972",
+   "k": "deutschland",
+   "titel": "Im Beisein der Mutter – Kind auf Fahrrad wird von Bus überrollt und stirbt",
+   "t": "In Berlin-Tiergarten ist ein Kind auf dem Fahrrad gestürzt und von einem Bus überrollt worden. Es starb, die Mutter war dabei.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/article6af89cbf2ca8b97036af77b7/berlin-im-beisein-der-mutter-kind-auf-fahrrad-wird-von-bus-ueberrollt-und-stirbt.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T17:58:32+00:00",
+   "tag": null
+  },
   {
    "id": "e3f5d2fc5550784d",
    "k": "deutschland",
@@ -154,6 +246,42 @@
    "link": "https://www.welt.de/politik/ausland/article6af88f3d389d31d8c8a8073e/sicherheitspolitik-die-nato-ist-wie-ein-schmerzender-zahn-moskau-will-neuausrichtung-der-europaeischen-verteidigung.html",
    "quelle": "Welt",
    "zeit": "2026-11-14T17:26:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "12fcaa2a2c07eb46",
+   "k": "nrw",
+   "titel": "In Wuppertal und Düsseldorf: Überschaubare Teilnehmerzahlen bei Gen-Z-Protesten in NRW - DIE ZEIT",
+   "t": "Bei Gen-Z-Protesten in Wuppertal und Düsseldorf blieben die Teilnehmerzahlen überschaubar.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnlpZHVWOFBOSjlNeWoxZEtiVms1TGJWbWd4V1M4a1pRRTdwSXdubnVRbW5mY2lpczV2YlhjR3FaUGo2dFoyalp1NmJTYzFIUGpXZ01HV2hWdFlnMFVvblRqRjlBamJGYmZ2eDU0cm5vMnF0d3FJRUhGZVhfbWoyY2tZMU14OG10QzBjUkpmX0RFOVVCNGMxeHZB?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-14T17:22:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "d3fadec4c86f9c05",
+   "k": "deutschland",
+   "titel": "Koaltionsvertrag in Mecklenburg-Vorpommern unterschrieben",
+   "t": "In Mecklenburg-Vorpommern haben SPD, Linke und Grüne den Koalitionsvertrag unterzeichnet. Am Montag soll der Ministerpräsident wiedergewählt werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T17:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "615b3318eeff1ace",
+   "k": "nrw",
+   "titel": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
+   "t": "Im Phantasialand bei Brühl wurden 15 Gäste verletzt, nachdem im Schwimmbecken eines Hotels auf dem Gelände zu viel Chlor war.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T17:01:00+00:00",
    "tag": null
   },
   {
@@ -814,6 +942,18 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-wie-jensen-huang-in-315-tagen-sein-lebenswerk-verspielte/100269679.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-14T12:02:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "d51367466b76afd3",
+   "k": "finanzen",
+   "titel": "Ein Zehntelpunkt zu viel – und die Fed redet über höhere Zinsen - HKCM",
+   "t": "Die Fed diskutiert laut Bericht über höhere Zinsen, nachdem ein Zehntelpunkt zu viel bei der Inflation gemeldet wurde.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXFtNS1FQ3Aza29DUFdkejRabVFvUnpkT29FaUpnc2VzUVZSUGZWdXlFUUlBVGdkZ3EyVVB0SFptLTd6cEpvM0tGUE9NM2p2TENrQVhFQ0RNM1FMZWU1M0JvTnowM2dwUGlfQWJobm90MWIySGlUdjRUSE0tekVBVTdJWjE0Nkd2bmpkZzBMY1U?oc=5",
+   "quelle": "HKCM",
+   "zeit": "2026-11-14T12:00:00+00:00",
    "tag": null
   },
   {
@@ -1525,6 +1665,18 @@
    "tag": null
   },
   {
+   "id": "38cc1eff54435460",
+   "k": "finanzen",
+   "titel": "Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WJLA",
+   "t": "US-Präsident Trump hat eine Überprüfung durch das Weiße Haus gegen Fed-Gouverneurin Lisa Cook angekündigt.",
+   "e": "Ein Eingriff in die Besetzung oder Kontrolle von Fed-Gouverneuren berührt die Unabhängigkeit der US-Notenbank, die für Zinsentscheidungen und die Inflationsbekämpfung zentral ist.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWmVfS2FhNFo3UUVfamtjNThCTERDNjdvaFBJb29KZ21vYnREd01RU2E5dHZnS3hJZHRrZzQxSXZNMGNUdl9ndGRtMDVUQzZRQy1lMlVFWVlZb0lWSGt5OUVqRTZuMl9jcjEzOVBBQlhnMUhFN29OZWtwY0RodEdDUUhZcDVsSjN1WlhHdlhWR3ZkLVF3bl9WU1lHb0pqNktTX0NOZ0lPbUkxWkV1dllqMkNuRnZPMVZWYmVLRG9Ua0JZeUtzcUQ5bWt6WVBMNGlJNlBmUE5fSXl3MU1DNG45NGMycw?oc=5",
+   "quelle": "WJLA",
+   "zeit": "2026-11-14T06:48:05+00:00",
+   "tag": null
+  },
+  {
    "id": "af2572a4d9618f5f",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Brand in Müllverbrennungsanlage in Hürth - tagesschau.de",
@@ -1873,6 +2025,18 @@
    "tag": null
   },
   {
+   "id": "f518709ee0dfd95a",
+   "k": "finanzen",
+   "titel": "Überbewertungen, Cyberangriffe, Schulden… Die von der Fed identifizierten KI-Finanzrisiken - 재경일보",
+   "t": "Die US-Notenbank Fed hat KI-bezogene Finanzrisiken identifiziert, darunter Überbewertungen, Cyberangriffe und Verschuldung.",
+   "e": "Die Fed-Einschätzung ist relevant, weil der KI-Boom einen großen Teil der jüngsten Kursgewinne an den US-Börsen trägt.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVlNHR1VqYm4tRWUzeUpfbFZFZzhBcTEwVmI2dVl5T1RFOHJyWVd4ZWFkd2hqRi05MUlHLUt4ZUcxMTE4blZaNFdLU2JnSUNobjJCNE0xVFhSdzA3Y3NXTQ?oc=5",
+   "quelle": "재경일보",
+   "zeit": "2026-11-14T02:20:49+00:00",
+   "tag": null
+  },
+  {
    "id": "9d3ff51f4af3c92b",
    "k": "usa",
    "titel": "California Voters Pass Ban on Wealth Taxes",
@@ -2098,6 +2262,18 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5",
    "quelle": "The Hill",
    "zeit": "2026-11-13T22:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "29dcfc0ebcf18ef9",
+   "k": "finanzen",
+   "titel": "Fed likely to need to raise rates amid worsening inflation: Daly - Virginia Business",
+   "t": "Der Fed-Vertreter Daly hält angesichts zunehmender Inflation Zinserhöhungen für wahrscheinlich.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYRmZlamwxZFF6WXJCTVQyQ2R1bjlOZEJJWjZJdmRkRVVmc2Z1MmoxVWtEYlV3dXA5TDh6QUtZVVktYmFCTzRJRk5yZGM3NTYxQkc1anFoandmTUFvOFhJbVluc2lMeWw2R044aUhQZHZTSWk4ZW1ZamwxRWRrdw?oc=5",
+   "quelle": "Virginia Business",
+   "zeit": "2026-11-13T22:33:20+00:00",
    "tag": null
   },
   {
@@ -2903,186 +3079,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-13T18:32:47+00:00",
    "tag": null
-  },
-  {
-   "id": "e3383764d742c56b",
-   "k": "finanzen",
-   "titel": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-   "t": "Metaplanet meldet einen Verlust von 170 Millionen US-Dollar, unter anderem wegen Bitcoin-Verkäufen und Wertverlusten. Der Umsatz und das operative Ergebnis sind gestiegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-13T18:28:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "839ff6ff4c75eb17",
-   "k": "usa",
-   "titel": "Alleged White House Correspondents’ Dinner gunman Cole Thomas Allen hit with new terrorism charge",
-   "t": "Gegen den mutmaßlichen Schützen beim Dinner der White House Correspondents' Association wurde eine neue Terrorismusanklage erhoben. Ihm droht lebenslange Haft.",
-   "e": "Der Fall ist ein Beispiel für die anhaltend hohe Gewalt- und Sicherheitsdebatte in den USA.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/13/us-news/alleged-white-house-correspondents-dinner-gunman-cole-tomas-allen-hit-with-new-terrorism-charge/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-13T18:27:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "0cd2223e32cd84c6",
-   "k": "usa",
-   "titel": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
-   "t": "Der Senator Chris Van Hollen fordert Chuck Schumer heraus, unterstützt von Bernie Sanders. Es ist die erste offene Führungswahl der Senats-Demokraten seit 1994.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-13T18:23:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "f897de4362458d38",
-   "k": "welt",
-   "titel": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
-   "t": "Die EU hat ein Verhandlungsteam für mögliche Gespräche mit Russland über ein Ende des Ukraine-Kriegs benannt. Deutschland gehört dazu, neben EU-Institutionen und weiteren Ländern.",
-   "e": "Damit könnten Europäer erstmals direkt an Friedensverhandlungen teilnehmen, nachdem die USA eine europäische Beteiligung in Aussicht gestellt hatten.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T18:20:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "295a0b0f3295a2fb",
-   "k": "welt",
-   "titel": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
-   "t": "Die EU hat entschieden, wer sie bei möglichen Verhandlungen über den Krieg in der Ukraine vertritt; Deutschland ist Teil dieses Teams.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-eu-bildet-ukraine-team-deutschland-ist-dabei/100268657.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T18:20:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "233d50aba5ac1966",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Großflächige Stromausfälle in der Ukraine",
-   "t": "In der Ukraine kommt es zu großflächigen Stromausfällen. Russische Behörden melden sieben Tote durch ukrainische Angriffe.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-grossflaechige-stromausfaelle-in-der-ukraine/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T18:08:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "4dd59e63e5bb470b",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-   "t": "In der Ukraine kommt es zu großflächigen Stromausfällen. Russlands Sprecher Peskow äußert sich zurückhaltend zu einer möglichen europäischen Beteiligung an Gesprächen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T18:08:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "106906ffb5d385fd",
-   "k": "finanzen",
-   "titel": "Dow-Jones-Futures fallen angesichts von Zinserhöhungsängsten vor der Fed und einer Führungsumbesetzung bei Nvidia, Erzeugerpreisdaten im Fokus - www.tmgm.com",
-   "t": "Die Dow-Jones-Futures geben nach, weil Anleger Zinserhöhungen der Fed fürchten. Zudem gibt es eine Führungsumbesetzung bei Nvidia; im Fokus stehen die Erzeugerpreisdaten.",
-   "e": "Steigende Erzeugerpreise erhöhen den Druck auf die Fed, die Zinsen trotz der Marktunruhe höher zu halten.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVVIU1hSRW1sZl9PYy1CSk9IN21VMG9DempPcGNCZDQzQnc5LXljMTluYl9DTkNNRm5EcXlycFZxYkM2S3Y0RGFDZHBlZ2JXNTN4VDRKWDRqcWxsanJOUlQ0NEQ0eFpCTHM4eW1TMEpzWTdaX0phVUZaYWFlNlJzTFJWY3pvLTd4RzlXZTdHVzkybmpPdHBIdzZfUk83Q2NaN20wU0xRSUtsMktMTTJXVWFRZnJTTjJhMTFPdDBXR1gzZi1fbnVyMXZCVHVad3MzeUM3c1hob2hkX0Rta0hXV3NnVnltZG8x?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-13T18:02:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "82b128f736d2ad6d",
-   "k": "nrw",
-   "titel": "Fred Auer ist tot: Er prägte 50 Jahre lang Iserlohns Gastronomie - IKZ-Online",
-   "t": "Fred Auer, der über 50 Jahre die Iserlohner Gastronomie geprägt hat, ist gestorben.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkdBb3RpSTAzM2tJbjB1b3BQS2lOaGh2Ulg0N1Q0WFFqVTFIOThMZFlXVE5ZSXNmOHdxanJPYTA5bEo5QWplZ3J6NjBhY2pEckNkQWRXRENEN21JS2dkSEhvQ21NblRxNTN6bVFoaXZ2TWhnWl81b0kwSzJ3Q0tKTUcwRnlxTjBEaFBkR1U4VGp3OFBDRWxpZ3JvME5ZRU9jRjJ4RVVtd1AxQVhmR1BwVVZVZURmNzlJbmRFZlZoeUpIby1UaTV5cg?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-13T18:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "27965f3746ce6c88",
-   "k": "usa",
-   "titel": "Scott Bessent lets loose on Iran after he was moved to military base: ‘F the Iranian leadership’",
-   "t": "Finanzminister Scott Bessent äußert sich scharf zum Iran, nachdem er nach eigenen Angaben Todesdrohungen erhalten hat und auf einen Militärstützpunkt verlegt wurde.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/13/us-news/scott-bessent-lets-loose-on-iran-after-he-was-moved-to-military-base/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-13T17:51:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "3a05b45a61e0a58c",
-   "k": "nrw",
-   "titel": "Jahresbilanz 2026: Ausbildungslücke im Märkischen Kreis - Radio MK",
-   "t": "Die Jahresbilanz 2026 zeigt eine Ausbildungslücke im Märkischen Kreis.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5tUjBMU3VwNzRrRXBNN0RoRWM4MDZkMFVIWmp6eDlsQ19JS3VMVHdudktTd3dPbnRfcHdPa0ZpdFRPem9lWGx2NGVWclo0SDd3cHRXczZRN1dLZ0R0RmVZd2NjTUpXRDFJcGkyRGk4MkVTNUtCVWJaSnFPLUh5TlRjVTByVlFCZDlfb1JqNW9xdlFiZF9xRzRLbw?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-13T17:49:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "efad82942dd8779a",
-   "k": "finanzen",
-   "titel": "EZB-Präsidentschaft: Frankreich und Deutschland einigen sich fast auf Pablo Hernández de Cos - Euronews.com",
-   "t": "Frankreich und Deutschland haben sich laut Euronews fast auf Pablo Hernández de Cos als nächsten EZB-Präsidenten geeinigt.",
-   "e": "Die Nachfolge von Christine Lagarde an der Spitze der EZB ist für Zinskurs und Euro von großer Bedeutung.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFotaEh5Ty1XaXVxSmtGRnN0VUJra25Vd2VWb0tSeFY0SU9Qblp4aGF5UjdFOUd4amY4WnNkakJCN1pxUFNEZTV2am5vRlhtbVBZbEtMaWxjUUxsZnhKdy0zQ2ZGMjFxRHlyZFBoQlgzMFI2ZVRCaFFUU1hqS2pIc2FhVUVTdFJ6SlNDWV9USUIzbGdXbV9LR3M2b2dOcjZ0SzdLZ0lVWmRYV0c0OENBLWpUYUI2SVhVMWtvVmk0LTdxWXc?oc=5",
-   "quelle": "Euronews.com",
-   "zeit": "2026-11-13T17:38:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "2798592d82f7f478",
-   "k": "finanzen",
-   "titel": "Anja Kohl, HR, zur Auswirkung der Microsoft-Störung auf die Börse",
-   "t": "Eine Microsoft-Störung hat laut Tagesschau Auswirkungen auf die Börse gehabt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1683374.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T17:37:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "011ff3e43b23ce39",
-   "k": "welt",
-   "titel": "Liveblog Nahost: Mossad-Chef laut Medienbericht zu Gesprächen in Washington",
-   "t": "Laut Medienbericht führt der Mossad-Chef Gespräche in Washington mit dem CIA-Direktor über Iran; Teheran will vorerst keine Gespräche über Atominspektionen führen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-mossad-chef-laut-medienbericht-zu-gespraechen-in-washington-mit-cia-faz-200583539.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-13T17:30:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "85bda214526f3975",
-   "k": "nrw",
-   "titel": "41-Jähriger auf der Straße erschossen – Polizei sucht mehrere Täter",
-   "t": "In Aachen ist ein 41-jähriger Mann nach Schüssen gestorben, trotz Reanimationsversuchen. Die Polizei sucht nach mehreren Tätern und prüft einen möglichen Zusammenhang mit weiteren Vorfällen in der Gegend.",
-   "e": "Die Serie von Vorfällen im Aachener Ostviertel betrifft die innere Sicherheit in NRW.",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/article6af742f97f8bbad09ea62a25/aachen-41-jaehriger-auf-der-strasse-erschossen-polizei-sucht-mehrere-taeter.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-13T17:25:36+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3091,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Tagesschau Ausland",
@@ -3145,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "CNBC Finance",
@@ -3190,7 +3186,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 39
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3205,7 +3201,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 36
+    "n": 34
    },
    {
     "name": "Google News USA",
