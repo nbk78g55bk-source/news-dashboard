@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-14T03:08:33.506689+00:00",
+ "aktualisiert": "2026-11-14T05:01:10.373890+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "67.565 $",
-   "delta": -3.662462631241551
+   "wert": "67.016 $",
+   "delta": -2.006646646396445
   },
   {
    "name": "Ethereum",
-   "wert": "1.908 $",
-   "delta": -4.027856786966252
+   "wert": "1.897 $",
+   "delta": -1.2099959610818822
   },
   {
    "name": "Gold",
@@ -85,6 +85,210 @@
  },
  "items": [
   {
+   "id": "75f629256bfff167",
+   "k": "welt",
+   "titel": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+   "t": "Die US-Regierung nimmt nach dem Ausstieg aus dem Pariser Klimaabkommen nicht an der COP31 in Antalya teil, dennoch reisen viele US-Politiker an, um für Geschäfte mit erneuerbaren Energien zu werben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T04:41:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "3ca0b329b4679583",
+   "k": "deutschland",
+   "titel": "Keine Priorität für Klimaschutz in der Koalition",
+   "t": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 nach Einschätzung von Umweltverbänden verfehlen. Diese werfen Kanzler Merz und Wirtschaftsministerin Reiche einen Rückschritt beim Klimaschutz vor.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T04:40:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "54fea6baff5854b4",
+   "k": "finanzen",
+   "titel": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "t": "Ein Wallet aus der Frühzeit von Bitcoin, das seit 2011 unverändert war, hat 75 BTC bewegt. Es steht im Zusammenhang mit einer Klage im Umfang von 260 Milliarden Dollar.",
+   "e": "Bewegungen alter Bitcoin-Wallets aus der Satoshi-Ära werden im Markt genau beobachtet, da sie Rückschlüsse auf Verkaufsdruck zulassen.",
+   "s": 6,
+   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f8d8b374a8b3014a",
+   "k": "welt",
+   "titel": "Microsoft kämpfte stundenlang mit einer weltweiten Störung. Diese Grafiken zeigen das Ausmass",
+   "t": "Microsoft hatte nach einer weltweiten Störung stundenlang massive Ausfälle bei Outlook und weiteren Cloud-Diensten. Die Server wurden erst am Freitagabend schrittweise wieder in Betrieb genommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/pro/microsoft-kaempfte-stundenlang-mit-einer-weltweiten-stoerung-diese-grafiken-zeigen-das-ausmass-ld.10063579",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f13455bffeed6613",
+   "k": "deutschland",
+   "titel": "DER ANDERE BLICK MIT DATEN - Ausländer sind Treiber der Altersarmut in Deutschland",
+   "t": "Die Zahl ausländischer Rentner, die auf staatliche Grundsicherung angewiesen sind, hat einen Rekordwert erreicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/der-andere-blick/altersarmut-immer-mehr-ukrainische-fluechtlinge-bekommen-sozialhilfe-ld.10063404",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "93e46867b0a9bff9",
+   "k": "finanzen",
+   "titel": "INTERVIEW - Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung: «Die Umsätze sind sehr real»",
+   "t": "Der CEO der Capital Group sieht die Nvidia- und Anthropic-bezogenen Kursturbulenzen nicht als Vergleich zur Finanzkrise 2008 und verweist auf reale Umsätze.",
+   "e": "Die Nervosität an den Märkten rund um KI-Werte hält an, und die Einschätzung eines großen Vermögensverwalters ist ein Gegengewicht zu Krisenvergleichen.",
+   "s": 6,
+   "link": "https://www.nzz.ch/wirtschaft/nvidia-und-anthropic-machen-die-boerse-nervoes-ein-3600-milliarden-fonds-chef-gibt-entwarnung-die-umsaetze-sind-sehr-real-ld.10063100",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "503cae60c7893e91",
+   "k": "welt",
+   "titel": "Nach militärischen Drohungen: Israel erlässt Einreiseverbot gegen Mélenchon",
+   "t": "Israel hat ein Einreiseverbot gegen den französischen Linkspolitiker Mélenchon erlassen, nachdem er angekündigt hatte, Schiffe zum Schutz propalästinensischer Flottillen vor Gaza einzusetzen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/nach-militaerischen-drohungen-israel-erlaesst-einreiseverbot-gegen-melenchon-ld.10062975",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f422919783f9e08c",
+   "k": "usa",
+   "titel": "Auch nach den Midterms ist im Iran-Krieg kein Ende in Sicht: Trump will das Regime noch immer in die Knie zwingen",
+   "t": "Nach den Midterms sieht Trump im Iran-Krieg keine Eile für Verhandlungen und hält an Drohungen gegen das Regime fest. Die Kosten des Krieges gelten als ein Grund für die Niederlage der Republikaner.",
+   "e": "Der anhaltende Konflikt wirkt auf Ölpreise, Märkte und die innenpolitische Lage in den USA.",
+   "s": 7,
+   "link": "https://www.nzz.ch/international/auch-nach-den-midterms-ist-im-iran-krieg-kein-ende-in-sicht-trump-will-das-regime-noch-immer-in-die-knie-zwingen-ld.10062970",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d36da2b5c450abce",
+   "k": "welt",
+   "titel": "INTERVIEW - Cyberattacken erschüttern Europa. Der Experte Fredrik Blix sagt: «Die Wahrscheinlichkeit, dass wir in Schwierigkeiten stecken, liegt bei 100 Prozent»",
+   "t": "Nach Hackerangriffen auf Kühlregale in mehreren Ländern warnt ein schwedischer Cybersicherheitsexperte vor den Risiken für Europa.",
+   "e": "Die Angriffe auf Infrastruktur zeigen die Verwundbarkeit kritischer Systeme in Europa.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/cybersicherheit-in-europa-experte-fredrik-blix-schlaegt-alarm-ld.10062330",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "62943dc9e3e4ca38",
+   "k": "welt",
+   "titel": "Putin fordert eine neue Sicherheitsarchitektur – die Europäer versuchen, nicht in die Falle zu tappen",
+   "t": "Putin fordert eine neue Sicherheitsarchitektur. Die Europäer einigen sich auf ein Verhandlungsteam statt einer einzelnen Person, und 40 Staaten unterzeichnen eine Erklärung zu Grundsätzen der europäischen Sicherheit.",
+   "e": "Die europäische Abstimmung zu Verhandlungen mit Russland gewinnt an Bedeutung für künftige Sicherheitsfragen.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/putin-fordert-eine-neue-sicherheitsarchitektur-die-europaeer-versuchen-nicht-in-die-falle-zu-tappen-ld.10062304",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3e583f00d11e801c",
+   "k": "deutschland",
+   "titel": "Die Invalidenversicherung steht vor dem Bankrott. Der Fall einer jungen Frau zeigt: Wer einmal eine Rente bezieht, kommt kaum mehr davon los",
+   "t": "Die Invalidenversicherung in der Schweiz steht laut Bericht vor dem Bankrott, insbesondere wegen steigender Anmeldungen junger Erwachsener.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/schweiz/die-invalidenversicherung-steht-vor-dem-bankrott-der-fall-einer-jungen-frau-zeigt-wer-einmal-eine-rente-bezieht-kommt-kaum-mehr-davon-los-ld.10062076",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0bb645ffe20aa6d7",
+   "k": "usa",
+   "titel": "Wer tritt die Nachfolge Trumps an? Die Midterm-Wahlschlappe mischt das republikanische Kandidatenfeld für 2028 auf",
+   "t": "Nach der Midterm-Niederlage der Republikaner mischt sich das Kandidatenfeld für 2028, neben Vizepräsident Vance drängen weitere Anwärter nach vorn.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/wer-tritt-die-nachfolge-trumps-an-die-midterm-wahlschlappe-mischt-das-republikanische-kandidatenfeld-fuer-2028-auf-ld.10059891",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "954010156a9599d3",
+   "k": "deutschland",
+   "titel": "„Wir leben in einem Rechtsstaat“ – Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
+   "t": "Linke-Chef Pantisano verteidigt das langwierige Ausschlussverfahren gegen Vanessa Emde und verweist auf den Rechtsstaat.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6af7ba6a4495f9bd85b7f5f7/umstrittene-abgeordnete-wir-leben-in-einem-rechtsstaat-linke-chef-verteidigt-langwieriges-verfahren-zu-vanessa-emde.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T04:19:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "286226462fb3f412",
+   "k": "deutschland",
+   "titel": "„Die Brandmauer ist eine Verfassungsfrage“",
+   "t": "Ex-Kanzlerkandidat Schulz verteidigt die Brandmauer gegen die AfD als Verfassungsfrage und wirft der SPD fehlenden Mut zur klaren Positionierung vor.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/plus6af6e27f84c7128d8f27df65/martin-schulz-die-brandmauer-ist-eine-verfassungsfrage.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T04:00:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "6aa316d8a1403375",
+   "k": "nrw",
+   "titel": "Demokratie üben: Jugendlandtag 2026: Nachwuchs hat das Sagen im Plenarsaal - DIE ZEIT",
+   "t": "Beim Jugendlandtag in NRW übernehmen junge Menschen im Plenarsaal die Debatten und Abstimmungen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlpvRnV6d1h2N1BuRzBpMzcwZ2NDSVNGQ2lJbmpBMjNFYjB4M0h5OS15Zl9UcS12NFZaRk4tendnaEtZVkVURFlZcDhBV2JUSi1paGpneWd0VGxRQ2E4OWdEV19GNE01OVBNbUhnNjJJSVVmWTVXeUV6bW1KRGFLOXB5V29MTGctdkZoMjlVU0JQaVdiMnFZ?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-14T04:00:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "acfc40ada04d3db0",
+   "k": "deutschland",
+   "titel": "Energiewende: Produktion von Sonnenstrom steuert auf Rekord zu",
+   "t": "Die Stromerzeugung aus Solarenergie in Deutschland steuert auf einen Rekord zu.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-produktion-von-sonnenstrom-steuert-auf-rekord-zu/100269842.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T04:00:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "4310a00f64336c00",
+   "k": "welt",
+   "titel": "Kuba bereitet sich auf Angriff der USA vor",
+   "t": "Kuba bereitet sich nach dem US-Militärangriff in Venezuela und einer neuen Drohung Trumps auf einen möglichen Angriff vor. Im Land finden regelmäßig Militärübungen statt.",
+   "e": "Die Spannungen in der Karibik nehmen zu, nachdem die USA zuletzt militärisch in Venezuela eingegriffen haben.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/article6af7d70e4495f9bd85b7f66a/karibikinsel-kuba-bereitet-sich-auf-angriff-der-usa-vor.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T03:47:26+00:00",
+   "tag": null
+  },
+  {
    "id": "56363fe77948994e",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: Gen-Z-Proteste in Düsseldorf und Wuppertal angekündigt - n-tv.de",
@@ -94,6 +298,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDlZLUVQLXI1OWlFRTBTSVFFb3lHVVMtWnNJVXA0dmdfS0EwVS04VFdzYUJ1SmhPTVZYb0lxNXYzWGtHeWdtcW9KWmxkX2gtWWM3cllkZ3RzVjFpU20xaVNmVmUyMUIxdHNKU0pSUHRSeFg5d3k5RngxNUd3eDMteDE2QnY1SEMwWlZFTm16WkRud0w5UEpmZ09ucE9VQS0xLVZVQkdUaDVnM0RRelRQLWlpQ2NPYmJ5U1lINTQ0MmY?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-14T03:02:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c011531ba60164a0",
+   "k": "deutschland",
+   "titel": "Internationale Aufmerksamkeit: Warum die „New York Times“ auf eine Bodensee-Stadt blickt",
+   "t": "Die New York Times berichtet über die wirtschaftlichen Sorgen in Friedrichshafen am Bodensee.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/internationale-aufmerksamkeit-warum-die-new-york-times-auf-eine-bodensee-stadt-blickt/100269839.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T03:00:21+00:00",
    "tag": null
   },
   {
@@ -154,6 +370,18 @@
    "link": "https://www.welt.de/politik/ausland/article6af7b9d79849eea0701e248e/usa-china-russland-weisses-haus-kuendigt-historisches-dreiertreffen-trumps-mit-xi-und-putin-an.html",
    "quelle": "Welt",
    "zeit": "2026-11-14T01:58:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d8af521425b184c",
+   "k": "finanzen",
+   "titel": "Fed Hawks Signal Rate Hikes May Stretch Beyond December Into Next Year - bloomingbit",
+   "t": "Fed-Falken signalisieren, dass Zinserhöhungen über Dezember hinaus bis ins nächste Jahr reichen könnten.",
+   "e": "Sollte sich die Haltung durchsetzen, bliebe das Zinsniveau in den USA länger hoch, was Aktien und Krypto unter Druck setzen kann.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KcDlHSEFscEt2bnR0em9jU0FmeXFMcjgzdllNZEpCVUluUWw5cXVrNkViQUFPRDFPQkpQX3JBS29pR2QwOTQ5MW1Pb2FMS2JkVkFCNA?oc=5",
+   "quelle": "bloomingbit",
+   "zeit": "2026-11-14T01:25:37+00:00",
    "tag": null
   },
   {
@@ -1681,6 +1909,18 @@
    "tag": null
   },
   {
+   "id": "ec610825af5c1d26",
+   "k": "nrw",
+   "titel": "Essen | NRW-Wahl 2027: Grüne setzen erneut auf Zugpferd Neubaur - Radio Bielefeld",
+   "t": "Die Grünen in NRW setzen für die Landtagswahl 2027 erneut auf Mona Neubaur als Spitzenkandidatin.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2RKa1o5ZmVNRVpwekJ1dTlqSldVSDZOU25obHNxWTA3XzQ5dmJzSUJyeThHbzBNbHBfX3RGcElTbmdyWlhQZmxzM1YtSExubkFac29faHp2MjFEN0Nab2JZRDVQYW90QzdPZjZub1lGSDlwaHVSeGJnZVNjbEk2SzR5d0lVLW9JVHBSal85R0tfWFZ2UnJDMXZjbWs2dHRxVGFGRTZnTUZVZE0yV2x5UF9RWENUbFlFbWFrMHlMY0NEM1k?oc=5",
+   "quelle": "Radio Bielefeld",
+   "zeit": "2026-11-13T15:51:00+00:00",
+   "tag": null
+  },
+  {
    "id": "0a35f7575c159c7f",
    "k": "welt",
    "titel": "Krieg in Nahost: Sorgen im Machtzentrum der Wirtschaft: Israels Hightech-Branche hofft auf einen Politikwechsel",
@@ -2843,246 +3083,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-13T10:38:44+00:00",
    "tag": null
-  },
-  {
-   "id": "d9c9f0c018888a34",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Prozess gegen Trio startet in Kleve - tagesschau.de",
-   "t": "Vor dem Landgericht Kleve beginnt der Prozess gegen drei Angeklagte.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOHNIaldWN2E4NXNBd280SzJjdUZlZ01VQXBxRlVNaXpQdmZNcHRhWWhDcldpX3dFbUlqU3M5T1lXMG5sMHRPNUFnV3lQTHJfcnZvOGVGZndKbW1RbUw3emdtZHoySWlLV2lSQTVVX0wtX2c3ZWdGZVkzNC1JUHdXRWw2TUU3azRhSHZPQmw2LTlqcWpiZWh1YzVhOFk1cG9LV3JHZDhqdDU0REV3ZlR2VDNMcm42SThZQldjZWN1NjI0NkxNMnl2MnljcmNhNVJqV0lMSU44VEY3U1dC?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T10:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d39345a6a983bb23",
-   "k": "nrw",
-   "titel": "Polizei-News Iserlohn, 13.11.26: Quad gestohlen - News.de",
-   "t": "In Iserlohn wurde ein Quad gestohlen, wie die Polizei berichtet.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVFSMHR0TGJ4a19RcXJfNFBsdkZiUEtUd2lVMk1jRXU1eFUzMlNJb3lQem5pQUJxcWFhSDhHb3ZhcGpmZEUwVVZ0aXJtYk5xS0hBNTRaMW04aXNfdDBSWlN6aWVWdjdROFA0X0s4M2NJUXhSZURaZHU5TzVxSVdtTEZLdk9ycnhiQ1FWTFdJclVYdThzQ0twc2xhVk5JQ0ZyM3hObEJUUmw?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T10:28:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "aeb0f9c6538f7774",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Fotoinstitut in Düsseldorf gerettet - tagesschau.de",
-   "t": "Ein Fotoinstitut in Düsseldorf wurde gerettet, sein Fortbestand ist gesichert.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVc0eXpQQ3pCVW1MeHczR3o1WURudUxPbDhjYjB6S1Z5R1ItSm1FVTh3eVl5OVlIN1dVcjA0X2w2N2VCc3ZHWG11b3o3Y3dBUHFtSmNZQTY5RzJzTHNyTUUwcjJvWlZwNVM4dW5MRHJ2SlUyeVNEWXQ5WFJVTXZIYlFNbUlCRm9WVHA5LXREdnJjMzRLU0xHaURZQ2MtOFJJYTlTR2VLV3ZzZVhUeDVIQjUwLVJfMy1qZnFvU1RCLW5ndw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T10:21:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5661930fb94b4607",
-   "k": "finanzen",
-   "titel": "USA gibt 500 Mio. US-Dollar für Yen-Intervention aus, einschließlich Euro - IDNFinancials",
-   "t": "Die USA haben laut Bericht 500 Millionen US-Dollar für eine Intervention zur Stützung des Yen eingesetzt, teils auch in Euro.",
-   "e": "Eine koordinierte Währungsintervention zeigt, wie stark der Yen unter Druck steht, auch wegen der restriktiven Fed.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeW5IWHlualFseE5La2lEMXJRZkVnTmNqaGhEbmpzbHI2RWltZGRSb1U0cnZBS1ZLdXBxX0lLOGtSNV9ZTnBTNlJGQnM3QUhEbWlUdjl6alZibmxHYzQ0cmktaTlITGtGZTdCc1lSUll3YnNNWnoyN1NERWtpQmhwMThKZk5DOVM0WXZKeFB4aERDNk5USkJhVVVBMlBuQ0NBYURmeHZxN2hEUG1zdXdWSjRNTWNlajZuY25HYWVyaFA1TG8?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-13T10:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a8422b4a78778d27",
-   "k": "usa",
-   "titel": "Donald Trump: Nächstes Land im Visier - US-Präsident erwägt Militärschlag - News.de",
-   "t": "US-Präsident Trump erwägt laut Berichten einen Militärschlag gegen ein weiteres Land.",
-   "e": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbEt3LU5tTEpJZWlfYlcwZVBMNS1CUmM0QWEwd2dNeGFqRDVIYUdvRmxhdlRNbUd1LWt2akVnSm41aEpaVV9NcHlKOVdKVWZ0andKdE1LbHB5Mm9rRVFHQnNoN3JnLUJmVHM2aTMzZUdJaHBiR0RwMXFsVV9yVllqZzVabGFDdUx4N0w4RDJMbWxzUjJ0dlh3SWRmX0h6eXVYeGFNYXc4LUVma0hveS1sZ0hOUkprc0xkWFo0Z0Zzc21HNGMtaVhJLXpYdmQ4QUZpVm96NnBrLVNRdW9BQjg4aGtHWUg2SkZqV2MyNzZFdDd4MWQ4NmdodFd3Qi1aZWsyNWRjNA?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T10:18:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "b5c305554a83dde4",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Prozess um geschütteltes Baby beginnt - tagesschau.de",
-   "t": "Vor einem Gericht in Nordrhein-Westfalen beginnt der Prozess um ein geschütteltes Baby.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDRWakplcHNVemtzdU5sYVJPa0VQazlPMnI3Ml80bkdqTFlnRmhqTFFOdFVBVFZCcFFJS1VZb2UtVXpyZ3g4X0l0V0xnbDlYZnY3b2xYMjhWTnFRSWFhb2JzYWxUYmFSa0tNOVFFVzhMZ2c3V2hDcVNDTVdUVDdldDA0dC1TdWhqNWMwNGd2MC1WVFFpVTBnamV1ZnZkWENqWGo3T3hYV2FZalY2YndOalhjeXBRcmlTNUxuYXluNVNpY1NLOXhpZVFIal9PUHVWb0tKQTY3Yw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T10:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "81ba587bee3c8b53",
-   "k": "deutschland",
-   "titel": "Bundesregierung plant Einstieg bei Atomkonzern Urenco für bis zu vier Milliarden Euro",
-   "t": "Die Bundesregierung plant laut Medienberichten, sich mit bis zu vier Milliarden Euro an dem Atomkonzern Urenco zu beteiligen. Die Begründung sind geostrategische Gründe.",
-   "e": "Eine Staatsbeteiligung an einem Anbieter der Urananreicherung betrifft die Versorgungssicherheit Europas bei Kernbrennstoff.",
-   "s": 7,
-   "link": "https://www.welt.de/wirtschaft/video6af6dda65a72dceba1d61301/geostrategische-gruende-bundesregierung-plant-einstieg-bei-atomkonzern-urenco-fuer-bis-zu-vier-milliarden-euro.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-13T10:13:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "752bb026778e761a",
-   "k": "usa",
-   "titel": "Vance suchte Frieden mit dem Iran – dann pfeift Trump ihn öffentlich zurück – „Haben ihre Meerenge“ - Frankfurter Rundschau",
-   "t": "Vizepräsident Vance hatte nach Berichten eine Friedenslösung mit dem Iran gesucht, Trump widersprach ihm öffentlich.",
-   "e": "Die uneinheitliche Linie im Weißen Haus zum Iran ist relevant für Ölpreise und die Lage in der Straße von Hormus.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThRWlEzbE5ieWh6c19zdjh6Y2UyTjA5SGJrV3dOY2kwcUxEc01paE4tSW8zckJOXzZBSFZnQ3NDWm05TEx5VVF5aGliQnJIbThFUDIybERrbVpfZmtrSXdhaktnSTRvSU5xb0xUNGZRSVNsMHo5WERKR20xQnl6ekIzR2cxWG82aE9ZVVY2UnBIaG9oLW9IS1JUS3A?oc=5",
-   "quelle": "Frankfurter Rundschau",
-   "zeit": "2026-11-13T10:07:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "aa0175cd57a88d57",
-   "k": "finanzen",
-   "titel": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
-   "t": "Nvidia-Chef Jensen Huang ist nach Berichten über zwei außereheliche Beziehungen als CEO zurückgetreten. Die Aktie reagierte bisher nur leicht.",
-   "e": "Der Rücktritt des Chefs des weltweit wichtigsten KI-Chip-Herstellers ist für den Markt und die Chip-Branche ein bedeutender Einschnitt, auch wegen des Verdachts einer Spionage-Verbindung nach China.",
-   "s": 8,
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-13T10:00:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "8a6890fbe98d4196",
-   "k": "finanzen",
-   "titel": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight - CNBC",
-   "t": "Die US-Notenbank Fed hatte in diesem Jahr Zinssenkungen erwartet, bereitet sich nun aber auf einen neuen Kampf gegen die Inflation vor.",
-   "e": "Die veränderte Erwartung verschiebt die Zinsperspektive für Anleihen und Aktienmärkte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGR4RjIxVGFhUmhkcUNpa0F6VmJHVE8yekJkVDRXMVdPdkNjM282cjJvaWhqdnhqRFRFV1M4bHZEWWctRjhWMnBVV2FxU1ZpX2ZpbzNRM1BodE5DLVNXZWZVcndMWHphWngzWEdEWHNpYXU5OFEzbFYzSTNoV0toaHd3QU8wX2JTZ09HZi1JOXfSAZABQVVfeXFMT1BkeEYyMVRhYVJoZHFDaWtBelZiR1RPMnpCZFQ0VzFXT3ZDYzNvNnIyb2loanZ4akRURVdTOGx2RFlnLUY4VjJwVVdhcVNWaV9maW8zUTNQaHROQy1TV2VmVXJ3TFh6YVp4M1hHRFhzaWF1OThRM2xWM0kzaFdLaGh3d0FPMF9iU2dPR2YtSTl3?oc=5",
-   "quelle": "CNBC",
-   "zeit": "2026-11-13T10:00:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "f4ae5caea07699c1",
-   "k": "finanzen",
-   "titel": "Fed’s Barr says US should prepare for ‘serious’ AI job disruption, widening inequality - Jefferson City News Tribune",
-   "t": "Fed-Gouverneur Barr warnt, die USA sollten sich auf eine ernsthafte Störung des Arbeitsmarkts durch KI und wachsende Ungleichheit vorbereiten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUZiVV9yVUhadVk5UWNNaWVBdWJBLWdQSm5KV0VPYlAyUG4wdnV6Nm5iTXdXVkNrMThxVUV0UEQwd2tYRVJKUDNSOWxtZ25lREZsSkJpWDViUmZiM3Rwem9Ub0xHQkhFNzBoWkI3SlY0UFNfX2h6cmtob1dDRjJiSk9fNjdUVmN1LUQ0Y2hYcTlGV2JCTDN3?oc=5",
-   "quelle": "Jefferson City News Tribune",
-   "zeit": "2026-11-13T10:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f343e9529f47cc4e",
-   "k": "finanzen",
-   "titel": "Fed’s Barr says US should prepare for ‘serious’ AI job disruption, widening inequality - Jefferson City News Tribune",
-   "t": "Fed-Gouverneur Barr warnt, die USA sollten sich auf eine ernste Störung des Arbeitsmarkts durch KI und eine wachsende Ungleichheit vorbereiten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1hCNmRCTVU4UFdpeWdaZElFbnBrSWVCVzJKWWZ6STFxREVqQnIxTEhMU2JCSG4yWU9ncUo5VklKaVVCc1hTZV80cTM5eGJ5S0w1UnhrOVNKOHJqWTYwOUhRdUE0dXFqNEhXRkF5VXBtc0NRODg4WkI4TUZ3ZmxlZ0ZvYlE2NExqMnNKQzFQUU9JakZCUmk2VA?oc=5",
-   "quelle": "Jefferson City News Tribune",
-   "zeit": "2026-11-13T10:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a72d3718b4fab5c3",
-   "k": "deutschland",
-   "titel": "INTERAKTIV - Strom und Gas so teuer wie zuletzt Anfang 2023 – die aktuellen Zahlen zur Energieversorgung in Deutschland",
-   "t": "Strom- und Gaspreise in Deutschland liegen laut NZZ-Auswertung so hoch wie zuletzt Anfang 2023.",
-   "e": "Die Energiepreise beeinflussen Inflation, Konsum und die Zinserwartungen der EZB.",
-   "s": 6,
-   "link": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
-   "quelle": "NZZ",
-   "zeit": "2026-11-13T09:56:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "399f5b9521779aef",
-   "k": "welt",
-   "titel": "Nach Putin-Treffen: US-Vermittler wollen Europa in Ukraine-Verhandlungen einbeziehen",
-   "t": "Nach einem Treffen zwischen den US-Vermittlern und Putin wollen die USA Europa in die Ukraine-Verhandlungen einbeziehen.",
-   "e": "Eine Einbindung Europas wäre ein Wechsel in der Verhandlungsstruktur und betrifft direkt die Sicherheitsfragen in Europa.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/video/video-1683048.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T09:48:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "97a5327904e636da",
-   "k": "welt",
-   "titel": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-   "t": "Kanada droht dem Autokonzern Stellantis mit einer Klage, nachdem Jeep-Produktion aus Brampton in die USA verlagert werden soll.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-13T09:45:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "b5ace464d885cd6d",
-   "k": "usa",
-   "titel": "Donald Trump Jr.: Demokraten nehmen Trump-Familie ins Visier – Trump-Sohn verliert Job - News.de",
-   "t": "Donald Trump Jr. verliert laut Bericht seinen Job, während Demokraten die Trump-Familie ins Visier nehmen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUNUb2ZISjFQbURQS3FLOFNlYlJIWkdOd3hueWwwek4wX0hkZUFyM21ySWp6OE1YRmpzeUFlT3FKZnNKSFY1X0RTa2xMTUlGczJBWTJ0MXFtOEZQRXo5T3JVOV92Qkloc0lZNmhwaWRNVURBeUF6cWRBeUx4end4VDdUR2xFaVhUUmowRy02eWtYN0lOVDdLS0VQQUJZSTR1ejV5UHo3LVc3V1l3NVl5dWhodF9YZDNNaGRkc0dFNThQMEV3RVJGaEpVUEVjUUlJeW5zMEZR?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-13T09:45:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "7d505f6d35335064",
-   "k": "finanzen",
-   "titel": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-   "t": "Der Bitcoin-Kurs ist unter 68.000 US-Dollar gefallen und hat dabei die 200-Wochen-Linie durchbrochen. Die Kryptowährung war seit Mitte August nicht mehr dort.",
-   "e": "Die 200-Wochen-Durchschnittslinie gilt bei Analysten als wichtige Trendmarke, die Stärke des Dollars belastet Risikoanlagen.",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-13T09:39:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "7461920ce5687aea",
-   "k": "finanzen",
-   "titel": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-   "t": "Das US-Justizministerium will rund 1,2 Milliarden US-Dollar aus dem Binance-Hack beschlagnahmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-13T09:27:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "54f48a4f6819e3bd",
-   "k": "deutschland",
-   "titel": "Handys im Straßenverkehr: Wie weit darf Überwachung gehen?",
-   "t": "Verkehrsminister Bilger will sogenannte Handy-Blitzer bundesweit einführen. Kritiker warnen vor unverhältnismäßiger Überwachung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/handy-blitzer-kontrolle-ueberwachung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T09:21:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "72291984ecd4a5c9",
-   "k": "finanzen",
-   "titel": "Fed Chair Kevin Warsh's Central Bank Reforms Come With a Significant Unintended Consequence - The Motley Fool",
-   "t": "Fed-Chef Kevin Warsh plant Reformen der Zentralbank, die laut Analyse eine erhebliche unbeabsichtigte Nebenwirkung haben könnten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHdjTmRQdklkWGhJSTQwdkNhUUVITGJKZnZ3ODNKaGhrTEFBMEFtRTFPYTZQdEtoeENvN0FtTnhXMWt4NlY0UlBwWS1BOFlZdWdZNzQ0Znp1ZW9yLVBpSWwySjdEcHA1Q2NUbWpHNFdJUnpyTkZoRmQ1cENQWWhvaFNRRVhETlBzVi1MdHFKNzhJQ2h1T2h2X2NYb1ZSdUI1N2JXZldSTUJvcGllUHI3dEJkWjBmVTZuVUZxMFBhY2UwLVM4ek9OcEVpc3o?oc=5",
-   "quelle": "The Motley Fool",
-   "zeit": "2026-11-13T09:06:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,12 +3095,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "FAZ Finanzen",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 6
+    "n": 4
    },
    {
     "name": "Google News Fed",
