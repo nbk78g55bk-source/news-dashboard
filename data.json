@@ -1,40 +1,40 @@
 {
- "aktualisiert": "2026-11-14T09:01:13.188638+00:00",
+ "aktualisiert": "2026-11-14T11:01:28.470028+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "130,44 €",
-   "delta": -0.3932662547086907
+   "delta": -0.9040529048615742
   },
   {
    "name": "iShares MSCI EM",
    "wert": "45,00 €",
-   "delta": -2.3353763111727877
+   "delta": -0.9901466360235256
   },
   {
    "name": "Deka S&P 500",
    "wert": "141,90 €",
-   "delta": -0.5919892536395577
+   "delta": -1.1976502645093867
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "178,60 €",
-   "delta": -1.7709862471168458
+   "delta": -2.1477121305614633
   },
   {
    "name": "Deka DAX",
    "wert": "233,60 €",
-   "delta": 0.3436412962865454
+   "delta": -0.10690874363499248
   },
   {
    "name": "Bitcoin",
-   "wert": "66.933 $",
-   "delta": -2.5193305083607624
+   "wert": "67.244 $",
+   "delta": -2.9195362088927554
   },
   {
    "name": "Ethereum",
-   "wert": "1.894 $",
-   "delta": -1.9369650649451606
+   "wert": "1.908 $",
+   "delta": -2.165738293625382
   },
   {
    "name": "Gold",
@@ -54,36 +54,288 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-14T07:01:14.070071+00:00",
+  "slot": 12,
+  "stand": "2026-11-14T11:01:28.470008+00:00",
   "punkte": [
    {
+    "k": "finanzen",
+    "t": "Führende Fed-Vertreter signalisieren weitere Zinserhöhungen im Kampf gegen die Inflation, und die US-Erzeugerpreise steigen laut Bericht mit 6,5 Prozent auf Jahresbasis. Der Fed Funds Satz liegt bei 3,88 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Der EZB-Zins liegt bei 2,50 %. EZB-Ratsmitglied Nagel hält angesichts zunehmender Zweitrundeneffekte eine weitere Zinserhöhung für unerquicklich. Am Markt notieren der Deka DAX 233,60 € und der iShares MSCI World 130,44 €."
+   },
+   {
     "k": "welt",
-    "t": "Im Iran-Krieg sind nach einer Kollision mit einer Seemine zwei Öltanker in der Straße von Hormus in Brand geraten. Iran lehnt laut Meldung Gespräche über Atominspektionen ab, und Trump hat die Waffenruhe Anfang Juli für beendet erklärt."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die Fed gilt laut Bloomberg als auf Kurs, die Zinsen im nächsten Monat anzuheben, und möglicherweise erneut im Januar. Die US-Erzeugerpreise steigen laut Bericht mit 6,5 Prozent auf Jahresbasis. Fed Funds liegen bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Märkte: Deka DAX 233,60 €, iShares MSCI World 130,44 €, Deka Nasdaq-100 178,60 €. Gold kostet 3.886 $, Bitcoin 67.351 $. Der EZB-Zins liegt bei 2,50 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Nvidia-Chef Jensen Huang tritt als Konzernchef zurück, der Konzern verliert laut Berichten rund 600 Milliarden Dollar an Börsenwert. Der Verwaltungsrat hat laut CNBC noch keinen Suchdienst für die Nachfolge beauftragt."
+    "t": "Im Iran-Krieg lehnt Teheran laut Meldung Gespräche über Atominspektionen ab. Nach einer Kollision mit einer Seemine brennen im Golf von Hormus zwei Öltanker."
    },
    {
     "k": "deutschland",
-    "t": "Mercedes hat nach einem Streit über Kosten einen Investitionsstopp in Deutschland angekündigt. Die IG Metall kritisiert die Haltung des Konzerns laut Meldung scharf."
+    "t": "Mercedes hat nach einem Streit über Kosten einen Investitionsstopp in Deutschland angekündigt. Die EU hat ein Verhandlungsteam für mögliche Gespräche mit Russland über den Ukraine-Krieg benannt, Deutschland gehört dazu."
    },
    {
-    "k": "finanzen",
-    "t": "EZB-Ratsmitglied Nagel hält angesichts zunehmender Zweitrundeneffekte eine weitere Zinserhöhung für unerquicklich. Frankreich und Deutschland haben sich laut Euronews fast auf Pablo Hernández de Cos als nächsten EZB-Präsidenten geeinigt."
+    "k": "usa",
+    "t": "Die US-Luftfahrtbehörde FAA hat das landesweite Startverbot nach mehreren Stunden wieder aufgehoben. Laut Verkehrsminister Duffy waren überlastete Kommunikationssysteme die Ursache."
+   },
+   {
+    "k": "welt",
+    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi und Putin für die kommende Woche in Shenzhen angekündigt. Trump will dabei offenbar auch über eine mögliche Reduzierung der Atomwaffenbestände sprechen."
    }
   ]
  },
  "items": [
+  {
+   "id": "02df60b531dcf333",
+   "k": "deutschland",
+   "titel": "„Das ist überfällig“ – CSU kündigt höhere Abschläge bei Frührente an",
+   "t": "Die CSU kündigt höhere Abschläge bei einem vorzeitigen Renteneintritt an. CSU-Landesgruppenchef Alexander Hoffmann nennt die Erhöhung überfällig.",
+   "e": "Die Änderung betrifft alle, die vor der Regelaltersgrenze in Rente gehen wollen, und hat Folgen für die Rentenkasse.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6af8397c9849eea0701e298d/fruehrente-das-ist-ueberfaellig-csu-kuendigt-hoehere-abschlaege-an.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T10:54:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "a4a62e5ad96a7ff5",
+   "k": "welt",
+   "titel": "Nato-Beitritt gegen Donbass-Verzicht? Selenskyj berichtet von brisantem Vorstoß der USA",
+   "t": "Selenskyj berichtet, die USA hätten der Ukraine eine Nato-Mitgliedschaft im Gegenzug für einen Rückzug aus dem Donbass in Aussicht gestellt. Russland meldet nach eigenen Angaben die Einnahme eines ukrainischen Ortes.",
+   "e": "Ein solcher Vorschlag würde die Verhandlungen über Gebiete und Sicherheitsgarantien grundlegend verändern.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/video6af839a39985884ef7d788d8/ukraine-nato-beitritt-gegen-donbass-verzicht-selenskyj-berichtet-von-brisantem-vorstoss-der-usa.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T10:46:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "74e379492750ff56",
+   "k": "nrw",
+   "titel": "News, Nordrhein-Westfalen, Regional: Fußgänger bei Verkehrsunfall in Heinsberg schwer verletzt - tixio - Nachrichten",
+   "t": "In Heinsberg ist ein Fußgänger bei einem Verkehrsunfall schwer verletzt worden.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzhsSkh2d0dFREkwdFE0VlIyRWJ1NXc2Qzc2Q0o2cXEzQ1ZpMG5yWWJhVHE3bkRRMHRNZzhKc2lPQ2dWbmxIdkxrc2NfTjB6UnZtUW5HbmoyWTA0OHEyVloxbFlNMkVZc0hIZFBDckRDQ013T05PQXZXTzY1c00tTTkxMXA1SWtpZXdZSmJnSGZZVHhETGdBWQ?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-14T10:43:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b7cc2f41f2eb09f",
+   "k": "deutschland",
+   "titel": "Trauerfeier in München: Weit mehr als 1.100 Trauergäste nehmen Abschied von Aiwanger",
+   "t": "Bayern hat mit einem Trauerakt in der Münchner Frauenkirche Abschied von Hubert Aiwanger genommen. Mehr als 1.000 Gäste nahmen daran teil.",
+   "e": "Aiwanger war bayerischer Wirtschaftsminister und Chef der Freien Wähler, eine zentrale Figur der Landespolitik.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-weit-mehr-als-1100-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T10:32:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "318aa13bfdab665d",
+   "k": "usa",
+   "titel": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
+   "t": "Die gewählte Bürgermeisterin von Los Angeles, Nithya Raman, verspricht, Obdachlosen-Camps vor den Olympischen Spielen 2028 zu halbieren.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-14T10:30:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "543b600bcc4eb8a7",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Trinkwasserversorgung in Erkrath eingeschränkt - tagesschau.de",
+   "t": "In Erkrath ist die Trinkwasserversorgung eingeschränkt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaU1vR2NrMmtwRGdkV0F0eXdzMDFmdjhEcUlERDBjVDhFMC1KQnl5blgxdWxSYnpiT3dhbU1YblRSVG9UWHkyTmN1VWliSUQ0Nm1manFUcnExMG0zRUJSQ0xFdldwMFZFeUd1SDRCMmJVQ2NTT3JNZmlaZlo2NGlxLTBnRjRWU29OWGdXOGV6WmNhbXNtMWxNYkI2aWxaNWVIQjRRVXpUYlZfNHFzZnBZNW1PRVlGQW9JTlZPaFBKLTUzNTZoOEdvTHBlT2doc0RteWNFdFRwRQ?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-14T10:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d10eb252c1670e21",
+   "k": "welt",
+   "titel": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+   "t": "Eine globale Störung bei Microsoft hat zentrale Cloud-Dienste stundenlang lahmgelegt. Laut Unternehmen laufen alle Systeme wieder, Hinweise auf einen Cyberangriff gebe es nicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T10:17:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "86dd73c14b44fbc9",
+   "k": "usa",
+   "titel": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+   "t": "Demokraten wollen nach ihren Wahlerfolgen deutlich höhere Mindestlöhne durchsetzen, etwa in Pennsylvania. Ökonomen sehen dabei Risiken.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-14T10:00:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "0179507c50343468",
+   "k": "finanzen",
+   "titel": "Künstliche Intelligenz trägt 25 % zum Wachstum der Unternehmenskredite in der Eurozone bei. - Vietnam.vn",
+   "t": "Laut einer Auswertung trägt Künstliche Intelligenz rund 25 Prozent zum Wachstum der Unternehmenskredite in der Eurozone bei.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmJlWkRhbzRnZDFId2F2NkQ3ZUdKZ1BuNkJTaUJaZmRMZTU0YUFMaE1LQ2RneFBVX2t1NFh3Q1dfTEpaNFY5ek00d0FKRnJ6ZjFZTTdJeG55LU4zeTVuaGpZcWZ1elhZR25ocExXTlZYSGdxTlo0RnVITTBLYUViZkd3ZHBMaWhUUklCUDFpZlBNM0MyV0E?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-14T09:55:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "a16770fbe0d03912",
+   "k": "deutschland",
+   "titel": "Das Gewinner-Szenario für die deutsche Autoindustrie",
+   "t": "Die deutsche Autoindustrie steckt in einer ihrer größten Krisen. In den kommenden Monaten entscheidet sich, wie viele Arbeitsplätze noch wegfallen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af700fe27adfb0b7bb2d11b/vw-bmw-mercedes-und-co-das-gewinner-szenario-fuer-die-deutsche-autoindustrie.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T09:54:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "3c85eaa45e9f7aff",
+   "k": "welt",
+   "titel": "Frachter rammt Kreuzfahrtschiff in New Orleans",
+   "t": "In New Orleans hat ein Frachter ein Kreuzfahrtschiff gerammt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1683646.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T09:43:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "6769ca5fe104b7ca",
+   "k": "nrw",
+   "titel": "Nach verheerenden Waldbränden forsten Menschen in NRW wieder auf - tagesschau.de",
+   "t": "Nach verheerenden Waldbränden in NRW pflanzen Menschen wieder Bäume.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTGtLaE5YZG1KM1FmTnVHcng1V1NqLWc5X3BSZE9hRE4yMHlpVm1ldWNzSUhSOWxqUTVwYjNiZlBsYlpxbm1VYU5EVzJBVzlYLXNMM29EazJNejlKeDQ0?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-14T09:38:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "fc1506dd21203258",
+   "k": "usa",
+   "titel": "BILDSTRECKE - Chaos an den Flughäfen – die Bilder zum Flugstopp in den USA",
+   "t": "Ein technischer Ausfall hat am Freitagabend den US-Flugverkehr vorübergehend lahmgelegt. Die FAA verhängte ein landesweites Startverbot, über 13.000 Flüge waren betroffen; inzwischen rollt der Betrieb wieder an.",
+   "e": "Die Störung betraf das gesamte Land und zeigt die Anfälligkeit zentraler Luftfahrt-Systeme, Verspätungen halten an.",
+   "s": 6,
+   "link": "https://www.nzz.ch/fotografie/chaos-an-den-flughaefen-die-bilder-zum-flugstopp-in-den-usa-ld.10063939",
+   "quelle": "NZZ",
+   "zeit": "2026-11-14T09:25:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3d258beb88af348",
+   "k": "finanzen",
+   "titel": "EU hat entschieden: Mehr Meta-, Alphabet- und BASF-Anleihen für Privatanleger handelbar",
+   "t": "Die EU hat eine Verordnung geändert, nach der rund 7.000 Unternehmensanleihen für Privatanleger handelbar werden, darunter Papiere von Meta, Alphabet und BASF.",
+   "e": "Bisher waren solche Anleihen vor allem institutionellen Investoren vorbehalten, der Zugang für Privatanleger wird damit deutlich erweitert.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/mehr-meta-alphabet-und-basf-anleihen-fuer-privatanleger-handelbar-accg-201676943.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-14T09:23:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "cdd846d46198f073",
+   "k": "deutschland",
+   "titel": "Weniger Müll, weniger Konflikte: Bahn sieht Alkoholverbot an Bahnhöfen als Erfolg",
+   "t": "Die Deutsche Bahn zieht nach einem Monat eine positive Bilanz zum bundesweiten Alkoholverbot an Bahnhöfen: weniger Müll und weniger Konflikte.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1683640.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-14T09:20:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "ab77d519bca55116",
+   "k": "welt",
+   "titel": "Umwelt: UN-Klimachef warnt Verhandler vor taktischen Spielchen",
+   "t": "UN-Klimachef Stiell warnt die Verhandler der Klimakonferenz vor taktischen Verzögerungen. Besonders der Streit ums Geld ist strittig.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/umwelt-un-klimachef-warnt-verhandler-vor-taktischen-spielchen/100269865.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T09:12:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "24d7ca90728aac77",
+   "k": "deutschland",
+   "titel": "„Eine Möglichkeit, um das auf solide Füße zu stellen, wäre eine Mehrwertsteuererhöhung“",
+   "t": "Ökonomen warnen vor einer Haushaltskrise ab 2028 und halten die schwarz-roten Etatpläne auf Dauer für nicht tragfähig. Eine Mehrwertsteuererhöhung wird als mögliche Option diskutiert.",
+   "e": "Die Haushaltslage beeinflusst Staatsanleihen, Zinsen und die Konjunktur in Deutschland.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6af817289849eea0701e27aa/rekordschulden-im-haushalt-eine-moeglichkeit-um-das-auf-solide-fuesse-zu-stellen-waere-eine-mehrwertsteuererhoehung.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-14T09:11:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "b88f2fb78fe8f97c",
+   "k": "usa",
+   "titel": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+   "t": "Der Republikaner Thomas Massie treibt ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth voran, unter anderem wegen des Iran-Kriegs. Wähler in seinem Wahlkreis in Kentucky sind gespalten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-14T09:00:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "3e8dad8a707abd4e",
+   "k": "usa",
+   "titel": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+   "t": "Bei Abstimmungen in mehreren US-Bundesstaaten gab es unterschiedliche Ergebnisse: Drei Staaten billigten Voter-ID-Regeln, Kalifornien lehnte eine Milliardärssteuer ab, Idaho eine Ausweitung des Abtreibungsrechts.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-14T09:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "29f074b6aee94d48",
+   "k": "finanzen",
+   "titel": "Großbanken haben fast 1 Billion USD in KI investiert: Was passiert, wenn der Boom endet? - BeInCrypto",
+   "t": "Große Banken haben laut einem Bericht fast 1 Billion US-Dollar in KI investiert.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mSXJPbEs2SFRQQ3pVSEs1bFZ0cWRmcVNIR0ZUUW1MT1kxYjl6Q2EzZE9hSEdxQTAzZzJzZkZXTDJnZkRNcE5VNENRcHo1RzBmNzNJczFQSFdFMU1RUGNXZ01ESF9yVXlITklwSlpn?oc=5",
+   "quelle": "BeInCrypto",
+   "zeit": "2026-11-14T09:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1e5608ba16d47b7f",
+   "k": "finanzen",
+   "titel": "Touristik: Stärkung der eigenen Marken – Mit dieser Strategie kämpft Tui um seine Kunden",
+   "t": "Tui stärkt seine eigenen Marken und beschleunigt den Konzernumbau, weil Online-Plattformen und KI den margenstarken Eigenvertrieb unter Druck setzen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/touristik-mit-dieser-strategie-kaempft-tui-um-seine-kunden/100266709.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-14T08:57:48+00:00",
+   "tag": null
+  },
   {
    "id": "31d0c27e3f32b7cf",
    "k": "welt",
@@ -2831,258 +3083,6 @@
    "quelle": "Investing.com Deutsch",
    "zeit": "2026-11-13T14:08:00+00:00",
    "tag": null
-  },
-  {
-   "id": "34f8c050b72746b5",
-   "k": "deutschland",
-   "titel": "Bundeshaushalt für 2027 steht",
-   "t": "Der Bundeshaushalt für 2027 ist beschlossen.",
-   "e": "Der Haushalt legt die finanzpolitischen Prioritäten und den Schuldenkurs des Bundes für das kommende Jahr fest.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/video/video-1683238.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T14:07:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "22fe46335a6059a3",
-   "k": "finanzen",
-   "titel": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-   "t": "Die US-Erzeugerpreise sind im Oktober um 0,3 Prozent gestiegen. Auf Jahressicht liegt die Rate bei 6,5 Prozent, dem höchsten Stand seit fast vier Jahren.",
-   "e": "Die Erzeugerpreise gelten als Vorlauf für die Verbraucherpreise und erhöhen den Druck auf die Fed.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-13T14:02:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "17e46764bd083fc4",
-   "k": "welt",
-   "titel": "Indonesiens Vizepräsident tritt zurück – und Prabowo festigt seine Macht",
-   "t": "Indonesiens Vizepräsident Gibran tritt zurück. Damit endet die Allianz zwischen ihm und Präsident Prabowo.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/indonesiens-vizepraesident-tritt-zurueck-und-prabowo-festigt-seine-macht-ld.10062918",
-   "quelle": "NZZ",
-   "zeit": "2026-11-13T13:58:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "af40095f9e4c4afc",
-   "k": "finanzen",
-   "titel": "Lyft schafft FreeNow ab – und bringt jetzt Robotertaxis nach Deutschland",
-   "t": "Lyft schafft die Marke FreeNow nach der Übernahme ab. CEO David Risher kündigt Robotertaxis in Hamburg an, in Berlin und Köln sollen Fahrten wieder günstiger werden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/article6af6da659849eea0701e14d9/ceo-david-risher-lyft-schafft-freenow-ab-und-bringt-jetzt-robotertaxis-nach-deutschland.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-13T13:45:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "15c614772b2970e2",
-   "k": "finanzen",
-   "titel": "Energieschock: US-Finanzminister Bessent mahnt Fed zu Zurückhaltung bei Zinserhöhungen - Investing.com Deutsch",
-   "t": "US-Finanzminister Bessent mahnt die Fed zu Zurückhaltung bei Zinserhöhungen, während der Energiepreisschock anhält.",
-   "e": "Die Mahnung aus dem Finanzministerium zeigt den politischen Druck auf die unabhängige Notenbank.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnFkVTRyNzJobXlhWUZLVkVQUDBsM1JxR2dfa0JtcEtwanp3aGFMSXctS0JZZGpMblVLZ05nNUtsd0w3Rm0weEd5ZXRYcXQ0YzBsM0VGY3dDZUxMQnJ4RklTelVkWXR6QTI2cUl2YUhQWXdteXlDdHlnQmVmeWV3Q21lN3pLM2h0cEdvMUNsS3U1eGhtRndhXzJMY2hlcHY4RE9RNFYwTjV0X25oRHVVTDFZakoxTzY5WXBzRDl5Slh3V0g5XzA3S1ozbll5Q0tF?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-13T13:33:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "da6765c55a9a466d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Polizei gab rechtswidrig Vorstrafen an Arbeitgeber weiter - n-tv.de",
-   "t": "Die Polizei in Nordrhein-Westfalen hat Vorstrafen rechtswidrig an Arbeitgeber weitergegeben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzh2VXZiU3FCYVNzMzZmcHA0ekZNV3hDRWNfNEVWcF9xbDJHQ1dsSnlVN1docFVoUjktZlZlWDZjdFQ3TktSY3U4Vk1GZnVFQWRuMkJnaFpabzFLbjJyYWNyczAyM1VmdmVKa040LVh1alRrOWh6RFBBZWRiLUFZdWNhdUFLN29DQ0pZU2Roc05fRjZyTG5lWE5XVmsyM2Rodk9NSXRuOTJ2alNVWHlSYnBhTlRKTEo0MVF5b3JqczNyQQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-13T13:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a70e21bce2d92ed7",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Jugendliche mit Alkoholvergiftung in Kliniken - tagesschau.de",
-   "t": "In NRW wurden Jugendliche mit Alkoholvergiftungen in Kliniken behandelt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR043bXVIVHhKUFkyME1ldGhyS2dCR1hWZm5rNWVYQlBuZHZMOEtRNFVnbUFCSnlBUVcxQVFwNzFiVWNycHpaM3cyVnpZSEdsTW9vMFNzSFNmNXdhZzBpTnh4UmgwakdnLTU3R2tfbEVXU2Z6NTZYd0xDVFlVYnFrTlg1b2dlNVVwNXE1dFpMbmp4ZGhwTjFFWS12SlVvTWFNVC1UR2laOUJOdlFrai1mX3pYMDhxQU00b3g3dGZqTWhJMl9IZUVMZ2RqMVdtd1Rtb1pFRWNZTTNpNm8?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T13:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "07923b3ac6c0c595",
-   "k": "finanzen",
-   "titel": "US-Finanzminister: Fed sollte Zinsen nicht zu stark anheben - MarketScreener Deutschland",
-   "t": "US-Finanzminister äußert sich, die Federal Reserve solle die Zinsen nicht zu stark anheben.",
-   "e": "Die Aussage zeigt die politische Spannung zwischen Zinsfolgen für die Konjunktur und dem Kampf gegen die Inflation, die derzeit durch steigende Erzeugerpreise angeheizt wird.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmloWFl0TG1ERkJnb0hacUVFbExydFFhVU1VNUpYV3RIaFJ0UDJaWWRIa0F1Sll0UTk5T1F6eHlKRkdkak5PdzhzdVota3VTQzhQcHZmNzJydm51OERNaUdaYnE4a1Q4NnlyX2xBYm1hMWlCdFpYMUFBYWJFMV9aTm9jeDdhbEFMc3NBcG9mQVRRQnRtdDNaSnFjTTBlMmJIeXhTTXFONGlEZ0JpV3U3NWNodURVR2QySEg4OFNzNWRmdw?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-13T13:29:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "80fe20ee6f363475",
-   "k": "nrw",
-   "titel": "Verfügbares Einkommen im Märkischen Kreis 2024 gestiegen - Radio MK",
-   "t": "Das verfügbare Einkommen im Märkischen Kreis ist 2024 gestiegen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORE5PWmduM3VNZ1JuOTViQ3lrZ2hJVmNLbGlhaTE2TUFtMU1fRFBfZDJWRFpNSi1TNUt2THhfY1R3ZTkzTV9fazU5WEY3YV9vVDYxc2dfZUZSVjJPQVA3a2VoTGx1UnctYWJPYWx4QW41SGlwcU9saW9ud0FXQi1wWmV3S2YxeXJ3UnI5bjRCaTMxRUZWRWFDS1RENC1vQQ?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-13T13:27:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9f4e47fc6a26cbaa",
-   "k": "finanzen",
-   "titel": "Notenbank: Merz will deutschen Vorschlag für Posten in EZB-Führung vorlegen - Handelsblatt",
-   "t": "Bundeskanzler Merz will bald einen deutschen Vorschlag für einen Posten in der EZB-Führung vorlegen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQi1EVWxVVWV5QktqUDVHcEp5QUpmMzNyLTgxb2I3Q0pVWHR1NDBsSS0wWVpiMUlqeDNHd1VYbUdhWVZYTVdMVk1JaU9aM1RXRG5OMzZUU1hoczhBbU1hTlYyTkRLUk9SQVVRRDR2WkVMQ1Q1bm1EMjQ1N2o4b2t2MGtiN0hfR0FGaFBZTk1iSHYzajZYRFhYRjQxTFRhQVU0bE1YeGNYVnRiNHJydzBNSF9xUUpObmN0cEhIVDZqTnpCcEp2VnZOcmdzQUIzV2tNNTZRTXlITUE?oc=5",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T13:24:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "2451ec2108eec040",
-   "k": "finanzen",
-   "titel": "Notenbank: Merz will deutschen Vorschlag für Posten in EZB-Führung vorlegen - Handelsblatt",
-   "t": "Bundeskanzler Merz will einen deutschen Vorschlag für eine Besetzung in der EZB-Führung vorlegen.",
-   "e": "Die Personalie betrifft die Führungsebene der Europäischen Zentralbank, deren Zinspolitik auch Deutschland beeinflusst.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzJhOW9aNF9PLTJzbjZzdGNzakhUMU1lbUgwMEpSdmVCTi14TXRjVjdCcGl2cEpHYjBrb1hwVWNBMkwxNnpqZ1dlTGZNT2hWSDRqenNtRl9RUFVqT0lIbWJiLWdDWmdzb3Fzck5XSTlzQkNfNGRfM29xaXZ6MURtMkZfTnY3aHFrNEtyN053WkZKY0N1MlhaNUJ4U1pacHhXU0FkaV9OaXZNRDg1VVhlTWwyQnduZHBNSTBrMTkxQVlIemJYeGRYdk05ODlzck1jMkFxdDhqd3I?oc=5",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T13:24:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "06302f410beb0fb9",
-   "k": "finanzen",
-   "titel": "Rekord: Warum der Dax nach 27.000 Punkten noch Luft nach oben hat",
-   "t": "Der Dax hat die Marke von 27.000 Punkten erreicht. Analysten sehen laut FAZ auf Basis mehrerer Indikatoren weiteres Aufwärtspotenzial.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/dax-ueber-27-000-punkte-wie-weit-kann-der-aufstieg-noch-gehen-accg-201680108.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-13T13:18:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "7495c20ae3172981",
-   "k": "finanzen",
-   "titel": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
-   "t": "CFTC-Chef Selig erklärt, die Krypto-Branche akzeptiere die Regeln seiner Behörde, während Gesetzesvorhaben an Hoffnung verlieren. Die Behörde hatte im Oktober Vorschläge zur Krypto-Regulierung vorgelegt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-13T13:15:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e9d641a379e9076a",
-   "k": "welt",
-   "titel": "LIVE-TICKER - Iran-Krieg: Die USA schiessen offenbar zwei iranische Drohnen auf dem Weg nach Bahrain ab +++ Explosionen an Öltankern in der Strasse von Hormuz",
-   "t": "Im Iran-Krieg sollen die USA zwei iranische Drohnen auf dem Weg nach Bahrain abgeschossen haben. Zugleich werden Explosionen an Öltankern in der Straße von Hormus gemeldet. Trump hat die Waffenruhe Anfang Juli für beendet erklärt.",
-   "e": "Die Lage in der Straße von Hormus berührt den weltweiten Öltransport und damit Energiepreise und Inflation.",
-   "s": 8,
-   "link": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246",
-   "quelle": "NZZ",
-   "zeit": "2026-11-13T13:09:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "14bc67fc649021fd",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Europol fahndet: Pflegerin soll Seniorin betäubt und ausgeraubt haben - tagesschau.de",
-   "t": "Europol fahndet nach einer Pflegerin, die eine Seniorin in NRW betäubt und ausgeraubt haben soll.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY2F6QU5FZUREOEtzTWxvbEhuWmw1Uk1nT0JHMkhudG4zenh6QUZQblVlQmxUQ2U4UlJJanJuN19yTkxQY2wwXzVqbS1EN0pKdzVNUXNMeUtTOWp6MWtGT2xSNjFkSTVROERfN1pYdTA3QlNGY1B1aEFEcjd6NUhkS3VCY19LT041Zm5pb2xkUFlQOUkwYlV6SEUxT3Z5VHppNjc3aXd3YnhtUmszYjZOQWpnYjRhU2dtazUwYjVJU2dQWUQ2NEFWQUtkODhXU2V6N3c5bWE4S3ZZZHM?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-13T13:09:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1eab4214b756d13e",
-   "k": "nrw",
-   "titel": "IG Metall ruft 2500 Beschäftigte im Märkischen Kreis zu 24-Stunden-Warnstreiks auf - Come-on",
-   "t": "Die IG Metall ruft 2500 Beschäftigte im Märkischen Kreis zu 24-stündigen Warnstreiks auf.",
-   "e": "Die Warnstreiks betreffen Betriebe im Kreisgebiet und können Produktion und Lieferketten in der Region beeinträchtigen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHZzaXpNN3ZINmxwT1FwUnVDMnJSdGptMnhXa19lSWxGM3VCNnZSbkJYeGFQWHVKekdJcHNaa1F1UzRCSXVaaGx0Vnc2ZGx2MVJhd2RuWEZ4Q0hKNVR6dnZ4ajFTazBHTFhUdGFTaFJnTHN4VS1Ic3I3anh3cUxPUnZDNVFBdEdkQ1c4UHNYSzB5ODlPRGRIZXl6bnhqSC1KQkdER3pnd3dTOXoxbDNYbjBLMl95U25UaHQwMWx0XzdkdnNzbVdqTE1R?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-13T13:03:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "79754f1e5cd48de4",
-   "k": "finanzen",
-   "titel": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-   "t": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Gleichzeitig gab es auch mehr Gründungen. Experten erwarten, dass die Pleitewelle weitergeht.",
-   "e": "Die Insolvenzzahlen sind ein Frühindikator für die Konjunktur in Deutschland und zeigen die anhaltende Schwäche einzelner Branchen.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-13T13:00:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "29776199ac1a6429",
-   "k": "deutschland",
-   "titel": "Verkehr: Maut-Affäre kostet mehr als 300 Millionen Euro",
-   "t": "Die gescheiterte Pkw-Maut hat mehr als 300 Millionen Euro gekostet. Das Verkehrsministerium nennt nun den Auftragswert für externe Rechtsberatung.",
-   "e": "Die Gesamtkosten liegen über den bisher bekannten Zahlen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/verkehr-maut-affaere-um-andreas-scheuer-kostet-mehr-als-300-millionen-euro/100269727.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T12:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "01b9f3190c9de19a",
-   "k": "deutschland",
-   "titel": "+++ Bundespolitik +++: SPD schickt nach Bas-Rücktritt offenbar Petra Köpping in den Koalitionsausschuss",
-   "t": "Die SPD schickt nach dem Rücktritt von Bas offenbar Petra Köpping in den Koalitionsausschuss. Die Koalition verschiebt die Zuckersteuer auf 2028, die Plastiksteuer ist laut Union und SPD vorerst vom Tisch.",
-   "e": "Personalwechsel und Steuerpläne zeigen Spannungen innerhalb der Koalition.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-spd-schickt-offenbar-koepping-fuer-bas-in-den-koalitionsausschuss/100137034.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-13T12:52:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "0d5584e112cf9705",
-   "k": "deutschland",
-   "titel": "Anklage gegen drei Menschen erhoben",
-   "t": "Im Fall der Schüsse in Stade mit sechs Toten ist Anklage gegen drei Menschen erhoben worden, unter anderem gegen die Lebensgefährtin des mutmaßlichen Täters und die Fahrerin des Fluchtwagens.",
-   "e": "Ein Gewaltverbrechen mit sechs Toten; die Anklage zeigt den Umfang der mutmaßlichen Beteiligung.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/inland/regional/niedersachsen/sechsfach-mord-in-stade-mutter-soll-tat-aktiv-unterstuetzt-haben,stade-406.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-13T12:51:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "f58244d6856bd6e8",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Vater soll Baby schwer geschüttelt haben - Prozess - n-tv.de",
-   "t": "In Nordrhein-Westfalen steht ein Vater vor Gericht, dem vorgeworfen wird, sein Baby schwer geschüttelt zu haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObW1COEU1RDlMMmc2TmJBQlh2MjlMTlU4UkhVYTdnSmg0OE55N0ZwVFhvZGQ3WGZHa2N4THpJR0s2QW9ENVlYdEVyM1prY1J0QzBKaTEyYXJoUFZPb05iSzBHeWcyeXEyRC05SkJZcU4yZnpYNTV2eTB0dTR5U0hZYkFub01QeXEySjhmQXM3RlZYQm1JZ3hYZU5laWVCTVh4a0FzV1B4ZnBjSWdadkdZRXFOMnU4QkU?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-13T12:51:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Ausland",
@@ -3105,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Welt",
@@ -3120,12 +3120,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "NZZ",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 33
+    "n": 27
    },
    {
     "name": "Google News NRW",
