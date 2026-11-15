@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T11:01:11.935028+00:00",
+ "aktualisiert": "2026-11-15T13:01:22.520833+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.503 $",
-   "delta": -2.5841690683243894
+   "wert": "65.487 $",
+   "delta": -2.1933913991400407
   },
   {
    "name": "Ethereum",
-   "wert": "1.830 $",
-   "delta": -4.080480809435674
+   "wert": "1.835 $",
+   "delta": -3.329736972984648
   },
   {
    "name": "Gold",
@@ -84,6 +84,282 @@
   ]
  },
  "items": [
+  {
+   "id": "df1333a02bc529f4",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Selenskyj fordert USA zur Aufhebung der Starshield-Drosselung auf",
+   "t": "Im Ukraine-Krieg werden nach Angaben des Newsblogs drei Handelsschiffe im Schwarzen Meer von Drohnen getroffen. Die Ukraine greift zugleich russische Industrieanlagen an, und Selenskyj fordert die USA zur Aufhebung der Starshield-Drosselung auf.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-fordert-usa-zur-aufhebung-der-starshield-drosselung-auf/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T12:53:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "19e3b8ad8cfbc9b8",
+   "k": "welt",
+   "titel": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+   "t": "Die israelische Armee hat nach eigenen Angaben im Gazastreifen den ranghohen Hamas-Kommandeur Samir Abu Junis getötet. Er soll an der Planung des Angriffs auf Israel vom 7. Oktober 2023 maßgeblich beteiligt gewesen sein.",
+   "e": "Die gezielte Tötung führender Hamas-Figuren ist Teil der anhaltenden militärischen Auseinandersetzung im Gazastreifen.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-15T12:46:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "d30fbae3af871855",
+   "k": "deutschland",
+   "titel": "Hybride Angriffe: Wie sicher ist unsere Versorgung mit Lebensmitteln?",
+   "t": "Nach Cyberangriffen auf Supermärkte wird diskutiert, wie verwundbar die Lebensmittelversorgung in Deutschland gegenüber hybriden Angriffen ist.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/inland/cyberangriffe-wie-verwundbar-ist-unsere-lebensmittelversorgung-accg-201668906.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T12:33:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "54e30db5bda5b165",
+   "k": "finanzen",
+   "titel": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+   "t": "Gold und Silber geben aktuell deutlich nach, obwohl beide Metalle traditionell als Schutz vor Inflation gelten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-15T12:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4df65a3aa080005f",
+   "k": "finanzen",
+   "titel": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - AOL.com",
+   "t": "Am Markt wird ein möglicher Zinsschritt der US-Notenbank Fed im Dezember diskutiert. Historische Muster zu Marktreaktionen auf Zinserhöhungen werden dabei herangezogen.",
+   "e": "Eine mögliche Zinserhöhung der Fed im Dezember würde die globalen Finanzmärkte, Anleihen und Kryptowährungen direkt beeinflussen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSW9QYkpkZm9hMWREcW1aSlU5cHNFa2R2Y2xfM0xyQ2RKdW5xMTF1TDAxSHpCNDRoUGJ5UjVLODlUdFZUd2dVSFZBT2FfcE1kY1JGM0ZLU0REUlhZY0NvamVRb3RzVHV3anlJVHNZOGl2RzV0aGRCcDgyNjZuSEFHZQ?oc=5",
+   "quelle": "AOL.com",
+   "zeit": "2026-11-15T12:22:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "2a3e27f4d3546b96",
+   "k": "deutschland",
+   "titel": "Frankfurt: Böllerangriff auf Schwulenbar",
+   "t": "In Frankfurt hat ein Böllerangriff die Schwulenbar Zum Schwejk im Bermudadreieck getroffen. Die Polizei registrierte am Wochenende zwei queerfeindliche Angriffe.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-boellerangriff-auf-schwulenbar-zum-schwejk-accg-201684858.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T12:10:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e9c282b93e68a36",
+   "k": "welt",
+   "titel": "Migration: Fast 2200 Migranten erreichen Kanaren binnen zwei Tagen",
+   "t": "Auf den Kanaren sind innerhalb von zwei Tagen fast 2.200 Migranten aus Westafrika angekommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/migration-fast-2200-migranten-erreichen-kanaren-binnen-zwei-tagen/100270002.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T12:07:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "6e3bc595ae725ba1",
+   "k": "welt",
+   "titel": "Justizirrtum in Italien: Nach 13 Jahren unschuldig im Gefängnis kehrt Monica Busetto heim",
+   "t": "Die Italienerin Monica Busetto ist nach 13 Jahren Haft aus dem Gefängnis entlassen worden. Sie war für einen Mord verurteilt worden, den sie nicht begangen hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/13-jahre-unschuldig-in-haft-monica-busetto-kehrt-heim-accg-201684650.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T12:07:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "26a0a79883aeb347",
+   "k": "usa",
+   "titel": "Inside Senate GOP's tense post-election reckoning as Thune clashes with Republican critics",
+   "t": "Nach der US-Wahl hat die republikanische Mehrheitsführung im Senat John Thune als Fraktionschef in geschlossener Sitzung bestätigt. Vorher gab es laut Berichten einen heftigen Streit mit Kritikern in der Fraktion.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-15T12:00:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "3effc3d40526c5c7",
+   "k": "finanzen",
+   "titel": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+   "t": "Der Börsengang von Anthropic ist gestartet. Die Branche der KI-Unternehmen steht unter Druck und setzt große Hoffnungen auf einen positiven Impuls.",
+   "e": "Der Erfolg des Börsengangs gilt als Stimmungsindikator für den gesamten KI-Sektor, der stark an den Aktienmärkten gehandelt wird.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-15T12:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "aad8bd85ffa70171",
+   "k": "welt",
+   "titel": "Software: Microsoft behebt weltweite Störung – Ausfall trifft auch Hotelschwimmbad",
+   "t": "Microsoft hat nach eigenen Angaben eine weltweite Störung behoben, die durch einen Fehler bei einem Netzwerk-Upgrade ausgelöst wurde. Einen Cyberangriff schließt das Unternehmen aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-microsoft-behebt-stoerung-ausfall-trifft-auch-hotelschwimmbad/100269998.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T11:55:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e1abc70d929a188",
+   "k": "deutschland",
+   "titel": "Thüringen: Hakenkreuze im Apoldaer Paulinenpark - n-tv.de",
+   "t": "Im Apoldaer Paulinenpark in Thüringen wurden Hakenkreuze gefunden.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUJfRGYzNXBGRUktbGVTYlh0TTJXMGlPMmdzNmpwS0VTR3FmeFZTMEltZkxMMlcxeV8tMS00eTlwemt3ZXc4aUFxWUxSLUg2aS1wckpFU09lYUxSYzZQdzZOd1NOMmVaMG9pTl9WZHY4OWpsTlBHaTFpa0lMMHJEZWp4eHc0ZGZYQ0JHdXNwNlQ3alJRc05BeWtB?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-15T11:54:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "df46ade94686e13a",
+   "k": "deutschland",
+   "titel": "EU plant Rückkehrzentrum in Ruanda – „Die rechtlichen Hürden bleiben bestehen“",
+   "t": "Deutschland und vier weitere EU-Staaten treiben die Planung eines Rückkehrzentrums in Ruanda voran. Rechtliche Hürden bleiben laut Einschätzung bestehen.",
+   "e": "Das Projekt betrifft die zentrale migrationspolitische Frage der EU, und die rechtliche Machbarkeit ist weiterhin offen.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/video6af9964b4495f9bd85b80c96/migrationspolitik-eu-plant-rueckkehrzentrum-in-ruanda-die-rechtlichen-huerden-bleiben-bestehen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T11:41:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "3affbada10bcffde",
+   "k": "finanzen",
+   "titel": "Fed-Protokoll am Mittwoch: Warum der Preis des Geldes mehr zählt als Anthropic - Börse Express",
+   "t": "Am Mittwoch wird das Protokoll der jüngsten Fed-Sitzung veröffentlicht. Die Debatte um den Preis des Geldes steht dabei im Mittelpunkt der Marktbeobachtung.",
+   "e": "Das Fed-Protokoll zeigt, wie die US-Notenbank die weitere Zinsrichtung einschätzt, was für Aktien, Anleihen und Krypto gleichermaßen wichtig ist.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalFFc3ZobkVJMTloSnFLVFdwRngyZF83MWw3ZW5PbDFaWWR2QzVYTGtIMzZVdWlIVWNlNUVoNnZmaXJWUnRzbHcyZTJzU0dmeElEZ1FTYjJlQ0cxWnhIbUs2STVUMGEtdWE4d3JwSGNHcFVLWlV0M2tnbWVFZDZyZUlwSnRYamFPVWItMEhjTGJkT3ROLVhuVV9ocXRDS1JNTmpxRlU4WldTUGUtX1VPQ3FWd05ENE1yMktuYXlua2Jpcm9vVkhsM2xR?oc=5",
+   "quelle": "Börse Express",
+   "zeit": "2026-11-15T11:40:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "410f230b3a6a6156",
+   "k": "deutschland",
+   "titel": "„Generationenvertrag ist gebrochen“ – Grünen-Chef verteidigt Gen-Z-Demonstrationen",
+   "t": "Grünen-Chef Banaszak verteidigt die Gen-Z-Demonstrationen. Er warnt davor, junge Demonstranten wegen einzelner Ausschreitungen pauschal als Krawallmacher abzustempeln.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6af9914a9849eea0701e37f1/20-festnahmen-in-berlin-generationenvertrag-ist-gebrochen-gruenen-chef-verteidigt-gen-z-demonstrationen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T11:33:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "c798579ba06cd4a3",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Brand auf altem Containerbahnhof in Bielefeld - n-tv.de",
+   "t": "In Bielefeld hat es auf einem alten Containerbahnhof gebrannt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdExpOXhNUjlGcDFxQVBIQ2t4ZkFWMzFkNmd0WG9ya0RlUnJfTzdOdl82cnF3aWJ5b2NJRDV1eWJQRVVpTTcxZWZlOVZOYU53M3RhY09Nb1JCd1BNSU5mWXNLZG1TWVgyeTN6aWh3XzVxZGpUMTBiWk9EUlQ3Q0VVWmRGYk1xNWc3SUdUcHFOUEgtMFhlNDRiMjE5b1dXeEJyeGM0MGRxNi1rQXROaVhZdGlB?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-15T11:31:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf061ce6d50c64ae",
+   "k": "welt",
+   "titel": "APEC-Gipfel: Historisches Treffen zwischen Trump, Putin und Xi",
+   "t": "Beim APEC-Gipfel in Shenzhen treffen Trump, Putin und Xi aufeinander. Putin sucht dabei den Schulterschluss mit Trump und Xi.",
+   "e": "Ein Treffen dieser drei Staatschefs könnte die globalen Machtverhältnisse und Konflikte wie den Ukraine-Krieg beeinflussen.",
+   "s": 7,
+   "link": "https://www.faz.net/premium/weltwirtschaft/weltwissen/auf-dem-apec-gipfel-in-shenzhen-treffen-trump-xi-und-putin-aufeinander-accg-201673073.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T11:30:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "770d97f2eff9d129",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Lebensgefährlich verletzt: Frau in Detmold auf Bürgersteig angefahren - tagesschau.de",
+   "t": "In Detmold wurde eine Frau auf dem Bürgersteig angefahren und ist lebensgefährlich verletzt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQejhjWDRUS2R6WHZEMS05TkxmS19CYjJmX1VGYmc0SWF0a2RKT25CUFk1NS1QUDlPMjZueG44NHp5cWowcGc1bU9yWlVFWHZ0a3RqcGZZdFhsY3hlYWlQWnJydkVLcGlPbEVSbXJzLXAzV1k3MktXSkxfNzdXRU52WHpOVHBITmRnazVHbE1BOHFvY1dQR2xnU2lLdTR6YU5MaTY0RGQzQ3lDbHRqNC1aUnlON2JsNDB5dEF1VDVBT2tzT1lwSzd4RlIyQktLTUdBcVRxeXhGR2lENndU?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-15T11:29:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "82988ca39cf5c99e",
+   "k": "nrw",
+   "titel": "Wahlprogramm der NRW-Grünen: Das ist die Top Ten der grünen Kröten für Wüst - WAZ",
+   "t": "Die NRW-Grünen haben ihr Wahlprogramm vorgestellt. Die WAZ listet die zehn wichtigsten Forderungen auf, die als Zugeständnisse an Ministerpräsident Wüst gelten könnten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkhTR21tYXd2dl9JbXdDQl9CZjJzTmRYc25ORVBlbXdxN2tBbWxrVlh1eVBsQ2J4anBFOGEtcEZYZWM0V2diNzJ1U2N4RERHTUJZSHRlQzJRREl4Q3ZlczZ1MnNIQzJ0SlgxbXhsUFRxZjUtN3ZyeDdfcUUzYVRQZFJ3UnhUdVdpQjBJaGRVcXZ3V05fZHJFaUFlRmZUZWJ0TjJka09WRmtkYXJGZmx6WXJ6V0trdzNsYlB4eXNXaTViMHFteVhZ?oc=5",
+   "quelle": "WAZ",
+   "zeit": "2026-11-15T11:17:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "be2b3c14a3373607",
+   "k": "deutschland",
+   "titel": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+   "t": "Handwerkspräsident Dittrich warnt vor einem stillen Sterben der Betriebe. Wegen weniger Aufträge und steigender Kosten könnte die Branche jährlich bis zu 80.000 Arbeitsplätze verlieren.",
+   "e": "Ein solcher Stellenabbau hätte spürbare Folgen für Arbeitsmarkt, Fachkräfteversorgung und die lokale Wirtschaft, auch im Märkischen Kreis.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-15T11:15:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "e5a1c43b2b55a3a2",
+   "k": "deutschland",
+   "titel": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+   "t": "In Sachsen-Anhalt soll der AfD-Politiker Siegmund in rund einem Monat zum Ministerpräsidenten gewählt werden. Migranten erwägen deshalb teils, wegzuziehen, und es stellt sich die Frage, welche Regeln für Asylsuchende beim Wohnortwechsel gelten.",
+   "e": "Eine mögliche AfD-Regierung in einem ostdeutschen Bundesland wäre ein politischer Präzedenzfall mit bundesweiter Signalwirkung.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-15T11:10:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "c5face562d9b5b36",
+   "k": "welt",
+   "titel": "Starship Aufgefangen: Ein Science-Fiction-Moment",
+   "t": "SpaceX hat erfolgreich die Oberstufe seiner Riesenrakete Starship aufgefangen. Offen ist, ob sich solche Landungen zur Routine entwickeln lassen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wissen/weltraum/spacex-faengt-starship-oberstufe-elon-musks-epochaler-raketentest-accg-201683936.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T11:09:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "722692b922ec573e",
+   "k": "finanzen",
+   "titel": "„Die nächsten Monate sind die entscheidenden Monate“",
+   "t": "Die deutsche Autoindustrie steht nach Einschätzung von WELT-Wirtschaftsredakteur Christoph Kapalschinski vor entscheidenden Monaten. Es hänge an Entscheidungen der Politik und der Unternehmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/video6af98bc54495f9bd85b80b96/krise-der-autoindustrie-die-naechsten-monate-sind-die-entscheidenden-monate.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T11:07:56+00:00",
+   "tag": null
+  },
   {
    "id": "3f5d3c0e3ca10636",
    "k": "deutschland",
@@ -970,6 +1246,18 @@
    "link": "https://www.welt.de/politik/article6af900c04495f9bd85b80515/parteivorsitz-ich-vertraue-ihm-umweltminister-schneider-wirbt-fuer-verbleib-von-klingbeil-an-spd-spitze.html",
    "quelle": "Welt",
    "zeit": "2026-11-15T02:30:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "7efc151c39244ae1",
+   "k": "finanzen",
+   "titel": "Smarte Aufsicht für kleine Banken - Börsen-Zeitung",
+   "t": "Diskutiert wird eine angepasste, schlankere Bankenaufsicht für kleine Institute. Die Börsen-Zeitung beleuchtet dabei Vorschläge zur Entlastung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXVFMFBzUVVJN2hCeHFYZC1rX3FUQkVPQTdnUnRhdFVTUEhCUGotRS1IR05yVEN1VjI2eWR3SmFfLUFjeERBdmo1Nm9GUjVRdzJnbHR2OWoyNjFqUWRHTS1hMXVaeW9TbFVQWGdSSXRQX1c2cmRsbjh2YVE0eGpPMzhSODllbkdT?oc=5",
+   "quelle": "Börsen-Zeitung",
+   "zeit": "2026-11-15T02:29:00+00:00",
    "tag": null
   },
   {
@@ -2653,6 +2941,18 @@
    "tag": null
   },
   {
+   "id": "d6ebdaab0a56ee06",
+   "k": "nrw",
+   "titel": "Feuerwehr Brand - Iserlohn - Kurt-Schumacher-Ring - 09. August 2025 (09.08.2025) Azzi Fudd Wnba Debut (gAG52r1run) - Unisba Media",
+   "t": "In Iserlohn am Kurt-Schumacher-Ring ist ein Brand gemeldet worden, der von der Feuerwehr bekämpft wurde. Die Meldung trägt das Datum 09.08.2025 und ist möglicherweise älter.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDVscC1GT0EwVGlaSklaVGlsM25ITTlJM19yTlJYV2lrd081U0s4dHFQTWlyRG1yLTNPODBMZjBlNXVud0ViVjItTnpHdm9pNDU5WTVLc3dWYk9kUHB1cTdGbkpneGpSZUFMTUJFekdHaWFfV19maFBBek5KYXU2a1hiVEw?oc=5",
+   "quelle": "Unisba Media",
+   "zeit": "2026-11-14T10:48:24+00:00",
+   "tag": null
+  },
+  {
    "id": "a4a62e5ad96a7ff5",
    "k": "welt",
    "titel": "Nato-Beitritt gegen Donbass-Verzicht? Selenskyj berichtet von brisantem Vorstoß der USA",
@@ -2783,306 +3083,6 @@
    "quelle": "tagesschau.de",
    "zeit": "2026-11-14T09:38:23+00:00",
    "tag": null
-  },
-  {
-   "id": "fc1506dd21203258",
-   "k": "usa",
-   "titel": "BILDSTRECKE - Chaos an den Flughäfen – die Bilder zum Flugstopp in den USA",
-   "t": "Ein technischer Ausfall hat am Freitagabend den US-Flugverkehr vorübergehend lahmgelegt. Die FAA verhängte ein landesweites Startverbot, über 13.000 Flüge waren betroffen; inzwischen rollt der Betrieb wieder an.",
-   "e": "Die Störung betraf das gesamte Land und zeigt die Anfälligkeit zentraler Luftfahrt-Systeme, Verspätungen halten an.",
-   "s": 6,
-   "link": "https://www.nzz.ch/fotografie/chaos-an-den-flughaefen-die-bilder-zum-flugstopp-in-den-usa-ld.10063939",
-   "quelle": "NZZ",
-   "zeit": "2026-11-14T09:25:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "f3d258beb88af348",
-   "k": "finanzen",
-   "titel": "EU hat entschieden: Mehr Meta-, Alphabet- und BASF-Anleihen für Privatanleger handelbar",
-   "t": "Die EU hat eine Verordnung geändert, nach der rund 7.000 Unternehmensanleihen für Privatanleger handelbar werden, darunter Papiere von Meta, Alphabet und BASF.",
-   "e": "Bisher waren solche Anleihen vor allem institutionellen Investoren vorbehalten, der Zugang für Privatanleger wird damit deutlich erweitert.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/mehr-meta-alphabet-und-basf-anleihen-fuer-privatanleger-handelbar-accg-201676943.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-14T09:23:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "cdd846d46198f073",
-   "k": "deutschland",
-   "titel": "Weniger Müll, weniger Konflikte: Bahn sieht Alkoholverbot an Bahnhöfen als Erfolg",
-   "t": "Die Deutsche Bahn zieht nach einem Monat eine positive Bilanz zum bundesweiten Alkoholverbot an Bahnhöfen: weniger Müll und weniger Konflikte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1683640.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T09:20:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "c81f589943cfa31a",
-   "k": "finanzen",
-   "titel": "Federal Reserve Announces New Pricing for Payment Services in 2027 - www.tokenpost.com",
-   "t": "Die Federal Reserve kündigt neue Preise für ihre Zahlungsdienste ab 2027 an.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VeEt1cWF5V2I5d3ppNkhvNFF2eVByQ0lJUlpnMk04MkhyU2ZjVjFJV25mQk51M1JNWURvaEQ0QjM5NmdrTnJxYkF6UW1oMFpjQ0NTb1pxdDd6VGs?oc=5",
-   "quelle": "www.tokenpost.com",
-   "zeit": "2026-11-14T09:17:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "ab77d519bca55116",
-   "k": "welt",
-   "titel": "Umwelt: UN-Klimachef warnt Verhandler vor taktischen Spielchen",
-   "t": "UN-Klimachef Stiell warnt die Verhandler der Klimakonferenz vor taktischen Verzögerungen. Besonders der Streit ums Geld ist strittig.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/umwelt-un-klimachef-warnt-verhandler-vor-taktischen-spielchen/100269865.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T09:12:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "24d7ca90728aac77",
-   "k": "deutschland",
-   "titel": "„Eine Möglichkeit, um das auf solide Füße zu stellen, wäre eine Mehrwertsteuererhöhung“",
-   "t": "Ökonomen warnen vor einer Haushaltskrise ab 2028 und halten die schwarz-roten Etatpläne auf Dauer für nicht tragfähig. Eine Mehrwertsteuererhöhung wird als mögliche Option diskutiert.",
-   "e": "Die Haushaltslage beeinflusst Staatsanleihen, Zinsen und die Konjunktur in Deutschland.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/video6af817289849eea0701e27aa/rekordschulden-im-haushalt-eine-moeglichkeit-um-das-auf-solide-fuesse-zu-stellen-waere-eine-mehrwertsteuererhoehung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T09:11:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "5ae8b361c0ea2a98",
-   "k": "finanzen",
-   "titel": "Federal Reserve Announces Revised Schedule for 2027 Meetings - Coinfomania",
-   "t": "Die US-Notenbank Federal Reserve hat einen überarbeiteten Terminplan für ihre Sitzungen im Jahr 2027 veröffentlicht.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjVaWXUwc3A3SXIwd3RqU1FzVzNUYjNtM3M3LWU4MFhIZUgwNTB2bHpIWXl0LTMyR2pBWmkxVkZYQXJNT2pWc2cxbldoOXBxSGNycnVlSzI4SWFTZXR5NGxGMnFxV3YyZi1VUVh3Z0JKblhTT3FEZFlYbUExTjlUOUhRemhHUDRHSkNnNVFn?oc=5",
-   "quelle": "Coinfomania",
-   "zeit": "2026-11-14T09:01:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "b88f2fb78fe8f97c",
-   "k": "usa",
-   "titel": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
-   "t": "Der Republikaner Thomas Massie treibt ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth voran, unter anderem wegen des Iran-Kriegs. Wähler in seinem Wahlkreis in Kentucky sind gespalten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-14T09:00:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "3e8dad8a707abd4e",
-   "k": "usa",
-   "titel": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
-   "t": "Bei Abstimmungen in mehreren US-Bundesstaaten gab es unterschiedliche Ergebnisse: Drei Staaten billigten Voter-ID-Regeln, Kalifornien lehnte eine Milliardärssteuer ab, Idaho eine Ausweitung des Abtreibungsrechts.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-14T09:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "29f074b6aee94d48",
-   "k": "finanzen",
-   "titel": "Großbanken haben fast 1 Billion USD in KI investiert: Was passiert, wenn der Boom endet? - BeInCrypto",
-   "t": "Große Banken haben laut einem Bericht fast 1 Billion US-Dollar in KI investiert.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mSXJPbEs2SFRQQ3pVSEs1bFZ0cWRmcVNIR0ZUUW1MT1kxYjl6Q2EzZE9hSEdxQTAzZzJzZkZXTDJnZkRNcE5VNENRcHo1RzBmNzNJczFQSFdFMU1RUGNXZ01ESF9yVXlITklwSlpn?oc=5",
-   "quelle": "BeInCrypto",
-   "zeit": "2026-11-14T09:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1e5608ba16d47b7f",
-   "k": "finanzen",
-   "titel": "Touristik: Stärkung der eigenen Marken – Mit dieser Strategie kämpft Tui um seine Kunden",
-   "t": "Tui stärkt seine eigenen Marken und beschleunigt den Konzernumbau, weil Online-Plattformen und KI den margenstarken Eigenvertrieb unter Druck setzen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/touristik-mit-dieser-strategie-kaempft-tui-um-seine-kunden/100266709.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T08:57:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "31d0c27e3f32b7cf",
-   "k": "welt",
-   "titel": "NATO und EU beraten über weitere Unterstützung für die Ukraine",
-   "t": "NATO und EU beraten über weitere Unterstützung für die Ukraine.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1683618.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T08:43:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "a84743f84c27f553",
-   "k": "welt",
-   "titel": "Doku zu Russell Brand: Der Vergewaltiger konnte machen, was er wollte",
-   "t": "Der frühere britische Komiker Russell Brand wurde wegen Vergewaltigung zu zehneinhalb Jahren Haft verurteilt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/open-secret-netflix-doku-zu-vergewaltiger-russell-brand-accg-201682886.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-14T08:40:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "deacbe83e9a37bfd",
-   "k": "deutschland",
-   "titel": "14-Jährige auf Schulweg totgefahren und geflüchtet – junger Mann in U-Haft - inFranken.de",
-   "t": "Ein Jugendlicher wurde auf dem Schulweg von einem Auto erfasst und getötet, der Fahrer flüchtete. Ein junger Mann sitzt nun in Untersuchungshaft.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3JObkdyYUtKdUp5em03ajhTY3lJQUoyWHR5cHY2aUZ4U0hnbGVuNFYtdWZaRUdaemNIWmtQdm9mdmhBVFN2LXBtWWhqTXRsNHp0S0h2QTVaa2Z2VjVwZGZpM2QxZWYtbHZlX0ZiX3hKUUU4TmRkSGZPWUJRdl90TV94aE5ONjc2M0FIQ3Y0S3lxaTVTMmZZUloyczJPUm56eE1hU3ZJcUZDVUNYRDNTOA?oc=5",
-   "quelle": "inFranken.de",
-   "zeit": "2026-11-14T08:32:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d96425255138e5c",
-   "k": "deutschland",
-   "titel": "„Die Freien Wähler haben Reisebusse organisiert, die die Menschen nach München fahren“",
-   "t": "Der verstorbene bayerische Wirtschaftsminister und Freie-Wähler-Chef Hubert Aiwanger wird in München mit einem Staatsakt geehrt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af817dc9849eea0701e27b9/staatsakt-fuer-aiwanger-die-freien-waehler-haben-reisebusse-organisiert-die-die-menschen-nach-muenchen-fahren.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T08:20:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "a3b7e2c01c37e922",
-   "k": "deutschland",
-   "titel": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
-   "t": "Der Chef der Kassenärzte erwartet mehr Selbstzahlertermine für gesetzlich Versicherte, die längere Wartezeiten vermeiden wollen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T08:15:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "efc138c587ee6818",
-   "k": "finanzen",
-   "titel": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-   "t": "Das Mutterunternehmen von MegaETH baut im Zuge einer Umstrukturierung 20 Prozent der Stellen ab. Betroffen sind laut Mitgründer Shuyao Kong auch Mitarbeiter, die Blockchain, Wallet und Ökosystem mitentwickelt haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-14T08:12:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ffb6c925fdedb03",
-   "k": "finanzen",
-   "titel": "Goolsbee von der Chicagoer Fed sieht noch Arbeit bei der Inflationsbekämpfung - aktien.news",
-   "t": "Goolsbee von der Chicagoer Fed sieht weiterhin Arbeit bei der Inflationsbekämpfung.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONS1zcVJOT28tOVN2NF94MFdiRDFwRXVFeGpBRnhFR2UyNTBtVXAtb3dJbGFEQmJ0WDhxd3hKdUtWdzJEa09oQTNadV9HakZ3bkp2WUVmQ2kwZ2tNRGN2a3NJNzRyOG52eWxnNHpyN1YwYk40UmoyWmdqUjVsOXF2bVl2OWo2N1NKaGJ6ekNEZFVMMXJXSG85bFBfNlM3ZkU1M09v?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-14T08:10:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "48e22a47e5b49f25",
-   "k": "usa",
-   "titel": "Trump, Putin, Xi: Weißes Haus kündigt Dreiertreffen in China an - Hamburger Abendblatt",
-   "t": "Das Weiße Haus kündigt ein Dreiertreffen von Donald Trump, Wladimir Putin und Xi Jinping in China an.",
-   "e": "Ein solches Treffen der drei Staatschefs hätte Gewicht für den Ukraine-Krieg, den Iran-Konflikt und die Beziehungen zwischen den USA, Russland und China.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVppWnJGOUxfTlpPakljbWFOZzZfcWZVempHSzVZQ0pHVkwzOEFNeUdtaDZ3aDJfWXhNRDludG0xcDV0UlhmVEdrUGdEaV9XM2c0emNRTDl5VVFubm40R1MyTnM4QVJPbHNrZ0RLNkJ1eEhwenZFZ19lUXdlcWx1Y3J3SUUwdkMyY1dyMHVlUTRiSG5UOUs1QWE0dDBOYS0xTVFackVVWjZTWlplNEFzZVZIMEJNNHYwYlE?oc=5",
-   "quelle": "Hamburger Abendblatt",
-   "zeit": "2026-11-14T08:09:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "4dd4f692f9c7ec76",
-   "k": "nrw",
-   "titel": "Defekt an Chlordosierungsanlage – 15 Verletzte im Phantasialand",
-   "t": "Im Phantasialand in Brühl wurden 15 Badegäste verletzt, nachdem eine Chlordosierungsanlage defekt war. Vier Personen mussten ins Krankenhaus.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/vermischtes/article6af812e14495f9bd85b7f836/phantasialand-in-bruehl-nrw-15-verletzte-wegen-defekt-an-chlordosierungsanlage.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T08:09:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "8999e8c20d9ddb1c",
-   "k": "deutschland",
-   "titel": "Miersch sieht Bewegung bei Stromsteuersenkung",
-   "t": "SPD-Fraktionschef Matthias Miersch sieht vor dem Koalitionsausschuss Bewegung bei der Senkung der Stromsteuer. Es fehlen laut ihm fünf Milliarden Euro, die bisher nicht finanziert sind.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/video6af809e29849eea0701e26cd/spd-fraktionschef-miersch-sieht-bewegung-bei-stromsteuersenkung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T08:08:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "3aab1f7eefae9cf1",
-   "k": "welt",
-   "titel": "„Wann die Europäer mit am Verhandlungstisch sitzen, ist absolut unklar“",
-   "t": "Deutschland, Frankreich, Großbritannien, Italien und Polen sollen Europa bei den Ukraine-Gesprächen vertreten. Wann die Europäer tatsächlich am Verhandlungstisch sitzen, ist laut Berichten offen.",
-   "e": "Der Kreml will laut Bericht zunächst abwarten, ob die Westeuropäer ernsthaft am Frieden interessiert sind.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/video6af809964495f9bd85b7f7c3/ukraine-krieg-wann-die-europaeer-mit-am-verhandlungstisch-sitzen-ist-absolut-unklar.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T08:06:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "cab929e262be1d9a",
-   "k": "deutschland",
-   "titel": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
-   "t": "Das ab 2027 geplante Altersvorsorgedepot soll die Riester-Rente ersetzen und mit staatlicher Förderung arbeiten. Fachleute bewerten es unterschiedlich.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T08:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e3059deabe4a0b9f",
-   "k": "deutschland",
-   "titel": "SPD-Arbeitsgemeinschaften und Jusos planen Anti-Klingbeil-Antrag",
-   "t": "In der SPD formiert sich Widerstand gegen eine erneute Amtszeit von Lars Klingbeil als Parteivorsitzender. Die Jusos fordern eine Frau als alleinige Vorsitzende.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af810379849eea0701e2726/lars-klingbeil-spd-arbeitsgemeinschaften-und-jusos-planen-anti-klingbeil-antrag.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T07:57:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f19030722544967",
-   "k": "finanzen",
-   "titel": "Bitcoin fällt unter 70.000 Dollar – Drei-Monats-Tief nach Fed-Furcht - aktien.news",
-   "t": "Bitcoin ist unter 70.000 US-Dollar gefallen und hat damit ein Drei-Monats-Tief erreicht. Als Auslöser werden Sorgen vor der Fed genannt.",
-   "e": "Der Kurs liegt damit im Umfeld der Zinspolitik der US-Notenbank, die Krypto-Märkte stark beeinflusst.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTk5vVUJCMU1GZFdHUVE3TzNnNXVialJ3cDlId0wwT1JwWTRfTHlTXzgyeVhaMG04bVM3cEFTMmp6SUlfWXFuYUNWQVB1QkZ1LU55MmlvbXBRNGJlWXRlb18xNTRjVU9vemxrR1NXRzhPRUZySHJvc24yVXJ4YkZzU0VYT2hsaFppQ1RnWHB6TXBfSU0?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-14T07:56:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 12
+    "n": 14
    },
    {
     "name": "Tagesschau Ausland",
@@ -3105,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 10
+    "n": 8
    },
    {
     "name": "Welt",
@@ -3115,12 +3115,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 29
+    "n": 26
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
@@ -3180,17 +3180,17 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 20
+    "n": 18
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3205,17 +3205,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 8
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 26
    }
   ],
   "markt": [],
