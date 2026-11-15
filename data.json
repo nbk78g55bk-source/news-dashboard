@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T15:01:20.023173+00:00",
+ "aktualisiert": "2026-11-15T17:01:28.111445+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.840 $",
-   "delta": -1.6203564022749684
+   "wert": "64.692 $",
+   "delta": -0.9118087739641734
   },
   {
    "name": "Ethereum",
-   "wert": "1.810 $",
-   "delta": -2.381209003236388
+   "wert": "1.815 $",
+   "delta": -0.4983130463110065
   },
   {
    "name": "Gold",
@@ -84,6 +84,210 @@
   ]
  },
  "items": [
+  {
+   "id": "f02fd950123d4d6b",
+   "k": "finanzen",
+   "titel": "Fed: Notenbanker kündigen weitere Zinserhöhungen an - Wirtschaftsjournal",
+   "t": "Fed-Notenbanker kündigen weitere Zinserhöhungen an.",
+   "e": "Weitere Zinsschritte der Fed belasten Anleihen, Gold und Aktien, die bereits unter der Zinswende leiden, und sind auch für Zinsen und Euro-Kurs in Europa relevant.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObm1TMFNZVnFTWUtyR1p6VmZYUjJIbk5VMm9feHIwZ3NnLVUxQ29oNGpVS2pib0RUWFpKS29SRElBSWd5cEltX01nOWd5TXk0UHBfQUctaGlXeWswaTZkWmpNUV93RWVoQldPMGthYTFKOHRjVjItVDV3VTNLSEtjbXpCdDV5aGZPRXc?oc=5",
+   "quelle": "Wirtschaftsjournal",
+   "zeit": "2026-11-15T16:47:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "cacea3c424596f13",
+   "k": "deutschland",
+   "titel": "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen",
+   "t": "Lauterbach kritisiert Kassenärzte-Chef Gassen scharf und weist dessen Vorschlag für Selbstzahlertermine für Kassenpatienten zurück.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/gesundheit/article6af9db246b444af68d4ad75a/termine-bei-fachaerzten-hoch-bezahlter-lobbyist-lauterbach-attackiert-kassenaerzte-chef-gassen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T16:46:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "bae62ffe98beb1f0",
+   "k": "usa",
+   "titel": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
+   "t": "Nach einem landesweiten Startverbot der US-Flugaufsicht FAA kommt es über das Wochenende weiter zu Flugstreichungen. Präsident Trump fordert vom Kongress mehr Mittel für das veraltete System und macht die Biden-Regierung verantwortlich.",
+   "e": "Ein landesweiter Ground Stop ist ungewöhnlich; die Debatte über die Finanzierung der Flugsicherung dürfte im Kongress weitergehen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/flugverkehr-tausende-fluege-gestrichen-trump-schaltet-sich-ein/100269925.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T16:39:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f7d496acd89453d",
+   "k": "finanzen",
+   "titel": "Bitcoin falls as upcoming Federal Reserve decisions and stronger dollar challenge demand - Traders Union",
+   "t": "Bitcoin verliert vor den anstehenden Fed-Entscheidungen und wegen eines stärkeren Dollars an Nachfrage.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXhqQThpaWdJZGc2ZGZ2NXhFT0l2NGE1OUhYMGlhREpPMW1qV3VUcUZITTZjQ29EQUZxWktkblB4Y0pqRTZabWJPaGQ4eUk0eTg1N3hVRWFPVlJ2cElfbkZmbXZpUnoxUDd4ZTJIQ2dhTjBRakpyeWhERHdnRTlFY1J4OG55bWtuLVRQaHptdldFS2dYZldIU3FxUmFRQQ?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-15T16:32:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "ab6ae1f542070510",
+   "k": "nrw",
+   "titel": "Umfrage in NRW: Schwarz-Grün mit stabiler Mehrheit – AfD zieht an SPD vorbei - Tagesspiegel",
+   "t": "Laut einer Umfrage hätte Schwarz-Grün in NRW eine stabile Mehrheit, und die AfD zieht an der SPD vorbei.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5aLUNYUnBxWTk3dThNTmhFTzBHbUprS0Q5VzllMVVkUDdoU1VnREtJcEF4UlB0QW1hR3MxWEFscTZZdkVrRGcxaTJMelFKYUJRdTNmTGZ1WVo0LTc1VldhOUJTdnFqdjlZaS1DOTh2bDJYNWl5T2JqTE9rYzB2WF9kdThOWGZPbHVQejVpWlY2a1VUMUpZZzF0VVoxZVlpU0pES3lEUnlLdzMwT0JIWGtaUndsOFVNa0tQem5HOHFxZw?oc=5",
+   "quelle": "Tagesspiegel",
+   "zeit": "2026-11-15T16:24:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "9315d990037f118e",
+   "k": "welt",
+   "titel": "Estland nimmt nach Brandanschlag 8 Personen fest, Grenzübergänge zu Russland ab Dezember geschlossen",
+   "t": "Estland schließt ab Dezember alle Grenzübergänge zu Russland. Auslöser ist ein Brandanschlag auf einen Drohnenhersteller, den Estland als russischen Sabotageakt wertet. Acht Personen wurden festgenommen, fünf sitzen in Haft.",
+   "e": "Estland unterstützt die Ukraine unter anderem mit Drohnen; die Grenzschließung ist ein deutliches Signal an der NATO-Ostflanke.",
+   "s": 7,
+   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af9d3ea9849eea0701e3c13/lassen-uns-nicht-einschuechtern-estland-nimmt-nach-brandanschlag-8-personen-fest-grenzuebergaenge-zu-russland-ab-dezember-geschlossen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T16:17:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "43a08481fa76a041",
+   "k": "deutschland",
+   "titel": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
+   "t": "Bremen beendet seine Kampagne gegen Islamismus vorzeitig. Die Innensenatorin räumt ein, das Ziel sei richtig, die Umsetzung aber nicht gewesen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-15T16:16:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "2019d910a3add0a5",
+   "k": "welt",
+   "titel": "VIDEO - SpaceX fängt die obere Stufe der Starship-Rakete erstmals auf",
+   "t": "SpaceX hat die obere Stufe der Starship-Rakete erstmals mit Greifarmen am Startturm aufgefangen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/shorts/spacex-faengt-die-obere-stufe-der-starship-rakete-erstmals-auf-ld.10064611",
+   "quelle": "NZZ",
+   "zeit": "2026-11-15T16:02:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "bc4ae251ad5b811b",
+   "k": "welt",
+   "titel": "1580 Menschen an einem Tag – Kanaren melden neuen Rekord von ankommenden Migranten",
+   "t": "Auf den Kanaren sind an einem Tag rund 1.500 bis 1.580 Migranten angekommen, ein neuer Tagesrekord. Besonders betroffen war El Hierro.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6af9c3f04495f9bd85b81076/spanien-1580-menschen-an-einem-tag-kanaren-melden-neuen-rekord-von-ankommenden-migranten.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T15:51:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "2973988b7ec63d21",
+   "k": "finanzen",
+   "titel": "Eric Daugherty: Scott Bessent calls for Federal Reserve to stop focusing on inflation when raising rates - Traders Union",
+   "t": "Finanzminister Bessent fordert die Fed auf, bei Zinserhöhungen nicht mehr vorrangig auf Inflation zu achten.",
+   "e": "Die Forderung aus der Regierung an die unabhängige Notenbank berührt die Frage der Notenbank-Unabhängigkeit.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVFBZDYydVhYelJnSERwdThkTVp3amdlSS0tRnhNMEQ2MVJzZXh4SDRBRjUxZENUSGZONXdpOERHVHNZLXBvZ1pwRnFPX0NHVzNVSldmbHZHYmNIeE5fNUxpTC1yaXBVVThNUS1fYU5ETnRKYVlOVV9heURidW1aR1lFbHdtUzhiS3BHM1d3?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-15T15:46:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c3cb37b5a04581f",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Autofahrer rast bei Flucht auf Polizisten zu - n-tv.de",
+   "t": "In NRW ist ein Autofahrer bei seiner Flucht auf Polizisten zugerast. Die Ermittler prüfen einen möglichen versuchten Tötungsdelikt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGRXcXpvN0dvZDhicDdfMHNsWEdkallQN0xRbnZHcGdEMGlnYlZ2V0I4SFltMlNEYlJ3c0xKekdXOUo2T1VjY1NhUXNfS2FaVVBaSkJKMkpBdFpxOE1QLXctc1lYdHFOR2VKLWlITmFGc29CbVVfTVFjeEtneEtsSzB2ck8tam8tMHJlOGVhVFUybnZIemdkQzFGTHlWTDRlQmNMRElQSnRQM3hIQ1pmYw?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-15T15:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "bb643ea020f7c799",
+   "k": "welt",
+   "titel": "„Hände weg von den Medien“ – Mehr als 200.000 Menschen demonstrieren gegen Reform in Tschechien",
+   "t": "In Prag demonstrieren mehr als 200.000 Menschen gegen die geplante Rundfunkreform, nach der die öffentlich-rechtlichen Sender aus dem Staatshaushalt finanziert werden sollen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6af9c9c76b444af68d4ad63d/abschaffung-der-rundfunkgebuehren-haende-weg-von-den-medien-mehr-als-200-000-menschen-demonstrieren-gegen-reform-in-tschechien.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T15:39:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "bbea9706284a75f1",
+   "k": "welt",
+   "titel": "Iran meldet Explosionen an Öltankern in der Straße von Hormus – US-Militärstützpunkt angegriffen",
+   "t": "Iran meldet Explosionen an Öltankern in der Straße von Hormus und einen Treffer auf einen US-Stützpunkt in Bahrain. Saudi-Arabien berichtet von abgefangenen Raketen.",
+   "e": "Die Straße von Hormus ist ein zentraler Engpass für den globalen Öltransport; Vorfälle dort wirken direkt auf Ölpreis und Inflationserwartungen.",
+   "s": 8,
+   "link": "https://www.welt.de/politik/ausland/article6af966ad4495f9bd85b80873/nahost-iran-meldet-explosionen-an-oeltankern-in-der-strasse-von-hormus-us-militaerstuetzpunkt-angegriffen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T15:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "38adfee688905fda",
+   "k": "deutschland",
+   "titel": "Ein Mann der Mitte? Die AfD nominiert den Fussballweltmeister Thomas Berthold für das Amt des deutschen Bundespräsidenten",
+   "t": "Die AfD nominiert den früheren Fußballweltmeister Thomas Berthold für das Amt des Bundespräsidenten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/sport/fussball/ein-mann-der-mitte-die-afd-nominiert-den-fussballweltmeister-thomas-berthold-fuer-das-amt-des-deutschen-bundespraesidenten-ld.10064452",
+   "quelle": "NZZ",
+   "zeit": "2026-11-15T15:18:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "48b403102ce5d2cd",
+   "k": "deutschland",
+   "titel": "SPD-Vorsitz: Heil sieht seine Chance in Klingbeils Schwäche",
+   "t": "Hubertus Heil will den SPD-Vorsitz übernehmen und sieht seine Chance in der Schwäche von Lars Klingbeil.",
+   "e": "Der Machtkampf in der SPD könnte die Regierungsarbeit in Berlin und die Ausrichtung der Partei beeinflussen.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/inland/hubertus-heil-bewirbt-sich-um-den-spd-vorsitz-gegen-lars-klingbeil-accg-201684834.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T15:09:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "51ad0380a5abbbf2",
+   "k": "nrw",
+   "titel": "28 zu 27 Stimmen: Warum NRW nun keinen zweiten Nationalpark mehr bekommt - WP | Westfalenpost",
+   "t": "Mit 28 zu 27 Stimmen wurde entschieden, dass NRW keinen zweiten Nationalpark bekommt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHpvdjc0NDBNQXJXXzhsVXhYVnNsWERpMktmVUl3eVNUS2ZmeW1PTmJlMmUwRU45aGc0VUw0ZUozcVVpdmloQy1OM2JKbFhobi1CRzNXNWwtRENfcktNdF9TU1dmRmVhMjZXS3lLQ1hhUmV1RUlQaUIwclA0RjdxZGpaa2hVM0Vqb01JX18wYUd3Nm5ySC10WXV0UzhXRFYtMHBQNF9iTkpOVnlobi0tSHFBeERBa3lyNW0yeVp4OFNldDhCdHFIVkdpVG4?oc=5",
+   "quelle": "WP | Westfalenpost",
+   "zeit": "2026-11-15T15:01:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "d842a4d076ed40e2",
+   "k": "finanzen",
+   "titel": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+   "t": "Vor dem Quartalsbericht von Nvidia am Dienstag sind die Erwartungen hoch. Nach dem plötzlichen Abgang von Jensen Huang gilt der Termin als bedeutendster in der Firmengeschichte.",
+   "e": "Nvidia gilt als Taktgeber des KI-Booms; die Zahlen beeinflussen die Stimmung im gesamten Technologiesektor.",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-15T15:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "e64f9e994ec977c3",
    "k": "nrw",
@@ -286,6 +490,18 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0RwVnZUdHFpclFxbklOc0RnVGZoRl9uRlRpR1pUZU9IZ0g5UkQ1NmFwSUswQUk2ZG1pME9vNkNHTHBFNVFRaEM5T25vem1POGI4dVVZbENNblFJSFdRdWtaRXBFWGEtZEw4dVZPZnZ1S0hXNUFhcTluMlFnSHEyYU9jNC1yd1pMTEptak93SS1XLTRnSjJmM1l4bw?oc=5",
    "quelle": "DIE ZEIT",
    "zeit": "2026-11-15T13:20:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "7c673deb2ea96157",
+   "k": "welt",
+   "titel": "Treffen von Trump, Putin und Xi Jinping: Warum Europa dieses Treffen fürchtet - Politik - SZ.de - SZ.de",
+   "t": "In Europa wächst die Sorge vor einem möglichen Treffen von Trump, Putin und Xi Jinping.",
+   "e": "Ein solcher Gipfel könnte Europas Position in der Ukraine-Frage und bei Sicherheitsfragen verändern.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekVtb2VMbWNuSFkyaURsZmZWLWswOXY5MmtIZENPankyTnhwcno2VHp5QnNGc1RPMzFTbngtWjRrVkpySGEycnFZXzlzeDlYejhLQk4xYmltZ3c3amhJZTZPaWFVQjVSelZnRzZMTG9ZZ1Fkc0hWZkhwckNTNVRSV25jRmdCU1ZyNTZiU1Vn?oc=5",
+   "quelle": "SZ.de",
+   "zeit": "2026-11-15T13:19:18+00:00",
    "tag": null
   },
   {
@@ -538,6 +754,18 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkhTR21tYXd2dl9JbXdDQl9CZjJzTmRYc25ORVBlbXdxN2tBbWxrVlh1eVBsQ2J4anBFOGEtcEZYZWM0V2diNzJ1U2N4RERHTUJZSHRlQzJRREl4Q3ZlczZ1MnNIQzJ0SlgxbXhsUFRxZjUtN3ZyeDdfcUUzYVRQZFJ3UnhUdVdpQjBJaGRVcXZ3V05fZHJFaUFlRmZUZWJ0TjJka09WRmtkYXJGZmx6WXJ6V0trdzNsYlB4eXNXaTViMHFteVhZ?oc=5",
    "quelle": "WAZ",
    "zeit": "2026-11-15T11:17:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "6b2b715f87d7685a",
+   "k": "nrw",
+   "titel": "Reisende müssen sich gedulden: Züge auf der Lenneschiene fahren wohl erst ab Mittwoch wieder - Come-on",
+   "t": "Auf der Lenneschiene fahren die Züge voraussichtlich erst ab Mittwoch wieder. Reisende müssen sich bis dahin gedulden.",
+   "e": "Die Lenneschiene ist wichtig für Pendler im Lennetal und im Märkischen Kreis.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjVGYTNpdGRUVzEtRDdqcWFvdlZ4cGxKWHdRaDYxdklZWDYzVXF2MlNCTC14dlJfQzRoMmZldERzbE5odmVfNXA2LUhuNFhZUkdoWXVpR1VTZEFadzc5WlE3cFFjaG5adVJEb25ZWkJocXRmTHFqT1ZoeEJ2bjRKWmR0NmZvTUhIUXYtS3VVbG5MUk9WQ3V5b01KNGZOZmZveXpDbm1nR3FJS3hURldINWRodXJoQQ?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-15T11:16:05+00:00",
    "tag": null
   },
   {
@@ -2855,234 +3083,6 @@
    "quelle": "Allgäuer Zeitung",
    "zeit": "2026-11-14T12:55:58+00:00",
    "tag": null
-  },
-  {
-   "id": "5d492ccee2688e69",
-   "k": "deutschland",
-   "titel": "Streit in der Koalition: Wüst drängt auf niedrigere Stromsteuer für alle - DIE ZEIT",
-   "t": "NRW-Ministerpräsident Wüst fordert innerhalb der Koalition eine niedrigere Stromsteuer für alle Verbraucher.",
-   "e": "Die Debatte betrifft Strompreise für Haushalte und Unternehmen und ist ein Koalitionsstreit in Berlin.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUG51R2kwY01iS2xENjg2MW5jNnZpRkl2Q25oRk5CVDYyMWJIMDRnY1FRajlpaWhpWUdVZmZoLWNIZnZpSXdHeHJFV1MxdlktMWd1NHpyU3pMX19veTJSLU1ZTnpQVUpGeTNTSGZoMlk2X1dnRDVQeTZXLXRoTzNjSWpacTRkam90dDBRY29ncw?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-14T12:55:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "d45862a06b07d5e7",
-   "k": "deutschland",
-   "titel": "Klöckner bestürzt über „so wenig Empörung“ infolge der Palästinafahne vor dem Reichstag",
-   "t": "Bundestagspräsidentin Julia Klöckner kritisiert das Hissen der Palästinafahne vor dem Reichstag scharf und stellt Strafanzeige. Die Berliner Polizei passt den Außenschutz an.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af850109849eea0701e2b1e/palaestinafahne-vor-dem-reichstag-so-wenig-empoerung-kloeckner-kritisiert-reaktion-auf-fahnenaktion.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T12:46:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "f4bea56832ef69a2",
-   "k": "welt",
-   "titel": "Kuba bereitet sich auf Angriff der USA vor",
-   "t": "Kubas Präsident Miguel Díaz-Canel erklärt, sein Land bereite sich auf einen möglichen Angriff des US-Militärs vor. Man sei entschlossen, jeden Versuch einer ausländischen Militäraggression abzuwehren.",
-   "e": "Die Aussage zeigt eine Zuspitzung im Verhältnis zwischen Kuba und den USA; Auswirkungen auf Lateinamerika und die US-Politik sind offen.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/ausland/video6af853c96df4bbeedf7a2ea6/karibikinsel-kuba-bereitet-sich-auf-angriff-der-usa-vor.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T12:36:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "f00c5b4181209495",
-   "k": "welt",
-   "titel": "Dreiergipfel in Shenzhen: Peking organisiert ein Treffen zwischen Donald Trump, Xi Jinping und Wladimir Putin",
-   "t": "Das Weiße Haus hat ein Dreiertreffen von Donald Trump, Xi Jinping und Wladimir Putin bestätigt, das Peking in Shenzhen organisiert. Die drei Staatsoberhäupter verfolgen laut Berichten unterschiedliche Absichten.",
-   "e": "Ein Treffen dieser drei Machtzentren wäre für Sicherheitspolitik, Ukraine-Krieg und Handelsbeziehungen mit China und den USA gleichermaßen bedeutsam.",
-   "s": 7,
-   "link": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910",
-   "quelle": "NZZ",
-   "zeit": "2026-11-14T12:33:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "8e21cc08e1c7f9a3",
-   "k": "usa",
-   "titel": "One industry surged DC lobbying 337% under Trump — here’s what’s driving the push",
-   "t": "Laut einer Auswertung von Advancing American Freedom sind die Lobbyausgaben zu zollbezogenen Meldungen 2026 um 337 Prozent gestiegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-14T12:30:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "e287c63050b7ea58",
-   "k": "deutschland",
-   "titel": "Grüne und SPD stimmen Koalitionsvertrag zu",
-   "t": "In Mecklenburg-Vorpommern haben alle drei Parteien SPD, Linke und Grüne dem Koalitionsvertrag für eine erste rot-rot-grüne Landesregierung zugestimmt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/gruene-und-spd-stimmen-koalitionsvertrag-in-mv-zu,mvlandtag-122.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T12:26:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "27ca5f4b0bcc3569",
-   "k": "deutschland",
-   "titel": "Bundespräsidenten-Wahl: AfD schickt Ex-Fußballer Berthold ins Rennen um Bellevue",
-   "t": "Die AfD schickt den früheren Fußballnationalspieler Thomas Berthold ins Rennen um das Amt des Bundespräsidenten. Hintergrund ist seine Rolle während der Pandemie.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidenten-wahl-afd-schickt-ex-fussballer-berthold-ins-rennen-um-bellevue/100269893.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T12:24:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "baaa604469cc9aae",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: 86-Jähriger verunglückt tödlich mit Elektro-Dreirad - n-tv.de",
-   "t": "In Nordrhein-Westfalen ist ein 86-Jähriger mit einem Elektro-Dreirad tödlich verunglückt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0ZkSWtuYkNOaTR4VmtXUmVCbHZZa1hJUjFsZ2l6UlJaYVlPcFVKZXNrOFg3Sk5kMmU4Nll0emhJYW92bjVrTk9HUVd0R1FKZ1l4X0VqUWtiV0Zfb3R4R1RHM29pWjdfd21PQ28tOEY1M3RCOEhnWlRlVUJjTVY4YjNSN09lZ3ZHYVJfNGNsUWlIQzVsMGRlNWVQeVc5dy1xV0ExYVo3T1Y3YnpFcHhjZ0xEVC1tMnFUOV9VT3l3?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-14T12:22:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e04cb6dfd00ea872",
-   "k": "finanzen",
-   "titel": "Zinsschock an den Börsen: Renditen über 5 Prozent, Fed vor der Zinserhöhung – wer jetzt gewinnt und wer verliert - AktienCheck.de",
-   "t": "Laut AktienCheck.de sind die Renditen an den Anleihemärkten über 5 Prozent gestiegen, und die Fed wird als möglicher Zinserhöhungskandidat genannt. Der Artikel bewertet Gewinner und Verlierer.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjVMMkpnVUEzbnlkWEhxZ2Nhdl9ZZERxY2t0Z3NERWNybzBwaWdIb1hIM1BCekFEY2I4am5yek9ZajZTTVdCUmdiWEt6MHZ1V3VIRjRZT0cxc0tkTUFZS2I0cHBFUC14MEFqbGYtQlVjMGJJVm1ON0UtSXBLTFZpWVhHUDFEMDJPczZkZGJ2aXp2MUtEQlV1YWRmejV3SU5ObU9ONVlpU1E3V1hMZlhjbg?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-14T12:10:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "4d64822cd9f10dc3",
-   "k": "deutschland",
-   "titel": "Anträge für Parteitag: Arbeitskreise gegen Klingbeil als SPD-Chef",
-   "t": "In der SPD wächst der Widerstand gegen Lars Klingbeil als Parteichef. Mehrere Arbeitsgemeinschaften und die Jusos wollen verhindern, dass er erneut kandidiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/antraege-fuer-parteitag-arbeitskreise-gegen-klingbeil-als-spd-chef/100269888.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T12:09:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "2aba9fc5b9608de4",
-   "k": "deutschland",
-   "titel": "Auf diesem Land ruhen Deutschlands Abschiebe-Hoffnungen",
-   "t": "Mehrere EU-Staaten verhandeln über Abschiebezentren in Drittstaaten, auch Deutschland ist beteiligt. Ein bestimmtes Land steht dabei im Fokus.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/plus6af6e2485a72dceba1d61399/kampf-gegen-illegale-migration-auf-diesem-land-ruhen-deutschlands-abschiebe-hoffnungen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T12:07:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "5266cf7cb02b650f",
-   "k": "finanzen",
-   "titel": "Nvidia: Wie Jensen Huang in 315 Tagen sein Lebenswerk verspielte",
-   "t": "Laut Handelsblatt hat Nvidia-Gründer Jensen Huang die Position der wertvollsten Firma der Welt innerhalb von rund einem Jahr verloren. Der Bericht rekonstruiert den Verlauf und die Rolle seines Schwiegersohns.",
-   "e": "Der Verlust der Spitzenposition bei Nvidia ist ein markantes Signal für den KI-getriebenen Börsenboom.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-wie-jensen-huang-in-315-tagen-sein-lebenswerk-verspielte/100269679.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T12:02:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "d51367466b76afd3",
-   "k": "finanzen",
-   "titel": "Ein Zehntelpunkt zu viel – und die Fed redet über höhere Zinsen - HKCM",
-   "t": "Die Fed diskutiert laut Bericht über höhere Zinsen, nachdem ein Zehntelpunkt zu viel bei der Inflation gemeldet wurde.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXFtNS1FQ3Aza29DUFdkejRabVFvUnpkT29FaUpnc2VzUVZSUGZWdXlFUUlBVGdkZ3EyVVB0SFptLTd6cEpvM0tGUE9NM2p2TENrQVhFQ0RNM1FMZWU1M0JvTnowM2dwUGlfQWJobm90MWIySGlUdjRUSE0tekVBVTdJWjE0Nkd2bmpkZzBMY1U?oc=5",
-   "quelle": "HKCM",
-   "zeit": "2026-11-14T12:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "42308eb6c49ed3c0",
-   "k": "nrw",
-   "titel": "Gen Z, Prüf NRW, Iraner: Drei Demos in der Innenstadt – Verkehr kam stellenweise zum Erliegen - RP Online",
-   "t": "In der Innenstadt fanden mehrere Demonstrationen statt, darunter eine Gen-Z-Protestaktion und eine Versammlung von Iranern. Der Verkehr kam stellenweise zum Erliegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWW5YWEFVNkJTODA0ZmdsSmZTYzJKMkl4aEdmZjdBaDRNSWhmTk1LTW92U2V3MC00eGllaTBjQXlwUnpUWVB1VnczQWZ1NTV3cWx0b21iRUZoS3c2MUs2ZUZFT0ctWDZOdmtJWHZzdDJsWW4wZExIOU5xTTJMbW84ckRsdlk3M2o1RFcxMlJOQW5BSFVUR1VnU000b1YzVUlTNFBlb3lzMTJpTmtsZ0RsRjZwS0Q?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-14T11:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b5be25cc34716b6",
-   "k": "finanzen",
-   "titel": "Energiekonzerne: Kanadier, Norweger und Briten in der engeren Auswahl für Uniper-Übernahme",
-   "t": "Für die Übernahme des Gasversorgers Uniper hat die Bundesregierung drei Bieter aus Kanada, Norwegen und Großbritannien zu verbindlichen Angeboten eingeladen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/energiekonzerne-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T11:52:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "6259a6f9461e8c13",
-   "k": "nrw",
-   "titel": "Siegen: Kinder schon beim Start benachteiligt – Sozialarbeit in Chancen-Kitas - WP | Westfalenpost",
-   "t": "In Siegen zeigt ein Bericht, dass Kinder schon beim Start in die Kita benachteiligt sind. Sozialarbeit in sogenannten Chancen-Kitas soll dagegenwirken.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa25pU0J4VHRjZ01xZGRKWjh3VGhhTldmVnJVc3hMSllaR1l3eVFFS0tsZjJqMlRsMmtYZzdFMHpHc2Y1Ti02VDFiVUFydmZFTzBiTmkyMlEtSXRpMXlxU25Fc3Y3Q3J5OHVPbFNtWWpMNmVjY3BVUmRSM0NzM2g4akMwRlo5MlVzbzVMZ3pOcFRFZHpoTV9zaDNUbzlsRVVqQ3dpeDRZUTlsdHlLc08zWlNhcUN5b0xDME1CZUE5WEdXQlBIcnZqZFp2cFVkajQxbHRlZ3o4VQ?oc=5",
-   "quelle": "WP | Westfalenpost",
-   "zeit": "2026-11-14T11:51:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "e14f9278cf998e0a",
-   "k": "welt",
-   "titel": "Papst Leo besucht ehemalige Diözese in Peru",
-   "t": "Papst Leo besucht eine ehemalige Diözese in Peru.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1683706.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T11:48:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "66f9523a13c549f7",
-   "k": "welt",
-   "titel": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zum Klimagipfel der Völker",
-   "t": "Auf dem Klimagipfel der Völker in Antalya wird über die Klimapolitik diskutiert, berichtet die ARD aus Istanbul.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1683698.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T11:41:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "b8e92fd2a001df69",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Radfahrer auf L381 in Kleinenbroich lebensgefährlich verletzt - tixio - Nachrichten",
-   "t": "Ein Radfahrer ist auf der L381 in Kleinenbroich lebensgefährlich verletzt worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1VyNGtzWDdISFVJeHhqNTg2NDA5T3pWRGdINGtKOHNsUVc1dzJhNl9kSGg1LWd1NXVxTWg3cVppOW1tQUVOUkw2TUZBUVpfRmVHVVppQXRYNkl4V3MtSF9RazN5NzFqbFRfRE56ekxXT29IWXVSQlFjZ2xKQWFDMk5USmFUZ0NlYUpneVFqTW1TeXl0cDBqR08tNjg?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-14T11:39:06+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,22 +3090,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "Welt",
@@ -3120,12 +3120,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "NZZ",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 16
+    "n": 14
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 18
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -3180,12 +3180,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Google News Iserlohn",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 8
+    "n": 6
    },
    {
     "name": "Google News NRW",
@@ -3205,17 +3205,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 18
+    "n": 15
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 9
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 28
    }
   ],
   "markt": [],
