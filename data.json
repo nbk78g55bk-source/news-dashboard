@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T22:45:49.765908+00:00",
+ "aktualisiert": "2026-11-15T23:01:10.254382+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.131 $",
-   "delta": 1.9863112576359019
+   "wert": "65.176 $",
+   "delta": 2.401367788608674
   },
   {
    "name": "Ethereum",
-   "wert": "1.827 $",
-   "delta": 3.896451289401686
+   "wert": "1.826 $",
+   "delta": 4.365383065767885
   },
   {
    "name": "Gold",
@@ -80,6 +80,30 @@
   ]
  },
  "items": [
+  {
+   "id": "a4e7959a339cb3bd",
+   "k": "finanzen",
+   "titel": "Fed Study: AI Data Centers vs Productivity Gains - CASRAI",
+   "t": "Eine Studie der US-Notenbank Fed untersucht, wie sich KI-Rechenzentren und mögliche Produktivitätsgewinne zueinander verhalten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOallabEpXY0N5VTMwMFBXenVOMk5pMzh2aWF3WC1zdEhsczlqcWVKT05fX2ZGTDZxQ0IzWTZ4V1VlcTJ2TVJTTTR2Nms1ampKRktpcF9Ha2VhbDR2MDB0aHo1Q1c4SGpGSlpUT3lhY2ZmMHJMRnVnTGtCdS0yLUY1TkhB?oc=5",
+   "quelle": "CASRAI",
+   "zeit": "2026-11-15T22:58:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "84398805c4e7695b",
+   "k": "finanzen",
+   "titel": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+   "t": "Laut Anchorage Digital wird der jüngste Bitcoin-Ausverkauf vor allem von US-Investoren getrieben. Unterstützer von Nvidia-Chef Jensen Huang haben zudem ein „War Room“ eingerichtet, um seine Rückkehr an die Konzernspitze zu erreichen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-15T22:50:59+00:00",
+   "tag": null
+  },
   {
    "id": "e537f2f67a6ddd29",
    "k": "usa",
@@ -3055,30 +3079,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-14T17:46:06+00:00",
    "tag": null
-  },
-  {
-   "id": "76d755d752aee40b",
-   "k": "deutschland",
-   "titel": "Dann spricht Hendrik Wüst über die „schiere Katastrophe“ bei Wahlen",
-   "t": "Vor Landtagswahlen verlieren CDU-Politiker in Umfragen ihren Vorsprung, unter anderem in Nordrhein-Westfalen und Niedersachsen. NRW-Ministerpräsident Hendrik Wüst spricht von einer schieren Katastrophe bei Wahlen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/plus6af712a384c7128d8f27e53a/unionskrise-dann-spricht-hendrik-wuest-ueber-die-schiere-katastrophe-bei-wahlen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T17:41:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "ecbb13f5c16ebe53",
-   "k": "welt",
-   "titel": "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung",
-   "t": "Moskau bezeichnet die Nato als Gefahr für Europa und fordert eine Neuausrichtung der europäischen Verteidigung. Selenskyj warnt, dass Washington und Moskau die Sicherheitsarchitektur Europas grundlegend verändern wollen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6af88f3d389d31d8c8a8073e/sicherheitspolitik-die-nato-ist-wie-ein-schmerzender-zahn-moskau-will-neuausrichtung-der-europaeischen-verteidigung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T17:26:05+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "WSJ USA",
@@ -3181,12 +3181,12 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3201,17 +3201,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 32
    }
   ],
   "markt": [],
