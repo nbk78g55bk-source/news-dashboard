@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T17:41:16.695508+00:00",
+ "aktualisiert": "2026-11-15T19:01:29.006940+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.508 $",
-   "delta": -2.2281341963252443
+   "wert": "64.691 $",
+   "delta": -1.3167498545548333
   },
   {
    "name": "Ethereum",
-   "wert": "1.806 $",
-   "delta": -2.3232132872932967
+   "wert": "1.814 $",
+   "delta": -0.8933970225635187
   },
   {
    "name": "Gold",
@@ -54,36 +54,164 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-15T11:01:11.935006+00:00",
+  "slot": 19,
+  "stand": "2026-11-15T19:01:29.006922+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "Im Iran-Krieg sind laut Meldungen drei Öltanker in der Straße von Hormus nach Minenkontakt in Brand geraten. Der Iran hat außerdem einen US-Stützpunkt in Bahrain angegriffen, und Saudi-Arabien meldet abgefangene Raketen auf Riad."
+    "t": "Iran meldet Explosionen an Öltankern in der Straße von Hormus und einen Treffer auf einen US-Stützpunkt in Bahrain. Saudi-Arabien berichtet von abgefangenen Raketen auf Riad. Laut einer Meldung sind drei Öltanker nach Minenkontakt in Brand geraten."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB hat die Zinsen unverändert gelassen, der Einlagen- bzw. Leitzins liegt laut Marktdaten bei 2,50 %. EZB-Präsidentin Christine Lagarde kündigte an, zum Februar zurückzutreten."
+    "t": "Die EZB hat den Zins unverändert gelassen (Marktdaten: EZB Zins 2,50 %), und Lagarde kündigte ihren Rücktritt zum Februar an. Die US-Notenbank Fed hält den Leitzins bei 3,88 % (Fed Funds), und Märkte preisen laut Meldung eine Zinserhöhung im Dezember ein."
    },
    {
     "k": "finanzen",
-    "t": "Nvidia verlor laut Bericht rund 800 Milliarden US-Dollar Börsenwert, nachdem Jensen Huang nach 33 Jahren als Konzernchef zurückgetreten ist. Zum Vergleich: Deka DAX 233,60 €, iShares MSCI World 130,44 € und Deka Nasdaq-100 178,60 € sind die aktuellen Kurse der genannten ETFs."
+    "t": "Nach dem Abgang von Jensen Huang verlor Nvidia laut Bericht rund 800 Milliarden US-Dollar Börsenwert. Finanzminister Bessent fordert einen externen Nachfolger, und der Quartalsbericht am Dienstag gilt als besonders wichtig. Zum Vergleich: Deka Nasdaq-100 178,60 €, Deka S&P 500 141,90 €, Deka DAX 233,60 €."
    },
    {
     "k": "finanzen",
-    "t": "Die US-Notenbank Fed liegt laut Marktdaten bei 3,88 %, und Fed-Vertreterin Susan Collins hält schrittweise Zinserhöhungen für angemessen. Der Finanzstabilitätsbericht der Fed warnt zudem vor überhöhten, KI-getriebenen Aktienbewertungen und steigender Verschuldung."
+    "t": "Bitcoin fiel laut Meldung unter 62.000 US-Dollar auf ein Vier-Monats-Tief; die Marktdaten nennen zuletzt 64.691 $. Gold steht bei 3.886 $ und Ethereum bei 1.814 $."
    },
    {
-    "k": "welt",
-    "t": "Das Weiße Haus und der Kreml haben ein Dreiertreffen von Trump, Xi und Putin in China bestätigt. Laut Selenskyj bringen die USA einen Rückzug aus dem Donbass gegen einen Nato-Verzicht ins Spiel."
-   },
-   {
-    "k": "usa",
-    "t": "In den USA fallen nach einem landesweiten Startverbot weitere rund 4000 Flüge aus, auch der Londoner Flughafen Heathrow ist betroffen. Die Ursache ist laut Meldung noch unklar."
+    "k": "nrw",
+    "t": "In Iserlohn bekämpfte die Feuerwehr einen Brand in einer Müllverbrennungsanlage, Rauchgase verursachten Geruchsbelästigung. Auf der Lenneschiene fahren die Züge laut Bericht voraussichtlich erst ab Mittwoch wieder."
    }
   ]
  },
  "items": [
+  {
+   "id": "3f6354e937a90113",
+   "k": "finanzen",
+   "titel": "Federal Reserve signals more inflation work as markets price December rate rise - Traders Union",
+   "t": "Die US-Notenbank Federal Reserve signalisiert weiteren Einsatz gegen die Inflation. Märkte preisen eine Zinserhöhung im Dezember ein.",
+   "e": "Die Fed hat bereits weitere Zinserhöhungen angekündigt; eine Erhöhung im Dezember wäre ein weiterer Schritt der Straffung.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTRwMVVJVUhKNTJ3NU45V3N1dDFYdHM3QnlNX0JzTlg1NXR0aTBoRlF0OVcyRndya2FGQXpZdENnNUJ6RVZoLUw5Y0VjM25DY191SldZS2R5Y0pIWENLMWdlLUhUeTVaNVlFVG4yaWxYVGE1aDFUTnByd3RXbVB1dEM1X2hpQXYzSEI2ay1pUldaWjVWdmdfOUVn?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-15T18:54:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "2c8ce12098980f08",
+   "k": "usa",
+   "titel": "USA unter Trump: Trump will Berufung im Streit um Golfplatz-Umbau einlegen",
+   "t": "Trump will im Streit um einen Golfplatz-Umbau Berufung einlegen. Zudem hat er eine gemeinsame Militärübung mit Südkorea eingedämmt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-berufung-im-streit-um-golfplatz-umbau-einlegen-faz-19444916.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T18:33:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "ad7ef23946f9e4a8",
+   "k": "finanzen",
+   "titel": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch - Livemint",
+   "t": "Im Wochenausblick für die Wall Street stehen Nvidia-Quartalszahlen, ein möglicher Börsengang von Anthropic, Fed-Protokolle und Einzelhandelsumsätze im Fokus.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNR3B1RmhXOTZGMW5zV0Z6WjJxSEVLMHJRWUxVYnRLZmNXWjNrb05Lbm1MeWt1N2Y0cFFEYmNnbFdMTDRQZWJsTGhfbm0wVl9ieE9iQ3AxTi1Ma3FOSG5xZjVDQ1NlZ00ycGxpazk2LXlCWjZzSkFFMlRyY0JZNnZwa2tlcy1FeVoyRUE3ZjcyQlpCcG9TNFQ4ZHo0ck9TWC01RGRfZ2xmMC1kZDM1YzE0SC1CelhlWGlUU09aRXNEU1pmLUJaa2I4SENGc3hZNk81ZFRoclpTZURKNWxmaUxEbGJCTG85ZTl5a3JCeDZzaDFJdDBnYjhWSEFzdVhtM2VGN1RsZGZRUFlUZjjSAZACQVVfeXFMTk82b09rdGZvdjIyY1pzLVFYYnNpSFZVUjUyVkV5TjRFWjE2RkxBSExoem9hUmlpVjhGZ1hVWU9Jand1Nkw0eWlkdFUyaGR6OExnV3BUWXJBZnpMMU4zR3JTcmduR3gxai1DQnVtSlVnWENiYVRYZzRVa2EwLUhfak9VZzRwcUlxTXBKZDlVVE5QQlJxaVczOTVnemhRY0xKbHlLNEFBVmJtRXFXeXN6NHVZQWVzTl8zVUhIcUg1SDVrZ3hia0llblFCMk1zMjhaUTQxcktibDJmYTRaZGxFNExOeHpyQmZiblhMNUZDTWxnYmhVTkxnTWRrc3g5U2R1YW5OU1ZyWXkweGYwQkJ3TkU?oc=5",
+   "quelle": "Livemint",
+   "zeit": "2026-11-15T18:32:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "c3528e1fff933f22",
+   "k": "deutschland",
+   "titel": "Hubertus Heil strebt nur SPD-Vorsitz an – Klingbeil solle „auf jeden Fall“ Finanzminister bleiben",
+   "t": "Hubertus Heil will nur den SPD-Vorsitz übernehmen und lehnt ein Ministeramt ab. Lars Klingbeil soll nach Heils Worten auf jeden Fall Finanzminister bleiben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6af9f46f9849eea0701e3de8/kein-ministeramt-hubertus-heil-strebt-nur-spd-vorsitz-an-klingbeil-solle-auf-jeden-fall-finanzminister-bleiben.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T18:26:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "91996f7f180f0ec8",
+   "k": "finanzen",
+   "titel": "Bessent urges Nvidia to look outside the company for new CEO after Jensen Huang’s resignation: ‘Dramatic shakeup’",
+   "t": "US-Finanzminister Bessent fordert Nvidia auf, bei der Nachfolge von Jensen Huang einen externen Kandidaten zu wählen. Nvidia muss den US-Behörden zudem binnen zehn Tagen Fragen zu möglichen Gewinnen aus verbotenen Chipverkäufen beantworten.",
+   "e": "Nvidia ist mit rund vier Billionen Dollar Marktwert einer der größten Konzerne weltweit; der Konflikt mit der Regierung betrifft Exportkontrollen für Chips nach China.",
+   "s": 8,
+   "link": "https://nypost.com/2026/11/15/us-news/treasury-secretary-scott-bessent-says-nvidia-should-look-outside-the-company-for-jensen-huangs-successor/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-15T18:18:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "d883978347492b23",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Großeinsatz: Brand in Müllverbrennungsanlage in Iserlohn - tagesschau.de",
+   "t": "Bei einem Großeinsatz hat die Feuerwehr einen Brand in der Müllverbrennungsanlage in Iserlohn bekämpft. Rauchgase verursachten Geruchsbelästigung.",
+   "e": "Die Anlage liegt im Stadtgebiet Iserlohn; Anwohner sind durch Rauch und Geruch betroffen.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXNYcURpZzRoMHI1ejF4QjJla2FrYWhvWmtlalQ2eDhKbl9NXzVUSl91WWY5RzU1YWNsd2w2X2dON0lWYnBuaFVBS0xDRkdnbWdUV2FnQ2ZlZHU2bmZfSG1tZ2ZfRXJLUkYwSFdxUUpsMDBKek1KSG5QamQycWs1R0Z6Vy1oWmJPX255NFNoc1NlbkZzT05oVE1zX053eUdSblRXOHJuTmhTZ05fSldrSVM5M21OTk5VbDVBOXQ1RXgySlVEbndyT0NnYw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-15T18:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "746713c1393e182c",
+   "k": "welt",
+   "titel": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
+   "t": "Ein Cyberangriff auf einen Post-Dienstleister soll Daten von 22 Millionen Menschen betroffen haben. Im Visier war eine Tochtergesellschaft der französischen Post.",
+   "e": "Daten von 22 Millionen Menschen sind eine erhebliche Größenordnung für einen einzelnen Vorfall.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T18:09:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "787fdd77849338ee",
+   "k": "nrw",
+   "titel": "Polizei-News Altena, 15.11.26: Brand in der Filteranlage eines metallverarbeitenden Unternehmens - News.de",
+   "t": "In Altena (Märkischer Kreis) hat es in der Filteranlage eines metallverarbeitenden Unternehmens gebrannt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEYwQ3NaUWkwNDhEbTFBMVc4QVNGNlUxck9mVmJtYTQxeEs2VWdjODA1VXNrU1hsU002UjdlNzIzUTNlN2dQV3VrejVFMHlDOFJxMzNuRWVqN2R5SUFtMFBUVzVJUlczd1V2dVpBalRLcEtQOHkteXk1RTlvTExZMldwczc2bEZHUENHS29nTWpHQmtKekdFX2REMXlRUHdTb3lhcUtuS21kakhJTXlB?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-15T18:09:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "15fb724c4f2aebdc",
+   "k": "nrw",
+   "titel": "News, Nordrhein-Westfalen, Regional: Mordkommission ermittelt nach versuchtem Tötungsdelikt in Bielefeld-Heepen - tixio - Nachrichten",
+   "t": "In Bielefeld-Heepen ermittelt die Mordkommission nach einem versuchten Tötungsdelikt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU1nTkl4V3liRnRVNTRRRzBOZHJrTnRzY1FDcTFTMks5QTJVTEwxLUV0NGh0dG44MkpVTFJwZDg2SlJRaW02cVhGeVpPWmZVRXhDa1l1WWNpcGlZXzUzdWdnckZXQi0xUVgtNnZ6WWZPaFJBOTFSRW42aWUyN05HU25IRXFUb18xWkpOM3JJVlczUHoxa3BWOHZkbkZUTkFFTFc1cUl4eFBscXJYcEE?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-15T18:01:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "db624e5479147794",
+   "k": "nrw",
+   "titel": "Regen, Böen und Gewitter: NRW erwartet unruhige Tage - Come-on",
+   "t": "Für NRW werden unruhige Tage mit Regen, Böen und Gewittern erwartet.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWtBZHAzbzFjTnAtWmZaRlVmOVpPQnEzWWZzNTk3OFpDTEhMUXhYR2lsZEE0aVNrSVFNMWxSMlhXN2w2NDBqaEl6X1lNUG1jOXk5WElfRy1YLUk1V1cycXloVlBCcG1tTTVsNU5aVHhHY2c5WHY5R0ZaV1lOelVIbkE1ZE11OC0tTHZhbldTZFAxeFNhVXlkbnRya2ZTMDhBbFRHMjloVkF1dmZz?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-15T18:01:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "fb4aaf5644937c30",
+   "k": "nrw",
+   "titel": "Umarmungen, Zumba und „Doc Esser“: Tausende beim Iserlohner Gesundheitstag - IKZ-Online",
+   "t": "Beim Iserlohner Gesundheitstag kamen Tausende Besucher zusammen. Angeboten wurden unter anderem Zumba und Vorträge.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjZTWExXaVExOGtNZ2ZRRkhtcUFyV1hoQVRVeGl0bHdzNnlZUVpQQUVuM3dKaXVRdE96LTNLVUg2RFhJcEdOWHQteHVQZlBvTnJQdno2SzNmOHJfMzFvamNPQVRoUGM4bVEzOTVZU18zRGZKU3BkaWg5S2FaMXIxbUxmWXFVQi1uUXV6Q1ZUV3p6N2I5VWxmQVBBM0xHT3piZDhuXzc2MGxDcU9xMFpEMV9iRGI4SC1Md3RKdWpEQjRYNlpsUjVRRy1mTFlTekFN?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-15T17:55:52+00:00",
+   "tag": null
+  },
   {
    "id": "ec04e7c54146449e",
    "k": "usa",
@@ -286,6 +414,18 @@
    "link": "https://www.nzz.ch/shorts/spacex-faengt-die-obere-stufe-der-starship-rakete-erstmals-auf-ld.10064611",
    "quelle": "NZZ",
    "zeit": "2026-11-15T16:02:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "52783edc2c96297e",
+   "k": "finanzen",
+   "titel": "Interview: Wirtschaftsweiser Werding: „Wir müssen als Sparer wachsam sein“",
+   "t": "Wirtschaftsweiser Martin Werding warnt Sparer zur Vorsicht. Er ist einer der Ideengeber für das geplante Altersvorsorgedepot.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-wir-muessen-als-sparer-wachsam-sein/100265684.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T16:00:00+00:00",
    "tag": null
   },
   {
@@ -2939,150 +3079,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-14T15:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "3ed413b2aec4aa50",
-   "k": "finanzen",
-   "titel": "Jefferson: Inflation als Hauptindikator für die Zinsrichtung der Fed - IDNFinancials",
-   "t": "Fed-Vizepräsident Jefferson sieht die Inflation als primäre Grundlage für die Ausrichtung der Geldpolitik.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONk1qZXEweXJmaWpMWmJuTnZKZVBrUTQzR2hxWjcwNFBQdFl1Rl9QNWROU0ZHVjdYQWo4dGF4M0lnc3JGSTJVRnhJeldPUXFSOHpMVVlyLTFacFN0UzdFZFpoM0ZydWZKX25OcGNfTTJRZkJ6NEJmdGxYdE42NENwSU4tMWhjNDNQakNLNklpTEVZNWpaT2Z6UzdEdVhCZTd0M19uOGFfTmZpMldNbGZ4LVhNWGFWalk?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-14T15:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "95c6af03c5316938",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Feuerwehr befreit vier junge Menschen aus Unfallfahrzeug - n-tv.de",
-   "t": "In Nordrhein-Westfalen hat die Feuerwehr vier junge Menschen aus einem Unfallfahrzeug befreit.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlpxMGd5bm1NVGJneE5BLWJ5MHJURElyaFBHT3k4b2hEeXdwVk9SLThuaFZrMkxUS2pFMEF0V01KelFxMkpROFRwY1hfNGk4dnllSDBUQXFwNkhwVFFRZU9fVV91SWRTM2xDS1Z1Z3ZneEl4TTlkWUFKaVJZNzk3THk1TlRxWGUxV01rSHdVcE5GdlFnYTZOWE9QMmVEMDRNLVB0c19XNk9Uc1MxcTRlX2lrd2N6QzJEcnRUemFMYlo?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-14T14:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ca2eab2d8cb43fdc",
-   "k": "finanzen",
-   "titel": "Kevin Warsh gestaltet Fed um: Weniger Zinsentscheidungen, mehr Strategieberatungen - aktien.news",
-   "t": "Fed-Chef Kevin Warsh strukturiert die US-Notenbank um: Es soll weniger Zinsentscheidungen, dafür mehr strategische Beratung geben.",
-   "e": "Eine veränderte Arbeitsweise der Fed kann Erwartungen an Zinsentscheide und damit Märkte beeinflussen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVC05azhXSHFheFBhNmVkYWpuTXBYNl8zUmhLUDRzT2daVEM3ZDZCRUR0SENhZURCb3VnWWRKSzgyR0ZfakFYdFFyUVNEVUJPeDYtb0tRVGVGVnpxQmdyYVZydTVuRWFQWkV4THdMcUpHd2pQR0FjSjJJQnBrdTB5MDVxYndSX2NWWDNKblUwcjllTm1CNmg5NndEd3hZRzVxTWxPVkRJVQ?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-14T14:50:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "237b0e707e7beed2",
-   "k": "usa",
-   "titel": "Hunderte Passagiere gestrandet durch landesweiten Flug-Stopp in den USA nach Technik-Panne",
-   "t": "Ein landesweiter Flugstopp in den USA nach einer Technikpanne hat Hunderte Passagiere gestrandet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1683782.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T14:36:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4c9bb8326f13564",
-   "k": "usa",
-   "titel": "Trump Watch: Angry duck, lame duck, chaotic duck: Wie wird Trump in den kommenden zwei Jahre agieren?",
-   "t": "Nach den verlorenen Zwischenwahlen zieht sich Präsident Trump laut Handelsblatt auf einen kleinen Kreis Hardliner-Vertrauter zurück. Auslöser ist auch der Nvidia-China-Spionageskandal.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-wie-wird-trump-in-den-kommenden-zwei-jahre-agieren/100269837.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-14T14:30:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "cafdcfb9c10c9fa6",
-   "k": "finanzen",
-   "titel": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-   "t": "Heizölpreise liegen laut Bericht rund 59 Prozent über dem Vorjahreswinter. In Maine suchen Haushalte bereits Nothilfe für Heizkosten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-14T14:30:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "dbbb687999bed559",
-   "k": "finanzen",
-   "titel": "The Federal Reserve wants to know whether AI will help re - KuCoin",
-   "t": "Die US-Notenbank Federal Reserve untersucht, ob und wie KI die Produktivität und Wirtschaft verändern könnte.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2NVMwZ0dnbF9mS1Z4bzU4UUZtMGpVdlk0SFlYMnJDR3J2eEhLMlFuY2VFdjhNcUhxS1lHV3lFUjY4dm1lX3BUVUZvOUR6VmRxUEdDNGJGa1hoU0FQQ1lrRVdXUE15RVp2RVh2VmZpdklPQQ?oc=5",
-   "quelle": "KuCoin",
-   "zeit": "2026-11-14T14:24:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "fdd1cf3dfc150f5b",
-   "k": "welt",
-   "titel": "„Wie ein alles sehender Gott“ – Die neue KI-Waffe, mit der die Ukraine den Kriegsverlauf drehen will",
-   "t": "Die Ukraine will eine geheime KI-Plattform entwickelt haben, die Tausende Drohnen koordiniert und Angriffe selbstständig vorbereiten kann. WELT berichtet nach eigenen Angaben exklusiv darüber.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/plus6af6f0ea9849eea0701e1740/russischer-angriffskrieg-wie-ein-alles-sehender-gott-die-neue-ki-waffe-mit-der-die-ukraine-den-kriegsverlauf-drehen-will.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T14:20:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "c3b558a2b152810a",
-   "k": "finanzen",
-   "titel": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-   "t": "Berkshire Hathaway erreicht nach einer Rallye im vierten Quartal erneut Rekordstände und schloss mehrere Tage in Folge mit neuen Höchstkursen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-14T14:02:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "7d836ce3b8dc0d79",
-   "k": "usa",
-   "titel": "Trump weighs holding off on new Iran strikes unless Tehran provokes US",
-   "t": "US-Präsident Trump erwägt laut Reuters, auf neue Militärschläge gegen den Iran zu verzichten, sofern Teheran oder die Huthi die USA nicht provozieren. Saudi-Arabien und die Türkei drängen zur Zurückhaltung.",
-   "e": "Ein möglicher Verzicht auf weitere Schläge wäre ein Signal zur Entspannung im Nahen Osten, mit Auswirkungen auch auf Ölpreise und Märkte.",
-   "s": 7,
-   "link": "https://nypost.com/2026/11/14/world-news/president-trump-tells-top-aides-he-may-hold-off-on-striking-iran/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-14T14:01:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "2a735186bf9baef6",
-   "k": "usa",
-   "titel": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
-   "t": "Im US-Repräsentantenhaus soll erneut über eine Kriegsbefugnis-Resolution zum Iran-Krieg abgestimmt werden. Der Republikaner Thomas Massie wirbt dafür, Abgeordnete aus der eigenen Partei zu gewinnen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-14T14:00:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "6e34eeeb040a50e4",
-   "k": "usa",
-   "titel": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
-   "t": "In New Orleans hat ein Tanker auf dem Mississippi einen Flussdampfer gerammt. 32 Menschen wurden verletzt, alle Passagiere überlebten.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T13:48:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3091,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Welt",
@@ -3115,12 +3111,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 27
+    "n": 25
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -3160,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "WSJ USA",
@@ -3180,22 +3176,22 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "Google News NRW",
@@ -3205,7 +3201,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Google News USA",
@@ -3215,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 29
    }
   ],
   "markt": [],
