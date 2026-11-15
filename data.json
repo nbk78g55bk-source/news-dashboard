@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T05:01:27.411246+00:00",
+ "aktualisiert": "2026-11-15T07:01:24.723997+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.929 $",
-   "delta": -3.1367757390804023
+   "wert": "64.457 $",
+   "delta": -4.262769004910958
   },
   {
    "name": "Ethereum",
-   "wert": "1.813 $",
-   "delta": -4.496232321482433
+   "wert": "1.792 $",
+   "delta": -5.855680529213912
   },
   {
    "name": "Gold",
@@ -54,32 +54,216 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-14T19:01:20.264857+00:00",
+  "slot": 7,
+  "stand": "2026-11-15T07:01:24.723978+00:00",
   "punkte": [
    {
-    "k": "usa",
-    "t": "Die US-Luftfahrtbehörde FAA hat landesweit alle Starts gestoppt und nach mehreren Stunden wieder aufgehoben. Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache. Laut Meldungen fielen weitere rund 4000 US-Flüge aus, auch der Londoner Flughafen Heathrow war betroffen."
+    "k": "welt",
+    "t": "Auf der Straße von Hormus sind drei Öltanker nach Minenkontakt in Brand geraten. Der Iran lehnt Gespräche über Atominspektionen ab, und die Revolutionsgarden sollen ein US-Radar in Bahrain angegriffen haben."
    },
    {
     "k": "finanzen",
-    "t": "Die Fed signalisiert weitere Zinserhöhungen gegen die Inflation, laut Bloomberg womöglich schon im nächsten Monat und erneut im Januar. Der US-Dollar erreichte ein 19-Monats-Hoch. Zum Vergleich: Fed Funds 3,88 %, EZB Zins 2,50 %, Deka DAX 233,60 €, iShares MSCI World 130,44 €."
+    "t": "Die EZB hat den Zins unverändert gelassen (EZB Zins 2,50 %). EZB-Präsidentin Christine Lagarde kündigte an, zum Februar zurückzutreten."
+   },
+   {
+    "k": "finanzen",
+    "t": "Führende Vertreter der US-Notenbank Fed signalisieren weitere Zinserhöhungen gegen die Inflation (Fed Funds 3,88 %). Der US-Dollar erreicht laut Meldung ein 19-Monats-Hoch."
+   },
+   {
+    "k": "finanzen",
+    "t": "Marktdaten: iShares MSCI World 130,44 €, Deka S&P 500 141,90 €, Deka Nasdaq-100 178,60 €, Deka DAX 233,60 €, Gold 3.886 $, Bitcoin 64.457 $."
    },
    {
     "k": "welt",
-    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi Jinping und Wladimir Putin in Shenzhen bestätigt, das Peking organisiert und das in der kommenden Woche stattfinden soll. Trump will dabei laut Berichten auch über eine mögliche Reduzierung der Atomwaffenbestände sprechen."
+    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi Jinping und Putin bestätigt, das Peking in Shenzhen organisiert. Die USA erklären, dabei gehe es nicht um die Ukraine."
    },
    {
-    "k": "welt",
-    "t": "Selenskyj berichtet, US-Unterhändler hätten einen Nato-Beitritt der Ukraine gegen einen Rückzug aus dem Donbass ins Spiel gebracht. Ein Referendum hänge von umfassenden Sicherheitsgarantien ab. Russland meldet nach eigenen Angaben die Einnahme eines ukrainischen Ortes."
-   },
-   {
-    "k": "welt",
-    "t": "Im Golf von Hormus brennen zwei Öltanker nach einer Kollision mit einer Seemine. Trump erwägt laut Reuters, auf neue Iran-Angriffe zu verzichten, sofern Teheran oder die Huthi die USA nicht provozieren."
+    "k": "usa",
+    "t": "In den USA fallen nach einem landesweiten Startverbot weitere rund 4000 Flüge aus, auch der Londoner Flughafen Heathrow ist betroffen. Die Ursache wird laut Meldung noch gesucht."
    }
   ]
  },
  "items": [
+  {
+   "id": "71024b7796ea2f33",
+   "k": "deutschland",
+   "titel": "Blasmusik und Böllerschüsse – München erweist Hubert Aiwanger die letzte Ehre",
+   "t": "In München hat die mehrstündige Trauerzeremonie für den verstorbenen stellvertretenden bayerischen Ministerpräsidenten Hubert Aiwanger stattgefunden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6af94de24495f9bd85b8065b/staatstrauerakt-blasmusik-und-boellerschuesse-muenchen-erweist-hubert-aiwanger-die-letzte-ehre.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T06:51:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "d3ce5cd0f4874899",
+   "k": "finanzen",
+   "titel": "Der stellvertretende Vorsitzende der US-Notenbank erklärte, die Inflationsbekämpfung habe Priorität. - Vietnam.vn",
+   "t": "Ein stellvertretender Vorsitzender der US-Notenbank Fed erklärt, die Inflationsbekämpfung habe Priorität.",
+   "e": "Die Aussage ist vor dem Hintergrund steigender Energiepreise relevant, da die Fed bei anhaltender Inflation die Zinsen länger hoch halten könnte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2E3ZXltaTlKQ25RSDhvY09SOW16V0EtMWYwX2RkaWN5RjBBbEloS0hSNlp6SDAzSktnc0laUk91RDJTLXlJVmFZdU5tTjQ1RGFzalFBV0xUNWZLa3JOSVVTVWQxNDJaSGtUU2FDeGhUTm5Vd3psYnB3OXcxcG5lR1VQUWw?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-15T06:47:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "e848000df0f5f785",
+   "k": "deutschland",
+   "titel": "22 Festnahmen bei „GenZ regelt“-Protest in Berlin",
+   "t": "Bei einer Demo der Initiative „GenZ regelt“ in Berlin mit rund 1400 Teilnehmenden wurde die Versammlung nach dem Einsatz von Pyrotechnik vorzeitig aufgelöst, 22 Menschen wurden festgenommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/video6af94d304495f9bd85b80646/mehrere-polizisten-verletzt-22-festnahmen-bei-genz-regelt-protest-in-berlin.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T06:40:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "160d9bf19320ae9d",
+   "k": "deutschland",
+   "titel": "Crime: „Knasttourismus“: Hanno Berger, ein korrupter Oberstaatsanwalt und eine Scheinwohnung",
+   "t": "Ein Bericht beschreibt, wie eine Berliner Scheinadresse zwei verurteilten Straftätern, darunter Cum-Ex-Mastermind Hanno Berger und ein korrupter Oberstaatsanwalt, Hafterleichterungen verschaffen sollte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/audio/crime/crime-hanno-berger-ein-korrupter-oberstaatsanwalt-und-eine-scheinwohnung/100269962.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T06:35:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "9bfce00d935af896",
+   "k": "welt",
+   "titel": "„Da klappt es mit der russischen Koordination nicht – und die Ukrainer schlagen da rein“",
+   "t": "Nach Angaben von Korrespondent Christoph Wanner gibt es Kämpfe um das von Russland besetzte Welyka Nowosilka, die Ukraine melde dort Erfolge.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/video6af94c889849eea0701e3359/donezk-da-klappt-es-mit-der-russischen-koordination-nicht-und-die-ukrainer-schlagen-da-rein.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T06:32:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "0371d9c90720006f",
+   "k": "finanzen",
+   "titel": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "t": "Das RWA-Protokoll stUSDT stellt seinen Betrieb ein, drei Jahre nach einem Höchststand von 2,3 Mrd. Dollar an gesperrten Werten. Die Betreiber nennen keinen Grund, versichern aber, die Basiswerte seien vollständig gedeckt.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-15T06:27:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2efe06898808f40",
+   "k": "welt",
+   "titel": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+   "t": "SpaceX hat die obere Stufe der Starship-Rakete nach einem Testflug erstmals wieder auf der Erde aufgefangen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/video6af94d114495f9bd85b80642/raumfahrt-premiere-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T06:15:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "9406131ef4830ca4",
+   "k": "deutschland",
+   "titel": "Hubertus Heil will für SPD-Vorsitz kandidieren",
+   "t": "Ex-Arbeitsminister Hubertus Heil kündigt an, beim SPD-Parteitag Mitte Januar in Bremen für den Parteivorsitz zu kandidieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/video6af94b144495f9bd85b8061c/frueherer-arbeitsminister-hubertus-heil-will-fuer-spd-vorsitz-kandidieren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T06:09:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "d0a3ea83f50dfc1f",
+   "k": "deutschland",
+   "titel": "Wie sich Pistorius fürs Kanzleramt ins Spiel bringt – und sein gewaltiges Risiko",
+   "t": "Berichte deuten darauf hin, dass Verteidigungsminister Boris Pistorius mit einer SPD-Kanzlerkandidatur rechnet.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/plus6af6e1f05a72dceba1d6138b/verteidigungsminister-wie-sich-pistorius-fuers-kanzleramt-ins-spiel-bringt-und-sein-gewaltiges-risiko.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T05:57:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "d0c2ad2b3ca37ff5",
+   "k": "nrw",
+   "titel": "POL-HA: Nach räuberischem Ladendiebstahl in der Zelle gelandet - Presseportal",
+   "t": "Die Polizei Hagen meldet, dass ein Ladendieb nach einem räuberischen Diebstahl in einer Zelle gelandet ist.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQ1BHNXFwTjhRaTJxbWtnX21GMExWa1BXVUlZUDZraEViMlBBbllTemZfVUZJVEl4LXBxVTZ4clp4b3BDSE5lRWZzb1dSUmNBdkw2b0h3bDFjN1dFWm5BZ1lmVXg?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-15T05:49:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "6cf5c96f4bde1953",
+   "k": "deutschland",
+   "titel": "Expertin fordert „unabhängige“ Beratung zu Leihmutterschaft",
+   "t": "Eine Expertin fordert unabhängige Beratung zu Leihmutterschaft, die in Deutschland verboten ist und zu einer rechtlichen Grauzone führt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/article6af93b889849eea0701e3309/kinderwunsch-expertin-fordert-unabhaengige-beratung-zu-leihmutterschaft.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-15T05:07:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "e57b0ec3b10180d0",
+   "k": "deutschland",
+   "titel": "Waffensysteme der Zukunft: Deutsche Hyperschallwaffen sollen Abschreckung stärken",
+   "t": "In Schrobenhausen entstehen laut Bericht weitreichende Hyperschallwaffen mit mehr als 2.500 Kilometern Reichweite und mehr als der zehnfachen Schallgeschwindigkeit.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/waffensysteme-der-zukunft-deutsche-hyperschallwaffen-sollen-abschreckung-staerken/100269968.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-15T05:05:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "9b9b4d4d0202a2ae",
+   "k": "nrw",
+   "titel": "SPD in Nordrhein-Westfalen: »Eine Option ist, dass Hendrik Wüst mein Juniorpartner wird« - DIE ZEIT",
+   "t": "Ein SPD-Vertreter in NRW nennt es eine Option, dass Ministerpräsident Hendrik Wüst sein Juniorpartner wird.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFlLLUVBNEVpNGp6dC1ldkRQMTZ6cGpTSVM4RHNDV3dJM0pSMmNJNERkYTRXWG9zTVBCOHlMRUF3a1VSTlczMGZhUkU2V3JkRkIxMXdrZm8tN2QyeWxaYzNZUTlKdE96VlJLTzBIOFdlMWxzWUxoa09kbUE0aWdQMlF0NXNMcEI4ZV81bEdn?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-15T05:03:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf5a658b1d9655c1",
+   "k": "nrw",
+   "titel": "Glätte, Regen, Sturmböen: NRW erwartet unruhige Tage - Come-on",
+   "t": "Für NRW werden Glätte, Regen und Sturmböen erwartet, die kommenden Tage dürften unruhig werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNERWM1FjcWNyblBLZ2QxeHY5Q2FtVnlpdW1TTGVPOGZBUUJSZ1F5VUFfXzQySzVTd3RwVVdvTVlQeVNnX29aOGtfZkZjOWRtSnFnZWxEb3lPbmw0SDdpektLSE1sS3J2Y0sxMTB1VUFaTXhoTnAzTnp5R2ZFVmFrYm1YNnRqN0haRnNVRWlWM0pQLUZMTF9QeFdsN0ZJTE9qVlVGamNTUU5sMV9N?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-15T05:01:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "340e09b481958573",
+   "k": "nrw",
+   "titel": "Heute endet die Frist zur Schulanmeldung in NRW: Was Eltern jetzt erledigen müssen - Ruhr Nachrichten",
+   "t": "In NRW endet heute die Frist zur Schulanmeldung, Eltern müssen die Anmeldung ihrer Kinder bis dahin erledigen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkdQT1ppWFJVek5JVTM5d3RLTXVuLXF5ZmVQMHVkcTZOSDlnQjQ0bkU3ckNQV2xSNDFkZl8tQlZWbldRdWJyVGI0R2x1QlNIWDNkM2VKV1IwUkxZNy1TeldGT1QwR0kyNTlZTWdKUGZnUVotRklpVnJ1aGdmX2lDbkxPdUJwVWZBZTFrZkVmVGRla0FPLVVaNWNIMmVKQWdXVjQ4OXFiNlBHREQwYzhRSGU5RUo3aHZJNzJsUHllVWJpaGd0RVFMdXhfNG96TTUtbktsTGNIUi1BNUkwTTcwbC0wbjd3Y2VUMEcwOW05RQ?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-15T05:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "07e70a9fe18ab500",
    "k": "welt",
@@ -2899,186 +3083,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-14T03:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "191ee1513f7fa622",
-   "k": "finanzen",
-   "titel": "Die Verantwortlichen der US-Notenbank sind sich über den Zeitpunkt und das Ausmaß der Zinserhöhungen uneinig. - Vietnam.vn",
-   "t": "Die Mitglieder der US-Notenbank sind sich über Zeitpunkt und Ausmaß möglicher Zinserhöhungen uneinig.",
-   "e": "Die Uneinigkeit im Fed-Gremium macht den weiteren Zinspfad schwerer einschätzbar, was Anleihe- und Aktienmärkte beschäftigt.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU04aEpTV2RhQmxnY0dXamdDV2hQZkM4WWt4NWwwbXJRVjhUY3RBcmxyVm9ibURHTFI1SDg5dVBPRFZXT2JFQXRpc0s1S0MtclRxeEpmY05xUkprUHZra09zbUJXcTR5ZWNseVpfTzF4WDFKZ2RXcTVuOXV6d2NIRDByRmxLcTl5elZHZQ?oc=5",
-   "quelle": "Vietnam.vn",
-   "zeit": "2026-11-14T02:40:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "745e0f35945b7a56",
-   "k": "usa",
-   "titel": "FAA hebt Startverbot an US-Flughäfen wieder auf",
-   "t": "Die US-Luftfahrtbehörde FAA hat das landesweite Startverbot nach mehreren Stunden wieder aufgehoben. Laut Verkehrsminister Duffy waren überlastete Kommunikationssysteme die Ursache.",
-   "e": "Die Aufhebung ist eine wesentliche Neuigkeit zum bereits gemeldeten Flugstopp; die Ursache ist laut Regierung veraltete Technik, die Untersuchung läuft weiter.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T02:36:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "f518709ee0dfd95a",
-   "k": "finanzen",
-   "titel": "Überbewertungen, Cyberangriffe, Schulden… Die von der Fed identifizierten KI-Finanzrisiken - 재경일보",
-   "t": "Die US-Notenbank Fed hat KI-bezogene Finanzrisiken identifiziert, darunter Überbewertungen, Cyberangriffe und Verschuldung.",
-   "e": "Die Fed-Einschätzung ist relevant, weil der KI-Boom einen großen Teil der jüngsten Kursgewinne an den US-Börsen trägt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVlNHR1VqYm4tRWUzeUpfbFZFZzhBcTEwVmI2dVl5T1RFOHJyWVd4ZWFkd2hqRi05MUlHLUt4ZUcxMTE4blZaNFdLU2JnSUNobjJCNE0xVFhSdzA3Y3NXTQ?oc=5",
-   "quelle": "재경일보",
-   "zeit": "2026-11-14T02:20:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "9d3ff51f4af3c92b",
-   "k": "usa",
-   "titel": "California Voters Pass Ban on Wealth Taxes",
-   "t": "Wählerinnen und Wähler in Kalifornien haben ein Verbot von Vermögenssteuern per Volksabstimmung beschlossen. Die Initiative wurde von Milliardären finanziert, nachdem eine bekannte Milliardärssteuer gescheitert war.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-14T02:03:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e160a0ac6cd6355f",
-   "k": "welt",
-   "titel": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
-   "t": "Ein Bericht des Wall Street Journal beschreibt, dass Peking mit einem groß angelegten Geheimdienstapparat die eigene Technologiebranche stützt. US-Beamte sorgen sich, dass Nvidia-Chef Jensen Huang darin verstrickt sein könnte.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-14T02:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c6fe073d55cbe01",
-   "k": "welt",
-   "titel": "Weißes Haus kündigt historisches Dreiertreffen Trumps mit Xi und Putin an",
-   "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi und Putin angekündigt, das in der kommenden Woche in Shenzhen stattfinden soll. Trump will dabei offenbar auch über eine mögliche Reduzierung der weltweiten Atomwaffenbestände sprechen.",
-   "e": "Es wäre das erste Treffen dieser drei Staatschefs und würde bisher nur bilateral geführte Gespräche zwischen den Atommächten ergänzen.",
-   "s": 7,
-   "link": "https://www.welt.de/politik/ausland/article6af7b9d79849eea0701e248e/usa-china-russland-weisses-haus-kuendigt-historisches-dreiertreffen-trumps-mit-xi-und-putin-an.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T01:58:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "9dbf92ea76d025d1",
-   "k": "finanzen",
-   "titel": "Die Inflation im US-Großhandel erreicht einen Vierjahreshöchststand. - Vietnam.vn",
-   "t": "Die Inflation im US-Großhandel hat einen Vierjahreshöchststand erreicht.",
-   "e": "Hohe Großhandelspreise gelten als Vorlauf für Verbraucherpreise und erhöhen den Druck auf die Fed, die Zinsen hoch zu halten.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PZExWbDNGMVJIMS1YNUJ5bEYtUjRaaG55UUo2WGlpMEs1NXN1TFFreldoQmtKNXQ0OTNHSzlJdjllWm9pbXJiTWJQWTBmZi1qWC1MdlZRXzhjS0o3d1RXTXd6cFFmRm8xcERYaUNvQUJwNW5wOFNwZg?oc=5",
-   "quelle": "Vietnam.vn",
-   "zeit": "2026-11-14T01:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6d8af521425b184c",
-   "k": "finanzen",
-   "titel": "Fed Hawks Signal Rate Hikes May Stretch Beyond December Into Next Year - bloomingbit",
-   "t": "Fed-Falken signalisieren, dass Zinserhöhungen über Dezember hinaus bis ins nächste Jahr reichen könnten.",
-   "e": "Sollte sich die Haltung durchsetzen, bliebe das Zinsniveau in den USA länger hoch, was Aktien und Krypto unter Druck setzen kann.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KcDlHSEFscEt2bnR0em9jU0FmeXFMcjgzdllNZEpCVUluUWw5cXVrNkViQUFPRDFPQkpQX3JBS29pR2QwOTQ5MW1Pb2FMS2JkVkFCNA?oc=5",
-   "quelle": "bloomingbit",
-   "zeit": "2026-11-14T01:25:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "3178b0a1171cc1d1",
-   "k": "welt",
-   "titel": "Die Doppellandung der Musk-Megarakete ist gescheitert",
-   "t": "Die geplante Doppellandung der Musk-Megarakete ist gescheitert. Zunächst sah der Start nach einem Erfolg aus, dann verlief die Mission anders als erwartet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6af7acf74495f9bd85b7f5bb/spacex-die-doppellandung-der-musk-megarakete-ist-gescheitert.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T00:56:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "ed42a722738de2d9",
-   "k": "welt",
-   "titel": "Die Doppellandung der Musk-Megarakete ist gescheitert",
-   "t": "Die Doppellandung der SpaceX-Megarakete ist gescheitert. Die Mission sollte eine Premiere in der Raumfahrt werden, verlief nach einem zunächst guten Start aber anders als geplant.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6af7acf74495f9bd85b7f5bb/spacex-mission-verlief-anders-als-erwartet-doppellandung-der-musk-megarakete-ist-gescheitert.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-14T00:56:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "be9027e9137ab9a0",
-   "k": "finanzen",
-   "titel": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-   "t": "Nvidia-Chef Jensen Huang ist nach Berichten über mehrere Affären zurückgetreten, darunter eine mit einer mutmaßlichen chinesischen Spionin. Die US-Regierung plant laut Berichten keine Ansprache dieser Themen bei der China-Reise.",
-   "e": "Nvidia ist der wichtigste Chiphersteller für KI-Rechenzentren, daher berührt der Führungswechsel den gesamten KI-Handel an den Börsen.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-14T00:56:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "a9cecc13c7be424c",
-   "k": "finanzen",
-   "titel": "Federal Reserve Survey Puts AI Atop Financial-System Risks - FindArticles",
-   "t": "Eine Umfrage der US-Notenbank Fed sieht Künstliche Intelligenz unter den größten Risiken für das Finanzsystem.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX19kOVZ3ZEtyOHZVc0pYOGlzZVo5SDZ3R3FTR3gwZWpNNFUtMURmNE5BVDIzbkJDZDVDY2g1bTJ5eTBmQTdDbWRTeU5VR1NHQlVvY3E4ckFDZTN4NlN5TlUtd29pYzhMRGQ4OEVMbGt3VlBySFo0UzQyWkUzbkxDWkZ0aDHSAYwBQVVfeXFMTWgwRE9RYlUtUHZQMTdoVkdIbWpwZ3JuVlU5N2hRdkJvWDdWbzFLdlZ6SE5vNERVYlN2OUIyMXh5aWUtSlVXenc2bldRNTVIUUNlUUV4ZUlHVUctR214S1pTSmlZZmFJMWZLQmtqRzFBeFh2U3JlYktXcEUtMmxqTG5DRmJmVkxKZS1zNnk?oc=5",
-   "quelle": "FindArticles",
-   "zeit": "2026-11-14T00:31:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "351dc9e09bc2b7ce",
-   "k": "usa",
-   "titel": "U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
-   "t": "Die USA haben laut Pan American Health Organization ihren Status als masernfrei verloren, nachdem es in den vergangenen Jahren eine starke Zunahme der Erkrankungen gab.",
-   "e": "Der Verlust des Status ist ein deutliches Zeichen für sinkende Impfquoten in den USA.",
-   "s": 6,
-   "link": "https://www.wsj.com/health/u-s-loses-measles-elimination-status-as-historic-resurgence-sickens-thousands-b95e8780?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-14T00:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6026e812a293ccfe",
-   "k": "finanzen",
-   "titel": "„Erst dann wird der Automarkt wachsen“ – Aumovio-Chef bemängelt Wettbewerbsfähigkeit",
-   "t": "Der Chef des Autozulieferers Aumovio hält einen Teil der vorgeschriebenen Assistenzsysteme für verzichtbar und fordert günstigere Arbeitskosten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/article6af6fd7f7f8bbad09ea62209/autozulieferer-erst-dann-wird-der-automarkt-wachsen-aumovio-chef-bemaengelt-wettbewerbsfaehigkeit.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T00:11:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "f4970e02b221535f",
-   "k": "deutschland",
-   "titel": "„Verzicht ohne Zukunft ist eine Sackgasse“ – Der Kampf um Deutschlands Autoindustrie",
-   "t": "Die IG Metall zeigt sich laut Welt zu Einschnitten in der Autoindustrie bereit, verknüpft dies aber mit einer Bedingung. Gewerkschafterin Barbara Resch warnt vor den Folgen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6af3096242c2bfde5b9929bd/ig-metall-verzicht-ohne-zukunft-ist-eine-sackgasse-der-kampf-um-deutschlands-autoindustrie.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T00:08:13+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3091,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
@@ -3101,7 +3105,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Welt",
@@ -3176,7 +3180,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 20
+    "n": 17
    },
    {
     "name": "Cointelegraph",
@@ -3186,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 27
+    "n": 22
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 18
+    "n": 11
    },
    {
     "name": "Google News NRW",
@@ -3206,12 +3210,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 9
+    "n": 6
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 29
    }
   ],
   "markt": [],
