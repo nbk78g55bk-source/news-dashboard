@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T10:44:36.522233+00:00",
+ "aktualisiert": "2026-11-15T11:01:11.935028+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.513 $",
-   "delta": -2.5881566624143812
+   "wert": "65.503 $",
+   "delta": -2.5841690683243894
   },
   {
    "name": "Ethereum",
-   "wert": "1.828 $",
-   "delta": -4.316110410261137
+   "wert": "1.830 $",
+   "delta": -4.080480809435674
   },
   {
    "name": "Gold",
@@ -54,36 +54,60 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-15T07:01:24.723978+00:00",
+  "slot": 12,
+  "stand": "2026-11-15T11:01:11.935006+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "Auf der Straße von Hormus sind drei Öltanker nach Minenkontakt in Brand geraten. Der Iran lehnt Gespräche über Atominspektionen ab, und die Revolutionsgarden sollen ein US-Radar in Bahrain angegriffen haben."
+    "t": "Im Iran-Krieg sind laut Meldungen drei Öltanker in der Straße von Hormus nach Minenkontakt in Brand geraten. Der Iran hat außerdem einen US-Stützpunkt in Bahrain angegriffen, und Saudi-Arabien meldet abgefangene Raketen auf Riad."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB hat den Zins unverändert gelassen (EZB Zins 2,50 %). EZB-Präsidentin Christine Lagarde kündigte an, zum Februar zurückzutreten."
+    "t": "Die EZB hat die Zinsen unverändert gelassen, der Einlagen- bzw. Leitzins liegt laut Marktdaten bei 2,50 %. EZB-Präsidentin Christine Lagarde kündigte an, zum Februar zurückzutreten."
    },
    {
     "k": "finanzen",
-    "t": "Führende Vertreter der US-Notenbank Fed signalisieren weitere Zinserhöhungen gegen die Inflation (Fed Funds 3,88 %). Der US-Dollar erreicht laut Meldung ein 19-Monats-Hoch."
+    "t": "Nvidia verlor laut Bericht rund 800 Milliarden US-Dollar Börsenwert, nachdem Jensen Huang nach 33 Jahren als Konzernchef zurückgetreten ist. Zum Vergleich: Deka DAX 233,60 €, iShares MSCI World 130,44 € und Deka Nasdaq-100 178,60 € sind die aktuellen Kurse der genannten ETFs."
    },
    {
     "k": "finanzen",
-    "t": "Marktdaten: iShares MSCI World 130,44 €, Deka S&P 500 141,90 €, Deka Nasdaq-100 178,60 €, Deka DAX 233,60 €, Gold 3.886 $, Bitcoin 64.457 $."
+    "t": "Die US-Notenbank Fed liegt laut Marktdaten bei 3,88 %, und Fed-Vertreterin Susan Collins hält schrittweise Zinserhöhungen für angemessen. Der Finanzstabilitätsbericht der Fed warnt zudem vor überhöhten, KI-getriebenen Aktienbewertungen und steigender Verschuldung."
    },
    {
     "k": "welt",
-    "t": "Das Weiße Haus hat ein Dreiertreffen von Trump, Xi Jinping und Putin bestätigt, das Peking in Shenzhen organisiert. Die USA erklären, dabei gehe es nicht um die Ukraine."
+    "t": "Das Weiße Haus und der Kreml haben ein Dreiertreffen von Trump, Xi und Putin in China bestätigt. Laut Selenskyj bringen die USA einen Rückzug aus dem Donbass gegen einen Nato-Verzicht ins Spiel."
    },
    {
     "k": "usa",
-    "t": "In den USA fallen nach einem landesweiten Startverbot weitere rund 4000 Flüge aus, auch der Londoner Flughafen Heathrow ist betroffen. Die Ursache wird laut Meldung noch gesucht."
+    "t": "In den USA fallen nach einem landesweiten Startverbot weitere rund 4000 Flüge aus, auch der Londoner Flughafen Heathrow ist betroffen. Die Ursache ist laut Meldung noch unklar."
    }
   ]
  },
  "items": [
+  {
+   "id": "3f5d3c0e3ca10636",
+   "k": "deutschland",
+   "titel": "Vorstoß von Ärzte-Verband: Schneller zum Facharzt gegen Bezahlung?",
+   "t": "Der Chef der Kassenärztlichen Bundesvereinigung, Andreas Gassen, schlägt vor, dass Patientinnen und Patienten gegen Bezahlung schneller einen Facharzttermin erhalten können. Der Vorschlag stößt auf Kritik.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/kbv-vorschlag-schneller-zum-facharzt-gegen-bezahlung-accg-201684747.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-15T10:48:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "6f1c0f36c0efd08a",
+   "k": "deutschland",
+   "titel": "Ilanit Spinner, ARD Berlin, zur Diskussion über den SPD-Parteivorsitz und die Kandidatur von Heil",
+   "t": "Die Diskussion um den SPD-Parteivorsitz geht weiter, auch die Kandidatur von Hubertus Heil wird thematisiert.",
+   "e": "Die Personalfrage an der SPD-Spitze ist Teil des bereits gemeldeten Machtkampfs in der Partei.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1684120.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-15T10:48:06+00:00",
+   "tag": null
+  },
   {
    "id": "23950d78863d094b",
    "k": "usa",
@@ -3059,30 +3083,6 @@
    "quelle": "aktien.news",
    "zeit": "2026-11-14T07:56:10+00:00",
    "tag": null
-  },
-  {
-   "id": "97316344d6c7b869",
-   "k": "finanzen",
-   "titel": "Fed vor Zinswende: Inflationsdruck steigt und Forderungen nach operativer Klarheit - aktien.news",
-   "t": "Die Fed steht laut Bericht vor einer Zinswende, der Inflationsdruck steigt und es werden Forderungen nach operativer Klarheit laut.",
-   "e": "Ein Zinswechsel der US-Notenbank hätte direkte Folgen für Aktien-, Anleihe- und Kryptomärkte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDNZZVFWb0hpUm5fNXF0ZnpGUmFhMFVUSkpMa1JlZ29mNlNoOU9ic3E3alNHZmV5RFpMWXBTdDZMbjBUTDdUZTBDcHNiNFAwejN2YjkwN3lOQXlXdWduSjNVWGVaR2V1VjFoRmlQLWlteUQzb2otT1ZTN09kSWZkQmdRS0EzdzJtWVl3QUpFdThsbExzQXRmRTFXVVpSUmo0RFRqNjJ4eDI?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-14T07:54:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "319c4c5938bc35ec",
-   "k": "finanzen",
-   "titel": "Fed sieht Hedgefonds-Hebel und KI-Bewertungen als Risiken - aktien.news",
-   "t": "Die Fed sieht laut Bericht Hebelfinanzierung von Hedgefonds und die Bewertungen im KI-Sektor als Risiken für die Finanzstabilität.",
-   "e": "Solche Warnungen der Notenbank werden an den Märkten aufmerksam verfolgt, da hohe KI-Bewertungen stark auf Erwartungen beruhen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVZXRGktbnZhempWSWJxam9mSm45Ykg0Z1p1OWtMaUV3UHVuTmtvWVZOREo1Z0F5M2RfeFEyT2pzR0dITzR5UTM0U2d0R3Z4bVZDQ3hKamFkaVJ1dGczcURSTmdtV1ZwWHpmTmRoRE5EYUs1X1g0d292WVh1eFhVazVCWC1OS281?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-14T07:52:17+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 29
+    "n": 31
    },
    {
     "name": "FAZ Finanzen",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News NRW",
@@ -3215,7 +3215,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 24
    }
   ],
   "markt": [],
