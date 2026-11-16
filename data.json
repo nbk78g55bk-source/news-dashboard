@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-16T13:01:26.012001+00:00",
+ "aktualisiert": "2026-11-16T15:01:38.629396+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "130,54 €",
-   "delta": 0.07666172701787932
+   "wert": "130,44 €",
+   "delta": 0.0038313082644902963
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "44,20 €",
-   "delta": -1.7734145498677578
+   "wert": "44,32 €",
+   "delta": -1.506736037333467
   },
   {
    "name": "Deka S&P 500",
@@ -18,8 +18,8 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "177,82 €",
-   "delta": -0.43673352567723533
+   "wert": "177,60 €",
+   "delta": -0.5599138126210601
   },
   {
    "name": "Deka DAX",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.097 $",
-   "delta": -2.0799438223498443
+   "wert": "65.157 $",
+   "delta": 0.6175729440100897
   },
   {
    "name": "Ethereum",
-   "wert": "1.798 $",
-   "delta": -1.9801416070682063
+   "wert": "1.847 $",
+   "delta": 2.1533045843526115
   },
   {
    "name": "Gold",
-   "wert": "3.873 $",
-   "delta": -0.34222907806965575
+   "wert": "3.886 $",
+   "delta": -1.2564167484185873e-06
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,258 @@
   ]
  },
  "items": [
+  {
+   "id": "bf6afd8f48cf95c9",
+   "k": "finanzen",
+   "titel": "Morgan Stanley sieht EZB-Zinssenkungen bis 2028 und bevorzugt Bundesanleihen - aktien.news",
+   "t": "Morgan Stanley erwartet laut Bericht EZB-Zinssenkungen bis 2028 und bevorzugt deutsche Bundesanleihen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWF9iNW9oZGk5ekVDQ291QnpLUEZaaTI2aUtrbEpTZDNuazlDaU1ob0x4R2JsVWExYnVLTENGM1VTSEJmb2kzd2U0ZmNlLXpSTlZoNWFHZWk4M203ZVR5TnJremFscEJMZTcxdGo3WTA5RXZ3Q1NSbGF4dzZLb2FpMW5abzBBTThJZHRSMy1pNGJoc1lxa0g2Q3c4cnRSY1EwQmc?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-16T14:58:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "bdafa85cc95bb895",
+   "k": "finanzen",
+   "titel": "Pfund fällt den sechsten Tag in Folge – Fed stützt Dollar - aktien.news",
+   "t": "Das britische Pfund ist den sechsten Handelstag in Folge gefallen, während die Fed den Dollar stützt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjR4NlcxUDBrNWJmSUNWd1U2S3JoWk5NQmttaUticGF3S0lhM2Z4VEhOWk5XN2xOV09iVl94SWRzZzNBNE12dTQwM3pobWFITjVfRUhhTUVQNVRPYUl0U2tvVldJYldTdm1wdmZTaEdkZ09lZXJGaU1ZNVpXb3c0TWxISkFmZw?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-16T14:54:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "14eebf85cdaea8ca",
+   "k": "finanzen",
+   "titel": "Die EU will europäischen Stahl konkurrenzfähig machen",
+   "t": "Die EU will europäische Stahlkonzerne gegen die Konkurrenz aus China stärken und ergreift dafür mehrere Maßnahmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-16T14:53:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "6175dedc24d43edf",
+   "k": "welt",
+   "titel": "COP31: Wer für die Folgen der Klimaanpassung zahlt",
+   "t": "Auf der COP31 wird verhandelt, wer die Kosten der Klimaanpassung trägt; ein Beispiel aus einer Leipziger Kita zeigt die Folgen im Alltag.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-klimafinanzierung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-16T14:53:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "2cd4d0c21976d35a",
+   "k": "finanzen",
+   "titel": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+   "t": "Tesla kündigt drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin an, zunächst mit einem neuen Produktionsgebäude.",
+   "e": "Eine große Investition in Brandenburg, die Arbeitsplätze und die Zulieferkette in Deutschland betrifft.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-16T14:49:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "a899e200ce374e08",
+   "k": "usa",
+   "titel": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
+   "t": "Trump hat gesagt, er könnte bei seiner Asienreise Kim Jong Un treffen; die Reise führt in die Philippinen und nach China.",
+   "e": "Ein mögliches Treffen mit Nordkorea wäre ein außenpolitischer Schritt mit Folgen für die Region.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-16T14:48:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "a6018ced7c82b590",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Gericht stoppt Bedürfnisprüfung für zusätzliche Jagdgewehre - n-tv.de",
+   "t": "Ein Gericht in NRW hat die Bedürfnisprüfung für zusätzliche Jagdgewehre gestoppt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVpMald1N3d1TE4tZ2pPdU53dUxNS1FWUVBZNGdYOVYtU0RmU192UFlkRUVqcE5naGVGZ3Z2UHhmN29UMnBDZ09iVktTWFhjMmhQVE1zWUo3X3NBWGJIQ09HbEhaVmNLYmk5ZWhUb29lT2xsM0xDYXBWZlZSTXN6M1NXNXFmTFRPYk5KR29KSzI3OGJpR3JBZ1BTb09rXzZZV3lFY1MzWENZWUw5QVJwbG45RWZIaTF2NW42d2p5OVpCcmZtNkhKTm9n?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-16T14:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "73ad69d8607c7bc1",
+   "k": "welt",
+   "titel": "Die Huthi schlagen zurück – Bab al-Mandab ist wieder unter Kontrolle der proiranischen Miliz",
+   "t": "Die Huthi haben die Meerenge Bab al-Mandab im Süden Jemens zum zweiten Mal in wenigen Monaten unter ihre Kontrolle gebracht.",
+   "e": "Die Meerenge ist ein zentraler Seeweg für den Welthandel, daher beeinflusst die Lage Frachtrouten und Energiepreise.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/huthi-rebellen-triumphieren-bab-al-mandab-erneut-erobert-ld.10065211",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T14:47:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "e23b92262f9ef8f1",
+   "k": "usa",
+   "titel": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+   "t": "Das US-Handelsministerium geht gegen eine Umgehungsmöglichkeit über Drittländer vor, mit der China Rechenleistung von Nvidia-Chips nutzen konnte.",
+   "e": "Die Exportkontrollen für KI-Chips beeinflussen Nvidia und den Technologiewettbewerb mit China.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-16T14:39:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ed9c9b8ce5dd37b",
+   "k": "deutschland",
+   "titel": "„Wer randaliert, muss ins Gefängnis“ – JU-Vize Körner fordert hartes Vorgehen",
+   "t": "JU-Vize Konrad Körner fordert harte Konsequenzen für Randalierer bei Demonstrationen, da Extremisten die Proteste nutzen könnten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/video6afb128e8c74195fa20c32a0/gen-z-proteste-ju-vize-konrad-koerner-fordert-hartes-vorgehen-gegen-krawalle.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-16T14:39:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "f323fe0d859b6b19",
+   "k": "deutschland",
+   "titel": "Neue Klage gegen die A26 Ost – Umweltverbände wollen Baustopp erzwingen",
+   "t": "Umweltverbände wollen mit einem Eilantrag beim Bundesverwaltungsgericht die Rodungsarbeiten für die A26 Ost in Moorburg stoppen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/regionales/hamburg/article6afb0f0c8c74195fa20c3209/nach-rodungen-neue-klage-gegen-die-a26-ost-umweltverbaende-wollen-baustopp-erzwingen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-16T14:39:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "86c2dddc5fc9b7d2",
+   "k": "nrw",
+   "titel": "NRW-SPD nominiert Frauke Brosius-Gersdorf für Bundesversammlung - WELT",
+   "t": "Die NRW-SPD nominiert Frauke Brosius-Gersdorf für die Bundesversammlung.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzNMblR4d1d5SWlkWEFZUjVjR19BbngyREtSVU1haUJyRlpjSTRwaVdlbHNvYnJGUWt3VGpXQTU1ckMwNWhLeWg3MkdjbUdOdTVEdXFWQnBYSUN2MXphQXJwZ2tGQ0pPTnEweVNGUnJJaVlDSDUyV2VoNWt0THZrdWJNeDRiWC1LZzJ1ckJma1RkM01uRU1jeEJEU0VuZ2VYb1otal9rMzdJREcxc05FaTZWSEVJZWY1YnJhWmlUanhheHhMSEctR0xoeThZS2FxSkJiUEZsNDE?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-16T14:32:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "b0c20f5a96b402dd",
+   "k": "finanzen",
+   "titel": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+   "t": "Bitcoin ist nach einer Kaskade von Long-Liquidationen auf rund 62.000 Dollar gefallen und hat sich danach leicht erholt.",
+   "e": "Erzwungene Verkäufe gehebelter Positionen verstärken Kursbewegungen, besonders am Wochenende mit dünnerer Liquidität.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-16T14:29:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "c1bc8944499f8680",
+   "k": "finanzen",
+   "titel": "Lighter pauses withdrawals after reported $10M account theft",
+   "t": "Die Handelsplattform Lighter hat Auszahlungen pausiert, nachdem ein API-Schlüssel eines Traders offengelegt wurde; laut Bubblemaps wurden 10,4 Millionen Dollar abgezogen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-16T14:19:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "c1c154e0234890c0",
+   "k": "usa",
+   "titel": "Donald Trump: Puder statt Politik – US-Präsident löst mit Make-up-Rechnungen Parteiaufstand aus - News.de",
+   "t": "Trump gerät wegen Make-up-Rechnungen in die Kritik, woraus laut Bericht ein Parteiaufstand entsteht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZ4VzloYVN3T01KVHEtcEJXQUJCaVZwZHpyYnlDbGdHakNuVmJsZEtmVzFQdExNUXpzVDJYdUZCNC1rdUw5Yy1LVlF1SndWSmdMNURTUjIxQ2F5UXdKQXgxbXFycW1oR0h3NEtEVUp6NEJYSlZ4QmhxS2p5TnFKa3RLc251b3Y4MEN1MDZDNlBEWk8xQ1FObkEyTXBrOGwwdG9qUVpleW1TT3RSN0R0R0Z4OWxIeVFEVkN0VG5NVXNScTVwSDJHWHdzOS1iR2pybHA0OW5QSXpCUmVuWGJ1RlhUUDVUeWpZbkJCbkJvNA?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-16T14:08:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "ee1ae6d405ed148a",
+   "k": "nrw",
+   "titel": "Alarmsignal: 40 Prozent der Ausbildungsverträge platzen - Come-on",
+   "t": "Laut einer Auswertung platzen rund 40 Prozent der Ausbildungsverträge.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNelVjajFWdlFabm5CeUNLek1mUlZXYUlCRUhOajVxcmUzYnBKR01MNWxQaWE0VWVXZFkxVTRfUXdVaTVocFVUV1h4Q2tkXzJmcXlwRmFmalRQNlR0aGtESkY4TjZ0STZMY1k4X0VCQklxd3g3ZmZ1QXhxV29RenYwVFhzc0F6dkgwcTNFbmhEQ0RNZWJic25yVkYzYlN2bmdNcnhPeEhB?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-16T14:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "71c7b194d1ce7460",
+   "k": "finanzen",
+   "titel": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+   "t": "Strategy hat laut Bericht 485 Bitcoin für 33,4 Millionen Dollar gekauft und 228,1 Millionen Dollar für Rückkäufe von STRC-Vorzugsaktien ausgegeben.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-16T13:29:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "81c5a620ee7f8677",
+   "k": "welt",
+   "titel": "Vom Polizisten zum «Boss der Bosse»: Mexikos einst mächtigster Drogenbaron ist tot",
+   "t": "Miguel Ángel Félix Gallardo, Gründer des Guadalajara-Kartells in Mexiko, ist gestorben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/panorama/vom-polizisten-zum-boss-der-bosse-mexikos-einst-maechtigster-drogenbaron-ist-tot-ld.10065061",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T13:11:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "59383fa4fdb53750",
+   "k": "nrw",
+   "titel": "Polizei stoppt verdächtigen Autofahrer nach Verfolgungsfahrt zwischen Kierspe und Lüdenscheid - tixio - Nachrichten",
+   "t": "Die Polizei hat nach einer Verfolgungsfahrt zwischen Kierspe und Lüdenscheid einen verdächtigen Autofahrer gestoppt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR0tGLU1kRllfanNrQW04elBCRkhGZWc5TjdzeHNYTDZSdnZORDlKMTVuQkt2aXpNeDBERlZ3ZUJwUkdNWjBLUWVmMzQ2VjhwQS1BRUI1TTFDZUxETjhmcXhtNEtyWGFrNlg2N2YweWlKOXFzNkJLQk1mRTFBUUtQanFvTENiclRiTU9IdThYbEc4TmJPMm9Mb0RvN1BBRW9FaG8ycTRXVUhFVEJ1SzVEYXhOY28wZjhieUExV3NQRDN0TXJKQ01PMQ?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-16T13:10:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "b6074141000068ef",
+   "k": "welt",
+   "titel": "Beispielloses Treffen der Atommächte: Trump, Xi und Putin an einem Tisch – ein Land ist nicht eingeladen - Frankfurter Rundschau",
+   "t": "Trump, Xi und Putin sollen bei einem Treffen an einem Tisch sitzen; ein Land ist nicht eingeladen.",
+   "e": "Ein Treffen der drei Atommächte wäre ungewöhnlich und könnte geopolitische Machtverhältnisse verschieben.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVBGTHp2bFVjbDI1dkNOYnUwdk55emhLd1lMSkpoVEloWE00Y1dVUnRiM1dBbE1ReGFmYkJqcnhfTUhRNHBna0VncHhINHdBdS1vODVCODhZNmNUMy1XMVpwejdudk9CU2Z6TTFVNS1RVnJhQXg4WUl3elZIakJnVmYzXzhheklCaW9IZndOc1BpVGhHRFFVaVEyZzc5bHVoZTZXa0NzaHpiUQ?oc=5",
+   "quelle": "Frankfurter Rundschau",
+   "zeit": "2026-11-16T13:10:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf44aec35edc632c",
+   "k": "finanzen",
+   "titel": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
+   "t": "Die US-Arzneimittelbehörde FDA hat die Zulassung eines Lungenkrebsmedikaments von Summit Therapeutics abgelehnt; der Hersteller soll zeigen, dass das Mittel das Überleben verlängert.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-16T13:01:00+00:00",
+   "tag": null
+  },
   {
    "id": "c9fcdfa989119c21",
    "k": "finanzen",
@@ -297,6 +549,18 @@
    "s": 6,
    "link": "https://www.welt.de/wirtschaft/plus6af85af86df4bbeedf7a2f0e/erneuerbare-energien-der-teure-kampf-um-deutschlands-energiewende.html",
    "quelle": "Welt",
+   "zeit": "2026-11-16T12:14:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a0cdea5b8166758",
+   "k": "deutschland",
+   "titel": "So gefährlich ist die EEG-Reform wirklich",
+   "t": "Die EEG-Subventionen für Ökostrom verlieren in sechs Wochen ihre EU-Genehmigung; im Streit um die Anschlussregelung blockiert die SPD eine tiefgreifende Reform.",
+   "e": "Ohne Anschlussregelung drohen Unsicherheit für Investitionen in erneuerbare Energien und Folgen für die Stromkosten.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6af85af86df4bbeedf7a2f0e/erneuerbare-energien-so-gefaehrlich-ist-die-eeg-reform-wirklich.html",
+   "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-16T12:14:22+00:00",
    "tag": null
   },
@@ -745,6 +1009,18 @@
    "tag": null
   },
   {
+   "id": "30e75729932e4ced",
+   "k": "welt",
+   "titel": "In Deutschland entwickelter Atomreaktor erhält Baugenehmigung in den USA",
+   "t": "In Texas erhält ein in Deutschland entwickelter Kugelhaufen-Reaktor eine Baugenehmigung in den USA, obwohl die Technik in Deutschland verboten ist.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6af5a3b6c45061d752ba7d33/nuklear-startup-x-energy-in-deutschland-entwickelter-atomreaktor-erhaelt-baugenehmigung-in-den-usa.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-16T10:23:18+00:00",
+   "tag": null
+  },
+  {
    "id": "dddcbf2f814380e3",
    "k": "deutschland",
    "titel": "Jette Studier, MDR, über die Aufstellung zur Wiederwahl von Ministerpräsidentin Schwesig",
@@ -814,6 +1090,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdldTTi0wd2x1dEszVmlrQ3lVR1k5NXI0Ymd0cW1jZkc4QnhfbEl2THdnbDNUZTZsOUJYajJOS3ItTjZlWVZhbl91bktqRWdNVkVYVjMxbmVob1k4ZUc2UlZmZkY0alhpYU42bjZXWFhCd3I3U05SRk01bEZDWmNGbE5CeUdJSDN3QzBhYTdtbXN1TDRBdjhDb0dBRWxsd2lOakoteFJ6OXpaSVhFeVlCdzg1LTY2d3pVS2pUUFVHOElrZw?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-16T10:11:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "50559499761f4306",
+   "k": "finanzen",
+   "titel": "Jensen Huang spricht schon über Rückkehr an Nvidia-Spitze – 150.000 unterschreiben offenen Brief",
+   "t": "Verbündete des zurückgetretenen Nvidia-Chefs Jensen Huang arbeiten laut Medienbericht an Plänen für seine Rückkehr an die Konzernspitze; ein offener Brief mit 150.000 Unterschriften fordert dies.",
+   "e": "Die Personalfrage belastet den wichtigsten Chip- und KI-Titel an der Börse und ist ein Stimmungsfaktor für den Nasdaq.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6afad4744495f9bd85b8233e/ruecktritt-nach-affaeren-jensen-huang-spricht-schon-ueber-rueckkehr-an-nvidia-spitze-150-000-unterschreiben-offenen-brief.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-16T10:06:57+00:00",
    "tag": null
   },
   {
@@ -1594,6 +1882,18 @@
    "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-16T05:28:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "cc5046582d84db22",
+   "k": "deutschland",
+   "titel": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
+   "t": "Ein Gutachten im Auftrag der Linken hält das geplante Investitionsschutzgesetz der Bundesregierung für rechtlich zweifelhaft, das Vergesellschaftungen großer Wohnungsbestände erschweren soll.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-16T05:03:11+00:00",
    "tag": null
   },
   {
@@ -2783,306 +3083,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-15T15:39:00+00:00",
    "tag": null
-  },
-  {
-   "id": "38adfee688905fda",
-   "k": "deutschland",
-   "titel": "Ein Mann der Mitte? Die AfD nominiert den Fussballweltmeister Thomas Berthold für das Amt des deutschen Bundespräsidenten",
-   "t": "Die AfD nominiert den früheren Fußballweltmeister Thomas Berthold für das Amt des Bundespräsidenten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/sport/fussball/ein-mann-der-mitte-die-afd-nominiert-den-fussballweltmeister-thomas-berthold-fuer-das-amt-des-deutschen-bundespraesidenten-ld.10064452",
-   "quelle": "NZZ",
-   "zeit": "2026-11-15T15:18:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "48b403102ce5d2cd",
-   "k": "deutschland",
-   "titel": "SPD-Vorsitz: Heil sieht seine Chance in Klingbeils Schwäche",
-   "t": "Hubertus Heil will den SPD-Vorsitz übernehmen und sieht seine Chance in der Schwäche von Lars Klingbeil.",
-   "e": "Der Machtkampf in der SPD könnte die Regierungsarbeit in Berlin und die Ausrichtung der Partei beeinflussen.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/inland/hubertus-heil-bewirbt-sich-um-den-spd-vorsitz-gegen-lars-klingbeil-accg-201684834.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-15T15:09:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "51ad0380a5abbbf2",
-   "k": "nrw",
-   "titel": "28 zu 27 Stimmen: Warum NRW nun keinen zweiten Nationalpark mehr bekommt - WP | Westfalenpost",
-   "t": "Mit 28 zu 27 Stimmen wurde entschieden, dass NRW keinen zweiten Nationalpark bekommt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHpvdjc0NDBNQXJXXzhsVXhYVnNsWERpMktmVUl3eVNUS2ZmeW1PTmJlMmUwRU45aGc0VUw0ZUozcVVpdmloQy1OM2JKbFhobi1CRzNXNWwtRENfcktNdF9TU1dmRmVhMjZXS3lLQ1hhUmV1RUlQaUIwclA0RjdxZGpaa2hVM0Vqb01JX18wYUd3Nm5ySC10WXV0UzhXRFYtMHBQNF9iTkpOVnlobi0tSHFBeERBa3lyNW0yeVp4OFNldDhCdHFIVkdpVG4?oc=5",
-   "quelle": "WP | Westfalenpost",
-   "zeit": "2026-11-15T15:01:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "d842a4d076ed40e2",
-   "k": "finanzen",
-   "titel": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-   "t": "Vor dem Quartalsbericht von Nvidia am Dienstag sind die Erwartungen hoch. Nach dem plötzlichen Abgang von Jensen Huang gilt der Termin als bedeutendster in der Firmengeschichte.",
-   "e": "Nvidia gilt als Taktgeber des KI-Booms; die Zahlen beeinflussen die Stimmung im gesamten Technologiesektor.",
-   "s": 7,
-   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-15T15:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e64f9e994ec977c3",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Feuerwehr behebt Trinkwassernotlage mit 120.000 Litern - n-tv.de",
-   "t": "Die Feuerwehr hat in Nordrhein-Westfalen eine Trinkwassernotlage mit 120.000 Litern Wasser behoben.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamFvMEpmMUo5V0RuOElzSElJcDZyYTQwUFo3cVRZR203T0xfblVNUWZ1dHJrNmpURXhaYTRaMURUUkxRSDFlakQ4MGkyYy1jekRRdlhUbVR6dWtUR2xUYWxmUXRCdGJTX3o0Q3pBN3VlYjUyNUJneDhJUW16RldpQkh5RnRjNkRBRTJ0Y1VyNlRkaDB3T01xZjRsMjZIQnozcllWY3ZMb29LeUZNNGk2djkxM1VJeEkyYUJJN3JR?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-15T14:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "00828ff24d15cc98",
-   "k": "deutschland",
-   "titel": "Linksextreme Plattform: Bekennerschreiben zu Anschlag auf Auto von Nius-Chef Reichelt",
-   "t": "In Berlin-Charlottenburg wurde in der Nacht zu Freitag das Auto von Nius-Chefredakteur Julian Reichelt angezündet. Auf einer als linksextrem eingestuften Plattform ist ein Bekennerschreiben aufgetaucht, dessen Echtheit die Polizei prüft.",
-   "e": "Brandanschlag auf einen Journalisten mit politischem Bezug, der Staatsschutz ermittelt.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bekennerschreiben-zu-anschlag-auf-auto-von-nius-chef-reichelt-accg-201685206.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-15T14:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "1fdc497e7891d929",
-   "k": "deutschland",
-   "titel": "Totengedenken: Van der Bellen ruft am Volkstrauertag zu Mitgefühl auf",
-   "t": "Am Volkstrauertag gedenkt Deutschland der Opfer von Krieg und Nationalsozialismus, Österreichs Präsident Van der Bellen hält im Bundestag eine Rede.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/totengedenken-van-der-bellen-ruft-am-volkstrauertag-zu-mitgefuehl-auf/100270018.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-15T14:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "a9b50766238088ee",
-   "k": "finanzen",
-   "titel": "Alice Huang hat Megaspeed offenbar 2025 verlassen – Nvidia-Chef soll Mitarbeiter getäuscht haben",
-   "t": "Die unter Spionageverdacht stehende Alice Huang hat das Unternehmen Megaspeed offenbar bereits 2025 verlassen. US-Medien zufolge soll Nvidia-Chef Jensen Huang Mitarbeiter über die Beziehung getäuscht haben.",
-   "e": "Brisant für Nvidia, den zentralen Chip-Lieferanten des KI-Booms, und für die Exportkontrollen bei Hochleistungschips.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6af9a8fb4495f9bd85b80e78/affaeren-und-spionageverdacht-alice-huang-hat-megaspeed-offenbar-2025-verlassen-nvidia-chef-soll-mitarbeiter-getaeuscht-haben.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-15T14:51:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "8abae791b2283982",
-   "k": "finanzen",
-   "titel": "Zinswende: Fed-Entscheidung setzt Gold, Silber und Aktien unter Druck - aktien.news",
-   "t": "Nach der Fed-Entscheidung kamen Gold, Silber und Aktien unter Druck.",
-   "e": "Die Zinssignale der US-Notenbank bewegen derzeit Edelmetall- und Aktienmärkte gleichzeitig.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnItTHFjcFA1d0dLYl9YSElvakF3NjlZQWx4MjZNOU5iNW5JTjZjeU9lMmZBTVl6WHJBNnd6ZHMwOE5BM3JxazEzb3NjYjVyc0ZRb3Z3eVRuSlF4Z3pQWTgyRVdCRXdZcGQwb29qWTlYYm95RlN3WlQxeWxOQWRPcWxxSkRNVGRLSVJzQUVZZjYwLVhISGc?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-15T14:40:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c7faae57e8c1678",
-   "k": "finanzen",
-   "titel": "Die neue Realität der Autoindustrie –„Deutschland gibt nicht mehr den Ton an“",
-   "t": "Aumovio-Chef Philipp von Hirschheydt sieht die deutsche Autoindustrie unter hohem Kostendruck und fordert niedrigere Arbeitskosten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6af82854389d31d8c8a80069/die-neue-realitaet-der-autoindustrie-deutschland-gibt-nicht-mehr-den-ton-an.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-15T14:37:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ef40b758d80acf0",
-   "k": "finanzen",
-   "titel": "VW-Chef Blume will 2030 Rekordrendite erreichen – trotz Stellenabbau",
-   "t": "VW-Chef Oliver Blume will trotz Stellenabbau bis 2030 neun Millionen Fahrzeuge verkaufen und eine Rendite von neun Prozent erzielen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/article6af9b9824495f9bd85b80f98/autobauer-in-der-krise-vw-chef-blume-will-2030-rekordrendite-erreichen-trotz-stellenabbau.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-15T14:32:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "abbe913370fd17cf",
-   "k": "usa",
-   "titel": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-   "t": "Demokraten wollen laut CNBC Hochverdiener stärker besteuern, um die Sozialversicherung zu stabilisieren.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-15T14:30:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "81ab6c196713598e",
-   "k": "finanzen",
-   "titel": "Märkte Insight: Der Dollar wird für Investoren zum Risiko",
-   "t": "Der US-Dollar wird für Investoren in Krisenzeiten zum Risiko, da sich das bisherige Muster verändert, so Handelsblatt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-der-dollar-wird-fuer-investoren-zum-risiko/100268638.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-15T14:22:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "e086692b88789261",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Festnahme nach versuchtem Tötungsdelikt in Düsseldorfer Altstadt - tixio - Nachrichten",
-   "t": "In der Düsseldorfer Altstadt ist nach einem versuchten Tötungsdelikt eine Person festgenommen worden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2pzMmtnTVlZa245X1Nwc19KZncyZXBJNmFtRmpDY3RKSjlfTnAzWF9HeW5Ga05VUkdyTnk1dVBfcURaU0JZVjc2cTlLUmlJMFlrTHpqZlZCaVJ2RHFhbEtrWmYtRFFHQm1YZHIxT3J0LVpNYThUSlBuSmRhUTc1ekViWWthbEt6SkRvaks2LVRDM0RBNUZ5bGxxUzhiaV82Z3c?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-15T14:18:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "786138fc77fb0cca",
-   "k": "welt",
-   "titel": "Korruption in Ungarn: Ermittler finden Millionen Euro Bargeld in Ungarns Wäldern",
-   "t": "Ungarische Korruptionsermittler haben bei Miklós Seszták versteckte Barmittel im Wert von 17 Millionen Euro gefunden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/ungarn-ermittler-finden-17-millionen-euro-bargeld-bei-orban-minister-accg-201684268.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-15T14:11:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "303b7af39a9abd49",
-   "k": "welt",
-   "titel": "Sorge um Medien: Großdemo gegen umstrittene Medienreform in Tschechien",
-   "t": "In Tschechien hat eine große Menschenmenge gegen geplante Änderungen bei der Finanzierung der öffentlich-rechtlichen Sender protestiert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/sorge-um-medien-grossdemo-gegen-umstrittene-medienreform-in-tschechien/100270017.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-15T14:09:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "a25402976a744399",
-   "k": "welt",
-   "titel": "Cyberangriff: Hacker stehlen in Frankreich Daten von 22 Millionen Menschen",
-   "t": "Bei einem Cyberangriff auf eine Tochtergesellschaft der französischen Post wurden Daten von 22 Millionen Menschen abgegriffen.",
-   "e": "Einer der größten Cyberangriffe in Frankreich, betroffen sind Daten sehr vieler Menschen.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberangriff-hacker-stehlen-in-frankreich-daten-von-22-millionen-menschen/100270012.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-15T14:03:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b65f49987c721d5",
-   "k": "finanzen",
-   "titel": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-   "t": "Krypto-Branche erwartet laut CoinDesk wenig von der sogenannten Lame-Duck-Sitzung des US-Kongresses.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-15T14:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "84c9bc02db78e0a1",
-   "k": "welt",
-   "titel": "Meinl-Reisinger: „Wir brauchen beides, Härte und Dialog“",
-   "t": "Österreichs Außenministerin Meinl-Reisinger begrüßt ein europäisches Team für die Ukraine-Verhandlungen und fordert, das Mandat schnell mit Inhalt zu füllen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/oesterreichs-aussenministerin-meinl-reisinger-im-interview-accg-201681327.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-15T13:58:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "ed156b25daf9282c",
-   "k": "welt",
-   "titel": "Trump, Putin und Xi an einem Tisch: Weißes Haus bestätigt Dreiergipfel in China - RND.de",
-   "t": "Das Weiße Haus hat einen Dreiergipfel von Trump, Putin und Xi Jinping in China bestätigt. Auf der Agenda stehen laut Berichten Nichtverbreitung von Atomwaffen, der Nahost-Krieg, Handelsfragen und möglicherweise der Ukraine-Krieg.",
-   "e": "Ein Treffen aller drei Staatschefs wäre ein seltener Schritt mit Folgen für Sicherheitspolitik und Handel, auch für Europa.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDN3Q1kyNVhRM3VxZVdMWkloRzNQSUlmMWdsSHR4Y3I3Q3dsWXZOYVNyRkpJX0R6WnhGV09aNHNIWkhpM3c3VkJFMGphYkJhbTNibk9pSkNuNUNPd2VyRWQySEhjcmR1R1VmSS1reUUxbFBMWWJOTldZZnNPOVN4UlE5RGRkb2hDVDdWTThKYkRjaExVWml1UzR4aUt1WjdCajFMdFBpS0Y2YjNXT1U1cmx1aVFDNURqd2ZRT05KOHhwTEF0VGxxM2NuM21ONjVLbzVBMw?oc=5",
-   "quelle": "RND.de",
-   "zeit": "2026-11-15T13:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e9d85edb64d50010",
-   "k": "deutschland",
-   "titel": "Exodus der Leistungsträger – Die Selbstständigen verlieren den Glauben an Deutschland",
-   "t": "Neue Zahlen zeigen, dass Selbstständige zunehmend skeptisch gegenüber Deutschland sind und das Land verlassen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6af5b78f5596369bf0edd259/wegzug-ins-ausland-exodus-der-leistungstraeger-die-selbststaendigen-verlieren-den-glauben-an-deutschland.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-15T13:36:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "530a8443f6bf266e",
-   "k": "deutschland",
-   "titel": "Exodus der Leistungsträger – Die Selbstständigen verlieren den Glauben an Deutschland",
-   "t": "Neue Zahlen zeigen, dass Selbstständige und Leistungsträger zunehmend skeptisch gegenüber dem Standort Deutschland sind und das Land verlassen wollen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6af5b78f5596369bf0edd259/auswandern-exodus-der-leistungstraeger-die-selbststaendigen-verlieren-den-glauben-an-deutschland.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-15T13:36:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "01e4b9f122e5ba02",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: NRW-Grüne beschließen Kandidatenliste: Neubaur auf Platz 1 - n-tv.de",
-   "t": "Die NRW-Grünen haben ihre Landeskandidatenliste beschlossen, mit Mona Neubaur auf Platz 1.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXZjZ0o2bFNzZkJaNnhHMkE2NjQ4aFctZTdiN0xwYzFjYWhHYUdPbmVreFdDWGdqRkdyVFNCWHByVmw3TG9VWmhMeVlWWXVtZ2g2Wmg0R1J2emRHVF96bWJ2UTVIeUpLcjYtMEktakUwbS0tbTV5TWctanV3ZmRHbzYwaGYzV0VVXzNOcWU5YzM3UEFZZC1YWDBHeXNhRnFJUk94cUQ5QUJDaG01Y1hLMUVpdHFYV2U2TE1qVjI2QXRfczl1?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-15T13:21:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "556c4c02f80344d5",
-   "k": "nrw",
-   "titel": "Grüne vor der Landtagswahl: NRW-Grüne beschließen Kandidatenliste: Neubaur auf Platz 1 - DIE ZEIT",
-   "t": "Die NRW-Grünen haben ihre Kandidatenliste für die Landtagswahl beschlossen, Mona Neubaur steht auf Platz 1.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0RwVnZUdHFpclFxbklOc0RnVGZoRl9uRlRpR1pUZU9IZ0g5UkQ1NmFwSUswQUk2ZG1pME9vNkNHTHBFNVFRaEM5T25vem1POGI4dVVZbENNblFJSFdRdWtaRXBFWGEtZEw4dVZPZnZ1S0hXNUFhcTluMlFnSHEyYU9jNC1yd1pMTEptak93SS1XLTRnSjJmM1l4bw?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-15T13:20:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c673deb2ea96157",
-   "k": "welt",
-   "titel": "Treffen von Trump, Putin und Xi Jinping: Warum Europa dieses Treffen fürchtet - Politik - SZ.de - SZ.de",
-   "t": "In Europa wächst die Sorge vor einem möglichen Treffen von Trump, Putin und Xi Jinping.",
-   "e": "Ein solcher Gipfel könnte Europas Position in der Ukraine-Frage und bei Sicherheitsfragen verändern.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekVtb2VMbWNuSFkyaURsZmZWLWswOXY5MmtIZENPankyTnhwcno2VHp5QnNGc1RPMzFTbngtWjRrVkpySGEycnFZXzlzeDlYejhLQk4xYmltZ3c3amhJZTZPaWFVQjVSelZnRzZMTG9ZZ1Fkc0hWZkhwckNTNVRSV25jRmdCU1ZyNTZiU1Vn?oc=5",
-   "quelle": "SZ.de",
-   "zeit": "2026-11-15T13:19:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,22 +3090,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 37
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 10
+    "n": 14
    },
    {
     "name": "Welt",
@@ -3115,22 +3115,22 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 24
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Handelsblatt",
@@ -3140,12 +3140,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 10
    },
    {
     "name": "Fox News Politik",
@@ -3185,17 +3185,17 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 15
+    "n": 19
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 33
+    "n": 35
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 18
+    "n": 23
    },
    {
     "name": "Google News NRW",
@@ -3215,7 +3215,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 39
+    "n": 40
    }
   ],
   "markt": [],
