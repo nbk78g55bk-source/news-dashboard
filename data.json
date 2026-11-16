@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-16T02:42:39.788800+00:00",
+ "aktualisiert": "2026-11-16T03:01:06.754006+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.277 $",
-   "delta": 1.0032249575427752
+   "wert": "65.075 $",
+   "delta": 0.27094908437013043
   },
   {
    "name": "Ethereum",
-   "wert": "1.830 $",
-   "delta": 1.333698972278998
+   "wert": "1.823 $",
+   "delta": 0.4590845550413837
   },
   {
    "name": "Gold",
-   "wert": "3.887 $",
-   "delta": 0.025730158745118636
+   "wert": "3.876 $",
+   "delta": -0.2650348325840324
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,30 @@
   ]
  },
  "items": [
+  {
+   "id": "bc2bcae0377403a1",
+   "k": "deutschland",
+   "titel": "Zahl psychisch kranker Bundeswehr-Soldaten ist deutlich gestiegen",
+   "t": "Die Zahl der Bundeswehr-Soldaten mit posttraumatischer Belastungsstörung ist laut einem Bericht um etwa 50 Prozent gestiegen. Viele Betroffene scheuen sich offenbar, Hilfe zu suchen, aus Angst vor Stigmatisierung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6afa6d4a4495f9bd85b81889/posttraumatische-belastungsstoerungen-zahl-psychisch-kranker-bundeswehr-soldaten-ist-deutlich-gestiegen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-16T02:53:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "b532988b89847fc7",
+   "k": "welt",
+   "titel": "Liveblog Nahost: Dritter US-Flugzeugträger erreicht Nahen Osten",
+   "t": "Im Nahost-Liveblog wird gemeldet, dass Iran einen US-Stützpunkt in Bahrain angegriffen hat. Zudem hat sich die jemenitische Armee laut Bericht vom Bab al-Mandab zurückgezogen.",
+   "e": "Ein Angriff auf eine US-Basis erhöht das Risiko einer direkten militärischen Eskalation und kann Öl- und Schifffahrtsrouten im Golf und am Roten Meer beeinflussen.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-jemenitische-armee-zieht-sich-von-bab-al-mandab-zurueck-faz-200583539.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-16T02:45:47+00:00",
+   "tag": null
+  },
   {
    "id": "172afb5505f6b79e",
    "k": "finanzen",
@@ -3055,30 +3079,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-14T19:21:17+00:00",
    "tag": null
-  },
-  {
-   "id": "0b923a3416faf918",
-   "k": "deutschland",
-   "titel": "Staatsakt in München: Gedenken an Hubert Aiwanger",
-   "t": "In München findet ein Staatsakt zum Gedenken an Hubert Aiwanger statt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683982.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T19:15:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "d499db7aca5164dd",
-   "k": "welt",
-   "titel": "Weltweite Störung bei Microsoft ist behoben",
-   "t": "Eine weltweite Störung bei Microsoft wurde behoben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683976.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T19:11:09+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3146,7 +3146,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "MarketWatch",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "WSJ USA",
@@ -3186,7 +3186,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3201,7 +3201,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Google News USA",
@@ -3211,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 25
+    "n": 24
    }
   ],
   "markt": [],
