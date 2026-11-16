@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-16T05:01:26.374622+00:00",
+ "aktualisiert": "2026-11-16T07:01:43.927143+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.769 $",
-   "delta": -0.2127970053063091
+   "wert": "64.681 $",
+   "delta": 0.4102716113299018
   },
   {
    "name": "Ethereum",
    "wert": "1.817 $",
-   "delta": 0.2741577707574854
+   "delta": 1.4235686026038659
   },
   {
    "name": "Gold",
-   "wert": "3.874 $",
-   "delta": -0.2831196738960373
+   "wert": "3.842 $",
+   "delta": -1.1321835235391209
   },
   {
    "name": "EZB Zins",
@@ -54,28 +54,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-15T19:01:29.006922+00:00",
+  "slot": 7,
+  "stand": "2026-11-16T07:01:43.927119+00:00",
   "punkte": [
    {
     "k": "welt",
-    "t": "Iran meldet Explosionen an Öltankern in der Straße von Hormus und einen Treffer auf einen US-Stützpunkt in Bahrain. Saudi-Arabien berichtet von abgefangenen Raketen auf Riad. Laut einer Meldung sind drei Öltanker nach Minenkontakt in Brand geraten."
+    "t": "Iran meldet einen Treffer auf einen US-Stützpunkt in Bahrain und Explosionen an Öltankern in der Straße von Hormus. Saudi-Arabien berichtet, Raketen auf Riad abgefangen zu haben."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB hat den Zins unverändert gelassen (Marktdaten: EZB Zins 2,50 %), und Lagarde kündigte ihren Rücktritt zum Februar an. Die US-Notenbank Fed hält den Leitzins bei 3,88 % (Fed Funds), und Märkte preisen laut Meldung eine Zinserhöhung im Dezember ein."
+    "t": "Laut Marktdaten liegt die Wahrscheinlichkeit für eine Fed-Zinserhöhung um 0,25 Prozentpunkte bei 92 Prozent, Fed Funds stehen bei 3,88 %, der EZB-Zins bei 2,50 %. Fed-Notenbanker kündigen laut Meldungen weitere Zinserhöhungen an, und der Deka DAX notiert bei 233,60 €."
    },
    {
-    "k": "finanzen",
-    "t": "Nach dem Abgang von Jensen Huang verlor Nvidia laut Bericht rund 800 Milliarden US-Dollar Börsenwert. Finanzminister Bessent fordert einen externen Nachfolger, und der Quartalsbericht am Dienstag gilt als besonders wichtig. Zum Vergleich: Deka Nasdaq-100 178,60 €, Deka S&P 500 141,90 €, Deka DAX 233,60 €."
+    "k": "usa",
+    "t": "Bei Nvidia ist Jensen Huang nach 33 Jahren zurückgetreten, der Konzern verlor laut Bericht rund 800 Milliarden US-Dollar Börsenwert. Finanzminister Bessent fordert einen externen Nachfolger, und der Quartalsbericht am Dienstag gilt als besonders wichtig."
    },
    {
-    "k": "finanzen",
-    "t": "Bitcoin fiel laut Meldung unter 62.000 US-Dollar auf ein Vier-Monats-Tief; die Marktdaten nennen zuletzt 64.691 $. Gold steht bei 3.886 $ und Ethereum bei 1.814 $."
+    "k": "welt",
+    "t": "Das Weiße Haus bestätigt einen Dreiergipfel von Trump, Putin und Xi Jinping in China. Auf der Agenda stehen laut Berichten Nichtverbreitung von Atomwaffen, der Nahost-Krieg und Handelsfragen."
+   },
+   {
+    "k": "welt",
+    "t": "Estland schließt nach einem versuchten Brandanschlag auf einen Drohnenhersteller ab Dezember alle Grenzübergänge zu Russland. Acht Personen wurden festgenommen, Estland beschuldigt den russischen Militärgeheimdienst GRU."
    },
    {
     "k": "nrw",
-    "t": "In Iserlohn bekämpfte die Feuerwehr einen Brand in einer Müllverbrennungsanlage, Rauchgase verursachten Geruchsbelästigung. Auf der Lenneschiene fahren die Züge laut Bericht voraussichtlich erst ab Mittwoch wieder."
+    "t": "Nach dem Brand in der Müllverbrennungsanlage Iserlohn hat die Leitstelle im Märkischen Kreis Entwarnung wegen der Brandgase gegeben. Auf der Lenneschiene sollen die Züge laut Bericht erst ab Mittwoch wieder fahren."
    }
   ]
  },
@@ -3091,12 +3095,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3111,12 +3115,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
@@ -3156,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "WSJ USA",
@@ -3176,7 +3180,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 9
+    "n": 12
    },
    {
     "name": "Cointelegraph",
@@ -3186,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 28
+    "n": 30
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 7
+    "n": 10
    },
    {
     "name": "Google News NRW",
@@ -3201,17 +3205,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 29
+    "n": 36
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 25
    }
   ],
   "markt": [],
