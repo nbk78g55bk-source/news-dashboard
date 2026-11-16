@@ -1,8 +1,6 @@
 name: News
 
 on:
-  schedule:
-    - cron: "7 * * * *"   # jede Stunde zur Minute 7 (UTC)
   workflow_dispatch:       # Knopf zum manuellen Starten
 
 permissions:
