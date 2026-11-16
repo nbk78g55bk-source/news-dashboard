@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-15T23:01:10.254382+00:00",
+ "aktualisiert": "2026-11-16T01:01:06.729906+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.176 $",
-   "delta": 2.401367788608674
+   "wert": "64.905 $",
+   "delta": 2.323290692666018
   },
   {
    "name": "Ethereum",
-   "wert": "1.826 $",
-   "delta": 4.365383065767885
+   "wert": "1.814 $",
+   "delta": 4.211931750145361
   },
   {
    "name": "Gold",
-   "wert": "3.886 $",
-   "delta": 0.025736781183138824
+   "wert": "3.895 $",
+   "delta": 0.23158148004009949
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,90 @@
   ]
  },
  "items": [
+  {
+   "id": "c29235fb735ae248",
+   "k": "welt",
+   "titel": "Prinz Harry trifft verwundete Soldaten in der Ukraine",
+   "t": "Prinz Harry hat unangekündigt verwundete Veteranen in Lwiw besucht und den Widerstand der Ukrainer gewürdigt.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/politik/ausland/article6afa50c64495f9bd85b81842/ueberraschungsbesuch-prinz-harry-trifft-verwundete-soldaten-in-der-ukraine.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-16T00:55:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "42662d3d28a62f86",
+   "k": "welt",
+   "titel": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+   "t": "Die Weltklimakonferenz COP31 in Antalya geht in ihre entscheidende Phase, Umweltministerinnen und -minister reisen an. Bundesumweltminister Schneider erwartet ein schwieriges Verhandlungsprogramm, Finanzierungsfragen spielen eine zentrale Rolle.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-16T00:35:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "4063fc42b6013432",
+   "k": "finanzen",
+   "titel": "Euro gibt unter 1,1050 nach, da Händler ihre Wetten auf Zinserhöhungen der Fed verstärken - DE.COM",
+   "t": "Der Euro gibt unter 1,1050 US-Dollar nach, da Händler ihre Wetten auf Zinserhöhungen der Fed ausbauen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzliSWh2V0VJQUxWeU9uVjBta052SHVYNjhTblFveklaZmdEc2hiYUoxVUQ2c3BYbTdEWHpFZzZhVmV0NXFqZEZkazdscUpibnAyZFVHeTdFRUM2REJ6MXQ4M0RMX3MwbnBVeDM3ejVwTFZ0VXlSQTJOLXJzRFFNMVdUVkd5OTNFaWFmQTZ1aTNrYU5RVGI5cVBjdW5tUWp3X2hTQ3A3UUY0ampoNFYzQmItcVhtdjQ1dC0xMnduU0VYZGxlbDNVaEVNV09QbTN2dlZR?oc=5",
+   "quelle": "DE.COM",
+   "zeit": "2026-11-16T00:34:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "519ee7fa839f34ba",
+   "k": "finanzen",
+   "titel": "Asien: Japans Wirtschaft schrumpft – hohe Lebenshaltungskosten belasten Konsum",
+   "t": "Japans Bruttoinlandsprodukt ist im Sommerquartal überraschend um 0,1 Prozent gesunken. Haushalte halten sich wegen hoher Lebenshaltungskosten beim Konsum zurück.",
+   "e": "Nach dem Auslaufen der Energiehilfen im September trifft der Anstieg der Energiepreise infolge des Iran-Kriegs die Konjunktur direkt.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/asien-japans-wirtschaft-schrumpft-hohe-lebenshaltungskosten-belasten-konsum/100270056.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T00:18:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "7f37aacff2949c9f",
+   "k": "finanzen",
+   "titel": "Fed streicht Zinsabstimmung im Oktober 2027 – Warsh strafft FOMC-Kommunikation - Nachrichten und Statistiken - IndexBox",
+   "t": "Die Fed streicht die geldpolitische Sitzung im Oktober 2027 aus ihrem Kalender, Warsh strafft zugleich die Kommunikation des FOMC.",
+   "e": "Die Änderungen am Sitzungsplan und an der Kommunikation sind ein Signal für eine neue Ausrichtung der US-Notenbank unter Warsh.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTU80SjFVU0EzSEJTcHVKX3hUUU9mLVlXX3JGVzF4U3Q5UUpSajJXbExmTndMVFdTME1Ub0hWS1ZwQXJkZ2VNSDR4d2tKTHpzNVFQVFY2WWZycmg4bzB2dzd0N2g3bWRmYlJ2cWhNUExBNm1PWVFKMmJCX1hoTGh3N0pyTUEyQmZJX3ktSUQyUnh4QkRfTlA2QzJweVluTnpSOFh0b0FvRjZ1Q3JkbmNiRQ?oc=5",
+   "quelle": "IndexBox",
+   "zeit": "2026-11-16T00:11:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "6fc10c99c9b243d5",
+   "k": "nrw",
+   "titel": "Warnung vor Sturmböen für den Hochsauerlandkreis, den Märkischen Kreis und weitere Gebiete - tixio - Nachrichten",
+   "t": "Der Deutsche Wetterdienst warnt vor Sturmböen für den Märkischen Kreis, den Hochsauerlandkreis und weitere Gebiete.",
+   "e": "Lokale Sturmwarnung für den Märkischen Kreis: Auf lose Gegenstände und Bäume im Freien achten.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGtOSnFHZEROcklnbWZQT2ozWXBFSC10TjBNUi1SM3ZGMHRwUk1heTdORE1uU2ltcEtpZUljVWlsWWlubHVRTHJBbXU1OEhKMUNvWldWMElhMlpsYkdnZTdWSFBvNHRUQno1bG1SOW5RRDc0bi0yMGQwRkgtel83aHJVMVZkQVp5b3g0WDJDNFlJZW93N1puTkJWWTdGTHdFc0FSNDVuZWxZeGRuNVc1YWxrT2VPekdjdVFOTExUWEFvcGdM?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-15T23:54:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "21524864d8bba0ae",
+   "k": "welt",
+   "titel": "News, Nordrhein-Westfalen, Regional: Ukraine: Möller fordert eigene europäische Friedensinitiativen - tixio - Nachrichten",
+   "t": "Möller fordert eigene europäische Friedensinitiativen im Ukraine-Krieg.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEJlbVRqZjNxMjJQUkZYOXdTNUtaSlNfNUwwUWxHbldYX0V3THhXQkw1eHBlb0NSOGNKNlpIX3JNcVpnZk80ZmtuSXlWRlo2R29fSERocjdldGdKN0dXRjRDc2YwVWNVWW8wYzA4NWVQdHF0eDVid3d6RWdpOFBkSWZ1ekljdlhRU2JxTXZLZlJVQmwyZ2N1YmxDU29XUQ?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-15T23:08:49+00:00",
+   "tag": null
+  },
   {
    "id": "a4e7959a339cb3bd",
    "k": "finanzen",
@@ -309,6 +393,18 @@
    "tag": null
   },
   {
+   "id": "19e3c06936677bdf",
+   "k": "finanzen",
+   "titel": "Fed’s Schmid Says Inflation Runs Uncomfortably Above 2% Target At 3% Core - Sahi",
+   "t": "Fed-Vertreter Schmid sagt, die Inflation liege mit einer Kernrate von 3 Prozent unbefriedigend deutlich über dem Ziel von 2 Prozent.",
+   "e": "Die anhaltend hohe Kerninflation in den USA erklärt, warum an den Märkten über weitere Zinsschritte der Fed diskutiert wird.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzNxaUpGQkhQVTFfSWFhOUZoS0Z0cV9ZWGNFQ3FmQU0xMmNnR25GU2IxMU1lNEp6ZW5DS3h5MHo2YThrM1lRZ1IzVElsRFltVTVOdElZWDV5eGthZE5DTFJEVXVsalljenpleVhQRlJuOTYtWkI3QkU5MkZzWFpIRmNlS01fUV9nbjhjd3NES1lEY2h5M1hEWU90VkdLdw?oc=5",
+   "quelle": "Sahi",
+   "zeit": "2026-11-15T19:41:37+00:00",
+   "tag": null
+  },
+  {
    "id": "d06ffb70526ff50c",
    "k": "deutschland",
    "titel": "Stromsteuer gegen Mütterrente? „Da machen wir uns dann ehrlicherweise lächerlich“, warnt Söder",
@@ -522,6 +618,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjZTWExXaVExOGtNZ2ZRRkhtcUFyV1hoQVRVeGl0bHdzNnlZUVpQQUVuM3dKaXVRdE96LTNLVUg2RFhJcEdOWHQteHVQZlBvTnJQdno2SzNmOHJfMzFvamNPQVRoUGM4bVEzOTVZU18zRGZKU3BkaWg5S2FaMXIxbUxmWXFVQi1uUXV6Q1ZUV3p6N2I5VWxmQVBBM0xHT3piZDhuXzc2MGxDcU9xMFpEMV9iRGI4SC1Md3RKdWpEQjRYNlpsUjVRRy1mTFlTekFN?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-15T17:55:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "22b40701d3716337",
+   "k": "finanzen",
+   "titel": "Fratzscher warnt vor politischem Zugriff auf EZB - MMnews",
+   "t": "Ökonom Fratzscher warnt vor politischem Zugriff auf die Europäische Zentralbank.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGpjalZrZFNQU01FbU5oZ0JuZlBMM3Z0T1B6UFhMbFJrR3pQMWRadDl2ZnJrYWdLdnlraDVUN2lqS0JFeGpSQ1lKNkdzZUhLY0NBV1BFcDliLVpUaGpIaFN3ZUF1Y1dYNGhnZGNHX2hXaTl0QnN4MGhZWjVTNnkwUFRKVS0wQkRCeXdkdmVxR014REQtX2JOMQ?oc=5",
+   "quelle": "MMnews",
+   "zeit": "2026-11-15T17:31:19+00:00",
    "tag": null
   },
   {
@@ -2971,114 +3079,6 @@
    "quelle": "RP Online",
    "zeit": "2026-11-14T18:25:00+00:00",
    "tag": null
-  },
-  {
-   "id": "aecfe78bbc7ca36b",
-   "k": "deutschland",
-   "titel": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
-   "t": "Ex-Arbeitsminister Hubertus Heil hat offiziell seine Kandidatur für den SPD-Vorsitz erklärt. Die komplette Parteiführung wird auf dem Bundesparteitag Mitte Januar neu gewählt.",
-   "e": "Heil begründet seinen Schritt mit der Profillosigkeit der SPD unter Parteichef Klingbeil und fordert damit dessen Führung heraus.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T18:12:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "4d7d016011ed943b",
-   "k": "welt",
-   "titel": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "t": "Apples neuer digitaler Assistent „Home View“ wird in den USA ausgeliefert, in der EU ist das Gerät vorerst nicht erhältlich.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-14T18:11:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "35e3d629846e417c",
-   "k": "nrw",
-   "titel": "Klare Nacht, Glätte-Gefahr – Sonntag bringt Regen und gefrierenden Regen - Come-on",
-   "t": "Nach klarer Nacht droht am Sonntag Regen mit gefrierendem Regen, es besteht Glättegefahr.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTZ0RlBKT3lfSTdCN0VUd0dZdTUxdjlROV9aQmhtcU9va2ItWTJFWWFlaXMyajlWNkhTMFJEaWU0dVNlYktIam5iSUtaQl9VZTVKZlladk1OZE1RTVVZcTdGekxwVnJRMi1ReHFKNFBnVUtqNmdZTzBvZWFULXV1YzU4aTdfRHVBT01KVUFidERiSmVqQjNlWTFGMlNudDJna0loTWdIVnByZWVzWElBRjBRNlRJWXZzWFM3RExZVmI1NWQ4Rnc?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-14T18:01:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "23c018fbf91bb972",
-   "k": "deutschland",
-   "titel": "Im Beisein der Mutter – Kind auf Fahrrad wird von Bus überrollt und stirbt",
-   "t": "In Berlin-Tiergarten ist ein Kind auf dem Fahrrad gestürzt und von einem Bus überrollt worden. Es starb, die Mutter war dabei.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/article6af89cbf2ca8b97036af77b7/berlin-im-beisein-der-mutter-kind-auf-fahrrad-wird-von-bus-ueberrollt-und-stirbt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T17:58:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "f3ca76ff864860c3",
-   "k": "welt",
-   "titel": "Weißes Haus bestätigt: Trump trifft Xi und Putin in China - Tichys Einblick",
-   "t": "Nach Angaben des Weißen Hauses trifft US-Präsident Trump in China den chinesischen Präsidenten Xi und den russischen Präsidenten Putin.",
-   "e": "Ein Treffen dieser drei Staatschefs ist ungewöhnlich und berührt große geopolitische Konflikte wie den Ukrainekrieg.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFpENGJTcWxtNDZLWl84TDlyQm9aR1dFT1dsWklHazBDNTZSdlFvanptV2ZoVXlaaUhlSnZvbHM1R25Za3VtYmVVMVR3RV8wTHIzSkVHaGlvTFB2QjlLZjFMTnRIVnVUVHhicnBmaEgtQ19HVmkxWE1LcVZ5NDl1T05YT2hnSTZTS0RrTi1BR2F6WFE?oc=5",
-   "quelle": "Tichys Einblick",
-   "zeit": "2026-11-14T17:57:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e3f5d2fc5550784d",
-   "k": "deutschland",
-   "titel": "Nach massiver Jugendgewalt – Polizei ermittelt inzwischen gegen 45 Verdächtige",
-   "t": "In Potsdam ermittelt die Polizei inzwischen gegen 45 Verdächtige im Zusammenhang mit kriminellen Jugendbanden. Innenminister Redmann sieht darin einen Beweis, dass sich die Aufklärungsarbeit lohnt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af8967b389d31d8c8a80797/potsdam-nach-massiver-jugendgewalt-polizei-ermittelt-inzwischen-gegen-45-verdaechtige.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T17:51:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "a9cbf838dec8cd62",
-   "k": "usa",
-   "titel": "President Trump rips Gavin Newsom for sparing California’s death row inmates: ‘disaster for Justice in America’",
-   "t": "Trump kritisiert Gouverneur Gavin Newsom scharf dafür, dass dieser die Todesurteile aller 548 Todeskandidaten in Kalifornien umgewandelt hat.",
-   "e": "Die Entscheidung betrifft die gesamte Todeskandidaten-Liste des Bundesstaats und hat eine grundsätzliche Debatte über die Todesstrafe in den USA ausgelöst.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/14/us-news/president-donald-trump-rips-gavin-newsom-for-sparing-californias-death-row-inmates/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-14T17:50:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "7df911b465b9d05b",
-   "k": "nrw",
-   "titel": "\"Große Chance vertan\" – warum Befürworter des Nationalparks Rothaarkamm so enttäuscht sind - WDR",
-   "t": "Befürworter des Nationalparks Rothaarkamm äußern Enttäuschung über den aktuellen Stand des Projekts.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGVhMHRrcjdGOXhvUThsY1dIX0dWMTBMdFJ6STE1TUZ4cWVvalhoV3pXeWh6RnZhV05idDlmdlVKTm5VOXNPQjg5LUxwalBFT0NlOFFzYVllTmZidXAtTEt4ZUtVclBHOU04ZTVGUnZKT1ZsOEZGbTlPeGEycUhrUUJZdEh2T1M1TXRrQ0F6Sk5rWk1MMV94dlE0MnR2RFZMYUdRWmVmbXQxbUhlUFFQSjlweFJFUQ?oc=5",
-   "quelle": "WDR",
-   "zeit": "2026-11-14T17:49:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a2034b630808d91",
-   "k": "finanzen",
-   "titel": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "t": "Zwei Großinvestoren mit laut Meldepflicht rund 2,13 Mrd. US-Dollar Nvidia-Aktien fordern, die mögliche Rückkehr von Jensen Huang zu prüfen, nachdem dieser als Nvidia-Chef zurückgetreten ist.",
-   "e": "Nvidia gehört zu den größten Halbleiterwerten, weshalb die Führungsfrage für die Märkte relevant ist.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-14T17:46:06+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3096,7 +3096,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3111,7 +3111,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 17
    },
    {
     "name": "FAZ",
@@ -3136,12 +3136,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "CNBC Finance",
@@ -3161,7 +3161,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3176,12 +3176,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Google News Iserlohn",
@@ -3201,7 +3201,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Google News USA",
@@ -3211,7 +3211,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 32
+    "n": 29
    }
   ],
   "markt": [],
