@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-16T03:01:06.754006+00:00",
+ "aktualisiert": "2026-11-16T05:01:26.374622+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "65.075 $",
-   "delta": 0.27094908437013043
+   "wert": "64.769 $",
+   "delta": -0.2127970053063091
   },
   {
    "name": "Ethereum",
-   "wert": "1.823 $",
-   "delta": 0.4590845550413837
+   "wert": "1.817 $",
+   "delta": 0.2741577707574854
   },
   {
    "name": "Gold",
-   "wert": "3.876 $",
-   "delta": -0.2650348325840324
+   "wert": "3.874 $",
+   "delta": -0.2831196738960373
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,222 @@
   ]
  },
  "items": [
+  {
+   "id": "910a7c27fbbe2a2f",
+   "k": "finanzen",
+   "titel": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+   "t": "Asiatische Chipwerte sind vor den Nvidia-Quartalszahlen deutlich gefallen. Der Nikkei 225 verlor etwa 2 Prozent, der Kospi rund 2,6 Prozent.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-16T04:42:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "5cd26ce78595c46b",
+   "k": "welt",
+   "titel": "Nach einem versuchten Sabotageakt auf einen Rüstungshersteller schliesst Estland die Grenze zu Russland",
+   "t": "Estland hat nach einem versuchten Brandanschlag auf einen Rüstungshersteller die Grenze zu Russland geschlossen. Mehrere Personen wurden festgenommen, Estland beschuldigt den russischen Militärgeheimdienst GRU.",
+   "e": "Ein mutmaßlicher staatlicher Sabotageakt auf die Rüstungsindustrie in der EU erhöht den Druck auf die Nato-Ostflanke.",
+   "s": 7,
+   "link": "https://www.nzz.ch/international/estland-schliesst-grenzen-zu-russland-nach-sabotageakt-auf-ruestungsfirma-ld.10064620",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7f459ad59286543",
+   "k": "welt",
+   "titel": "Mehr als eine halbe Million russische Kriegstote: Das Datenleck in Moskau gibt Einblick in eine vom Kreml verheimlichte Katastrophe",
+   "t": "Ein Datenleck in Moskau legt nahe, dass im russischen Angriffskrieg mehr als eine halbe Million Soldaten getötet wurden. Die Zahl wurde bisher vom Kreml verheimlicht.",
+   "e": "Die Daten stützen unabhängige Schätzungen über die hohen Verluste Russlands und machen die Kriegsführung im Donbass sichtbar.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/ukraine-krieg-mehr-als-eine-halbe-million-russische-todesopfer-ld.10063290",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0d06771c7e4854d1",
+   "k": "finanzen",
+   "titel": "PODCAST «NZZ AKZENT» - Börsenskandal in der Türkei: Wie AKP-Insider Milliarden auf Kosten von Sparern machten",
+   "t": "In der Türkei sollen Vertraute des Präsidenten Erdogan Kleinanleger um Ersparnisse gebracht haben. Laut Bericht betrifft der Börsenskandal eine halbe Million Anleger.",
+   "e": "Der Fall gilt für die AKP als eine der größten Krisen ihrer Geschichte und berührt das Vertrauen in den türkischen Kapitalmarkt.",
+   "s": 6,
+   "link": "https://www.nzz.ch/podcast/boersenskandal-in-der-tuerkei-wie-akp-insider-milliarden-auf-kosten-von-sparern-machten-ld.10064537",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "89f4ed22581e28f3",
+   "k": "finanzen",
+   "titel": "Weltweit steigen die Zinsen, nur die Schweiz verharrt bei null Prozent: Wie lange lässt sich die SNB noch Zeit?",
+   "t": "Während viele Notenbanken weltweit die Zinsen anheben, hält die Schweizerische Nationalbank den Leitzins bei null Prozent. Experten sind uneins, wie lange der expansive Kurs noch gerechtfertigt ist.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/wirtschaft/weltweit-steigen-die-zinsen-nur-die-schweiz-verharrt-bei-null-prozent-wie-lange-laesst-sich-die-snb-noch-zeit-ld.10061694",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "cb42b92fb7459c83",
+   "k": "deutschland",
+   "titel": "DER ANDERE BLICK - Brandanschlag auf das Auto des «Nius»-Chefredakteurs Julian Reichelt: Solidarität darf keine Frage der Gesinnung sein",
+   "t": "Das Auto des Chefredakteurs des Portals „Nius“, Julian Reichelt, ist Ziel eines Brandanschlags geworden. Die NZZ kommentiert, dass Presse- und Meinungsfreiheit für alle gelten müssten.",
+   "e": "Ein Brandanschlag auf einen Journalisten berührt die Sicherheit von Medienschaffenden unabhängig von politischer Haltung.",
+   "s": 6,
+   "link": "https://www.nzz.ch/der-andere-blick/brandanschlag-auf-das-auto-des-nius-chefredakteurs-julian-reichelt-solidaritaet-darf-keine-frage-der-gesinnung-sein-ld.10064488",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a2a4f6a2dec8ac33",
+   "k": "welt",
+   "titel": "Der Kanton Wallis hat den Brandschutz vernachlässigt. Nun droht auch noch die Aufarbeitung zu scheitern",
+   "t": "Nach der Brandkatastrophe von Crans-Montana fordert ein Opferanwalt Disziplinarverfahren gegen rund zwanzig Behördenvertreter. Eine wichtige Frist könnte Anfang Januar ablaufen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/schweiz/katastrophe-von-crans-montana-opfer-anwalt-warnt-vor-verjaehrung-fuer-kantonale-amtstraeger-ld.10062877",
+   "quelle": "NZZ",
+   "zeit": "2026-11-16T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f9a1bff45dcc83f",
+   "k": "usa",
+   "titel": "US-Kongresswahlen erschüttern MAGA-Bewegung: Trumps Schar an Influencern vor dem Umbruch - Frankfurter Rundschau",
+   "t": "Die US-Kongresswahlen setzen die MAGA-Bewegung unter Druck, die stark von Trump-nahen Influencern geprägt ist.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOS1EUW5JTDhpVG1zT09rUTFFY0FfRF9EVmxQdlBwZmxTY3FHSkhZbmRJTTZiZllRT3FVV1ZBTl9BakllUDVoWG1sTng0V3RwWEREMjdsVndUbE9OSUVJMFBja21JdHJ0dFFNUHZwVnhtWUZGT1NKVGR4UkliTG1IVldGaDBfQmthbFhTSjFpdlVESHpaN1dTXzNMS3NWYUhUbVpUQll0MGdLT1ZMaHlOdE95OTRPQkZoUkNzeVE3a05rVms?oc=5",
+   "quelle": "Frankfurter Rundschau",
+   "zeit": "2026-11-16T04:19:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "a877b375b878eddf",
+   "k": "finanzen",
+   "titel": "Börse Asien: Asiens Börsen geben nach – Nvidia-Zahlen und Anthropic-Börsengang im Blick",
+   "t": "Vor den Quartalszahlen von Nvidia und dem Börsengang von Anthropic in den USA richten Asiens Anleger den Blick auf den Techsektor. Nvidia steht ohne Chef Jensen Huang im Fokus.",
+   "e": "Der Börsengang eines großen KI-Unternehmens und die Nvidia-Zahlen gelten als Stimmungsbarometer für den KI-Sektor.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-asien-asiens-boersen-geben-nach-nvidia-zahlen-und-anthropic-boersengang-im-blick/100270076.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T04:07:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "7da00f8203c489dc",
+   "k": "deutschland",
+   "titel": "Bundesverfassungsgericht: Neue Regeln für TV-Verträge – Karlsruhe spricht Urteil",
+   "t": "Das Bundesverfassungsgericht verhandelt über neue Regeln für TV-Verträge, nachdem der Fernsehanschluss seit zwei Jahren nicht mehr über die Nebenkosten abgerechnet werden darf.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundesverfassungsgericht-neue-regeln-fuer-tv-vertraege-karlsruhe-spricht-urteil/100270079.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T04:00:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "a2f764fc605847b9",
+   "k": "nrw",
+   "titel": "Neuer Runderlass zu dauerkranken Beamten: So schärft NRW die Regeln nach - WAZ",
+   "t": "NRW verschärft mit einem neuen Runderlass die Regeln für dauerkranke Beamte.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmp3bVd1WnM5LUlXd3FyTDZVaFljMGo3djJZdVZLMzdxS1VYaTRpcFNTY3UzekhFeGU0ZHZCR19jTXFiR2l0ck5nMVlMbFBRT0hxOTJVcS1DSk1tTFBWaFo3QXhXcVVxS3ZNTE9uVG5Nb3lHejdOVTFqZDI5Z29jOFFTS0JtdTM1d0hnQnRwYzBUVmxpLVFtU2VBQmtHNHV4U01MdUg5Tll1U2poemQ2VUJGdndhZHZJMlBKYjln?oc=5",
+   "quelle": "WAZ",
+   "zeit": "2026-11-16T04:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "aadb6fa5b623d2ee",
+   "k": "finanzen",
+   "titel": "Studie: Industrie steigert Umsatz – doch 140.000 Jobs fallen weg",
+   "t": "Die deutsche Industrie hat im dritten Quartal in Folge ihren Umsatz gesteigert, unter anderem getragen vom KI-Boom. Gleichzeitig fallen laut Studie rund 140.000 Stellen weg.",
+   "e": "Umsatzwachstum bei gleichzeitigem Stellenabbau zeigt, dass die Erholung in der Industrie ungleich verteilt ist.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T03:49:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "0df038a68746919c",
+   "k": "deutschland",
+   "titel": "Brodeln in der Partei: Gründungsmitglieder des BSW fordern Distanz zur AfD",
+   "t": "Gründungsmitglieder des BSW fordern nach Abstimmungen mit der AfD im Landtag von Sachsen-Anhalt Distanz zur AfD. In der Partei wächst die Sorge vor einem Rechtsruck.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/brodeln-in-der-partei-gruendungsmitglieder-des-bsw-fordern-distanz-zur-afd/100270072.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T03:30:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "70050ba6bdcab055",
+   "k": "finanzen",
+   "titel": "Silberpreis-Prognose: XAG/USD erreicht angesichts der hawkishen Fed-Stimmung Jahrestiefs unter 47,50 US-Dollar - TradingView",
+   "t": "Der Silberpreis ist unter 47,50 US-Dollar auf ein Jahrestief gefallen, belastet durch eine hawkische Stimmung der US-Notenbank Fed.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZUmV4T3dXTzVFZHZUM29MU200VHVPajdpUEh2TDZWOUxPRVRrTFFobGt4YjNGaXRxNlFHbUpKZFJDTjdfMjV1SkUxeUdPSF82SXd4WXVoc3lnNWh1cm1EbmtmSmxnVjBM?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-16T03:11:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9917f94319cc709f",
+   "k": "welt",
+   "titel": "Drogenboot: Tauchboot mit mehreren Tonnen Kokain im Atlantik versenkt",
+   "t": "Verdächtige haben nach Behördenangaben ein Halbtauchboot mit mehreren Tonnen Kokain im Atlantik versenkt. Sie reagierten damit auf einen Einsatz der französischen Marine, die 146 Kilo Kokain sicherstellen konnte.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/tauchboot-mit-mehreren-tonnen-kokain-im-atlantik-versenkt-accg-201686074.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-16T03:02:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5c449c0cfd6a56b",
+   "k": "welt",
+   "titel": "In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression",
+   "t": "US-Präsident Trump hat auf den Philippinen einen Verbündeten getroffen, der sich gegen chinesische Aggression im Südchinesischen Meer wehrt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/asia/in-the-philippines-trump-checks-in-with-an-ally-resisting-chinese-aggression-24143b14?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-16T03:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5d4f1ce904ca7256",
+   "k": "deutschland",
+   "titel": "Migrationspolitik: „Versuch der taktischen Mäßigung ist gescheitert“ – AfD-Abschiebestreit verschärft Verbotsdebatte",
+   "t": "Im Streit in der AfD über den Begriff „Remigration“ wächst die Sorge vor einer weiteren Radikalisierung. Politiker anderer Parteien fordern Konsequenzen und verweisen auf die Verbotsdebatte.",
+   "e": "Der Streit beeinflusst die Diskussion über ein mögliches Verbotsverfahren gegen die Partei.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-afd-abschiebestreit-verschaerft-verbotsdebatte/100270034.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T02:59:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "dcd9de03d31de399",
+   "k": "welt",
+   "titel": "Verteidigung: Staaten planen bei UN-Konferenz Vorstoß gegen Killerroboter",
+   "t": "Bei einer UN-Konferenz in Genf beraten Staaten über Regeln für autonome Waffen. Die technische Entwicklung schreitet schneller voran als die Regulierung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/verteidigung-staaten-planen-bei-un-konferenz-vorstoss-gegen-killerroboter/100269219.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-16T02:55:09+00:00",
+   "tag": null
+  },
   {
    "id": "bc2bcae0377403a1",
    "k": "deutschland",
@@ -462,6 +678,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMm9vTG5QUHZwU2xZdkxuNEtWbV9qZU1aWXRHQnlETVJNU0RqZ1dhQ2xlaW1wUmY4dkszODNDbzg1VDAxX2x1eWtrRk5wUmRrR0dlczdKSXZQdm92UDhrRS1hUkQ1bnJyRVlKd1hvMHI2UFhCcGNsbzYwSzc2VlhlY2ZjNmI4RUs0S2gwLWtLcHZubTJyLV9WVjNuWktTTnZWTkIyVUdyNHJtdWJFaDlSaTJ2WUo5WHcyMUdBWllJSTNFZkhZT1M4THI1aENiWDNTMXc?oc=5",
    "quelle": "News.de",
    "zeit": "2026-11-15T20:47:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "67f67069c9963ef7",
+   "k": "nrw",
+   "titel": "NRW: AfD erstmals zweitstärkste Kraft - WEB.DE",
+   "t": "Laut einer Umfrage wäre die AfD in Nordrhein-Westfalen erstmals zweitstärkste Kraft. Es handelt sich um eine Befragung, kein Wahlergebnis.",
+   "e": "Ein Umfragewert auf Platz zwei in NRW wäre ein Novum und würde die politische Landschaft im Land verschieben.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTlDZVZQbFNGOWtHNzVYWHJxSm5OazI5N3MxcTF0alMyalZJUFFBaWJwT2JJQ1NzOEJYWTBkM0pVaFpDXzJIRVJqc0dMQzJzN2V2NzFtTVZ4Wl9ZeFpkM1hfcHhNUnNaOE1jVzl0S0tUZFBzWkViNDFIQmVSRnZMdlFNZXk4cnJyRVJCUE9n?oc=5",
+   "quelle": "WEB.DE",
+   "zeit": "2026-11-15T20:33:39+00:00",
    "tag": null
   },
   {
@@ -1254,6 +1482,18 @@
    "link": "https://www.faz.net/aktuell/politik/ukraine/oesterreichs-aussenministerin-meinl-reisinger-im-interview-accg-201681327.html",
    "quelle": "FAZ",
    "zeit": "2026-11-15T13:58:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "ed156b25daf9282c",
+   "k": "welt",
+   "titel": "Trump, Putin und Xi an einem Tisch: Weißes Haus bestätigt Dreiergipfel in China - RND.de",
+   "t": "Das Weiße Haus hat einen Dreiergipfel von Trump, Putin und Xi Jinping in China bestätigt. Auf der Agenda stehen laut Berichten Nichtverbreitung von Atomwaffen, der Nahost-Krieg, Handelsfragen und möglicherweise der Ukraine-Krieg.",
+   "e": "Ein Treffen aller drei Staatschefs wäre ein seltener Schritt mit Folgen für Sicherheitspolitik und Handel, auch für Europa.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDN3Q1kyNVhRM3VxZVdMWkloRzNQSUlmMWdsSHR4Y3I3Q3dsWXZOYVNyRkpJX0R6WnhGV09aNHNIWkhpM3c3VkJFMGphYkJhbTNibk9pSkNuNUNPd2VyRWQySEhjcmR1R1VmSS1reUUxbFBMWWJOTldZZnNPOVN4UlE5RGRkb2hDVDdWTThKYkRjaExVWml1UzR4aUt1WjdCajFMdFBpS0Y2YjNXT1U1cmx1aVFDNURqd2ZRT05KOHhwTEF0VGxxM2NuM21ONjVLbzVBMw?oc=5",
+   "quelle": "RND.de",
+   "zeit": "2026-11-15T13:51:00+00:00",
    "tag": null
   },
   {
@@ -2839,246 +3079,6 @@
    "quelle": "Sada Elbalad English",
    "zeit": "2026-11-14T21:45:06+00:00",
    "tag": null
-  },
-  {
-   "id": "e2c9e14c9fd60f22",
-   "k": "welt",
-   "titel": "SpaceX fängt zweite Stufe des Starship erstmals erfolgreich auf",
-   "t": "Die zweite Stufe der Starship-Rakete von SpaceX ist bei ihrem 15. Testflug erstmals am Startturm in Texas mit Greifarmen aufgefangen worden. Sie kehrte rund 20 Stunden nach dem Start kontrolliert zurück.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/vermischtes/article6af8d2bd9849eea0701e318d/raumfahrt-spacex-faengt-zweite-stufe-des-starship-erstmals-erfolgreich-auf.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T21:37:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "e81c3f8e06acb815",
-   "k": "finanzen",
-   "titel": "NEAR gibt nach überraschend hoher US-Inflation und Fed-Warnungen nach, die die Krypto-Nachfrage dämpfen - Traders Union",
-   "t": "Der Kurs der Kryptowährung NEAR gibt nach, nachdem die US-Inflation überraschend hoch ausfiel und die Fed vor Zinserhöhungen warnte.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGxLenlGOUp4VV9kS0JjcGdJWTgzQ25ZNWc4WGFyM1dYcXNoOU16cGNsdFFqRkpuZjRXRnNHcDh0emprT3ZONGgtYjFuT2FfNzE0dWl3Q0xmZURjLUttdHMtNHREZkNvbWpTSnM1U01vR1hVYmlqWU5NZXBfYm5pc09MWEZPb3J6NGMtRXJObU0wOU9wZ0VZTg?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-14T21:35:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "b67121f9b75580a3",
-   "k": "deutschland",
-   "titel": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-   "t": "In Berlin haben Hunderte Menschen an einer \"Gen Z regelt\"-Demo teilgenommen. Themen waren unter anderem marode Schulen, die Wehrpflicht sowie Kürzungen im Hochschul- und Sozialbereich. Mehrere Personen wurden festgenommen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T21:31:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "a404527dbe2e22f7",
-   "k": "finanzen",
-   "titel": "Festgeld bis 3,81 Prozent: EZB hält Zinsen, Lagarde kündigt Rücktritt zum Februar an - Netz Trends",
-   "t": "Die EZB hat die Zinsen unverändert gelassen. EZB-Präsidentin Christine Lagarde kündigte an, zum Februar zurückzutreten.",
-   "e": "Mit dem Wechsel an der Spitze der EZB rückt die Nachfolge in den Fokus der Geldpolitik im Euroraum.",
-   "s": 9,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEFGQkF5V3U0T292QTZqU0x2aDVZSFZhNFBKeEtuX0ZWRGdtMnh3a3pUbEppN0haYlhQWnozeXFhalE3N1hLcUVBczZyelVRQy1FTGYyd2JpbThGYVFtejZCZ3FtUGZQWmZHR242OUt2MWZjZnl6cC1Kbm94aUdkRElqU3dPczBvS1k2c1dqRDBJaWhpcGNpSVZjRS1zaTc3ZWJPMXNiOUxiMFRpT3cwc3BXaw?oc=5",
-   "quelle": "Netz Trends",
-   "zeit": "2026-11-14T21:23:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0167520fbc2e96cb",
-   "k": "welt",
-   "titel": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
-   "t": "Die USA haben der Ukraine einen NATO-Beitritt angeboten, verbunden mit einem Verzicht auf Gebiete. Die ARD berichtet aus Kiew.",
-   "e": "Das Angebot betrifft direkt die Verhandlungen über einen Frieden und die künftige Sicherheitsarchitektur in Europa.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1684012.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T21:20:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "2282079105748afd",
-   "k": "finanzen",
-   "titel": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion - AgroLatam",
-   "t": "Steigende Leitzinsen der Fed setzen laut Bericht die Margen der US-Landwirte unter Druck, während die Agrarschulden auf 605 Milliarden Dollar gestiegen sind.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeVIwRHdsY045UWNkZThtVkhWb2QwWVhVSlVFaUM1TTRCV1dNRVh5ZDJEV1JqZnNGYlBlam5sS2RhVkJ1dWUwTVhLRmNfdEpUeDVpVldtcDZibUJ5eHdOUTVOa0U3eTBpSFlQaGpVSVZoXzZMUGtjelBHQQ?oc=5",
-   "quelle": "AgroLatam",
-   "zeit": "2026-11-14T21:04:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb6175b1b5579b3f",
-   "k": "finanzen",
-   "titel": "Sind Andermatt und Crans-Montana Millionengräber? Vail-Resorts-Aktionäre rebellieren und werfen dem Unternehmen Missmanagement vor",
-   "t": "Aktionäre des US-Skikonzerns Vail Resorts werfen dem Unternehmen Missmanagement vor. Der Börsenwert hat sich in fünf Jahren halbiert, und Expansionspläne in Europa scheitern.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.nzz.ch/wirtschaft/sind-andermatt-und-crans-montana-millionengraeber-vail-resorts-aktionaere-rebellieren-und-werfen-dem-unternehmen-missmanagement-vor-ld.10060999",
-   "quelle": "NZZ",
-   "zeit": "2026-11-14T20:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c5da3675fd7053e6",
-   "k": "finanzen",
-   "titel": "Warnungen vor Fed-Zinserhöhungen verschärfen das Risikoumfeld für Stellar, während Anleger die politische Unsicherheit abwägen - Traders Union",
-   "t": "Für den Kurs der Kryptowährung Stellar werden Warnungen vor Fed-Zinserhöhungen und politische Unsicherheit als Belastung genannt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGZYd2JXcElYQTQ1WW9iVXMtRkROWlI5cGFBN0MyczNrcjRJQnZiUDBOZmZsQlBtcGlyc1dKTUtYMUFrR3NrTlVIdHJYWl9iLVNCdGp2WGhUUW9WeDFXdVk2M3llQUpnU1NHYnVSdzVlaUYyTkR5WmNIV3FyR1kxOUo2SThKTmhvU003Z3NjZmduVmw3X3pEeA?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-14T20:34:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "4b003f404c6b74c2",
-   "k": "nrw",
-   "titel": "Warnung vor Glätte und gefrierendem Regen– dann schlägt das Wetter in NRW um - Come-on",
-   "t": "Vor Glätte und gefrierendem Regen wird in NRW gewarnt. Am Sonntag bringt das Wetter Regen mit Glättegefahr.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDVZc3B5TjlxZy12aTk5eVFlQkRnOGp6V09GZVgtYVVzbWlyUzdJRHVacTdZVlowMnh2eVBuMGxYM1QtT1RYeWd2Z0FwQTVmOTFLeUp3NFpHSDBaNkR4djJmVE5TaXRxdURCWFlfeHEyZG51SWo0MUtPZGVUTENLT2dyRXVRTzNzSjRTYmQ4b183akg1aVRJa0t1dmwwSUU5azZaU2pIY3EtaVN3UWs4NXJmZnl1eVBOb1J5OER1enZ2V1A4bVZkMjhsb3dEWUs5a2Zr?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-14T20:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5c6559f725ef73d6",
-   "k": "usa",
-   "titel": "Midterm Democratic blowout scrambles field of 2028 White House hopefuls",
-   "t": "Der Demokrat Jon Ossoff hat seine Wiederwahl im Senat deutlich gewonnen. Damit gilt er nun als Favorit auf die Nominierung für die Präsidentschaftswahl 2028.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/14/us-news/midterm-blowout-fuels-jon-ossoff-aoc-runs-and-scrambles-gop-field/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-14T20:27:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "0531ab63e05a5e57",
-   "k": "deutschland",
-   "titel": "Nach muslimischer Kritik – Verfassungsschutz beendet Kampagne gegen Islamismus",
-   "t": "Der Verfassungsschutz Bremen beendet seine Kampagne gegen islamistische Unterwanderung, die seit dem 4. November lief. Innensenatorin Eva Högl stoppte sie nach knapp zwei Wochen, nachdem es Kritik aus muslimischen Kreisen gab.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6af8bfe99849eea0701e30d0/bremen-nach-muslimischer-kritik-verfassungsschutz-beendet-kampagne-gegen-islamismus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T20:22:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4ce92dc7c23ec78",
-   "k": "nrw",
-   "titel": "Iserlohner Gesundheitstag 2026: Die schönsten Fotos aus dem Parktheater - IKZ-Online",
-   "t": "Der Iserlohner Gesundheitstag 2026 fand im Parktheater statt; die IKZ zeigt Fotos der Veranstaltung.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWVCQnVqOUpubDgteHl1cTcwM01sN3VndmJaTW5Hd2tXaWpPRE9mWjd4S1Q3bTliNmdQUXdWeXBoYnd1TWJ6MlRyZXQzQXJsbWJialZITjE2aWpTV21fb2VhM3hwZUtXb2pVeTBKUW5SUlhyN01IVnVZZHAzLUpYT1pFV3hYcm9ydUFtYl9ZdXotSzJiM1ZjcFhLNENoX2lVZEZBcmI3NXFDZ1VLcGpxWE1OWnNRU3pIaDMxamlQMHVCaEIwMzFyZllRTHc0dDJjOGc?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-14T20:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a98d96c69e8437d",
-   "k": "usa",
-   "titel": "Christian Schools, Big Universities Try to Fight Race-Discrimination Rule",
-   "t": "Christliche Schulen und große Universitäten wehren sich gegen einen Vorschlag der IRS. Dieser würde der Regierung erlauben, die Steuerbefreiung von Schulen zu entziehen, die Bevorzugung nach Hautfarbe praktizieren.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/us-news/education/christian-schools-big-universities-try-to-fight-race-discrimination-rule-57e554e2?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-14T20:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b911ec3df4cc3150",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Rollator in Altenheim fängt Feuer - zwei Verletzte - n-tv.de",
-   "t": "In einem Altenheim in Nordrhein-Westfalen hat ein Rollator Feuer gefangen. Zwei Menschen wurden verletzt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUQwS0d4blp5cjRfdmJBdUpoQTV6N2xCVkNXQlNTcXpfTlpUN19ORU5tYWhHalB3NVdBZXRycnNJSkV6LUVtOTJEVXZsTHFoTEFQaURKWTJLdEFXeGx4OU12Z0FPaFBZSEJNQ05CUm9xaWVBUlBEYUhEbTM0dkljcGdwRlpYbzRyMFlfdzB2bG1xWXVRemNjaThiTXB6d3ZUd1R1NGlBTzFrTDVBdlRyb0hVMTY5UTQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-14T19:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0381902c2d456b40",
-   "k": "deutschland",
-   "titel": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
-   "t": "Kassenärzte-Chef Andreas Gassen hält es wegen geplanter Honorarkürzungen für wahrscheinlich, dass Patienten Facharzttermine selbst bezahlen. Dafür erntet er deutliche Kritik.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-14T19:45:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "54a77814354f878c",
-   "k": "welt",
-   "titel": "Korruptionsvorwürfe gegen Minister von Orbán – Ermittler finden Millionen Euro vergraben im Wald",
-   "t": "In Ungarn haben Ermittler der Anti-Korruptions-Behörde 17,7 Millionen Euro Bargeld vergraben im Wald und in weiteren Verstecken gefunden. Der frühere Minister Miklos Sesztak soll das staatliche Busunternehmen Volan um Dutzende Millionen Euro geschädigt haben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6af8b5b3e4b0d5b0f1def4f1/ungarn-korruptionsvorwuerfe-gegen-minister-von-orban-ermittler-finden-millionen-euro-vergraben-im-wald.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-14T19:42:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "65ea7f20242b82ae",
-   "k": "finanzen",
-   "titel": "Prognosemärkte: Wetten auf Maduro, Sweeney und den Superbowl: Wer kontrolliert das?",
-   "t": "Prognosemärkte bieten Wetten auf Ereignisse wie Wahlen oder Sportereignisse an. Ein Urteil des Obersten Gerichtshofs der USA könnte ihre Regulierung maßgeblich beeinflussen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kalshi-vor-dem-supreme-court-sind-prognosemaerkte-sportwetten-accg-201602373.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-14T19:36:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "683015c4b69bd15d",
-   "k": "usa",
-   "titel": "Inside the California GOP civil war after crushing midterm wipeout",
-   "t": "Die Republikaner in Kalifornien streiten sich nach deutlichen Verlusten bei den Midterms intern. Es gibt Führungswechsel und Streit um Finanzen.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/14/us-news/inside-california-gop-turmoil-following-midterm-losses/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-14T19:31:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "7aed2283b994104e",
-   "k": "usa",
-   "titel": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
-   "t": "Der landesweite Flugausfall in den USA wird laut Behörden auf Routinearbeiten zum Austausch von Kupferkabeln zurückgeführt. Der Auftragnehmer L3Harris soll einen fehlerhaften Router installiert oder inkompetent gehandelt haben. Die Airlines arbeiten an der Wiederherstellung des Betriebs.",
-   "e": "Der Ausfall zeigt die Anfälligkeit kritischer Infrastruktur, die Fluggesellschaften müssen mit weiteren Kosten und Ausfällen rechnen.",
-   "s": 6,
-   "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-14T19:24:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f279207186e041fe",
-   "k": "usa",
-   "titel": "Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race",
-   "t": "Die Demokratin Mary Peltola hat den Sieg im Senatsrennen in Alaska erklärt. Sie liegt nahe 50 Prozent und hat ihren Vorsprung gegenüber dem republikanischen Amtsinhaber Dan Sullivan ausgebaut.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/14/us-news/alaska-democrat-mary-peltola-declares-victory-in-us-senate-race/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-14T19:21:17+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3091,12 +3091,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3121,7 +3121,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "NZZ",
@@ -3136,12 +3136,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "WSJ USA",
@@ -3176,22 +3176,22 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 31
+    "n": 28
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "Google News NRW",
@@ -3201,17 +3201,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 24
+    "n": 29
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 9
+    "n": 12
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 24
+    "n": 27
    }
   ],
   "markt": [],
