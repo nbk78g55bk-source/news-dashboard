@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-16T19:01:34.576082+00:00",
+ "aktualisiert": "2026-11-16T21:01:32.376909+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.998 $",
-   "delta": 0.41172364549039314
+   "wert": "64.944 $",
+   "delta": -0.20925121820194814
   },
   {
    "name": "Ethereum",
-   "wert": "1.820 $",
-   "delta": 0.1899266316975714
+   "wert": "1.818 $",
+   "delta": -0.376856652175943
   },
   {
    "name": "Gold",
-   "wert": "3.857 $",
-   "delta": -0.7513585791434241
+   "wert": "3.855 $",
+   "delta": -0.8028214094671693
   },
   {
    "name": "EZB Zins",
@@ -3090,17 +3090,17 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,17 +3115,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "NZZ",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "CNBC Finance",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 19
+    "n": 21
    },
    {
     "name": "WSJ USA",
@@ -3180,12 +3180,12 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 23
+    "n": 26
    },
    {
     "name": "Google News Iserlohn",
@@ -3210,12 +3210,13 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
