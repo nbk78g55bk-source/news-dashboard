@@ -1,50 +1,45 @@
 {
- "aktualisiert": "2026-11-17T11:01:36.228178+00:00",
+ "aktualisiert": "2026-11-17T13:01:54.225346+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,64 €",
-   "delta": -1.0271252477975668
+   "wert": "128,90 €",
+   "delta": -0.8309336817075907
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,56 €",
-   "delta": -1.7282582474907437
+   "wert": "43,78 €",
+   "delta": -1.211584795811882
   },
   {
    "name": "Deka S&P 500",
-   "wert": "140,03 €",
-   "delta": -1.017884504331501
+   "wert": "140,36 €",
+   "delta": -0.7846195031633862
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "175,68 €",
-   "delta": -0.9472263219272303
+   "wert": "176,04 €",
+   "delta": -0.7442493266852868
   },
   {
    "name": "Deka DAX",
-   "wert": "230,40 €",
-   "delta": -0.8392537345778495
+   "wert": "230,60 €",
+   "delta": -0.7531766978891241
   },
   {
    "name": "Bitcoin",
-   "wert": "64.039 $",
-   "delta": -0.783747462294372
+   "wert": "65.003 $",
+   "delta": 1.41257815323806
   },
   {
    "name": "Ethereum",
-   "wert": "1.787 $",
-   "delta": -1.1924607041705202
+   "wert": "1.821 $",
+   "delta": 1.313415451265765
   },
   {
    "name": "Gold",
-   "wert": "3.858 $",
-   "delta": 0.12457825071372497
-  },
-  {
-   "name": "EZB Zins",
-   "wert": "2,50 %",
-   "delta": null
+   "wert": "3.862 $",
+   "delta": 0.24137036075786433
   },
   {
    "name": "Fed Funds",
@@ -80,6 +75,294 @@
   ]
  },
  "items": [
+  {
+   "id": "24fe5ddef0176e12",
+   "k": "deutschland",
+   "titel": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
+   "t": "Die Bundesregierung kauft nach Angaben aus Berlin Flugabwehrraketen aus den USA für die Ukraine. Kiew droht angesichts massiver russischer Angriffe ein harter Winter.",
+   "e": "Die deutsche Unterstützung für die Flugabwehr richtet sich auf die Lage vor dem Winter, die Beschaffung erfolgt in den USA.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-17T12:57:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "23d1d7ad70a440f1",
+   "k": "finanzen",
+   "titel": "Herbstprognose: Brüssel senkt Wachstumsprognose für Frankreich",
+   "t": "Die EU-Kommission hat ihre Herbstprognose veröffentlicht: Das Wachstum für Frankreich wird gesenkt, Deutschland wächst stärker als erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-kommission-senkt-wachstumsprognose-fuer-frankreich-deutlich-accg-201690022.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-17T12:57:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "ca47367f10338f8b",
+   "k": "finanzen",
+   "titel": "EU-Kommission verdoppelt Prognose für Deutschland",
+   "t": "Die EU-Kommission hebt ihre Konjunkturprognose für Deutschland stark an, vor allem wegen kräftiger Exporte. Die Inflation dürfte hartnäckig bleiben.",
+   "e": "Die höhere Prognose bei anhaltender Inflation ist für die Zinserwartungen der EZB relevant.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-17T12:42:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "66575edfab8d6e08",
+   "k": "deutschland",
+   "titel": "Koalitionsausschuss ringt um Stromsteuersenkung",
+   "t": "Der Koalitionsausschuss ringt um die geplante Senkung der Stromsteuer.",
+   "e": "Die Stromsteuer beeinflusst Strompreise für Haushalte und Industrie.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1685112.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-17T12:34:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "9b4d29536ecb1fb1",
+   "k": "finanzen",
+   "titel": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
+   "t": "Fondsmanager haben ihre Technologie-Übergewichtungen laut Bericht so stark reduziert wie seit zwei Jahrzehnten nicht mehr, die Cash-Quoten bleiben sehr niedrig.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-17T12:28:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6e66cd4ae06c5b42",
+   "k": "deutschland",
+   "titel": "Wer führt künftig die SPD?: Franziska Giffey will nicht für den SPD-Vorsitz kandidieren",
+   "t": "Franziska Giffey will nicht für den SPD-Vorsitz kandidieren und kann sich Hubertus Heil als neuen Vorsitzenden vorstellen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/wer-fuehrt-kuenftig-die-spd-franziska-giffey-will-nicht-fuer-den-spd-vorsitz-kandidieren/100270581.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-17T12:25:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "22db98308e4fb370",
+   "k": "welt",
+   "titel": "Putins Prestigebau in Trümmern: Mit dem Angriff auf die Krim-Brücke gelingt der Ukraine ein spektakulärer Erfolg",
+   "t": "Die Ukraine hat die Kertsch-Brücke zur Krim angegriffen, laut Berichten ist ein Teil der Brücke beschädigt. Die Angriffe erfolgten an zwei aufeinanderfolgenden Tagen.",
+   "e": "Die Brücke ist ein symbolträchtiges Ziel mit Bedeutung für die Versorgung der besetzten Krim.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/angriff-auf-putins-prestige-bruecke-symboltraechtiger-erfolg-fuer-kiew-ld.10066135",
+   "quelle": "NZZ",
+   "zeit": "2026-11-17T12:25:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "c432808565a2f1e7",
+   "k": "finanzen",
+   "titel": "Revolut plans four blockchain-based funds for private markets, chair says",
+   "t": "Revolut-Chef Martin Gilbert kündigt vier blockchainbasierte Fonds für private Märkte an, um Liquidität zu verbessern.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-17T12:24:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "207a3d55f67835c0",
+   "k": "deutschland",
+   "titel": "Wie Björn Höcke die Geschichte umdeutet",
+   "t": "Der AfD-Politiker Björn Höcke verbreitet laut Welt widerlegte Zahlen zu deutschen Opfern im Zweiten Weltkrieg und erwähnt die NS-Verbrechen nicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/plus6afb1a518c74195fa20c33cd/rede-am-volkstrauertag-wie-bjoern-hoecke-die-geschichte-umdeutet.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-17T12:20:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "1d13aa1f5b8f38a4",
+   "k": "welt",
+   "titel": "Trump Returns to World Stage After Midterm Setback",
+   "t": "US-Präsident Trump reist nach den Verlusten bei den Midterms nach Asien, Verbündete und Rivalen beobachten, wie er seine Macht außenpolitisch einsetzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-17T12:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "59dc284830012f36",
+   "k": "deutschland",
+   "titel": "Finnischer Präsident Stubb: Mit großen Egos weiß er umzugehen",
+   "t": "Finnlands Präsident Alexander Stubb ist zu Gast bei Bundeskanzler Merz.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/finnischer-praesident-stubb-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-17T12:15:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c1ef7e8c246b1da",
+   "k": "finanzen",
+   "titel": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+   "t": "Disney übertrifft laut Bericht die Gewinnerwartungen für das vierte Quartal und will durch Kostensenkungen 3 Milliarden Dollar sparen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-17T12:14:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "01af106d69520fc1",
+   "k": "finanzen",
+   "titel": "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
+   "t": "Europäische Regierungen stehen laut WSJ kurz vor einer Einigung auf den spanischen Ökonomen Pablo Hernández de Cos als Nachfolger von Christine Lagarde an der EZB-Spitze. Eine deutsch-französische Vereinbarung soll den Weg ebnen.",
+   "e": "Die Besetzung der EZB-Spitze ist für Zinskurs und Glaubwürdigkeit der Notenbank im Euroraum entscheidend.",
+   "s": 8,
+   "link": "https://www.wsj.com/world/europe/european-leaders-near-deal-to-pick-spanish-economist-as-next-ecb-president-62cc0c92?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-17T12:11:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "628346889aa7e523",
+   "k": "finanzen",
+   "titel": "Der Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen. Das sollten Anleger über das Ereignis des Jahres wissen",
+   "t": "Die Aktien des KI-Unternehmens Anthropic sollen ab Donnerstag an der Nasdaq gehandelt werden, auch europäische Anleger erhalten Zugang.",
+   "e": "Der Börsengang im KI-Sektor kann die Stimmung im Techsegment und die Bewertungsmaßstäbe beeinflussen.",
+   "s": 7,
+   "link": "https://www.nzz.ch/wirtschaft/der-boersengang-der-ki-firma-anthropic-koennte-alle-rekorde-brechen-das-sollten-anleger-ueber-das-ereignis-des-jahres-wissen-ld.10065643",
+   "quelle": "NZZ",
+   "zeit": "2026-11-17T12:09:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "65047d2bef1bd6a4",
+   "k": "finanzen",
+   "titel": "Nike hosts first investor day in 9 years as it tries to rightsize its business",
+   "t": "Nike hält seinen ersten Investor Day seit neun Jahren ab und will seine Restrukturierung erläutern.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-17T12:00:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "7cd97c714f8a50bf",
+   "k": "usa",
+   "titel": "Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit",
+   "t": "Laut WSJ dürfte beim Gipfel zwischen Trump und Xi die Frage der Nvidia-Chips kaum eine Rolle spielen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-17T11:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "266faa9385b8117c",
+   "k": "finanzen",
+   "titel": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+   "t": "Nvidia hat rund zwei Billionen Dollar Börsenwert verloren, Optionshändler preisen vor den Quartalszahlen eine größere Kursbewegung als üblich ein.",
+   "e": "Vor den Zahlen steigt die Nervosität im KI-Sektor, der großen Einfluss auf die Indizes hat.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-17T11:42:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "4abddef8387e0b4d",
+   "k": "finanzen",
+   "titel": "Preisniveau: Der Mindestlohn verschärft die Inflation",
+   "t": "Laut Analyse hat der stark gestiegene Mindestlohn die Preise erhöht, die Kosten werden dabei nach Darstellung nicht von den Unternehmen getragen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/finanzen/mindestlohn-und-inflation-wer-zahlt-wirklich-die-zeche-accg-201672283.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-17T11:30:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "90cffc60520d6567",
+   "k": "nrw",
+   "titel": "Iserlohn: Kunst als eine Art Traumabewältigung - IKZ-Online",
+   "t": "In Iserlohn wird ein Kunstprojekt als Form der Traumabewältigung vorgestellt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUdoeDJVNTNkOVJhVzBDX3VsMFJ1TUd0UTI4R1JWdGI5WUktakVuVHlFMDhFbm1HVHNFT2ljdmFQMVhaSTh1ZU1wMEdpakMwSUpnbmE2STE2UkxBTjMzZTJaTmcxVmNfcUd3X3lwU0FDZVhQcUdaRjZBT0swN0MxclJfTjhrSU9RVWJ6LXJXeVVFSmVobUJxWlRoZTFzcnYwenNNV1RtWGZKRjBSNXJxRg?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-17T11:25:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "4136aae98ace0420",
+   "k": "finanzen",
+   "titel": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+   "t": "Der Bitcoin-ETF von BlackRock beendete eine Serie von elf Tagen mit Abflüssen von insgesamt 2,35 Milliarden Dollar, Analysten sehen darin noch kein klares Erholungssignal.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-17T11:18:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "895a72c6329220c9",
+   "k": "finanzen",
+   "titel": "Wie gefährlich für die Aktien wäre ein grosser Fed-Zinsschritt? - Finanz und Wirtschaft",
+   "t": "Eine Analyse fragt, wie stark ein großer Zinsschritt der Fed die Aktienmärkte belasten könnte.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNelQ4d0d4MWh1VW1RZnJRdDZ5WlNCVWVKVC1LUEZzWUE5cVU3Rk5MRHRKYnNTNWNaNWhGbXhXYW1ILXFZM0hFNTU5S0lfc3JGTFpORWo0UVh5ZUFZNHB2bFBSdzV1RnB6TzE5T3VNUjVFMTBGOVFFY2xUZkR6dWlWaHVhanRscUl6X0RIX1U1dGwySVI5djR4dWJ6Y01NNG1vMGJ5Y1dR?oc=5",
+   "quelle": "Finanz und Wirtschaft",
+   "zeit": "2026-11-17T11:07:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "0d3a14478c8195dc",
+   "k": "nrw",
+   "titel": "U20-Young Roosters rutschen nach Köln-Doppelschlag ans Tabellenende - IKZ-Online",
+   "t": "Die U20 der Young Roosters ist nach zwei Niederlagen gegen Köln ans Tabellenende gerutscht.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNVhpZlNHYXlQUEp0eFMyLWdUMVFJVXBkWl9nZnFDQkNzRlZMQ1hUcGFpZllCZWVSZ1RlTk03Wk5OcEpSWW4yLTNrMUd3VlFKTjN0aVFXSnp5VUhPb3FrakFPN09aSnZpVVFwMk1pUDNCYllHNVZERVVBajlQY0RucXp6bWpNbmZRZXE1Qnlwc1FraDlqdTNvWDFNMW5qZGk1RmZ0VWRHSHZiOXI4MVhFLUhCXzVhMFphaDB0WUhiTHJoS2M0azNCbGlXcmNZaHV3eW1naUEwMTdyUUNxOEVnQ3pWX0lDYmdscG85RGtB?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-17T11:01:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "09b5abbf0898f2b7",
+   "k": "usa",
+   "titel": "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage",
+   "t": "Senator Markwayne Mullin nutzte laut Bericht seinen Regierungsflieger zum LSU-Texas-Spiel, während am selben Tag fast 7.000 Flüge wegen einer FAA-Bodenstopp gestrichen wurden.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/17/us-news/markwayne-mullin-took-his-government-plane-to-lsu-texas-game-as-thousands-were-stranded-in-faa-ground-stoppage/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-17T11:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "fbd335064f8d169f",
+   "k": "nrw",
+   "titel": "Wenn jede Minute zählt: So trainieren Kreis und Kommunen den Krisenfall - Come-on",
+   "t": "Kreis und Kommunen trainieren im Märkischen Kreis den Krisenfall, um Abläufe bei Notlagen zu üben.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSU9IcXFrc1V4dUNpZU4ySFhVeGVJVGU4eER0THlkMUJ4SXFiaGY1ZG1ZcFVtZlVKdUw5ZmRDX0Y2Y3dITVNybDZPcVhkbzMySEVkdXhrMjhTdnNzVVJoalBtaUxBRHVDdlhnLU9KSG5ZdzFvS29TWXZzTkN1LWRoZHlNU0JHUkwwcDdvNVprdF82WXRDa1JRc1dZRDRkX242M0FZWlRpcVNCWXlCOXA3VWhYUDE?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-17T10:57:00+00:00",
+   "tag": null
+  },
   {
    "id": "96192a7d465fe88d",
    "k": "finanzen",
@@ -333,6 +616,18 @@
    "tag": null
   },
   {
+   "id": "ab9f3ea56b113a0a",
+   "k": "nrw",
+   "titel": "Stoppt den Bus-Kahlschlag im Märkischen Kreis! - openPetition",
+   "t": "Eine openPetition wendet sich gegen den geplanten Abbau von Buslinien im Märkischen Kreis.",
+   "e": "Betrifft die Mobilität der Menschen im Kreisgebiet, auch in ländlichen Orten.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWs5WlpWemZXNUhIWHAwcDRocThCRGJYdVA4Y21ZT3ZjYWRvVGtzQlFBaGdXUUlleGtDaFpSX0poeWgtb0p6Yzcyb1pwZFd2a043LVQ1SFVSVERmdmFzSlJON01RYXhITVNoQ1YtNGxkaV9vR01lQnRPb1R3ZnJrWGhHQUk2VmdCbEVjUVpMUU1WWkN2SlFwMmlaSUFTVHctSDlIeEZYZW9rbHdIVWFMWEdIUQ?oc=5",
+   "quelle": "openPetition",
+   "zeit": "2026-11-17T10:01:07+00:00",
+   "tag": null
+  },
+  {
    "id": "1670fc1a29a860ea",
    "k": "finanzen",
    "titel": "Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Bedford Gazette",
@@ -486,6 +781,18 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-steigen-die-flugpreise-im-kommenden-jahr-erneut-deutlich/100265035.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-17T08:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b1a6fba8a3aa0a19",
+   "k": "finanzen",
+   "titel": "Datenleck bei der Deutschen Bank offenbart „problematische Geschäfte“ – Aktie schmiert ab",
+   "t": "Mehrere Medien haben über 15 Millionen interne Dokumente der Deutschen Bank ausgewertet. Laut Berichten ging die Bank Warnungen vor riskanten Geschäften nach, die Aktie gab nach.",
+   "e": "Das Thema betrifft Compliance und Reputation der größten deutschen Bank, der Aufsichtsratschef stellt sich hinter CEO Sewing.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/article6afc0b949893cadb7bd1583d/finanzinstitut-datenleck-bei-der-deutschen-bank-offenbart-problematische-geschaefte-aktie-schmiert-ab.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-17T08:36:57+00:00",
    "tag": null
   },
   {
@@ -1265,6 +1572,18 @@
    "s": 5,
    "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
    "quelle": "Tagesschau",
+   "zeit": "2026-11-17T03:16:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "ac833ff51b66010d",
+   "k": "finanzen",
+   "titel": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+   "t": "Nach dem Abgang von Jensen Huang als Nvidia-CEO wird über einen möglichen Umbruch in der KI-Chipbranche diskutiert. Konkurrenten wie AMD und Qualcomm könnten profitieren.",
+   "e": "Führungswechsel beim wichtigsten KI-Chipkonzern können Marktanteile und Bewertungen in der Branche verschieben.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-chipindustrie-nvidia-100.html",
+   "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-17T03:16:17+00:00",
    "tag": null
   },
@@ -2755,330 +3074,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-16T16:05:30+00:00",
    "tag": null
-  },
-  {
-   "id": "4141a601e0b3e8cb",
-   "k": "welt",
-   "titel": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
-   "t": "SpaceX hat einen weitgehend erfolgreichen Starship-Start absolviert, während ein Partner von Amazon einen Rückschlag erlitt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-16T15:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f51c0aa223511f7c",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gefallen - EZB-Referenzkurs: 1,1014 US-Dollar - MarketScreener Deutschland",
-   "t": "Der Euro ist gefallen; der EZB-Referenzkurs liegt bei 1,1014 US-Dollar.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmhqd1RYQ2lQNkJPSlBONnFDSUtjQkdqXzJQQ3c4TTZtTnVLSDNEZU5oZUk3Smk4c2paeUJXeXNKV2pCRUlsMS1QX0wxRWVVRlE3RlZKUi1mdUp3OE9FR2pLM045dXhRTUZmdmQwMzdlVDdvZEtfNlN3NWlydDFaVHpXTG9TMDczblVQQmxlMUpTc3FrNGV5WldSbC1xNTdVWFV1eDRvTU84dUF4bTB4dHR0ZGZOWC1jTGtDR3ZwNEpJNVU?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-16T15:57:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "e6fd1b73373ddc4a",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Bremecke heute, am 16.11.2026 - News.de",
-   "t": "Auf der A45 bei Lüdenscheid gibt es eine Tagesbaustelle nahe Bremecke.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONG8zTTRRclJ3NnZ4Znk4M3NyR0tPTXhxaDNHRVJoN1M4Yzl3NWdUOUdrVnlkaER6S1dFaDdwTXVpeVFjYXlKM1JVUXotNUlhU3RrcU9VbmR1LUM5b1VjZ2tHSHY4Y0NYUFN4VDFMenpGRXpPbXg2ZTFYb1BORW1DWVpyUmMtM2tTeHRXYU9WNGlLTmxjeWtBYUNzdDNWMFY4LW5CZ2p3TFJ3OVJtRWw0ZGhfMEU2R0xhRTlXdThYcFpTU2V1S1VBcUZBX0IySURkZlFxbVpfbFVmaWlnem9YTDdET3hRV3NtR3VkeFVhWllwVzBwNXc5VXprSjZCTG1sc2k3ZDhrR1NraGpOb0Vxa1gyNzRXM3BrbUFoRExvUWlHeVVuU19BUFcwcHF2V2pnTVM4VUM3RGpZNklK?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-16T15:56:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "ee5fc43b5022baf8",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Bremecke heute, am 17.11.2026 - News.de",
-   "t": "Auf der A45 nahe Bremecke in Lüdenscheid gibt es am 17.11.2026 eine Tagesbaustelle.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQTVdFYVdtaVk5YzBIOThhQ1FBZTNTUkcxU0tlQ3Z6YTVjN1NoNFJmN003T3B6WjVjUVpGcWNfc3FKa3BuY3otM2k1Z2N5bHdKU1FzTGppSmMwTkdWRW1qaFR2VGkyVmU0NTRtendNQnJiem5VTmlsaDd1a09LZXZ3ZWtQNGh3cWhqYWpwdlFfb3N2ZVhLbE9kMVIxUHBrR1g1QU1ZY2lxLXRERUdRVG1hX1RIRmg4ZkV3Qkx4UzZKNzZyV3hsQjQ4dFRDNmVJZ3FKU2xYNXN4eFJmcFpKQ2l1QnJnZUtGaG4wVVoxdG1TcUtYUTY2MzMxdVhISTlqSldUQjNielRIMzlpVlFET1JTTXBLMEppU0Z3VjFDaWlqUk9ham45V3c3bHBTOVpZY2N3Y1BlaFBma3R4WW9DcEE?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-16T15:56:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "d43188b4b76417c2",
-   "k": "finanzen",
-   "titel": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-   "t": "Die brasilianische Zentralbank steht wegen Aussagen zu Geldwäsche über Stablecoins in der Kritik.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-16T15:54:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "9aa8dc21a68b7e31",
-   "k": "finanzen",
-   "titel": "German parliament proposes crypto seizures without criminal charges",
-   "t": "Im Bundestag wird vorgeschlagen, Kryptowerte auch ohne strafrechtliche Ermittlungsverfahren beschlagnahmen zu können.",
-   "e": "Die Änderung würde die Durchsetzungsmöglichkeiten des Staates bei Kryptowerten erweitern und berührt Eigentumsrechte von Anlegern.",
-   "s": 6,
-   "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-16T15:44:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "016241a4cd0c41b7",
-   "k": "finanzen",
-   "titel": "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
-   "t": "Bank-of-Canada-Gouverneur Tiff Macklem verlässt die kanadische Notenbank im Juni. Damit beginnt die Suche nach seinem Nachfolger.",
-   "e": "Die Wahl fällt in eine Phase, in der Kanada seine Abhängigkeit vom US-Handel verringern will.",
-   "s": 6,
-   "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-to-leave-in-june-kicking-off-search-for-new-leader-cbce9e69?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-16T15:38:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "62deea2d68f66523",
-   "k": "usa",
-   "titel": "Trump calls FAA’s nationwide ground stop result of ‘old equipment that had a heart attack’",
-   "t": "Die US-Luftfahrtbehörde FAA hat einen landesweiten Ground Stop verhängt. Trump führt dies auf veraltete Technik zurück.",
-   "e": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/16/us-news/trump-calls-faas-nationwide-ground-stop-result-of-old-equipment-that-had-a-heart-attack/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-16T15:34:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "d3579b517e67e0d5",
-   "k": "usa",
-   "titel": "Trump's immigration olive branch threatens to open Pandora's box as experts warn of far-reaching fallout",
-   "t": "Trump signalisiert eine mögliche Form von Amnestie für Migranten. Einwanderungsexperten streiten über Rechtsstaatlichkeit und die finanziellen Folgen einer Legalisierung.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/trumps-immigration-olive-branch-threatens-open-pandoras-box-experts-warn-far-reaching-fallout",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-16T15:28:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "5eb1427a577c0518",
-   "k": "finanzen",
-   "titel": "Devisen: Eurokurs gefallen - EZB-Referenzkurs: 1,1014 US-Dollar - 16.11.26 - News - Ariva",
-   "t": "Der EZB-Referenzkurs für den Euro liegt am 16.11. bei 1,1014 US-Dollar.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFliVlpQZzl3bHRDUmowZEUyQ25OWjFJSk9KUmVVMzZvbm53Rkpwb3cxVXhCQzNKQmhVX0t6dUItUmRHUlpCSFhrNmc4b2hGaDhkTUd1YW9zQ2NqbEl2ekE0LVRYWEdjbFp3M3BzbExURWhpSUJiSE9vMUw5aUlIWGZfM015djhsNzEzUw?oc=5",
-   "quelle": "Ariva",
-   "zeit": "2026-11-16T15:18:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "2fd98153d2d34653",
-   "k": "finanzen",
-   "titel": "EZB warnt vor Boom bei KI-Aktien: Eurozone riskiert abrupte Neubewertung und Verluste - Euronews",
-   "t": "Die EZB warnt in einem Bericht vor einem Boom bei KI-Aktien. Die Eurozone koennte bei einer abrupten Neubewertung hohe Verluste erleiden.",
-   "e": "Warnungen der Notenbank vor ueberhitzten Bewertungen sind fuer Anleger im KI-Segment ein wichtiges Signal, ohne dass daraus eine konkrete Prognose folgt.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEZqRldZSkM4ZEVwaUpSaHVuMmJzZkwyandVWUY5WXZUcDYwNzFxVi1RTHVEbUM2YnFQWmgzNzdua2VvcS1fUzlaRDFaODVDSWJHdmFSUEdMSWFZTGtaNlg1S2s3ZjZqLVhfbW95ZlFuckhBbzFMMnBFOS1fNnR4Y0xPdTNnYm42UXgwcS1RUXZ6dmkwWkNFekdzbDJnNURYV2xsMUVTbmNVUkFybEU3RzFhdHRSVmM4d2NN?oc=5",
-   "quelle": "Euronews",
-   "zeit": "2026-11-16T15:17:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "b16344c4227139f6",
-   "k": "welt",
-   "titel": "Die Uno will KI-gesteuerte Killerroboter verhindern. Russland stellt sich quer",
-   "t": "Bei den UN-Verhandlungen zu KI-gesteuerten Waffensystemen stellt sich Russland gegen ein Verbot, waehrend Deutschland und die Schweiz es unterstuetzen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/technologie/die-uno-will-ki-gesteuerte-killerroboter-verhindern-russland-stellt-sich-quer-ld.10065393",
-   "quelle": "NZZ",
-   "zeit": "2026-11-16T15:07:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "0ec6cda733c6d1e0",
-   "k": "nrw",
-   "titel": "Gut Nordhausen in Iserlohn: Wo Kunst auf ländliches Flair trifft - IKZ-Online",
-   "t": "Gut Nordhausen in Iserlohn verbindet Kunst mit laendlichem Flair.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTlNNGstLUYzWFJyNnRHbEZiYzFBaFVKTHhSeTNVZEtpWXAxbkR1Y0JRVDdqazNYWkU2V1JCTjc0VFZxbnhkd0RScm8xaHM3Z0tWUmdOcnBjb1g1aU5TdW8zbGRuaFB6UDFQMVJvSGJOM3dlLTVEOEpMaGt6WnpWdXJDZDhFeWFLdldJWHY5eW5WTEJaTnBpVDNkYzFfdXpMUGctd2JIUllrN2x0Zk1mOUt4SHUwZGozbnotXzhVMjU5OUNrZjBSNQ?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-16T15:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e08f57cf4be6b7fd",
-   "k": "usa",
-   "titel": "Wie Trumps Regierung die Pressefreiheit in den USA angreift - RiffReporter",
-   "t": "Ein Bericht beschreibt, wie die Trump-Regierung die Pressefreiheit in den USA unter Druck setzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0ZwYzRfMFRZVW1OUWRCUFp1Y3Y1a1RTRDZDUEFRbG5RbUJ2d2FlWER5QUUxZF90U3d0TDNvTlp4eE0wZFQ5WDl6MHJpQ2JBSFBvNnJIVXA3X1lOcWxoajZjS3dndVFxZXVvUHRmMGdad05RWXRtQkxtdkFBelFTeGFKdVkxeXBpakowd1JZa3VIenFsRUxhUDVhVTZEWjFTazFOWUpQYmg0cDhKRlZ5QU1JRHJnUnlT?oc=5",
-   "quelle": "RiffReporter",
-   "zeit": "2026-11-16T14:59:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "bf6afd8f48cf95c9",
-   "k": "finanzen",
-   "titel": "Morgan Stanley sieht EZB-Zinssenkungen bis 2028 und bevorzugt Bundesanleihen - aktien.news",
-   "t": "Morgan Stanley erwartet laut Bericht EZB-Zinssenkungen bis 2028 und bevorzugt deutsche Bundesanleihen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWF9iNW9oZGk5ekVDQ291QnpLUEZaaTI2aUtrbEpTZDNuazlDaU1ob0x4R2JsVWExYnVLTENGM1VTSEJmb2kzd2U0ZmNlLXpSTlZoNWFHZWk4M203ZVR5TnJremFscEJMZTcxdGo3WTA5RXZ3Q1NSbGF4dzZLb2FpMW5abzBBTThJZHRSMy1pNGJoc1lxa0g2Q3c4cnRSY1EwQmc?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-16T14:58:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "79df88b3a8e1e153",
-   "k": "finanzen",
-   "titel": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-   "t": "Zelle wählt Solana für seinen Stablecoin ZelleUSD und für internationale Zahlungen. Geplant sind vertrauliche Überweisungen, bei denen Beträge verborgen bleiben.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-16T14:55:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "bdafa85cc95bb895",
-   "k": "finanzen",
-   "titel": "Pfund fällt den sechsten Tag in Folge – Fed stützt Dollar - aktien.news",
-   "t": "Das britische Pfund ist den sechsten Handelstag in Folge gefallen, während die Fed den Dollar stützt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjR4NlcxUDBrNWJmSUNWd1U2S3JoWk5NQmttaUticGF3S0lhM2Z4VEhOWk5XN2xOV09iVl94SWRzZzNBNE12dTQwM3pobWFITjVfRUhhTUVQNVRPYUl0U2tvVldJYldTdm1wdmZTaEdkZ09lZXJGaU1ZNVpXb3c0TWxISkFmZw?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-16T14:54:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "14eebf85cdaea8ca",
-   "k": "finanzen",
-   "titel": "Die EU will europäischen Stahl konkurrenzfähig machen",
-   "t": "Die EU will europäische Stahlkonzerne gegen die Konkurrenz aus China stärken und ergreift dafür mehrere Maßnahmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T14:53:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "6175dedc24d43edf",
-   "k": "welt",
-   "titel": "COP31: Wer für die Folgen der Klimaanpassung zahlt",
-   "t": "Auf der COP31 wird verhandelt, wer die Kosten der Klimaanpassung trägt; ein Beispiel aus einer Leipziger Kita zeigt die Folgen im Alltag.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-klimafinanzierung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T14:53:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "89e51bbffece101b",
-   "k": "finanzen",
-   "titel": "Kampf um die Commerzbank: Kein Ruhmesblatt",
-   "t": "Die EU-Kommission hat die Übernahme der Commerzbank durch UniCredit freigegeben. Auch die Fed hat dem Angebot laut Berichten zugestimmt.",
-   "e": "Die Freigabe ebnet den Weg für die Übernahme der Commerzbank durch UniCredit; die Rolle der deutschen Politik im Verfahren wird kritisiert.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/finanzen/eu-zur-commerzbank-uebernahme-gruenes-licht-fuer-unicredit-201687906.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-16T14:52:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "2cd4d0c21976d35a",
-   "k": "finanzen",
-   "titel": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-   "t": "Tesla kündigt drei Milliarden Euro für den Ausbau des Werks in Grünheide bei Berlin an, zunächst mit einem neuen Produktionsgebäude.",
-   "e": "Eine große Investition in Brandenburg, die Arbeitsplätze und die Zulieferkette in Deutschland betrifft.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T14:49:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "a899e200ce374e08",
-   "k": "usa",
-   "titel": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
-   "t": "Trump hat gesagt, er könnte bei seiner Asienreise Kim Jong Un treffen; die Reise führt in die Philippinen und nach China.",
-   "e": "Ein mögliches Treffen mit Nordkorea wäre ein außenpolitischer Schritt mit Folgen für die Region.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-16T14:48:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "a6018ced7c82b590",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Gericht stoppt Bedürfnisprüfung für zusätzliche Jagdgewehre - n-tv.de",
-   "t": "Ein Gericht in NRW hat die Bedürfnisprüfung für zusätzliche Jagdgewehre gestoppt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVpMald1N3d1TE4tZ2pPdU53dUxNS1FWUVBZNGdYOVYtU0RmU192UFlkRUVqcE5naGVGZ3Z2UHhmN29UMnBDZ09iVktTWFhjMmhQVE1zWUo3X3NBWGJIQ09HbEhaVmNLYmk5ZWhUb29lT2xsM0xDYXBWZlZSTXN6M1NXNXFmTFRPYk5KR29KSzI3OGJpR3JBZ1BTb09rXzZZV3lFY1MzWENZWUw5QVJwbG45RWZIaTF2NW42d2p5OVpCcmZtNkhKTm9n?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-16T14:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "73ad69d8607c7bc1",
-   "k": "welt",
-   "titel": "Die Huthi schlagen zurück – Bab al-Mandab ist wieder unter Kontrolle der proiranischen Miliz",
-   "t": "Die Huthi haben die Meerenge Bab al-Mandab im Süden Jemens zum zweiten Mal in wenigen Monaten unter ihre Kontrolle gebracht.",
-   "e": "Die Meerenge ist ein zentraler Seeweg für den Welthandel, daher beeinflusst die Lage Frachtrouten und Energiepreise.",
-   "s": 6,
-   "link": "https://www.nzz.ch/international/huthi-rebellen-triumphieren-bab-al-mandab-erneut-erobert-ld.10065211",
-   "quelle": "NZZ",
-   "zeit": "2026-11-16T14:47:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "e23b92262f9ef8f1",
-   "k": "usa",
-   "titel": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-   "t": "Das US-Handelsministerium geht gegen eine Umgehungsmöglichkeit über Drittländer vor, mit der China Rechenleistung von Nvidia-Chips nutzen konnte.",
-   "e": "Die Exportkontrollen für KI-Chips beeinflussen Nvidia und den Technologiewettbewerb mit China.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-16T14:39:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "9ed9c9b8ce5dd37b",
-   "k": "deutschland",
-   "titel": "„Wer randaliert, muss ins Gefängnis“ – JU-Vize Körner fordert hartes Vorgehen",
-   "t": "JU-Vize Konrad Körner fordert harte Konsequenzen für Randalierer bei Demonstrationen, da Extremisten die Proteste nutzen könnten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/video6afb128e8c74195fa20c32a0/gen-z-proteste-ju-vize-konrad-koerner-fordert-hartes-vorgehen-gegen-krawalle.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-16T14:39:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "f323fe0d859b6b19",
-   "k": "deutschland",
-   "titel": "Neue Klage gegen die A26 Ost – Umweltverbände wollen Baustopp erzwingen",
-   "t": "Umweltverbände wollen mit einem Eilantrag beim Bundesverwaltungsgericht die Rodungsarbeiten für die A26 Ost in Moorburg stoppen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/regionales/hamburg/article6afb0f0c8c74195fa20c3209/nach-rodungen-neue-klage-gegen-die-a26-ost-umweltverbaende-wollen-baustopp-erzwingen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-16T14:39:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3091,17 +3086,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Welt",
@@ -3111,7 +3106,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 27
+    "n": 29
    },
    {
     "name": "FAZ",
@@ -3141,7 +3136,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 13
+    "n": 16
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3151,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -3191,12 +3186,13 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
@@ -3206,15 +3202,18 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
-  "markt": [],
+  "markt": [
+   "EZB Zins: 503 Server Error: Service Temporarily Unavailable for url: https://data-api.ecb.europa.eu/service/da"
+  ],
   "briefing": null
  }
 }
