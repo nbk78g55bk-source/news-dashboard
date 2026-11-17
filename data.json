@@ -1,20 +1,20 @@
 {
- "aktualisiert": "2026-11-17T13:01:54.225346+00:00",
+ "aktualisiert": "2026-11-17T15:01:26.576014+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,90 €",
-   "delta": -0.8309336817075907
+   "wert": "128,69 €",
+   "delta": -0.9848094198173785
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,78 €",
-   "delta": -1.211584795811882
+   "wert": "43,67 €",
+   "delta": -1.4755620615167997
   },
   {
    "name": "Deka S&P 500",
-   "wert": "140,36 €",
-   "delta": -0.7846195031633862
+   "wert": "139,97 €",
+   "delta": -1.0567620045261905
   },
   {
    "name": "Deka Nasdaq-100",
@@ -23,23 +23,28 @@
   },
   {
    "name": "Deka DAX",
-   "wert": "230,60 €",
-   "delta": -0.7531766978891241
+   "wert": "229,40 €",
+   "delta": -1.2696389180215206
   },
   {
    "name": "Bitcoin",
-   "wert": "65.003 $",
-   "delta": 1.41257815323806
+   "wert": "64.949 $",
+   "delta": -0.0981407862530719
   },
   {
    "name": "Ethereum",
-   "wert": "1.821 $",
-   "delta": 1.313415451265765
+   "wert": "1.813 $",
+   "delta": -1.3531562816730678
   },
   {
    "name": "Gold",
-   "wert": "3.862 $",
-   "delta": 0.24137036075786433
+   "wert": "3.870 $",
+   "delta": 0.4438100181676674
+  },
+  {
+   "name": "EZB Zins",
+   "wert": "2,50 %",
+   "delta": null
   },
   {
    "name": "Fed Funds",
@@ -75,6 +80,258 @@
   ]
  },
  "items": [
+  {
+   "id": "0027acbadbed70ac",
+   "k": "welt",
+   "titel": "Pia Steckelbach, ARD Tel Aviv, zzt. Jerusalem, zur Knesset-Wahl in Israel",
+   "t": "In Israel findet die Wahl zur Knesset statt. Die ARD berichtet aus Jerusalem.",
+   "e": "Das Ergebnis entscheidet über die künftige Regierungsbildung und die Nahost-Politik Israels.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/video/video-1685342.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-17T14:55:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "28e8b65386d0eb31",
+   "k": "nrw",
+   "titel": "Großbrand im Müllheizkraftwerk Iserlohn: Zwei Kessel außer Betrieb - IKZ-Online",
+   "t": "Im Müllheizkraftwerk Iserlohn ist ein Großbrand ausgebrochen. Zwei Kessel sind außer Betrieb.",
+   "e": "Das Müllheizkraftwerk ist für die Entsorgung und Wärmeversorgung in der Region wichtig, Auswirkungen auf Betrieb und Umwelt werden geprüft.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVEWkRRcW95c1VEMFlOZEFrZG1LY0oyOUMxTGtseHRJWERQS2JyLWFZd0Q2YTE5T2xVYi04VnpQdjlUa083T2xDdGVvb2xVYlRaQWM2TU5WT3E3c3hTWnFSWV80d1o4UFFsUmtIc3Fob216bVJoUWpCelhqLXFJNXVvem15YmJmQk5mb2dfYnRwQ2RIY1dXY1Z3MWVQY2NxUVRxOXp3NllLQ3BjNEJwaFFjWEJiNFlVa1Vpb1E0MV8yWnotb3BXU2I2UERtUQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-17T14:54:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf88d773330b92f5",
+   "k": "finanzen",
+   "titel": "Wall Street: Anleger warten vor Nvidia-Zahlen ab – Wall Street öffnet kaum verändert",
+   "t": "Die Wall Street eröffnet kaum verändert, Anleger warten auf die Quartalszahlen von Nvidia. Es ist die erste Vorlage des Konzerns ohne Jensen Huang an der Spitze.",
+   "e": "Die Zahlen gelten als wichtiger Test für den Chipkonzern nach dem Führungswechsel und beeinflussen den gesamten KI-Sektor.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-oeffnet-vor-nvidia-zahlen-kaum-veraendert/100270596.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-17T14:52:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "0ef58611e934631d",
+   "k": "deutschland",
+   "titel": "Union kommt AfD in Umfrage so nah wie seit Juli nicht mehr – Merz fällt bei 86 Prozent durch",
+   "t": "Laut einer Umfrage liegt die AfD mit 26 Prozent weiter vorn, der Abstand zur Union schrumpft auf fünf Punkte. 86 Prozent sind mit Kanzler Friedrich Merz unzufrieden.",
+   "e": "Der Abstand zur Union ist so klein wie seit Juli nicht mehr, was die politische Lage in Berlin unter Druck setzt.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6afc5b23bf787977ad3db57e/umfrage-union-kommt-afd-so-nah-wie-seit-juli-nicht-mehr-merz-faellt-bei-86-prozent-durch.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-17T14:45:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "e0cb0179bad1c8ee",
+   "k": "finanzen",
+   "titel": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+   "t": "Die Solana Foundation hat laut Cointelegraph eine Mehrheitsbeteiligung an dem Krypto-Datenanbieter CoinGecko übernommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-17T14:45:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "b1c146326e1bdd3e",
+   "k": "finanzen",
+   "titel": "Fed’s Lisa Cook Rebuffs White House Hearing, Citing Biased Panel",
+   "t": "Fed-Gouverneurin Lisa Cook lehnt eine Anhörung im Weißen Haus ab und verweist auf einen aus ihrer Sicht voreingenommenen Ausschuss. Ihr Anwalt schreibt, sie habe keine rechtliche Pflicht, an einer unfairen Anhörung teilzunehmen.",
+   "e": "Der Streit um die mögliche Entlassung einer Fed-Gouverneurin berührt die Unabhängigkeit der US-Notenbank, die für Zinsen und Finanzmärkte zentral ist.",
+   "s": 8,
+   "link": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-17T14:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5732227e460df285",
+   "k": "finanzen",
+   "titel": "EZB weist auf KI und Staatsverschuldung als Risiken für die Finanzstabilität hin - IDNFinancials",
+   "t": "Die EZB warnt in ihrem Bericht zur Finanzstabilität vor Risiken durch künstliche Intelligenz und hohe Staatsverschuldung.",
+   "e": "Die Warnung der Notenbank betrifft Banken und Staatsanleihen im Euroraum und ist für Zinsen und Finanzmarkt relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFLbHlicml1TEFvWnJDUjl2SFZZRkw0amFiSFVPMEtfMWVMckNHcF9sS2wxMjN5TWstMFp2bmFMOUsyYTVxM3JxbUxhMzMtUDJUdlgyZERlcTVOU1haRERXbm9oazRqRGh1UzlJdEVxcV9SVXNNRFRSZXhyQ3l5X3ZSSGRRODJ5QjJOSDFIS2F0MWx2YjhPVlJVTnhhdWllSHVSaXhOMHFNZnNlaDJMcVhIeXN4cGw4NDB4MjZpek9aQ24xSjUxdXFoei15QUE?oc=5",
+   "quelle": "IDNFinancials",
+   "zeit": "2026-11-17T14:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3e9b18a00c98c7ad",
+   "k": "finanzen",
+   "titel": "Fed needs to prepare for bond-market intervention during calm times, Hammack says - Reuters",
+   "t": "Fed-Vertreter Hammack fordert, dass sich die Fed in ruhigen Marktphasen auf Interventionen am Anleihemarkt vorbereitet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUo5ZjhNVXlMSUJ5eUQ1Q05MeXVTM0VEZ2ZEd1E1c1NzS0NlNFdROTZaOS02aE44OXZHWjFuNWR3U0hFMDNZRkp0UlhxN3JCaWpDQ2xIelZ5amJJbDhOQ0pEei03RkFaTFFRbFBFSUFpbWlTYTZCYTcwZmgtRi1LMzM0dzVFNkFubWpkTGlRTmlHbWZ2VTBDaDlWWUVodzlFZk5ndnNRQzhWS3BtdGRUUzJDZmhoLTN5M1E?oc=5",
+   "quelle": "Reuters",
+   "zeit": "2026-11-17T14:39:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "f1366afa21a26daa",
+   "k": "deutschland",
+   "titel": "Wie ausländische Straftäter schneller abgeschoben werden sollen",
+   "t": "Hessen will verurteilte ausländische Straftäter schneller abschieben. Gerichtsverfahren sollen Abschiebungen nicht mehr automatisch verzögern.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/plus6afbfe0285c0876bb797a180/asylpolitik-wie-auslaendische-straftaeter-schneller-abgeschoben-werden-sollen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-17T14:38:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "ae79dbedbf6498df",
+   "k": "finanzen",
+   "titel": "(S+) EZB: Deutschland favorisiert Pablo Hernández de Cos für Nachfolge von Christine Lagarde - Spiegel",
+   "t": "Deutschland favorisiert laut Spiegel den spanischen Ökonomen Pablo Hernández de Cos als Nachfolger von EZB-Präsidentin Christine Lagarde. Die europäischen Staats- und Regierungschefs sollen sich einer Einigung nähern.",
+   "e": "Die Personalentscheidung an der EZB-Spitze bestimmt die Zinspolitik im Euroraum in den kommenden Jahren.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbkpXUTZVbXRSRDhDOXBaZUhxTFhVNmFZSENsMUxDWlNrdndZdDhzdUJ3cm16UlE1XzMzWTJVdTJUWkIybUpkOURVUzBSdGJ2Mm9zSl9LRS1NNjJyRlliU0ZkcVVwMG8tbDJoZ1RLZVhPVEhJaXBBLTRkRVZ2MnBESHFuQktrVFRRNWY2Mm92VmlWTTNoTVh4TnFJbTJha25hR3cyUXpwOVVEZUVCUnFFRVJzcktSUXpsMGpWc29VTEpUYUNUaU04bEczZGtMcl9waDNxbG1BdVFCNjRmNWJB?oc=5",
+   "quelle": "Spiegel",
+   "zeit": "2026-11-17T14:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0c30888a1a287986",
+   "k": "finanzen",
+   "titel": "Nvidia-Affäre: Trumps neue Chipregeln verunsichern Verbündete",
+   "t": "Neue US-Regeln für Chipexporte treffen laut Handelsblatt Südostasien, Trump will dort vor seiner China-Reise Partner zeigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/nvidia-affaere-trumps-neue-chipregeln-verunsichern-verbuendete/100270446.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-17T14:36:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "743d680fc1843d51",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Familie kann sich selbst retten: Kinderzimmer in Werl brennt aus - tagesschau.de",
+   "t": "In Werl ist ein Kinderzimmer ausgebrannt. Die Familie konnte sich selbst retten.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzZDTUlTRU5hV20yc196MTg1RTRtQnVWR09DMVpmWDFnMDYybjltdk56a3QzdTUxa0xsZDZMd1dTeEhhSGdMMGpybjkyX1NVSG9SSHZoRjVKZGh3Z0VZSUI3QjRoWlhhQU9OaGl5a19ZTEJzZVEzRkJRMFZHVER6ZWR3TzdpTld4NUhfWmgyQ3VUM2phNDZINUZ3TG81NG8xQXVQUW1TZ2hvNS1mTlg1MDZuY0pLelhWUVNEb1phUDdaX2dfMmRVQXR1UDJCbVc3TVZN?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-17T14:36:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "72b4f422235b15cb",
+   "k": "finanzen",
+   "titel": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+   "t": "Anthropic dürfte laut CNBC-Informationen über der bisherigen Spanne von 70 bis 78 Dollar platziert werden. Die Notierung an der Nasdaq unter dem Kürzel ANT ist für den 19. November geplant.",
+   "e": "Der Börsengang eines der bekanntesten KI-Unternehmen wäre eines der größten Ereignisse am Kapitalmarkt in diesem Jahr.",
+   "s": 7,
+   "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-17T14:34:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "55f02089cce63bd5",
+   "k": "finanzen",
+   "titel": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
+   "t": "Die Einzelhandelsumsätze in den USA sind im Oktober nur leicht gestiegen, nach zwei Monaten mit deutlichen Zuwächsen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-17T14:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0974616fe3bd6af2",
+   "k": "deutschland",
+   "titel": "Pilotengewerkschaft Cockpit: Mediation beendet: Bei Lufthansa drohen neue Streiks",
+   "t": "Die Mediation zwischen Lufthansa und den Stammpiloten ist ohne Ergebnis beendet. Neue Streiks sind möglich, falls sich beide Seiten nicht schnell annähern.",
+   "e": "Streiks bei der Lufthansa würden Flugverkehr und Reisende in Deutschland direkt treffen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/pilotengewerkschaft-cockpit-mediation-beendet-bei-lufthansa-drohen-neue-streiks/100270487.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-17T14:30:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "7a50cf36fb5bbbd3",
+   "k": "usa",
+   "titel": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop",
+   "t": "Nach einem landesweiten Flugstopp der FAA will die Trump-Regierung weitere 50 Milliarden Dollar für die Flugsicherung. Republikaner im Senat fordern zunächst Nachweise für die bereits bewilligten 12,5 Milliarden Dollar.",
+   "e": "Der Streit um die Mittel berührt die Sicherheit und Infrastruktur des US-Luftverkehrs und den Haushaltsstreit in Washington.",
+   "s": 6,
+   "link": "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-17T14:29:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "85211cb361e3c203",
+   "k": "deutschland",
+   "titel": "13-Jährige auf der Flucht mit Auto getötet – Raser kam gerade erst aus dem Gefängnis",
+   "t": "In Sailauf bei Aschaffenburg hat ein 32-Jähriger auf der Flucht vor der Polizei eine 13-Jährige tödlich erfasst. Laut Bild war er erst im Januar aus dem Gefängnis entlassen worden.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/video6afc631acdc4b5009f0a8f51/bei-aschaffenburg-13-jaehrige-auf-der-flucht-mit-auto-getoetet-raser-kam-gerade-erst-aus-dem-gefaengnis.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-17T14:25:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "e12cc7917ed3db56",
+   "k": "finanzen",
+   "titel": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+   "t": "Die Aktie der Deutschen Bank fällt, nachdem Whistleblower laut einem Bericht mit 15 Millionen Dateien Kontrollversagen belegen. Genannt werden Zahlungen im Zusammenhang mit Epstein und ein Steuerfehler bei Trump.",
+   "e": "Das Datenleck wirft erneut Fragen zur Compliance des größten deutschen Geldhauses auf, was Vertrauen und Kursentwicklung belasten kann.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-17T14:24:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "ffc40fbfaca6ba17",
+   "k": "finanzen",
+   "titel": "Federal Reserve outlines tokenization priorities for U.S. payments system - Traders Union",
+   "t": "Die US-Notenbank Fed beschreibt ihre Prioritäten für die Tokenisierung im US-Zahlungsverkehr.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDNWVmVHdDRSb3d4N21WSHE0SWR4MFdQNS1vVGdoR3l1aGY1MW1oMmRMcXZZazExaDF1RWE0UGhVTjRYNzF5cmUtNmNlMTNiX2hzVHA2Mjc5Z0lfWkpYWnMzS2dzS3ZJcHNEaHY3LUs4QVNSbHV3Q0hLU0lkblJyT3BiQl9OUWRtazdIeC1uYXlVTEhZSzdXMFpKbw?oc=5",
+   "quelle": "Traders Union",
+   "zeit": "2026-11-17T14:19:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "6de828ed2c00360b",
+   "k": "nrw",
+   "titel": "„Wir stellen jetzt den Wecker“ – NRW-SPD erhöht Druck auf Landesregierung - RP Online",
+   "t": "Die NRW-SPD erhöht den Druck auf die Landesregierung und kündigt an, die Regierung stärker zu kontrollieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3VJR3R0WDV3ZXVFQnVPb2gtLWxhb0ktZHVKaHlqd014OG5OeHVjLVZiWTl3Tlhtd2FROGxUWWNXZ3ViSWZsMVZKTjNvajhXOFJMdDJ0RkduZ0FBeDA0cjFnN3Y5SXY1QWhXYnpVRU5CY1loVVN5M2RXdGRKOEtiSkJ1bFFRVERfRzBqb0s1Z2Zfd2JLVWdzM3NHZUpEOERtTnJJb1Y0ZlNXSmVhNFRF?oc=5",
+   "quelle": "RP Online",
+   "zeit": "2026-11-17T14:14:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "32f72192554c1529",
+   "k": "nrw",
+   "titel": "Iserlohn: Jugendliche beschädigen Parkautomaten mit Spitzhacke – Polizei fahndet - IKZ-Online",
+   "t": "In Iserlohn haben Jugendliche einen Parkautomaten mit einer Spitzhacke beschädigt. Die Polizei fahndet nach den Tätern.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSXpNNUlya205ZFNvRlc5VmZadjlWX3hGTDl2a19zUEp6MHNuNV9vNE9uSHRkWFNCOUQ2UkVHeW5BYXU4OVZsaFE4Q0RnTDlidXN6My1NNTdFM1M0dGU0aVl4ZDlxSW50NVJDQ1BWeVMyVnJOQjFIRWFfMGpZeUJXQmRZRFZkWXBBMndPblVZcHZLOTBGODI5RU1aaHhPWHRHaGxONXB4MDNJdVYySUtUbXdHR2VuSDJVYnJ2X1czVEg2NzJYRkRHTE5RZU9lRVJKNTlqYzRhaThhQk0?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-17T13:53:39+00:00",
+   "tag": null
+  },
   {
    "id": "24fe5ddef0176e12",
    "k": "deutschland",
@@ -553,6 +810,18 @@
    "link": "https://www.tagesschau.de/ausland/ozeanien/australien-backpaper-landwirtschaft-visa-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-17T10:33:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "e98c8937ac4e8f92",
+   "k": "deutschland",
+   "titel": "Knapp 3000 Euro weniger – Studie zeigt Folgen der Elterngeldreform für Familien",
+   "t": "Eine Studie des Leibniz-Zentrums für Europäische Wirtschaftsforschung zeigt, dass Mütter mit kleinen und mittleren Einkommen durch die geplante Elterngeldreform im Schnitt fast 3000 Euro verlieren könnten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/article6afc226c6837d711cd2c7ed9/elterngeld-knapp-3000-euro-weniger-studie-zeigt-folgen-der-reform-fuer-familien.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-17T10:32:47+00:00",
    "tag": null
   },
   {
@@ -2810,270 +3079,6 @@
    "quelle": "Newsflash24",
    "zeit": "2026-11-16T16:48:00+00:00",
    "tag": null
-  },
-  {
-   "id": "52c44289d1e4ee4e",
-   "k": "finanzen",
-   "titel": "Die EZB warnt vor Marktvolatilitätsrisiken, falls sich die KI-Welle verlangsamt. - Vietnam.vn",
-   "t": "Die EZB warnt vor möglichen Marktschwankungen, falls sich der KI-Boom abschwächt.",
-   "e": "Die Bewertungen großer Techwerte hängen stark an den KI-Erwartungen, daher könnte eine Abkühlung auch Bundes- und Euro-Märkte treffen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQklMeXRjREk0UzB2QmZOVlN2NUZMRDRJVHFjYWVaOHN1UWdrYTg2blBCSWhnOWJGa01aY01wdlpLMElSVGdwS196UjQ1U20zbm9ZM29lRlA5a0dzRG14TnVUQS04NXR2Nnl6VVphcUJ1c0Q0czdRdi1mQWo3NnVMcVpJcGdTT282Nm5IYktXQnNHZkRTbGcw?oc=5",
-   "quelle": "Vietnam.vn",
-   "zeit": "2026-11-16T16:46:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "7985d9618bb87989",
-   "k": "nrw",
-   "titel": "A44-Lückenschluss soll bis 2031/2032 fertig sein - WELT",
-   "t": "Der Lückenschluss der A44 soll bis 2031 oder 2032 fertig sein.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM01za1dGeWFQcXhBeEgweXE0TFJLN1E1dVRCOHNTOVNHODRBd0JZS25NYnd2REQtNGxRS0JYQ3pLakdWTFlndWh4WktkdnI2RTRGS3liN2JpWE53bWZRQ1RYcGlRRlAzUE1wWTlPQUR1ZVVwOGNfby1SYVVqQkVZTnQ5YnpVbS04UUJub0oyQ3RzbU4xY0xKRWhWNC1QR2hsSHhkWG9wOE82Nkx1Nm5iSnYwTFJNTk1ZOTJjNDZn?oc=5",
-   "quelle": "WELT",
-   "zeit": "2026-11-16T16:45:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "29e1e89c09e84e04",
-   "k": "finanzen",
-   "titel": "Fed untersucht die Auswirkungen von Superintelligenz auf Arbeitsplätze, Produktivität und Geldpolitik - TradingView",
-   "t": "Die US-Notenbank Fed untersucht, welche Auswirkungen Superintelligenz auf Arbeitsplätze, Produktivität und Geldpolitik haben könnte. Dazu werden Vertreter aus der Techbranche gehört.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13dkdZbUNhSXlNLUtVaFd3T3pSOFJhSjBDc0h4TFdYc1RzUGdvcUdCVlhRWVZDRGJOQVpfTGRXWTV0U1dkck5DZ0FwS2lyVzF0QVROSzV4SmI5b1E5a2daYW1YdG5VTUQz?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-16T16:39:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "6d7989cdb0d46391",
-   "k": "deutschland",
-   "titel": "Deutschland Liveblog: Alabali Radovan sieht Abschiebezentren kritisch: „Völkerrechtliche Fragen im Raum“",
-   "t": "Die Entwicklungsministerin Alabali Radovan kritisiert das geplante Abkommen mit Ruanda zur Abschiebung abgelehnter Asylbewerber. Zudem kündigt Kanzler Merz eine Absenkung der Stromsteuer an, und die Grünen rufen zur Teilnahme an Gen-Z-Protesten auf.",
-   "e": "Die Stromsteuer-Absenkung betrifft Strompreise für Haushalte und Industrie; die Ruanda-Pläne sind Teil der laufenden Debatte über Asylverfahren in der EU.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-alabali-radovan-sieht-abschiebezentren-kritisch-faz-110093143.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-16T16:38:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "7c288b1f78398b55",
-   "k": "deutschland",
-   "titel": "Marktmacht: Stromkonzerne sollen in Energiekrise abkassiert haben",
-   "t": "Das Ifo-Institut vermutet, dass die fünf großen Energieunternehmen 2022 ihre Marktmacht ausgenutzt haben. Auch jüngste Auktionsergebnisse könnten das Problem verschärfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ifo-studie-stromkonzerne-kassieren-in-energiekrise-ab-201686709.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-16T16:37:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "f1bf415965360fff",
-   "k": "deutschland",
-   "titel": "Brand in Hamburger Mehrfamilienhaus – Leiche gefunden",
-   "t": "Bei einem Brand in einem Mehrfamilienhaus im Hamburger Osten wurde eine Leiche gefunden. Die betroffene Wohnung ist unbewohnbar, und Ursache und Hintergründe sind noch offen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/regionales/hamburg/article6afb2bfe028f6e41ab3f1607/feuerwehreinsatz-brand-in-hamburger-mehrfamilienhaus-leiche-gefunden.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-16T16:31:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce2672b15df26640",
-   "k": "welt",
-   "titel": "WHO warnt vor zunehmender Unwirksamkeit von Antibiotika",
-   "t": "Die WHO warnt vor einer zunehmenden Unwirksamkeit von Antibiotika.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1684794.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T16:27:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "f39afa0089da84c3",
-   "k": "usa",
-   "titel": "Lindsay Clancy Faces Retrial in Deaths of Her Three Children",
-   "t": "Lindsay Clancy muss sich im Fall des Todes ihrer drei Kinder erneut vor Gericht verantworten. Der Prozess soll am 29. März beginnen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/us-news/lindsay-clancy-faces-retrial-in-deaths-of-her-three-children-d842d3d6?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-16T16:23:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f7491ee7ade9a5b8",
-   "k": "usa",
-   "titel": "Seattle mayor orders park named for American president renamed",
-   "t": "In Seattle wird der Jackson Park nach einer Anordnung von Bürgermeisterin Katie Wilson umbenannt.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.foxnews.com/politics/seattle-mayor-order-park-named-american-president-renamed",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-16T16:20:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "a423b548c8b83708",
-   "k": "usa",
-   "titel": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
-   "t": "Die Zahl internationaler Studierender an US-Hochschulen ist in diesem Jahr stark gesunken. Höhere Kosten und neue Einwanderungsregeln setzen vielen Colleges finanziell zu.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-16T16:20:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "a459b0fb07e60817",
-   "k": "deutschland",
-   "titel": "Energie: Stromnetz am Limit: Städte müssen Industrieprojekte abweisen",
-   "t": "Vielen Städten und Gemeinden fehlen Stromnetzanschlüsse, Rechenzentren, Mobilfunk und Industrieprojekte müssen teils warten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-stromnetz-am-limit-staedte-muessen-industrieprojekte-abweisen/100266738.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-16T16:18:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "5382338fb58ffbb3",
-   "k": "finanzen",
-   "titel": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-   "t": "Der US-Rohölpreis fällt auf rund 87 Dollar je Barrel, da die Exporte aus dem Nahen Osten wieder zunehmen. Prognosen erwarten für das vierte Quartal einen Ölüberschuss.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-16T16:17:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "15f1c983e5f8214f",
-   "k": "usa",
-   "titel": "Chicago Mayor Brandon Johnson faces audit calls after CFO quits over 'financial integrity' concerns",
-   "t": "In Chicago ist die Finanzchefin Ashlee Gabrysch zurückgetreten und stellt die Finanzberichterstattung der Stadt infrage. Bürgermeister Brandon Johnson steht unter Druck wegen Audit-Forderungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/chicago-mayor-brandon-johnson-faces-audit-calls-after-cfo-quits-over-financial-integrity-concerns",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-16T16:16:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "76fe34769a33ec78",
-   "k": "usa",
-   "titel": "US-Politik aktuell: Kaum im Amt, schon gibt es Ärger – Stephen Miller verschärft die Regeln - News.de",
-   "t": "Stephen Miller verschärft in den USA die Regeln für Einwanderung.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdDJxNE1GUFJqaUU0VGtfd0JvRzE5bXY0TEozZHdWUXlBUEVPaXhpNkEzT3p3Y3V0S05DdXF2Y05tV2JhbkdoazRKLVFaTS1zeXN4V0ZrNGxjcWpfd2dIdzF1cUFxZFV5SXFJNno4Z1p0RXllVUUyQ1JDNk05aDlfY0Uxa281TnZBZzc2amtwZFpGbWYxUUpiOXdjbkVFS0d3dDJCMXBCMWlwZ1VIeDQwQmxPdWRGWWhuWkN5OTI1RFg2RW15WkJuckZYcWdyUXBRbEVlZjZzSV9KX3o2TUVTVllCTmIwVlNPU0hUNGtXcWFUT0tvU2c?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-16T16:16:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "9049b38c62a0beda",
-   "k": "finanzen",
-   "titel": "Millionen kassiert?: Anklage gegen zwei Ex-Vorstände von Knaus Tabbert",
-   "t": "Gegen zwei frühere Vorstände des Wohnmobilherstellers Knaus Tabbert wurde Anklage erhoben. Ihnen wird Korruption vorgeworfen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/millionen-kassiert-anklage-gegen-zwei-ex-vorstaende-von-knaus-tabbert/100270319.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-16T16:14:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "c50646e95a29c444",
-   "k": "nrw",
-   "titel": "Schwerer Unfall auf A46 bei Iserlohn: Zwei Autos überschlagen sich - Ruhr Nachrichten",
-   "t": "Auf der A46 bei Iserlohn haben sich bei einem schweren Unfall zwei Autos überschlagen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREk1OW9uLTRzN3RUSVRIaFUwNnlvTWhxT1Bab1Btd2hBQVdUU2ZPYy1XWF9sR0ZuTjBvWXRaS0JTRk5laElFLVpxeFZWalZLemZqLVB2Sm5WMVpJUnRPUFQ5T2dSdlp1MklUS203MXhGeEI1dXVkSjhQVF9fZ3FZS2tTNVFhUVZyc3JLRnY2WTFTSS1ldEZ3V1NvNHE2TmdpSXBnOHVFb1Rfbjh4dzY0UVA3TmNELXpxWUNVTDkxbG1la2tDd1BOc1N3RDJGeWRvT1EyVUt0SQ?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-16T16:11:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b18d841630da2d7",
-   "k": "nrw",
-   "titel": "NRW-Gesundheitsminister Laumann zur Debatte um Arzttermine: „Wir müssen an die Honorarfrage ran!“ - Ärzte Zeitung",
-   "t": "NRW-Gesundheitsminister Laumann fordert im Streit um Arzttermine eine Anpassung der ärztlichen Honorare.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX0FPR1Y3VVREdldIQzdJakdnTWs0Zm8tT3ZIbDJQNjlieHJqbDBPVTJfZDNCdzV6VjBCV2xvbXR1RlJ3dFBaUVhNWTZaQUMybF9PYUxoMEhGd05NazBvWnMzVFg5aTVHUTR2Qm8teDJzYXVyWE4yYW0zNE1sVU0takRzekxJd29FdTNEUFFoOHhDYXlVLWpjUXg2MjJPN1JIcmFpWVhlUzlVa2hsRF9CVFFzNlU0X3VMdHk0ajVSY1lyQnJmN21lTTBXdEt3cm1zMEVyYVgxOE5SUzg?oc=5",
-   "quelle": "Ärzte Zeitung",
-   "zeit": "2026-11-16T16:09:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "dbc77ae1b602890d",
-   "k": "finanzen",
-   "titel": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-   "t": "Vor dem geplanten Börsengang von Anthropic rückt Finanzchef Krishna Rao in den Fokus.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-16T16:08:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "ccc3b4b4a277982f",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: In der Stadtverwaltung Münster könnten 300 Stellen wegfallen - tagesschau.de",
-   "t": "In der Stadtverwaltung Münster könnten rund 300 Stellen wegfallen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOS1aWG5paGRqU2JlblE3X3k0djVhSkdMQ0lOYU42RUxac19OekdMakVwejg5YVh6RWFqT1FXbGg1REpwQU1Ea01Sc3lHTENBdmtkeE1DYXEzcnIteE1CRVBZSmNfM3VyZTJ5TWhWZXFUbE5zM1ZMX2pBSnlGRFZaTmV4bEdPX0ZwbWtja2FsMy1Tc0VjQl9uZkdpREdwSmt0TzFuRm5JMDFTVFlxLUdUZzdDRWhpTXU4ZHFGU0VwWjZZeWUydWU2V3VQcmhpbHAxWGtSekFsZktjbmVYeDl4dU0wYTlvS3FJMzFvNWMyRDc?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-16T16:08:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8b3cfab81f9cc936",
-   "k": "finanzen",
-   "titel": "Nach Unicredit-Übernahme: „Bleibt die Mittelstands-DNA der Commerzbank erhalten?“",
-   "t": "Commerzbank-Chefin Orlopp erwartet, dass die Unicredit noch in diesem Jahr die Kontrolle übernimmt. Hessens Ministerpräsident Rhein äußert sich kritisch zu der Übernahme.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nach-unicredit-uebernahme-bleibt-die-commerzbank-dna-erhalten-201688132.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-16T16:06:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "373d465dd8dd7aab",
-   "k": "welt",
-   "titel": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
-   "t": "Die EU verhängt neue Sanktionen gegen russische Propagandisten, Hackergruppen, Unternehmer und Banken, darunter auch Unternehmen aus China.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T16:06:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "e1b056a6e7050ade",
-   "k": "welt",
-   "titel": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
-   "t": "Auf der Weltklimakonferenz in Antalya beginnt die entscheidende Phase; Australien hat einen Entwurf für die Abschlusserklärung vorgelegt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-16T16:05:30+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,17 +3091,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Welt",
@@ -3106,12 +3111,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
@@ -3136,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 16
+    "n": 18
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3161,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Fox News Politik",
@@ -3186,13 +3191,12 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -3202,18 +3206,15 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
-  "markt": [
-   "EZB Zins: 503 Server Error: Service Temporarily Unavailable for url: https://data-api.ecb.europa.eu/service/da"
-  ],
+  "markt": [],
   "briefing": null
  }
 }
