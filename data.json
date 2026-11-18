@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-18T19:01:42.954123+00:00",
+ "aktualisiert": "2026-11-18T21:01:22.148251+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "63.121 $",
-   "delta": -0.8846847883322042
+   "wert": "62.488 $",
+   "delta": -2.2351475373189125
   },
   {
    "name": "Ethereum",
-   "wert": "1.769 $",
-   "delta": -1.0808403151520058
+   "wert": "1.751 $",
+   "delta": -2.65771227228805
   },
   {
    "name": "Gold",
-   "wert": "3.740 $",
-   "delta": -3.201178839991481
+   "wert": "3.731 $",
+   "delta": -3.4444374735709715
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,198 @@
   ]
  },
  "items": [
+  {
+   "id": "fec55d4721f64416",
+   "k": "welt",
+   "titel": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+   "t": "Israels Armee hat trotz der Waffenruhe einen neuen Einsatz im Zentrum des Gazastreifens begonnen, nach eigenen Angaben gegen Infrastruktur der Hamas.",
+   "e": "Der Einsatz gefährdet die Waffenruhe, die laut einem US-Gremium bereits von beiden Seiten verletzt wurde.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-18T20:53:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "53a143325f92382c",
+   "k": "finanzen",
+   "titel": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+   "t": "Das Krypto-Unternehmen Variational sammelt 110 Millionen Dollar bei einer Bewertung von 1,5 Milliarden Dollar ein.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T20:32:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "dc338bab8d7f1644",
+   "k": "finanzen",
+   "titel": "US-Börsen: Nvidia-Aktie dreht ins Minus – Anthropic-IPO erwartet",
+   "t": "Die Nvidia-Aktie dreht nach Quartalsdaten ins Minus, zugleich wird ein Börsengang des KI-Unternehmens Anthropic erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-dreht-ins-minus-anthropic-ipo-erwartet/100270966.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T20:31:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6a6834dbec4f2771",
+   "k": "finanzen",
+   "titel": "Fast alle Fed-Vertreter sehen Bedarf für weitere Zinserhöhungen, wie Oktober-Protokoll zeigt - MarketScreener Deutschland",
+   "t": "Das Protokoll der Fed-Sitzung vom Oktober zeigt, dass fast alle Mitglieder weitere Zinserhöhungen für angemessen halten, einige bringen einen Schritt um 50 Basispunkte ins Spiel. Der Leitzins blieb unverändert bei 3,75 bis 4 Prozent.",
+   "e": "Die Fed hat im Oktober pausiert, die Protokolle deuten aber auf eine weitere Straffung hin, was Zinsen und Aktienmärkte beeinflussen kann.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU81aEo5WEhqRE8weDI5cGZnbEhXanoyX0gzNEV4NzljaGNqV3BYYUVTRTBSUERjWVpQc2pEazRLRUZibVZkZHNkRTVfdmhuZDA4NjBzbmZsUG5uOUdtcFEzTTZ5dU0ydl9ka2VGYy04bU5vNkliYkpQcTB0a0E4dDhJT1JfbUVacjJZVWRENzZUOHlwLWlQaGthY3FsTFJLYmRsLTNMMDMwazFrLWYzTEtBandRMTROampoOW9yTENRQUNFMEU0cGlvQ3VERWdBMVhtazRpQ3RJY2NMZkZBY3dwNnRvampiY2g2T1VUdzQ?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-18T20:30:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "f886efde9891f2f0",
+   "k": "deutschland",
+   "titel": "Schüsse: Schüsse in Berlin-Schöneberg – zwei Menschen verletzt",
+   "t": "In Berlin-Schöneberg läuft nach Schüssen ein größerer Polizeieinsatz, zwei Menschen wurden verletzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/schuesse-schuesse-in-berlin-schoeneberg-zwei-menschen-verletzt/100271063.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T20:26:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "b92d2a52c1f972f2",
+   "k": "finanzen",
+   "titel": "Binance says it obtained $6.5B worldwide freezing order after hack",
+   "t": "Binance hat nach einem Hack eine weltweite Einfrierungsanordnung über 6,5 Milliarden Dollar erwirkt, die sich auf rund 26.000 Wallet-Adressen bezieht.",
+   "e": "Die Anordnung betrifft gestohlene Krypto-Vermögenswerte und zeigt, wie Gerichte Sperrungen über Blockchains durchsetzen wollen.",
+   "s": 6,
+   "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T20:20:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "7327b8bc46f1a236",
+   "k": "finanzen",
+   "titel": "Federal Reserve Governor Christopher Waller presses for half-point December rate hike as inflation persist - The Economic Times",
+   "t": "Fed-Gouverneur Christopher Waller spricht sich für eine Zinserhöhung um einen halben Prozentpunkt im Dezember aus, da die Inflation anhält.",
+   "e": "Eine Erhöhung um 50 Basispunkte wäre deutlich über dem üblichen Schritt von 25 Basispunkten und würde Kreditkosten spürbar verteuern.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbWtRYlpDbDJsVkVnUVJDOHdJZnlqdnBOUDdYMnNNSHJ5UGhmc2F4aFltV0l5WHlodFYyQ2ViTXAxMUg0anJoWlYzVHlHYUR5NVNqZy1CQ1BFcldWT0tycDNlR1pKdXJlTHlZSUF6bGgtZVRuTlVWZFRUQjQ4a0hZT05hdWM4RTlKbnZXS3dQcTQyZklMR0hrNzlGWFhnUnpONnBXb0M2T2czc1FQTGNNY1Q0TG9DVDFUZFJObFlVeE1RMkJ4RHA4b1lteFE4dzJNaExzMkRkMXhpWURvWjVNT3dxVlpxSWsxTktocE1oSFl2blJHeldGZ2lLNjZOcVJyTDlUMl9rcHdmNUNUX2hPdnQzbEg1TDhNZDI4a1N2UUNUSlQ3Nms0M0VoTFhha2fSAagCQVVfeXFMUGpaei1pX1ZJYldadjVQOXQzR3BHOFU0SDlwTVBQYmhrQ0VMRld4Mk5ZVVR1YmhBYXhJaGhQbkhKM2hmOHBfWW1GdzBXb0hyZTluQWpMc2tyZGtHaS1OSEtHT1ZfbU9BVUNLUVRkU2NjSUtrYzdZcHhibzVyVjNiZjh0MTJvR1BDQmFDcExqWlZIMVVuY25sVWl2bzlkV0RGYWpnTFdWSm1TaWhuYlhIb0g5M0xtdVoxT3FfaU53N3dwQ2tSWXlNTVRpc0dTUnFKclBrVkU3X2dJTjJfY0FvREdmeGpUYWg0YkJpQU1xT0Y4UkZudU5BQ1RfWnVfQ2F0SzNOM0JPWG1ERWxPNlY5Y2ZxUW9VV2RQbjNKbDNSb3VaSjVjX0hETjc?oc=5",
+   "quelle": "The Economic Times",
+   "zeit": "2026-11-18T20:09:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "24e459236b9395b8",
+   "k": "usa",
+   "titel": "Hegseth Cements New Military Deal in Visit to Venezuela",
+   "t": "Verteidigungsminister Hegseth hat auf einer nicht vom Pentagon angekündigten Reise eine militärische Partnerschaft mit der Übergangsregierung in Caracas unterzeichnet.",
+   "e": "Die Vereinbarung markiert eine engere militärische Zusammenarbeit der USA mit Venezuela.",
+   "s": 7,
+   "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-18T19:57:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ffdb79d5ea27d48",
+   "k": "usa",
+   "titel": "Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska",
+   "t": "Das US-Justizministerium hat laut einer Quelle rund 200 Vorladungen in einem mehrstaatlichen Strafverfahren im Umfeld der Senatswahl in Alaska verschickt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/hundreds-subpoenas-fly-doj-decoy-dan-probe-democrat-peltola-declared-winner-alaska",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-18T19:54:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "955f3a6f8118eb57",
+   "k": "welt",
+   "titel": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+   "t": "Trump, Xi und Putin treffen sich erstmals gemeinsam am Rande des APEC-Gipfels in Shenzhen. Die Positionen zu atomarer Abrüstung und Iran liegen weit auseinander.",
+   "e": "Ein Dreiertreffen der drei Staatschefs ist außergewöhnlich und wird in Europa mit Sorge um neue Einflusssphären verfolgt.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T19:43:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "d690caa1251289e9",
+   "k": "usa",
+   "titel": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+   "t": "Die US-Regierung und der Kongress befassen sich mit einer Serie technischer Ausfälle, die das Land in der vergangenen Woche getroffen haben. Vizepräsident Vance sagte einen Termin ab.",
+   "e": "Die wiederholten Systemausfälle werfen Fragen zur Abhängigkeit kritischer Infrastruktur von Software auf.",
+   "s": 6,
+   "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T19:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6298bc8766f10231",
+   "k": "usa",
+   "titel": "Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'",
+   "t": "Hakeem Jeffries setzt sich bei der Nominierung für den Sprecherposten des Repräsentantenhauses durch, obwohl elf Demokraten dagegen stimmten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/jeffries-brushes-off-opposition-far-left-dems-voted-no-work-together",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-18T19:35:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "b47402f80c609731",
+   "k": "deutschland",
+   "titel": "„Ziemlich dumm“: Pistorius hat mit seiner undiplomatischen Replik recht",
+   "t": "Verteidigungsminister Pistorius weist die US-Kritik an ukrainischen Angriffen auf Ziele in Russland zurück.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/pistorius-gegen-colby-der-verteidigungsminister-hat-recht-201695172.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T19:28:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "248b9d6b1b1c3d6d",
+   "k": "deutschland",
+   "titel": "Fehde in der AfD: AfD-Politiker Esser akzeptiert Strafbefehl über 9.000 Euro",
+   "t": "Der AfD-Abgeordnete Klaus Esser akzeptiert einen Strafbefehl über 9.000 Euro wegen gefälschter Abschlüsse und eines unberechtigt geführten Titels.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/inland/afd-mann-klaus-esser-akzeptiert-strafbefehl-wegen-gefaelschter-abschluesse-201696117.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T19:15:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "3a493987cb3ba252",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: USA drohten Schiffen bei Umgehung von Iran-Blockade",
+   "t": "Laut Berichten drohten die USA Schiffen, die die Iran-Blockade umgehen wollten. Zugleich rücken israelische Panzer im Gazastreifen vor.",
+   "e": "Die Lage im Nahen Osten bleibt angespannt und berührt auch die Energie- und Schifffahrtsmärkte.",
+   "s": 8,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-drohten-schiffen-bei-umgehung-von-iran-blockade/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T19:04:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "acf139d8446c3372",
+   "k": "deutschland",
+   "titel": "SPD-Vorsitz: Netzwerk Berlin für Hubertus Heil als SPD-Chef",
+   "t": "Hubertus Heil hat seine Kandidatur für den SPD-Vorsitz erklärt und erhält Unterstützung vom Netzwerk Berlin.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-netzwerk-berlin-fuer-hubertus-heil-als-spd-chef/100271058.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T19:00:24+00:00",
+   "tag": null
+  },
   {
    "id": "042657d46036f46c",
    "k": "welt",
@@ -289,6 +481,18 @@
    "tag": null
   },
   {
+   "id": "57b62dbb4fd74d1f",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Beim Aussteigen aus Bus: Unbekannter sticht auf 18-Jährigen ein - tagesschau.de",
+   "t": "In Nordrhein-Westfalen wurde ein 18-Jähriger beim Aussteigen aus einem Bus von einem Unbekannten mit einem Messer verletzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWmtHVEhKUnQ1SmZ5aWNRdFFscWZsUGRMZWxwenRsdTRoVERKQXJNZU94RE00a1BzQjNnTld6a25TblVMNnBrdXFabThCeVdEWHBjcktYZkVpUlBKQTRMWXBUX2lqazZDZlBHRVV4WUY1WEpKRkdEU2p2YlBJaTMzVFQtUFlmM0tMdTl0TGx3RExxS1lsM1RTQlVJYWgza1BZYjhpaTVrdnE2UmpZcHhmeXlKMkhjcDBKckFQdzJ4OTk0YktSVElaNkM5dXl1QVZ2ZHotSl81UDU?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-18T17:54:00+00:00",
+   "tag": null
+  },
+  {
    "id": "beef3b23bc950c0b",
    "k": "finanzen",
    "titel": "Dritthöchste Schulden in EU: EZB zählt Defizit-Sorgenkind Frankreich an - n-tv.de",
@@ -322,6 +526,18 @@
    "link": "https://www.handelsblatt.com/politik/international/praesidentschaftskandidat-istanbuls-ex-buergermeister-imamoglu-mit-politikverbot-belegt/100271047.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-18T17:42:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "c61f76bf8cebe7d0",
+   "k": "deutschland",
+   "titel": "Koalitionsausschuss: Bis zu 552 Euro für Familien: So stark werden die Steuerzahler 2027 entlastet",
+   "t": "Union und SPD haben sich im Koalitionsausschuss auf einen Kompromiss bei der Stromsteuer und bei Steuerentlastungen geeinigt. Familien sollen 2027 laut Berechnungen um bis zu 552 Euro entlastet werden.",
+   "e": "Die Einigung betrifft Steuerzahler und Stromverbraucher und ist ein zentrales Ergebnis der schwarz-roten Koalition.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/steuern-kompromiss-der-koalition-bringt-familien-bis-zu-552-euro-entlastung/100270934.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T17:32:42+00:00",
    "tag": null
   },
   {
@@ -406,6 +622,18 @@
    "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-18T17:05:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "daa587d4f23e42f3",
+   "k": "finanzen",
+   "titel": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+   "t": "Ford hat in den USA die Produktion von Batteriezellen für seine nächste EV-Generation gestartet, auf Basis von Technik des chinesischen Herstellers CATL.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T17:02:53+00:00",
    "tag": null
   },
   {
@@ -754,6 +982,18 @@
    "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
    "quelle": "CoinDesk",
    "zeit": "2026-11-18T15:23:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "2c48daa6c8d0a1f5",
+   "k": "finanzen",
+   "titel": "Two new housing reports point to bleak winter ahead, with record low sales",
+   "t": "Zwei neue Berichte zeigen einen schwachen Wohnungsmarkt in den USA mit Rekordtiefs bei den Verkäufen, belastet durch hohe Hypothekenzinsen und Inflation.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T15:09:45+00:00",
    "tag": null
   },
   {
@@ -2629,6 +2869,18 @@
    "tag": null
   },
   {
+   "id": "5442c44eeb4b92aa",
+   "k": "finanzen",
+   "titel": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+   "t": "Nvidia legt unter der Interimschefin Colette Kress die ersten Quartalszahlen nach dem Ausscheiden von Jensen Huang vor und beruhigt laut Berichten die Anleger.",
+   "e": "Nvidia gilt als zentraler Akteur im KI-Boom, der Führungswechsel ist daher für die Märkte von Bedeutung.",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T03:15:00+00:00",
+   "tag": null
+  },
+  {
    "id": "ab6a19f755d093ab",
    "k": "finanzen",
    "titel": "Gold drops 2% to over one-year low as hawkish Fed signals boost dollar - Reuters",
@@ -2831,258 +3083,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-18T01:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5f2d9d601b247807",
-   "k": "usa",
-   "titel": "Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations",
-   "t": "Die Trump-Regierung streicht der Los Angeles Homeless Services Authority dauerhaft rund 150 Millionen Dollar an Bundesmitteln, nachdem Betrugsvorwürfe bekannt wurden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegations",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-18T00:55:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "55688664101eae63",
-   "k": "finanzen",
-   "titel": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
-   "t": "Der Ölpreis gibt leicht nach, weil Prognosen für einen Angebotsüberschuss die Spannungen im Nahen Osten ausgleichen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T00:55:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "53d9423ff728f9c7",
-   "k": "usa",
-   "titel": "White House withdraws Heidi Overton’s FDA nomination after Trump pick received bipartisan pushback",
-   "t": "Das Weiße Haus hat die Nominierung von Heidi Overton für die FDA zurückgezogen, nachdem es überparteilichen Widerstand gegen sie gab.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/17/us-news/white-house-withdraws-heidi-overtons-fda-bid-after-nominee-received-bipartisan-pushback/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-18T00:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "66d74eefcb23f371",
-   "k": "finanzen",
-   "titel": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-   "t": "Japans Exporte sind im Oktober um 20,5 Prozent gestiegen und haben die Erwartungen übertroffen. Halbleiterlieferungen legten um fast 50 Prozent zu.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T00:35:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "77d8a93f2a4eb54b",
-   "k": "usa",
-   "titel": "Horrific treatment of California man imprisoned in Russia revealed as congressmen issue urgent appeal",
-   "t": "Ein in Russland inhaftierter Kalifornier wurde zu sechs Jahren Haft verurteilt. US-Kongressabgeordnete haben einen dringenden Appell für ihn veröffentlicht.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/17/us-news/santa-barbara-man-allegedly-beaten-in-russian-prison/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-18T00:33:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "b0a8d94ed7d37e92",
-   "k": "welt",
-   "titel": "A Hunger Crisis Is Making Ebola Even Deadlier",
-   "t": "Der Ebola-Ausbruch in Ostafrika verschärft eine Hungerkrise, die die Sterblichkeit der Infizierten erhöht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T00:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c796abc6a3b29b2b",
-   "k": "finanzen",
-   "titel": "Prognose: Boom um KI – Gelder für deutsche Start-ups fast verdoppelt",
-   "t": "Die Investitionen in deutsche Start-ups haben sich fast verdoppelt, getrieben von KI und Aufrüstung. Das Kapital konzentriert sich auf wenige Firmen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/technik/ki/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270756.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T23:41:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "88c202caa782d636",
-   "k": "finanzen",
-   "titel": "JPMorgan is working on AI agent transactions that don’t involve humans",
-   "t": "JPMorgan arbeitet mit Hyundai Card an KI-Agenten, die Finanztransaktionen ohne menschliches Zutun ausführen sollen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "quelle": "CNBC Finance",
-   "zeit": "2026-11-17T23:30:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c8bb5ac370e2486",
-   "k": "finanzen",
-   "titel": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
-   "t": "Nvidia hat für das abgelaufene Quartal Umsatz und Gewinn stark gesteigert und die Prognose für das laufende Quartal über den Erwartungen angehoben. Der frühere Vorstandschef Jensen Huang kehrt nach Unternehmensangaben nicht zurück.",
-   "e": "Die Zahlen liegen deutlich über den Analystenerwartungen und zeigen, dass das Chip-Geschäft trotz des Führungswechsels weiter stark läuft.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T22:57:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "9651fe06b8cfc3ff",
-   "k": "nrw",
-   "titel": "Hitzesommer - Nordrhein-Westfalen will Schulhöfe und Kitas besser an Extremwetter anpassen - Deutschlandfunk",
-   "t": "Nordrhein-Westfalen will Schulhöfe und Kitas besser an Extremwetter anpassen, nach den Erfahrungen der Hitzesommer.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTJUdWJGdHRoQ2Nya2tuRWdsZDNZRnpkQmlCT0hLbHlqU2g2aHMwVUNsMzl0SURJZ3NPaUhXbVg5cFV0cFo0eGRCLXRTTzNTdFBZQlNzVy1aaHBIa3ZfaFhmcjltV0pzS0RDd1BZZThhUkNuczhFXzNnRDI3V0FMS3RLdHRiS2VuUTV5WDFWNFBFRFZCX0N2cjFWa3pJUjZtNWxJYnQyN28yRmpSTGIzU052OXZuUXdL?oc=5",
-   "quelle": "Deutschlandfunk",
-   "zeit": "2026-11-17T22:47:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "2bfa3280828561e0",
-   "k": "finanzen",
-   "titel": "Banken: EU und Fed erlauben Commerzbank-Übernahme durch Unicredit - Handelsblatt",
-   "t": "Die EU und die US-Notenbank Fed haben die Übernahme der Commerzbank durch UniCredit genehmigt.",
-   "e": "Die Genehmigung ist ein wichtiger Schritt für die Neuordnung des deutschen Bankenmarkts und betrifft direkt Anleger und Kunden der Commerzbank.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUhGZ0swS3l1MGNMd1lXaGZoTTJKbHFPYmtNSWJZMjNMTFRuRUNYSGpjOFdYSUFaYjl3ZEZkY3FEcWRWcGRiZUxpZk5HdTBGVWNHTWhPX3FLcHhaTkRBdHk2MXNPWlFzMG9ncHFxUlJXaUM5S2NrcDdORmZuTjBMeWhrZTZYMDF1M0N5WTFjbTZOSXZfOWZrbXJBMkpWSDYtZkc2MG1tVUdjLUdvNXRTc3ZMakZSWDdJY0JoUk1VaHN5ODJnai0xUlJHNEltLWU2UXg2RUdna0RmYVFhLUNERQ?oc=5",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T22:41:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "04e9fe4a57c6ca1d",
-   "k": "usa",
-   "titel": "Appeals Court Questions Whether Fired NCUA Board Members Deserve Fed-Like Protections - CUToday",
-   "t": "Ein Berufungsgericht prüft, ob entlassene Mitglieder des NCUA-Vorstands ähnlichen Schutz wie Fed-Gouverneure genießen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk5oLVdOMXNUVHlCdnpmRkQyZEZiaTZCU3dsUm5rWFVzNllmNGM0Q0dlS0QxcFZXNXcwWHJDRE16cVJTRGp2emYtcm9ldUxqanh3bzVZYjQ3N3M1VGVtT0hRX2owREJ1N3FhcG1Hbi0xTjI3d1ZoTUFjLUU2cmlRTi1RSW03QUVYTVI5SnoxeVNNSnBDWktlTVUtVTdVMTZJck5QMlAtNUhqSEhzN0F6RUFtYnNONTY3MzJvbVNEbw?oc=5",
-   "quelle": "CUToday",
-   "zeit": "2026-11-17T22:40:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "54df0626230389dd",
-   "k": "usa",
-   "titel": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-   "t": "Abgeordnete beider Parteien wollen Exportkontrollen für KI-Chips nach China verschärfen. Die Vorschläge sollen in das jährliche Verteidigungsgesetz (NDAA) aufgenommen werden.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-   "quelle": "CNBC Politik",
-   "zeit": "2026-11-17T22:33:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "4b31abcd81004d8c",
-   "k": "finanzen",
-   "titel": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-   "t": "Die US-Derivatebehörde CFTC hat einige Trump-bezogene Erwähnungsmärkte von Kalshi vorläufig gestoppt. Hintergrund sind Bedenken wegen möglicher Manipulation.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-17T22:20:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "ebb9237be26c3791",
-   "k": "finanzen",
-   "titel": "Fed-Protokoll: Am Mittwoch um 20 Uhr zeigt die Notenbank, wie viele Falken schon im Oktober bereitstanden – wird das FOMC-Protokoll zum nächsten Zinsschock für die Wall Street? - AktienCheck.de",
-   "t": "Die Fed veröffentlicht am Mittwoch um 20 Uhr deutscher Zeit das Protokoll ihrer Oktober-Sitzung. Es soll zeigen, wie stark die Befürworter weiterer Zinserhöhungen damals waren.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3FJU3hiQjVfdmp3SmNIVzlCd3pkQlZ4dEVNTTdaZlQ2T1BXTUd3X2NNdmZUUzFoMUFUTWxYNW9FUjFvQkF5RlFTT0VmaHBnV3dxbVBjTlVCcHZSb2lXWjVWVXFhUVFHRHZBQ3JLUFRPd3Z0ZktBZGxHTDA3a2tmZWlWakdqSHRFb096OGFKWUF0Tlg4SS1IclBCRFIxQVB4NzhYRFgwczNqQ3h1VHc?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-17T22:18:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "151d149edeff8121",
-   "k": "usa",
-   "titel": "POWs, teens among 6 US soldiers from Korean War identified seven decades later",
-   "t": "Das US-Verteidigungsministerium hat sechs im Koreakrieg vermisste US-Soldaten identifiziert, darunter zwei Teenager.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.foxnews.com/politics/pows-teens-among-6-us-soldiers-korean-war-identified-seven-decades-later",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T22:16:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "103d62819733f7fa",
-   "k": "welt",
-   "titel": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
-   "t": "In Israel hat Matan Kahana von der Partei Yashar von Gadi Eisenkot das Amt des Knesset-Sprechers übernommen. Damit verliert Netanjahus Likud die Kontrolle über das Parlamentspräsidium, eine Regierung steht aber noch nicht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T22:12:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "49e0b2883c677129",
-   "k": "finanzen",
-   "titel": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-   "t": "Die Bank of America hält eine Zinserhöhung um einen halben Prozentpunkt im Dezember nicht für ausgeschlossen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T22:08:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "eb86af0642177e87",
-   "k": "welt",
-   "titel": "Proteste in Frankreich für höhere Gehälter und für bessere Bildungschancen",
-   "t": "In Frankreich gibt es Proteste für höhere Gehälter und bessere Bildungschancen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1685624.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T21:54:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "6249ed30abd3396b",
-   "k": "welt",
-   "titel": "Klima-Risiko-Index von Umweltorganisation Germanwatch: Immense Auswirkungen von Extremwetter",
-   "t": "Der Klima-Risiko-Index der Umweltorganisation Germanwatch zeigt die großen Auswirkungen von Extremwetter.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1685620.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T21:53:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "a29cc81e6ed9e1db",
-   "k": "finanzen",
-   "titel": "Verizon: Mobilfunk per Satellit – Verizon-Chef zeigt sich offen für Gespräche mit Musk",
-   "t": "Verizon-Chef Dan Schulman kann sich Gespräche mit SpaceX über Mobilfunk per Satellit vorstellen, setzt zunächst aber auf eigene Angebote.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.handelsblatt.com/technik/it-internet/verizon-mobilfunk-per-satellit-verizon-chef-zeigt-sich-offen-fuer-gespraeche-mit-musk/100270732.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T21:46:48+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,7 +3090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Tagesschau Inland",
@@ -3100,7 +3100,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -3150,7 +3150,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Fox News Politik",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 17
    },
    {
     "name": "Google News Fed",
