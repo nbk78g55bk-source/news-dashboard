@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-18T17:01:29.722961+00:00",
+ "aktualisiert": "2026-11-18T19:01:42.954123+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "62.591 $",
-   "delta": -1.6154296899840086
+   "wert": "63.121 $",
+   "delta": -0.8846847883322042
   },
   {
    "name": "Ethereum",
-   "wert": "1.744 $",
-   "delta": -1.7413403437928452
+   "wert": "1.769 $",
+   "delta": -1.0808403151520058
   },
   {
    "name": "Gold",
-   "wert": "3.746 $",
-   "delta": -3.0459073717492458
+   "wert": "3.740 $",
+   "delta": -3.201178839991481
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,372 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-18T11:01:43.516892+00:00",
+  "slot": 19,
+  "stand": "2026-11-18T19:01:42.954102+00:00",
   "punkte": [
    {
+    "k": "usa",
+    "t": "Fed-Gouverneur Christopher Waller hält Zinserhöhungen um 100 Basispunkte oder mehr für möglicherweise nötig, um die Inflation zu dämpfen. Laut CNBC stellen Fed-Vertreter weitere Zinserhöhungen im Dezember in Aussicht, der weitere Kurs bleibt aber unklar. Der Leitzins (Fed Funds) liegt bei 3,88 %."
+   },
+   {
+    "k": "finanzen",
+    "t": "Die Inflation im Euro-Raum steigt im Oktober laut bestätigter Schätzung auf 4,0 Prozent, vor allem wegen hoher Energiepreise. Der EZB-Zins liegt bei 2,50 %, und EZB-Chefvolkswirt Lane erwartet, dass der Preisdruck vorerst hoch bleibt."
+   },
+   {
+    "k": "finanzen",
+    "t": "Der iShares MSCI World notiert bei 127,11 €, der Deka Nasdaq-100 bei 174,48 € und der Deka DAX bei 224,80 €. Nach dem Rücktritt von Nvidia-Chef Jensen Huang hat die Nvidia-Aktie stark an Wert verloren, was wegen ihres Gewichts im MSCI World auch ETF-Sparer betrifft. Bitcoin fiel nach den Waller-Aussagen unter 63.000 Dollar und steht bei 63.121 $."
+   },
+   {
     "k": "welt",
-    "t": "Im Iran-Krieg greift Iran laut Meldungen Kuwait und Bahrain an, nachdem ein Gastanker in der Straße von Hormus in Brand gesetzt wurde. Parallel laufen weiter US-Luftangriffe, und das US-Militär bestätigt einen Angriff auf die iranische Insel Gheschm."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die Marktbeobachter erwarten laut Meldung, dass der Deka DAX 227,80 € zum Start kaum bewegt wird, weil nach dem Rücktritt von Nvidia-Chef Jensen Huang Zweifel an der Führung bleiben. Da Nvidia im MSCI World enthalten ist, sind auch ETF-Sparer betroffen, etwa beim iShares MSCI World 128,44 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der EZB-Zins liegt bei 2,50 %, die Euro-Inflation steigt laut Vorabschätzung im Oktober auf 4,0 Prozent, und im Dezember wird eine dritte EZB-Zinserhöhung diskutiert. Die Fed Funds liegen bei 3,88 %, und laut Marktbeobachtern gilt eine Zinserhöhung im Dezember als nahezu sicher, wodurch das Gold mit 3.771 $ unter Druck steht."
+    "t": "Iran hat Kuwait und Bahrain angegriffen, nachdem in der Straße von Hormus ein Gastanker in Brand gesetzt worden war. Ein dritter US-Flugzeugträger ist im Einsatzgebiet eingetroffen, während die Verhandlungen zwischen Washington und Teheran stocken."
    },
    {
     "k": "deutschland",
-    "t": "Union und SPD haben sich auf eine Senkung der Stromsteuer für alle Verbraucher ab 1. Januar 2027 sowie auf einen Spritpreisdeckel geeinigt, beide Maßnahmen sind zeitlich begrenzt. Die Finanzierung ist bislang nur für 2027 gesichert. Außerdem beraten die US-Gesandten Witkoff und Kushner am Donnerstag in Berlin über Sicherheitsgarantien für die Ukraine."
+    "t": "Union und SPD haben sich auf eine Senkung der Stromsteuer für alle Verbraucher ab 1. Januar 2027 sowie einen Spritpreisdeckel verständigt, beide Maßnahmen sind zeitlich begrenzt. Der norwegische Gaslieferant Equinor ist Ziel eines Cyberangriffs geworden, Norwegen hat die Sicherheitsstufe erhöht."
    },
    {
-    "k": "finanzen",
-    "t": "Die EU und die US-Notenbank Fed haben die Übernahme der Commerzbank durch UniCredit für 45 Milliarden Euro genehmigt. Die Deutsche Bank steht nach einem Datenleck mit laut Bericht rund 15 Millionen internen Dokumenten in der Kritik."
-   },
-   {
-    "k": "usa",
-    "t": "US-Präsident Trump reist nach Gesprächen mit indopazifischen Verbündeten in Manila weiter nach Shenzhen zu einem Dreiertreffen mit Xi Jinping und Wladimir Putin. In Alaska hat die Demokratin Mary Peltola den Republikaner Dan Sullivan geschlagen, die Demokraten kommen im US-Senat damit auf 56 der 100 Sitze."
+    "k": "nrw",
+    "t": "Im Müllheizkraftwerk Iserlohn ist ein Großbrand ausgebrochen, als Ursache wird ein Hitzestau vermutet. Zudem weitet die IG Metall ihren Arbeitskampf aus, in Iserlohn und Hemer stehen neue Warnstreiks bevor."
    }
   ]
  },
  "items": [
+  {
+   "id": "042657d46036f46c",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Ukrainische Angriffe auf Raffinerien – Russland importiert offenbar Rekordmengen an Benzin",
+   "t": "Ukrainische Angriffe auf russische Raffinerien laufen weiter, Russland importiert offenbar Rekordmengen an Benzin. Im Vorfeld des Gipfels in China werden Gespräche zwischen Merz, Trump, Xi und Putin vorbereitet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-importiert-offenbar-rekordmengen-an-benzin/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T18:49:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "beec1a15f87bdd28",
+   "k": "welt",
+   "titel": "Deal mit Putin: Warum doch kein russischer Diesel in den USA ankommt",
+   "t": "Trumps geplanter Diesel-Deal mit Putin kommt nicht zustande, es gelangt kein russischer Diesel in die USA.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/trumps-diesel-deal-mit-putin-warum-kein-tanker-in-den-usa-ankam-201676686.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T18:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6c01670064a13fd4",
+   "k": "deutschland",
+   "titel": "Technische Störung legt Nürnberger Hauptbahnhof komplett lahm",
+   "t": "Eine technische Störung hat den Nürnberger Hauptbahnhof komplett lahmgelegt, Fern- und Regionalverkehr sind betroffen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/vermischtes/article6afdea10a0547afb26e791fe/im-feierabendverkehr-technische-stoerung-legt-nuernberger-hauptbahnhof-komplett-lahm.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T18:41:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "b392e9ee00fe27be",
+   "k": "welt",
+   "titel": "China-Sonderuntersuchung: US-Kongress fordert von Mercedes Einblick in Vorstandsnotizen und Verträge",
+   "t": "Der US-Kongress leitet eine Prüfung gegen Mercedes ein und fordert Einblick in Vorstandsnotizen und Verträge. Es geht um chinesische Großaktionäre und technologische Partnerschaften.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-benz-unter-druck-us-kongress-fordert-vertraege-und-vorstandsnotizen-201694477.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T18:39:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "5c47dca5bb20e49c",
+   "k": "finanzen",
+   "titel": "Fed-Vertreterin Daly hält weitere Zinsanhebungen für nötig – mahnt jedoch zur Vorsicht - Investing.com Deutsch",
+   "t": "Fed-Vertreterin Mary Daly hält weitere Zinserhöhungen für nötig, mahnt aber zu einem vorsichtigen, abgewogenen Vorgehen.",
+   "e": "Die Aussage zeigt, dass im Fed-Gremium weiter über Zinserhöhungen diskutiert wird, während die Inflation erhöht bleibt.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVBjQWxOLWJWUUhqMkxQV3VpVmctLWIwUGhDckNzak8yNktNYTNwUGVuUDFEXzg3b1VkREMxRnFfV3Y2ejFubjIyRWNHd0s5dW9wZC16MV84ekJFajFrejBBczZMZ25JelU5MTA0c1p4OUdXWW9uMEhndWJFS2VEZUVFRVlSWmJYSm9iYUhCVGJFc2VmbFR3ZjNGVVJLekZMZWZLR0luODVDRjY5NjhCY2RxRE1iQnA3aXlRWGRocnNLV0dGZ3dNV2hwdVVraTVO?oc=5",
+   "quelle": "Investing.com Deutsch",
+   "zeit": "2026-11-18T18:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "178b2d93df991a80",
+   "k": "finanzen",
+   "titel": "Federal Reserve Minutes - The Batesville Daily Guard",
+   "t": "Das Protokoll der US-Notenbank Fed zur letzten Zinssitzung ist veröffentlicht worden. Es liefert Hinweise auf die Sicht der Währungshüter zu Zinsen und Inflation.",
+   "e": "Die Protokolle zeigen, wie breit die Zinsdebatte im Fed-Gremium geführt wird und wie stark der Kurs bei kommenden Entscheidungen sein könnte.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjhlTy1USnhwV1FidHVuRGlmY1dHY0RpZHlkQlQ5YmNReWFVZGJacmE1RFJfeTVTNnlLbUJTM2lyZEFBaTFqeTRTRDdWd0RaZ2lIdGpreS1nRXYzZzZZNVBCY2dnQmhNdDRfMHBYbXFaUFk3allXZlpZU0M3bWNSbExaUW03TDNac25WT1pYVHQzLW5GNEplZGZwRVMzNmtiMV9QZjlyZWQxSmlfWEQwSUNrOA?oc=5",
+   "quelle": "The Batesville Daily Guard",
+   "zeit": "2026-11-18T18:31:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "8f0314e512647a5f",
+   "k": "usa",
+   "titel": "«Fisch, Familie, Freiheit»: Die Demokratin Mary Peltola gewinnt die Senatswahl in Alaska",
+   "t": "Die Demokratin Mary Peltola hat die Senatswahl in Alaska gewonnen, in einem konservativ geprägten Bundesstaat.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/senatswahl-in-alaska-mary-peltola-triumphiert-mit-fisch-familie-freiheit-ld.10067763",
+   "quelle": "NZZ",
+   "zeit": "2026-11-18T18:29:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "25f0bc4bf96e6a39",
+   "k": "welt",
+   "titel": "Kiews Unterstützer: Ein Gipfel im Schatten des Gipfels",
+   "t": "Die Koalition der Willigen kommt am Donnerstag in Berlin zusammen, auch US-Unterhändler Witkoff und Kushner werden erwartet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/ukraine-gipfel-in-berlin-im-schatten-von-trumps-treffen-in-shenzhen-201695348.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T18:29:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "db5a518d81b7b309",
+   "k": "finanzen",
+   "titel": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+   "t": "Der Bitcoin-Miner MARA hat nach dem Verkauf von Bitcoin im Wert von 1,1 Milliarden Dollar eine neue Schuldenemission über 185 Millionen Dollar platziert, um den Ausbau seiner KI-Infrastruktur zu finanzieren.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T18:27:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "a18658c446832dec",
+   "k": "finanzen",
+   "titel": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
+   "t": "Nvidia hat für das abgelaufene Quartal die Erwartungen übertroffen und einen starken Ausblick gegeben. Interimschefin Colette Kress äußerte sich zu Nachfrage, Aktienrückkäufen und China.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T18:14:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "2419ce1ca64c9ccd",
+   "k": "usa",
+   "titel": "Investigators make progress in hunt for cause of FAA ground stop",
+   "t": "Ermittler suchen weiter nach der Ursache für einen vierstündigen FAA-Flugstopp in den USA am Freitag.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T18:13:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "edf4655018d26ab2",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: A4 Richtung Olpe bleibt länger gesperrt - n-tv.de",
+   "t": "Die A4 in Richtung Olpe bleibt länger gesperrt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZms5NVE3bGtWXzByb1VBc25ENG9HdjBvRWpSOUhkRkUySFFDRVpJQUd6WDZHTEM0b0FhMlk0RHFseEFmb3gtZ3pVU21NeDBtZVB0X0xPOTY1N0wzd1o0RTlmelRackV2UnhLUWI5SmxMTnR6VGpldGdINlZ3c1Q0WFZWTXNzUTFHT056VEYzektiaWYyOXpIc2RobW9tck83ZzJwbERQSDlLUE0?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T18:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "fa1ef8d53fb12f24",
+   "k": "finanzen",
+   "titel": "„Eine Übernahme durch BASF lehnen wir ab“ - Manager Magazin",
+   "t": "Ein Unternehmen lehnt eine Übernahme durch BASF ab, wie das Manager Magazin berichtet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX2tpZXM0SnREa0VxcGdCUEVDdmZibkRjdzFlVkNESzNTYXMzWkk4c0xOaGtMdm9ueFB4VF9semdpMEFmTmswS3BKdGg4Q2I2WDVPaDVaZkthVmg5TmpjN1BlelctZXFaU0tkUlgzY3BCVWc2c3hyZXloX3VRU0pmMDc5QzJacTVDRjdIYjhXRVJPUHNaZGsyMEVyVy12VGM3Z3VyWVBYR0k3bEpMSWJqSnM1ZU4tXzhQZUhSNHVpRm1LNWYtbXRQalZSV3VqN0Z0SlpYM2hBTlVOV1EwUUp6ZXdHRkliS0Q1d0E?oc=5",
+   "quelle": "Manager Magazin",
+   "zeit": "2026-11-18T18:05:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "811adadae47c2aad",
+   "k": "welt",
+   "titel": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+   "t": "Die EU-Kommission will der Ukraine einen neuen Kredit gewähren, den größten Teil soll die Union übernehmen. Zur Rückzahlung sollen künftige russische Reparationen dienen, einige Mitgliedsstaaten zögern.",
+   "e": "Die Finanzierung hängt an der Einigung der Mitgliedsstaaten und an der ungeklärten Frage russischer Vermögenswerte.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T18:02:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5ef33add832c295",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: NRW-Fluchtministerin lehnt Abschiebezentrum in Ruanda ab - tagesschau.de",
+   "t": "NRW-Flüchtlingsministerin lehnt ein geplantes Abschiebezentrum in Ruanda ab.",
+   "e": "Die Position betrifft die Asyl- und Abschiebepolitik der Bundesländer und ist Teil der bundesweiten Debatte.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzVGbDJaWUVuUk1TLUkzekh3b2NubUVtbVlLNWYwSElTVC1hcGNRUzhjSzZOSjZSTTY0bm1IbFBqVmd0T0xyaUdxVnV3U2tHZ0U0MHN3UVMzSmxnNlNQM2d5Z0tLZTBwempObDZwazlvTWE1MHhzb3RkSk1ZeGhYTVE0WnJrSzE2azBJZnk4WXNadU9JaXhQZnV0dlpiUEoxYm1xLUJMX3lOdTZud3BwWGtQZmd6S1F2M3ZRLWZlVFVOWUpsY3o3aG1kZFJfclU0OUNkUWRMbS14b1dVaDZDOHZn?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-18T18:00:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "d9e2ce4d81a454f0",
+   "k": "welt",
+   "titel": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
+   "t": "Europa hat russische Energieimporte reduziert, ist bei elektrischen Autos und Solartechnik nun aber stark auf chinesische Produkte angewiesen. Preisunterschiede erschweren den Schutz heimischer Industrie.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.wsj.com/business/energy-oil/europe-ditched-russian-fuel-now-its-hooked-on-chinese-green-tech-instead-6d3f2fd6?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-18T18:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b4ba5f3ca9bfffe3",
+   "k": "finanzen",
+   "titel": "Italiens Meloni traf EZB-Favoriten de Cos - MarketScreener Deutschland",
+   "t": "Italiens Ministerpräsidentin Meloni hat Gespräche mit Boris de Cos geführt, der als Favorit für die Nachfolge in der EZB gilt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeE92dkJDQ0pDTXNrX0hxSmdvSlpyWU5VX1BpWWx5UjBHdVVNTm0xaXFKcG4zX1l5bUpNUllfc1ZuZzNqV0dNUjlnalBZMENMQWQ4bFFxNFlhQjV3TmhKTGpXelRMS0pBMlUtejVzck5XdUNTOUFVc0NxZG9VWXVreHlRdWE0WUJpY3dvaHBjZVF3S2diRlJrOTJ6T0Z1UVhyWU5pblp0aTh4SXM?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-18T17:57:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "beef3b23bc950c0b",
+   "k": "finanzen",
+   "titel": "Dritthöchste Schulden in EU: EZB zählt Defizit-Sorgenkind Frankreich an - n-tv.de",
+   "t": "Die EZB zählt Frankreich wegen seines Defizits zu den Sorgenkindern in der EU, Frankreich hat die dritthöchsten Schulden in der Union.",
+   "e": "Hohe französische Schulden können Renditen von Staatsanleihen steigen lassen und die Debatte über Euro-Stabilität anheizen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXhWMnFTNTBXbUxuRUFtWkZWUXZmUDE5ZUVDOGhxRnk1MWxXLXMySENJbUpJMDJISElGaElRVzhocGxlenUzUjVBeGtmekU2Q0pqSWR0R0ZndUpuUlRjdnJLd1Z2U19VbDdEMnliX2psRFlyNU9yZVBDazdrdkQ1SkFnTzMxZkU3SjhXZ2kxWm1Pemxv?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T17:53:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "116a5f790cd5fb53",
+   "k": "usa",
+   "titel": "Social Security should be shut down, this Republican senator says",
+   "t": "Ein republikanischer Senator fordert, die Sozialversicherung abzuschaffen. Die Treuhandfonds könnten laut Prognose in den nächsten sechs Jahren erschöpft sein.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T17:46:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7968566f83185fcb",
+   "k": "welt",
+   "titel": "Präsidentschaftskandidat: Istanbuls Ex-Bürgermeister Imamoglu mit Politikverbot belegt",
+   "t": "Der inhaftierte Istanbuler Ex-Bürgermeister Imamoglu ist mit einem Politikverbot belegt worden. Damit könnte er nicht als Präsidentschaftskandidat gegen Erdogan antreten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/praesidentschaftskandidat-istanbuls-ex-buergermeister-imamoglu-mit-politikverbot-belegt/100271047.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T17:42:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "5910bc94a8a748d9",
+   "k": "nrw",
+   "titel": "Kulturausschuss in Iserlohn abgesagt: Beschlussvorlagen fehlen - IKZ-Online",
+   "t": "Der Kulturausschuss in Iserlohn ist abgesagt worden, weil die Beschlussvorlagen fehlen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjdWM2MtZllVb3RQRk9uYzFISnV2VW9UUGJmM01DNVpYd2RfMC1ocW9sNlQxR1BYa0ltMk11Q3BGM1F4eTA2OGFWUERrMmJxZUl0TmQzQ3FncGFXdnFkLXZqak9rQThQcDZGclJ6b3RrMWV4S1FEN2ZMS250blZNTHg2aHBTUndDaVhaLW4wN3BvWTZ0Nm04MDV2OUd2N1oxRjBIYVBpTnZWdEFFQmh5NnBNWWtocjRNdy05djFiTWdoTFJJ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-18T17:28:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "ec2bfc470d426128",
+   "k": "welt",
+   "titel": "Die Krim-Brücke ist schwer beschädigt. Wie Putins Prestigeprojekt zum Angriffsziel der Ukraine wurde",
+   "t": "Die Krim-Brücke ist nach einem ukrainischen Angriff schwer beschädigt worden. Die Brücke gilt als Prestigeprojekt Putins.",
+   "e": "Der Angriff trifft eine wichtige Versorgungsroute Russlands auf die Krim und zeigt die anhaltende militärische Lage.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/die-krim-bruecke-ist-schwer-beschaedigt-wie-putins-prestigeprojekt-zum-angriffsziel-der-ukraine-wurde-ld.10067280",
+   "quelle": "NZZ",
+   "zeit": "2026-11-18T17:27:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "931551d044daef4a",
+   "k": "finanzen",
+   "titel": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+   "t": "Ein Krypto-Startup mit 1,5 Milliarden Dollar Bewertung tritt mit einem Wall-Street-Ansatz gegen die Handelsplattform Hyperliquid an.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-18T17:22:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "d6ed4db7670f7149",
+   "k": "usa",
+   "titel": "Dems probe Lutnick son’s ties to Nvidia, stock trades in China ‘spy’ scandal investigation",
+   "t": "Demokraten im US-Repräsentantenhaus verlangen von Lutnick-Sohn Nvidia-Handelsunterlagen und interne Kommunikation im Zusammenhang mit einer Untersuchung zu China.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/18/us-news/dems-probe-lutnick-sons-ties-to-nvidia-stock-trades-in-china-spy-scandal-investigation/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-18T17:21:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "58771fd6852dd1cd",
+   "k": "finanzen",
+   "titel": "Enthüllungen: Deutsche Bank im Stresstest",
+   "t": "Ein Datenleck hat Enthüllungen über die Deutsche Bank ausgelöst, die laut Bericht bis weit in die Vergangenheit zurückreichen. Es wird gefragt, ob Vorstandschef Christian Sewing sich halten kann.",
+   "e": "Solche Vorgänge können Vertrauen in ein systemrelevantes deutsches Institut belasten und Aufsicht sowie Reputation des Hauses unter Druck setzen.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/finanzen/deutsche-bank-im-datenleck-stresstest-kann-christian-sewing-bleiben-201694095.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-18T17:18:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "9b57a42cdb16cedc",
+   "k": "welt",
+   "titel": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
+   "t": "Österreich prüft die Aberkennung der Staatsbürgerschaft der Ex-Außenministerin Karin Kneissl, die in Russland lebt und sich hinter Putin stellt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T17:17:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5db969a3780f171",
+   "k": "finanzen",
+   "titel": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+   "t": "Ein US-Gericht hat in einem Verfahren um Ethereum-MEV einen Freispruch über 25 Millionen Dollar gefällt. Die rechtlichen Risiken für Erträge aus gestaketem Ether bleiben offen.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T17:05:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "b90bce0b4fda1753",
+   "k": "finanzen",
+   "titel": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
+   "t": "Der US-Dollar notiert auf einem Jahreshoch, trotz früherer Erwartungen nach dem Zollschock im April 2025.",
+   "e": "Ein stärkerer Dollar wirkt sich auf Rohstoffpreise, Importe und die Lage für Euro-Anleger aus.",
+   "s": 6,
+   "link": "https://www.nzz.ch/wirtschaft/der-dollar-notiert-auf-jahreshoch-diese-vier-gruende-stehen-dahinter-ld.10067302",
+   "quelle": "NZZ",
+   "zeit": "2026-11-18T17:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "bd50fbcbf8c19d20",
    "k": "deutschland",
@@ -442,6 +778,18 @@
    "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
    "quelle": "CNBC",
    "zeit": "2026-11-18T15:00:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "5ed2feb78fad8fee",
+   "k": "nrw",
+   "titel": "330 Lkw und Sperrung: So sollen die Arbeiten bei Christophery in Iserlohn laufen - IKZ-Online",
+   "t": "Bei Christophery in Iserlohn sind rund 330 Lkw-Bewegungen und eine Sperrung für die Arbeiten geplant.",
+   "e": "Die Maßnahmen betreffen den Verkehr in Iserlohn direkt und sind für Anwohner und Pendler relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFU1NC1oWWtqS2JPaW5ENXJfRVFJOFlsaXdsNXR4Y0pSYXpudzdMQlFEaGFaWkl5LUNzb2VvSFJ0SUNCSmNJczVvVVVlQXdzNFpkUjZXZVBPUzRTdVgxRUUzTFdXb1VsdGVGX19ySnJxb2I2dGRPOFN6R3dEVWh1UTcxbWRzNEZ5TGYwbDMzVUdZTko5M3FJdGY4QmJKQjF4M3hTVVBGWHZrVGV3dzF3eENOcWhFWlVQdWJZVVVuU3ZCWEZYQnZGRTNxd01vVkhTZjRmN0MwYmZUOEVV?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-18T15:00:00+00:00",
    "tag": null
   },
   {
@@ -838,6 +1186,18 @@
    "link": "https://www.foxnews.com/politics/us-launches-unarmed-icbm-trump-asia-routine-test",
    "quelle": "Fox News Politik",
    "zeit": "2026-11-18T13:05:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "a316393f9c8e3596",
+   "k": "deutschland",
+   "titel": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
+   "t": "Sturm und Starkregen haben in Deutschland zahlreiche Einsätze von Polizei und Feuerwehr ausgelöst, mancherorts fielen binnen 24 Stunden rund 50 Liter Regen pro Quadratmeter. Für fast ganz Deutschland gelten Unwetterwarnungen.",
+   "e": "Die Lage soll zunächst anhalten, relevant auch für den Märkischen Kreis und das Sauerland.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-18T12:59:46+00:00",
    "tag": null
   },
   {
@@ -1257,6 +1617,18 @@
    "s": 5,
    "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-union-100.html",
    "quelle": "Tagesschau",
+   "zeit": "2026-11-18T10:32:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "489c9fea9ca8c0c3",
+   "k": "deutschland",
+   "titel": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
+   "t": "Der Fraktionsvize der Union sieht Nachholbedarf bei der Politik für junge Menschen. Hintergrund sind massive Gewalt bei Gen-Z-Demos Ende Oktober und neue Kundgebungen am Freitag.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-union-100.html",
+   "quelle": "Tagesschau Inland",
    "zeit": "2026-11-18T10:32:57+00:00",
    "tag": null
   },
@@ -2711,378 +3083,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-17T21:46:48+00:00",
    "tag": null
-  },
-  {
-   "id": "dc5373ee6cce3561",
-   "k": "welt",
-   "titel": "Neuanfang in Serbien: Studentenbewegung zieht ins Parlament ein",
-   "t": "Die Studentenbewegung in Serbien zieht mit eigenen Abgeordneten ins Parlament ein.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1685618.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T21:46:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "538299799936e071",
-   "k": "welt",
-   "titel": "Can a New Leader Make the U.N. Relevant Again?",
-   "t": "Bei der UN-Generalversammlung steht eine wichtige Abstimmung über die Nachfolge von Generalsekretär António Guterres an.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/can-a-new-leader-make-the-u-n-relevant-again-2893f9ef?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-17T21:43:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c19a1a6a694d6a13",
-   "k": "deutschland",
-   "titel": "LKA Sachsen-Anhalt prüft Nötigungsvorwurf nach CDU-Fraktionssitzung",
-   "t": "Das LKA Sachsen-Anhalt prüft einen möglichen Nötigungsvorwurf nach einer CDU-Fraktionssitzung. Dabei geht es um die Frage, ob CDU-Abgeordnete AfD-Kandidaten gewählt haben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6afcc2c6a883f861e532fdc6/erklaerung-zu-afd-stimmen-lka-sachsen-anhalt-prueft-noetigungsvorwurf-nach-cdu-fraktionssitzung.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T21:41:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "983bec022dbec0d6",
-   "k": "welt",
-   "titel": "Schwere Schäden an der strategisch wichtigen Krim-Brücke nach ukrainischen Angriffen",
-   "t": "Ukrainische Angriffe haben die strategisch wichtige Krim-Brücke schwer beschädigt.",
-   "e": "Die Brücke ist eine zentrale Verbindung zwischen Russland und der besetzten Krim, ihre Beschädigung hat militärische und logistische Bedeutung.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1685614.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T21:35:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "b038f8ad91ec7869",
-   "k": "deutschland",
-   "titel": "Koalitionsausschuss ringt in Berlin um Senkung der Stromsteuer",
-   "t": "Der Koalitionsausschuss in Berlin berät über eine Senkung der Stromsteuer. Dabei steht auch eine Finanzierungslücke von fünf Milliarden Euro auf der Agenda.",
-   "e": "Eine Stromsteuersenkung würde Haushalte und Industrie entlasten, die Finanzierungslücke zeigt die angespannte Haushaltslage des Bundes.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1685610.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T21:31:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "32af0f93f8536fa6",
-   "k": "usa",
-   "titel": "US-Geheimdienste: \"Iran erwog Einsatz von Schmutziger Bombe in Washington\" : International : JKN - 재경일보",
-   "t": "US-Geheimdienste berichten, Iran habe den Einsatz einer schmutzigen Bombe in Washington erwogen.",
-   "e": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcEJreXYwNjE3aVVBLUV4OGc5VjdCQnZnS1hyREQtRHlhbHp5NGxaTEZLd0tHNEg3dURXS3ZUQmxPNHZDck1nN203b3o5OG5mdWJRdkIwWHhBZFpfWGFhcw?oc=5",
-   "quelle": "재경일보",
-   "zeit": "2026-11-17T21:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "600233494d3fa5b3",
-   "k": "finanzen",
-   "titel": "Schwellenländer-Anleihen: Emissionen brechen um 41 Prozent ein, Kolumbien leiht sich trotzdem Rekordsummen – trägt die Knappheit durch die Fed-Zinswende? - AktienCheck.de",
-   "t": "Die Emissionen von Anleihen aus Schwellenländern sind um 41 Prozent eingebrochen, während Kolumbien Rekordsummen aufnimmt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1KZEU0Z3FoandEVHJOSjhDSGp3WnBlX252VDQyVXN3RjdlRGN4OEI2OUtid3lWbHhrbkJpQ2JXclNrUEZCN1h6TlNQOGFsR3l3SG9pTVdaZm80NUJ3cmFYWTh4TzJhY0IyVnhvaVVuUFEwaFJwRmZManpUTUlTbGoyaTRkRlpHRWxkY1lsZTk0MHctSU9SNlpZSWhWOFl6bDZJTWtaUjBqdVNuaEE?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-17T21:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "49c58e1d819e0a8d",
-   "k": "usa",
-   "titel": "Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’",
-   "t": "Ein hochrangiger US-Regierungsvertreter stellt den Bericht von CNN über eine mögliche schmutzige Bombe aus dem Iran in Frage. Trump hatte Iran für den Fall eines Angriffs auf Washington mit hohen Konsequenzen gedroht.",
-   "e": "Die widersprüchlichen Einschätzungen zur Bedrohungslage sind politisch brisant, weil sie Eskalationsrisiken im Nahen Osten berühren.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T21:11:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "acf0955ab181ddce",
-   "k": "usa",
-   "titel": "Fed’s Lisa Cook to skip dubious hearing with Trump’s ‘committee of inquiry’ - MS NOW",
-   "t": "Fed-Gouverneurin Lisa Cook wird an einer Anhörung eines von Trump eingesetzten Untersuchungsausschusses nicht teilnehmen.",
-   "e": "Der Streit um Cook berührt die Unabhängigkeit der Notenbank gegenüber dem Weißen Haus, ein Thema mit Bedeutung für Zinsen und Finanzmärkte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejcxR05Za3JtSU5JT1pVN3VTRGMzUkgtRk9BSi1UdFNnM3QzRHFKckVxR1JyeDVneXJtZjdQZXp1MVMxMWFCT3gyUkJTNlo3WDhiUWFHMUM0YUNBTENPVWpfa1E0YllxLU9SLVBQeWpnUVRfZVJ3eEYwVngxdEYyaDdNazVKTy1BM0d6UVdKRThibDZfUWp3QXNPVWxBYkhGU1RWNWVSZWRRLTVyWFpZ?oc=5",
-   "quelle": "MS NOW",
-   "zeit": "2026-11-17T21:10:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "f01814aa14d943d9",
-   "k": "finanzen",
-   "titel": "Federal Reserve Governor Lisa Cook's attorneys say she will not attend WH hearing without changes - Just The News",
-   "t": "Die Anwälte der Fed-Gouverneurin Lisa Cook erklären, sie werde an einer Anhörung im Weißen Haus nicht teilnehmen, solange keine Änderungen vorgenommen werden.",
-   "e": "Der Streit berührt die Unabhängigkeit der Federal Reserve gegenüber der US-Regierung.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjRiT3RTWFl2b1ZiY3RpRVpYUUNfNUozOHFWakNqSWdacDFGLVpOUU9XblJ4eEtSak0zWmpyc3gzdGNvY2x0Y2dDZ2V6ZUlDTlFkd2dHeHN1VWlRR3ZrT1lpWF9UdnVyM0RCOTZfQVRqbGktX3I2am9TYm42eVBncmRPQWljNjFMTkdPRmMtNjZTbE9UN1VfbWsybjZjdmVhaHgwSl9UOXJraWNNMWM0VnJ3R3gxREhQVFE?oc=5",
-   "quelle": "Just The News",
-   "zeit": "2026-11-17T21:08:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "66b640f3733ab17b",
-   "k": "usa",
-   "titel": "Federal Reserve's Cook declines to participate in White House hearing - The Killeen Daily Herald",
-   "t": "Fed-Gouverneurin Cook nimmt nicht an einer Anhörung im Weißen Haus teil.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdXJfTDd1aDZvNzZLMXloT2MyNmZ4RDlaMGNGbVlqN3JBT00yWVptZnR0Ty1HWHJfZFBQaVNSSzN5UHBJSzVXQ2E5QlhLLXZwSkE2TmVZV0FvRTBsRDk3d2FSdzFNOEJuZzU3UU9OeDFXOFlqRTNFWVRvRXlaRDJ1b0N1bWgzdE1ubl9kVTFzZ3RiekR6MENCcG43NXlmOXBKTG84VGY5aklvUE1iT1VXRGJSVEpCbzJ0UERPSE5TMVZmR1FQQkpEV0U5NkpCYzNBTHR5Q2c2LWZPUjVoVjV1R2tGbURxM00?oc=5",
-   "quelle": "The Killeen Daily Herald",
-   "zeit": "2026-11-17T20:59:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "110f3e11c3f6f95f",
-   "k": "usa",
-   "titel": "Federal Reserve's Cook declines to participate in White House hearing - Corsicana Daily Sun",
-   "t": "Fed-Gouverneurin Lisa Cook verweigert die Teilnahme an einer Anhörung im Weißen Haus zu ihrer möglichen Entlassung und begründet dies mit Voreingenommenheit.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnppVWR3ZnBueW1HaHcyYk05M0pPQWs5Nkx4SmdkaXpCaTBnQTNhN01fV21vaVFHYlU3LVFRYnpnQ0YyMEluSnBIYkxxalBoVHFaMmtidnJjVEx0UEIzb3NwWnVJTFAwTnhObXFhamxocGIyd0xLNEQ2RUNnd2dVMzk4Rjh1dGI3OV9HZkdUakxFVF9CQ0JXUS13aHhDYmRhSmd4REt3NVppVEZyXzc5cVJLcnpfQVFqZXRwU3lpaEdWQTRGX0VkcE51dWVKRDlZY2I5UHlnMmlVNGhZUWdJYmxHSU9IdEtmcUs5U0pCTnc0V2c?oc=5",
-   "quelle": "Corsicana Daily Sun",
-   "zeit": "2026-11-17T20:59:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "a83a8f9ac04cd722",
-   "k": "finanzen",
-   "titel": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
-   "t": "Die Aktie von Summit Therapeutics fällt erneut, nachdem die FDA eine neue Studie für ein Lungenkrebsmedikament empfiehlt. Die Mitteilung der Behörde fiel umfangreicher aus als die Ankündigung des Biotech-Unternehmens.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T20:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dccad745336b7005",
-   "k": "usa",
-   "titel": "5 Takeaways From Navy Nominee’s Rocky Hearing",
-   "t": "In einer schwierigen Anhörung zur Nominierung eines Marine-Kandidaten räumte Hung Cao ein, dass wegen Munitionsknappheit während des Iran-Kriegs abgelaufene Tomahawk-Raketen eingesetzt wurden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/politics/national-security/5-takeaways-from-navy-nominees-rocky-hearing-0ca74829?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-17T20:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b6f387eb899386eb",
-   "k": "finanzen",
-   "titel": "Datenleak: Trump wirft Deutscher Bank illegale Weitergabe seiner Unterlagen vor",
-   "t": "Die Deutsche Bank soll im Zusammenhang mit einem Datenleck Steuerunterlagen von US-Präsident Trump versehentlich verschickt haben. Trump wirft der Bank eine illegale Weitergabe vor.",
-   "e": "Das Datenleck belastet die Deutsche Bank zusätzlich; zuvor waren bereits Aktienkurse unter Druck geraten.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/datenleak-trump-wirft-deutscher-bank-illegale-weitergabe-seiner-unterlagen-vor/100270741.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T20:51:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "5932157c9bb10900",
-   "k": "finanzen",
-   "titel": "AI could transform the economy, but the Fed is struggling to predict how - WSET",
-   "t": "Die Fed tut sich schwer, die Auswirkungen von KI auf die Wirtschaft vorherzusagen, obwohl KI die Wirtschaft stark verändern könnte.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHNaWk9DNWJBRWVmOHJvaGVUUHZWMUE5NVU4cFM4bmlORjZyenZ5NkNwWmNrT3ZqR25Uc0pIU0NWbDZoemlQZVVsT1JyRmZGWWE5UU55azJwaWZWZGJGNkc1b3V1bVVrMjFPRzNPeVR5cnE3cVd3TWV0Uzl2MERrQWlIUnNSeWU3bzVINUNxeExFSDN1V3dXREp0ZUU1ZUd6VEFSM3VjazV4QjRncDZfbzJ3T0dfWG1P?oc=5",
-   "quelle": "WSET",
-   "zeit": "2026-11-17T20:47:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "7b7fb021b1d6f172",
-   "k": "usa",
-   "titel": "IT-Ausfälle: Netzwerk von US-Geheimdienst gestört – Hacker greifen weltweit Websites an",
-   "t": "Nach mehreren IT-Pannen meldet der US-Geheimdienst NSA gestörte Netzwerke, spricht aber nicht von einem Cyberangriff. Parallel soll es Angriffe auf fast 200 große Webseiten gegeben haben, im Kongress wird Aufklärung gefordert.",
-   "e": "Die Ausfallserie bei Banken, Flugverkehr und Diensten wie Apple zeigt die Abhängigkeit von vernetzter Technik.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/it-ausfaelle-netzwerk-von-us-geheimdienst-gestoert-hacker-greifen-websites-an/100270731.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T20:45:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "b15959b8a9702678",
-   "k": "finanzen",
-   "titel": "Private equity has been buying up hospice centers — with striking consequences",
-   "t": "Eine Untersuchung zeigt, dass Hospiz-Einrichtungen in Besitz von Private-Equity-Firmen höhere Medicare-Kosten verursachen und Patienten länger bleiben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T20:40:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "444fca867a9a3178",
-   "k": "finanzen",
-   "titel": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
-   "t": "Der VIX, der Angstindikator der Wall Street, steigt den vierten Tag in Folge. Optionshändler zeigen so viel Angst wie seit April nicht mehr.",
-   "e": "Ein steigender VIX signalisiert erhöhte Unsicherheit an den US-Börsen.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-17T20:28:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "2bb55bda15f532a0",
-   "k": "finanzen",
-   "titel": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
-   "t": "Gold befindet sich in einem Bärenmarkt. Nach dem größten Krypto-Hack und Ausfällen in der digitalen Welt wird physisches Gold als krisensicherer Wert diskutiert.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T20:24:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ca35e103f48cb56b",
-   "k": "finanzen",
-   "titel": "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action' - Reuters",
-   "t": "Fed-Präsident Williams befürwortet weiterhin eine straffere Geldpolitik, hält ein drastisches Handeln aber derzeit nicht für angebracht.",
-   "e": "Die Aussage deutet auf eine vorsichtige Haltung der Fed bei den Zinsen hin, trotz hoher Inflation.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk9OREc3MG52anFIVXNNUy1VaUhIWnJ3bTZjS2RhQVZaSHgzV1VXZEpqSmVMR2pHdGpVdTFRbXlKWFhPLXBXTWtVX0NvQ2xScUk0dnI5MjA5VVpLQTF0YkIwYi1uMjNyTGZaTlloNjE4c0dlMmhlOTJxWVQ0RVkzMG12WEZPRTFyZnNLU3V2TmFqYmNMUUhYRXJ2SGdySEFKdnN4c1Q2MDdrVW5NTTY0UFBVeTVpb1QzODBOMHFLQlRCaDA?oc=5",
-   "quelle": "Reuters",
-   "zeit": "2026-11-17T20:16:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "dc553931f3428a3c",
-   "k": "finanzen",
-   "titel": "US 10-Year Yield Set for Historic Run Above 5% on Fed Rate Cycle - Bloomberg.com",
-   "t": "Die Rendite zehnjähriger US-Staatsanleihen steuert laut Bloomberg auf einen historischen Anstieg über 5 Prozent zu. Hintergrund ist der aktuelle Zinszyklus der Fed.",
-   "e": "Die Rendite am langen Ende beeinflusst Hypothekenzinsen, Bewertungen von Aktien und die Finanzierungskosten des Staates.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJ3VWxtanltWDFIdk5Jc2U5eFdaUFp6aG1PVVkwVVNpNVZxRFRvQllPcjYwVGh1OVlpVG9pQ1QyX283NldTUnBMa0NxRllJd1E3UDVacklIdTh0MmxsQnc2LTRfaGFFR092OHZZNnUwNEFGLVBFaFF5M0paNFo5d0t4YUIyUDNOVnV5UVVyRTlJRmN6azkxTmNjR251eU8yaDVmX2tJdGpFNkdIekVRbndoMEo?oc=5",
-   "quelle": "Bloomberg.com",
-   "zeit": "2026-11-17T20:14:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "987f70267f80a65b",
-   "k": "welt",
-   "titel": "Ukraine-Krieg: Frankreich an Russland: „Wir sind keine Kriegspartei“",
-   "t": "Der russische Außenminister Lawrow wirft Frankreich eine direkte Kriegsbeteiligung in der Ukraine vor. Paris weist das als absurd zurück.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-frankreich-an-russland-wir-sind-keine-kriegspartei/100270736.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T20:14:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "af80f847b33709b1",
-   "k": "finanzen",
-   "titel": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a bear market?",
-   "t": "Der S&P 500 testet eine wichtige technische Unterstützung und notiert unter seinem 200-Tage-Durchschnitt, da der KI-Trend schwächelt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/the-s-p-500-is-testing-a-key-technical-floor-is-it-time-to-buy-or-brace-for-a-bear-market-c432b192?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T20:13:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "80e194434d4ff45e",
-   "k": "finanzen",
-   "titel": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-   "t": "Laut Chainalysis sind die Krypto-Ströme in Osteuropa um 7,9 Prozent gesunken, während Stablecoin-Transfers in die Ukraine im Umfang von rund 12 Milliarden Dollar weiterliefen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-17T20:05:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "6f120d3e35f9172d",
-   "k": "welt",
-   "titel": "Sozialproteste in Frankreich reißen nicht ab",
-   "t": "In Frankreich gab es erneut Streiks und Demonstrationen für höhere Gehälter und bessere Bildungsbedingungen. Die Angaben zur Teilnehmerzahl weichen deutlich voneinander ab.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T20:02:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "b8e80ebdef154c55",
-   "k": "deutschland",
-   "titel": "13-Jährige auf Gehweg erfasst und getötet – Haftbefehl wegen Mordes gegen Fahrer",
-   "t": "Im bayerischen Sailauf wurde eine 13-Jährige auf einem Gehweg erfasst und tödlich verletzt. Der Fahrer war auf der Flucht vor einer Polizeikontrolle und sitzt nun wegen Mordverdachts in Untersuchungshaft.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/kriminalitaet/article6afc9800bb7e7a6679f91ce8/sailauf-13-jaehrige-bei-verfolgungsjagd-getoetet-fahrer-unter-mordverdacht-in-u-haft.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T19:53:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "14567b75fb83d199",
-   "k": "welt",
-   "titel": "Jahrestag der Revolution: Zehntausende protestieren gegen Regierung in der Slowakei",
-   "t": "In der Slowakei haben zehntausende Menschen am Jahrestag der Revolution gegen die Regierung demonstriert. Sie fordern auch mehr Unterstützung für die Ukraine.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/zehntausende-menschen-protestieren-gegen-regierung-in-der-slowakei-201692751.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-17T19:52:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "258238a56197e695",
-   "k": "nrw",
-   "titel": "Renommierter Preis: Grönemeyer mit Kunstpreis des Landes NRW ausgezeichnet - DIE ZEIT",
-   "t": "Herbert Grönemeyer erhält den Kunstpreis des Landes Nordrhein-Westfalen.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGY3SmV3ak5pRjJ4VW52SUdOR1dVWmRQamlTMGlTNnVPNExDZ1FUUlpTMWZ2TElHN29XUDdqMGYtMGh0cG10ZkdEZFRKa3UzR2JxTUZyTDVBTDhxQWV2RXNlckhkY0RaRm9CSkJ2MHVmTjBZS0RkZXVwNWI0bWVrT09KVk1zNXR0dFB4VHlZbHA4dFFmY0E?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-17T19:50:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "8ff882ecb272603b",
-   "k": "welt",
-   "titel": "Canada and China Draw Closer with Expanded Trade Pact",
-   "t": "Kanada und China haben ihr Handelsabkommen ausgeweitet. Es ist Teil der Bemühungen von Premierminister Mark Carney, unabhängiger von den USA zu werden.",
-   "e": "Die Annäherung zeigt, dass Kanada seine Handelsbeziehungen zunehmend diversifiziert.",
-   "s": 6,
-   "link": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-17T19:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "cb9e5e1e82d957fd",
-   "k": "finanzen",
-   "titel": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-   "t": "Der Coinbase-CEO erwartet, dass KI-Agenten innerhalb eines Jahrzehnts 99,9 Prozent aller Transaktionen ausführen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-17T19:45:57+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,7 +3095,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Tagesschau Ausland",
@@ -3130,7 +3130,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Handelsblatt",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 12
+    "n": 10
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 22
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Google News Fed",
