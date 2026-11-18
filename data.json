@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-18T21:01:22.148251+00:00",
+ "aktualisiert": "2026-11-18T23:01:27.740669+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,11 €",
-   "delta": 0.019671206000260177
+   "delta": -2.20812153779002
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,24 €",
-   "delta": 0.07174632537638725
+   "delta": -2.447991134327232
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,72 €",
-   "delta": 0.3653754480265059
+   "delta": -1.9438758726049166
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "174,48 €",
-   "delta": 1.1360976576627158
+   "delta": -1.623816306067083
   },
   {
    "name": "Deka DAX",
    "wert": "224,80 €",
-   "delta": -1.2085269236987384
+   "delta": -3.2494107618624146
   },
   {
    "name": "Bitcoin",
-   "wert": "62.488 $",
-   "delta": -2.2351475373189125
+   "wert": "62.180 $",
+   "delta": -3.870302859447884
   },
   {
    "name": "Ethereum",
-   "wert": "1.751 $",
-   "delta": -2.65771227228805
+   "wert": "1.755 $",
+   "delta": -3.2231485161071762
   },
   {
    "name": "Gold",
-   "wert": "3.731 $",
-   "delta": -3.4444374735709715
+   "wert": "3.728 $",
+   "delta": -3.5298367811041897
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,282 @@
   ]
  },
  "items": [
+  {
+   "id": "a17b36fa3ba55c27",
+   "k": "finanzen",
+   "titel": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+   "t": "Am US-Aktienmarkt verschieben sich die Sektoren deutlich: Technologiewerte gelten als günstig, defensive Konsumwerte als teuer.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T22:53:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e38ccd0d995b5517",
+   "k": "finanzen",
+   "titel": "Erstnotiz: Anthropic legt Aktienpreis für Mega-IPO bei 83 Dollar fest",
+   "t": "Anthropic hat den Ausgabepreis für seinen Börsengang laut Medienberichten auf 83 Dollar je Aktie angehoben. Die Papiere sollen am Donnerstag erstmals gehandelt werden.",
+   "e": "Der höhere Preis deutet auf starke Nachfrage nach KI-Aktien hin; FAZ nennt eine angestrebte Marktkapitalisierung von rund 1,5 Billionen Dollar.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-anthropic-legt-aktienpreis-fuer-mega-ipo-bei-83-dollar-fest/100270370.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T22:44:46+00:00",
+   "tag": null
+  },
+  {
+   "id": "215936fc7b127b53",
+   "k": "usa",
+   "titel": "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
+   "t": "In South Carolina sind zwei Männer wegen Mordes an einem Mann angeklagt, der 2023 bei einem Streit erschossen wurde.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-18T22:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f9eaa060a67f9244",
+   "k": "finanzen",
+   "titel": "EZB-Präsidentin Lagarde spricht als Nächstes, während der Euro unter 1,1000 notiert - TradingView",
+   "t": "EZB-Präsidentin Lagarde tritt als Nächstes auf, während der Euro unter 1,10 US-Dollar notiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZU92UUg1Zy00ZERmNG96dzFOemhTTTE4SHRpSkxVVFNNd3hHMklYckNCaHVBeVRyc3dsS0JRZmZVTnktbHJ1bXJPUEwyZmh2bE1MTk1Ib0lBMFRsZXRNdVBVM1dMN01F?oc=5",
+   "quelle": "TradingView",
+   "zeit": "2026-11-18T22:31:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "62997b2b7198b17d",
+   "k": "finanzen",
+   "titel": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+   "t": "Payward, der Betreiber der Krypto-Börse Kraken, übernimmt das Venture-Capital-Geschäft Tribe seines CEOs.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-18T22:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "0f47bc4d120e3c9f",
+   "k": "finanzen",
+   "titel": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "t": "Palo Alto Networks kauft den KI-Startup Applied Compute für 4,5 Milliarden Dollar. Die Aktie stieg nach Quartalszahlen um rund 7 Prozent.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T22:25:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "c8243c005d8b72c1",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Unbekannter schießt auf fahrendes Auto - Mordermittlung - n-tv.de",
+   "t": "In Nordrhein-Westfalen wurde ein fahrendes Auto beschossen. Die Polizei ermittelt wegen Mordes.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFhYa00xUVd6U2FjVmdoWGtkY3BPMUFBajFCZTZtZU5Jbm93NDN2NnhNelN1bV9OZklRNDRiejhlS1dLejdOVXJsZDJMYkVCTEFzT2tKV3BodE1VWHJ1aGtvRC1FODdSWGhpN2I1V3MzZm95R0psMDBva0phcFNTdVlTbHMzYkhxM3ZIRTdZbXpMZlAzeHZac2lseDJESHNhR19nRU1lRGV3bVRlTFJyQkdSWExpZXFZRjJaYm5n?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T22:09:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f12bf6e426aa6bd",
+   "k": "usa",
+   "titel": "Republican Andrew Garbarino rips Kash Patel for skipping US threats hearing for second straight year",
+   "t": "Der republikanische Abgeordnete Garbarino kritisiert FBI-Chef Kash Patel, weil dieser zum zweiten Mal in Folge eine Anhörung zu US-Bedrohungen versäumt hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/18/us-news/republican-andrew-garbarino-rips-kash-patel-for-skipping-us-threats-hearing-for-second-straight-year/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-18T21:58:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "fbbc04a0dc98e071",
+   "k": "finanzen",
+   "titel": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+   "t": "Contrarian-Indikatoren zeigen, dass die Stimmung am Aktienmarkt noch nicht den Tiefpunkt erreicht hat.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T21:58:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "033a3746331180ff",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Verdächtiger Gegenstand - Festnahme in Düsseldorfer Wohnung - n-tv.de",
+   "t": "In Düsseldorf wurde nach einem verdächtigen Gegenstand in einer Wohnung eine Person festgenommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWtLaXhtenRZdTR2dVVObU95SzduUmlrYjg2NE9yQ1lBZUNuTHFBOVhsazhQOHhQZ0RaNFRVY0xXQkE4MXo2OEloNmJmTlRDTkZzRWxScDhLVDdEZG9OcWFIbEdXRElwUzF0VXlHOU9DdVd5VklSVlJaNEJ1NGpYLWt6bmhCNE53NlNnT0ZqeWVVbkZKYXJVLVZPcy1KMUpWSnlIZGpSSEJFRnJkaklVb1dqLTl0eFBCWGl0QUZrUXpVWGs2?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T21:58:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e9d97aa7ed260e2a",
+   "k": "finanzen",
+   "titel": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+   "t": "Tether wehrt sich gegen die Stablecoin-Bewertung von S&P Global, die keine Abstufung vorsieht. Die Note 5 ist die niedrigste verfügbare Bewertung.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T21:57:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "e3d60ee5c4acbded",
+   "k": "finanzen",
+   "titel": "Copper’s plunge could make the AI data-center buildout more painful",
+   "t": "Der Kupferpreis ist deutlich gefallen. Experten warnen, dass die Versorgung mit Kupfer für den KI-Rechenzentrumsausbau knapp werden könnte.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T21:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6fbe642a3febd1bb",
+   "k": "usa",
+   "titel": "Gavin Newsom releases rogue AI report, calls for giving California the power to pull the plug",
+   "t": "Kalifornien-Gouverneur Newsom legt einen Bericht zu gefährlicher KI vor und fordert die Befugnis, riskante KI-Systeme abzuschalten.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/18/us-news/gavin-newsom-proposes-sweeping-new-restrictions-on-ai/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-18T21:54:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "905f41e09932c8ef",
+   "k": "welt",
+   "titel": "Beratungen zu KI-gestützten Waffensystemen bei UN-Konferenz in Genf",
+   "t": "Bei einer UN-Konferenz in Genf beraten die Staaten über KI-gestützte Waffensysteme.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1686202.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T21:44:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "4ae5f5cf4f7e1881",
+   "k": "welt",
+   "titel": "Estland plant Schließung der russisch-estnischen Grenze nach Brandanschlag auf Drohnenfabrik",
+   "t": "Estland plant die Schließung der Grenze zu Russland, nachdem es einen Brandanschlag auf eine Drohnenfabrik gab.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1686200.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T21:41:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "42617a0563f49830",
+   "k": "finanzen",
+   "titel": "Fed-Protokoll: KI-Investitionen und hohe Vermögenspreise bergen Risiken für die Finanzstabilität - IndexBox",
+   "t": "Das Fed-Protokoll nennt KI-Investitionen und hohe Vermögenspreise als Risiken für die Finanzstabilität.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXpsS1dNdzdzUENlNGszZEQ0TElmM2hhYXd2VHY2WFhNam5Ma29ELWoya05BelN4YVdhS1dJbWhET0FFR2tWaWxzZWI4eERFT2RiRFdsMy1HZ1BadTNpRWtRNmdlQzc2UGUxSHVTU0VEY01Xdm5ZMEMxbzNJbzdWSTVKekxManRMekZUV2lUNnl0RkI4ZTlpYURzMzFhdjlzNDJObndDalJXU1BacEdPcEtJa2ZqX0k2NEE?oc=5",
+   "quelle": "IndexBox",
+   "zeit": "2026-11-18T21:40:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "ba386cc0d69ecadd",
+   "k": "nrw",
+   "titel": "FW-MK: Sturmtief Talia sorgt für einen einsatzreichen Abend - Presseportal",
+   "t": "Sturmtief Talia hat im Märkischen Kreis zu mehreren Feuerwehreinsätzen am Abend geführt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZWJnNmMzLWpLeTZvM195WENvNDJrYnIzVFJDYTZYU25Mb01SSHZOZkx5aENqZEROdmZ0QjhvZHU5OHRqNndpeVd1aHhMTk9LNmZxa1pmb1Vub1MzQlJaQUVBeXVodw?oc=5",
+   "quelle": "Presseportal",
+   "zeit": "2026-11-18T21:35:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "b65040000f6ab481",
+   "k": "deutschland",
+   "titel": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
+   "t": "Die Koalition hat sich auf eine Senkung der Stromsteuer für mindestens ein Jahr geeinigt.",
+   "e": "Die Maßnahme wirkt direkt auf Strompreise und ist zunächst auf ein Jahr befristet.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T21:32:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2072979ee3ea637",
+   "k": "finanzen",
+   "titel": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+   "t": "Die Nvidia-Zahlen waren stark, der Aktienkurs reagierte jedoch kaum. Anleger blicken wegen Regulierung und Makrofaktoren vorsichtig auf den KI-Handel.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-18T21:19:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "77d23c397eec21d5",
+   "k": "finanzen",
+   "titel": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+   "t": "Ledger warnt Kunden in Berlin, die seit Januar 2026 Hardware-Wallets gekauft haben. Das Unternehmen untersucht mögliche Manipulationen durch eingebaute Chips in Deutschland und Dubai.",
+   "e": "Betrifft die Sicherheit von Krypto-Hardware-Wallets; Kunden sollen den Support kontaktieren.",
+   "s": 6,
+   "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-18T21:13:58+00:00",
+   "tag": null
+  },
+  {
+   "id": "dfe5e202570f8d68",
+   "k": "welt",
+   "titel": "Business-Ticker: US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus",
+   "t": "US-Behörden werfen einem Russen vor, Mitarbeiter eines Rüstungsunternehmens im Silicon Valley ausspioniert zu haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-behoerden-russe-spaehte-ruestungsfirma-im-silicon-valley-aus-faz-200452404.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T21:09:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "d820dc70bb087668",
+   "k": "usa",
+   "titel": "Trump admin demands Nature Medicine magazine probe ‘ghostwritten’ paper that dismissed COVID lab leak",
+   "t": "Die Trump-Regierung verlangt von der Fachzeitschrift Nature Medicine eine Prüfung, ob Fauci und Collins ein Papier zum COVID-Laborursprung verfasst haben.",
+   "e": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/18/us-news/nih-demands-nature-medicine-investigate-landmark-paper-that-dismissed-covid-lab-leak-theory/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-18T21:07:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "3da9c50c1b199f83",
+   "k": "usa",
+   "titel": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+   "t": "Die FDA hat laut Gerichtsunterlagen einen Strafprozess gegen ein alternatives Finanzierungsprogramm für günstige Medikamente auf die Aussage eines Mit-CEOs gestützt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T21:07:14+00:00",
+   "tag": null
+  },
   {
    "id": "fec55d4721f64416",
    "k": "welt",
@@ -325,6 +601,18 @@
    "tag": null
   },
   {
+   "id": "07dff4c7a6ac7dcf",
+   "k": "finanzen",
+   "titel": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+   "t": "Für Wetten gegen die Schulden von KI-Unternehmen wie CoreWeave, Oracle und Mag-7-Firmen sollen ETFs auf den Markt kommen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T18:37:39+00:00",
+   "tag": null
+  },
+  {
    "id": "5c47dca5bb20e49c",
    "k": "finanzen",
    "titel": "Fed-Vertreterin Daly hält weitere Zinsanhebungen für nötig – mahnt jedoch zur Vorsicht - Investing.com Deutsch",
@@ -406,6 +694,18 @@
    "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
    "quelle": "CNBC",
    "zeit": "2026-11-18T18:13:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "592785b9f362d677",
+   "k": "welt",
+   "titel": "Machtkampf in Polen: Abgelöster Gerichtspräsident verliert Immunität",
+   "t": "Der suspendierte Präsident des polnischen Verfassungsgerichts verliert seine Immunität. Er erkennt die Entscheidung der Richter nicht an.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ausland/polen-abgeloester-gerichtspraesident-verliert-immunitaet-201696227.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T18:08:50+00:00",
    "tag": null
   },
   {
@@ -541,6 +841,18 @@
    "tag": null
   },
   {
+   "id": "5bfd36061a2ec2e1",
+   "k": "finanzen",
+   "titel": "Märkte Insight: Vorsicht, die Renditen steigen wieder",
+   "t": "Die Renditen am Anleihemarkt steigen wieder, nachdem es zuletzt Turbulenzen gab. Höhere Zinsen gelten als Belastung für die Aktienmärkte.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-vorsicht-die-renditen-steigen-wieder/100269631.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T17:31:20+00:00",
+   "tag": null
+  },
+  {
    "id": "5910bc94a8a748d9",
    "k": "nrw",
    "titel": "Kulturausschuss in Iserlohn abgesagt: Beschlussvorlagen fehlen - IKZ-Online",
@@ -589,6 +901,18 @@
    "tag": null
   },
   {
+   "id": "60e46b1186453c23",
+   "k": "finanzen",
+   "titel": "Rüstung: Hensoldt lässt Radare künftig bei ZF produzieren",
+   "t": "Rüstungskonzern Hensoldt lässt Radare künftig bei ZF produzieren, da der Autozulieferer Auftragsmangel hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-hensoldt-laesst-radare-kuenftig-bei-zf-produzieren/100271046.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T17:19:47+00:00",
+   "tag": null
+  },
+  {
    "id": "58771fd6852dd1cd",
    "k": "finanzen",
    "titel": "Enthüllungen: Deutsche Bank im Stresstest",
@@ -613,6 +937,18 @@
    "tag": null
   },
   {
+   "id": "83503c0c48374116",
+   "k": "finanzen",
+   "titel": "Solarpionier: Enpal-Gründer erwägen Anteilsverkauf – Kommt es bei der Solarfirma zum Machtwechsel?",
+   "t": "Die Gründer des Berliner Solarunternehmens Enpal erwägen den Verkauf von Anteilen. Ein Geldgeber könnte bald 51 Prozent halten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-enpal-gruender-erwaegen-anteilsverkauf-machtwechsel-bei-solarfirma/100268742.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T17:05:26+00:00",
+   "tag": null
+  },
+  {
    "id": "b5db969a3780f171",
    "k": "finanzen",
    "titel": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
@@ -622,6 +958,18 @@
    "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-18T17:05:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "b74e5243d5fd2433",
+   "k": "usa",
+   "titel": "Epstein und ICE: Demokraten nehmen Trumps Team ins Visier - Lausitzer Rundschau",
+   "t": "Die Demokraten nehmen das Team von Präsident Trump im Zusammenhang mit Epstein und der Einwanderungsbehörde ICE ins Visier.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMUNIaFozTGVZYmNXVkUyaXcxZUVuTF95RFl2NkxSNnJZWlN0QXhCTWdMelREV2lVbXJmN1lHaWpyRXQzOVRRWng2YThWTGVsVXFGTFhERHBPNWdnV3V0bEhOQllYZEhMYVljU0VUSEFVUWlKemxrVWdzY2NPVzVrMjNwRDFPS1c3V2xfVTB2UjRub2FudGh1ak5QSDZPcjdYY3JLU1RmNV9NeWRjT2R0MkdLNWE4QQ?oc=5",
+   "quelle": "Lausitzer Rundschau",
+   "zeit": "2026-11-18T17:02:58+00:00",
    "tag": null
   },
   {
@@ -793,6 +1141,18 @@
    "tag": null
   },
   {
+   "id": "29512de207209746",
+   "k": "deutschland",
+   "titel": "Dann streiten sich der Pädokriminelle und der Richter über die Zahl der sexuellen Übergriffe",
+   "t": "Vor Gericht steht ein ehemaliger Kita-Erzieher wegen Dutzender Fälle von Kindesmissbrauch. Er hat laut Bericht Pornos von einigen Opfern gemacht und gesteht, widerspricht dem Richter aber bei der Zahl der Übergriffe.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/plus6afc03739893cadb7bd15787/prozess-in-muenchen-dann-streiten-sich-der-paedokriminelle-und-der-richter-ueber-die-zahl-der-sexuellen-uebergriffe.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T16:21:35+00:00",
+   "tag": null
+  },
+  {
    "id": "960a65fd26012a2b",
    "k": "deutschland",
    "titel": "Union und SPD einigen sich auf Kompromiss bei der Stromsteuer",
@@ -886,6 +1246,18 @@
    "link": "https://www.nzz.ch/mobilitaet/chinas-neuer-elektroflieger-fordert-die-westliche-luftfahrt-heraus-ld.10067683",
    "quelle": "NZZ",
    "zeit": "2026-11-18T16:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b603ad7f2d2f3407",
+   "k": "welt",
+   "titel": "Mehr als jeder zweite 2025 gestorbene Russe unter 40 war Kriegsopfer",
+   "t": "Mehr als die Hälfte der 2025 gestorbenen Russen unter 40 Jahren starb im Krieg, so russische Statistikdaten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/ausland/article6afdc181a0547afb26e78e91/demografische-krise-mehr-als-jeder-zweite-2025-gestorbene-russe-unter-40-war-kriegsopfer.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T15:59:58+00:00",
    "tag": null
   },
   {
@@ -2711,378 +3083,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-18T04:47:18+00:00",
    "tag": null
-  },
-  {
-   "id": "09ccec4daf6e9c3b",
-   "k": "welt",
-   "titel": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-   "t": "Iran hat Kuwait und Bahrain angegriffen, nachdem zuvor ein Gastanker in der Straße von Hormus in Brand gesetzt worden war. Parallel laufen weiter US-Luftangriffe.",
-   "e": "Die Straße von Hormus ist einer der wichtigsten Seewege für Öl- und Gastransporte, eine Eskalation wirkt deshalb schnell auf die Energiepreise.",
-   "s": 8,
-   "link": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T04:36:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9eba4a9dba69c44b",
-   "k": "nrw",
-   "titel": "Baustellen und Sperrungen: November wird zum Stresstest für Pendler in NRW - RP Online",
-   "t": "Baustellen und Sperrungen machen den November für Pendler in NRW zu einem Stresstest.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGpjOVJLOTZmUzkyalBHa0FEQ2tLVVptaC1ERFJaY2RYU21lLVd4RzRfbEFXd0Q1Sk40cHl2Z3JLQUNDSm1KWTlSQ2lISE1UR2htdUxLNjVmbG9uQUdNQlluRmVuZFZtVjVad2EzMC1QYjFPLXpxWlVpelRiWE5GaklrajBrbkJRUGo5UWtGZGZiS0xPZmNqeGJ1U2tYd3JFMDRkT0w0SkVqM0tI?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-18T04:36:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5645e63938edc2e0",
-   "k": "finanzen",
-   "titel": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-   "t": "Bitcoin hat nach einem Rückgang von rund 12 Prozent eine wichtige Unterstützungsmarke unterschritten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-18T04:34:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "b16d800da89f7e6b",
-   "k": "usa",
-   "titel": "„Agent des Iran“: Pakistaner erhält 27 Jahre Haft wegen Anschlagsplänen gegen Trump",
-   "t": "Ein Pakistaner wurde in den USA zu 27 Jahren Haft verurteilt, weil er Anschläge gegen Trump geplant haben soll. Er gab an, im Auftrag der iranischen Revolutionsgarden gehandelt zu haben.",
-   "e": "Der Fall betrifft die Spannungen zwischen den USA und dem Iran.",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-trump-geplant-27-jahre-haft-fuer-pakistaner-accg-201693037.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T04:33:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "36e7b566b2890357",
-   "k": "finanzen",
-   "titel": "Black Box Anthropic: Wer beim KI-Pionier das Sagen hat",
-   "t": "Vor dem Börsengang von Anthropic wird über die Machtverhältnisse im KI-Unternehmen berichtet. Die Gründer haben demnach durch Vereinbarungen fast immer das letzte Wort.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/wirtschaft/black-box-anthropic-wer-beim-ki-pionier-das-sagen-hat-ld.10063675",
-   "quelle": "NZZ",
-   "zeit": "2026-11-18T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2b5694228f9a1b6",
-   "k": "nrw",
-   "titel": "Handelsverband NRW: Kritisiert neue Kassen- und Bonpflicht - Gabot.de",
-   "t": "Der Handelsverband NRW kritisiert die neue Kassen- und Bonpflicht.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWZlNFdaY25haVBjekY0dHNQTDVZaTVtTUlHSm9Wb0lxcmM2Vm5rMm5jUlFxelgzOEc0V0FDN2w3bWhVT21QdExZcDBLa2llZTRLamdlTVFURnVnZTA0WEpXN0dXTHVFRnp3amxsdGo2YXJ2V0dnRndYMWxXTkFWQ3RsWUtGSmZuSERDcUpyZEplRE1yZzNrOUdiVEFjZw?oc=5",
-   "quelle": "Gabot.de",
-   "zeit": "2026-11-18T04:18:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "1f1ebcd243d9b820",
-   "k": "usa",
-   "titel": "Democrat Mary Peltola wins Alaska Senate election",
-   "t": "Die Demokratin Mary Peltola hat den Republikaner Dan Sullivan in Alaska geschlagen. Die Demokraten kommen damit im US-Senat auf 56 der 100 Sitze.",
-   "e": "Die Mehrheitsverhältnisse im Senat verschieben sich, was Gesetzgebung und Ernennungen unter Trump betrifft.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T04:18:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "5c0a96397e789b4f",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Weniger Geld, mehr Mängel: Warum bekommen immer mehr Autos keinen TÜV? - tagesschau.de",
-   "t": "Immer mehr Autos bekommen in NRW keinen TÜV, wie tagesschau.de berichtet. Gründe sind unter anderem gestiegene Mängelquoten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3BoSUtpSlh5X3YyOE9HdkR2RExsM0dLMHRDbWhGemN2OFZXVURrd1B2aFNtR0RORGlreV9vUjBaTzYxQTVuLVowcHFMLVBydE9vWjJlQmFrcVNtU1NnU29sejJNem1vZFpDbVpnNUpWN3lGLVdHRkNWUm9yVUN4QXBIWUFLNUY0a1NjSlhaY0lORzFlOVNqRUlqa245YWc5TnFjMVlGaEdKQlBmd2ljS2dmNEFtSmVOYXhXZ2Z6ZXVhMGExaGZLWHM2c0xMVnFHUFE5cW54WmVCeTA?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-18T04:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "015eaa7a280a7052",
-   "k": "finanzen",
-   "titel": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-   "t": "Der Bundesbankpräsident äußert sich zu wieder aufkommenden Inflationssorgen, möglichen Zinsschritten und einem Ausblick auf 2027.",
-   "e": "Die Aussagen geben Einblick in den Zinskurs der EZB, der Kredite, Sparzinsen und die Konjunktur in Deutschland beeinflusst.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T04:02:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "5975bb9142093759",
-   "k": "deutschland",
-   "titel": "Neuauszählung gefordert: Bundesverfassungsgericht entscheidet zu BSW-Wahlbeschwerde",
-   "t": "Das Bundesverfassungsgericht entscheidet über die Wahlbeschwerde des BSW, die Partei fordert eine Neuauszählung der Bundestagswahl.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/neuauszaehlung-gefordert-bundesverfassungsgericht-entscheidet-zu-bsw-wahlbeschwerde/100270800.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T04:00:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "f38c0e5f35717c11",
-   "k": "finanzen",
-   "titel": "With hawkish signals mounting at the Federal Reserve, a December rate hike is all but assured! Will gold prices fall further? Keep an eye on the meeting minutes tonight. - 富途牛牛",
-   "t": "Nach falkenhaften Signalen der Fed gilt laut Marktbeobachtern eine Zinserhöhung im Dezember als nahezu sicher, der Goldpreis steht unter Druck.",
-   "e": "Eine Zinserhöhung wäre ein Richtungswechsel gegenüber dem bisherigen Zinskurs der US-Notenbank und betrifft Anleihen, Aktien und Gold gleichermaßen.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSV91MHdWWU85aXROZHB0dHhva3FyTDNFM3dtbzE2VVlNM3JiTmREZHp6aGN3bkpkR3ZGNW1mMkdfYi1rQzJUYmN3LU5QM29kVVQxV3lLTmtBcXlzckdzZk5kRW5qTUpLbmhHLVlqLTY2TEFILTRKWHVfZEFKQ3NSbmszWUg1cGQ2Ym1vZTZvNkRsOGgzelNWZWRDdWwzTWdHRUVxbGs1ZkMzQQ?oc=5",
-   "quelle": "富途牛牛",
-   "zeit": "2026-11-18T03:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd6a73bc563e3eb1",
-   "k": "welt",
-   "titel": "Italien verschärft Kampf gegen Antisemitismus mit neuem Gesetz",
-   "t": "Italien hat ein neues Gesetz gegen Antisemitismus verabschiedet, die Beobachtungsstelle zählte im vergangenen Jahr 963 Vorfälle.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/ausland/article6afce9efa883f861e532feae/rom-italien-verschaerft-kampf-gegen-antisemitismus-mit-neuem-gesetz.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-18T03:46:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "81652cc818ef5780",
-   "k": "deutschland",
-   "titel": "Reform vor Beschluss: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
-   "t": "Die Bundesregierung will eine Reform des Umgangsrechts beschließen, nach der gewalttätige Elternteile kein Umgangsrecht mehr haben sollen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/reform-des-umgangsrechts-bundesregierung-will-kinder-besser-schuetzen-accg-201693039.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T03:22:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "5442c44eeb4b92aa",
-   "k": "finanzen",
-   "titel": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-   "t": "Nvidia legt unter der Interimschefin Colette Kress die ersten Quartalszahlen nach dem Ausscheiden von Jensen Huang vor und beruhigt laut Berichten die Anleger.",
-   "e": "Nvidia gilt als zentraler Akteur im KI-Boom, der Führungswechsel ist daher für die Märkte von Bedeutung.",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T03:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ab6a19f755d093ab",
-   "k": "finanzen",
-   "titel": "Gold drops 2% to over one-year low as hawkish Fed signals boost dollar - Reuters",
-   "t": "Gold fiel um 2 Prozent auf ein Einjahrestief, nachdem falkenhafte Signale der Fed den Dollar gestärkt haben.",
-   "e": "Erwartungen an US-Zinserhöhungen belasten derzeit Edelmetalle und stärken den Dollar.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
-   "quelle": "Reuters",
-   "zeit": "2026-11-18T03:10:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c706645392b6c5d5",
-   "k": "welt",
-   "titel": "Brasilien: Hunger treibt isoliert lebende Indigene aus Regenwald",
-   "t": "Isoliert lebende indigene Gruppen verlassen im brasilianischen Amazonas aus Hunger den Regenwald und bitten um Essen. Ursache ist die schrumpfende Lebensgrundlage durch Abholzung.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/gesellschaft/brasilien-hunger-treibt-indigene-aus-amazonas-regenwald-accg-201693085.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T03:09:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "88c2482c20c7b792",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Schwieriges Weihnachtsgeschäft – Handel dennoch optimistisch - n-tv.de",
-   "t": "Der Handel in Nordrhein-Westfalen rechnet trotz schwieriger Lage mit einem optimistischen Weihnachtsgeschäft.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVlzVk5kRXhCRWZvNVpGaE1GcGM0ZjdWaHFIUW80RG0xWTY1aVNlR0h3M2w5ZmhaY2ZIVl9vTXhnNU5Ka2hIRWJ0ZzJSeWFiQzJhZ3g1NENOVHg0cVNFbGJTSmZXUmVZRHIxd2hQdU8tOUpfSHZPb29OY0tuTFRZbHZGNVdZRHJoSzJxR2lrSG0zQVpHakhqS1g3WmMzbzNUVGdaWFl2Nnl4bnR5dGRaMFNKb1ZCdURnelFic3VMOC0tZjFK?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-18T03:03:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a34f791a64a190cd",
-   "k": "finanzen",
-   "titel": "UniCredit wins EU and US Federal Reserve approval for 45 billion euro Commerzbank takeover - https://internationalfinance.com/",
-   "t": "UniCredit hat die Genehmigung der EU und der US-Notenbank Fed für die Übernahme der Commerzbank für 45 Milliarden Euro erhalten.",
-   "e": "Die Genehmigung ebnet den Weg für eine der größten Bankübernahmen in Deutschland der letzten Jahre und betrifft Aktionäre beider Institute.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2UtdGNMQjRuZ0pSdW5zU1ByYjNITG1TOUNadmpvbThLLXFpektLYWZGbnMxeHl4NDktRzZ5VUctRTVFTV9DQmhZM1ZEem9zb3Z6N24wVVRPaG1VMDMyd0tUOFRmTVd2R2ItckpMdldfS3RlQXVINnNGSzhhNVJZVlJVY1R3SURZbXVNTFdJdE5ocU5NeUlfR2NpaGNjY1VZTGt6NHNWNUk2QmcxWEEyQWtsSTF5VENGN1hZRU5nVDhGY25PWHpGMTlKTy0?oc=5",
-   "quelle": "https://internationalfinance.com/",
-   "zeit": "2026-11-18T03:00:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "49a5ef4ad09c4f06",
-   "k": "deutschland",
-   "titel": "KI gegen Feuer: Mehr Geld für Waldbrand-Früherkennung mit Kameras und KI - DIE ZEIT",
-   "t": "Für die Früherkennung von Waldbränden mit Kameras und KI gibt es mehr Geld.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDI3OXhRYkJNa0xDWUw3OHdJOFNwZXJpeFdhTGJBXzd4N3NxMGhEY0NKWE9yem1fcDRpdnNZQkJVUTFwZmlxNGE5b0E1U0VjYTRiSzhESlpHS2cwVS1iT0hhVDg0Q0xxYkFCRXU4LTFFZXlfOEoxSW5YbkNBT1pJZFo0amkxR1dTM1BYRnRYcE9lVFJrY3ZMamlR?oc=5",
-   "quelle": "DIE ZEIT",
-   "zeit": "2026-11-18T03:00:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "5eb0c7f93de272e6",
-   "k": "welt",
-   "titel": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia",
-   "t": "Die USA müssen sich laut Bericht erstmals auf eine Dreifach-Atomrivalität mit China und Russland einstellen, da China seine Waffenarsenale rasch ausbaut.",
-   "e": "Ein Dreiermachtsystem der Atommächte wäre eine neue Lage für die Sicherheitspolitik des Westens.",
-   "s": 6,
-   "link": "https://www.wsj.com/world/u-s-enters-unprecedented-three-way-nuclear-rivalry-with-china-and-russia-2f2385c3?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T03:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c62ab588a59bafac",
-   "k": "finanzen",
-   "titel": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-   "t": "Zwei Ledger-Besitzer berichten von zusammen rund 604.000 Dollar Kryptoverlust aus Hardware-Wallets, die sie bei einem autorisierten Händler in Dubai gekauft haben sollen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T02:39:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "7ec0ce015581981d",
-   "k": "usa",
-   "titel": "Vorfälle in den USA: Rubio sieht keinen Zusammenhang zwischen Technik-Ausfällen",
-   "t": "Außenminister Rubio sieht keinen Zusammenhang zwischen einer Reihe von Technik-Pannen in den USA, darunter Störungen beim Online-Banking, Flugchaos und ein Ausfall des Mail-Systems.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/vorfaelle-in-den-usa-rubio-sieht-keinen-zusammenhang-zwischen-technik-ausfaellen/100270775.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T02:30:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "64ee4d4ef310fb7e",
-   "k": "deutschland",
-   "titel": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
-   "t": "Die Spitzen von CDU, CSU und SPD haben ihre Beratungen im Kanzleramt bis Mittwochmorgen ohne Einigung zur Stromsteuersenkung beendet. Die Details sollen am frühen Morgen bekanntgegeben werden.",
-   "e": "Eine Senkung der Stromsteuer würde Haushalte und Industrie entlasten, die Finanzierung ist dabei ein zentraler Streitpunkt in der Koalition.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T02:12:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "2255432a47e3b3c9",
-   "k": "welt",
-   "titel": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
-   "t": "Das Pentagon braucht dringend mehr Patriot-Raketen, die Produktion stockt jedoch an einem Engpass bei einem Spezialgewebe.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T02:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "99f535ed2e4e7351",
-   "k": "finanzen",
-   "titel": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-   "t": "Die CoreWeave-Aktie steigt, während Nvidia-Interimschefin Colette Kress einen \"sehr genauen\" Blick auf Kunden wirft, denen beim Finanzieren geholfen wird.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T01:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4c105ac1f4b03dd8",
-   "k": "usa",
-   "titel": "Medicare Part B premiums rise due higher healthcare spending",
-   "t": "Die Medicare-Beiträge für Teil B steigen um 6,50 Dollar auf 209,40 Dollar im Monat, begründet mit höheren Ausgaben im Gesundheitswesen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T01:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9d4439b330358536",
-   "k": "usa",
-   "titel": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
-   "t": "Die USA haben nach Angaben der Panamerikanischen Gesundheitsorganisation (PAHO) ihren Status als masernfreies Land verloren. Auslöser ist der schlimmste Masern-Ausbruch seit mehr als 35 Jahren.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T01:34:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce2175b1c20b1990",
-   "k": "finanzen",
-   "titel": "Euro gibt nach, da hawkische Fed-Äußerungen und starke Einzelhandelsumsätze den US-Dollar stärken - TradingView",
-   "t": "Der Euro gibt nach, nachdem hawkische Äußerungen von Fed-Vertretern und starke US-Einzelhandelsumsätze den Dollar gestützt haben.",
-   "e": "Robuste US-Konsumdaten stärken die Erwartung einer restriktiven Zinspolitik der Fed und damit den Dollar.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc2d0WUppSTFiSWVmcGZSRExpQ2VKTWNUQlVRNU9NUUlBRERwZU9CN3pFUW9Wekp3MUNqWmxlS0RoUDY1RGJoVEMtbUVTMXplb0FnaFhWSHlJbklzaFdiLWhIT2RMeXBP?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-18T01:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "aa4e39ba4267ff20",
-   "k": "welt",
-   "titel": "Energie: EU-Einigung: Europas Stromnetze sollen schneller wachsen",
-   "t": "EU-Staaten und Parlament haben sich auf Regeln geeinigt, mit denen der Ausbau der Stromnetze beschleunigt werden soll. Die EU-Kommission schätzt den Investitionsbedarf bis 2040 auf mehr als eine Billion Euro.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/energie-eu-einigung-europas-stromnetze-sollen-schneller-wachsen/100270765.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T01:05:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a1140a61089a2cb",
-   "k": "finanzen",
-   "titel": "Gold fällt vor Fed-Protokoll auf tiefsten Stand seit mehr als einem Jahr - MarketScreener Deutschland",
-   "t": "Der Goldpreis fällt vor der Veröffentlichung des Fed-Protokolls auf den tiefsten Stand seit mehr als einem Jahr. Gold hatte sich zuvor der Marke von 3.800 Dollar genähert.",
-   "e": "Die Erwartung restriktiverer Fed-Signale belastet das Edelmetall, da es keine Zinsen abwirft.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzhUOUlmMXFwaFZtQ21hNG8zclZ3dHNsZWNZRXhkS2VtWU4yWXFDMlpnbjBSbnBsaENtdmtVV1Z0UGhNSjFOMTZ6VDNTazRFZUpER2w3aFhVY29uQWlzc1E1MVpzM0lJLVd5TXp6YzdBLWVyVWVtUVdOVFh6V0NIZTF5ekdiU2FIWWpKdXdNbUgzS0JoSy12SkVSaUx4alZ4ZmhhY1ZqeHNvQnJSZ1VvZ3hQWWVkVXJwS3dLTUZkSktGWHc2N1ZRN3haM3dOZXo0M2ljeGRR?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-18T01:04:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "4cb19ea232f3ebf7",
-   "k": "welt",
-   "titel": "Le Pen’s Lead in French Election Race Has EU in Scramble for Funding",
-   "t": "Die Führung von Marine Le Pen in den Umfragen zur französischen Präsidentschaftswahl setzt die EU unter Druck, bis zum Jahresende Finanzierungen für die Ukraine zu klären.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/europe/le-pens-lead-in-french-election-race-has-eu-in-scramble-for-funding-9f4e2001?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T01:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3115,12 +3115,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 38
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 27
+    "n": 25
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 11
+    "n": 9
    },
    {
     "name": "MarketWatch",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 14
    },
    {
     "name": "Fox News Politik",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 14
    },
    {
     "name": "Google News Fed",
