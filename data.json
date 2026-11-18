@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-18T05:01:25.481096+00:00",
+ "aktualisiert": "2026-11-18T07:01:29.530927+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "64.366 $",
-   "delta": -0.9822170393236975
+   "wert": "64.562 $",
+   "delta": 0.062433277416797044
   },
   {
    "name": "Ethereum",
-   "wert": "1.803 $",
-   "delta": -1.701718571843553
+   "wert": "1.808 $",
+   "delta": -0.9167984800274521
   },
   {
    "name": "Gold",
-   "wert": "3.786 $",
-   "delta": -1.751881650661824
+   "wert": "3.780 $",
+   "delta": -2.1867385808089335
   },
   {
    "name": "EZB Zins",
@@ -54,32 +54,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-17T19:01:38.296257+00:00",
+  "slot": 7,
+  "stand": "2026-11-18T07:01:29.530911+00:00",
   "punkte": [
    {
-    "k": "finanzen",
-    "t": "Der Dax gab laut Meldung um 2,1 Prozent nach, belastet durch Sorgen um die Zinspolitik der Fed und Zahlen aus dem KI-Sektor. Der Deka DAX notierte zuletzt bei 227,55 €, bei einem EZB-Zins von 2,50 % und einem Fed Funds von 3,88 %."
-   },
-   {
     "k": "welt",
-    "t": "Im Iran-Krieg gibt es Berichte über mögliche iranische Anschlagspläne in Washington, und laut BILD warnen US-Geheimdienste vor einer „schmutzigen Bombe“. Israelische Angriffe im Gazastreifen fordern laut Berichten mehrere Tote."
+    "t": "Im Konflikt mit Iran hat Iran laut Meldungen Kuwait und Bahrain angegriffen, nachdem ein Gastanker in der Straße von Hormus in Brand gesetzt worden war. Parallel laufen weiter US-Luftangriffe, und das US-Militär bestätigte einen Angriff auf die iranische Insel Gheschm."
    },
    {
     "k": "finanzen",
-    "t": "Europäische Regierungen stehen laut WSJ und Spiegel kurz vor einer Einigung auf Pablo Hernández de Cos als neuen EZB-Präsidenten. Deutschland will laut Ministerium den Ökonomen Markus Brunnermeier für das EZB-Direktorium vorschlagen."
+    "t": "Der Dax gab laut Meldung um 2,1 Prozent nach, belastet durch Sorgen um die Fed-Zinspolitik und KI-Zahlen. Marktbeobachter halten eine Zinserhöhung der Fed im Dezember für nahezu sicher, der Goldpreis steht unter Druck. Zum Stand der Kurse: Deka DAX 227,55 €, Deka S&P 500 138,22 €, Gold 3.780 $, Fed Funds 3,88 %, EZB-Zins 2,50 %."
    },
    {
     "k": "deutschland",
-    "t": "Im Koalitionsausschuss ringt die Bundesregierung um die Senkung der Stromsteuer für alle sowie um Spritpreise und Rente. Es geht um 5,4 Milliarden Euro."
+    "t": "Union und SPD haben sich laut Meldung auf eine Senkung der Stromsteuer für alle Verbraucher ab 1. Januar 2027 geeinigt, ein Spritpreisdeckel soll ebenfalls ab Januar gelten. Beide Maßnahmen sind zeitlich begrenzt, die Finanzierung ist bislang nur für 2027 gesichert."
+   },
+   {
+    "k": "finanzen",
+    "t": "Nvidia hat laut Meldung Umsatz und Gewinn im abgelaufenen Quartal stark gesteigert und die Prognose über den Erwartungen angehoben. Jensen Huang bietet nach seinem Rücktritt seine Rückkehr an, der Verwaltungsrat lehnt bislang ab."
+   },
+   {
+    "k": "finanzen",
+    "t": "Europäische Regierungen stehen laut WSJ kurz vor einer Einigung auf Pablo Hernández de Cos als Nachfolger von Christine Lagarde an der EZB-Spitze. Die Bundesregierung will laut Kommentar Markus Brunnermeier als neuen EZB-Chefvolkswirt vorschlagen."
    },
    {
     "k": "nrw",
-    "t": "Die IG Metall im Märkischen Kreis hat bei einer Abstimmung 99 Prozent Zustimmung für 24-Stunden-Streiks erhalten. Im Müllheizkraftwerk Iserlohn ist zudem ein Großbrand ausgebrochen, zwei Kessel sind außer Betrieb."
-   },
-   {
-    "k": "usa",
-    "t": "Der KI-Entwickler Anthropic soll laut CNBC über der bisherigen Spanne von 70 bis 78 Dollar platziert werden, die Notierung an der Nasdaq unter dem Kürzel ANT ist für den 19. November geplant."
+    "t": "Im Müllheizkraftwerk Iserlohn ist ein Großbrand ausgebrochen, zwei Kessel sind außer Betrieb. Die IG Metall im Märkischen Kreis plant nach 99 Prozent Zustimmung in einer Abstimmung 24-Stunden-Streiks."
    }
   ]
  },
@@ -94,6 +94,258 @@
    "link": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-18T16:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b9e151cffce59d12",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Bäume umgestürzt, Straßen überflutet - Regen in NRW hält an - n-tv.de",
+   "t": "In NRW halten Regenfälle an, Bäume sind umgestürzt und Straßen überflutet. Die Lage wird in mehreren Regionen beobachtet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcVpJMGZyNUVKQ1FHWTBEdG1Md0tab1UtT0VJamlXblNwXzJoZjFnT0ZHYlNBcnZ4dllLdGdDWC1ZM2M2TFhnT20wbWM3QmIzbzE4MnMwSklNOTV5YU9DX0hFUlB0Y3NyTVRJQWZieFRCcUppZVdUaHZJZlJSRGFwWHJuc2hhU3I0QmFvVG9LZEtzLWNoS29aVzFMTFdrZF9yNGxkRXQyVU5DUnFmZlZlLXYyOXB4TkgxWE90Z2Z0amhSOXkzVjQ0?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T06:47:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "99a1dcb96e61e6b2",
+   "k": "welt",
+   "titel": "Raumsonde „Voyager 1“ erreicht Entfernung von einem Lichttag zur Erde",
+   "t": "Die Raumsonde Voyager 1 hat eine Entfernung von einem Lichttag zur Erde erreicht. Sie ist seit dem 5. September 1977 unterwegs.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/wissenschaft/video6afd44495870e9a956a732a4/25-9-milliarden-kilometer-raumsonde-voyager-1-erreicht-entfernung-von-einem-lichttag-zur-erde.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T06:46:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "7d6c84e761fd51a0",
+   "k": "deutschland",
+   "titel": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
+   "t": "Union und SPD haben sich auf eine Senkung der Stromsteuer für alle Verbraucher ab 1. Januar 2027 geeinigt. Ein Spritpreisdeckel soll ebenfalls ab Januar gelten, beide Maßnahmen sind zeitlich begrenzt. Die Finanzierung ist bislang nur für 2027 gesichert.",
+   "e": "Die Entlastung betrifft auch private Haushalte und ist an eine Finanzierung gebunden, die vorerst nur für ein Jahr steht.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T06:42:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "42f88feaac3db87f",
+   "k": "welt",
+   "titel": "Putins größenwahnhafte Wette",
+   "t": "Moskau hat seinen Forderungskatalog im Ukraine-Krieg nach Gesprächen und Telefonaten ausgeweitet, wie es in einer Analyse heißt. Die Hoffnung auf ein baldiges Kriegsende hat sich damit abgeschwächt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/plus6afc09cbbfa018bfcc989cfc/ukraine-gespraeche-putins-groessenwahnhafte-wette.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T06:41:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b5afac832d10583",
+   "k": "welt",
+   "titel": "„Den Tausenden, die jeden Monat kommen, muss die Überfahrt sinnlos erscheinen“",
+   "t": "Der Migrationsforscher Gerald Knaus hält Abschiebungen nach Ruanda für geeignet, die illegale Migration nach Europa deutlich zu bremsen.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.welt.de/politik/ausland/article6afd3fd3a883f861e53300cf/ruanda-abkommen-den-tausenden-die-jeden-monat-kommen-muss-die-ueberfahrt-sinnlos-erscheinen-sagt-migrationsexperte-knaus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T06:32:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "90796377d76190ab",
+   "k": "usa",
+   "titel": "„So viel Polizeipräsenz habe ich noch nie erlebt. Das löst bei mir Angst aus“",
+   "t": "In den USA wächst die Sorge vor einem iranischen Anschlag mit einer sogenannten schmutzigen Bombe. In Washington ist die Polizeipräsenz nach Medienberichten deutlich erhöht.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/video6afd3325bb7e7a6679f921c7/iran-droht-usa-mit-schmutziger-bombe-so-viel-polizeipraesenz-habe-ich-noch-nie-erlebt-das-loest-bei-mir-angst-aus.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-18T06:31:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7807496ca8ef050",
+   "k": "welt",
+   "titel": "Apec-Gipfel: Xi warnt vor Treffen mit Trump vor „grassierendem Protektionismus“",
+   "t": "Chinas Präsident Xi warnt vor dem APEC-Treffen in Shenzhen vor grassierendem Protektionismus. Peking droht nach den verschärften US-Exportkontrollen für Chips mit Gegenmaßnahmen, Trump und Xi wollen sich am Donnerstag treffen.",
+   "e": "Die Exportkontrollen für Halbleiter sind ein zentraler Konfliktpunkt im US-chinesischen Handelsstreit und betreffen Lieferketten weltweit.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/china-xi-warnt-vor-treffen-mit-trump-vor-grassierendem-protektionismus/100270796.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T06:30:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5faf69e784f2311",
+   "k": "finanzen",
+   "titel": "Wenig Bewegung beim DAX erwartet",
+   "t": "Nvidia-Chef Jensen Huang ist zurückgetreten, der Konzern legte danach starke Quartalszahlen vor. Der DAX dürfte nach Einschätzung von Marktbeobachtern kaum bewegt starten, Zweifel an der Führung bleiben.",
+   "e": "Nvidia ist einer der wichtigsten Werte im KI-getriebenen Börsenumfeld, eine Führungsfrage kann den Gesamtmarkt beeinflussen.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-18T06:17:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "55ef5989702b9fa0",
+   "k": "nrw",
+   "titel": "Vereinsfeste in NRW auch ab 2027 umsatzsteuerfrei | Steuern - Haufe. Intelligenz, die bewegt.",
+   "t": "Vereinsfeste in NRW bleiben auch ab 2027 umsatzsteuerfrei.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjFiMS1XNkxUd2ljb0lSc0xvN3d2a1h4MUI1Znl1NnFoemVSQ05yM2g3S3pScHp3QTZZaUdaTXVzbVVobjNUczlKdmJoY2t2UFBRQ2lfdnprVzN2SnNkTmNwM1EwVnFpQ1NpWnU2dHFXMG5rYThsZGotd1lZUE1LcmxZRm5tWC10RXpLdVZXaF9obXFyNloyMGdGSjJ5LUNmX0hYNWRMVldfWkxsLXRrVA?oc=5",
+   "quelle": "Haufe. Intelligenz, die bewegt.",
+   "zeit": "2026-11-18T06:15:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ed596baf14ed84fa",
+   "k": "nrw",
+   "titel": "NRW Bank steigert Fördervolumen um 30 Prozent - FinanzBusiness",
+   "t": "Die NRW Bank hat ihr Fördervolumen um 30 Prozent gesteigert.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYUUM1Z3Mwa3hQTm1JTkJBR0NvWENMVjNEUWx2b29RUDJwY2J6a05aX1NmdllVcWdzbjlaaC1pZTlXNmNQVkM3elFndU9YeEZpWXBubm1UWFRUT0ltWmZ3Qkh5QkpGZ04zaWRiRlc0Zk8wdw?oc=5",
+   "quelle": "FinanzBusiness",
+   "zeit": "2026-11-18T06:14:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "48741b802ad8d1a8",
+   "k": "deutschland",
+   "titel": "BundID: Cyberangriff betraf mindestens 10.000 Bürgerkonten",
+   "t": "Nach dem Cyberangriff auf das digitale Bürgerkonto BundID nennt die Bundesregierung erstmals Zahlen: mindestens 10.000 Konten waren betroffen. Der Angriff hat laut Bericht dauerhafte Folgen für Millionen Nutzer.",
+   "e": "Die Zahl der betroffenen Konten ist im Vergleich zur Gesamtzahl der Nutzer klein, die Folgen für das Vertrauen in digitale Verwaltungsdienste sind aber erheblich.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundid-cyberangriff-betraf-mindestens-10.000-buergerkonten/100270721.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T06:13:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "1c05a07156a114b7",
+   "k": "finanzen",
+   "titel": "Märkte Insight: Beim Dax sind bis zu 30.000 Punkte möglich – unter zwei Bedingungen",
+   "t": "Analysten sehen den DAX bei einem weltweiten Trend 2027 bis zu 30.000 Punkten. Die Einschätzung ist an zwei Bedingungen geknüpft.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-beim-dax-sind-bis-zu-30.000-punkte-moeglich-unter-zwei-bedingungen/100269630.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T06:08:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "cfd326ee5b63f413",
+   "k": "welt",
+   "titel": "Kahana wird neuer Parlamentspräsident in Israel",
+   "t": "Kahana wird neuer Parlamentspräsident in Israel.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1685676.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T06:08:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "9efa5dc0225640e2",
+   "k": "finanzen",
+   "titel": "Business-Ticker: US-Aufsicht stoppt Wetten auf Trumps Aussagen bei Wettanbieter Kalshi",
+   "t": "Die US-Aufsicht hat Wetten auf Aussagen von Donald Trump beim Wettanbieter Kalshi gestoppt. Im Business-Ticker werden außerdem eine Kooperation von OpenAI und NATO bei Cybersicherheit und ein Tarifangebot der Lufthansa an Piloten gemeldet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-aufsicht-stoppt-wetten-auf-trumps-aussagen-bei-online-wettanbieter-kalshi-faz-200452404.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T05:51:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "eb0bd76a7201e275",
+   "k": "deutschland",
+   "titel": "Hubertus Heil plant Kandidatur für SPD-Vorsitz auch ohne Rückendeckung der Partei",
+   "t": "Hubertus Heil plant eine Kandidatur für den SPD-Vorsitz, auch ohne Rückendeckung der Partei.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1685666.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T05:42:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d15b55ae0b7059d",
+   "k": "nrw",
+   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Bremecke heute, am 18.11.2026 - News.de",
+   "t": "Auf der A45 nahe Bremecke in Lüdenscheid gibt es am 18. November eine Tagesbaustelle. Der Verkehr kann dort zeitweise beeinträchtigt sein.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOYzVvQ3Y5NWdfRjUwNjRrTkJRU1lGdTUxa1R0bkdpODFhNEFxNmdOZUJNV3VIVEVzM3FrN0sxbWg2N1VIM0VYaUdZM0YzNFBRcmV2RnlEN3pVWG5kZlpvUHFfVDNOOEVWSUxtWkV2NDJYVUJwWXE2dzhfUXVpSktoQzFWUkNZNkt5ZzdITEZjLUpyRzN0a001Z1VZREtRUkluMUdueXZLc0h5bjlnTTRuZWF6c1hMUFZBZUZhLS1ocXBEY2NUNnBKU2R4YjAxblZYMmdEeUF3QXlwQnJtLWZKSUdZam1nU01qWmxtTC1qLWpwSnl6YzF3ZG1CLVdVNkkwd2NmN3djRk1oaDI2ZkNrVXNNUS1hNTZpN1JrVHJ2NVRyMkdGNlJVTWRrMnFXbmc3aDRuVVR6V1dkQUdVVmc?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-18T05:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7db98c8624d7733b",
+   "k": "nrw",
+   "titel": "Iserlohn: Baustelle auf der Baarstraße in Iserlohner Heide ab diesen Samstag - News.de",
+   "t": "In Iserlohn beginnt ab Samstag eine Baustelle auf der Baarstraße in der Iserlohner Heide. Autofahrer müssen mit Einschränkungen rechnen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUTRHbUJWVTZTUF9UZk90Znp0dC14aDZfOF9NODZXWC03R1hQc0hxeDlOM2l6ZURlLXhpcVRhVGYtTjEwYzlSR2EyQXFEeVdFal9ERk5LNF9fcW5rRlBZbjVtX05qb2ExbE52NU9TSmNIZ0c3ZGxNbnItWko2ZUdRVVpDZXdpWTFwam9DRzM2ZGctYVNrbHlHalItY0NKdmkyZmpIVkxfYlVZVU9lT1hiWkF4S1RtYkVZUW1tMGEtTm1jTVgtTmFnZzlKQ3Q0Q1lpWDFXRkxqNGNaMzBKR2Y1TTFfWmZ0WGVVMDJQQ3FVZW9nWTVsTlVEUDB4YU1NTDlSRVVfYVNZZHU0eTd5YzVNaldld1JQNzJmNUJlODREOURaYnZ1eUtxR3g3aDBYNkdFZ190V1JiZ0hIN1d0aTBYVU5BcTBNUk9idWdtZGRpMmJpZ2NYWDl6elNLVDF5TFNmVFVr?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-18T05:40:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "020a15a1edf23116",
+   "k": "finanzen",
+   "titel": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+   "t": "Ein US-Richter hat die MIT-Brüder vom Vorwurf eines Betrugs über 25 Millionen Dollar freigesprochen. Er stellte fest, dass Ethereum keine Nutzungsbedingungen hat.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-18T05:30:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "baa06a5e4c0f66ee",
+   "k": "deutschland",
+   "titel": "K.o.-Tropfen: Neue Spur im Urin hilft beim Nachweis",
+   "t": "Ein neu identifiziertes Molekül im Urin könnte den Nachweis von K.o.-Tropfen bei Sexualdelikten und Raub verbessern.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wissen/gesundheit/neuer-biomarker-im-urin-hilft-ko-tropfen-nachzuweisen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T05:06:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "201ef5a2a34e9669",
+   "k": "nrw",
+   "titel": "Sturmböen und Schauer in NRW: Mittwoch wird ungemütlich - Come-on",
+   "t": "In NRW sind für Mittwoch Sturmböen und Schauer angekündigt. Das Wetter wird ungemütlich.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEVCRVFKdkZObW1XWS13V1V1UHI3bGkxVHc1R1J1WFhHR09KN0tvVm9malRlQTA5R3ZobHNqOXNNREFZTkxxNFl2RzBQLUk0T3c3eGFQWnh0SmJDV0l1WkhWWDBCYnIxeFVVYTRQNWdYTFAxZ0hjTDREdGJfdFg3Nk5UTTF1eGE3VHpIUlhhYXFyNzRtMkZSQXpYa0NTcGJfNzc3N2ZVVmtCZGJyR0ROSEppUQ?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-18T05:01:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "bd7faa43890230a4",
+   "k": "finanzen",
+   "titel": "Deutsche-Bank-Tochter DWS: Zwölf Milliarden Euro ohne Geldwäsche-Aufsicht",
+   "t": "Die Deutsche-Bank-Tochter DWS verwaltet rund zwölf Milliarden Euro für Betriebsrenten in einer Stiftung, die nicht von der Bafin beaufsichtigt wird. Ermittler könnten nun gegen die Stiftung vorgehen.",
+   "e": "Der Fall steht im Zusammenhang mit der Geldwäsche-Debatte um die Deutsche Bank und zeigt Lücken bei der Aufsicht über Vermögensverwaltung.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dws-118.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T05:00:42+00:00",
    "tag": null
   },
   {
@@ -117,6 +369,18 @@
    "s": 8,
    "link": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews",
    "quelle": "WSJ Welt",
+   "zeit": "2026-11-18T04:36:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9eba4a9dba69c44b",
+   "k": "nrw",
+   "titel": "Baustellen und Sperrungen: November wird zum Stresstest für Pendler in NRW - RP Online",
+   "t": "Baustellen und Sperrungen machen den November für Pendler in NRW zu einem Stresstest.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGpjOVJLOTZmUzkyalBHa0FEQ2tLVVptaC1ERFJaY2RYU21lLVd4RzRfbEFXd0Q1Sk40cHl2Z3JLQUNDSm1KWTlSQ2lISE1UR2htdUxLNjVmbG9uQUdNQlluRmVuZFZtVjVad2EzMC1QYjFPLXpxWlVpelRiWE5GaklrajBrbkJRUGo5UWtGZGZiS0xPZmNqeGJ1U2tYd3JFMDRkT0w0SkVqM0tI?oc=5",
+   "quelle": "RP Online",
    "zeit": "2026-11-18T04:36:00+00:00",
    "tag": null
   },
@@ -145,6 +409,30 @@
    "tag": null
   },
   {
+   "id": "36e7b566b2890357",
+   "k": "finanzen",
+   "titel": "Black Box Anthropic: Wer beim KI-Pionier das Sagen hat",
+   "t": "Vor dem Börsengang von Anthropic wird über die Machtverhältnisse im KI-Unternehmen berichtet. Die Gründer haben demnach durch Vereinbarungen fast immer das letzte Wort.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/wirtschaft/black-box-anthropic-wer-beim-ki-pionier-das-sagen-hat-ld.10063675",
+   "quelle": "NZZ",
+   "zeit": "2026-11-18T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f2b5694228f9a1b6",
+   "k": "nrw",
+   "titel": "Handelsverband NRW: Kritisiert neue Kassen- und Bonpflicht - Gabot.de",
+   "t": "Der Handelsverband NRW kritisiert die neue Kassen- und Bonpflicht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWZlNFdaY25haVBjekY0dHNQTDVZaTVtTUlHSm9Wb0lxcmM2Vm5rMm5jUlFxelgzOEc0V0FDN2w3bWhVT21QdExZcDBLa2llZTRLamdlTVFURnVnZTA0WEpXN0dXTHVFRnp3amxsdGo2YXJ2V0dnRndYMWxXTkFWQ3RsWUtGSmZuSERDcUpyZEplRE1yZzNrOUdiVEFjZw?oc=5",
+   "quelle": "Gabot.de",
+   "zeit": "2026-11-18T04:18:33+00:00",
+   "tag": null
+  },
+  {
    "id": "1f1ebcd243d9b820",
    "k": "usa",
    "titel": "Democrat Mary Peltola wins Alaska Senate election",
@@ -154,6 +442,18 @@
    "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
    "quelle": "CNBC",
    "zeit": "2026-11-18T04:18:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "5c0a96397e789b4f",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Weniger Geld, mehr Mängel: Warum bekommen immer mehr Autos keinen TÜV? - tagesschau.de",
+   "t": "Immer mehr Autos bekommen in NRW keinen TÜV, wie tagesschau.de berichtet. Gründe sind unter anderem gestiegene Mängelquoten.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3BoSUtpSlh5X3YyOE9HdkR2RExsM0dLMHRDbWhGemN2OFZXVURrd1B2aFNtR0RORGlreV9vUjBaTzYxQTVuLVowcHFMLVBydE9vWjJlQmFrcVNtU1NnU29sejJNem1vZFpDbVpnNUpWN3lGLVdHRkNWUm9yVUN4QXBIWUFLNUY0a1NjSlhaY0lORzFlOVNqRUlqa245YWc5TnFjMVlGaEdKQlBmd2ljS2dmNEFtSmVOYXhXZ2Z6ZXVhMGExaGZLWHM2c0xMVnFHUFE5cW54WmVCeTA?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-18T04:04:00+00:00",
    "tag": null
   },
   {
@@ -2783,306 +3083,6 @@
    "quelle": "Presseportal",
    "zeit": "2026-11-17T10:44:48+00:00",
    "tag": null
-  },
-  {
-   "id": "a6c8a885573b2b1a",
-   "k": "welt",
-   "titel": "In Israel steht nun ein gefährlicher Verdacht im Raum",
-   "t": "Eine Recherche in Israel wirft dem Büro von Ministerpräsident Netanjahu vor, im Zusammenhang mit Wahlen die Polizei getäuscht zu haben.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6afc0a759893cadb7bd15810/parlamentswahl-in-israel-steht-nun-ein-gefaehrlicher-verdacht-im-raum.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T10:44:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf8f9641a34eac66",
-   "k": "welt",
-   "titel": "Züge in Prag zusammengestoßen - Über 40 Verletzte bei Kollision auf Brücke",
-   "t": "In Prag sind zwei Personenzüge auf einer Brücke zusammengestoßen. Nach Berichten wurden über 40 Menschen verletzt. Der Verkehrsminister spricht von einem „sehr ernsten Ereignis“.",
-   "e": "Update zur bereits gemeldeten Zugkollision in Tschechien: Die Zahl der Verletzten liegt höher als zunächst berichtet.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/europa/tschechien-zug-unglueck-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T10:43:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d54a746c1bc7943",
-   "k": "deutschland",
-   "titel": "Cyberangriffe auf BundID – Passwort-Anmeldung deaktiviert",
-   "t": "Wegen Cyberangriffen ist die Passwort-Anmeldung bei der BundID deaktiviert. Betroffen sind Nutzer des zentralen Bürgerkontos für Online-Verwaltungsleistungen.",
-   "e": "Massenhafte Angriffe auf ein zentrales Verwaltungskonto betreffen viele Online-Behördengänge.",
-   "s": 6,
-   "link": "https://www.welt.de/vermischtes/video6afc2cb19893cadb7bd15d2f/zentrales-buerger-nutzerkonto-cyberangriffe-auf-bundid-passwort-anmeldung-deaktiviert.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T10:40:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "408e46ce959917bc",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Statistik erfasst in NRW so viele Grippetote wie nie - n-tv.de",
-   "t": "Die Statistik erfasst in Nordrhein-Westfalen so viele Grippetote wie nie zuvor.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUNBSUFzVHNxZ3ViejBxTklCWWEwV1hHR1NfME0tYWtxRUVpQTVFZnFlUVFyYXo0RFROQ3p2VFhlOUFCV2VpMmZHNlNaTEZaY0l3NGkxZFhYdzVFQ0xGRzhlMktkNWxNTTZtaERlbVpSdHRwdlhoejh2cm4tRWpHX21WNFBxbUtpclFZeFlzSEpHWnV1OGM3VGZPNmFkemp4VjRXYk83NF9ueVduMms0OHNjUE4yR1BEMXVv?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-17T10:39:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "16b6ef926555a250",
-   "k": "nrw",
-   "titel": "„PERCIVAL and the Chanson“ erneut im Parktheater Iserlohn - IKZ-Online",
-   "t": "Das Stück „PERCIVAL and the Chanson“ wird erneut im Parktheater Iserlohn aufgeführt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm5YcExkOHFiM0l0RFVka0FsMVJEa0lpUnhOeVBhckM3WVNER01ucURBVENWZXRQenpoWW5rSzZpcGdtb05Oa3Zxd0NDQjIzdlQyMFpHMUFLZVVWSzhnWUxZdmZDbjdScXlmdWZCTWY0aXpWU0RESVplOTNWOHJlcUpsYnhFTW9sdkNtN1JzQlV1ZDNSSE12WnQ0M25OcXdJUk9kMUJacHBMQWhIOS1Wc0tkbUJNLUhy?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-17T10:37:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "5b9efbcae5efe118",
-   "k": "welt",
-   "titel": "VIDEO - Kim Jong Un zeigt sich vor möglichen Treffen mit Trump und Putin im Skigebiet",
-   "t": "Kim Jong Un hat eine neue Ferienanlage im Norden Nordkoreas besucht. Die Bilder wurden vor möglichen Treffen mit Trump und Putin veröffentlicht.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/shorts/kim-jong-un-zeigt-sich-vor-moeglichen-treffen-mit-trump-und-putin-im-skigebiet-ld.10066318",
-   "quelle": "NZZ",
-   "zeit": "2026-11-17T10:34:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "922eeb9cebe7de63",
-   "k": "finanzen",
-   "titel": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
-   "t": "Bitcoin notiert laut Live-Ticker nahe 64.000 US-Dollar, während Techwerte vor den Nvidia-Quartalszahlen nachgeben. Nvidia legt erstmals ohne Jensen Huang Zahlen vor.",
-   "e": "Die Nvidia-Zahlen gelten als Test für KI-Aktien nach dem Abgang des Gründers.",
-   "s": 6,
-   "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-17T10:33:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "2e56a16a045dd8cf",
-   "k": "welt",
-   "titel": "Australische Regierung verschärft Auflagen für \"Work and Travel\"",
-   "t": "Die australische Regierung verschärft die Auflagen für das Working-Holiday-Visum. Wer länger bleiben will, muss mehr Zeit auf dem Land arbeiten.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/ausland/ozeanien/australien-backpaper-landwirtschaft-visa-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T10:33:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "e98c8937ac4e8f92",
-   "k": "deutschland",
-   "titel": "Knapp 3000 Euro weniger – Studie zeigt Folgen der Elterngeldreform für Familien",
-   "t": "Eine Studie des Leibniz-Zentrums für Europäische Wirtschaftsforschung zeigt, dass Mütter mit kleinen und mittleren Einkommen durch die geplante Elterngeldreform im Schnitt fast 3000 Euro verlieren könnten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/article6afc226c6837d711cd2c7ed9/elterngeld-knapp-3000-euro-weniger-studie-zeigt-folgen-der-reform-fuer-familien.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-17T10:32:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "75106f9a71d0e746",
-   "k": "welt",
-   "titel": "Medien in der Türkei: Vor Sonnenaufgang übernimmt die Regierung den nächsten Sender",
-   "t": "In der Türkei übernimmt die Regierung einen weiteren unabhängigen Sender, nachdem die Justiz seit Monaten gegen unabhängige Medien vorgeht.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/tuerkei-regierung-uebernimmt-auch-soezcue-tv-accg-201689976.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-17T10:31:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2d9aeeae8378b8f",
-   "k": "usa",
-   "titel": "Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'",
-   "t": "Im Senat der USA beginnt ein Führungsstreit der Demokraten. Schumer sieht sich im Vorteil, Chris Van Hollen warnt vor einer geheimen Abstimmung am 1. Dezember.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T10:30:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "7abecec3449e3378",
-   "k": "finanzen",
-   "titel": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
-   "t": "Hacker haben Krypto-Diebstahlcode auf 178 großen Webseiten platziert, darunter HSBC und Ledger.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-17T10:22:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "73a1470764ce54f1",
-   "k": "nrw",
-   "titel": "Polizei-News Iserlohn, 17.11.26: Wohnmobil entwendet - News.de",
-   "t": "In Iserlohn wurde ein Wohnmobil entwendet, die Polizei ermittelt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTZjT2xDQWRhSFlfMS1HR0lOVERoQU5VVGtrZmhrSGx6TDl0TjJ0dFRQY1VVOFBaMnM2THU0cF9ZcXg5X1NVdVlfWWxZSEdVNWkxX0NGUjk3SzRidkJ5MThtQl9PMzNNWHlHazJ1dTZVS3RWSVMzeTh2QVZ4aVM4QWc5OEl4akZoTDMwQVhtN3lTWWw1RHZMeVhDYWx3cXlNUVAwbUhiOEM?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-17T10:18:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "b01d6764280016a5",
-   "k": "finanzen",
-   "titel": "Vorschlag der Bundesregierung: Markus Brunnermeier soll Chefökonom der EZB werden - Manager Magazin",
-   "t": "Die Bundesregierung schlägt Markus Brunnermeier als Chefökonom der EZB vor.",
-   "e": "Der Posten ist einer der einflussreichsten volkswirtschaftlichen Positionen der EZB, und Deutschland gewinnt damit eine starke Stimme im EZB-Rat.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHJaSDZjMWd2Y0VMSE9EbE1lX2dtMmFhTVp5aWNNSmt1cXBTOHpuNUR6aEozSEtMajVmVnZxdUdTQmlKUWZINjFFZGhQTkRmXzcxTlFleXZPMnJ2T0s3QUJUTlN4RVAxNmY2RmJDNTA4UnIzYmY5eDI2UU14RzVPbTJUQndmZzFfekVqNDNrQjVtdzg2dHlWMlZwSU5fLUltU0R1VHFxVjFzSVZuTEtfZ05XckVzVlVaX0Jjd3F6blk1UFV3WG4yM3c1dWo?oc=5",
-   "quelle": "Manager Magazin",
-   "zeit": "2026-11-17T10:18:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2b827bd4ca57820e",
-   "k": "welt",
-   "titel": "Google says hackers use AI agents to find and exploit software flaws",
-   "t": "Google berichtet, Angreifer nutzten KI-Agenten, um Software-Schwachstellen automatisch zu finden und auszunutzen. Dadurch verkürzt sich die Zeit, Sicherheitslücken zu schließen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-17T10:05:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "83864d7db05619f5",
-   "k": "usa",
-   "titel": "„Da, wo sie herkommen“: Trump beleidigt schwarze Reporterin und erntet Rassismus-Vorwürfe - Merkur",
-   "t": "Trump hat laut Berichten eine schwarze Reporterin beleidigt und dafür Rassismus-Vorwürfe erhalten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelpRV2NYRkVjejBXWEFiNzNSazVqTVhPWEVEem1CWnlCbFZ0Rk8wdG0yODdOS3hQZERoZkRIR3dtd0JyOXVWb21Rbks0ckhkZFhBaS1LYnpEVVdjUjM1TWxlOGJSNjkyem1NQ3hfUmpPSmtQTkg5dVUzajktZXFRTHZ5MlByV2J5bnFlNFRHSzhHczFILVdDMFVRci1BbWNCOTVzYWdEb1NvOEhndDFJWGpDeFpoamhKTmRzRS1XOTB4NkxMbzhKaTZmVXNFdw?oc=5",
-   "quelle": "Merkur",
-   "zeit": "2026-11-17T10:01:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "ab9f3ea56b113a0a",
-   "k": "nrw",
-   "titel": "Stoppt den Bus-Kahlschlag im Märkischen Kreis! - openPetition",
-   "t": "Eine openPetition wendet sich gegen den geplanten Abbau von Buslinien im Märkischen Kreis.",
-   "e": "Betrifft die Mobilität der Menschen im Kreisgebiet, auch in ländlichen Orten.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWs5WlpWemZXNUhIWHAwcDRocThCRGJYdVA4Y21ZT3ZjYWRvVGtzQlFBaGdXUUlleGtDaFpSX0poeWgtb0p6Yzcyb1pwZFd2a043LVQ1SFVSVERmdmFzSlJON01RYXhITVNoQ1YtNGxkaV9vR01lQnRPb1R3ZnJrWGhHQUk2VmdCbEVjUVpMUU1WWkN2SlFwMmlaSUFTVHctSDlIeEZYZW9rbHdIVWFMWEdIUQ?oc=5",
-   "quelle": "openPetition",
-   "zeit": "2026-11-17T10:01:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "1670fc1a29a860ea",
-   "k": "finanzen",
-   "titel": "Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Bedford Gazette",
-   "t": "Fed-Chef Warsh befasst sich mit den möglichen wirtschaftlichen Folgen von KI, nennt aber deren Inflationsrisiko nicht ausdrücklich.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS05admpVd2hqV2J3SXA2STBkbXhBN09JTGUwaVl1azUwN1Voc0tPbDNBdXduSWVUcUpFQXJoUkJKRDgzemRIdkpCOGYtSEtMakR2TTliWG84QUFwbnV6ODgyU0JHWUpzV25NdklrMEQtZHNWNWpyUmZmLUJudjNZN2ZGN05qXzA3U29GeUU4SzFyT201ejM3enJUeHR3X0hZTkotTk9tT3pBRW1SQVV6V3Zkb0FtSE8xMWs4cWFHM1pzRjlpc0RzRE1YMWpPa3RBcEh1Njl2ZGlqUjQxTE5NTXNDOTFMb2dRdUcxVjFRbjh0aU1jNjM2VzVRTDR5Qkd5UDJ2RThfUXJndw?oc=5",
-   "quelle": "Bedford Gazette",
-   "zeit": "2026-11-17T10:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "725523402805d0f6",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Einschränkungen auf der A45 nahe Leifringhausen noch bis diese Woche Freitag - News.de",
-   "t": "Auf der A45 nahe Leifringhausen in Lüdenscheid gibt es noch bis Freitag dieser Woche Einschränkungen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNVDRRcnp6SWRHY2J4LUgxMFJSTmhZVE5GT1JIREdydVh6OGhWU3lhWmw0WVBWeTU1N2pOQkVCOTNwejY0UGlabHNMTURhOHA4Y2dCRjA2LWpJUWZPOHBRRzBYdDFWaVMwQ21MVlZYdUdIRk92R216OTNRemlMcnYyRWYweUJQcGVOQnpIOW5hbGVnNGhlUzNsUzNUcmlFeWpQdkF1WjBtcmJ4UllBbXNEWi1BaDRrMjZoX1NwZ3VJR2h5QkFQSTJ0WlRiRzZqeDRhUS1yWG1Remd4a3hwVFBCcFRpRFBQbWliT1p6VVc1ZXBCQ09WbE9EQVg5eGhOeG5BR0lkcnRiTHZGUFRQQk8wbVRtb1FsQXZCVnNfdmVwRHdFT1FobmozZF9HMW1Yc3lKcDRvd1kyTWxrVWs3N3pWVzJqRmY2N3oyTVdpTzNacEljeVNVbWhuWDlGYVVVbHVLeS1qYnlNejZsY2lxVE5EaXVVUWZ6WjFKWXl0X0lfbXo?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-17T09:57:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "664e438b39708ffd",
-   "k": "nrw",
-   "titel": "Iserlohn: Polizei sucht Zeugen nach Wohnmobil-Diebstahl - IKZ-Online",
-   "t": "In Iserlohn sucht die Polizei Zeugen nach einem Wohnmobil-Diebstahl.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZng5aTZ2RE9PbjVtV28teUZhYW9HOWVwSy1HUk9VRkxKY2gxZ2JpbUlqRmdvUzNsalFpMklfOTJLamRsWUpyTTZUd3Y4UFBjVDNGMmc3OGFWd2cwdktVcXUwWFhSZnYwbmZxaEJoYU5VUnptMXBKU2VhUUJCRURHU19pOGRxei13ZU1CNXBJZEVPUGJJa2x4cjBSTERRMUJKb1F4YjJwSWxSZUp4YWVacXhpQVpHeWd1SS1V?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-17T09:55:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "3324ac7574ecd6a2",
-   "k": "welt",
-   "titel": "Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum",
-   "t": "Japan meldet das Eindringen zweier mutmaßlich russischer Flugzeuge in seinen Luftraum. Das Militär ließ Abfangjäger aufsteigen; auch Südkorea und Taiwan melden Zwischenfälle.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/asien/japan-russland-luftraumverletzung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T09:54:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "08cc553991a6356f",
-   "k": "usa",
-   "titel": "Donald Trump vs. Susie Wiles: Insider enthüllt Trump-Schikane - Er machte sie \"systematisch fertig\" - News.de",
-   "t": "Ein Insider berichtet, Trump habe Stabschefin Susie Wiles systematisch unter Druck gesetzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDFtYVB6YXZYQkpiUFM0blNzWFlBUEF6Z3F6TW9VaHM3REVjQllZc1Fqbnc3OGdTU0JUWUFIWmJxeUZXQ2VINllsYWVuNVM5SDRPUkU0X1R0YnpFSWhybVh0SmVNYmU1M2lFTkdraGNCRllzVzUtZkNwM2JzTlJmaFZHbWc1T0NnTmJZamtRazZaN2IyV2NWVGFiYkVKLXNCcXo3eVU1a0FJLVBBLXJJRXZHQV9TQl9VVWVqc184OGdGX0xDVnhOaHlvdmhWNDBabjI2X3NGTTMyR0NTekdfd1NXdlc0ZW1QNE03VHFrSHNibkN0Rld5cnFkUHZhVzBlSU5N?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-17T09:49:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "df1e9aa4a2755ead",
-   "k": "usa",
-   "titel": "Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses",
-   "t": "Trump ist auf den Philippinen eingetroffen und startet eine Asienreise mit Stationen beim ASEAN-Gipfel und in China. Dort sind Gespräche mit Xi Jinping geplant. Zuvor gab es Verluste der Republikaner bei den Midterms.",
-   "e": "Im Gespräch sind laut Berichten auch Treffen mit Xi und Putin; die Details dazu sind noch unklar.",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T09:47:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "7736e5758fe509dc",
-   "k": "welt",
-   "titel": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
-   "t": "Ukrainische Angriffe mit Drohnen und Marschflugkörpern haben einen Teil der Krim-Brücke beschädigt.",
-   "e": "Die Krim-Brücke ist eine wichtige Verbindung Russlands zur Halbinsel; der Angriff trifft damit einen symbolisch und logistisch bedeutenden Punkt.",
-   "s": 6,
-   "link": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-17T09:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "35de3005531ec6e7",
-   "k": "finanzen",
-   "titel": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-   "t": "Ein US-Richter hat die Brüder im Ethereum-MEV-Verfahren über 25 Mio. US-Dollar nach einem Mistrial freigesprochen. Die Ethik des Verhaltens wurde nicht geklärt.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-17T09:30:05+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,17 +3095,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 25
+    "n": 23
    },
    {
     "name": "Welt",
@@ -3120,7 +3120,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "CNBC Finance",
@@ -3189,13 +3189,14 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 39
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 28
+    "n": 30
    },
    {
     "name": "Google News NRW",
@@ -3204,18 +3205,21 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 20
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
