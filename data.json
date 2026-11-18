@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-18T11:01:43.516911+00:00",
+ "aktualisiert": "2026-11-18T13:01:35.334358+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,44 €",
-   "delta": 1.0662560193748671
+   "wert": "127,96 €",
+   "delta": 0.6924757288839345
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,88 €",
-   "delta": 1.559965510038075
+   "wert": "43,62 €",
+   "delta": 0.9697697214086309
   },
   {
    "name": "Deka S&P 500",
-   "wert": "139,69 €",
-   "delta": 1.0671806252510185
+   "wert": "139,65 €",
+   "delta": 1.038240205571661
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "176,44 €",
-   "delta": 2.272197791827213
+   "wert": "175,80 €",
+   "delta": 1.9012263194469803
   },
   {
    "name": "Deka DAX",
-   "wert": "227,80 €",
-   "delta": 0.10986462091382432
+   "wert": "227,00 €",
+   "delta": -0.24170645764953758
   },
   {
    "name": "Bitcoin",
-   "wert": "64.294 $",
-   "delta": 0.38384430001357644
+   "wert": "64.047 $",
+   "delta": -1.4480273723602102
   },
   {
    "name": "Ethereum",
-   "wert": "1.804 $",
-   "delta": 0.9968580348557206
+   "wert": "1.794 $",
+   "delta": -1.4853675739111636
   },
   {
    "name": "Gold",
-   "wert": "3.771 $",
-   "delta": -2.4041186363480405
+   "wert": "3.749 $",
+   "delta": -2.9812109266483255
   },
   {
    "name": "EZB Zins",
@@ -94,6 +94,222 @@
    "link": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-18T16:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b6b70931238e808d",
+   "k": "finanzen",
+   "titel": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+   "t": "Fed-Gouverneur Waller sagt, die Notenbank müsse womöglich mit einer Zinserhöhung um einen halben Prozentpunkt die Menschen \"schockieren\", falls die Inflation über dem 2-Prozent-Ziel bleibt.",
+   "e": "Ein Halbpunkt-Schritt wäre deutlich aggressiver als übliche Zinsschritte und würde Kredite und Anleihen spürbar belasten.",
+   "s": 8,
+   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T12:58:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "12e6659e2093da80",
+   "k": "usa",
+   "titel": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
+   "t": "Das Repräsentantenhaus soll den Defiance Act beschließen, der gegen KI-Deepfake-Pornografie vorgeht. Der Senat hat ihn bereits verabschiedet.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T12:55:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "7385bda8fbde2d5e",
+   "k": "finanzen",
+   "titel": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+   "t": "Der Bitcoin-Miner MARA hat BTC im Wert von 1 Milliarde Dollar verkauft, um Kredite zurückzuzahlen, und zugleich 185 Millionen Dollar neue Schulden aufgenommen.",
+   "e": "Miner, die Bitcoin verkaufen müssen, zeigen den Druck in der Branche bei schwachen Kursen.",
+   "s": 6,
+   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-18T12:53:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf40f0a9250b7b41",
+   "k": "finanzen",
+   "titel": "Börsengang: IPO-Forscher: Marktdominanz ohne Riesen-Gewinne – wird Anthropic zur Boeing der KI?",
+   "t": "Der KI-Entwickler Anthropic steht vor einem historischen Börsengang. IPO-Experte Ritter erklärt, warum der Markt die hohe Bewertung in Kauf nimmt.",
+   "e": "Ein großer KI-Börsengang kann die Stimmung im Techsektor und bei Krypto beeinflussen, weil Anleger Kapital umschichten.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-vor-mega-ipo-warum-anthropic-in-die-kostenfalle-tappen-koennte/100270298.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T12:51:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "cffde327162f4f3f",
+   "k": "deutschland",
+   "titel": "Equinor: Cyberangriff auf Deutschlands wichtigsten Gaslieferanten",
+   "t": "Der norwegische Energiekonzern Equinor, einer der wichtigsten Gaslieferanten Deutschlands, ist Ziel eines Cyberangriffs geworden. Norwegen hat die Sicherheitsstufe erhöht.",
+   "e": "Die Angriffe reihen sich in hybride Kriegsführung ein; Deutschlands Gasversorgung hängt stark von norwegischen Lieferungen ab.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriff-auf-equinor-deutschlands-wichtigster-gaslieferant-im-visier-201694711.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T12:46:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "67e3b6ca6ce6436b",
+   "k": "deutschland",
+   "titel": "Der Kassenbon wird digital - der Handel muss umdenken",
+   "t": "Der Kassenbon wird digital, der Handel muss sich darauf einstellen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/video/video-1685670.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-18T12:46:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "0700c841a1bb6385",
+   "k": "nrw",
+   "titel": "Hendrik Wüst gegen Evonik-Übernahme durch BASF: »Das ist keine Pommesbude« - Spiegel",
+   "t": "NRW-Ministerpräsident Hendrik Wüst lehnt eine Übernahme des Chemiekonzerns Evonik durch BASF ab.",
+   "e": "Evonik ist ein großer Industriearbeitgeber in NRW, daher betrifft eine Übernahme Standorte und Arbeitsplätze im Land.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQak9HOXlLTWdNUGtobk5qT1ptY283TlFkMTEwSC1JVlJqNjNXTTV2YmFKNmoxUnJiblpIdEh1Wm1jeC1saTdwT0xyZDRPREF4djRMcGZXOVp3RFRDekhyay1jdDEyd1AzTHdjNnVVTEVNWGZ4dDZjdTlEdExkZWR5U1d4NkliYllnNE1hNFhzdVJ3bV9PT2J6WDFRQnEyLVJGMk1OWFZDNVNFMmdKRGNBNllGVmlab0txZGpKSG1SZjlxN25ET0ZoZ1g5QUI2bXZXU0M3ajRMQjhORTIxLVhoSlhfNU96STBRZnhFeTBLTQ?oc=5",
+   "quelle": "Spiegel",
+   "zeit": "2026-11-18T12:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7d0260cf380fd028",
+   "k": "welt",
+   "titel": "Iran-Krieg: Neue Angriffe schüren Sorge vor Eskalation im Iran-Krieg",
+   "t": "Ein dritter US-Flugzeugträger ist im Einsatzgebiet im Nahen Osten eingetroffen, während die Verhandlungen zwischen Washington und Teheran stocken.",
+   "e": "Militärische Verstärkung bei stockenden Gesprächen erhöht das Risiko einer weiteren Eskalation.",
+   "s": 8,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-neue-angriffe-schueren-sorge-vor-eskalation-im-iran-krieg/100270952.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T12:42:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "2cdb18c1ca81d920",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Ermittlungen gegen Verantwortliche eines Kinderhospizvereins - n-tv.de",
+   "t": "In Nordrhein-Westfalen wird gegen Verantwortliche eines Kinderhospizvereins ermittelt.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZDBYUGxfUlc2eXhXSzhpajRkM0E2YXdWeElLUkxsMWlLdUFWV1ZuOGRGWmlpMlY3MDFyaFl2cTVWYzBlSHoxdnNCYVB4YTVqRHpnek5QSzZHQWJiMU1JR2JBUDVjRWtDamhYMFY4Sm5VQnhPS1pXVW5UY0hjaHZyNnJqb1BsbThZa2NJZzRZRXpFRk5BSTV2c3JEbzVNRDlkM0w3UGNpczc3dFlMeU5USVd2NWNjT3dnMG1aU1NTZTRmZGhUTGc?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-18T12:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ae7796a365eafa00",
+   "k": "deutschland",
+   "titel": "Deutschland Liveblog: Um kurz vor Mitternacht soll Merz vom Verhandlungstisch aufgestanden sein",
+   "t": "Im Koalitionsausschuss von Union und SPD soll Kanzler Merz kurz vor Mitternacht vom Verhandlungstisch aufgestanden sein. Die Gespräche galten als kritisch.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-um-kurz-vor-mitternacht-soll-merz-vom-verhandlungstisch-aufgestanden-sein-faz-110093143.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T12:40:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "53c88c79dc337712",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Von der Leyen präsentiert Plan für neuen Ukraine-Kredit",
+   "t": "Die EU-Kommission hat einen Plan für einen neuen Ukraine-Kredit vorgestellt. Die Ukraine fordert von Xi und Trump Druck auf Putin.",
+   "e": "Die Finanzierung der Ukraine ist ein zentrales Thema europäischer Haushaltspolitik.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-von-der-leyen-praesentiert-plan-fuer-neuen-ukraine-kredit/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-18T12:39:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "e715d98126ae9ee1",
+   "k": "finanzen",
+   "titel": "U.S. Stock Preview | The Federal Reserve will release the minutes of its monetary policy meeting at 3:00 a.m.; Democrats are preparing a data center power reform plan; Musk says SpaceX will not sell any computing power to OpenAI; NVIDIA rose more than 3 - 富途牛牛",
+   "t": "Die Fed veröffentlicht die Protokolle ihrer letzten Sitzung. Die Demokraten bereiten eine Reform zur Stromversorgung von Rechenzentren vor, Musk schließt den Verkauf von Rechenleistung an OpenAI aus.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFhzTTR4MFlnY1R1X3AxQ2pNOTBrZXNRaTZmOFNndTdZY003Q3Z3ZzJXOHpnUlU2VlNvS2ZJMUFpSm5EdUdVZnk5RkJZR0dFM1lkYjFrbWpDb1g5THFqSkl0Umo1YmpEdzNLdENWd1pnT21nT25yb1o5U3ZldnlPVG41VmFEQmo1ZlRiQ0N5VS1iVW9OVGQ1VDRDQ3lYaFZlUGpjeUE3NA?oc=5",
+   "quelle": "富途牛牛",
+   "zeit": "2026-11-18T12:39:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "c5b7cdfa1052bf7e",
+   "k": "welt",
+   "titel": "Angriff auf Kuwait: Iran setzt auf kalkulierte Eskalation",
+   "t": "Iran hat erneut einen US-Stützpunkt beschossen, diesmal in Kuwait, nach einem Angriff auf Bahrain. Teheran reagiert laut FAZ auf den wirtschaftlichen Druck aus Washington.",
+   "e": "Die Eskalation im Nahen Osten wirkt über Ölpreis und Märkte direkt auf die Weltwirtschaft.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/politik/ausland/angriff-auf-kuwait-iran-setzt-auf-kalkulierte-eskalation-accg-201693724.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T12:36:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "67c33e499fb15c5f",
+   "k": "finanzen",
+   "titel": "Handel mit China: „Wir müssen Zeit gewinnen, um uns anpassen zu können“",
+   "t": "Auf der Euro Finance Week diskutieren Fachleute den Handelsstreit mit China. Eine Idee ist, wie bei Tesla auch BYD nach Deutschland zu holen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/loechel-mauderer-wang-wie-laesst-sich-der-handelsstreit-loesen-zwischen-europa-und-china-accg-201691950.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-18T12:27:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "2f6bb16c7adef489",
+   "k": "finanzen",
+   "titel": "Fed officials set to raise rates again in December, but the future still looks murky - CNBC",
+   "t": "Fed-Vertreter stellen laut CNBC weitere Zinserhöhungen im Dezember in Aussicht, der weitere Kurs bleibt jedoch unklar.",
+   "e": "Eine weitere Straffung der US-Geldpolitik betrifft Zinsen, Aktien und Krypto gleichermaßen.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+   "quelle": "CNBC",
+   "zeit": "2026-11-18T12:20:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "eaf8905f9056713a",
+   "k": "usa",
+   "titel": "Eine Milliarde Dollar und ein Machtkampf: So eskaliert der Streit bei den Republikanern - TZ",
+   "t": "Bei den Republikanern eskaliert ein Machtkampf nach den Midterm-Niederlagen. Trump versucht, RNC-Chef Joe Gruters gegen eine Herausforderung durch KC Crosbie zu verteidigen.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTF8yY0RYMVdGUHZsZHhVSEE1YUJRR3ZWbGhubFdudFNCS1BENU1nR0Y5aUxBWlVFZk50MTdFNlVobEJ1ZElNVUNiSVNlQmd2akZxTUxXbFBkUmRlU2txQWkwR2llLVRXOG96Zmp4OGZTTEMzZGpYbTFYU2pTa1AwY0NUaXhlR0lFNVVTa0NuQTJUemdzc09ZLTlzX3RXOEh6Sml5Rw?oc=5",
+   "quelle": "TZ",
+   "zeit": "2026-11-18T12:11:56+00:00",
+   "tag": null
+  },
+  {
+   "id": "ae9273d6c78cc47f",
+   "k": "usa",
+   "titel": "Leading House Dem immediately targets Trump family, Vance in sweeping new investigation push",
+   "t": "Der voraussichtlich künftige Vorsitzende des Aufsichtsausschusses im Repräsentantenhaus bereitet eine Reihe von Untersuchungen gegen die Trump-Familie und Vizepräsident Vance vor.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/18/us-news/house-dems-target-trump-family-jd-vance-in-sweeping-new-investigation-push/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-18T12:08:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "ca17bd21490d73eb",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Razzia in Rothe Erde: Polizei durchsucht Wohnungen im Ostviertel - tagesschau.de",
+   "t": "In Dortmund-Rothe Erde hat die Polizei mehrere Wohnungen im Ostviertel durchsucht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNckhQRFRyU0xma3NVQjUtTXhvSXNIelZVRGM0NFVmNjBvRzZpcDU0NHZlUHljS1kxZ2Yta2tWdno5dlE1WktHZzMxekFZSGdJRGVQVk1WYmhtOWQwVVdadVUxRXlrWVNCbVAwY3lYbUs3aXA3cDM2dmtiamVtYWRCQjJlWmk2VGllbXRYa0diSEw4dU5pLWNWNmJnb0pGWmFZMEJoVF82ek1mNEZLenhKbXR4d2xNMmQxdGN2eW55VE5Na0IyV3FySWtwcHhad3JGQ1hv?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-18T11:55:00+00:00",
    "tag": null
   },
   {
@@ -229,6 +445,18 @@
    "tag": null
   },
   {
+   "id": "5aa20ee5a8433afe",
+   "k": "usa",
+   "titel": "Die USA nach den Midterms – Was bedeutet das Wahlergebnis für Donald Trump? - SWR",
+   "t": "Nach den US-Midterms stellt sich die Frage, was das Wahlergebnis für Präsident Trump bedeutet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHJ3VTJKRFZJVC1EMzdfTVJIYTN3RmtUNHMxZWNRZFdFT3hHNUsxV3JfbTlEc3ZGYS1iNTU2Q09Qd2UyWHVlak5EZTFCY3VPbzRKTlJZSzhlc01uNUtxR05kd0VQaFI3dHowalZlV1BkbWd2MklPTzVHWGJOVnFxdDdkOUw3cFByQTBWLVFlODdzVkwyUE9MYUFR?oc=5",
+   "quelle": "SWR",
+   "zeit": "2026-11-18T10:36:38+00:00",
+   "tag": null
+  },
+  {
    "id": "a3581417aec07a5a",
    "k": "deutschland",
    "titel": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
@@ -361,6 +589,18 @@
    "tag": null
   },
   {
+   "id": "12008fb4890cf656",
+   "k": "nrw",
+   "titel": "Bürgerbüro in Iserlohn am 20. November geschlossen - Presse-Service",
+   "t": "Das Bürgerbüro in Iserlohn bleibt am 20. November geschlossen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53SXBlRDRaWnJ2NG5wR3BfWkh0YV84aHNhVkxSdlpXZ05YZFBtS2pkY3dCWW85Z2NGb3dYMV9ObVVfY0hTMVZUNmlQLTlUb0RUVGV6aEhzRWdUME43WFQ5akJpU2UwVHFvR19NQg?oc=5",
+   "quelle": "Presse-Service",
+   "zeit": "2026-11-18T09:09:24+00:00",
+   "tag": null
+  },
+  {
    "id": "df4740bf5bdea24e",
    "k": "nrw",
    "titel": "Polizei-News Märkischer Kreis, 18.11.26: Kreisweite Tempokontrollen am Dienstag / Schwerpunkt auf Drogen in Altena - News.de",
@@ -418,6 +658,18 @@
    "link": "https://www.tagesschau.de/eilmeldung/bsw-wahlpruefung-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-18T08:55:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "ca5e4d42a5100540",
+   "k": "nrw",
+   "titel": "Kierspe: Geschwindigkeitskontrollen im Märkischen Kreis - Newsflash24",
+   "t": "Im Märkischen Kreis, unter anderem in Kierspe, finden Geschwindigkeitskontrollen statt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTF90R2ZTZTBCeHdNenl4VXZkNFJHcGxwcnFVLUFtajVfeGRaRG1GM29wcWluMUpNcGVIMjZ2a2VqRFR1VEhrVThMZV9GazVPRHdvT0s3RF9nSWlXRHZOdVdHVkwwTHpZd0RPcFBMUmtYRFlGdzRCZ0tKRnRLWUwwZ0ppenlROWs3bVBOVWpuY2RfR19WdGh0RHNsdGFwV1hfQnFNU0lHb1RKdFBSdmc?oc=5",
+   "quelle": "Newsflash24",
+   "zeit": "2026-11-18T08:54:00+00:00",
    "tag": null
   },
   {
@@ -1729,6 +1981,18 @@
    "tag": null
   },
   {
+   "id": "110f3e11c3f6f95f",
+   "k": "usa",
+   "titel": "Federal Reserve's Cook declines to participate in White House hearing - Corsicana Daily Sun",
+   "t": "Fed-Gouverneurin Lisa Cook verweigert die Teilnahme an einer Anhörung im Weißen Haus zu ihrer möglichen Entlassung und begründet dies mit Voreingenommenheit.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnppVWR3ZnBueW1HaHcyYk05M0pPQWs5Nkx4SmdkaXpCaTBnQTNhN01fV21vaVFHYlU3LVFRYnpnQ0YyMEluSnBIYkxxalBoVHFaMmtidnJjVEx0UEIzb3NwWnVJTFAwTnhObXFhamxocGIyd0xLNEQ2RUNnd2dVMzk4Rjh1dGI3OV9HZkdUakxFVF9CQ0JXUS13aHhDYmRhSmd4REt3NVppVEZyXzc5cVJLcnpfQVFqZXRwU3lpaEdWQTRGX0VkcE51dWVKRDlZY2I5UHlnMmlVNGhZUWdJYmxHSU9IdEtmcUs5U0pCTnc0V2c?oc=5",
+   "quelle": "Corsicana Daily Sun",
+   "zeit": "2026-11-17T20:59:32+00:00",
+   "tag": null
+  },
+  {
    "id": "a83a8f9ac04cd722",
    "k": "finanzen",
    "titel": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
@@ -2819,270 +3083,6 @@
    "quelle": "Frankfurter Rundschau",
    "zeit": "2026-11-17T15:17:00+00:00",
    "tag": null
-  },
-  {
-   "id": "f52a89b6ad602ad2",
-   "k": "finanzen",
-   "titel": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-   "t": "Hongkong und Swift testen tokenisierte Bankeinlagen, da Banken mit der Geschwindigkeit von Stablecoins konkurrieren wollen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-17T15:11:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "89dc88c495b6e0df",
-   "k": "usa",
-   "titel": "American veterans targeted by schemes to steal benefits and exploit the sick, disabled: DOJ",
-   "t": "Das US-Justizministerium hat eine landesweite Razzia gegen Betrug bei VA-Leistungen gestartet und 15 Beschuldigte angeklagt, der beabsichtigte Schaden liegt bei über 3,4 Millionen Dollar.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/american-veterans-targeted-schemes-steal-benefits-exploit-sick-disabled-doj",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T15:04:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "cc6dd37fa063385b",
-   "k": "finanzen",
-   "titel": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-   "t": "Fast die Hälfte der US-Hausbauer senkt die Preise und bietet günstigere Hypothekenzinsen an, weil sie Käufer kaum finden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T15:01:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4eca33f4703f90a4",
-   "k": "finanzen",
-   "titel": "Trump Treasury aims to slam shut banking loopholes that could enable fraud tied to illegal immigration",
-   "t": "Das US-Finanzministerium will laut einem FinCEN-Vorschlag Schlupflöcher im Bankensystem schließen, die Betrug im Zusammenhang mit illegaler Migration ermöglichen könnten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/trump-proposal-gives-banks-more-leeway-probe-business-ownership-amid-illegal-immigration-concerns",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-17T15:00:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "c5c142a981d4d162",
-   "k": "finanzen",
-   "titel": "Markus Brunnermeier: Deutscher Ökonom soll EZB-Chefvolkswirt werden – was ihn auszeichnet - SZ.de",
-   "t": "Der Princeton-Ökonom Markus Brunnermeier soll Chefvolkswirt der EZB werden. Die Bundesregierung hat ihn dafür vorgeschlagen.",
-   "e": "Die Besetzung des EZB-Chefvolkswirts beeinflusst die geldpolitische Analyse der Notenbank, die für Zinsen und Euro zentral ist.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJzN21fMVoxQS1lNWNQajZYZTBrZjA3eDAwZWtOdEpHdnlkR1dTRGhvUEp1cDNJZzI4cERPSldlMUxqQjZsMXlqQjJWcXU3UXRQdmpMUlNsbE1URnNlRW5HVHk3eWEzMU8zcHJobzJzdklRZHZGVXZoYXFuY2NCTUpCNks5d3k2cUdDcXdoMUM3ek1Ia1ZCdUdTMF95T3RVWFRUQVkycFJZYXhGVnJ1WXdnMA?oc=5",
-   "quelle": "SZ.de",
-   "zeit": "2026-11-17T14:58:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "0027acbadbed70ac",
-   "k": "welt",
-   "titel": "Pia Steckelbach, ARD Tel Aviv, zzt. Jerusalem, zur Knesset-Wahl in Israel",
-   "t": "In Israel findet die Wahl zur Knesset statt. Die ARD berichtet aus Jerusalem.",
-   "e": "Das Ergebnis entscheidet über die künftige Regierungsbildung und die Nahost-Politik Israels.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/video/video-1685342.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-17T14:55:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "28e8b65386d0eb31",
-   "k": "nrw",
-   "titel": "Großbrand im Müllheizkraftwerk Iserlohn: Zwei Kessel außer Betrieb - IKZ-Online",
-   "t": "Im Müllheizkraftwerk Iserlohn ist ein Großbrand ausgebrochen. Zwei Kessel sind außer Betrieb.",
-   "e": "Das Müllheizkraftwerk ist für die Entsorgung und Wärmeversorgung in der Region wichtig, Auswirkungen auf Betrieb und Umwelt werden geprüft.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFVEWkRRcW95c1VEMFlOZEFrZG1LY0oyOUMxTGtseHRJWERQS2JyLWFZd0Q2YTE5T2xVYi04VnpQdjlUa083T2xDdGVvb2xVYlRaQWM2TU5WT3E3c3hTWnFSWV80d1o4UFFsUmtIc3Fob216bVJoUWpCelhqLXFJNXVvem15YmJmQk5mb2dfYnRwQ2RIY1dXY1Z3MWVQY2NxUVRxOXp3NllLQ3BjNEJwaFFjWEJiNFlVa1Vpb1E0MV8yWnotb3BXU2I2UERtUQ?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-17T14:54:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "bf88d773330b92f5",
-   "k": "finanzen",
-   "titel": "Wall Street: Anleger warten vor Nvidia-Zahlen ab – Wall Street öffnet kaum verändert",
-   "t": "Die Wall Street eröffnet kaum verändert, Anleger warten auf die Quartalszahlen von Nvidia. Es ist die erste Vorlage des Konzerns ohne Jensen Huang an der Spitze.",
-   "e": "Die Zahlen gelten als wichtiger Test für den Chipkonzern nach dem Führungswechsel und beeinflussen den gesamten KI-Sektor.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-oeffnet-vor-nvidia-zahlen-kaum-veraendert/100270596.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T14:52:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "d7d001bb86193649",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Gerichtsurteil: Krefelder muss nach Tötung des Vaters in Psychiatrie - tagesschau.de",
-   "t": "Ein Krefelder muss nach der Tötung seines Vaters in eine Psychiatrie. Das hat das Gericht entschieden.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT01Vek1IdkF6VTVWWjVLVkh5cnRpdlpzekpSTDZJazBWcTBFSENydWg2akU5MnppTDNORlVtNlBSTmNEUG5QellyU2ttTjNYRG1HQkxDa1JSbXUwdFFFRVdSdkhENmYtVW5SZjUzX1lsZHhNQjRBVFpUR3RSRFlVVFBmU2JGNEpOTGFRVV9Nck1vZGc4YkkxSXZVdUQtWHlFZHBrZXlwRGhzMVQtZGNfSTY1aklXNVRzcExLeFMzLVlYd2U1cXRfa1JYV283NGlxaXl6OWFkOE1tZw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-17T14:48:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "0ef58611e934631d",
-   "k": "deutschland",
-   "titel": "Union kommt AfD in Umfrage so nah wie seit Juli nicht mehr – Merz fällt bei 86 Prozent durch",
-   "t": "Laut einer Umfrage liegt die AfD mit 26 Prozent weiter vorn, der Abstand zur Union schrumpft auf fünf Punkte. 86 Prozent sind mit Kanzler Friedrich Merz unzufrieden.",
-   "e": "Der Abstand zur Union ist so klein wie seit Juli nicht mehr, was die politische Lage in Berlin unter Druck setzt.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/article6afc5b23bf787977ad3db57e/umfrage-union-kommt-afd-so-nah-wie-seit-juli-nicht-mehr-merz-faellt-bei-86-prozent-durch.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T14:45:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "e0cb0179bad1c8ee",
-   "k": "finanzen",
-   "titel": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-   "t": "Die Solana Foundation hat laut Cointelegraph eine Mehrheitsbeteiligung an dem Krypto-Datenanbieter CoinGecko übernommen.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-17T14:45:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "b1c146326e1bdd3e",
-   "k": "finanzen",
-   "titel": "Fed’s Lisa Cook Rebuffs White House Hearing, Citing Biased Panel",
-   "t": "Fed-Gouverneurin Lisa Cook lehnt eine Anhörung im Weißen Haus ab und verweist auf einen aus ihrer Sicht voreingenommenen Ausschuss. Ihr Anwalt schreibt, sie habe keine rechtliche Pflicht, an einer unfairen Anhörung teilzunehmen.",
-   "e": "Der Streit um die mögliche Entlassung einer Fed-Gouverneurin berührt die Unabhängigkeit der US-Notenbank, die für Zinsen und Finanzmärkte zentral ist.",
-   "s": 8,
-   "link": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-17T14:40:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5732227e460df285",
-   "k": "finanzen",
-   "titel": "EZB weist auf KI und Staatsverschuldung als Risiken für die Finanzstabilität hin - IDNFinancials",
-   "t": "Die EZB warnt in ihrem Bericht zur Finanzstabilität vor Risiken durch künstliche Intelligenz und hohe Staatsverschuldung.",
-   "e": "Die Warnung der Notenbank betrifft Banken und Staatsanleihen im Euroraum und ist für Zinsen und Finanzmarkt relevant.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFLbHlicml1TEFvWnJDUjl2SFZZRkw0amFiSFVPMEtfMWVMckNHcF9sS2wxMjN5TWstMFp2bmFMOUsyYTVxM3JxbUxhMzMtUDJUdlgyZERlcTVOU1haRERXbm9oazRqRGh1UzlJdEVxcV9SVXNNRFRSZXhyQ3l5X3ZSSGRRODJ5QjJOSDFIS2F0MWx2YjhPVlJVTnhhdWllSHVSaXhOMHFNZnNlaDJMcVhIeXN4cGw4NDB4MjZpek9aQ24xSjUxdXFoei15QUE?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-17T14:40:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3e9b18a00c98c7ad",
-   "k": "finanzen",
-   "titel": "Fed needs to prepare for bond-market intervention during calm times, Hammack says - Reuters",
-   "t": "Fed-Vertreter Hammack fordert, dass sich die Fed in ruhigen Marktphasen auf Interventionen am Anleihemarkt vorbereitet.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUo5ZjhNVXlMSUJ5eUQ1Q05MeXVTM0VEZ2ZEd1E1c1NzS0NlNFdROTZaOS02aE44OXZHWjFuNWR3U0hFMDNZRkp0UlhxN3JCaWpDQ2xIelZ5amJJbDhOQ0pEei03RkFaTFFRbFBFSUFpbWlTYTZCYTcwZmgtRi1LMzM0dzVFNkFubWpkTGlRTmlHbWZ2VTBDaDlWWUVodzlFZk5ndnNRQzhWS3BtdGRUUzJDZmhoLTN5M1E?oc=5",
-   "quelle": "Reuters",
-   "zeit": "2026-11-17T14:39:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "f1366afa21a26daa",
-   "k": "deutschland",
-   "titel": "Wie ausländische Straftäter schneller abgeschoben werden sollen",
-   "t": "Hessen will verurteilte ausländische Straftäter schneller abschieben. Gerichtsverfahren sollen Abschiebungen nicht mehr automatisch verzögern.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/plus6afbfe0285c0876bb797a180/asylpolitik-wie-auslaendische-straftaeter-schneller-abgeschoben-werden-sollen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-17T14:38:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "ae79dbedbf6498df",
-   "k": "finanzen",
-   "titel": "(S+) EZB: Deutschland favorisiert Pablo Hernández de Cos für Nachfolge von Christine Lagarde - Spiegel",
-   "t": "Deutschland favorisiert laut Spiegel den spanischen Ökonomen Pablo Hernández de Cos als Nachfolger von EZB-Präsidentin Christine Lagarde. Die europäischen Staats- und Regierungschefs sollen sich einer Einigung nähern.",
-   "e": "Die Personalentscheidung an der EZB-Spitze bestimmt die Zinspolitik im Euroraum in den kommenden Jahren.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbkpXUTZVbXRSRDhDOXBaZUhxTFhVNmFZSENsMUxDWlNrdndZdDhzdUJ3cm16UlE1XzMzWTJVdTJUWkIybUpkOURVUzBSdGJ2Mm9zSl9LRS1NNjJyRlliU0ZkcVVwMG8tbDJoZ1RLZVhPVEhJaXBBLTRkRVZ2MnBESHFuQktrVFRRNWY2Mm92VmlWTTNoTVh4TnFJbTJha25hR3cyUXpwOVVEZUVCUnFFRVJzcktSUXpsMGpWc29VTEpUYUNUaU04bEczZGtMcl9waDNxbG1BdVFCNjRmNWJB?oc=5",
-   "quelle": "Spiegel",
-   "zeit": "2026-11-17T14:37:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "10f4497066cc0c72",
-   "k": "finanzen",
-   "titel": "Federal Reserve’s Lisa Cook refuses to attend hearing convened by Donald Trump - Financial Times",
-   "t": "Fed-Gouverneurin Lisa Cook lehnt es ab, an einer von Präsident Trump einberufenen Untersuchungsanhörung teilzunehmen.",
-   "e": "Der Konflikt berührt die Unabhängigkeit der US-Notenbank, die gegenüber politischem Druck geschützt sein soll.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2JjcnJpMUZKTGVmcFB3YTRBT1ByNkpqZFIyQ0d3TGhNeDlRcTNfQzVwc0tlWVhvTldmTllLWF9lYVhKelllVVVCa3FpR1c1NWd6TEVZVW1fNU5VTmp4YTBNWkdoMmxzMnVXY0k0SnBZSENCV3NBWXdoMHZkdmtLelRjSU4?oc=5",
-   "quelle": "Financial Times",
-   "zeit": "2026-11-17T14:36:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c30888a1a287986",
-   "k": "finanzen",
-   "titel": "Nvidia-Affäre: Trumps neue Chipregeln verunsichern Verbündete",
-   "t": "Neue US-Regeln für Chipexporte treffen laut Handelsblatt Südostasien, Trump will dort vor seiner China-Reise Partner zeigen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/nvidia-affaere-trumps-neue-chipregeln-verunsichern-verbuendete/100270446.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-17T14:36:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "743d680fc1843d51",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Familie kann sich selbst retten: Kinderzimmer in Werl brennt aus - tagesschau.de",
-   "t": "In Werl ist ein Kinderzimmer ausgebrannt. Die Familie konnte sich selbst retten.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzZDTUlTRU5hV20yc196MTg1RTRtQnVWR09DMVpmWDFnMDYybjltdk56a3QzdTUxa0xsZDZMd1dTeEhhSGdMMGpybjkyX1NVSG9SSHZoRjVKZGh3Z0VZSUI3QjRoWlhhQU9OaGl5a19ZTEJzZVEzRkJRMFZHVER6ZWR3TzdpTld4NUhfWmgyQ3VUM2phNDZINUZ3TG81NG8xQXVQUW1TZ2hvNS1mTlg1MDZuY0pLelhWUVNEb1phUDdaX2dfMmRVQXR1UDJCbVc3TVZN?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-17T14:36:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b9c895941c326e50",
-   "k": "finanzen",
-   "titel": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
-   "t": "Kevin Warsh warnt laut Axios, dass ein enttäuschender KI-Boom das Risiko eines Kurseinbruchs an der Aktienbörse erhöhen könnte.",
-   "e": "Die Bewertungen am Aktienmarkt hängen stark an den Erwartungen an KI, insbesondere bei Chipwerten wie Nvidia.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5",
-   "quelle": "Axios",
-   "zeit": "2026-11-17T14:35:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "72b4f422235b15cb",
-   "k": "finanzen",
-   "titel": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-   "t": "Anthropic dürfte laut CNBC-Informationen über der bisherigen Spanne von 70 bis 78 Dollar platziert werden. Die Notierung an der Nasdaq unter dem Kürzel ANT ist für den 19. November geplant.",
-   "e": "Der Börsengang eines der bekanntesten KI-Unternehmen wäre eines der größten Ereignisse am Kapitalmarkt in diesem Jahr.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-17T14:34:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "55f02089cce63bd5",
-   "k": "finanzen",
-   "titel": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
-   "t": "Die Einzelhandelsumsätze in den USA sind im Oktober nur leicht gestiegen, nach zwei Monaten mit deutlichen Zuwächsen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-17T14:32:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3095,12 +3095,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3115,22 +3115,22 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 39
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "MarketWatch",
@@ -3189,14 +3189,14 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
+    "ok": true,
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -3205,13 +3205,14 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 16
    },
    {
     "name": "Google News Fed",
