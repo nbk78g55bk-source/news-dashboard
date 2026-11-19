@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-19T19:01:43.203607+00:00",
+ "aktualisiert": "2026-11-19T21:01:40.457608+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "62.849 $",
-   "delta": -0.331102114826946
+   "wert": "62.040 $",
+   "delta": -0.7986694493846073
   },
   {
    "name": "Ethereum",
-   "wert": "1.777 $",
-   "delta": 0.5738498437351205
+   "wert": "1.758 $",
+   "delta": 0.3459962584372445
   },
   {
    "name": "Gold",
-   "wert": "3.679 $",
-   "delta": -1.6836340893108814
+   "wert": "3.667 $",
+   "delta": -1.9989819154942912
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,354 @@
   ]
  },
  "items": [
+  {
+   "id": "a3b6ab723b2e2a18",
+   "k": "welt",
+   "titel": "Haitianische Polizei tötet 34 mutmassliche Bandenmitglieder",
+   "t": "Die haitianische Polizei hat bei einem großangelegten Einsatz in der Hauptstadt 34 mutmaßliche Bandenmitglieder getötet.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/panorama/haitianische-polizei-toetet-34-mutmassliche-bandenmitglieder-ld.10069429",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T20:57:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "112eaf7f5f7983e7",
+   "k": "welt",
+   "titel": "+++ Iran-Krieg +++: Iran-Krieg kostet USA bisher fast 49 Milliarden Dollar",
+   "t": "Der Iran-Krieg hat die USA laut Bericht bisher fast 49 Milliarden Dollar gekostet. Der Rohöltransport durch die Straße von Hormus ist seit Monatsbeginn halbiert.",
+   "e": "Die Lage in der Straße von Hormus wirkt auf Ölpreis, Inflation und damit auf die Zinspolitik der Notenbanken.",
+   "s": 8,
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-krieg-kostet-usa-bisher-fast-49-milliarden-dollar/100136895.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T20:54:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "fe9ad1a76bd2aa50",
+   "k": "usa",
+   "titel": "USA unter Trump: US-Senat lehnt Resolution zum Irankrieg ab",
+   "t": "Der US-Senat hat eine Resolution zur Begrenzung des Iran-Krieges abgelehnt. Demokraten und einzelne republikanische Abweichler scheiterten.",
+   "e": "Die Kontrolle des Kongresses über militärische Einsätze bleibt im Iran-Konflikt schwach.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-senat-lehnt-resolution-zum-irankrieg-ab-faz-19444916.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T20:53:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "018a236e5a542bf7",
+   "k": "usa",
+   "titel": "Nach Midterms-Klatsche: Trump warnt Musk vor MAGA-Absprung",
+   "t": "Nach der Kongresswahl mit deutlichem Sieg der Demokraten sucht Tech-Milliardär Elon Musk Abstand zu Trumps MAGA-Bewegung. Trump warnt ihn davor.",
+   "e": "Die Spaltung im republikanischen Lager könnte die politische Lage in den USA prägen.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/nach-midterms-klatsche-trump-warnt-musk-vor-maga-absprung/100271118.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T20:46:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "0911d83ee1a918d9",
+   "k": "usa",
+   "titel": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "t": "Das US-Handelsministerium hat laut Abgeordnetem Mast den Verkauf von mehr als 879.000 KI-Chips an chinesische Unternehmen genehmigt.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T20:45:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "297e3c8a91c8ebcb",
+   "k": "usa",
+   "titel": "Trump scores key win over House progressive accused of assaulting ICE agent",
+   "t": "Die Abgeordnete LaMonica McIver muss sich weiter wegen eines Vorwurfs der Gewalt gegen einen ICE-Beamten verantworten, das Berufungsgericht lehnte eine Neuprüfung ab.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/trump-scores-key-win-over-house-progressive-accused-assaulting-ice-agent",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-19T20:45:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "ab4d6c7b2296802e",
+   "k": "welt",
+   "titel": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
+   "t": "Israels Geheimdienstchef soll bei einem USA-Besuch für neue Iran-Angriffe geworben haben, während Golfstaaten auf eine Einigung drängen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-19T20:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ede714208ba75d7a",
+   "k": "usa",
+   "titel": "Das Weiße Haus beschlagnahmte die Telefone einiger Reporter an Bord der Air Force One, als Donald Trump China verließ, und führte dabei Gründe der Cybersicherheit an - Informat.ro",
+   "t": "Das Weiße Haus hat auf dem Rückflug von China Telefone einiger Reporter an Bord der Air Force One aus Sicherheitsgründen beschlagnahmt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHI0OGRRQ2dqZkV0MTY0Z1dxSW0xMHZhVEdjNnNrZGExNkVtUC16SnJjajdRUUJxZHBGTHlLYjliNzI5VlNYUHVGa3czYW82WEVvVU1HLUhnMWRlS3dIdFBzUElZR0JUZkU2bjlKVmliYmJuVnJiV2hNaTI4MEQ0anVKdG5lRkNuUnYwaERiTWlhcUVWYmNtMks0SlppZzNrQ2pkclVoeVhwbnlONDMwZHdXQWFYUQ?oc=5",
+   "quelle": "Informat.ro",
+   "zeit": "2026-11-19T20:37:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "26410123592e6592",
+   "k": "usa",
+   "titel": "$1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions",
+   "t": "Der Abgeordnete Pat Harrigan schlägt vor, Hochrisiko-Anbieter aus US-Rechenzentren und Cloud-Diensten auszuschließen, mit Strafen von einer Million Dollar pro Tag.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-19T20:37:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "fec479877bbbe26a",
+   "k": "usa",
+   "titel": "Congress passes bill to protect older investors from financial fraud",
+   "t": "Der Kongress hat das Financial Exploitation Prevention Act 2025 verabschiedet, das ältere Anleger vor Finanzbetrug schützen soll.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T20:36:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "09fd1aa554b10f71",
+   "k": "finanzen",
+   "titel": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+   "t": "Die Kraken-Muttergesellschaft Payward übernimmt den Risikokapital- und Vermögensverwalter Tribe Capital.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T20:33:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "c74256fff44a85ee",
+   "k": "finanzen",
+   "titel": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+   "t": "Nvidia hat binnen sechs Handelstagen 611 Milliarden Dollar an Börsenwert verloren.",
+   "e": "Nur 23 Unternehmen weltweit erreichen einen Börsenwert von mindestens 611 Milliarden Dollar, der Einbruch betrifft also einen Schwergewichtswert.",
+   "s": 8,
+   "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T20:33:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ef49ad3f35cfed1b",
+   "k": "finanzen",
+   "titel": "Barr von der Fed: Inflation erfordert weitere Anpassung der Geldpolitik - MarketScreener Schweiz",
+   "t": "Fed-Gouverneur Barr sagt, die Inflation erfordere weitere Anpassungen der Geldpolitik.",
+   "e": "Solche Aussagen beeinflussen die Zinserwartungen und damit die Bewertungen an den Börsen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0JGTXFpVnU5X3JURWxtQ1kyWXNWSDVPOGUzRmZyRXFHWlNDRU1DQUNLbXVGLWJZRDZXTy1OQXYwV0JxLVctMzgzOW81R0NXaGV1dWdXOXgtUkxONmxXZFp0Nl81d0ZrQUh0WUR5VUNTVEpxcDRTWk1tbG9IM0ozYl84WDcxTUdYVUlzWTNsOFJkUFFMZXJDRFdpRl9aWU1kT3Utb1ZPbU9MenpseDVQY2h6UGRHS3FQcF9qekVjRXp6NW4tVkIyRGdjTEdldS1mSWc?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-19T20:32:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "291ca9708db27f20",
+   "k": "usa",
+   "titel": "Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid",
+   "t": "Bill Essayli soll untersuchen, ob Biden-Beamte bei der FBI-Durchsuchung von Mar-a-Lago 2022 gegen Gesetze verstoßen haben.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/trump-ally-bill-essayli-tapped-lead-investigation-biden-officials-mar-a-lago-raid",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-19T20:21:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b8854af76e61a63",
+   "k": "finanzen",
+   "titel": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+   "t": "Der S&P 500 steuert auf den sechsten Verlusttag in Folge zu.",
+   "e": "Die Serie zeigt eine breite Schwäche am US-Aktienmarkt, nicht nur bei einzelnen Werten.",
+   "s": 6,
+   "link": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T20:10:21+00:00",
+   "tag": null
+  },
+  {
+   "id": "17be089684f911a8",
+   "k": "deutschland",
+   "titel": "Strafbefehl gegen Tesla-Werksleiter",
+   "t": "Gegen den Werksleiter von Tesla in Grünheide wurde ein Strafbefehl wegen übler Nachrede erlassen, nachdem die IG Metall Anzeige gestellt hatte.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T20:07:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "602a062566de14df",
+   "k": "finanzen",
+   "titel": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+   "t": "SEC-Kandidatin Kristin Johnson unterstützt laut Anhörung förmliche Regeln für den Handel tokenisierter Aktien.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-19T20:06:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "f354920a48bf4d04",
+   "k": "finanzen",
+   "titel": "Fed-Gouverneur Barr warnt: Geplante Regeländerungen könnten Finanzaufsicht schwächen - Investing.com Deutsch",
+   "t": "Barr warnt, geplante Änderungen an der Bankenregulierung könnten die Finanzaufsicht schwächen und Risiken erhöhen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXpoODdQZE50bHQwdDBBNHoyWnF1TGNfTWhSZTA5bzJLTVlLaE9BS2VJaEgxREZkbTlXSkFwTWlnYWtwS1ZOLWJEM00ycy1PSzQ4NHNoZ2MxZG1lazJnSkxkdU5UX0dWVm9aYlViMlpQYS1xZXQ1RTYxRWxUVTNya21hX3Z1ZEpSSm9OcFl1N0FQSUk3V3pjTEZzS3ZFcXczSGlNWUx0eWZha2paQXM5clVTTW5jRjFKajlzenk2TXJWeHU1cERyVFJqWEk0dw?oc=5",
+   "quelle": "Investing.com Deutsch",
+   "zeit": "2026-11-19T19:57:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6b4b7babf82b5770",
+   "k": "finanzen",
+   "titel": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+   "t": "Der Stablecoin USDS von Sky ist um 35 Prozent geschrumpft, nachdem 1,5 Milliarden Dollar aus den Reserven abgeflossen sind.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-19T19:53:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "091204d5d7fe0000",
+   "k": "finanzen",
+   "titel": "Fed-Protokoll: KI als „Inflationsrisiko“ und Dezember-Zinserhöhung im Visier – wie viel Straffung verträgt die Wall Street? - AktienCheck.de",
+   "t": "Das Protokoll der Fed-Sitzung nennt KI als mögliches Inflationsrisiko, eine Zinserhöhung im Dezember wird diskutiert.",
+   "e": "Die Diskussion über eine Anhebung zeigt, dass die Fed Inflationsrisiken höher gewichtet.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1FVeTBFTXgyQW5wR3AxT1BsOS1fWUNaRzlLbUV6MHg5UXREZzdCTEN3TGRWN21UZTZ4VmwwZFVvZlpLMndIOHA4UEhaaXFPQWVNd1pSeVVaSG1pYmZLZS1FMkszQ2xxb01LQVk3ODdiVnBrd3pxRkNTVm1haUVKOVdjNUg1WG0xdXNBY2NURkh2MjBHQ19wTEpjN2VxU28tQ2FEdE55N21zLVR3VWc?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-19T19:52:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "96193c8c3242b5b6",
+   "k": "finanzen",
+   "titel": "Motorenhersteller: Nach „sorgfältiger Prüfung“: Deutz weist Leerverkäufer-Vorwürfe zu FFG-Kauf zurück",
+   "t": "Deutz weist Vorwürfe von Leerverkäufern zum Kauf des Rüstungskonzerns FFG zurück und nennt sie unbegründet.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/leerverkaeufer-motorenbauer-deutz-weist-vorwuerfe-zu-ffg-uebernahme-zurueck/100271395.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T19:35:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "2277d5854fc67569",
+   "k": "welt",
+   "titel": "tagesschau 20:00 Uhr",
+   "t": "Trump, Xi und Putin haben ihren Dreiergipfel in Shenzhen mit einer Friedenserklärung beendet. Kanzler Merz begrüßt die Koalition der Willigen für Beratungen zur Ukraine in Berlin.",
+   "e": "Europas Rolle bei der Ukraine-Unterstützung gewinnt an Gewicht, falls die Gespräche konkret werden.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1686764.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T19:34:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "8a518a8721e74a39",
+   "k": "finanzen",
+   "titel": "Luftfahrt: Lufthansa beschleunigt Stellenabbau bei der Kernmarke",
+   "t": "Lufthansa beschleunigt den Stellenabbau in der Kernmarke und streicht 1000 Stellen.",
+   "e": "Der Abbau zeigt, dass der Turnaround bei der Lufthansa noch nicht gelungen ist; das wirkt auf den Arbeitsmarkt in Deutschland.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-lufthansa-beschleunigt-stellenabbau-bei-der-kernmarke/100271386.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T19:25:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "f46e7e071c950bcc",
+   "k": "usa",
+   "titel": "Trump says he won’t strike Iran again before 2027, as envoy says Israel may ‘go it alone’ against Tehran regime",
+   "t": "Trump hat erklärt, er wolle vor 2027 keine weiteren Angriffe auf den Iran fliegen lassen, trotz Drucks aus Israel.",
+   "e": "Israel und die Golfstaaten sind sich über den Kurs uneins, die Lage in der Region bleibt unberechenbar.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/19/us-news/trump-not-rushing-into-iran-decision-says-we-will-see-what-happens-in-2027/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-19T19:17:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "fb1bebbb7a8b50ce",
+   "k": "welt",
+   "titel": "Internationaler Gerichtshof stuft Verbrechen gegen Rohingya als Völkermord ein",
+   "t": "Der Internationale Gerichtshof stuft die Verbrechen gegen die Rohingya in Myanmar als Völkermord ein.",
+   "e": "Das Urteil ist wegweisend für die Durchsetzung des Völkerrechts.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1686750.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T19:17:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "2c8d4d684749420f",
+   "k": "finanzen",
+   "titel": "EZB-Ratsmitglied Panetta hofft, dass US-russisch-chinesischer Gipfel wenig erreicht - MarketScreener Deutschland",
+   "t": "EZB-Ratsmitglied Panetta hofft, dass der Gipfel zwischen den USA, Russland und China wenig erreicht.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0xMczRUQlNCXzFmVGt2WHdhT1lvRXpBMHRnV19raWdWOV83UzdQU2xSQzlfR1pUV3ZoUHB0cGhQUGFxWDVRTmFZUU9FV21tYnh1QlIyd0ZOemFEanpWUFdzbjAxcHV4OTN3UFpGUU80eDUwY0xENXd5WXZhaExvb1duNGUwT2JrZFIyUEhJOUg0SzhNb3ZjclhmX2l2TjQyM05lRTJBbXhSRWFkSVZCQl9Lbl85WmdXbWR4cm43WTQ4VElSZVdWSlBDcktKU0FnLWtoUFF4QVNNWjhRYW14dEFn?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-19T19:16:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b71889099126c16",
+   "k": "deutschland",
+   "titel": "„Das tut uns nicht weh“ – Claudia Major nennt 100 Milliarden für die Ukraine „nicht sehr viel Geld“",
+   "t": "Sicherheitsexpertin Claudia Major hält die geplante Ukraine-Hilfe von 100 Milliarden Euro für finanzierbar.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/ausland/article6aff3b3ae79e7594eb9b640b/ukraine-das-tut-uns-nicht-weh-claudia-major-nennt-100-milliarden-fuer-kiew-nicht-sehr-viel-geld.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T19:15:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "b3f470b81c37425a",
+   "k": "finanzen",
+   "titel": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+   "t": "Die US-Wirtschaft wächst schneller als erwartet, der Haupttreiber ist laut Bericht in Schwung.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T19:13:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a3b38bdc50811e7e",
+   "k": "welt",
+   "titel": "Neue Angriffe: Russland kann die Krim-Brücke nicht mehr verteidigen",
+   "t": "Die Ukraine greift die Krim-Brücke weiter an, laut Bericht kann Russland sie kaum noch verteidigen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T18:55:10+00:00",
+   "tag": null
+  },
   {
    "id": "3ca4fbe7fff36127",
    "k": "finanzen",
@@ -225,6 +573,18 @@
    "tag": null
   },
   {
+   "id": "ace3a81eae0aeed0",
+   "k": "finanzen",
+   "titel": "Anthropic-Aktie startet mit gigantischem Kurs-Plus – Tausende Mitarbeiter werden zu Millionären",
+   "t": "Anthropic hat beim Börsengang 107,3 Milliarden Dollar eingenommen, so viel wie kein Unternehmen zuvor. Der Kurs stieg zum Start deutlich.",
+   "e": "Der Rekordbetrag gilt als Gradmesser für die Stimmung am KI-Markt und die Bewertung der Branche.",
+   "s": 7,
+   "link": "https://www.welt.de/wirtschaft/video6aff3864c1e8003ef73c4dee/claude-entwickler-anthropic-aktie-startet-mit-gigantischem-kurs-plus-tausende-mitarbeiter-werden-zu-millionaeren.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T18:03:08+00:00",
+   "tag": null
+  },
+  {
    "id": "d68120705108a087",
    "k": "finanzen",
    "titel": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
@@ -261,6 +621,18 @@
    "tag": null
   },
   {
+   "id": "4ba0e03998a7bf3a",
+   "k": "deutschland",
+   "titel": "Siegmund kandidiert am 8. Dezember als Ministerpräsident",
+   "t": "Der AfD-Politiker Ulrich Siegmund will sich am 8. Dezember im Landtag von Sachsen-Anhalt zur Wahl als Ministerpräsident stellen, früher als geplant.",
+   "e": "Eine Wahl mit AfD-Kandidat wäre ein politischer Präzedenzfall in Deutschland.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/video6aff3467ee91e990acae7398/landtag-von-sachsen-anhalt-ulrich-siegmund-kandidiert-am-8-dezember-als-ministerpraesident.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T17:47:20+00:00",
+   "tag": null
+  },
+  {
    "id": "4642ae2d95a7d2ad",
    "k": "finanzen",
    "titel": "EZB-Spitze: Lagarde geht am 7. Februar, Brunnermeier soll Chefvolkswirt werden – wer führt die EZB durch die Zinswende? - AktienCheck.de",
@@ -282,6 +654,18 @@
    "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-19T17:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9680258e10e38703",
+   "k": "usa",
+   "titel": "Lutnick unter Druck: Machtkampf um Chip-Exporte und Zölle in Washington – was heißt das für die Nvidia Aktie und die Handelspolitik? - AktienCheck.de",
+   "t": "US-Handelsminister Lutnick gerät in Washington im Streit um Chip-Exporte und Zölle unter Druck.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzVod2E1dmNXakJNUjhwOWd3ZmF6NG0zMjNtSkpzTmt6OGVHc1F6T081QlhfXzhRTnEtOWtyOTl5UGoxRVI5ZkRSVFZpMlY2ZnpONU1XV25LcE9OTTlobXpuYjQ3QzA0aklkaDdvSkVOcFJBc2plcXZCQktmdzVOSzB4TWJPS2d4Y3BQWHBCUkFmRWVnN0NiZTAxWjE0SHA2NVFORlJvQzk1QQ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-19T17:43:03+00:00",
    "tag": null
   },
   {
@@ -621,6 +1005,18 @@
    "tag": null
   },
   {
+   "id": "ef95fba450c5e569",
+   "k": "deutschland",
+   "titel": "Jugendstreik in Europa: Am Freitag geht die Gen Z in ganz Europa auf die Strasse",
+   "t": "Für den 20. November haben Jugendliche in mehreren europäischen Städten, auch in Berlin, zu Protesten aufgerufen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T15:41:20+00:00",
+   "tag": null
+  },
+  {
    "id": "e8c5a4bf6efdcdad",
    "k": "nrw",
    "titel": "Kommunaltagung Antisemitismus in Arnsberg - Radio Sauerland",
@@ -678,6 +1074,18 @@
    "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
    "quelle": "CoinDesk",
    "zeit": "2026-11-19T15:20:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "d11f50e342f3f1e6",
+   "k": "welt",
+   "titel": "Trump kündigt 17 Milliarden US-Dollar Deals in Südostasien an - aktien.news",
+   "t": "Trump kündigt Geschäfte im Umfang von 17 Milliarden US-Dollar in Südostasien an.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlRjVW1Eb1k1WGZQTEVQU2JidHY1emljeEp5NUR0MklxUGJHeVFuTTRXTGU0cXpSR0R6NUluZGRoQk9wTzhPVzlRcFhUREV2VG04ck12M0VSUzZmSjhoTHV6OXJwY1A1VTFKbzc4SlA4VXNHc1plVHo4M195bjVrWk42OVBLQ0taNU9XclhR?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-19T15:05:02+00:00",
    "tag": null
   },
   {
@@ -2671,414 +3079,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-19T00:01:23+00:00",
    "tag": null
-  },
-  {
-   "id": "eb47a5a073da1acb",
-   "k": "nrw",
-   "titel": "NRW-Regierung gegen Evonik-Übernahme durch BASF - CHEManager",
-   "t": "Die NRW-Landesregierung lehnt die Übernahme des Chemiekonzerns Evonik durch BASF ab.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTltbFVya3Q0d3VUT0lOMjJVTlBRd1hmWEFHdU02RVJjM3R6NENSVm9LazdOV3JxOEJ0ZlNOR1M0T2JCbV91X2JINnFXcGtUZDA2VEppcGlfUjNVaDVrYTZvc1AwYTduVDQzRDdZMmRfd3F4NVRLUVFRUGQ0RUhQcUZOUFdtajI5UXR3RXVUaw?oc=5",
-   "quelle": "CHEManager",
-   "zeit": "2026-11-18T23:32:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "703233e1e1506f65",
-   "k": "welt",
-   "titel": "Ukraine-Krieg: Krim-Brücke: Zugverkehr nach erneutem Angriff eingestellt",
-   "t": "Nach einem neuen Angriff wurde der Zugverkehr über die Krim-Brücke vorerst eingestellt; zuvor war der Teil für den Autoverkehr beschädigt worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-krim-bruecke-zugverkehr-nach-erneutem-angriff-eingestellt/100271082.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T23:22:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "867bd6a84d645382",
-   "k": "finanzen",
-   "titel": "Banken: Bundesregierung und Unicredit einigen sich bei Commerzbank-Übernahme",
-   "t": "Die Bundesregierung und Unicredit haben sich nach Bedingungen von Finanzminister Klingbeil auf die Übernahme der Commerzbank verständigt. EU und Fed haben den Deal bereits genehmigt.",
-   "e": "Die politische Einigung ebnet den Weg für die Übernahme der zweitgrößten deutschen Privatbank durch einen italienischen Konkurrenten.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T23:13:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "f421dfb8969abccf",
-   "k": "finanzen",
-   "titel": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-   "t": "Bei US-Nebenwerten (Russell 2000) ist ein 'Death Cross' entstanden, ein charttechnisches Warnsignal für die Marktbreite.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T23:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "73aa1cd006bfec32",
-   "k": "deutschland",
-   "titel": "Nach dem Koalitionsausschuss: Frei sieht gewaltige Herausforderungen für Bundeshaushalt",
-   "t": "Unionsfraktionschef Frei sieht für den Bundeshaushalt 2028 eine Lücke von 25 Milliarden Euro, auch ohne Senkung der Stromsteuer.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-dem-koalitionsausschuss-frei-sieht-gewaltige-herausforderungen-fuer-bundeshaushalt/100271079.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T23:02:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c8a7dbae5a41cf1",
-   "k": "finanzen",
-   "titel": "Folgeschäden des Fortschritts: Allianz: KI-bedingte Schäden wachsen rasant",
-   "t": "Der Versicherer Allianz meldet, dass KI-bedingte Schäden wie Risiken, Rechtsstreitigkeiten und Haftungsfälle von Jahr zu Jahr zunehmen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/folgeschaeden-des-fortschritts-allianz-ki-bedingte-schaeden-wachsen-rasant/100271078.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T23:01:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "a8c9bd2fb14c7d79",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Kugel in Windschutzscheibe: Schuss auf Mann bei A57 in Köln - tagesschau.de",
-   "t": "Auf der A57 bei Köln wurde ein Mann in seinem Auto angeschossen; die Kugel traf die Windschutzscheibe.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVk3NDhrNHlSMVRQWXBjUDdXQkV1cG5MUDdOTTlmMzl6UVZDeHh5QkN0ZVVvTlJuVFpwYklVVUlXUXoxbWctRWJVRG5CV3FUX1FOdGJ0SWdDQVZrZWtRTzZhYm1wc0lDNzA2T0V5bjRVVVkyajNXR0NPTUwtTGdQMVlsaVkyQ0YtNUV2MUM3cTY0WXZrRmVjMmVCM2ZhNk05dlVlTVVfc3ZscEhaNW9yTFA1bHF2R3RDeldfcVFTY1QxcDlZRFhndUdrbmtjZw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-18T23:01:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a17b36fa3ba55c27",
-   "k": "finanzen",
-   "titel": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-   "t": "Am US-Aktienmarkt verschieben sich die Sektoren deutlich: Technologiewerte gelten als günstig, defensive Konsumwerte als teuer.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T22:53:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e38ccd0d995b5517",
-   "k": "finanzen",
-   "titel": "Erstnotiz: Anthropic legt Aktienpreis für Mega-IPO bei 83 Dollar fest",
-   "t": "Anthropic hat den Ausgabepreis für seinen Börsengang laut Medienberichten auf 83 Dollar je Aktie angehoben. Die Papiere sollen am Donnerstag erstmals gehandelt werden.",
-   "e": "Der höhere Preis deutet auf starke Nachfrage nach KI-Aktien hin; FAZ nennt eine angestrebte Marktkapitalisierung von rund 1,5 Billionen Dollar.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-anthropic-legt-aktienpreis-fuer-mega-ipo-bei-83-dollar-fest/100270370.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T22:44:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "215936fc7b127b53",
-   "k": "usa",
-   "titel": "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
-   "t": "In South Carolina sind zwei Männer wegen Mordes an einem Mann angeklagt, der 2023 bei einem Streit erschossen wurde.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-18T22:37:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f9eaa060a67f9244",
-   "k": "finanzen",
-   "titel": "EZB-Präsidentin Lagarde spricht als Nächstes, während der Euro unter 1,1000 notiert - TradingView",
-   "t": "EZB-Präsidentin Lagarde tritt als Nächstes auf, während der Euro unter 1,10 US-Dollar notiert.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZU92UUg1Zy00ZERmNG96dzFOemhTTTE4SHRpSkxVVFNNd3hHMklYckNCaHVBeVRyc3dsS0JRZmZVTnktbHJ1bXJPUEwyZmh2bE1MTk1Ib0lBMFRsZXRNdVBVM1dMN01F?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-18T22:31:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "62997b2b7198b17d",
-   "k": "finanzen",
-   "titel": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-   "t": "Payward, der Betreiber der Krypto-Börse Kraken, übernimmt das Venture-Capital-Geschäft Tribe seines CEOs.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-18T22:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f47bc4d120e3c9f",
-   "k": "finanzen",
-   "titel": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-   "t": "Palo Alto Networks kauft den KI-Startup Applied Compute für 4,5 Milliarden Dollar. Die Aktie stieg nach Quartalszahlen um rund 7 Prozent.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T22:25:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "c8243c005d8b72c1",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Unbekannter schießt auf fahrendes Auto - Mordermittlung - n-tv.de",
-   "t": "In Nordrhein-Westfalen wurde ein fahrendes Auto beschossen. Die Polizei ermittelt wegen Mordes.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFhYa00xUVd6U2FjVmdoWGtkY3BPMUFBajFCZTZtZU5Jbm93NDN2NnhNelN1bV9OZklRNDRiejhlS1dLejdOVXJsZDJMYkVCTEFzT2tKV3BodE1VWHJ1aGtvRC1FODdSWGhpN2I1V3MzZm95R0psMDBva0phcFNTdVlTbHMzYkhxM3ZIRTdZbXpMZlAzeHZac2lseDJESHNhR19nRU1lRGV3bVRlTFJyQkdSWExpZXFZRjJaYm5n?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-18T22:09:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3bc84143a8a935c0",
-   "k": "nrw",
-   "titel": "Sturmtief Talia über Iserlohn - Newsflash24",
-   "t": "Sturmtief Talia zieht über Iserlohn hinweg. Die Auswirkungen auf den Verkehr und die Umgebung sind noch offen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDhEMTBxekVhNWhOOXBpQm1nd1lZUHBheVFvQ09YdVFJRWpaUjRyR001Z3gxaGNhb0xfR19RX1prOVZXR25VNWxNZHFzamNGUmhDNUwyVE1SSFlpb3AzMURybjBnX3JmSjd2MjVjaFozRHRrRVdjeXNhbnQtWHRidW81T1UzbGZMZDBMeg?oc=5",
-   "quelle": "Newsflash24",
-   "zeit": "2026-11-18T22:06:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3f70a93075d284d8",
-   "k": "finanzen",
-   "titel": "Wall Street uneinheitlich: Nvidia unter Druck, Fed-Protokoll im Fokus - MarketScreener Deutschland",
-   "t": "An der Wall Street uneinheitlich: Nvidia unter Druck, Fokus auf dem Fed-Protokoll.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXpEMjdmWTdQd1A1V1pNQU42d3IyOTRtVVVSbUdYTm1oN1cxM0F6a2c3SUItTlNLc00xQjF2WUt5RkJqNi1qYUpQcnZIdGlJMUNzMm92c1hjV09ELWRoZkdZZWJiQkZIWlFZWUI4eDBZdENlOVdYNjNFYWZtejhsSGNiQnJ0RlZIVjJvX0hoQ2U2a0Z2alRzTnJkZ3N0QVEwbXBQM09wenZMdUc1N0JWVEhPN2M4OXFja0NHOHpQWEw5REJ0bjZnVHMwV21jQQ?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-18T22:01:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "3f12bf6e426aa6bd",
-   "k": "usa",
-   "titel": "Republican Andrew Garbarino rips Kash Patel for skipping US threats hearing for second straight year",
-   "t": "Der republikanische Abgeordnete Garbarino kritisiert FBI-Chef Kash Patel, weil dieser zum zweiten Mal in Folge eine Anhörung zu US-Bedrohungen versäumt hat.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/18/us-news/republican-andrew-garbarino-rips-kash-patel-for-skipping-us-threats-hearing-for-second-straight-year/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-18T21:58:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "fbbc04a0dc98e071",
-   "k": "finanzen",
-   "titel": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-   "t": "Contrarian-Indikatoren zeigen, dass die Stimmung am Aktienmarkt noch nicht den Tiefpunkt erreicht hat.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T21:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "033a3746331180ff",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Verdächtiger Gegenstand - Festnahme in Düsseldorfer Wohnung - n-tv.de",
-   "t": "In Düsseldorf wurde nach einem verdächtigen Gegenstand in einer Wohnung eine Person festgenommen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWtLaXhtenRZdTR2dVVObU95SzduUmlrYjg2NE9yQ1lBZUNuTHFBOVhsazhQOHhQZ0RaNFRVY0xXQkE4MXo2OEloNmJmTlRDTkZzRWxScDhLVDdEZG9OcWFIbEdXRElwUzF0VXlHOU9DdVd5VklSVlJaNEJ1NGpYLWt6bmhCNE53NlNnT0ZqeWVVbkZKYXJVLVZPcy1KMUpWSnlIZGpSSEJFRnJkaklVb1dqLTl0eFBCWGl0QUZrUXpVWGs2?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-18T21:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e9d97aa7ed260e2a",
-   "k": "finanzen",
-   "titel": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-   "t": "Tether wehrt sich gegen die Stablecoin-Bewertung von S&P Global, die keine Abstufung vorsieht. Die Note 5 ist die niedrigste verfügbare Bewertung.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T21:57:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e3d60ee5c4acbded",
-   "k": "finanzen",
-   "titel": "Copper’s plunge could make the AI data-center buildout more painful",
-   "t": "Der Kupferpreis ist deutlich gefallen. Experten warnen, dass die Versorgung mit Kupfer für den KI-Rechenzentrumsausbau knapp werden könnte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T21:55:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6fbe642a3febd1bb",
-   "k": "usa",
-   "titel": "Gavin Newsom releases rogue AI report, calls for giving California the power to pull the plug",
-   "t": "Kalifornien-Gouverneur Newsom legt einen Bericht zu gefährlicher KI vor und fordert die Befugnis, riskante KI-Systeme abzuschalten.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/18/us-news/gavin-newsom-proposes-sweeping-new-restrictions-on-ai/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-18T21:54:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "78fe8703c1f2f40e",
-   "k": "finanzen",
-   "titel": "Fed-Mitglied Kashkari: Geldpolitik kann KI-Investitionen dämpfen - MarketScreener Deutschland",
-   "t": "Fed-Vertreter Kashkari sagt, Geldpolitik könne KI-Investitionen dämpfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUkxVlhyTjlDMlAycTZqMGNYaG5kYjZhVHdYeXgxaDc0eGd2UG1nU3BEYWtnVmhJNmF4a3RyZ18tVlNRNnpFVU12Z241a0pzVDdCeFBoX0hoMFZoQmVDM2Znb05MNWFoRmtZcFJSd3BFRlBlWFFRaEh0R2JrVFp3SXRNS2JhdmpQY0NleWtxdTE2MU9qWHhQdHFoN2FhRWtZUUZxdFR1dXNBOHVGRjUwYnNHaFFuZC12WVc3cFpxSzJOcGtSNU1FdnBB?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-18T21:50:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "905f41e09932c8ef",
-   "k": "welt",
-   "titel": "Beratungen zu KI-gestützten Waffensystemen bei UN-Konferenz in Genf",
-   "t": "Bei einer UN-Konferenz in Genf beraten die Staaten über KI-gestützte Waffensysteme.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1686202.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T21:44:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "4ae5f5cf4f7e1881",
-   "k": "welt",
-   "titel": "Estland plant Schließung der russisch-estnischen Grenze nach Brandanschlag auf Drohnenfabrik",
-   "t": "Estland plant die Schließung der Grenze zu Russland, nachdem es einen Brandanschlag auf eine Drohnenfabrik gab.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1686200.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T21:41:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "42617a0563f49830",
-   "k": "finanzen",
-   "titel": "Fed-Protokoll: KI-Investitionen und hohe Vermögenspreise bergen Risiken für die Finanzstabilität - IndexBox",
-   "t": "Das Fed-Protokoll nennt KI-Investitionen und hohe Vermögenspreise als Risiken für die Finanzstabilität.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXpsS1dNdzdzUENlNGszZEQ0TElmM2hhYXd2VHY2WFhNam5Ma29ELWoya05BelN4YVdhS1dJbWhET0FFR2tWaWxzZWI4eERFT2RiRFdsMy1HZ1BadTNpRWtRNmdlQzc2UGUxSHVTU0VEY01Xdm5ZMEMxbzNJbzdWSTVKekxManRMekZUV2lUNnl0RkI4ZTlpYURzMzFhdjlzNDJObndDalJXU1BacEdPcEtJa2ZqX0k2NEE?oc=5",
-   "quelle": "IndexBox",
-   "zeit": "2026-11-18T21:40:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "ba386cc0d69ecadd",
-   "k": "nrw",
-   "titel": "FW-MK: Sturmtief Talia sorgt für einen einsatzreichen Abend - Presseportal",
-   "t": "Sturmtief Talia hat im Märkischen Kreis zu mehreren Feuerwehreinsätzen am Abend geführt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZWJnNmMzLWpLeTZvM195WENvNDJrYnIzVFJDYTZYU25Mb01SSHZOZkx5aENqZEROdmZ0QjhvZHU5OHRqNndpeVd1aHhMTk9LNmZxa1pmb1Vub1MzQlJaQUVBeXVodw?oc=5",
-   "quelle": "Presseportal",
-   "zeit": "2026-11-18T21:35:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "b65040000f6ab481",
-   "k": "deutschland",
-   "titel": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
-   "t": "Die Koalition hat sich auf eine Senkung der Stromsteuer für mindestens ein Jahr geeinigt.",
-   "e": "Die Maßnahme wirkt direkt auf Strompreise und ist zunächst auf ein Jahr befristet.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T21:32:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2072979ee3ea637",
-   "k": "finanzen",
-   "titel": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-   "t": "Die Nvidia-Zahlen waren stark, der Aktienkurs reagierte jedoch kaum. Anleger blicken wegen Regulierung und Makrofaktoren vorsichtig auf den KI-Handel.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T21:19:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "57d9e0c756b5eca3",
-   "k": "finanzen",
-   "titel": "Neel Kashkari at the FinRegLab AI Symposium - Federal Reserve Bank of Minneapolis",
-   "t": "Fed-Vertreter Neel Kashkari äußerte sich auf einem Symposium zu KI im Finanzsektor.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9pVUljUTFtVXFiQ2QxSFlrT0dJQkNvdDZIRFFrejQwNExqemtrdlVyNmFHTWVKdWhVaklxWGE2MFQ5YVk0aEd4T2xQQmREZFhXZjZoQ2pOdDZaSXBfMlR3YjBNVkpsNGhLN0dtNGlteThLczZOQ0wxUnNpYk0wNGtXeGY2ZmRaZ1FXdjljUGZhdw?oc=5",
-   "quelle": "Federal Reserve Bank of Minneapolis",
-   "zeit": "2026-11-18T21:15:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "77d23c397eec21d5",
-   "k": "finanzen",
-   "titel": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-   "t": "Ledger warnt Kunden in Berlin, die seit Januar 2026 Hardware-Wallets gekauft haben. Das Unternehmen untersucht mögliche Manipulationen durch eingebaute Chips in Deutschland und Dubai.",
-   "e": "Betrifft die Sicherheit von Krypto-Hardware-Wallets; Kunden sollen den Support kontaktieren.",
-   "s": 6,
-   "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T21:13:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "dfe5e202570f8d68",
-   "k": "welt",
-   "titel": "Business-Ticker: US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus",
-   "t": "US-Behörden werfen einem Russen vor, Mitarbeiter eines Rüstungsunternehmens im Silicon Valley ausspioniert zu haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-behoerden-russe-spaehte-ruestungsfirma-im-silicon-valley-aus-faz-200452404.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T21:09:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "d820dc70bb087668",
-   "k": "usa",
-   "titel": "Trump admin demands Nature Medicine magazine probe ‘ghostwritten’ paper that dismissed COVID lab leak",
-   "t": "Die Trump-Regierung verlangt von der Fachzeitschrift Nature Medicine eine Prüfung, ob Fauci und Collins ein Papier zum COVID-Laborursprung verfasst haben.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/18/us-news/nih-demands-nature-medicine-investigate-landmark-paper-that-dismissed-covid-lab-leak-theory/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-18T21:07:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "3da9c50c1b199f83",
-   "k": "usa",
-   "titel": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
-   "t": "Die FDA hat laut Gerichtsunterlagen einen Strafprozess gegen ein alternatives Finanzierungsprogramm für günstige Medikamente auf die Aussage eines Mit-CEOs gestützt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T21:07:14+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3086,7 +3086,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3096,7 +3096,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3121,7 +3121,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "CNBC Finance",
@@ -3156,12 +3156,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -3195,8 +3195,9 @@
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
@@ -3206,7 +3207,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 24
    },
    {
     "name": "Google News Fed",
