@@ -1,20 +1,20 @@
 {
- "aktualisiert": "2026-11-19T13:01:27.249742+00:00",
+ "aktualisiert": "2026-11-19T15:01:33.147998+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "128,19 €",
-   "delta": 0.8496885366767071
+   "wert": "127,97 €",
+   "delta": 0.6805370522176446
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,41 €",
-   "delta": 0.41168557090323077
+   "wert": "43,49 €",
+   "delta": 0.5851481165169092
   },
   {
    "name": "Deka S&P 500",
-   "wert": "140,16 €",
-   "delta": 1.038061394626033
+   "wert": "139,88 €",
+   "delta": 0.8362159523422452
   },
   {
    "name": "Deka Nasdaq-100",
@@ -23,23 +23,23 @@
   },
   {
    "name": "Deka DAX",
-   "wert": "224,70 €",
-   "delta": -0.044485342704736475
+   "wert": "224,30 €",
+   "delta": -0.22242128334966083
   },
   {
    "name": "Bitcoin",
-   "wert": "63.838 $",
-   "delta": -0.2910296194638469
+   "wert": "63.459 $",
+   "delta": -0.20097652682256809
   },
   {
    "name": "Ethereum",
-   "wert": "1.805 $",
-   "delta": 0.6180578747371586
+   "wert": "1.795 $",
+   "delta": 1.213119604941696
   },
   {
    "name": "Gold",
-   "wert": "3.720 $",
-   "delta": -0.5879340152837975
+   "wert": "3.710 $",
+   "delta": -0.8471606181633784
   },
   {
    "name": "EZB Zins",
@@ -84,6 +84,258 @@
   ]
  },
  "items": [
+  {
+   "id": "f5fbf6e6c1b7e73f",
+   "k": "welt",
+   "titel": "Weshalb Venezuela im Kampf gegen Narco-Terroristen immer enger mit den USA zusammenarbeitet",
+   "t": "Venezuela arbeitet im Kampf gegen Drogenterroristen zunehmend mit den USA zusammen, obwohl die Nachfolgeregierung nach dem Sturz Maduros offiziell chavistisch bleibt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/international/weshalb-venezuela-im-kampf-gegen-narco-terroristen-immer-enger-mit-den-usa-zusammenarbeitet-ld.10068740",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T14:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "436850db2499f87d",
+   "k": "finanzen",
+   "titel": "Wirtschaftskriminalität: Bekanntes deutsches Start-up-Trio im Visier der Ermittlungsbehörden",
+   "t": "Gegen drei Gründer des Start-ups Learnd wird wegen Vorwürfen der Benachteiligung von Gläubigern ermittelt. Die Investoren weisen die Vorwürfe zurück.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/learnd-ltd.-bekanntes-deutsches-start-up-trio-im-visier-der-behoerden/100270459.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T14:52:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "889324df1dea0b76",
+   "k": "finanzen",
+   "titel": "KI-Euphorie trifft Zinsängste: Börsen zwischen Anthropic-IPO und Fed-Politik - aktien.news",
+   "t": "Die Börsen bewegen sich zwischen Euphorie um den Anthropic-Börsengang und Sorgen um die Zinspolitik der US-Notenbank Fed.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckZNRVBTZmx6S25EWHR0ZjJBTjBLUnNNdjFDZTRoRUVyOG9uS0RzdE9wNWxzVTdCYmFvc0pCR1ZURllyRTN0czlJMWxyRlh3VXpYb0ZMb0h0Y2RVWkNGTGIzTGpuTkdBOUMxaEhiaUlaRzcwaUNqUHB1eUtkVGFDLTd2UFRTU1hPOV81Y1Fmb1JLTG1jbzFsd3IzdGFvLUtr?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-19T14:52:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "6be6e6d4cc8996a2",
+   "k": "welt",
+   "titel": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
+   "t": "Laut Internationaler Energieagentur wird weltweit erstmals mehr Energie zum Kühlen als zum Heizen verbraucht. Grund sind steigende Temperaturen. Dies geht aus dem \"World Energy Outlook\" hervor.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T14:51:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "b86c96a2625e2afb",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Rechtsstreit um Vertragsstrafe zur Landarztquote geht weiter - n-tv.de",
+   "t": "In Nordrhein-Westfalen geht der Rechtsstreit um eine Vertragsstrafe bei der Landarztquote weiter.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanlXOGNEUFNQa2cxSWVzLWpXRzNvalRIQlN4a3ZMVTZsNTVmUU4yYlprMHZWN1hhME4xN2c2V292QmdjV2VBUS0zVmNHempTQ2Q4eXZHTlpiZGV3RzEwQjFwM2VDNTBoT1RFRGNHS25LeEZwakdUY2N4QVVUUEJRSW9fZHh1MnRHTHNiVWIwSFJqTk5DaXpBcXg4NUFoQy1NSEpYVXRnSmZ1MjloNVlkYmpLeDh0cXpURTZ2OG1GTlY4QzM4TGc?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-19T14:48:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7240f312855dba27",
+   "k": "finanzen",
+   "titel": "Volkswagen verlangt Nullrunden und Einschnitte bei 35-Stunden-Woche",
+   "t": "Volkswagen fordert in den anstehenden Tarifverhandlungen Nullrunden für 2027 und 2028 sowie Einschnitte bei der 35-Stunden-Woche.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6aff0bc8ee91e990acae6fc0/volkswagen-verlangt-nullrunden-und-einschnitte-bei-35-stunden-woche.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T14:47:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "dec12c7c5e3c1599",
+   "k": "nrw",
+   "titel": "Iserlohn: Nußbergstraße muss am 30. November teilweise gesperrt werden - IKZ-Online",
+   "t": "In Iserlohn muss die Nußbergstraße am 30. November teilweise gesperrt werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2VCelJwSmFRMjFRMUJtc1d3ekdOaU1MSXZrVWpQRHl0M1JqdjkwWTdDbHhXaUJyM0c5Z2EyZTJaODkzaWlZc1NHN1pnd0VLbms2aXpUR1MtSENDQ0t3UnQxUzgxVVRNM0RxR2J3UWJNd2ZQcUhzSWFENGN4YnRXek1CX2Q0WUxQRjNLSW5wSUdrdk56U1RFbno4aTItaWpldkVfWFZkbDRWLVRnWkdWQWIxQUFnenMwSUZtOEhxUmJkRk4wdGVHME1DQnhPM2x1?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-19T14:34:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "40198eb12448adff",
+   "k": "deutschland",
+   "titel": "„Sobald Gewalt ausgeübt wird oder Straftaten begangen werden, sind wir da“",
+   "t": "Berlins Polizeipräsidentin kündigt vor den geplanten \"Gen Z\"-Protesten eine starke Polizeipräsenz an, um Ausschreitungen zu verhindern.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/vermischtes/video6aff04d3ee91e990acae6e67/gen-z-proteste-sobald-gewalt-ausgeuebt-wird-oder-straftaten-begangen-werden-sind-wir-da.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T14:34:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "8f671d50e4a146e3",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Täter bedrohen Kassiererin bei Raubüberfall mit Schusswaffe - n-tv.de",
+   "t": "In Nordrhein-Westfalen haben Täter bei einem Raubüberfall eine Kassiererin mit einer Schusswaffe bedroht.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzV1cjZobjg2QTdfSmNTeF84UjZNMFo0WkZsMUZEdUhTa1lhMDB4WHlDWG1EckN6R3B0Q1RHM1lRLTJEZXdmUkd5XzdwU1psT2w2NlZ4M0tpT0V3bWl0N05GYzNNX3VVSTVrSzk1b2t4RGxKalpCNFcyQzlOY2FLakEwalRuRE1fQ09UNUd0dlJCQUlmYUJ2RURHUWhEUC1wSVNmd1ZIbktINHV6MF90aUxqTVotZEp3U0VmT1M2ODJtOWN5ZUpV?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-19T14:32:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "79d9b65647fa2e5b",
+   "k": "finanzen",
+   "titel": "Gespräche gescheitert: BASF sagt Evonik-Übernahme ab",
+   "t": "BASF hat seine Übernahmepläne für Evonik abgesagt, nachdem Gespräche gescheitert sind. Der Evonik-Aktienkurs fiel daraufhin.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gespraeche-gescheitert-basf-sagt-evonik-uebernahme-ab-201699067.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T14:27:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "c14d76535250a1e3",
+   "k": "deutschland",
+   "titel": "Deutschland Liveblog: Schüler soll Terroranschlag geplant haben – mit Waffen aus dem 3D-Drucker",
+   "t": "Ein 18-Jähriger aus dem Sauerland soll einen Terroranschlag auf Moscheebesucher geplant haben, offenbar mit Waffen aus dem 3D-Drucker.",
+   "e": "Der Fall betrifft die Region Sauerland direkt und berührt die Sicherheitslage in der Nachbarschaft von Iserlohn.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-schueler-soll-terroranschlag-geplant-haben-mit-waffen-aus-dem-3d-drucker-faz-110093143.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T14:26:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "45ad71d392e01339",
+   "k": "welt",
+   "titel": "Frankreich streitet über seine Soldaten in der Ukraine",
+   "t": "Die französische Regierung hat erstmals eingeräumt, eigene Soldaten in der Ukraine einzusetzen. Paris spricht von einer begrenzten Mission, die Opposition kritisiert, das Parlament sei übergangen worden.",
+   "e": "Russland reagiert kritisch, der Einsatz verschärft die europäische Debatte über die Unterstützung der Ukraine.",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/frankreich-bestaetigt-den-einsatz-von-soldaten-in-der-ukraine-ld.10068393",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T14:24:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "3d43a7a82c1b9a00",
+   "k": "finanzen",
+   "titel": "Gold's bad year is getting worse. Why its price keeps falling",
+   "t": "Gold hat seit seinem Rekordhoch im Januar deutlich nachgegeben. Höhere Zinsen und ein stärkerer Dollar verändern die Attraktivität des Edelmetalls.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T14:17:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "8ab61de6d3618ce5",
+   "k": "deutschland",
+   "titel": "Debatte um Kernfusion: Lösen junge deutsche Firmen unser Stromproblem?",
+   "t": "Junge deutsche Start-ups gelten bei neuartigen Fusionsreaktoren als führend. Die Technik könnte den steigenden Strombedarf emissionsfrei decken, dürfte aber noch lange brauchen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/feuilleton/debatten/kernfusion-loesen-junge-deutsche-firmen-das-stromproblem-201694817.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T14:17:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "90691a9ac3dd3c54",
+   "k": "finanzen",
+   "titel": "Bundesbank-Monatsbericht: Inflation steigt zum Jahreswechsel kräftig um 0,5 Punkte - Wie viel EZB-Zinserhöhung steckt im DAX? - AktienCheck.de",
+   "t": "Laut Bundesbank-Monatsbericht steigt die Inflation zum Jahreswechsel deutlich um 0,5 Punkte.",
+   "e": "Ein höherer Inflationsdruck erhöht die Wahrscheinlichkeit, dass die EZB ihre Zinspolitik straffer gestaltet.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3E3WGNkS0owZnlCUHhGSFpoUTZnb1NZLTlzU3YwQmtWWVpLNEdGUmx6SGpvRUFnTkNpT1hlcGxtZlZfWWxhUzZrRmlwaWVsRFNUelFjd05TTnZLY3k4LVhXZGdseDdfWk1fZlZRVlR6TmdLb2t4Ympza1BORnRDX0hqdG1TNFFnVEpyR1h2TnFpaGx3X3dJa05yOXNBUlU1cU5WYnItNFo?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-19T14:14:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "cddb90647a71788f",
+   "k": "welt",
+   "titel": "KI-gestützter Cyberangriff auf EU-Kommission",
+   "t": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der über 33.000 Beschäftigten gestohlen wurden, teilte die Behörde nicht mit.",
+   "e": "Der Fall zeigt, dass KI-gestützte Angriffe auch auf zentrale europäische Institutionen zielen, ähnlich wie die aktuelle BSI-Warnung.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T13:56:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "8d126069fb6b823f",
+   "k": "finanzen",
+   "titel": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+   "t": "Das Cloud-Geschäft von Alibaba wächst stark, wird aber durch Verluste der KI-Labs vollständig aufgezehrt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T13:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c100d95fd29504ef",
+   "k": "nrw",
+   "titel": "Vier Santa-Cruz-Bikes in Hennen aus Garage gestohlen: Räder sind rund 15.000 Euro wert - Ruhr Nachrichten",
+   "t": "In Hennen wurden vier hochwertige Santa-Cruz-Bikes aus einer Garage gestohlen. Der Wert der Räder liegt bei rund 15.000 Euro.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWmlBSlB4bUZpNjJYTmQ1T1hQeVNZbG1KRE9UZFV5NHpIckZLV2E0b3JPc3BocTNFN2RacTNoWDlkbWttNkxoXzdyRnVucXRMMWxZajNPNHp5QlpFQ3hGNWxhbngzbEduaE9BQXFKZDFPbnFOaUVMU09tWjBqZk1oLVhDenRVVkp5aXppcnh6N3huNmJFa01jTU5LV1ZldFBoWUJBa3ZVUU0tVnBVV0UzMzVrM0xSWUpSR1hkTUlYb2VwOTgzVGhISjVlaENrRS16VTRTd1ptb2l5WHZYakRITzZYb2dubzFYYUZv?oc=5",
+   "quelle": "Ruhr Nachrichten",
+   "zeit": "2026-11-19T13:38:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "ec8d65cc1614940e",
+   "k": "finanzen",
+   "titel": "J.P. Morgan erwartet bei den nächsten drei Sitzungen Zinserhöhungen der Fed, da die Inflation anhält - MarketScreener Schweiz",
+   "t": "J.P. Morgan erwartet bei den nächsten drei Sitzungen Zinserhöhungen der US-Notenbank Fed, da die Inflation anhält.",
+   "e": "Die Erwartung weiterer Zinsschritte ist für Märkte und Finanzierungskosten zentral, auch im Hinblick auf die Fed-Termine bis Jahresende.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWHFsUFJOXzhfNUNqdUNIUkdXd3BSNC04MzNBZWxTbDhqMHhNb0hlSnhiZV9hM0lLMFFsOVhubzktYXlGTG5POUs3TkFIa2ZmYVFRNldNcUxjLVlzcnVxd3d0NWM1UHA4NlhtQzlmNHloTndfMG03ZUNSOXpfRWp0VWd0bXJEc2dXT2gtamZkNVhPVnI3VHZIdEdVdGRHWVpnV1lIUklzZmI0QVNSdTFQNkpHZFFkQ0FfNE42cTJfSmVFVUcyRE9LZ3FNNXFER3JhY3dCNGhvSGhtMFJkV29VN2Z0UXVacVVlWGMtU3ZMdDNUbkxtSEszUDhjVQ?oc=5",
+   "quelle": "MarketScreener Schweiz",
+   "zeit": "2026-11-19T13:33:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "a7618bf093298cf7",
+   "k": "finanzen",
+   "titel": "Princeton-Ökonom: Dieser Aufsatz machte EZB-Kandidat Markus Brunnermeier berühmt",
+   "t": "Die Bundesregierung nominiert den Princeton-Ökonomen Markus Brunnermeier als neuen EZB-Chefvolkswirt. Er gilt als Experte für Finanzkrisen.",
+   "e": "Der Chefvolkswirt ist einer der einflussreichsten Posten im EZB-Rat bei Zins- und Inflationsfragen.",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/markus-brunnermeier-der-aufsatz-der-den-ezb-kandidaten-beruehmt-machte-201691457.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-19T13:15:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "3eea0ca797aee44a",
+   "k": "finanzen",
+   "titel": "EZB erhöht die Säule-2-Kapitalanforderung für Nordea Bank ab 2027 - MarketScreener Deutschland",
+   "t": "Die EZB erhöht die Säule-2-Kapitalanforderung für die Nordea Bank ab 2027.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEJkdnBHX1lIZ1V6dngyM1lKUTFlcjJUT2pVQ1pHSXFvMWdNaVF0LVBKTGY5aHZCdWhfeWFmajFGeW5GM2UxMldKOGREdi1mc2NrbnRDZWxTem1tVERCeFYxbkR1S0d6bHYxcTFvbUkwbkJVeTJKX29LcFFGM2EtZk50aHY5QnVOZlJsclpUdkFlQ2RkMWNya1U0OHB2VmdxX1lzSVFTdE83NXNLZ08wQUlidHZkWE12dFhiX3RQbnVvSkQwYklqMjZmLVUxWVE?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-19T12:57:25+00:00",
+   "tag": null
+  },
   {
    "id": "3c714c9354ee2327",
    "k": "deutschland",
@@ -529,6 +781,18 @@
    "tag": null
   },
   {
+   "id": "675d25ac953c5962",
+   "k": "usa",
+   "titel": "Joe Biden veröffentlicht Memoiren - und gibt erstaunliche Enthüllungen über Donald Trump preis - DiePresse.com",
+   "t": "Ex-Präsident Joe Biden veröffentlicht seine Memoiren und macht dabei Aussagen über Donald Trump.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0N5M0dKcXJEeW12MmhfeENBUGxrU2VocUxMSjBYeFpseEg0UEl3bGwyQ05fZGxFRDFHRFkzcHB0UkZHZzVkVHV6TUVyZndiOGpVbjBWWWdtZ3ZWTzQ0SUVxaFlBdkNqYTFmdmNkQUxyWk9yb2lBN01CU1Z6OVhnR0wtLVowNDhDZk4ySnoyNlJNempXcWxpeEVfTm5WblA4TDZiN2c0NA?oc=5",
+   "quelle": "DiePresse.com",
+   "zeit": "2026-11-19T09:28:45+00:00",
+   "tag": null
+  },
+  {
    "id": "2c4160bba4e5b4ef",
    "k": "deutschland",
    "titel": "Die stille Lohnwende offenbart die neue Macht der Geringverdiener",
@@ -908,6 +1172,18 @@
    "e": "Ein Rekordvolumen für einen Börsengang, das die Stimmung im KI-Segment und bei Techwerten stark beeinflussen kann.",
    "s": 8,
    "link": "https://www.welt.de/wirtschaft/article6afe997f4d1895cf2a8f0945/anthropic-ki-firma-nimmt-bei-boersengang-rekordsumme-ein-bewertung-von-1-5-billionen-dollar.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-19T07:10:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "183f6eb19d1c7219",
+   "k": "finanzen",
+   "titel": "Anthropic gelingt Rekord-Börsengang – Claude-Entwickler nimmt 107 Milliarden Dollar ein",
+   "t": "Anthropic hat mit seinem Börsengang 107,3 Milliarden Dollar eingenommen, so viel wie kein Börsenneuling zuvor. Das Unternehmen startet am Donnerstag mit einer Bewertung von rund 1,",
+   "e": "Der Rekordwert übertrifft den bisherigen Spitzenreiter SpaceX und zeigt, wie stark das Interesse an KI-Werten derzeit ist.",
+   "s": 8,
+   "link": "https://www.welt.de/wirtschaft/article6afe997f4d1895cf2a8f0945/anthropic-nimmt-bei-boersengang-rekordsumme-ein-bewertung-von-1-5-billionen-dollar.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-19T07:10:19+00:00",
    "tag": null
@@ -1897,6 +2173,18 @@
    "tag": null
   },
   {
+   "id": "3bc84143a8a935c0",
+   "k": "nrw",
+   "titel": "Sturmtief Talia über Iserlohn - Newsflash24",
+   "t": "Sturmtief Talia zieht über Iserlohn hinweg. Die Auswirkungen auf den Verkehr und die Umgebung sind noch offen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDhEMTBxekVhNWhOOXBpQm1nd1lZUHBheVFvQ09YdVFJRWpaUjRyR001Z3gxaGNhb0xfR19RX1prOVZXR25VNWxNZHFzamNGUmhDNUwyVE1SSFlpb3AzMURybjBnX3JmSjd2MjVjaFozRHRrRVdjeXNhbnQtWHRidW81T1UzbGZMZDBMeg?oc=5",
+   "quelle": "Newsflash24",
+   "zeit": "2026-11-18T22:06:00+00:00",
+   "tag": null
+  },
+  {
    "id": "3f70a93075d284d8",
    "k": "finanzen",
    "titel": "Wall Street uneinheitlich: Nvidia unter Druck, Fed-Protokoll im Fokus - MarketScreener Deutschland",
@@ -2785,303 +3073,15 @@
    "tag": null
   },
   {
-   "id": "9b57a42cdb16cedc",
-   "k": "welt",
-   "titel": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-   "t": "Österreich prüft die Aberkennung der Staatsbürgerschaft der Ex-Außenministerin Karin Kneissl, die in Russland lebt und sich hinter Putin stellt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T17:17:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "4426114ee74549ce",
-   "k": "welt",
-   "titel": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-   "t": "Isoliert lebende Angehörige des Awá-Volks in Brasilien sind aus Hunger an den Waldrand gekommen und haben um Nahrungsmittel gebeten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T17:09:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "83503c0c48374116",
+   "id": "7025d73f48c55888",
    "k": "finanzen",
-   "titel": "Solarpionier: Enpal-Gründer erwägen Anteilsverkauf – Kommt es bei der Solarfirma zum Machtwechsel?",
-   "t": "Die Gründer des Berliner Solarunternehmens Enpal erwägen den Verkauf von Anteilen. Ein Geldgeber könnte bald 51 Prozent halten.",
+   "titel": "Enthüllungen: Deutsche Bank im Stresstest",
+   "t": "Enthüllungen aus einem Datenleck belasten die Deutsche Bank. Die Vorgänge reichen teils weit zurück, und die Führung um Christian Sewing steht in der Kritik.",
    "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-enpal-gruender-erwaegen-anteilsverkauf-machtwechsel-bei-solarfirma/100268742.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T17:05:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "b5db969a3780f171",
-   "k": "finanzen",
-   "titel": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-   "t": "Ein US-Gericht hat in einem Verfahren um Ethereum-MEV einen Freispruch über 25 Millionen Dollar gefällt. Die rechtlichen Risiken für Erträge aus gestaketem Ether bleiben offen.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T17:05:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "b74e5243d5fd2433",
-   "k": "usa",
-   "titel": "Epstein und ICE: Demokraten nehmen Trumps Team ins Visier - Lausitzer Rundschau",
-   "t": "Die Demokraten nehmen das Team von Präsident Trump im Zusammenhang mit Epstein und der Einwanderungsbehörde ICE ins Visier.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMUNIaFozTGVZYmNXVkUyaXcxZUVuTF95RFl2NkxSNnJZWlN0QXhCTWdMelREV2lVbXJmN1lHaWpyRXQzOVRRWng2YThWTGVsVXFGTFhERHBPNWdnV3V0bEhOQllYZEhMYVljU0VUSEFVUWlKemxrVWdzY2NPVzVrMjNwRDFPS1c3V2xfVTB2UjRub2FudGh1ak5QSDZPcjdYY3JLU1RmNV9NeWRjT2R0MkdLNWE4QQ?oc=5",
-   "quelle": "Lausitzer Rundschau",
-   "zeit": "2026-11-18T17:02:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "daa587d4f23e42f3",
-   "k": "finanzen",
-   "titel": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
-   "t": "Ford hat in den USA die Produktion von Batteriezellen für seine nächste EV-Generation gestartet, auf Basis von Technik des chinesischen Herstellers CATL.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T17:02:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "b90bce0b4fda1753",
-   "k": "finanzen",
-   "titel": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
-   "t": "Der US-Dollar notiert auf einem Jahreshoch, trotz früherer Erwartungen nach dem Zollschock im April 2025.",
-   "e": "Ein stärkerer Dollar wirkt sich auf Rohstoffpreise, Importe und die Lage für Euro-Anleger aus.",
    "s": 6,
-   "link": "https://www.nzz.ch/wirtschaft/der-dollar-notiert-auf-jahreshoch-diese-vier-gruende-stehen-dahinter-ld.10067302",
-   "quelle": "NZZ",
-   "zeit": "2026-11-18T17:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bd50fbcbf8c19d20",
-   "k": "deutschland",
-   "titel": "Der Spritpreisdeckel – eine Enttäuschung mit Ansage",
-   "t": "Der geplante Spritpreisdeckel ab Januar bleibt in wesentlichen Punkten unklar, da konkrete Regeln für Höchstpreise fehlen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6afdbeb0ff9ae12be89e1255/kraftstoffpreise-der-spritpreisdeckel-eine-enttaeuschung-mit-ansage.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-18T16:58:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf93a5731dcc7143",
-   "k": "deutschland",
-   "titel": "Der Spritpreisdeckel – eine Enttäuschung mit Ansage",
-   "t": "Ab Januar soll ein Spritpreisdeckel gelten, so haben es Union und SPD vereinbart. Konkrete Regeln für die Höchstpreise fehlen bislang.",
-   "e": "Der Deckel soll die Folgen des Auslaufens des Tankrabatts abfedern, Kritiker zweifeln an seiner Wirkung.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/plus6afdbeb0ff9ae12be89e1255/spritpreisdeckel-ab-januar-warum-trotzdem-17-cent-entlastung-verloren-gehen-koennten.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-18T16:58:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "ec9d03141f507727",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Schüsse auf Geschäft in Marl - n-tv.de",
-   "t": "In Marl sind Schüsse auf ein Geschäft abgegeben worden.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTA0SlVLNldUZGN2VlVKUTdNTFI2NUlGdldTVHFfMmtZeV9SMnFtTkljR05aYVI4OVBra2Vvb0RMZlJTdmtpaFZEWWg4UGJFNlYxT01mSDI4Q254YnB6d3VmWjFPbWtMVWZIai1EZnY4WHdCSGNERzVXZ0hQSW5VcnhWNE81MXFKS1RpY0NSeUtUc1ZseHZHNHBUY1A1QQ?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-18T16:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "475d1cc8b8b50bbb",
-   "k": "usa",
-   "titel": "Lisa Cook refuses to participate in Trump administration's latest effort to remove her from Fed - TheGrio",
-   "t": "Fed-Gouverneurin Lisa Cook weigert sich, an dem neuesten Versuch der Trump-Regierung teilzunehmen, sie aus dem Fed-Gremium zu entfernen.",
-   "e": "Der Streit berührt die Unabhängigkeit der US-Notenbank, die für Zinsentscheidungen zentral ist.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ3dyNXpMMHBmdDd4a0xFczZKcHpDU2xWVnpKSTJXOHBONUxjSVdyWHhjSk1FR2FUbGdDVWhndzhKUnM5czhJV1ZfdlRwY1hTYWNSV0dzSHc2SUNHSERWVmVkUjdONk5qLXpOMTQ4OV93Znd3ZFpERU9Wa3ZfTDVqYnA1NA?oc=5",
-   "quelle": "TheGrio",
-   "zeit": "2026-11-18T16:56:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "44d8d22eb511d7b2",
-   "k": "deutschland",
-   "titel": "BSW gescheitert: Der Staat darf das Vertrauen in ihn nicht verspielen",
-   "t": "Das Bundesverfassungsgericht hat das BSW-Verfahren abgeschlossen und die Korrektheit der Bundestagswahl bestätigt. Kritisiert wird die lange Verfahrensdauer, zudem wird eine Reform des Wahlrechts angeregt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/bsw-unterliegt-gute-wahl-201694653.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T16:55:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "de6b8c8a1f0e3256",
-   "k": "welt",
-   "titel": "Asia Techonomics: KI-Schummel stürzt Südkoreas Schicksalsprüfung in die Krise",
-   "t": "In Südkorea wurde ein KI-gestützter Betrug bei Prüfungen aufgedeckt, die Regierung rüstet vor dem wichtigen Schulabschlusstest die Kontrollen auf.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/ki-schummel-loest-krisenstimmung-bei-suedkoreas-schicksalspruefung-aus/100270847.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:54:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "cf18d2f4b09321db",
-   "k": "finanzen",
-   "titel": "Dax aktuell: Dax schließt im Minus – Ölpreis sinkt",
-   "t": "Der Dax schloss im Minus und der Ölpreis fiel, nachdem neue Inflationsdaten und geopolitische Gespräche am Rande des APEC-Gipfels im Fokus standen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-oelpreis-sinkt/100270820.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d88309071f75a0fc",
-   "k": "finanzen",
-   "titel": "Dax aktuell: Dax schließt im Minus – Bank-Aktie sinkt um mehr als drei Prozent",
-   "t": "Der Dax schloss im Minus, die Bank-Aktie fiel um mehr als drei Prozent. Im Fokus standen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-bank-aktie-sinkt-um-mehr-als-drei-prozent/100270820.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "92cdbaff4de0991d",
-   "k": "finanzen",
-   "titel": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-   "t": "Die Aktie des KI-Unternehmens Anthropic soll am Donnerstag an der Nasdaq unter dem Kürzel ANT gehandelt werden. Laut Quellen erwägt das Unternehmen, das Angebot wegen starker Investorennachfrage aufzustocken.",
-   "e": "Der Börsengang gilt als Test für das Vertrauen in den KI-Boom, Analysten warnen zugleich vor hohen Bewertungen.",
-   "s": 7,
-   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T16:49:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "7185f00a1ddff9a7",
-   "k": "finanzen",
-   "titel": "Frist für EZB-Topjobs verlängert - TradingView",
-   "t": "Die Bewerbungsfrist für die Topjobs bei der EZB wurde verlängert.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMVFxdW5iam9HbXdBZkRpdjlyaUpqb0xCN0k4dHRkUTJyRWF1enhVM002MFNsRy1OUlA0eFRTZ0JHbEZ2d0QwSUIxOGZmbENhY2RCQ2JLaU8telBjUzJuaXFNUnVJY0sxREN0ckl0OGVGMjA0WWhF?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-18T16:47:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "9812e58698ea80a2",
-   "k": "deutschland",
-   "titel": "DB-Wettbewerbsbericht: Zugreisende haben immer mehr Wahlmöglichkeiten",
-   "t": "Der DB-Wettbewerbsbericht zeigt, dass Bahnreisende mehr Auswahl haben, auf der Schiene sind inzwischen 524 Eisenbahnunternehmen aktiv.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mehr-konkurrenz-fuer-db-524-bahnunternehmen-auf-deutschen-schienen-201693873.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T16:46:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2a60906e935a7c7",
-   "k": "nrw",
-   "titel": "Hitzestau soll Großbrand im MHKW Iserlohn ausgelöst haben - IKZ-Online",
-   "t": "Im Müllheizkraftwerk (MHKW) Iserlohn ist ein Großbrand ausgebrochen. Als Ursache wird ein Hitzestau vermutet.",
-   "e": "Das MHKW ist für die Abfallentsorgung im Raum Iserlohn wichtig, daher ist die Betriebsfähigkeit relevant.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEpIZUZPeEdoeHpnQlVOQmRod0FibmFHVUVBVTlYekJpbUpSVFFzbVB2Q25qVm0zR0NCRjRobVBhOUZ0Q0c4VFBBeGFqTjlXMmo0S0k2ZXl6cDVTT2R2ZUpGbnkzR3gzTW9TajNVcFJ2LWVzN2kyWXBEUWhyQWVycXFIUlZzUmpaX09yRjFaVlNoZW5jWWwxZ1R1Mzd6ZHl2dU8tOUk4X002MmJNNndWNEVWSWwxdUdudFl6Y0lFV0JHZw?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-18T16:37:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "44c5d12339982330",
-   "k": "usa",
-   "titel": "Autobauer: Debatte um Mercedes-Verbot in den USA spitzt sich zu",
-   "t": "Republikaner und Demokraten setzen Mercedes wegen chinesischer Anteilseigner unter Druck, ein Verbot in den USA wird diskutiert. Der Konzern hat nach Angaben des Handelsblatts für diesen Fall bereits eine Lösung vorbereitet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-debatte-um-mercedes-verbot-in-den-usa-spitzt-sich-zu/100270970.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:36:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "21e95bf74ce527a4",
-   "k": "welt",
-   "titel": "IT-Systeme: Serie an Hacks, Pannen, Ausfällen: Spitzt sich die IT-Bedrohungslage tatsächlich zu?",
-   "t": "Nach einer Serie von IT-Ausfällen, Hacks und Pannen bei Microsoft, dem Flugverkehr, der NSA, Apple und der BundID stellt sich die Frage, ob die IT-Bedrohungslage sich tatsächlich zuspitzt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/it-systeme-hacker-pannen-ausfaelle-was-wir-wissen-und-was-nicht/100270874.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:33:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "6985c7d7dfaa29e1",
-   "k": "welt",
-   "titel": "Raumsonde Voyager 1 rund 26 Milliarden Kilometer von der Erde entfernt",
-   "t": "Die Raumsonde Voyager 1 ist rund 26 Milliarden Kilometer von der Erde entfernt.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/video/video-1685946.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T16:25:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "7512dd695acbead8",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Mann sticht an Bushaltestelle auf 18-Jährigen ein - n-tv.de",
-   "t": "In Nordrhein-Westfalen hat ein Mann an einer Bushaltestelle einen 18-Jährigen niedergestochen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3o2ZDduSThpQkFOdzNQbFpQODJsRnNJOHZ6NHdFellZS2Y1NjV0N0F6dkRzQ3I5Rkg0R3BzVkVUdmYxYXdhbWhnOXVDMTdBYzh2RHBvWmpjUHJQdmJqTzVLTmR0cTZwMnVQclplQVZvNzg1OHNiMGxrdzRadHZPd1VEai0wSXo4TElES0xLdmdOMjRWc25lbW05VER0OV9lakJNcXp0cENtU1FRRjNYUFhPUkVFVkpk?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-18T16:25:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c2b52750bceffcc",
-   "k": "deutschland",
-   "titel": "Tesla: Amtsgericht erlässt Strafbefehl gegen Leiter der Gigafabrik in Grünheide",
-   "t": "Gegen den Leiter der Tesla-Gigafabrik in Grünheide wurde ein Strafbefehl erlassen, weil er einen Gewerkschafter ohne Beweise beschuldigt haben soll. Er wehrt sich dagegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-gericht-erlaesst-strafbefehl-gegen-leiter-der-gigafabrik-in-gruenheide/100270988.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T16:21:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "29512de207209746",
-   "k": "deutschland",
-   "titel": "Dann streiten sich der Pädokriminelle und der Richter über die Zahl der sexuellen Übergriffe",
-   "t": "Vor Gericht steht ein ehemaliger Kita-Erzieher wegen Dutzender Fälle von Kindesmissbrauch. Er hat laut Bericht Pornos von einigen Opfern gemacht und gesteht, widerspricht dem Richter aber bei der Zahl der Übergriffe.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/plus6afc03739893cadb7bd15787/prozess-in-muenchen-dann-streiten-sich-der-paedokriminelle-und-der-richter-ueber-die-zahl-der-sexuellen-uebergriffe.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-18T16:21:35+00:00",
+   "link": "https://www.faz.net/aktuell/finanzen/deutsche-bank-im-stresstest-kann-christian-sewing-das-datenleck-ueberstehen-201694095.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-18T17:18:16+00:00",
    "tag": null
   }
  ],
@@ -3095,17 +3095,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 23
    },
    {
     "name": "Welt",
@@ -3120,17 +3120,17 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 26
+    "n": 24
    },
    {
     "name": "CNBC Finance",
@@ -3160,7 +3160,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -3195,7 +3195,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -3210,12 +3210,13 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
