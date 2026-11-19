@@ -1,54 +1,49 @@
 {
- "aktualisiert": "2026-11-19T21:01:40.457608+00:00",
+ "aktualisiert": "2026-11-19T23:01:49.375672+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "126,79 €",
-   "delta": -0.24782923458095407
+   "delta": -0.22820414453583737
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,08 €",
-   "delta": -0.36311379950452194
+   "delta": -0.2916291209562605
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,53 €",
-   "delta": -0.14057181299534927
+   "delta": 0.22429090208961888
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "176,16 €",
-   "delta": 0.9628635451621514
+   "delta": 2.1098977726608625
   },
   {
    "name": "Deka DAX",
    "wert": "222,50 €",
-   "delta": -1.0231330162518981
+   "delta": -2.219293774568376
   },
   {
    "name": "Bitcoin",
-   "wert": "62.040 $",
-   "delta": -0.7986694493846073
+   "wert": "62.138 $",
+   "delta": -0.13181427251900824
   },
   {
    "name": "Ethereum",
-   "wert": "1.758 $",
-   "delta": 0.3459962584372445
+   "wert": "1.759 $",
+   "delta": 0.1010934861275709
   },
   {
    "name": "Gold",
-   "wert": "3.667 $",
-   "delta": -1.9989819154942912
+   "wert": "3.628 $",
+   "delta": -3.0465780838323853
   },
   {
    "name": "EZB Zins",
    "wert": "2,50 %",
-   "delta": null
-  },
-  {
-   "name": "Fed Funds",
-   "wert": "3,88 %",
    "delta": null
   }
  ],
@@ -81,6 +76,150 @@
  },
  "items": [
   {
+   "id": "d83e38e480cd1cc3",
+   "k": "usa",
+   "titel": "Paul Pelosi spends less than 40 minutes in jail for hit-and-run crash",
+   "t": "Paul Pelosi hat nach einem Unfall mit Fahrerflucht weniger als 40 Minuten im Gefängnis verbracht, wie Haftdaten aus dem Napa County zeigen.",
+   "e": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/19/us-news/paul-pelosi-spends-less-than-40-minutes-in-jail-for-hit-and-run/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-19T22:53:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "a5b340dbf30db57d",
+   "k": "finanzen",
+   "titel": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+   "t": "Binance hat Gerichtsbeschlüsse erwirkt, mit denen Vermögenswerte von 6,5 Milliarden Dollar eingefroren werden, die beim Hack im Oktober gestohlen wurden. Hongkong warnt zudem vor Hyperliquid.",
+   "e": "Gerichtliche Einfrierungen sind ein wichtiger Schritt bei der Rückholung gestohlener Krypto-Gelder.",
+   "s": 6,
+   "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-19T22:25:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "669b5a14cdf6808d",
+   "k": "finanzen",
+   "titel": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+   "t": "Trotz des starken Debüts von Anthropic sind die vier großen US-Indizes auf dem Weg zur schwächsten Woche seit den Zöllen vom April 2025.",
+   "e": "Die Schwäche trifft den Gesamtmarkt, während Softwarewerte zusätzlich unter Druck stehen.",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T22:12:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "783fb9ec1029ecd3",
+   "k": "deutschland",
+   "titel": "Bis zu 6000 Euro pro Person – Drei Syrer sollen mehr als 600 Menschen eingeschleust haben",
+   "t": "Die Bundespolizei hat drei mutmaßliche syrische Schleuser festgenommen. Sie sollen mehr als 600 Migranten nach Westeuropa gebracht haben, pro Person seien bis zu 6000 Euro verlangt worden.",
+   "e": "Der Fall zeigt den Umfang organisierter Schleusung nach Westeuropa.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6aff6e5a5842ff528b9e0d02/rheinland-pfalz-bis-zu-6000-euro-pro-person-drei-syrer-sollen-mehr-als-600-menschen-eingeschleust-haben.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T22:07:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "8a54b85e84cb87b6",
+   "k": "finanzen",
+   "titel": "Markets are sending troubling signals about the state of the economy",
+   "t": "An den Märkten entstehen mehrere Rezessionshandels-Muster, obwohl die Konjunkturdaten weitgehend stabil geblieben sind.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T21:57:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e5e92b9f61f91c32",
+   "k": "usa",
+   "titel": "Federal judge makes bombshell decision on ICE agent face mask rules in California",
+   "t": "Ein Bundesrichter hat im Streit um kalifornische Regeln zu Gesichtsmasken für ICE-Beamte entschieden. Das US-Justizministerium hatte geklagt, die Gesetze behinderten Bundesbehörden.",
+   "e": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/19/us-news/california-agrees-to-stop-enforcing-mask-law-for-ice-agents/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-19T21:55:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "d884312366d52ade",
+   "k": "finanzen",
+   "titel": "Brief an Mitarbeiter: Lufthansa will 1.000 Stellen an Drehkreuzen streichen",
+   "t": "Lufthansa will rund 1.000 Stellen an den Drehkreuzen Frankfurt und München streichen. Wann und auf welchem Weg, ist noch offen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/brief-an-mitarbeiter-lufthansa-will-1000-stellen-an-drehkreuzen-streichen/100271404.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T21:44:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "809d23d9ebceb151",
+   "k": "finanzen",
+   "titel": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+   "t": "Intuit verkauft Mailchimp an Bending Spoons für 3,68 Milliarden Dollar, weniger als ein Drittel des Kaufpreises von 2021.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T21:40:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "f4b8cf111015cfd7",
+   "k": "usa",
+   "titel": "Trump grants posthumous pardon to MLB hit king Pete Rose",
+   "t": "Trump hat dem früheren Baseball-Star Pete Rose eine posthume Begnadigung erteilt, nach seiner Sperre von 1989 wegen Wettens und einer Steuerverurteilung von 1990.",
+   "e": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/19/us-news/trump-grants-posthumous-pardon-to-baseball-hit-king-pete-rose/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-19T21:31:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "6dcfb2db81854865",
+   "k": "welt",
+   "titel": "\"Koalition der Willigen\" berät in Berlin über Unterstützung der Ukraine",
+   "t": "In Berlin berät die Koalition der Willigen über die Unterstützung der Ukraine. Trump wurde zugeschaltet und drängte die Europäer, Putin anzurufen.",
+   "e": "Die Gespräche finden im Schatten des Gipfels in China statt, bei dem sich Trump, Xi und Putin trafen.",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1686798.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T21:29:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "d9064a12ee4b86bd",
+   "k": "welt",
+   "titel": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
+   "t": "Erstmals treffen sich Putin, Trump und Xi gemeinsam im Rahmen eines Gipfels in Shenzhen.",
+   "e": "Ein gemeinsamer Auftritt der drei Staatschefs ist ein seltenes Signal für die veränderten globalen Machtverhältnisse.",
+   "s": 8,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1686796.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T21:26:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "c4ca85c2021ff1b5",
+   "k": "finanzen",
+   "titel": "MoonPay seeks US bank charter for stablecoin, custody services",
+   "t": "MoonPay beantragt eine US-Banklizenz als nationale Treuhandbank, um Stablecoins auszugeben, Reserven zu verwalten und digitale Vermögenswerte zu verwahren.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-19T21:01:42+00:00",
+   "tag": null
+  },
+  {
    "id": "a3b6ab723b2e2a18",
    "k": "welt",
    "titel": "Haitianische Polizei tötet 34 mutmassliche Bandenmitglieder",
@@ -90,6 +229,18 @@
    "link": "https://www.nzz.ch/panorama/haitianische-polizei-toetet-34-mutmassliche-bandenmitglieder-ld.10069429",
    "quelle": "NZZ",
    "zeit": "2026-11-19T20:57:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "e2bb375cb41971b1",
+   "k": "finanzen",
+   "titel": "Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation - Bloomberg.com",
+   "t": "Fed-Vertreter Goolsbee sagt, angesichts hoher Inflation seien alle Optionen für die Sitzung des Offenmarktausschusses auf dem Tisch.",
+   "e": "Die Aussage passt zu den zuletzt gestiegenen Erwartungen an eine straffere Geldpolitik.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXR0LTlxSDlZclBKRURtajdwUHZPcUhwcHhvNC1zYi1NWVhkamc2QURJYmNjWW1UcjlPSmNCVTBqX2ZXRjc0Z3p4NU5nQWJzYk5CZzd6RGFlOFdQTmxrZDlIOEdIdGNBQVV6R1FTcUgta3ZWakpoMFV2QkVOSHJHYkMtRVAyNjAtT0NMVVhuUDhTcTBQc0FtekRWRTRqVWE4aDlvM09mUDJkR3FDRVhCXzBkaV8ydw?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-19T20:56:24+00:00",
    "tag": null
   },
   {
@@ -249,6 +400,18 @@
    "tag": null
   },
   {
+   "id": "44dafa0369dd2e8e",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Metall- und Elektroindustrie: IG Metall ruft in NRW zu Warnstreiks auf - tagesschau.de",
+   "t": "Die IG Metall ruft in Nordrhein-Westfalen in der Metall- und Elektroindustrie zu Warnstreiks auf.",
+   "e": "Betroffen sind Metall- und Elektrobetriebe in NRW, also auch im Raum Iserlohn mit seinen Zulieferern.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2ZEdkFUZmtVUXF1Z0VBalpCVjYtWF8yWUF0UVlsQjRDVEJ3azNEbEh0Z2U0Q25GWF8xQ243a0MzOWp2d2wteVdsalNVaWctQzFnOU5MOTVUN2hJRmpRSmlwZGxzZlBEcXdodnlab3FRQ0U5bWM5VERjU3AwcDBhSmtVVTc4OGJFM2otbGQ0MldkRVlkZjItNWVXUUxOU3NMWGlYbDAxaFc3VzhtbFRLV2dfRnR4S0tZNXFTeldCYkQxUGx1WGZuX1FGZzRBTlB2ai04VnJBMlpWZw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-19T20:18:00+00:00",
+   "tag": null
+  },
+  {
    "id": "1b8854af76e61a63",
    "k": "finanzen",
    "titel": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
@@ -321,6 +484,18 @@
    "tag": null
   },
   {
+   "id": "22f6fa8a3e91f631",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Festnahme nach Großeinsatz an Hochhaus in Essen - n-tv.de",
+   "t": "In Essen hat ein Großeinsatz an einem Hochhaus zu einer Festnahme geführt.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3RJVktPUFVLVHV1UGh5VDNmQmotOXhTN1oxQy1qX1dHQ05GLXJkRk5QLXFqck5OVGh5djFqVzJ2dFh5emVTQVV2bW5URHVuc09uWVBDa3Z3Nl9QN2JBMFR2NGNfc051UGg2UDFjQUFyY2RhUXNCR0tiTHVvM1ZiaURzRFkyZGtwRkJlblViOWkwQndrRTdPdzAxR2g5dXpLdk5MNjlGRW14MmYxVEtxMmtvbng3QQ?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-19T19:52:00+00:00",
+   "tag": null
+  },
+  {
    "id": "96193c8c3242b5b6",
    "k": "finanzen",
    "titel": "Motorenhersteller: Nach „sorgfältiger Prüfung“: Deutz weist Leerverkäufer-Vorwürfe zu FFG-Kauf zurück",
@@ -342,6 +517,18 @@
    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1686764.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-19T19:34:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "aab8cd624b78a6b2",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Gericht: Jugend darf in Köln in Innenstadt demonstrieren - n-tv.de",
+   "t": "Ein Gericht hat erlaubt, dass Jugendliche in der Kölner Innenstadt demonstrieren dürfen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnhmVVpkX2pISGZjZEhFNF93Z3I1X1ludFF2bGNvS1EzMnpWUjFoWTZMbjdCaG10T2RzdklKYkwyTzhqSjU1eXNUVDZrbEpUNzBZWk15VDUyZnNxQWZJSllnTnZ3SFN0d3RlOXhGUUk0RGNrQWtfUEdJRmdOei15ZG11T2Q2V1FQRk9yb1FrY0tXaVhYY3pFa0lIUXJaRC16cmNmV25EQUpYUFVWaDIxejFDbEY1My1OelpoMDlQQUc?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-19T19:28:00+00:00",
    "tag": null
   },
   {
@@ -417,6 +604,18 @@
    "tag": null
   },
   {
+   "id": "ff95902884a3526f",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: A1 nach tödlichem Unfall wieder frei - tagesschau.de",
+   "t": "Nach einem tödlichen Unfall ist die A1 wieder frei.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUZxTm1RNGxjVFFjaVZBVGdaV254YTZ2em9oQzVuTk90eUFNTVY1eEJHS3hGWFdKc3JqYTlka2xmcEMybFo5WWVOOWFXSWlvckNDN0lLZVZVTDJsM05SY0phZnhQOUNVb3RjZnJXVFpraFpmMEdRY2dyYWN2cjJ4VlNZWHEyZXA0MFhuaTd2QmkxdTBJZkhhUnVSalY1M24xNl8wdHZkb19BdjI4U3hqdXFEX1ZhX3c1dmVMazBTcDJhS1ZucER1c1ZKWGZVdw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-19T19:05:00+00:00",
+   "tag": null
+  },
+  {
    "id": "a3b38bdc50811e7e",
    "k": "welt",
    "titel": "Neue Angriffe: Russland kann die Krim-Brücke nicht mehr verteidigen",
@@ -426,6 +625,18 @@
    "link": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html",
    "quelle": "FAZ",
    "zeit": "2026-11-19T18:55:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "89051ae7b3091bf3",
+   "k": "deutschland",
+   "titel": "Sachsen-Anhalt: Siegmund will früher gewählt werden - doch wer hilft ihm?",
+   "t": "AfD-Politiker Ulrich Siegmund will sich früher als geplant am 8. Dezember im Landtag von Sachsen-Anhalt zum Ministerpräsidenten wählen lassen, dafür ist eine Sondersitzung vorgesehen.",
+   "e": "Er wäre der erste AfD-Ministerpräsident in Deutschland, die Mehrheitsfrage im Landtag gilt als schwierig.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-siegmund-will-frueher-gewaehlt-werden-doch-wer-hilft-ihm/100271382.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T18:52:17+00:00",
    "tag": null
   },
   {
@@ -645,6 +856,18 @@
    "tag": null
   },
   {
+   "id": "f3b2a70bf4c39b6a",
+   "k": "deutschland",
+   "titel": "„Kostspielige“ Auslandsreisen, „wahrheitswidrige“ Auskunft – Niedersachsen-Ministerin tritt zurück",
+   "t": "Niedersachsens Justizministerin Kathrin Wahlmann ist zurückgetreten, nach anhaltender Kritik an ihrer Amtsführung und Vorwürfen im Fall eines korrupten Staatsanwalts.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6aff24dfc1e8003ef73c4c3f/kathrin-wahlmann-kostspielige-auslandsreisen-wahrheitswidrige-auskunft-niedersachsen-ministerin-tritt-zurueck.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T17:46:04+00:00",
+   "tag": null
+  },
+  {
    "id": "4a0e7b48cb5caaaf",
    "k": "welt",
    "titel": "U.S. Consortium Wins Bid to Prospect at $62 Billion Kenyan Rare-Earth Deposit",
@@ -669,6 +892,30 @@
    "tag": null
   },
   {
+   "id": "a71bdf415b86002b",
+   "k": "deutschland",
+   "titel": "„Ich halte das für ein AfD-Förderprogramm“, sagt Nahles über Reform beim Arbeitslosengeld",
+   "t": "Arbeitsagentur-Chefin Andrea Nahles kritisiert Teile der Reformdebatte zum Arbeitslosengeld, etwa die Pläne zur Bezugsdauer, und sieht Widersprüche zu Kürzungen bei der Rente.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6aff249ae79e7594eb9b627f/andrea-nahles-arbeitsagentur-chefin-warnt-vor-afd-foerderprogramm-durch-reformen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-19T17:41:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "d296d4019bde1657",
+   "k": "finanzen",
+   "titel": "Pharma: Sanofi erwägt Übernahme des US-Pharmakonzerns Insmed",
+   "t": "Sanofi prüft laut Bloomberg-Bericht eine Übernahme des US-Pharmakonzerns Insmed. Es wäre der größte Deal der Biopharma-Branche seit Jahren.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-sanofi-erwaegt-uebernahme-des-us-pharmakonzerns-insmed/100271371.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T17:38:13+00:00",
+   "tag": null
+  },
+  {
    "id": "7fad32e65b956e48",
    "k": "finanzen",
    "titel": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide - The Washington Post",
@@ -678,6 +925,18 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWFyU3l6d3lJdVV5OG1QbTFQSFo2Q1FuTmlGTkhSZTRnazN5eDU2SmQ0NUF5V0FHemhCZThhcVpzalp4am15RVlGZ1BxcjVYa3ljc3N3dllEMjFmNG14ejJzNnQwOTZzMWU1MF9NMWNuNEFncmM4WG9vYkdaRnJCM1FNd1FPUjkxUjZqRDRjMXVXQmdyZF9mR19FSm8yajFmWm1jWXRWZHgxeFBRVElIeEx4WEtBVmFTM3YySk1qU3VSNGdCQVhfNFBqWG9qS1REOHhrOWRsY1JwUWRlTXJkNzJ2cw?oc=5",
    "quelle": "The Washington Post",
    "zeit": "2026-11-19T17:26:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "27f42b8765fa46bd",
+   "k": "finanzen",
+   "titel": "Gold fällt auf 14-Monats-Tief – Fed belastet - NTG24",
+   "t": "Der Goldpreis ist auf ein 14-Monats-Tief gefallen, belastet durch die Fed-Politik.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0pKUGJFNUlYd0d4XzBJZGx5TU5iX2o3TmdtcWRJT255T25DZmZaXzBpWlJnT09xRHl1X3RZZDVFQmRMYVlfVE1UWWVMcjNHQlBXUlp6R3VUajFIajIwc2l6UWlMdnRzX3JyLWo0RjlzeVoxN3V5cDUtcTNFRGE1Mjg5MGhaUVgwTUVSZHpRbGdOaWNEVzlYOVd0Zw?oc=5",
+   "quelle": "NTG24",
+   "zeit": "2026-11-19T17:24:24+00:00",
    "tag": null
   },
   {
@@ -702,6 +961,30 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
    "quelle": "Axios",
    "zeit": "2026-11-19T17:17:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a76bc6c2b028cde",
+   "k": "welt",
+   "titel": "EU verschiebt Methan-Vorgaben für Importe um zwei Jahre",
+   "t": "Die EU verschiebt die Methan-Vorgaben für Importe fossiler Brennstoffe um zwei Jahre.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wirtschaft/energie/eu-methan-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T17:14:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "62299df68d0149c0",
+   "k": "finanzen",
+   "titel": "81 Milliarden Dollar: Anthropic setzt sich an die Spitze der größten Börsengänge der Geschichte",
+   "t": "Der KI-Konzern Anthropic hat mit seinem Börsengang nach Medienberichten rund 81 Milliarden Dollar eingenommen und damit den bisher größten Börsengang der Geschichte erzielt.",
+   "e": "Die Aktie schloss am ersten Handelstag rund 17 Prozent im Plus, nachdem sie zwischenzeitlich über 30 Prozent gestiegen war.",
+   "s": 8,
+   "link": "https://www.faz.net/aktuell/finanzen/anthropics-boersengang-was-anleger-aus-der-ipo-geschichte-lernen-koennen-201698718.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-19T17:09:35+00:00",
    "tag": null
   },
   {
@@ -1626,6 +1909,18 @@
    "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
    "quelle": "CoinDesk",
    "zeit": "2026-11-19T10:55:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "bf5cb2653d9dea72",
+   "k": "nrw",
+   "titel": "52 Brote zum Auftakt: Backhaus in Iserlohn lebt wieder auf - IKZ-Online",
+   "t": "Die Bäckerei Backhaus in Iserlohn ist nach Berichten der IKZ mit einem Auftakt von 52 Broten wieder in Schwung gekommen.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0xCaW4zQ2RMamNUaGQxS25KVGQ3dmhZRGk4MXVCVmJXVFZDQi1BbHUwRWtMd3NyR01vRElYcXpSWUJBMHFLVV9SandxTl9UZzJCZWlnOTZRZ2JCdm52TlZrcWtzMFpCREl0Z1JKbGRRM1ljMm0zckZJS09KT2V6Q3l3X2lDNjRkdTBub1MxeXp0ZWs5aTlqdGkweXdGVzB5SExfb29wTUMzWGw1N01LYlVUU001bHNXVWVMTkJUQTNVUUFuaXI1d1ExUzFjdFpi?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-19T10:48:59+00:00",
    "tag": null
   },
   {
@@ -2779,306 +3074,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-19T03:28:00+00:00",
    "tag": null
-  },
-  {
-   "id": "c7d69f60005a61d8",
-   "k": "finanzen",
-   "titel": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-   "t": "Südkoreanische Medien-, Spiele- und Reiseaktien steigen nach Berichten über ein Handelsabkommen mit China.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-19T02:54:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "0013022bc4ee48dd",
-   "k": "deutschland",
-   "titel": "Metall-Tarifkonflikt eskaliert: Ganztägige Warnstreiks: Selten genutzte „Phase Gelb“",
-   "t": "Die IG Metall greift im Tarifkonflikt erstmals seit mehr als acht Jahren zu ganztägigen Warnstreiks, der sogenannten \"Phase Gelb\".",
-   "e": "Der Konflikt in der Metall- und Elektroindustrie, einer Schlüsselbranche der deutschen Wirtschaft, verschärft sich.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-eskaliert-ganztaegige-warnstreiks-selten-genutzte-phase-gelb/100271107.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-19T02:45:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "cd1cd3f9e576232f",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Prozess um Übergriffe in Heim: Angeklagter will sich äußern - n-tv.de",
-   "t": "Im Prozess um Übergriffe in einem Heim in NRW will sich der Angeklagte äußern.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYTJRdXlXdGRvZHVwTEY2QXpmcDZQcTlnVGRnNmpFQXJtLS1iY0R6aXFBTjBDVXNMX3liYUJlbUFNNFI5aW5VZ0VyTWJRS2NqNkZnendrZlpzYmFHVjBtUjYwWEVpYmhWenRvNVczOTFjakJqenY5YUpXX2hLcWZ1cFVBdTJ6aHlEWWh0QVVKdER4bGlsVnV6SDNRNl9CbG14ZmNqdElhTFh6N3NpYmc2NXZreGJvRGpIUW5wcVRRaC03OTdLTERV?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-19T02:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bd721897147772df",
-   "k": "deutschland",
-   "titel": "Koalition der Willigen: Was hinter dem Ukraine-Gipfel bei Merz steckt",
-   "t": "In Berlin kommen die Verbündeten der Ukraine mit Präsident Selenskyj zusammen. Gastgeber ist Bundeskanzler Merz, der Gipfel findet kurz nach dem Dreiertreffen in Shenzhen statt.",
-   "e": "Die Koalition der Willigen berät über Sicherheitsfragen für die Ukraine im Kontext möglicher Gespräche zwischen Trump und Putin.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-was-hinter-dem-ukraine-gipfel-bei-merz-steckt/100271104.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-19T02:30:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "ae599f4ed2cb065d",
-   "k": "usa",
-   "titel": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
-   "t": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie Verteidigungsminister Hegseth mitteilte. Er erklärte außerdem, mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus \"irrelevant\".",
-   "e": "Das Abkommen baut den US-Einfluss in Venezuela weiter aus und folgt auf das bereits angekündigte Ölabkommen.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-19T02:10:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "37c768538b24ff3f",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Lkw kracht in Leitplanke: Stundenlange Sperrung der A45 bei Dortmund - tagesschau.de",
-   "t": "Auf der A45 bei Dortmund war die Strecke nach einem Lkw-Unfall in die Leitplanke stundenlang gesperrt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXFEOXlobUsxZDE0U3daRXdja2ZjWTVaVDRZVjliYmxXangwQmRVaTBOdFBmM3NUV0cxV0FYOVZtLTZMdmRpVFhQNDB2SDhwRnNkZ3pZbkpSNTNCdjFLZmEyOFFxcjRzNzlEZTI0amFNaHJacG4zUk0xTG1icUtjSk5uM2phMlRjUkxHemh5eUFFdkMwWlFGQWc2czhaVUdVaEJuNWVCOTFEWXF1SzRhTGdVR09fWTNrd2tyd2tacDJ2RUxWRG95TVRxR3pzQi1kVHNwdTRObWQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-19T02:04:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f49c8bb14de3777",
-   "k": "usa",
-   "titel": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
-   "t": "Trump bezeichnet das von Vance ausgehandelte Iran-Abkommen als \"Zeitverschwendung\" und sagt, er sei ihm nur widerwillig gefolgt.",
-   "e": "Der Kurs gegenüber Iran bleibt innerhalb der US-Regierung umstritten.",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-19T01:54:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "6a6c75093f01742a",
-   "k": "usa",
-   "titel": "Judge issues 14-day extension order blocking Trump’s DC memorial arch",
-   "t": "Eine Bundesrichterin hat den Baustopp für Trumps geplanten Gedenkbogen in Washington um weitere zwei Wochen verlängert.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/18/us-news/judge-issues-14-day-extension-order-blocking-trumps-dc-memorial-arch/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-19T01:52:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2ee80d5c3f6ecf4",
-   "k": "welt",
-   "titel": "USA unter Trump: Trump dämpft Erwartungen vor Treffen mit Xi und Putin",
-   "t": "Trump dämpft die Erwartungen vor den Treffen mit Xi und Putin am Rande des Apec-Gipfels in China. Trump und Putin begrüßten sich mit Handschlag.",
-   "e": "Das Treffen der drei Atommächte in Shenzhen ist ein außenpolitisch bedeutender Termin.",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-daempft-erwartungen-vor-treffen-mit-xi-und-putin-faz-19444916.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-19T01:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8682e18d5c14ba33",
-   "k": "usa",
-   "titel": "Trump administration unveils new center to choke off scam payments",
-   "t": "Die US-Regierung hat ein neues Zentrum gegen betrügerische Zahlungen vorgestellt. Die Amerikaner meldeten 2025 Online-Betrugsschäden von mehr als 17,7 Milliarden Dollar.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-19T01:45:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c1db6a73693ef88",
-   "k": "finanzen",
-   "titel": "Goldpreis erholt sich nach 14-Monats-Tief: Schnäppchenjäger greifen trotz Fed-Zinssorgen zu - Investing.com Deutsch",
-   "t": "Der Goldpreis erholt sich von einem 14-Monats-Tief, Schnäppchenjäger kaufen trotz der Sorgen um die Zinspolitik der Fed.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3JPdG12T2RPZk1RNHl5TkZZS1NkcTNrRnVwS1Ytbm9BX211ekJ5b3g0MGdCNll3ODRpcm80ZHgyMDZud3lNdzJyRy1IQUVXRm9xWFVHWFdKcF9xYllrdVhSeC15N1VvdlM3cl9MSzQ4OW9pVjNBUUZBT3RoekIyNnVKV2NwS1dkYWx0ZkJtZ05SaW1yekdqVEc4bmxaZUJINFFmd3pIVm5wOG5UQmlyZHZtM29nOEhtWnAzenhuTmp6RE9xZ0l5OU5FRG1ZWW00QTJYWVRKYWdHUQ?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-19T01:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "7f9b260e1f1e34a4",
-   "k": "welt",
-   "titel": "Terrortunnel zerstört – israelische Armee rückt trotz Waffenruhe in Gaza vor",
-   "t": "Die israelische Armee rückt trotz der Waffenruhe im Gazastreifen vor und hat nach eigenen Angaben einen Terrortunnel zerstört.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6afe4e5f04f0ce65eb6ce92b/berichte-terrortunnel-zerstoert-israelische-armee-rueckt-trotz-waffenruhe-in-gaza-vor.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-19T01:27:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "8d3b3a5b046d66aa",
-   "k": "finanzen",
-   "titel": "Noch grösser als erwartet: Anthropic nimmt bei seinem Börsengang 107 Milliarden Dollar ein",
-   "t": "Beim Börsengang des KI-Unternehmens Anthropic wurden laut NZZ rund 107 Milliarden Dollar eingenommen, das Handelsblatt nennt 81,3 Milliarden Dollar. Der Ausgabepreis lag bei 83 Dollar.",
-   "e": "Damit würde der bisherige IPO-Rekord von SpaceX (75 Milliarden Dollar ohne Mehrzuteilung) übertroffen; die Angaben der Medien weichen voneinander ab.",
-   "s": 7,
-   "link": "https://www.nzz.ch/wirtschaft/noch-groesser-als-erwartet-anthropic-nimmt-bei-seinem-boersengang-107-milliarden-dollar-ein-ld.10065173",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T01:22:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "a68a546ff01f5e6b",
-   "k": "welt",
-   "titel": "Erster Kontakt seit 50 Jahren: Indigene im Amazonasgebiet bitten um Hilfe",
-   "t": "Angehörige des indigenen Awá-Volkes im brasilianischen Amazonasgebiet haben erstmals seit rund 50 Jahren Kontakt zur Außenwelt aufgenommen und um Hilfe gebeten.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/erster-kontakt-seit-50-jahren-indigene-im-amazonasgebiet-zeigen-sich-am-waldrand-und-bitten-um-hilfe-ld.10068101",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T01:05:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "20f0b9e972a59cdb",
-   "k": "finanzen",
-   "titel": "Intel signs first external customer for advanced 18A chips",
-   "t": "Intel hat nach eigenen Angaben seinen ersten externen Kunden für die fortschrittlichen 18A-Chips gewonnen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-19T01:05:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "8e890b589894bd79",
-   "k": "welt",
-   "titel": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
-   "t": "Ethnische Aufständische in den Grenzregionen Irans verüben eine Serie von Angriffen und setzen die Führung in Teheran zusätzlich unter Druck.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-19T01:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8355a9144ead8434",
-   "k": "usa",
-   "titel": "Können sich die Demokraten neu erfinden? Reportage von einer grossen Siegesfeier in Denver",
-   "t": "Auf der Konferenz 'What's Next?' in Denver traten nach den Midterms mehrere demokratische Präsidentschaftsanwärter auf. Die Parteimitte erhebt dabei einen Führungsanspruch.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/what-s-next-demokraten-suchen-neue-strategie-nach-midterms-ld.10065387",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T00:55:13+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d48d1eed07c7eb3",
-   "k": "usa",
-   "titel": "Hegseth in Caracas: Trumps Einfluss reicht jetzt bis in Venezuelas Armee",
-   "t": "US-Verteidigungsminister Hegseth ist in Caracas; Washington baut die militärische Zusammenarbeit mit Venezuela aus.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/ausland/hegseth-in-caracas-usa-unterzeichnen-militaerabkommen-mit-venezuela-accg-201696557.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-19T00:46:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "56e4cccc835dde36",
-   "k": "usa",
-   "titel": "US-Pastor wegen Mordkomplott gegen Haitis Präsident verurteilt",
-   "t": "Ein Bundesgericht in Miami hat einen US-Pastor der Verschwörung zur Ermordung des haitianischen Präsidenten Jovenel Moïse schuldig gesprochen. Ihm droht eine lebenslange Haftstrafe.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/vermischtes/article6afe424004f0ce65eb6ce90f/lebenslange-haft-us-pastor-wegen-mordkomplott-gegen-haitis-praesident-verurteilt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-19T00:39:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "d40f6ab0a64134a0",
-   "k": "finanzen",
-   "titel": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-   "t": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-   "e": "",
-   "s": 1,
-   "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-19T00:35:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "e7b86ec1cc1b1ae1",
-   "k": "welt",
-   "titel": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
-   "t": "Der ASEAN-Gipfel auf den Philippinen hat keinen Verhaltenskodex für das Südchinesische Meer abgeschlossen, obwohl Manila dies für dieses Jahr zugesagt hatte.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-19T00:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6a3b6eb05f840e22",
-   "k": "finanzen",
-   "titel": "Hawkish pressure from the Federal Reserve pushes Bitcoin below the $63,000 threshold - Moomoo",
-   "t": "Bitcoin ist nach hawkishen Signalen der Federal Reserve unter die Marke von 63.000 US-Dollar gefallen.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEp4Q3hUMlQwSEU5dy1mNW5NWXRSV3ltNGFCNnhEanNPZ1V4OUtaWG1nTkJlTGZhcC1YV3cwWkhPZEtUOXkzWlhRamhTbHU0T0dZM0dEMGg0SklEQlBOdW1CelNYOHBheEx3b1c3a3JHUkxSZFg2cE5lUUtiVzM2NjZ4UGJ2OUxXMnNZU1pSRUVveHpUUXhVaTVPRHdSYk01Q2pmMDFVTmcycC1uaUZF?oc=5",
-   "quelle": "Moomoo",
-   "zeit": "2026-11-19T00:27:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "f177f1da60e131b5",
-   "k": "welt",
-   "titel": "Meisterwerk von Van Gogh erzielt Rekordpreis von 173,5 Millionen Euro",
-   "t": "Van Goghs Gemälde 'Blühende Kastanienbäume' wurde in New York für 173,5 Millionen Euro versteigert, ein Rekordpreis.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.welt.de/kultur/article6afe3ee004f0ce65eb6ce905/bluehende-kastanienbaeume-meisterwerk-von-van-gogh-erzielt-rekordpreis-von-173-5-millionen-euro.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-19T00:24:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "f154abd2789d03de",
-   "k": "finanzen",
-   "titel": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
-   "t": "Der Börsengang von Anthropic ist mit einer sehr hohen Nachfrage der bisher größte Börsengang aller Zeiten; das Angebot an Aktien wurde deshalb erhöht.",
-   "e": "Ein Rekord-IPO dieser Größe ist ein wichtiges Signal für die Stimmung am KI-Sektor.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-schafft-rekord-boersengang/100271093.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-19T00:17:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "a9781a7855fd3ffc",
-   "k": "finanzen",
-   "titel": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-   "t": "Die Inflation in Indien steigt seit zwölf Monaten in Folge und gefährdet laut Bericht Wachstum und die Rückkehr ausländischer Kapitalzuflüsse.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-19T00:01:23+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3096,7 +3091,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3116,7 +3111,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 40
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -3156,12 +3151,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -3195,9 +3190,8 @@
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -3207,7 +3201,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 24
+    "n": 9
    },
    {
     "name": "Google News Fed",
@@ -3215,7 +3209,9 @@
     "n": 40
    }
   ],
-  "markt": [],
+  "markt": [
+   "Fed Funds: Expecting value: line 1 column 1 (char 0) / HTTPSConnectionPool(host='fred.stlouisfed.org', port=443"
+  ],
   "briefing": null
  }
 }
