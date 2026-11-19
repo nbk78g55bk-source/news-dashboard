@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-19T17:01:31.799303+00:00",
+ "aktualisiert": "2026-11-19T19:01:43.203607+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "62.797 $",
-   "delta": 0.22944892469188394
+   "wert": "62.849 $",
+   "delta": -0.331102114826946
   },
   {
    "name": "Ethereum",
-   "wert": "1.769 $",
-   "delta": 1.2917300833654861
+   "wert": "1.777 $",
+   "delta": 0.5738498437351205
   },
   {
    "name": "Gold",
-   "wert": "3.690 $",
-   "delta": -1.3789760199472534
+   "wert": "3.679 $",
+   "delta": -1.6836340893108814
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,272 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-19T11:02:01.118328+00:00",
+  "slot": 19,
+  "stand": "2026-11-19T19:01:43.203582+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Laut Protokoll der Fed-Sitzung vom Oktober erwägen einige Mitglieder für Dezember eine Zinserhöhung um mehr als 25 Basispunkte. Der Leitzins der Fed liegt laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %."
+    "t": "Die Fed Funds liegen laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %. Im Fed-Protokoll erwägen einige Mitglieder für Dezember eine Erhöhung um mehr als 25 Basispunkte, und J.P. Morgan erwartet bei den nächsten drei Sitzungen Zinserhöhungen."
    },
    {
-    "k": "welt",
-    "t": "Im Iran-Krieg sollen die USA Schiffen gedroht haben, die die Iran-Blockade umgehen wollen. Zugleich meldet Israel trotz Waffenruhe einen neuen Vorstoß im Gazastreifen."
-   },
-   {
-    "k": "deutschland",
-    "t": "In Berlin kommen knapp 30 Staats- und Regierungschefs der wichtigsten Unterstützer der Ukraine zusammen. Gastgeber ist Bundeskanzler Merz, der Gipfel findet kurz nach dem Dreiertreffen in Shenzhen statt."
+    "k": "finanzen",
+    "t": "Der KI-Entwickler Anthropic hat an der Börse 107,3 Milliarden Dollar eingenommen, der Ausgabepreis lag bei 83 Dollar. Die Aktie startete mit einem Plus von rund 34 Prozent auf 111,50 Dollar; zum Vergleich notiert der Deka DAX 222,50 € und Bitcoin bei 62.849 $."
    },
    {
     "k": "nrw",
-    "t": "Ein 18-jähriger Schüler aus Eslohe im Sauerland steht im Verdacht, einen Anschlag auf eine Moschee geplant zu haben. Er soll die Waffe mit einem 3D-Drucker hergestellt haben, Ermittler fanden Hinweise auf eine rechtsradikale Motivation."
+    "t": "In Eslohe im Sauerland soll ein 18-jähriger Schüler einen Anschlag auf eine Moschee geplant haben. Die Waffe soll er mit einem 3D-Drucker hergestellt haben, und Ermittler fanden Hinweise auf eine rechtsradikale Motivation."
    },
    {
-    "k": "finanzen",
-    "t": "Der KI-Entwickler Anthropic hat seinen Börsengang mit einem Ausgabepreis von 83 Dollar je Aktie abgeschlossen. Die Einnahmen werden je nach Quelle mit 81,3 bis 107 Milliarden Dollar angegeben, damit wäre es der bislang größte Börsengang."
+    "k": "deutschland",
+    "t": "Nach dem Gipfel der Koalition der Willigen in Berlin hat Kanzler Merz Putin aufgerufen, die Waffen niederzulegen, und baldige Gespräche auf neutralem Boden angeregt. Die Koalition sagt der Ukraine Unterstützung so lange wie nötig zu."
    },
    {
-    "k": "finanzen",
-    "t": "Marktdaten: iShares MSCI World 128,10 €, Deka DAX 225,40 €, Deka S&P 500 140,19 €, Bitcoin 63.748 $, Gold 3.736 $. Bitcoin war zuvor auf rund 62.000 Dollar gefallen."
+    "k": "welt",
+    "t": "Trump, Xi und Putin haben beim APEC-Treffen in Shenzhen eine kurze «Deklaration für den Frieden» verabschiedet, konkrete politische Ergebnisse blieben laut Berichten aber aus. Der Internationale Gerichtshof hat Myanmar für den Völkermord an den Rohingya verantwortlich erklärt."
    }
   ]
  },
  "items": [
+  {
+   "id": "3ca4fbe7fff36127",
+   "k": "finanzen",
+   "titel": "Rasanter KI-Ausbau setzt Inflation unter Aufwärtsdruck, sagt Fed-Vize Jefferson - MarketScreener Deutschland",
+   "t": "Fed-Vize Philip Jefferson sieht durch den rasanten Ausbau von KI Aufwärtsdruck auf die Inflation.",
+   "e": "Die Notenbank nimmt den Inflationsdruck ernst, was für die Zinserwartungen in den USA wichtig ist.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLWVtSF9sd1NvZDF2Q2pmQVdZckJRM0gzREowQm0wU053WE91bWVzM0p4NDU3SEhneGd1OGNRNmMzM0pPSDk4bjQwYUFyMzhEMWgtT0VJT2U0Wm5Mbmg5VHZreURvb3JGRFJtX2s4bm9JWVhIRDdYMG5ISkc1aUlhM284d3VvU2FkWWg5X3ktbnVhcjduUEdMZDJUdlBtWThucVo1NFduU2ptN2lQUVlTNzNFUFNNNnFZaGZLcDc4R0M2dHZBRjdQNGV5RnFVNFplcU9RTURrLWVaYm5JVXc?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-19T18:45:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "488d3e3b6074cc47",
+   "k": "nrw",
+   "titel": "Iserlohner Weihnachtsmarkt zum Start trotz Regens bestens besucht - IKZ-Online",
+   "t": "Der Iserlohner Weihnachtsmarkt ist trotz Regens gut besucht gestartet.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGFSU1B5M1BQRFpsODlsbGRSa0kteVJFeVhrYUZSUnpKbmVlS3JOcUZiQ1JXYVJIM2tjcFZwYjNyUTd3azJYUG9FVWp4ZnlRNXdwbnBMTGJuNjFjQW8zN1dmR1F3QlVCRklOb3VLWTBnRHFkd1h0dzFCeXZGbFpxb1Jwd0VieHB5Y2Zfb3hRWEJjSUZLU0k1Z3h1dVc2YzlLdkpqSngzb2xMc05FWFNCM01FTjVER1JHQlAtd2h0eko1RjN5WmQzaEtn?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-19T18:44:13+00:00",
+   "tag": null
+  },
+  {
+   "id": "2308fdcf250058d5",
+   "k": "finanzen",
+   "titel": "Die UBS lehnt wesentliche Teile des dritten Pakets der Grossbankenregulierung ab und fordert substanzielle Änderungen",
+   "t": "Die UBS lehnt wesentliche Teile des dritten Pakets der Grossbankenregulierung in der Schweiz ab und fordert substanzielle Änderungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/wirtschaft/die-ubs-lehnt-wesentliche-teile-des-dritten-pakets-der-grossbankenregulierung-ab-und-fordert-substanzielle-aenderungen-ld.10068757",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T18:43:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "c6214a0a815cd61c",
+   "k": "deutschland",
+   "titel": "Sachsen-Anhalt: AfD und BSW dominieren Kontrolle des Verfassungsschutzes",
+   "t": "In Sachsen-Anhalt haben AfD und BSW ihre Kandidaten für das Parlamentarische Kontrollgremium zum Verfassungsschutz durchgesetzt.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/inland/afd-und-bsw-dominieren-verfassungsschutz-kontrolle-in-sachsen-anhalt-201698039.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T18:30:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "84f6ce15604745e8",
+   "k": "welt",
+   "titel": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+   "t": "Beim Dreiergipfel in Shenzhen zwischen Xi, Trump und Putin standen Bilder und Schmeicheleien im Vordergrund, konkrete politische Ergebnisse blieben aus. China konnte nach Einschätzung von Tagesschau eigene Themen setzen.",
+   "e": "Das Treffen zeigt eine neue Machtkonstellation zwischen den USA, China und Russland, die auch für Europa und die Ukraine relevant ist.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T18:30:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "0b531661f089c093",
+   "k": "finanzen",
+   "titel": "Fed-Notenbanker Goolsbee warnt vor Überhitzung der Wirtschaft durch KI-Boom - Investing.com Deutsch",
+   "t": "Fed-Notenbanker Goolsbee warnt, dass der KI-Boom die US-Wirtschaft überhitzen könnte.",
+   "e": "Die Warnung passt zur Debatte über anhaltenden Inflationsdruck und den weiteren Zinskurs.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJtbjJsRXNWbzVxVlZJQUJmQzZFb1htWUxOREtlWWowQzNrcko1LXQ5WGpMZklHRXdIa1FacHRHX3ZKeGs3am9vclBfMTBuckFGU3d3ZEJSYVJaWVBBaWhJSG16Tmt2aHhGeFpIbEFqYTMzRVpfTGJFVEM2TnhhZFlPVXBaNUVRUmp4YXpFM3AtMXlIM0RmenpabnRwdkY3VGJiVUZlTHVWQ3VPMWRJelZ2MnJaak04c0RKOEtUclV5Zw?oc=5",
+   "quelle": "Investing.com Deutsch",
+   "zeit": "2026-11-19T18:25:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7348b944cd97775e",
+   "k": "deutschland",
+   "titel": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+   "t": "Nach dem Gipfel der Koalition der Willigen in Berlin hat Kanzler Merz Russlands Präsident Putin aufgerufen, die Waffen niederzulegen, und baldige Gespräche auf neutralem Boden angeregt. Die Koalition sagt der Ukraine Unterstützung so lange wie nötig zu.",
+   "e": "Merz setzt damit eine eigene Verhandlungsinitiative neben das Dreiertreffen der Supermächte in China.",
+   "s": 7,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T18:22:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "60ea9b18110cc655",
+   "k": "finanzen",
+   "titel": "US-Börsen: US-Börsen rutschen nach Anthropic-IPO ins Minus",
+   "t": "Nach dem Börsengang von Anthropic rutschen die großen US-Indizes ins Minus, nachdem sie zunächst stark gestartet waren.",
+   "e": "Der Rekord-IPO mit 107,3 Mrd. Dollar Erlös lenkt die Aufmerksamkeit auf die Bewertung von KI-Werten.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-rutschen-nach-anthropic-ipo-ins-minus/100271288.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-19T18:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "74ec968c06f9339b",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Großeinsatz an Hochhaus in Essen - Bewohner in Sicherheit - n-tv.de",
+   "t": "Am Hochhaus in Essen gab es einen Großeinsatz, die Bewohner sind in Sicherheit.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmQ2My1CWVozTjA2N2U2YktSZlJtaFR5c1FaZjRLckl5Yl80UHpzX1J5TmxmcHhoZ2ZLallGODFadWt3RGk5cDM0aWpnaFZxMHN1dnlreWtTMXp3MXE3VTJ3WTBqSHg0b25pUGEwalRNdE9GZTlXSi01Q0xoWHBCaDJfZFIxbk10ZUVfaE5uQnZSRFk1aEV3OGtvQ0lkcXpHd1M1WEdFR1Z1RndWUi1iX1h2bTdhXzhlLVFNSll2dTA?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-19T18:16:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "c51d5a156928fd28",
+   "k": "deutschland",
+   "titel": "AfD lässt laut Siegmund Wahl von Ministerpräsident in Sachsen-Anhalt vorziehen",
+   "t": "In Sachsen-Anhalt soll die Wahl des Ministerpräsidenten vorgezogen werden: AfD-Spitzenkandidat Ulrich Siegmund will am 8. Dezember kandidieren, braucht aber Stimmen aus anderen Fraktionen.",
+   "e": "Die Mehrheitsfrage ist offen, da die CDU den Saal verlassen will und das BSW sich enthalten könnte.",
+   "s": 6,
+   "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media,afd-siegmund-114.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-19T18:16:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "c60936c11a56e6f4",
+   "k": "usa",
+   "titel": "US-Politik aktuell: Donald Trump geht auf J.D. Vance los – Iran-Krieg belastet Verhältnis - News.de",
+   "t": "Trump geht laut News.de auf Vizepräsident J.D. Vance los, das Verhältnis wird durch den Iran-Krieg belastet.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzVFcmtTaEswbmNmbTdaUXdKTlhrRnNsZlctcUZRdkl1NWtuMkMxVE96V3RCdTF3cFFia1lnNEpHcTBKQ0p6cFlkMV81SDkxMm1maEQ1T3NGcXpJWHA4LTlIVHRRdnBQcndxVFNlR0xIeF9VdTNJTFhGNjBIYmpVMWE4TVI0ZjRSTFdaR0tnUkx1WHlWbFJBNW9BcG9jVjR0QURTUjhILVdWcE9xTGl4NXZyeE01MF9icjJKNHNjZHFkaVZ3dGRtNGp5NFpQelFDSVVZVm03MG5NOUp4?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-19T18:11:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "cd1c6b04c4546c47",
+   "k": "finanzen",
+   "titel": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+   "t": "Bitcoin fällt Richtung 62.000 Dollar, während die Anthropic-Aktie nach dem Handelsstart unter 100 Dollar zurückfällt.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-19T18:06:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "d68120705108a087",
+   "k": "finanzen",
+   "titel": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+   "t": "Die UnitedHealth-Aktie hat in fünf Tagen rund 20 Prozent verloren, nachdem die Regierung ein hartes Vorgehen gegen Betrug bei Medicare Advantage signalisiert hat.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-19T18:03:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "361c7bb6f127e8d6",
+   "k": "finanzen",
+   "titel": "Isomorphic Labs: Start-up von Google DeepMind-Gründer mit 50 Milliarden Dollar bewertet",
+   "t": "Isomorphic Labs, ein Start-up von Demis Hassabis, wird mit 50 Mrd. Dollar bewertet und gilt als wertvollstes KI-Start-up Europas.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/isomorphic-labs-ki-start-up-von-demis-hassabis-mit-50-millliarden-bewertet-201697847.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-19T18:02:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "73b84a666fa75b01",
+   "k": "usa",
+   "titel": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+   "t": "Laut Offenlegung hat Trump im September Aktien von Nvidia und Palantir, SpaceX-Schulden und Tesla-Anteile gekauft, während seine Verbindungen zu Bundesaufträgen wuchsen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-19T17:59:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "4642ae2d95a7d2ad",
+   "k": "finanzen",
+   "titel": "EZB-Spitze: Lagarde geht am 7. Februar, Brunnermeier soll Chefvolkswirt werden – wer führt die EZB durch die Zinswende? - AktienCheck.de",
+   "t": "EZB-Präsidentin Christine Lagarde scheidet am 7. Februar aus, Brunnermeier soll Chefvolkswirt werden.",
+   "e": "Der Wechsel an der EZB-Spitze fällt in eine Phase, in der die Notenbank über den weiteren Zinskurs entscheiden muss.",
+   "s": 8,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnNyZzFPVFZEcjA5MkFyTVJERjRHTS0zUzRaaU9vZ3o1RE1fSzc5aVNiZVM2UjNLbE1kRVJRLVlhS2haaHc1WjRLQWJyUTNZVmVZRnFiZGZpZWpfS1EzZDZ1WGVFMzFzc1JhWEFnSjByT2hWNS1pUmphdlFHRnpJQ0x4VWFtTUo0cGpvUkdtTGZXY2JlYTROM0w5NjJTZWlDSGJ1SE9TRFZjSDdXZFNz?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-19T17:46:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a0e7b48cb5caaaf",
+   "k": "welt",
+   "titel": "U.S. Consortium Wins Bid to Prospect at $62 Billion Kenyan Rare-Earth Deposit",
+   "t": "Ein US-Konsortium hat den Zuschlag für die Erkundung einer Seltene-Erden-Lagerstätte in Kenia mit einem Wert von 62 Mrd. Dollar erhalten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-19T17:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "7fad32e65b956e48",
+   "k": "finanzen",
+   "titel": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide - The Washington Post",
+   "t": "Der durchschnittliche US-Hypothekenzins für 30-jährige Kredite steigt laut Washington Post auf 7,28 Prozent und beendet eine vierwöchige Abwärtsbewegung.",
+   "e": "Hohe Hypothekenzinsen bremsen den Immobilienmarkt, der bereits mit Rekordtiefs bei Verkäufen kämpft.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWFyU3l6d3lJdVV5OG1QbTFQSFo2Q1FuTmlGTkhSZTRnazN5eDU2SmQ0NUF5V0FHemhCZThhcVpzalp4am15RVlGZ1BxcjVYa3ljc3N3dllEMjFmNG14ejJzNnQwOTZzMWU1MF9NMWNuNEFncmM4WG9vYkdaRnJCM1FNd1FPUjkxUjZqRDRjMXVXQmdyZF9mR19FSm8yajFmWm1jWXRWZHgxeFBRVElIeEx4WEtBVmFTM3YySk1qU3VSNGdCQVhfNFBqWG9qS1REOHhrOWRsY1JwUWRlTXJkNzJ2cw?oc=5",
+   "quelle": "The Washington Post",
+   "zeit": "2026-11-19T17:26:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "0533ecfe3870abb6",
+   "k": "usa",
+   "titel": "Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference",
+   "t": "Trump kündigt nach seiner China-Reise eine Pressekonferenz am Freitag an, bei der es um Treffen mit Xi und Putin sowie mögliche Handelsabkommen gehen soll.",
+   "e": "Die Ergebnisse der Gespräche werden für Handelsbeziehungen und Sicherheitspolitik wichtig sein.",
+   "s": 6,
+   "link": "https://nypost.com/2026/11/19/us-news/trump-calls-china-trip-great-and-highly-consequential-announces-friday-news-conference/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-19T17:21:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "3eac9dba9b95a96e",
+   "k": "finanzen",
+   "titel": "Policymakers want rate hike but disagree on pace - Axios",
+   "t": "Laut Axios wollen Fed-Vertreter eine Zinserhöhung, sind sich aber über das Tempo uneins.",
+   "e": "Ein Zinsschritt nach oben wäre ein deutlicher Richtungswechsel für die US-Geldpolitik und betrifft Aktien- und Kryptomärkte.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
+   "quelle": "Axios",
+   "zeit": "2026-11-19T17:17:53+00:00",
+   "tag": null
+  },
   {
    "id": "ff930adc540d7388",
    "k": "usa",
@@ -337,6 +573,18 @@
    "tag": null
   },
   {
+   "id": "ea8d5959dc9b830d",
+   "k": "welt",
+   "titel": "Die EU fremdelte mit dem Begriff der Bilateralen III. Nun übernimmt sie die Wortwahl – und drängt die Schweiz zur Eile",
+   "t": "Die EU wirbt vor der Nationalratsdebatte in der Schweiz für die neuen Verträge, die als Bilaterale III bezeichnet werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/schweiz/die-eu-fremdelte-mit-dem-begriff-der-bilateralen-iii-nun-uebernimmt-sie-die-wortwahl-und-draengt-die-schweiz-zur-eile-ld.10068419",
+   "quelle": "NZZ",
+   "zeit": "2026-11-19T15:59:00+00:00",
+   "tag": null
+  },
+  {
    "id": "5bbd79450c618333",
    "k": "usa",
    "titel": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
@@ -394,6 +642,18 @@
    "link": "https://nypost.com/2026/11/19/us-news/trump-says-us-will-see-what-happens-in-conflict-with-iran-after-january-1/",
    "quelle": "New York Post Politik",
    "zeit": "2026-11-19T15:33:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "eee3a4c7413ed4df",
+   "k": "nrw",
+   "titel": "Iserlohn: Bauarbeiten an der Baarstraße sorgen für Sperrungen am Wochenende - IKZ-Online",
+   "t": "In Iserlohn sorgen Bauarbeiten an der Baarstraße am Wochenende für Sperrungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEpGNnJZMUdXNGVoN3RjR01XMnlqbEU3TVVvS2NnSDNtT1R5QVE1MUlyakpmaUxtSnNzdjdTRnd0ZE0tTHVERFRISXdaeHZkNENsb3dYcnhDYTlVclFkN2JzeUJVV0tvSzJBbXJiYmVSRzJreDk0M21IWXlpM292bXJTTG94a3EteXhqM0xQZXI2aHZWUDMwUjNacVNhWXJwYjlFTXRndXpBdDlicGYwTV9JSkpSZw?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-19T15:24:38+00:00",
    "tag": null
   },
   {
@@ -501,6 +761,18 @@
    "s": 6,
    "link": "https://www.welt.de/wirtschaft/article6aff0bc8ee91e990acae6fc0/volkswagen-verlangt-nullrunden-und-einschnitte-bei-35-stunden-woche.html",
    "quelle": "Welt",
+   "zeit": "2026-11-19T14:47:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "cb222b312275caf9",
+   "k": "deutschland",
+   "titel": "VW will jahrelang keine Lohnerhöhungen zahlen – „Mit dem Messer in den Rücken“, sagen Arbeitnehmer",
+   "t": "VW will bei den anstehenden Tarifverhandlungen Nullrunden und die Streichung tariflicher Leistungen durchsetzen, Arbeitnehmer sprechen von einem Messerstich in den Rücken.",
+   "e": "Die Tarifrunde bei VW ist ein Gradmesser für den Sparkurs in der deutschen Autoindustrie.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6aff0bc8ee91e990acae6fc0/volkswagen-will-jahrelang-keine-lohnerhoehungen-zahlen-mit-dem-messer-in-den-ruecken-sagen-arbeitnehmer.html",
+   "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-19T14:47:23+00:00",
    "tag": null
   },
@@ -622,6 +894,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3E3WGNkS0owZnlCUHhGSFpoUTZnb1NZLTlzU3YwQmtWWVpLNEdGUmx6SGpvRUFnTkNpT1hlcGxtZlZfWWxhUzZrRmlwaWVsRFNUelFjd05TTnZLY3k4LVhXZGdseDdfWk1fZlZRVlR6TmdLb2t4Ympza1BORnRDX0hqdG1TNFFnVEpyR1h2TnFpaGx3X3dJa05yOXNBUlU1cU5WYnItNFo?oc=5",
    "quelle": "AktienCheck.de",
    "zeit": "2026-11-19T14:14:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "d57bb0282c0bbf44",
+   "k": "deutschland",
+   "titel": "„Mit dem Einsatz von KI können Angreifende viel mehr automatisieren und Lücken finden“",
+   "t": "Das BSI bewertet die Cyberbedrohungslage in Deutschland erstmals als angespannt bis kritisch.",
+   "e": "KI erleichtert Angreifern die Automatisierung, Unternehmen und Behörden müssen ihre Abwehr entsprechend ausbauen.",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/video6afefd319c68d2fcf0c7d150/cybersicherheit-mit-dem-einsatz-von-ki-koennen-angreifende-viel-mehr-automatisieren-und-luecken-finden.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-19T13:57:32+00:00",
    "tag": null
   },
   {
@@ -2795,294 +3079,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-18T21:07:14+00:00",
    "tag": null
-  },
-  {
-   "id": "fec55d4721f64416",
-   "k": "welt",
-   "titel": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-   "t": "Israels Armee hat trotz der Waffenruhe einen neuen Einsatz im Zentrum des Gazastreifens begonnen, nach eigenen Angaben gegen Infrastruktur der Hamas.",
-   "e": "Der Einsatz gefährdet die Waffenruhe, die laut einem US-Gremium bereits von beiden Seiten verletzt wurde.",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-18T20:53:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "53a143325f92382c",
-   "k": "finanzen",
-   "titel": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-   "t": "Das Krypto-Unternehmen Variational sammelt 110 Millionen Dollar bei einer Bewertung von 1,5 Milliarden Dollar ein.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T20:32:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "dc338bab8d7f1644",
-   "k": "finanzen",
-   "titel": "US-Börsen: Nvidia-Aktie dreht ins Minus – Anthropic-IPO erwartet",
-   "t": "Die Nvidia-Aktie dreht nach Quartalsdaten ins Minus, zugleich wird ein Börsengang des KI-Unternehmens Anthropic erwartet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-dreht-ins-minus-anthropic-ipo-erwartet/100270966.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T20:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6a6834dbec4f2771",
-   "k": "finanzen",
-   "titel": "Fast alle Fed-Vertreter sehen Bedarf für weitere Zinserhöhungen, wie Oktober-Protokoll zeigt - MarketScreener Deutschland",
-   "t": "Das Protokoll der Fed-Sitzung vom Oktober zeigt, dass fast alle Mitglieder weitere Zinserhöhungen für angemessen halten, einige bringen einen Schritt um 50 Basispunkte ins Spiel. Der Leitzins blieb unverändert bei 3,75 bis 4 Prozent.",
-   "e": "Die Fed hat im Oktober pausiert, die Protokolle deuten aber auf eine weitere Straffung hin, was Zinsen und Aktienmärkte beeinflussen kann.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWU81aEo5WEhqRE8weDI5cGZnbEhXanoyX0gzNEV4NzljaGNqV3BYYUVTRTBSUERjWVpQc2pEazRLRUZibVZkZHNkRTVfdmhuZDA4NjBzbmZsUG5uOUdtcFEzTTZ5dU0ydl9ka2VGYy04bU5vNkliYkpQcTB0a0E4dDhJT1JfbUVacjJZVWRENzZUOHlwLWlQaGthY3FsTFJLYmRsLTNMMDMwazFrLWYzTEtBandRMTROampoOW9yTENRQUNFMEU0cGlvQ3VERWdBMVhtazRpQ3RJY2NMZkZBY3dwNnRvampiY2g2T1VUdzQ?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-18T20:30:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "f886efde9891f2f0",
-   "k": "deutschland",
-   "titel": "Schüsse: Schüsse in Berlin-Schöneberg – zwei Menschen verletzt",
-   "t": "In Berlin-Schöneberg läuft nach Schüssen ein größerer Polizeieinsatz, zwei Menschen wurden verletzt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/schuesse-schuesse-in-berlin-schoeneberg-zwei-menschen-verletzt/100271063.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T20:26:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "b92d2a52c1f972f2",
-   "k": "finanzen",
-   "titel": "Binance says it obtained $6.5B worldwide freezing order after hack",
-   "t": "Binance hat nach einem Hack eine weltweite Einfrierungsanordnung über 6,5 Milliarden Dollar erwirkt, die sich auf rund 26.000 Wallet-Adressen bezieht.",
-   "e": "Die Anordnung betrifft gestohlene Krypto-Vermögenswerte und zeigt, wie Gerichte Sperrungen über Blockchains durchsetzen wollen.",
-   "s": 6,
-   "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-18T20:20:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "d173974a6ecc9eda",
-   "k": "finanzen",
-   "titel": "Fed’s Waller says officials may need to ‘shock’ with half-point rate hike - The Hill",
-   "t": "Fed-Gouverneur Waller sagt, die Notenbanker müssten möglicherweise mit einer Zinserhöhung um einen halben Prozentpunkt einen \"Schock\" setzen.",
-   "e": "Das wäre ein deutlich aggressiverer Kurs gegen die Inflation und würde Zinsen, Dollar und Aktienmärkte stark bewegen.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IR2hGYzFfMFhzMTFZSXpGSmJMVlJsM3VDTFlXR2labEMweUkyWHowNVo0VDZyZ0VUNHhaZVpBR2liMzRtajNFQ3RmbDNRQU52R292TzNzZ05MbExPU1E1UXRaTVRTLUhfZkxOZ1VrTE5ic0k1TEHSAXZBVV95cUxNSEdoRmMxXzBYczExWUl6RkpiTFZSbDN1Q0xZV0dpWmxDMHlJMlh6MDVaNFQ2cmdFVDR4WmVaQUdpYjM0bWozRUN0ZmwzUUFOdkdvdk8zc2dOTGxMT1NRNVF0Wk1UUy1IX2ZMTmdVa0xOYnNJNUxB?oc=5",
-   "quelle": "The Hill",
-   "zeit": "2026-11-18T20:10:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "7327b8bc46f1a236",
-   "k": "finanzen",
-   "titel": "Federal Reserve Governor Christopher Waller presses for half-point December rate hike as inflation persist - The Economic Times",
-   "t": "Fed-Gouverneur Christopher Waller spricht sich für eine Zinserhöhung um einen halben Prozentpunkt im Dezember aus, da die Inflation anhält.",
-   "e": "Eine Erhöhung um 50 Basispunkte wäre deutlich über dem üblichen Schritt von 25 Basispunkten und würde Kreditkosten spürbar verteuern.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbWtRYlpDbDJsVkVnUVJDOHdJZnlqdnBOUDdYMnNNSHJ5UGhmc2F4aFltV0l5WHlodFYyQ2ViTXAxMUg0anJoWlYzVHlHYUR5NVNqZy1CQ1BFcldWT0tycDNlR1pKdXJlTHlZSUF6bGgtZVRuTlVWZFRUQjQ4a0hZT05hdWM4RTlKbnZXS3dQcTQyZklMR0hrNzlGWFhnUnpONnBXb0M2T2czc1FQTGNNY1Q0TG9DVDFUZFJObFlVeE1RMkJ4RHA4b1lteFE4dzJNaExzMkRkMXhpWURvWjVNT3dxVlpxSWsxTktocE1oSFl2blJHeldGZ2lLNjZOcVJyTDlUMl9rcHdmNUNUX2hPdnQzbEg1TDhNZDI4a1N2UUNUSlQ3Nms0M0VoTFhha2fSAagCQVVfeXFMUGpaei1pX1ZJYldadjVQOXQzR3BHOFU0SDlwTVBQYmhrQ0VMRld4Mk5ZVVR1YmhBYXhJaGhQbkhKM2hmOHBfWW1GdzBXb0hyZTluQWpMc2tyZGtHaS1OSEtHT1ZfbU9BVUNLUVRkU2NjSUtrYzdZcHhibzVyVjNiZjh0MTJvR1BDQmFDcExqWlZIMVVuY25sVWl2bzlkV0RGYWpnTFdWSm1TaWhuYlhIb0g5M0xtdVoxT3FfaU53N3dwQ2tSWXlNTVRpc0dTUnFKclBrVkU3X2dJTjJfY0FvREdmeGpUYWg0YkJpQU1xT0Y4UkZudU5BQ1RfWnVfQ2F0SzNOM0JPWG1ERWxPNlY5Y2ZxUW9VV2RQbjNKbDNSb3VaSjVjX0hETjc?oc=5",
-   "quelle": "The Economic Times",
-   "zeit": "2026-11-18T20:09:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "8d0cb90e89b9e863",
-   "k": "finanzen",
-   "titel": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead - Yahoo Finance",
-   "t": "Das Protokoll der Fed-Sitzung zeigt, dass die Mitglieder im Oktober mehrheitlich für eine Zinspause stimmten, aber Zinserhöhungen für möglich halten. Der Weltgoldpreis gab nach den Aussagen um rund 2 Prozent nach.",
-   "e": "Erwartungen steigender US-Zinsen stärken tendenziell den Dollar und belasten zinslose Anlagen wie Gold und Krypto.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTDFIcXN2WXhLWlRORzhBZHZUaDRwbzNQYU13eFNPbTNsbmEzdjdHcWRkX2U5dTdZS0FMRlZoX2hIRlJqWnN6UmNTTnI4ZkxUN18yMWU4ZmVhSmQ2dDRoaUFtalkwZmlDRDBSZTRtS1cyWkpBWXRiS2tQM2lFVFl4aldNQk54emFkcVZmcG1xX1ZPc3JhUzBXTkg0ZUsxY1JIc0pEYmIwdDNGcUlORnN3VGJLY0M1eWV3X3R1VVlsM1hGY29xczZRTldQRmZ3R1N1VncxX0RaZm9hRGY0ci1reFZQQW8?oc=5",
-   "quelle": "Yahoo Finance",
-   "zeit": "2026-11-18T19:57:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "24e459236b9395b8",
-   "k": "usa",
-   "titel": "Hegseth Cements New Military Deal in Visit to Venezuela",
-   "t": "Verteidigungsminister Hegseth hat auf einer nicht vom Pentagon angekündigten Reise eine militärische Partnerschaft mit der Übergangsregierung in Caracas unterzeichnet.",
-   "e": "Die Vereinbarung markiert eine engere militärische Zusammenarbeit der USA mit Venezuela.",
-   "s": 7,
-   "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-18T19:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1ffdb79d5ea27d48",
-   "k": "usa",
-   "titel": "Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska",
-   "t": "Das US-Justizministerium hat laut einer Quelle rund 200 Vorladungen in einem mehrstaatlichen Strafverfahren im Umfeld der Senatswahl in Alaska verschickt.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/hundreds-subpoenas-fly-doj-decoy-dan-probe-democrat-peltola-declared-winner-alaska",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-18T19:54:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "955f3a6f8118eb57",
-   "k": "welt",
-   "titel": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-   "t": "Trump, Xi und Putin treffen sich erstmals gemeinsam am Rande des APEC-Gipfels in Shenzhen. Die Positionen zu atomarer Abrüstung und Iran liegen weit auseinander.",
-   "e": "Ein Dreiertreffen der drei Staatschefs ist außergewöhnlich und wird in Europa mit Sorge um neue Einflusssphären verfolgt.",
-   "s": 8,
-   "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-18T19:43:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "71b4f4907219f901",
-   "k": "finanzen",
-   "titel": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month - WSJ",
-   "t": "Laut Protokollen sahen Fed-Vertreter schon bei der letzten Zinspause höhere Zinsen voraus. Auch Reuters berichtet, dass Fed-Vertreter Risiken für das Finanzsystem beobachten.",
-   "e": "Erwartungen weiterer Zinserhöhungen belasten Gold, das nahe seinem 14-Monats-Tief notiert.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX01kNDVqdGtHNWs5RVhUbkRTbUdMd1hkWDBJU0x6NVdIWVptS0tJTk1GR1dnajI5Z19HNlppb2ZhWVpWVnQ5eUxXSko1VVl3bERZbVV1enFVWFhsd3ozMDAtQ0RXYjZtX25DRm9QTzRqVFQ2MmdMMk5yeGluNGhjMEpJU1lZWG5DSVRQdzg1UHc2SzM1cWFVXzh6b2Q4YTY2T1NjWHBOU3RQLTg2cFVkSldPSUx2VjhjM0p0OUZESQ?oc=5",
-   "quelle": "WSJ",
-   "zeit": "2026-11-18T19:41:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d690caa1251289e9",
-   "k": "usa",
-   "titel": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
-   "t": "Die US-Regierung und der Kongress befassen sich mit einer Serie technischer Ausfälle, die das Land in der vergangenen Woche getroffen haben. Vizepräsident Vance sagte einen Termin ab.",
-   "e": "Die wiederholten Systemausfälle werfen Fragen zur Abhängigkeit kritischer Infrastruktur von Software auf.",
-   "s": 6,
-   "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-18T19:39:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6298bc8766f10231",
-   "k": "usa",
-   "titel": "Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'",
-   "t": "Hakeem Jeffries setzt sich bei der Nominierung für den Sprecherposten des Repräsentantenhauses durch, obwohl elf Demokraten dagegen stimmten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/jeffries-brushes-off-opposition-far-left-dems-voted-no-work-together",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-18T19:35:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "b47402f80c609731",
-   "k": "deutschland",
-   "titel": "„Ziemlich dumm“: Pistorius hat mit seiner undiplomatischen Replik recht",
-   "t": "Verteidigungsminister Pistorius weist die US-Kritik an ukrainischen Angriffen auf Ziele in Russland zurück.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/pistorius-gegen-colby-der-verteidigungsminister-hat-recht-201695172.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T19:28:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "248b9d6b1b1c3d6d",
-   "k": "deutschland",
-   "titel": "Fehde in der AfD: AfD-Politiker Esser akzeptiert Strafbefehl über 9.000 Euro",
-   "t": "Der AfD-Abgeordnete Klaus Esser akzeptiert einen Strafbefehl über 9.000 Euro wegen gefälschter Abschlüsse und eines unberechtigt geführten Titels.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/inland/afd-mann-klaus-esser-akzeptiert-strafbefehl-wegen-gefaelschter-abschluesse-201696117.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T19:15:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c9424595d640366",
-   "k": "finanzen",
-   "titel": "Dollar Rises to 19-Month High on Fed Rate-Hike Bets - WSJ",
-   "t": "Der Dollar erreicht ein 19-Monatshoch, weil die Wetten auf weitere Zinserhöhungen der Fed zunehmen.",
-   "e": "Höhere US-Zinsen stärken den Dollar und belasten den Euro, der zuletzt bei 1,0968 Dollar (EZB-Referenzkurs) notierte.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUFTNFdTU2N5M2hVYW8zei1IMG9pbnFtc0xHU3U4cjZXUXFmaXVCTmRTbktVd2pTTlpiNHp1R2ZmWlBLSTdyU0dnX1NiT21mM2JiX3JkUzc4S0dlb3IyZEgxbzlPNEhTX1lPa0c5MHBpZU1aTjJQdGg1b242M3hUT1AtN25lNXFacnNTUmJzbFNHUkg4QzNmOEFvNk0tLWpHeFpzNVpLdlYxOHpNMmJRTUp6ZzBxS2M?oc=5",
-   "quelle": "WSJ",
-   "zeit": "2026-11-18T19:13:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "3a493987cb3ba252",
-   "k": "welt",
-   "titel": "+++ Iran-Krieg +++: USA drohten Schiffen bei Umgehung von Iran-Blockade",
-   "t": "Laut Berichten drohten die USA Schiffen, die die Iran-Blockade umgehen wollten. Zugleich rücken israelische Panzer im Gazastreifen vor.",
-   "e": "Die Lage im Nahen Osten bleibt angespannt und berührt auch die Energie- und Schifffahrtsmärkte.",
-   "s": 8,
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-drohten-schiffen-bei-umgehung-von-iran-blockade/100136895.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T19:04:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ce0940bc639aa9cc",
-   "k": "finanzen",
-   "titel": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC",
-   "t": "Die Protokolle der Fed zeigen, dass viele Notenbanker weitere Zinserhöhungen erwarten. Die Oktober-Pause war für einige eine knappe Entscheidung, zudem wird diskutiert, wie der KI-Ausbau die Inflation treibt.",
-   "e": "Das Protokoll liegt vor der Zinsentscheidung im Dezember und prägt die Erwartungen an die US-Zinspolitik.",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
-   "quelle": "CNBC",
-   "zeit": "2026-11-18T19:00:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "acf139d8446c3372",
-   "k": "deutschland",
-   "titel": "SPD-Vorsitz: Netzwerk Berlin für Hubertus Heil als SPD-Chef",
-   "t": "Hubertus Heil hat seine Kandidatur für den SPD-Vorsitz erklärt und erhält Unterstützung vom Netzwerk Berlin.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-netzwerk-berlin-fuer-hubertus-heil-als-spd-chef/100271058.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T19:00:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "042657d46036f46c",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Ukrainische Angriffe auf Raffinerien – Russland importiert offenbar Rekordmengen an Benzin",
-   "t": "Ukrainische Angriffe auf russische Raffinerien laufen weiter, Russland importiert offenbar Rekordmengen an Benzin. Im Vorfeld des Gipfels in China werden Gespräche zwischen Merz, Trump, Xi und Putin vorbereitet.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-russland-importiert-offenbar-rekordmengen-an-benzin/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-18T18:49:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "beec1a15f87bdd28",
-   "k": "welt",
-   "titel": "Deal mit Putin: Warum doch kein russischer Diesel in den USA ankommt",
-   "t": "Trumps geplanter Diesel-Deal mit Putin kommt nicht zustande, es gelangt kein russischer Diesel in die USA.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/trumps-diesel-deal-mit-putin-warum-kein-tanker-in-den-usa-ankam-201676686.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-18T18:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6c01670064a13fd4",
-   "k": "deutschland",
-   "titel": "Technische Störung legt Nürnberger Hauptbahnhof komplett lahm",
-   "t": "Eine technische Störung hat den Nürnberger Hauptbahnhof komplett lahmgelegt, Fern- und Regionalverkehr sind betroffen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/vermischtes/article6afdea10a0547afb26e791fe/im-feierabendverkehr-technische-stoerung-legt-nuernberger-hauptbahnhof-komplett-lahm.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-18T18:41:37+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3090,22 +3086,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 25
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Welt",
@@ -3120,17 +3116,17 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 40
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Handelsblatt",
@@ -3160,12 +3156,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -3175,7 +3171,7 @@
    {
     "name": "New York Post Politik",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "CoinDesk",
@@ -3195,7 +3191,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "Google News NRW",
@@ -3204,15 +3200,13 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 10
    },
    {
     "name": "Google News Fed",
