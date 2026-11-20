@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-20T11:01:33.390783+00:00",
+ "aktualisiert": "2026-11-20T13:01:35.128078+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "124,60 €",
-   "delta": -1.7272662668299965
+   "wert": "123,52 €",
+   "delta": -2.583011981922201
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,85 €",
-   "delta": -2.843551019005841
+   "wert": "41,36 €",
+   "delta": -3.9972185651426018
   },
   {
    "name": "Deka S&P 500",
-   "wert": "135,80 €",
-   "delta": -1.967149623930442
+   "wert": "135,20 €",
+   "delta": -2.400284456225321
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,50 €",
-   "delta": -3.780655951213452
+   "wert": "168,70 €",
+   "delta": -4.2347885484938725
   },
   {
    "name": "Deka DAX",
-   "wert": "219,60 €",
-   "delta": -1.3033707865168553
+   "wert": "217,80 €",
+   "delta": -2.112359550561793
   },
   {
    "name": "Bitcoin",
-   "wert": "61.995 $",
-   "delta": -2.7657566936241182
+   "wert": "61.527 $",
+   "delta": -3.6295755936355754
   },
   {
    "name": "Ethereum",
-   "wert": "1.755 $",
-   "delta": -2.6110552701272702
+   "wert": "1.739 $",
+   "delta": -3.7577808178874275
   },
   {
    "name": "Gold",
-   "wert": "3.589 $",
-   "delta": -2.6237959571292824
+   "wert": "3.568 $",
+   "delta": -3.1773165106498413
   },
   {
    "name": "EZB Zins",
@@ -80,6 +80,246 @@
   ]
  },
  "items": [
+  {
+   "id": "b5e8004b7192e774",
+   "k": "deutschland",
+   "titel": "Reformpaket: Ein Startkapital für die Rente – Bundesrat billigt Frühstartrente",
+   "t": "Der Bundesrat hat mehreren Gesetzen zugestimmt, darunter einem Startkapital für die Rente (Frühstartrente), der aktiven Abwehr von Cyberangriffen und der Entlastung der Notaufnahmen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/reformpaket-ein-startkapital-fuer-die-rente-bundesrat-billigt-fruehstartrente/100271573.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T12:48:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "8bf1339f28ae249f",
+   "k": "finanzen",
+   "titel": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+   "t": "Ein Strategist der Bank of America warnt, dass Anleger das Risiko einer harten Landung der US-Wirtschaft unterschätzen könnten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-20T12:43:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c0b9c5ca859e9b55",
+   "k": "finanzen",
+   "titel": "VIDEO - Das KI-Unternehmen Anthropic feiert einen historischen Börsenstart",
+   "t": "Anthropic ist an der Nasdaq gestartet und hat dabei eine Bewertung von rund 1,7 Billionen Dollar erreicht. Der Börsengang gilt als der größte seiner Art. Zweifel an der KI-Branche bleiben jedoch bestehen.",
+   "e": "Der Börsengang gilt als Stimmungsbarometer für KI-Werte, und laut Berichten gab es dazu auch Proteste vor der Nasdaq.",
+   "s": 7,
+   "link": "https://www.nzz.ch/shorts/das-ki-unternehmen-anthropic-feiert-einen-historischen-boersenstart-ld.10070088",
+   "quelle": "NZZ",
+   "zeit": "2026-11-20T12:37:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "b6737611c0648293",
+   "k": "deutschland",
+   "titel": "„Bin ich ein Schwerverbrecher“? – „Batman“ darf Frankfurter Innenstadt nicht betreten",
+   "t": "Die Polizei verhängt vor neuen Protesten der Bewegung „Gen Z regelt“ Betretungsverbote für die Frankfurter Innenstadt. In mehreren Städten kam es bereits nachts zu Blockaden.",
+   "e": "Die Proteste zeigen, dass junge Menschen in mehreren Städten gleichzeitig mobilisiert werden.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6affe0465842ff528b9e0f9e/gen-z-proteste-bin-ich-ein-schwerverbrecher-batman-darf-frankfurter-innenstadt-nicht-betreten-liveticker.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-20T12:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "db8ffdd3ea04a06c",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Moskau lädt Vertreter der E3 zu Gesprächen ein",
+   "t": "Moskau hat Vertreter der E3 zu Gesprächen eingeladen, Frankreich fordert eine UN-Sicherheitsratssitzung nach den Angriffen auf Kiew. Verteidigungsminister Pistorius will verhandeln, aber nicht in Moskau.",
+   "e": "Die Gesprächsangebote und Forderungen zeigen, dass die diplomatischen Fronten im Ukraine-Krieg weiter in Bewegung sind.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-moskau-laedt-vertreter-der-e3-zu-gespraechen-ein/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T12:32:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "d8cae1db2f38b367",
+   "k": "welt",
+   "titel": "Ukraine-Krieg: Russland feuert Raketen auf Brücken in Kiew",
+   "t": "Russland hat Kiew in der Nacht zum Freitag angegriffen, nach Angaben der Medien die schwersten Angriffe auf Brücken der Stadt seit Kriegsbeginn. Es gab Berichte über Tote und Schäden.",
+   "e": "Die Angriffe auf die Verkehrsinfrastruktur der Hauptstadt markieren eine neue Eskalationsstufe im Ukraine-Krieg.",
+   "s": 7,
+   "link": "https://www.handelsblatt.com/video/politik/ukraine-krieg-russland-feuert-raketen-auf-bruecken-in-kiew/100271583.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T12:28:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "5f90592bacd8d776",
+   "k": "deutschland",
+   "titel": "24-StunDen-Warnstreiks: Stillstand in der Metallindustrie",
+   "t": "In der Metallindustrie gibt es erstmals seit acht Jahren 24-Stunden-Warnstreiks. Die Arbeitgeber fordern die Gewerkschaften auf, an den Verhandlungstisch zurückzukehren.",
+   "e": "Die Tarifkonflikte in einer zentralen Industriebranche sind auch für Konjunktur und Zulieferer wie die Autoindustrie relevant.",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/wirtschaft/ig-metall-erstmals-seit-2018-wieder-24-stunden-streiks-accg-201701268.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-20T12:28:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "543d6938269572a6",
+   "k": "welt",
+   "titel": "Geld für die Ukraine: Merz: „Was wir investieren, werden wir durch Stabilität zurückerhalten“",
+   "t": "Kanzler Merz erklärt, kein deutsches Unternehmen habe sein Engagement in der Ukraine aufgegeben, und stellt eine wirtschaftliche Dividende in Aussicht, mahnt aber auch Reformen an.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wirtschaft/bundeskanzler-merz-wirbt-fuer-investitionen-in-die-ukraine-accg-201702143.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-20T12:25:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "add1cbc9afd83e95",
+   "k": "finanzen",
+   "titel": "Federal Reserve: Market prices in December and January hikes – Rabobank - FXStreet",
+   "t": "Laut Rabobank preisen die Finanzmärkte für Dezember und Januar Zinserhöhungen der US-Notenbank Fed ein.",
+   "e": "Ein Wechsel von erwarteten Zinssenkungen zu Zinserhöhungen wäre für Anleihen, Aktien und Krypto ein deutlicher Kurswechsel.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXZ4MFY0UDdzQ0ZUSVZzaWtaM0EtTVBSNVBqRk5oczNzd3Q2RHdacTR2WHBuWHBBSFRWbjVSOUNtTmJKd3Z3NU9HWkRLVHBmVEZMZHJGQWVKaUgtYk0wWXNtdUZiSUdRTEJhazRHa1BPN2E1Q09YQm1aZjFhaFFVd09wZWozS0wyT0pVOVFidFVOcUlhYlFOYlRFZHVINFd2dE5vTWtfMnUtTFhFbS1FTg?oc=5",
+   "quelle": "FXStreet",
+   "zeit": "2026-11-20T12:21:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ad91c5bc2a1b2f4",
+   "k": "finanzen",
+   "titel": "„In der Gesamtgemengelage leidet Anthropic trotz Börsengang erstmal mit“",
+   "t": "Nach dem Börsenstart von Anthropic hat sich die Euphorie laut Börsenstratege Oliver Roth deutlich abgekühlt. Die Lage im KI-Sektor sorge für Unsicherheit.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/video6b00358d39a3e8110f0e3e4f/tech-beben-in-der-gesamtgemengelage-leidet-anthropic-trotz-boersengang-erstmal-mit.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-20T12:16:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "549f755ff4c971d1",
+   "k": "finanzen",
+   "titel": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+   "t": "Bitcoin, Aktien und Gold: Bei Krypto- und Aktienhändlern steigt die Nervosität, Volatilitätsindikatoren legen deutlich zu.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-20T12:15:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "a4907da4d5cfb8b5",
+   "k": "nrw",
+   "titel": "Märkischer Kreis: Zeichen gegen Gewalt an Frauen - Radio MK",
+   "t": "Im Märkischen Kreis gibt es eine Aktion als Zeichen gegen Gewalt an Frauen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGVKa0Y2bWhnY0ktb0haVllkNDJjbWNjZnJUUGFlWHNia3pwYXJDMUE5cXVfYlpVUEhBZFVDLXZ3blh2QUZLbFZxZjN4bDhnM280eXYtYWJscjZkT0tDd2EzZkRsQmZhLU9xZFlOQlRVUExhOGZja0NBWXo1LS1oYmZxam5lWi1Ha1drdFJEcG4?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-20T12:03:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "948da1a85afa237c",
+   "k": "usa",
+   "titel": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+   "t": "Senatorin Elissa Slotkin unterstützt Chris Van Hollen in seinem Vorstoß für die Führung der Senats-Demokraten gegen Chuck Schumer.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-20T12:02:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "3b1c1cfbb79b2933",
+   "k": "nrw",
+   "titel": "Verwaltungsgericht Düsseldorf: Ratsmitglied zu Recht von der Mitwirkung an der Ratsarbeit ausgeschlossen - Justiz NRW",
+   "t": "Das Verwaltungsgericht Düsseldorf hat bestätigt, dass ein Ratsmitglied zu Recht von der Mitwirkung an der Ratsarbeit ausgeschlossen wurde.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90Nm5xeGtkVGdtMXpFX1oyVXJ1WEVCWHg5OEdHRG1HTDdsTm5zWlQ4aG1EZ1luRHZUa3Z6WXRjU0haRHJlWWl0VGRZaGZESnhzY1E?oc=5",
+   "quelle": "Justiz NRW",
+   "zeit": "2026-11-20T12:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ed045b877e893d1e",
+   "k": "finanzen",
+   "titel": "Citi warns a key stock-market signal is close to flashing red",
+   "t": "Citi warnt, dass ein wichtiges Signal für den Aktienmarkt kurz davor steht, ein Warnsignal auszulösen. Die Citi-Strategen sehen derzeit keinen Grund für mehr Risikoanlagen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-20T11:45:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "bcc0246444e75546",
+   "k": "finanzen",
+   "titel": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+   "t": "Der Binance-Hacker hat laut OnChain Lens rund 600 Millionen Dollar in ETH über frische Wallets und die Protokolle THORChain und Chainflip verschoben.",
+   "e": "",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-20T11:31:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "1fea2dc01ee1c5d8",
+   "k": "nrw",
+   "titel": "Wahl im April: In NRW startet der Sechskampf um die Macht - WELT",
+   "t": "Vor der Landtagswahl im April startet in Nordrhein-Westfalen der Wahlkampf mit sechs Parteien.",
+   "e": "Die Wahl entscheidet über die Landesregierung im bevölkerungsreichsten Bundesland.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWx2cjdWU0VJX3N5SHJfYklSVjZqUXNxVUVHaFVRRENzVXpjeG9hc1MyZG40TWZ5QUlvYW1va3hBLXRiUGUwV1h5Y08zQjRIVkFXOW9ZTjVnLUZsbWx5cnRwODF6bzFJWnhsT3I3M0dUNlZRZHZUNTU2RjdPVUJWTThrY1BZUk9TVzVHbXIxTWQ4NkoxT05TcHZTZ3h3cFdIQzloWE1jQkF2Zm5lUkhqeHhRWXdBTk1kckJwSERUaGMwR3hwTUpZ?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-20T11:30:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "0e5bb88ccb2da65e",
+   "k": "finanzen",
+   "titel": "Bundesanleihen: Erzeugerpreise springen auf plus 8,1 Prozent, doch die Helaba hält die EZB-Zinserwartungen für zu hoch - Wie viel Inflation steckt noch im Bund? - AktienCheck.de",
+   "t": "Die Erzeugerpreise in Deutschland sind um 8,1 Prozent gestiegen. Die Helaba hält die Zinserwartungen der EZB dennoch für zu hoch.",
+   "e": "Hohe Erzeugerpreise sind ein Signal für Inflationsdruck entlang der Lieferkette, auch wenn sie nicht eins zu eins auf Verbraucherpreise durchschlagen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1BKUVoyOTdwVkdXV2tSb1NBX0h1d3NubVltX25FMi1jbTUtVVhxbnh4d0stMXdPX0ozU2FwTlY4OTZERDQtOGxXQkVXZmZQOE51cU9ZNXpZWUNNN1hxZGRjS3hhWW9VQ1YyUmZkMWxwblRZdEoxMHMxRFlwTUxiZU1CSzhRTHI1SEQ0V3dfcjRoMWNTSFA3blNGUzF4VDFpME1RQ3hQc3RzWjQtQTI4TQ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-20T11:20:55+00:00",
+   "tag": null
+  },
+  {
+   "id": "dad9bf6a16a70d14",
+   "k": "finanzen",
+   "titel": "Anna Paulson: Die Fed muss die Zinsen noch weiter erhöhen - IDNFinancials",
+   "t": "Die Fed-Vertreterin Anna Paulson fordert weitere Zinserhöhungen der US-Notenbank.",
+   "e": "Die Aussage fällt in eine Phase steigender Zinserwartungen an den Märkten.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkVyNGE1LURULXNiMHpJbWRfZmxqSy1Lenp6STluRHNOWFdKdHkxRFdpM0NvUmZvWnRtTTR4bXh2dkQxMVlJYjZZWmJXQjhpYUx2TU9lc1RiYldlaDlVRlNpRDR0MFBuSzBRVmtsaFNNNEZNZXFwS2tKNGhmSE9FYndfaXpCNHJfOEpsMV9USGxyYmtnXzhZbDlHak96R1RBTXhpeDZGYkM?oc=5",
+   "quelle": "IDNFinancials",
+   "zeit": "2026-11-20T11:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6b80832c755f60d7",
+   "k": "finanzen",
+   "titel": "Wall Street: Dow Jones erstmals seit Juni unter 50.000 Punkten, S&P 500 mit sechstem Verlusttag - Wie viel Zinsangst steckt nach dem Fed-Protokoll im Markt? - AktienCheck.de",
+   "t": "Der Dow Jones ist erstmals seit Juni wieder unter 50.000 Punkte gefallen, der S&P 500 verzeichnete seinen sechsten Verlusttag in Folge. Im Markt wird die Zinsangst nach dem Fed-Protokoll diskutiert.",
+   "e": "Sechs Verlusttage in Folge sind eine ungewöhnlich lange Serie, und die Zinserwartungen der Fed sind dabei ein zentraler Faktor.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXprR3dGMmNrOFFCMWJrc0wxdXBubGRwVlBnYVRVZEt0TEREX1V0MWxMd3NSVFNjOEk1QWRUb0R2cWwzbE9pZjVtQVpqVmpNVzJsS2QwZUNCN0JqMHVNUlVCQXZzRDhySTdHaWtDWWdlR1hpQ1NHR2VlU1ZmRk1EVXBYYkNYaDJTVDdQN2UwcmpGbnBObVhVZFdadVFoT3VVSGFreTVzQW8zOHBxWUhJZw?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-20T11:14:29+00:00",
+   "tag": null
+  },
   {
    "id": "cccff391ea080dcb",
    "k": "usa",
@@ -2839,246 +3079,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-19T16:35:52+00:00",
    "tag": null
-  },
-  {
-   "id": "97a3e4f413c3dda2",
-   "k": "finanzen",
-   "titel": "Federal Reserve Board Fines Former First Security Bancorp Director $100,000 - Securities.io",
-   "t": "Die US-Notenbank Fed hat einen früheren Direktor der First Security Bancorp mit 100.000 Dollar Strafe belegt.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcV83dkp4UXZzWDF1T0tqQWpEdFFpQkRscU50R1JoWDlBS2hjMk5fVm1GQWFuQWZ5eHJYdHdkNG13cW1QWTRfeW81VV9YOXh1RXJ5cHVnVHZaUXhCcnBXdmRqbXpNYjIwMDlxTTV0dHhBUk1VRWk4MGtZOWNoQzlNSkM4NDRwRDdWMUZTZVIwY3pCQTBSbk1FRk1MNVhMOXpJSTNV?oc=5",
-   "quelle": "Securities.io",
-   "zeit": "2026-11-19T16:31:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2ada58228263373",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Mord in Norwegen - Waffenhändler erneut vor Gericht - n-tv.de",
-   "t": "Ein Waffenhändler muss sich in Nordrhein-Westfalen erneut vor Gericht verantworten, im Zusammenhang mit einem Mord in Norwegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZm5BQmRWX3NXRnZmMUFaOVp0VnFLYnlzd29XUl9Fak1sLUJRd1ZMRTFkNTIyYmlOZjNLV1R4VjVuWXAxVzdha2pEdVB2ZzB4OE9QMnI4N0Rqcll3dmh0YTRFVXotTldZblpjanZxMk9WeGlUYlJjNUdQOXc1cTktYmJSWkE3TzdVQkNjQWxUaWVXOFZvajJPM2Vnc25QbkNCc0ktM1pDc1BDMGNuSlhTcFNrN1A5LUlS?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-19T16:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d814fe00b8aee35",
-   "k": "finanzen",
-   "titel": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-   "t": "Palo Alto Networks hat bessere Quartalszahlen als erwartet vorgelegt und zugleich einen Deal über 4,5 Milliarden Dollar für das KI-Start-up Applied Compute angekündigt.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-19T16:28:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "a1e062aede4aeafd",
-   "k": "finanzen",
-   "titel": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-   "t": "Ein Mitgründer von CoreWeave hat 30 Millionen Dollar in die schwach gehandelten Anleihen des KI-Infrastrukturanbieters investiert.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-19T16:27:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ceaefc6f5f823b31",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Mehrfamilienhaus geräumt: SEK-Einsatz in Essen - tagesschau.de",
-   "t": "In Essen hat ein SEK-Einsatz zur Räumung eines Mehrfamilienhauses geführt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHFLUUY4OWxpb2poZTg5MFhpdEx5c0EyZENhb2VWY3hoYjQ5WGdFT0VaTW9XUzB2MmRZbEhjWmdDdk5HMlhPTzFmX2Vpc1ZNMEtYNkJfcm1vVERVS09GY3NaWkdOY0pVMXRjcVBQN3dmMWtCTXcxU2lnLTJrakNJVThMQkNOaHR3ajZoZnZma2JQdmdFbXdtdkREQTNISXp6ZUlvakZ2U1Zha0RVc2N5dUNZd1diTXJSWm9ZSQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-19T16:25:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "d306d66b191a2e69",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Mit Schusswaffe: Maskierte überfallen Discounter in Duisburg - tagesschau.de",
-   "t": "Maskierte Täter haben einen Discounter in Duisburg mit einer Schusswaffe überfallen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXhfLWVkU2JWdW1DSG55NldxSElnZTV6Q2daMTMxSi12Z2RpUmRuUFRMLXNqOC0yWVBlQlFnMy1GbkE4NFdlcW93R2FvZVoxWF93ZUlsV1ItSDZ6UzVqUm1wTzRyN0gtNEhpbEt3VWhPemYxSXpkV3NDYmpFX2lqNnVzTnp4SnRUMVZvS05taXNxTlprT2dxYVNVYW1BRUxwNlU1bjNZUXBWSDlqQ1BxWmVtaDN3MUR6NE9qcEkxc1ZUNVRfMncwYmMwOUdUZTA?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-19T16:21:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "70723a2bbabcb917",
-   "k": "finanzen",
-   "titel": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-   "t": "Die Zahl der Immobilienverkäufe in den USA liegt auf einem Rekordtief, bei weiterhin hohen Preisen und Hypothekenzinsen um 7 Prozent.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-19T16:14:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "47be3eb969ac503c",
-   "k": "deutschland",
-   "titel": "Kriselnder Autobauer: VW fordert Nullrunden und Einschnitte bei 35-Stunden-Woche",
-   "t": "Volkswagen fordert in den anstehenden Tarifverhandlungen Nullrunden und Einschnitte bei der 35-Stunden-Woche; IG Metall und Betriebsrat kündigen Widerstand an.",
-   "e": "Die Forderungen betreffen einen der größten Arbeitgeber Deutschlands und könnten den Tarifkonflikt in der Metall- und Elektroindustrie weiter verschärfen.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/deutschland/kriselnder-autobauer-vw-fordert-nullrunden-und-einschnitte-bei-35-stunden-woche/100271338.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-19T16:13:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4ee09e99998ac50",
-   "k": "welt",
-   "titel": "Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein",
-   "t": "Der Internationale Gerichtshof hat die Verbrechen gegen die Rohingya in Myanmar als Völkermord eingestuft.",
-   "e": "",
-   "s": 7,
-   "link": "https://www.tagesschau.de/video/video-1686566.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-19T16:12:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "c06ddfca1c03675f",
-   "k": "welt",
-   "titel": "Matthias Deiß, ARD Berlin, zur Reaktionen der \"Koalition der Willingen\" auf Treffen in Shenzhen",
-   "t": "Die sogenannte Koalition der Willigen hat auf ein Treffen in Shenzhen reagiert, wie die ARD berichtet.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1686564.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-19T16:09:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "382cbc3efb529871",
-   "k": "usa",
-   "titel": "Marco Rubio surges past JD Vance to lead 2028 Republican primary race: poll",
-   "t": "In einer Umfrage des Emerson College liegt Marco Rubio bei den republikanischen Vorwahlen für 2028 vor JD Vance.",
-   "e": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/19/us-news/marco-rubio-surges-past-jd-vance-to-lead-2028-republican-primary-race-poll/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-19T16:08:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "21d7eab14231821b",
-   "k": "nrw",
-   "titel": "NRW will Verschleierung an Schulen verbieten – das schreibt die neue Regel vor - Mindener Tageblatt",
-   "t": "NRW will Verschleierung an Schulen verbieten. Eine neue Regel sieht entsprechende Vorgaben vor.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVRQm1HVGJhSVV2NmJpbjh5VDRlRzE3WlcyLU9ISHR1Q2NKUGRWd1BaeDhaX2MyX1FUcVowVHRrY2dkOW5icEFwNmpHM3pPeFZLWnpfOTdRbVZTTVhfdDhob1hUOEdmUjRHS3lBQUtvc1BjNGt0aTg5aGM0bXBwTTZBNmtmRXBkOHhBc0RRSlg4YUxKd0NQLWplRUlUVVk5ZVZiNTlCLVRYU0FOMk1DTnhEM0VHYTlvWmpF?oc=5",
-   "quelle": "Mindener Tageblatt",
-   "zeit": "2026-11-19T16:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "23f2ec353a843642",
-   "k": "nrw",
-   "titel": "„So kann man einfach nicht arbeiten“: Ärger im Iserlohner Sozialausschuss - IKZ-Online",
-   "t": "Im Iserlohner Sozialausschuss ist es zu Ärger gekommen, Mitglieder beklagten, so könne man nicht arbeiten.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmhQdC12c1J0c0tpQW56ekQyNGxGd2hvcWFybE1kOGFSTHpfMmNpM1dlNkJqcnRKc1BjYjBsX0xfYTJ2SWZCdXZRVHhmaGVqazU2OFQxN1Q3TGhyN1o5dXoyYndYUnlXZFhvQ04yMTd0dnhyUVFIMW83NGpWTnFHQy1ETUFiRmhQM1VPZTJuYzZ0NVRhUldxSDBqd1pJcXpNcWYzOG5mdkpiTExxV192MWdxY2hKelRqSTF6bEFoUmNVTGh4UWtTdUdoNGhsTklCclE?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-19T16:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "e846223e3ec99382",
-   "k": "deutschland",
-   "titel": "Banden stehlen immer häufiger Kabel an deutschen E-Ladesäulen",
-   "t": "Diebe stehlen zunehmend Kabel an E-Ladesäulen, vor allem wegen des darin verbauten Kupfers. Betreiber und Polizei setzen nun auf Sirenen und Farbbomben.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/mobilitaet/banden-stehlen-immer-haeufiger-kabel-an-e-ladesaeulen-ld.10064475",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T15:59:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "ea8d5959dc9b830d",
-   "k": "welt",
-   "titel": "Die EU fremdelte mit dem Begriff der Bilateralen III. Nun übernimmt sie die Wortwahl – und drängt die Schweiz zur Eile",
-   "t": "Die EU wirbt vor der Nationalratsdebatte in der Schweiz für die neuen Verträge, die als Bilaterale III bezeichnet werden.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/schweiz/die-eu-fremdelte-mit-dem-begriff-der-bilateralen-iii-nun-uebernimmt-sie-die-wortwahl-und-draengt-die-schweiz-zur-eile-ld.10068419",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T15:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5bbd79450c618333",
-   "k": "usa",
-   "titel": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-   "t": "Nach wiederholten Technik-Ausfällen horten immer mehr Amerikaner Bargeld und Vorräte. Grund ist unter anderem fehlende Klarheit von Regierungsseite.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-19T15:57:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a639668e90ec980a",
-   "k": "finanzen",
-   "titel": "Immobilien: Deutschland verliert bei Immobilieninvestoren an Attraktivität",
-   "t": "Laut einer Studie verliert Deutschland bei Immobilieninvestoren an Attraktivität; die Zahl deutscher Metropolen in den Top Ten sinkt.",
-   "e": "",
-   "s": 3,
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-staedte-europas-sind-bei-investoren-besonders-gefragt-01/100266860.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-19T15:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a2b68a238c41515f",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 bei Bremecke heute, am 19.11.2026 - News.de",
-   "t": "Auf der A45 bei Bremecke in Lüdenscheid gibt es am 19. November 2026 eine Tagesbaustelle.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNMXVLR1p4WjNQOVV6X3dDUzFaX0NGeWZSZm4xVDUzN3phRWkwWEN2M3NjQTlzTUJiZjRkcEp1TXZwbkZFS2d1emdnUU9lZ2w2MHkxaXhGOTBqSmZvS0p3OG1GRU1kUm9OU0ltYXdfYnZFUDRNaHJKN2pJOXl1eklmRmdSVWFyUFhTWTJ0QjdIUXEyYXNaWmthM0xQN2I5ZFl0bm8xdnJ5c1VkdlN1LXpIWTNkaTIwQll2WnYxV1d4UGtvWjhtUkJkNTYyUHM5bGhfTTFGU19CdUFOV25QU1kzb2dIRkU2aXk0ZXNjd1JkMFREMXlGQlczY25lY2QyeVNEZzV0aGVUVDYxamdpNDdPRDdQdVJjZTI1Qy1GR0liQW5JRm1tQW01eXBWQmF0N3BIMmtiMEFEUFJ0d0tF?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-19T15:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4265446233727155",
-   "k": "nrw",
-   "titel": "Meinerzhagen: Dauerbaustelle auf der L539 in Darmche ab nächste Woche Dienstag - News.de",
-   "t": "Die L539 in Darmche bei Meinerzhagen wird ab kommender Dienstag zur Dauerbaustelle.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOTHFKaXNKNl9YbTRQY25icVZ5U0c2aFZXbmNlTzRTVUw2WG1JNUZzS2Z0RVpURDNmckNtVUYtb3lGUXptMEdCWjJkOTVGei1ybV9CdHhwWUREZU8zV1RoV1dBVC1HTlZoSnRNUjJNa21zZ3FfamtMdmRTYW9DX21FVGo0bkVqV0pEQ25rSkZqY0tKWjNkdWhMUS1BMGlGS1RaaG16UlV4WnUzZWh0ck80dzM0R09uLXlWT0Y5UTdmQUY5TGxUUFl6OUZfVHhYcl9JT0IyYUdSeWpqQ09xWFdmMXNSY1NBZVhTTkVfM0poS0NQN3RBZjQ4WmZsaGRoTVFkSnM0RnRGc0FtTV8tbGYxMUMzUXMxRDZIS3pHUkl1eUVxMkJvNFRSUDhRUXlQSHRLRFVPT2RoVVR2RkE0M2IxRkJhaEtGU0tvZmhNQ29qcWEybGc?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-19T15:42:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "ef95fba450c5e569",
-   "k": "deutschland",
-   "titel": "Jugendstreik in Europa: Am Freitag geht die Gen Z in ganz Europa auf die Strasse",
-   "t": "Für den 20. November haben Jugendliche in mehreren europäischen Städten, auch in Berlin, zu Protesten aufgerufen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446",
-   "quelle": "NZZ",
-   "zeit": "2026-11-19T15:41:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3091,17 +3091,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 13
+    "n": 11
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "Welt",
@@ -3116,12 +3116,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -3186,12 +3186,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 36
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 33
+    "n": 31
    },
    {
     "name": "Google News NRW",
