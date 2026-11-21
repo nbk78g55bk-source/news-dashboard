@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-21T17:01:22.325948+00:00",
+ "aktualisiert": "2026-11-21T19:01:29.913141+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.922 $",
-   "delta": 0.7866887617277138
+   "wert": "60.057 $",
+   "delta": 2.909201343569557
   },
   {
    "name": "Ethereum",
    "wert": "1.680 $",
-   "delta": 2.224968273910071
+   "delta": 3.9062387501140945
   },
   {
    "name": "Gold",
@@ -54,32 +54,140 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-21T11:01:33.593612+00:00",
+  "slot": 19,
+  "stand": "2026-11-21T19:01:29.913126+00:00",
   "punkte": [
    {
+    "k": "usa",
+    "t": "An der Wall Street sind S&P 500 und Dow Jones in die Korrektur gefallen, rund 10 Prozent unter ihren Rekordständen. Der Nasdaq 100 verlor am Freitag 5,6 Prozent, und die Nvidia-Aktie fiel um 14 Prozent, nachdem die US-Börsenaufsicht SEC laut Reuters gegen das Unternehmen ermittelt."
+   },
+   {
+    "k": "finanzen",
+    "t": "Zur Einordnung: Deka S&P 500 133,75 €, Deka Nasdaq-100 165,64 € und Deka DAX 216,70 €. Die EZB liegt laut Marktdaten bei 2,50 %, der Fed Funds Satz bei 3,88 %, und für die nächste Fed-Sitzung wird eine Zinserhöhung erwartet, offen ist nur deren Höhe."
+   },
+   {
+    "k": "finanzen",
+    "t": "Bitcoin fiel erstmals seit zwei Jahren unter 57.000 US-Dollar und erholte sich danach auf 60.057 $. Auch andere Kryptowährungen gaben nach, Ethereum notiert bei 1.680 $."
+   },
+   {
+    "k": "deutschland",
+    "t": "EZB-Ratsmitglied Nagel rechnet im Dezember mit Handlungsbedarf bei der Geldpolitik. Die Äußerung fällt in eine Phase, in der die Zinsdebatte bei der US-Notenbank ebenfalls an Schärfe zunimmt."
+   },
+   {
     "k": "welt",
-    "t": "Zwei russische Marschflugkörper sind in Polen eingeschlagen, das ist die erste Verletzung des polnischen Luftraums in diesem Ausmaß. Ministerpräsident Tusk spricht von einer gezielten Provokation des Kremls, Macron sieht eine „neue Aggressivität“ Russlands."
-   },
-   {
-    "k": "finanzen",
-    "t": "An den US-Börsen herrscht Ausverkauf: Der Nasdaq verliert 5,61 Prozent, Dow und S&P 500 sind in die Korrektur gerutscht und das Angstbarometer steht auf dem höchsten Stand seit anderthalb Jahren. Der Deka DAX 216,70 € hat laut Meldungen auf Wochensicht mehr als 7 Prozent verloren."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die Fed wird laut Erwartung auf der nächsten Sitzung die Zinsen erhöhen, offen ist nur die Höhe; Gouverneurin Cook dringt auf weitere Erhöhungen. Zum Vergleich: Die EZB liegt bei 2,50 %, die Fed Funds bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Bitcoin ist erstmals seit zwei Jahren unter 57.000 US-Dollar gefallen, aktuell notiert er bei 57.884 $, Ethereum bei 1.640 $. Gold liegt bei 3.515 $."
-   },
-   {
-    "k": "finanzen",
-    "t": "Die US-Börsenaufsicht SEC ermittelt laut Reuters-Bericht gegen Nvidia wegen Bilanzierungspraktiken, die Aktie fiel um 14 Prozent. Die Chipwerte haben laut Meldung in der vergangenen Woche rund 2,3 Billionen US-Dollar an Börsenwert verloren."
+    "t": "Nach dem Einschlag russischer Raketen und Drohnen auf polnischem Staatsgebiet hat Nato-Generalsekretär Rutte betont, dass die Allianz jeden Zentimeter Polens verteidigen werde. Polnische Ermittler identifizierten eines der abgestürzten Objekte als russischen Marschflugkörper."
    }
   ]
  },
  "items": [
+  {
+   "id": "1567289333c9569f",
+   "k": "welt",
+   "titel": "Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte",
+   "t": "Polnische Ermittler haben eines der abgestürzten Flugobjekte als russischen Marschflugkörper identifiziert. Nato-Generalsekretär Rutte sagt, die Allianz werde jeden Zentimeter Polens verteidigen.",
+   "e": "Ein nachweisbar russisches Flugobjekt auf polnischem Gebiet erhöht die Spannungen zwischen Russland und der Nato deutlich.",
+   "s": 7,
+   "link": "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T18:26:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "db4b0ecbd6c8634e",
+   "k": "welt",
+   "titel": "Trump fordert langfristiges Atomabkommen mit Iran: „Werde Atomwaffenbesitz verhindern“ : International : JKN - 재경일보",
+   "t": "US-Präsident Trump fordert ein langfristiges Atomabkommen mit dem Iran und erklärt, er werde Atomwaffenbesitz verhindern.",
+   "e": "Ein neues Abkommen wäre für Energiepreise und die geopolitische Lage im Nahen Osten von großer Bedeutung.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVlpObUFTcmtxSlBRc2ZLT3N6SVhkMERrdUJhVUJpTS10clRNSnZrcC01ZUloaEh3Vl9fVHFvQjRhTzZtZzF6bTVuWVVEdkJzNjNZN0dLNkhfam1lQ08yQg?oc=5",
+   "quelle": "재경일보",
+   "zeit": "2026-11-21T18:25:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "50a435182dc39976",
+   "k": "finanzen",
+   "titel": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+   "t": "Bitcoin hat sich nach einem Zweijahrestief um rund 9 Prozent erholt und liegt wieder über 60.000 Dollar. Anleger blicken auf die Börsenöffnung in den USA am Montag.",
+   "e": "Die Erholung findet vor dem Hintergrund steigender Zinserwartungen der Fed und schwacher Tech-Werte statt.",
+   "s": 7,
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-21T17:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a5f1fc3c7e6ddcc0",
+   "k": "welt",
+   "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+   "t": "Die Riemannsche Vermutung könnte mithilfe von KI des Unternehmens Anthropic gelöst worden sein. Die Meldung ist noch nicht unabhängig bestätigt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T17:32:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "647963e552d69d2c",
+   "k": "deutschland",
+   "titel": "Razzia gegen Zuhälterring – Rumänen zwangen Frauen in Deutschland zur Prostitution",
+   "t": "Die Polizei hat einen rumänischen Zuhälterring zerschlagen, der laut Ermittlern seit 2021 etwa 20 junge Frauen zur Prostitution in Deutschland gezwungen hat, unter anderem in Gelsenkirchen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T17:31:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "73b1451289d73924",
+   "k": "nrw",
+   "titel": "Wie weit rechts wird sich die AfD im NRW-Wahlkampf positionieren? - WAZ | Westdeutsche Allgemeine Zeitung",
+   "t": "Die WAZ fragt, wie weit rechts sich die AfD im NRW-Wahlkampf positionieren wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0ZFLVpvUnVMWFo5N3N2bGQ2VTJWX1BpR1dwMnFOa1pvR29XT0RIcjRkZmMzTU53Y0NFbWE1ZFBpZk1PVElTc01yRDlUSEhCTkpETU40RXotR1Q5b0doV2U4ekI3LUZjdzhZQUljSFcxZk0tYzJmYWV6LW5tcF85dEJ1MWpHMzFfTDdFdHVJalRNeV9MNW5hZHhoT0NIa0t5Y0I0bGk3Z29jWGJMT3YzVkxKMmR5MnVvWkdvMk9nTQ?oc=5",
+   "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+   "zeit": "2026-11-21T17:27:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "f581c92e316cfad5",
+   "k": "nrw",
+   "titel": "CDU-Bezirk Südwestfalen: Paul Ziemiak in Krombach als Vorsitzender bestätigt - Siegener Zeitung",
+   "t": "Paul Ziemiak ist als Vorsitzender des CDU-Bezirks Südwestfalen in Krombach bestätigt worden.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMDNpaFZZdGVsaXA4VlFuaGpXYnZmY2UwdU5IaXloZkZCTWV5dHJ6Znk2TzBFZTFuRS0zSVU2NHBvZ2swTzM4SWI4cGlRMWNneFZqYmxydHFFNjVMNFVzUG5aYS16RW1xb3ZUWmhhYlJTYzZCZkk5c2tLSi1Qc19TQUVXY09raXZoeUJpZW5hOG83eHlUQnYwOTZ0OVVfVFJpVktKVVFOV21rb3lBcEdBVGtzNVJMaTFjZ3lubWtlUUZ4Z3ByWlg5VVo1SFZNTVVxOUhYaUdaVjJyZWREd0tvTnhHQnBvVnB3RUJYOVdKNzVjRVRLWXhiaV9saDI1d9IBmgJBVV95cUxPaUc2bVY5YjJOek1iRmwtQURGVFJsVms5Q282OUpkS1RnRUlIelNSSHFTbmFXQ1ZFMmpFaDI4dTlOdjhaRldKSlJVWk51THBab0d4aDBkUTVfTE1mcTdVR19KcVJPME9DU2tBTUR6azRLUzRfanR6V3VTVk1CbHZMUTFDNWdxX2d5NjJfd0poNGpEdC0ydnZ4V3ZpaHlKWFR1bkdYb1oyQzdWUTVTTFIyT3dxSjBBWGY0MlNmbk85UmUyeW9OaXpDTUkzM29kWG9GVUNxaFJ3cHNGTTFLcVIwekZuc0o4ejFqOGFNWF9sRjYyYTI0dU5HeUZOeVRFMk1IaXN5cFZuMXRFWmFfVXVLNDZkdWhOaVdIb3c?oc=5",
+   "quelle": "Siegener Zeitung",
+   "zeit": "2026-11-21T17:17:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "cc2c401321efc733",
+   "k": "deutschland",
+   "titel": "„So eine Ego-Show brauchen wir nicht“ – Schwerdtner rechnet mit Parteiausschluss von Emde",
+   "t": "Linken-Chefin Schwerdtner kündigt an, dass ein Parteiausschlussverfahren gegen die Berliner Abgeordnete Vanessa Emde angestrebt wird.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T17:03:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "891890f68dfde060",
+   "k": "welt",
+   "titel": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
+   "t": "Die Vereinigten Arabischen Emirate transportieren laut Bericht mit US-Militärunterstützung Öl an Iran vorbei durch die Straße von Hormus.",
+   "e": "Die Straße von Hormus ist einer der wichtigsten Engpässe für den globalen Ölhandel, daher hat die Route direkten Einfluss auf die Ölversorgung.",
+   "s": 6,
+   "link": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-21T17:00:00+00:00",
+   "tag": null
+  },
   {
    "id": "bb7eba9738b2929c",
    "k": "finanzen",
@@ -102,6 +210,18 @@
    "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
    "quelle": "CNBC",
    "zeit": "2026-11-21T16:57:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "f3e63dc3c69f47e9",
+   "k": "usa",
+   "titel": "Trump says Vance, Rubio are 'doing fantastically' ahead of 2028 Republican presidential primary",
+   "t": "US-Präsident Trump äußert sich positiv über Vizepräsident Vance und Außenminister Rubio im Hinblick auf die Republikanische Vorwahl 2028.",
+   "e": "",
+   "s": 3,
+   "link": "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-21T16:56:14+00:00",
    "tag": null
   },
   {
@@ -273,6 +393,18 @@
    "tag": null
   },
   {
+   "id": "a448c332c239218a",
+   "k": "welt",
+   "titel": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+   "t": "Mexikanische Behörden haben einen der meistgesuchten Drogenbosse festgenommen, der auf der FBI-Liste stand.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T15:36:57+00:00",
+   "tag": null
+  },
+  {
    "id": "cc6bb37546433283",
    "k": "welt",
    "titel": "Mexico Captures Top Drug Boss in Fierce Gunfight",
@@ -282,6 +414,18 @@
    "link": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-21T15:29:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "614f4e9690ad6ec0",
+   "k": "welt",
+   "titel": "Im Streit über EU-Budget legt Costa Kompromiss vor",
+   "t": "Ratspräsident Costa legt im Streit über das EU-Budget einen Kompromissvorschlag vor. Bis Jahresende soll eine Einigung stehen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T15:01:28+00:00",
    "tag": null
   },
   {
@@ -597,6 +741,18 @@
    "tag": null
   },
   {
+   "id": "e0420b8a236adcf6",
+   "k": "welt",
+   "titel": "„Deutschland kann dann ein wichtiger Partner sein, wenn der heiße Konflikt gelöst ist“",
+   "t": "Katar sieht laut Welt-Recherchen eine mögliche Rolle für Deutschland bei einem neuen Atomabkommen mit dem Iran.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/videos/video6b019a235842ff528b9e2e71/trumps-krieg-gegen-iran-deutschland-kann-dann-ein-wichtiger-partner-sein-wenn-der-heisse-konflikt-geloest-ist.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T13:31:31+00:00",
+   "tag": null
+  },
+  {
    "id": "ddee5709dbcd9588",
    "k": "finanzen",
    "titel": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
@@ -606,6 +762,18 @@
    "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
    "quelle": "MarketWatch",
    "zeit": "2026-11-21T13:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "df41881d57c6e072",
+   "k": "finanzen",
+   "titel": "„Ich glaube nicht wirklich der Regierung“ – Technikversagen verunsichert Amerikaner",
+   "t": "An der Wall Street verliert der Nasdaq 100 am Freitag 5,6 Prozent. Anleger zweifeln nach dem Börsengang von Anthropic verstärkt am KI-Boom.",
+   "e": "Einer der schwächsten Handelstage im Tech-Sektor seit Längerem, der die Abhängigkeit der Indizes vom KI-Thema zeigt.",
+   "s": 8,
+   "link": "https://www.welt.de/videos/video6b01829a4490a28f5fdb811e/usa-ich-glaube-nicht-wirklich-der-regierung-technikversagen-verunsichert-amerikaner.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T13:23:19+00:00",
    "tag": null
   },
   {
@@ -630,6 +798,30 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQU5Bb2pwSlFNMS1Ndmx3Ti04dTA5NGpNUGpzSDdCbjB0MjRaX3ZsNkZsZ3g3djdIcjB2RXVzRWFjNmtKTUFVcWlqOWo1MTU5MkdySVN4QzlvbE1aVEF4NlpSekJBNmFYdjB5bW9zOGgtOW9jQk9wYjhWQW1QNi16T1dfaVp3bGhfTWc?oc=5",
    "quelle": "tixio - Nachrichten",
    "zeit": "2026-11-21T13:07:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "bd028ed4bce24793",
+   "k": "deutschland",
+   "titel": "Vier Kinder und mehr als 40 Jugendliche unter Beschuldigten nach „Gen Z regelt“-Krawallen",
+   "t": "Nach Krawallen bei der Demonstration „Gen Z regelt“ in Leipzig ermittelt die Polizei gegen mehr als 200 Randalierer. Fünf Beamte wurden verletzt.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6b018edc39a3e8110f0e54c2/leipzig-und-bundesweit-vier-kinder-und-mehr-als-40-jugendliche-unter-beschuldigten-nach-gen-z-regelt-krawallen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T13:06:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "a97099908f5440a7",
+   "k": "nrw",
+   "titel": "Frost und Glättegefahr in NRW: Deutscher Wetterdienst warnt vor rutschigen Straßen am Wochenende - 24rhein",
+   "t": "Der Deutsche Wetterdienst warnt in NRW am Wochenende vor Frost, Glätte und Nebel.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2pqckRTNjFNWFItd2s0VjllVmRKeXVJeHZFcHM4djh6SXh4QUJUQnE0UjBlZ2NNM0FKTml1QjhqX19NLVg2QVNTbWxsVnF0dHlpaVI5dWdZWTl5OTdFWXh5UDFSSTBpaGdINmVCWktteTJpcTdDa3U0N0VCWkVZSFRzNFpWaFJ5WnZRTXZ0NG10RUc5X05QZWl6V0s4YVE0WnZJdDI1ekx5UQ?oc=5",
+   "quelle": "24rhein",
+   "zeit": "2026-11-21T13:02:18+00:00",
    "tag": null
   },
   {
@@ -1137,6 +1329,18 @@
    "tag": null
   },
   {
+   "id": "40a82d5485a8dd34",
+   "k": "nrw",
+   "titel": "Schwarzwildbejagung in Nordrhein-Westfalen steigt um gut 41 Prozent - Berliner-Sonntagsblatt",
+   "t": "In Nordrhein-Westfalen ist die Bejagung von Schwarzwild um gut 41 Prozent gestiegen.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3JQbDB3M0s1bW8xSEV2alJINDRzUC1McEhsa2FtVGtfQVB1QmNkOXJtR1VwZjkwcmlDNUFvN3dqSlgyaTdNUjVCV0J4RU1YUFlqUDFWQ3pXSGxrWGkwYlJMamtjWUhFWHBuNEdUWk9pdHBaR2FiY1RBeG9Ka1JpMXY4bkxMcjhpTlgtdkRTUFdRbWNvdmtRT19mRXQxTFdHRVgyaU5kVHpEYkRlYzlOOWplZnhnSG9xSUl1NVFIeGFITC1vaVQ2Rw?oc=5",
+   "quelle": "Berliner-Sonntagsblatt",
+   "zeit": "2026-11-21T09:50:00+00:00",
+   "tag": null
+  },
+  {
    "id": "9d754fc6e380b00e",
    "k": "finanzen",
    "titel": "ECB seeks industry partners for tokenized deposits, securities experiments",
@@ -1449,6 +1653,18 @@
    "tag": null
   },
   {
+   "id": "11dbed9de929e52a",
+   "k": "finanzen",
+   "titel": "Nordrhein-Westfalen: Neue EU-Regeln sollen Käufer vor Schulden schützen - tagesschau.de",
+   "t": "Neue EU-Regeln sollen Käufer besser vor Überschuldung schützen. Die Regeln betreffen Verbraucherkredite und Verbraucherschutz.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc3Z5LVlnWHljYXdhZWlkM2Q0TzhKUkRKSElPczZwMkM1SWt6ZTJjaXhnQWVHUkxianZzTnk4YWxmVlZ4RC1qUC1HQzdRNHBHWW1mUkRWYW9GS254SmFpTjAyVVVhelhKM2d6OG1vTGdkMU5BYmptNVdlWlNmdVdhaUszSVZpaTN4RmJFaHAzRU1nWHdrZzJCcHBzcmM0RlNFVlJyZTVBQ2l5R3VWZGxQbkFzaU9EZElYbXU5R2d3MnNvQVk5MzhiaTVqUlJ1SWtZLWFGODZvOTdmQUVz?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-21T08:20:00+00:00",
+   "tag": null
+  },
+  {
    "id": "61c30d79dca74b71",
    "k": "usa",
    "titel": "Trump-Watch: Demokraten nach den Midterms: „Der Kampf um die Deutungshoheit beginnt“ – mit US-Expertin Sarah Wagner",
@@ -1674,6 +1890,18 @@
    "link": "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
    "quelle": "FAZ",
    "zeit": "2026-11-21T07:21:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "f24c66b70e77d72b",
+   "k": "nrw",
+   "titel": "Krankenhausplan NRW: Kooperation statt Konkurrenz - Deutsches Ärzteblatt",
+   "t": "In NRW wird der Krankenhausplan mit Schwerpunkt auf Kooperation statt Konkurrenz zwischen Kliniken diskutiert.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGJ0UTVvdDltci1JdDZ2MVFmRnBYM2lCaDlvYXJsOG1CNlJuMTlhOF83RXc3Z002V1NFbEkyc2F0RzJzRDdRM1lkdTRhc3hkSjNOMEtUNE5oTmF5eFRzcGE4LXFsOXVxZEhHc1pwXzh2UzczYU1nRUo0ZUVJVVhPOWFoY2FTWDhCOW5Sc25EYXY2d2NBdTdSQ201M2N4Ymc3RU12a2VKVFNSRm9SYXoxU291QW9KRlk1TGVR?oc=5",
+   "quelle": "Deutsches Ärzteblatt",
+   "zeit": "2026-11-21T07:17:24+00:00",
    "tag": null
   },
   {
@@ -2217,6 +2445,18 @@
    "tag": null
   },
   {
+   "id": "ce01f6417de44ab3",
+   "k": "finanzen",
+   "titel": "Trump blasts Federal Reserve as 'political,' urges it to lower interest rates - Just The News",
+   "t": "US-Präsident Trump kritisiert die Federal Reserve als politisch und fordert Zinssenkungen.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2FQVXZpa2dSRnRzY1RRM2tlanNUUkQyMHowZGxFWXdjV25XOTJMQ2pBeVBlVUNtRXEwS3c3TUxqYXJNT1NBbkltV3dNTVFPZHZVSUd2eVhzeTJBdC1Wc3gzSlNiMHpwMnA2eG4xOGtiMGNGUG5KZVExempzOU5lWGpOMDRMRnF6bXRVcTZWak9uSHVLMjRYT19yeTVpYnZaMEhRQ0lMUUR3ZDFTdWJvcy1QQTNzaU5lYTQ4?oc=5",
+   "quelle": "Just The News",
+   "zeit": "2026-11-21T00:55:07+00:00",
+   "tag": null
+  },
+  {
    "id": "181fb8abbcc11e1b",
    "k": "deutschland",
    "titel": "Demonstrationen: Festnahmen und fliegende Flaschen nach Jugendprotesten",
@@ -2274,6 +2514,18 @@
    "link": "https://www.welt.de/politik/deutschland/article6b0072f75842ff528b9e2109/philipp-tuermer-juso-chef-stellt-bedingungen-an-die-neue-spd-spitze-und-empfiehlt-klassenkampf.html",
    "quelle": "Welt",
    "zeit": "2026-11-20T23:22:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "2cb7245b5f5bbc28",
+   "k": "finanzen",
+   "titel": "Fed officials sound alarm over AI boom's growing inflation risks - KOKI FOX 23",
+   "t": "Fed-Vertreter warnen laut Bericht, dass der KI-Boom die Inflationsrisiken erhöhen könnte.",
+   "e": "Die Warnung ist relevant, weil die Fed ihre Zinsentscheidungen stark an Inflationsdaten ausrichtet.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUEhNN3NaU01Yb1lrYkplRGNRUXpLNTItVkRGVHU3aXRSWGJaSmFfQUpaY1JOamN2Yk5ud2pwWnRqZ2l5WFRna2I5aXZFR0t1dGNlc0tkMWliYzY3VFRMN2FCZ1ZlT1NpZzNJNnVzYTliMy1nSlRjRlYzSklnM1lIR0pJQmRtVnJNR0psQ19uRzRmSUNDNU5kYnRIX2JIa1E5TkFWR1lMbFpqbkxGV0VCMWtyY003VmJTSzRrNGNjbTdHZjNMb1ZJZ2JTVDBEV2FxUUZ4MWVfcWF3QTh5MHlVUmU2UlZRaG81T1d6REJnVkp2dU5fTHlTeHR3?oc=5",
+   "quelle": "KOKI FOX 23",
+   "zeit": "2026-11-20T22:56:03+00:00",
    "tag": null
   },
   {
@@ -2601,6 +2853,18 @@
    "tag": null
   },
   {
+   "id": "6893c528497ba685",
+   "k": "finanzen",
+   "titel": "Gold Kurs nahe 3.560 $ nach 14-Monats-Tief bei 99% Wahrscheinlichkeit für Fed-Zinserhöhung - FinanceFeeds",
+   "t": "Der Goldpreis liegt nahe 3.560 Dollar und damit auf einem Tief seit 14 Monaten. Marktteilnehmer rechnen laut Bericht mit einer hohen Wahrscheinlichkeit für eine Zinserhöhung der Fed.",
+   "e": "Steigende Zinsen machen zinslose Anlagen wie Gold tendenziell weniger attraktiv, da der Dollar an Stärke gewinnt.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlhqd3g2SkZaTG5paXZUdF8xTFBFUUJpMkYzcjg0QnMwTkVzODRhNmhDQlliLVltSDdfakZQc2oxUmdfZHpCdFUzYTFpdHJLZTdPdTJSOERYQlZScklhN2FxeVhSUGNCNGkxSUNKTmxLWUxURkx5THF2bC1odUMxX0RCX3J6bERnVGFwUGlMUQ?oc=5",
+   "quelle": "FinanceFeeds",
+   "zeit": "2026-11-20T20:35:29+00:00",
+   "tag": null
+  },
+  {
    "id": "6890daae8a466e4c",
    "k": "nrw",
    "titel": "Attendorn (Nordrhein-Westfalen): Skorpion in Supermarkt entdeckt, Feuerwehr muss anrücken - RTL.de",
@@ -2815,270 +3079,6 @@
    "quelle": "STERN.de",
    "zeit": "2026-11-20T19:46:51+00:00",
    "tag": null
-  },
-  {
-   "id": "3dd31bb6fcbb1807",
-   "k": "finanzen",
-   "titel": "Fed officials sound alarm over AI boom's growing inflation risks - KBOI",
-   "t": "Fed-Vertreter warnen, der KI-Boom könnte die Inflationsrisiken erhöhen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSG81ZVhLckxfd3dvZEJUTEdYbWpCVWZzRkNUeWhTTU1FN0tUeEdMTHViQVdrT2ZaS1VwTW1XWjNiSWhFMWFaN1lUdm9OOXN5N093ZGZCdGRjdVpUVGYxbnZWVVhJQllMRVhxTHBHS2dMdXRHTDN5V0wyNzBOMTRrME1rVVBhZmdQemdhVWZkLVlnQ2EwQ2pMWm9Jbk9IUEowYmlqOXltdjZNeUVMazZHMkhtQ3J2bVZTZFp5MkMxNVI5Z1psbHFIeHpkeGlENkdZN29xMVYyX0hiSU9IR1VCNnd2MGVwbHJFMFpyRm9qRFkwV3REbEJ1T0Vabm1UVEU?oc=5",
-   "quelle": "KBOI",
-   "zeit": "2026-11-20T19:42:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "d3af850eedc4f31d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Schüsse auf Geschäfte in Ostwestfalen: 13-Jähriger stellt sich der Polizei - tagesschau.de",
-   "t": "In Ostwestfalen wurden auf Geschäfte geschossen. Ein 13-Jähriger hat sich der Polizei gestellt und steht unter Tatverdacht.",
-   "e": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0xpZzZfM2Q2UG1vaEJSazhiU3lCbHlHYkxLZ3l4S3BubFUtOXVObUJaWjlfRTJHSkU3QW1fTmFldEhFTjJoQjNWWHFmbTIzUXg1YmF4RDFfZzI4SndNTXdmVmNyZ0R0ZTdKd2FpaUpKUXRYSkw4aEszYlZhX3kyYjg1YUxzLXVJWm95X0ZiNXNWTDlmaG9rZjZNY2psMlhJMFZpdkZVOWU2S3ZoR1ZxeG1KZ2xfRnI1RWV2SzRtZHhMYVk?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-20T19:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d96501d7f2ec9354",
-   "k": "finanzen",
-   "titel": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-   "t": "Der verpackte Monero-Token Wrapped Monero ist um 99,8 Prozent eingebrochen. Der Betreiber nennt einen Sicherheitsvorfall, Analysen verfolgen verdächtige Verkäufe im Umfang von rund 13,5 Millionen US-Dollar.",
-   "e": "",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-20T19:37:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "0638aaa39ceb549f",
-   "k": "welt",
-   "titel": "Tote bei russischen Angriffen auf Brücken in Kiew",
-   "t": "Bei russischen Angriffen auf Brücken in Kiew sind Menschen ums Leben gekommen.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687278.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T19:34:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "8602b9b6d315e61b",
-   "k": "welt",
-   "titel": "EU und Großbritannien wollen sich wieder annähern",
-   "t": "EU und Großbritannien wollen sich wieder annähern.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687276.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T19:33:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e666e121eea3e00a",
-   "k": "finanzen",
-   "titel": "A massive bearish trade just happened in the chip stocks",
-   "t": "Optionshändler setzen auf größere Verluste bei Chipwerten, die Wetten auf fallende Kurse sind laut CNBC stark gestiegen.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-20T19:33:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "95e160e58ad15c0b",
-   "k": "finanzen",
-   "titel": "Trump will Nvidia-Chef zurückholen: Huang soll sich entschuldigen - Ruhr Nachrichten",
-   "t": "Trump fordert, dass Nvidia-Chef Jensen Huang zurückkehrt und sich entschuldigt. Huang ist laut Unternehmen nicht mehr Chef des Konzerns.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTJkQUt4Ni1WY2lwa2ZIUVpRSFVQaTNoRjJjQkVZUndQeWVFT21EX0dNSWYxUDYweksyS3lIaWppbUhkZ0FqYlA0TjN0Rkl5QXhVSHVKdUdOc2YwTGV6V2FYcE82U2gxZlRYdUJueHVYYkxHUTRhMVRxMnEyTENxMDV1ei1GZHVNZUdUV2RNSlpLdjlqUTNzajZTbkRXTERXTUMtczQydjYxSUVqeDlLRThnam9XOGZnTlNaMWVQcFE1YkxSSnBIX1FhUnExcVlnQ3JPd1J0bm5QOFJUaXpkeWx6WFdqRXNodGlHYlNR?oc=5",
-   "quelle": "Ruhr Nachrichten",
-   "zeit": "2026-11-20T19:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "13c8c8bc0df095dd",
-   "k": "finanzen",
-   "titel": "Die teuerste Wette aller Zeiten",
-   "t": "Nach dem Börsengang von Anthropic gilt das Unternehmen als einer der wertvollsten Konzerne der Welt, nur sechs Jahre nach der Gründung.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6b0064ca39a3e8110f0e4509/kuenstliche-intelligenz-die-teuerste-wette-aller-zeiten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T19:28:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "1b794cd4a655444d",
-   "k": "nrw",
-   "titel": "Modernisierung der Eissporthalle: Diesen Weg sieht Bürgermeister Michael Joithe - IKZ-Online",
-   "t": "In Iserlohn wird über die Modernisierung der Eissporthalle diskutiert. Bürgermeister Michael Joithe hat einen möglichen Weg vorgestellt.",
-   "e": "Die Entscheidung betrifft die städtische Infrastruktur und die Haushaltsplanung der Stadt.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSEQ1dzVsbC1COEdZMENDeUFYWHlWamJZdFdiS3JkR1g3bGpMWm5ia0sxUGMxM0dzeHo5UjF1dVZDcjVMSWhkeEV6X0tuZERGcDZwV1gxOFB1eENtVS1MZ3E0dml1X3d3NmZEX0ROZ2h2WGZrcVhWRWtzWVVuaFJTX1pVMWlkNm5acEpHcWZVZ2FseGlEbkxBN0NaSkJ6RUw5TEphNl9jdEUweXcxNGI3M2FYemxxUWRMQnl1MkIzLWsySnA5SXhVa085WnhfbUxQR3RsRzgyRFBFNlJwOUx0REdDejRkdlZpYXA0WWpIT2JhN2V0NkxDR2wzbms?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-20T19:27:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "ca302266b04999dc",
-   "k": "usa",
-   "titel": "Trump accuses the Federal Reserve of being very politicized and attacks high interest rates - Demócrata",
-   "t": "Trump wirft der US-Notenbank Fed eine stark politisierte Haltung vor und kritisiert die hohen Leitzinsen.",
-   "e": "Der Konflikt um die Unabhängigkeit der Fed berührt die Zinserwartungen an den Märkten und die Glaubwürdigkeit der Geldpolitik.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVlsYk9UY3g4RUNPdzlHREU5ZUJ4bDFpeVJvODU5MXhyVUd1TURxNjJna2s2NVZsQ0EyUC1iMHhyNTlfZUVJVUJPdEdXMHdmc0V0YUlnemRnQmsyanRmc0hpSTVpUWgwbXp1ei1NaXplNFVaSVFwOXVZeHkxck8tNXVWbHRXSGNFWkJ2U2ZfbjAtS0kyNGdkNXQ2aFBkcE5pZVpDalhvZHkxeGFaME5MaGgxd3dVa3B5Ti1NVGFOS2hPeVlKRDRN0gHMAUFVX3lxTE03QVcwLVZsaEtDT200Tm5fMkI4aVFySGpsZTVCOWFuRGZGX3NXaEg1T0IxeUUyU1JZbm1Wb2pwbE1SQm5yb29vSXZSRDRaendndHdjSEdZRl9UZy1YQVJ5My1LZUl2b1RJZ0JaVlJ1UUFDQlpZNkdYZnBMaHBfbDdYZl8xcEhMaXN3bHNJRF80aFFPU0U1OE5MSjN4dGpNU09fTlZnMGVBYlgzVFNTZTZFdGdLYlhRZ216ZnFWWHZ5VjBJSjBab0tRVy1vTQ?oc=5",
-   "quelle": "Demócrata",
-   "zeit": "2026-11-20T19:26:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "ea776263caf7aaab",
-   "k": "usa",
-   "titel": "Iran has been ‘bullsh–ting people for 51 years,’ wants ‘fake deal’ to end war, Trump says",
-   "t": "Trump sagt, der Iran wolle einen Deal, der für ihn nicht akzeptabel sei, und bezeichnet die iranische Seite als unehrlich. Er spricht von einem möglichen Ende des Krieges.",
-   "e": "Die Verhandlungen mit Iran sind ein zentraler Faktor für Ölpreise und die geopolitische Lage im Nahen Osten.",
-   "s": 7,
-   "link": "https://nypost.com/2026/11/20/us-news/iran-wants-fake-deal-to-end-war-has-been-bullsh-ting-people-for-51-years-trump/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-20T19:25:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "99ec3807da358ed0",
-   "k": "welt",
-   "titel": "Rubio verteidigt Dreiertreffen von Trump, Xi und Putin gegen Kritik - upday News",
-   "t": "US-Außenminister Rubio verteidigt ein mögliches Dreiertreffen von Trump, Xi und Putin gegen Kritik.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVNYUUhPem9JcThfYWJHY3dNQkpzWFV4UjdCXzZ4aTRnRmRKaXdvZDJfanA3aFJzMmJ6TXFqZzIxNFBYLXphSE9TbUFnRzMzZUtnaUJfVWRBY1VkcU5pR3NZS0d5OW04ZzJ0Zmllekt3MG5xMDFhcUVMSVV0MVN1dEk3YlZvUUl0NW0tZE9WVXdJVFFGb1ByX2toWW5jUXNWcFNNd1FnUm0wWHlTNi1TZFZR?oc=5",
-   "quelle": "upday News",
-   "zeit": "2026-11-20T19:25:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "a861642f8a810b40",
-   "k": "usa",
-   "titel": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
-   "t": "Sechs Tage lang gab es Ausfälle bei Microsoft 365, Banken und dem NSA-Netz. Experten warnen, dass die Störungen mehr als Zufall sein könnten.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/tech-outage-cascade-exposes-us-vulnerabilities-foreign-cyber-threats",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-20T19:23:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "b104ef53c26403a0",
-   "k": "finanzen",
-   "titel": "EZB-Chefin Lagarde: Europa handelt bei Krisen oft zu spät - Aachener Zeitung",
-   "t": "EZB-Chefin Christine Lagarde kritisiert, dass Europa bei Krisen oft zu spät handelt.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazZoMFMyd05NOVJwTHRzMXo2SDVSeURKOUpBck9tTE5QWi1pa1dyVTFoMl9kRVFhR3puVUtoSmZsbnpXUXdmOE03VUxRMVJBckV0aVJ6a1JHNU5HZVBzUVdMMGpHU1B6NllDMTRnMm9QOWtpcDdaN040U3VlU0ZrQ2VBS1JyMDhOYm02aWt6R29vWTllQnM3Y0RhNGpFYmw1MkxuTHNFY0dON2RUYW5ucW5XLWdTQQ?oc=5",
-   "quelle": "Aachener Zeitung",
-   "zeit": "2026-11-20T19:21:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "927f501a24106082",
-   "k": "usa",
-   "titel": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
-   "t": "US-Präsident Trump warnt US-Konzerne davor, KI-Rechenzentren im Ausland zu bauen, und droht mit „enormen Strafen“. Er will den Bau von Rechenzentren ausschließlich im Inland.",
-   "e": "Der Streit um Rechenzentren ist nach der Kongresswahl politisch brisant, weil die Demokraten strengere Regeln fordern und sich Teile der Bevölkerung gegen die Anlagen wenden.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T19:15:12+00:00",
-   "tag": null
-  },
-  {
-   "id": "0586a1d12731e725",
-   "k": "deutschland",
-   "titel": "Notfallversorgung: Linnemanns erster Erfolg",
-   "t": "Die Notfallreform von Gesundheitsminister Linnemann wurde im Kompromiss beschlossen, nach eigener Einschätzung ein erster Erfolg.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/carsten-linnemann-und-die-notfallreform-sein-erster-grosser-erfolg-201702519.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-20T19:06:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "4547f3f71090d291",
-   "k": "deutschland",
-   "titel": "„Meine Geduld ist langsam am Ende“, sagt Rhein über die Bundesregierung",
-   "t": "Hessens Ministerpräsident Boris Rhein erhöht den Druck auf die Bundesregierung und sagt, seine Geduld sei am Ende.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T19:06:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "2ccc13aec32d18b4",
-   "k": "nrw",
-   "titel": "Grüne in NRW: Zwischen grün pur und pragmatischem Regieren - FAZ",
-   "t": "Die Grünen in NRW suchen zwischen einer klar grünen Linie und pragmatischem Regieren ihren Kurs.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdKc1JrWXhtalpJTF9JNlozcGxHMVNsSnNLbnRoX0w3MEJxdC15ZG1lZmdtVk9xWjNNWlpiRkg2OGRoMXVnTlZVbXNENGh1a2RDMENuRTdWYktybVFtZ2JSMElMQjJ5V2tZclZEaF9tbk9hWnROR2otYmxGS3hnZ1ZQQ3lIWGtpdHhRc25fdldkM3R4eTB3cE5wd0oxdVhJUWhVMzJJQ3pldndQMEc1QzMtdlZEdnpz?oc=5",
-   "quelle": "FAZ",
-   "zeit": "2026-11-20T19:05:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "76663192054c88ec",
-   "k": "welt",
-   "titel": "„Hm, wo ist Europa?“, fragt Medwedew – Russland feiert Dreiergipfel",
-   "t": "Russische Staatsmedien feiern das Dreiergipfeltreffen von Putin, Trump und Xi als Beginn einer neuen Weltordnung. Europa spielt dabei aus russischer Sicht nur eine Zuschauerrolle.",
-   "e": "Die Inszenierung zeigt, dass Moskau die Machtverhältnisse zwischen USA, China und Russland neu gewichtet sieht.",
-   "s": 6,
-   "link": "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T18:56:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "74b26f668e90a498",
-   "k": "usa",
-   "titel": "Künstliche Intelligenz: Trump droht US-Firmen wegen Rechenzentren im Ausland - Lausitzer Rundschau",
-   "t": "Trump droht US-Unternehmen, die Rechenzentren im Ausland betreiben, mit Konsequenzen im Bereich Künstliche Intelligenz.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUndfdzdaak9aeENuTWlWLVVUODBxLU9JdVBIV3NFOXVORXA1dzVyTU1YRXI2YkFJRUtyelVVZkZyd01XdEtsbW9XcTgwcDh4U25XdW9sX3RNU1QtQjV4UC1wcERPMVZySDdySTdpVFBxV3BXWjAzaGpDVzBPQjZEQzUtTFktalZTcmdzTHFkOVAtUHlxTWM4dFVlTTNqWHRNSmxrSTlvMEYxaklsc3JKd3BERDA5NVM4RHlPc01GUUxOalFaZUYyVjk4eGdWMHdf?oc=5",
-   "quelle": "Lausitzer Rundschau",
-   "zeit": "2026-11-20T18:56:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "a52b2b09c981f946",
-   "k": "finanzen",
-   "titel": "Cooks Einschätzung bei der Fed: Wachsende Dringlichkeit im Kampf gegen die Inflation - MarketScreener Schweiz",
-   "t": "Fed-Gouverneurin Cook sieht eine wachsende Dringlichkeit im Kampf gegen die Inflation.",
-   "e": "Die Aussage deutet darauf hin, dass die Notenbank die Inflationsbekämpfung stärker gewichtet als zuvor.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdkt3QzYzV1gtMG1xZFlHalF0REdwdy01SkRCNHhaWXhRUUt5UTVGcVc2VEZTUWdoenVGNHhtT1BQNm5uckNGRTlfOHVDZnRXdzV5UXBYVGJqQWpObkhkTEFVTnAtdW9hZzRtOFhMcnNSM094RXp6dEZoQXJ2ZUl5WU5fNTR0QlJ5a3p3WjFEM1NZVVdmRVV1cUVCNnEtQno1N1c0TTFwbDAwREZlLS16Sy1Ua2FoUmVIZjFFZHloN3BWSUMxcTV3X1NpLUdGUkgybEw0ZmhyaEExUlZxYmRYX2dQaG0?oc=5",
-   "quelle": "MarketScreener Schweiz",
-   "zeit": "2026-11-20T18:56:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "3539213de1c35cf3",
-   "k": "finanzen",
-   "titel": "Abschied vom billigen Geld: Fed und EZB: Der Zins-Albtraum für Anleger könnte bis mindestens 2031 dauern - FinanzNachrichten.de",
-   "t": "Eine Analyse von FinanzNachrichten.de sieht einen Zins-Albtraum für Anleger, der bis mindestens 2031 andauern könnte. Es geht um die Zinspolitik von Fed und EZB.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZWJpOUtOZjBNRHNqM1NZdnRoZ281SGZmOGJvTzRHODQ5TG9MVmNyYUVRNmh3aWNibHByTU1PZEMwLW1obVhYUnc1Zk1VcDRpV29FMURLWVR5c1RmTzhjc3Z6X2d2bW5iVVFaSm5aWmRXenVPX1QzY2N2Z3MyMlJ0U3VBbGxrT0tsRXp2S1o4bmFOek50NURyM1Vub2JMZUxlMlI5N3I0RlR5OTMycTBXSnVYRGVvWm9YNEN0WHF6alRmUEdxdlJocXdJRGRCN1hIY2x6NWxCNVRMTzVpQ1Q1ek1kYWxzbFFvQ2hrUjRpOGFMYkM5MEZMWGE4ZG5wRlBvQ3J3Sw?oc=5",
-   "quelle": "FinanzNachrichten.de",
-   "zeit": "2026-11-20T18:53:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3111,17 +3111,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 27
+    "n": 24
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -3141,7 +3141,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "CNBC Finance",
@@ -3156,7 +3156,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 24
    },
    {
     "name": "WSJ USA",
@@ -3181,17 +3181,17 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 26
+    "n": 23
    },
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 23
+    "n": 20
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Google News NRW",
@@ -3201,17 +3201,17 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 40
+    "n": 31
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 33
    }
   ],
   "markt": [],
