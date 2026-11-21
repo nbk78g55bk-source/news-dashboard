@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-20T23:01:27.652396+00:00",
+ "aktualisiert": "2026-11-21T01:01:23.276098+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.034 $",
-   "delta": -4.977587770753563
+   "wert": "58.951 $",
+   "delta": -5.007340220660912
   },
   {
    "name": "Ethereum",
-   "wert": "1.619 $",
-   "delta": -7.950947413963999
+   "wert": "1.621 $",
+   "delta": -7.630647423573424
   },
   {
    "name": "Gold",
@@ -84,6 +84,54 @@
   ]
  },
  "items": [
+  {
+   "id": "181fb8abbcc11e1b",
+   "k": "deutschland",
+   "titel": "Demonstrationen: Festnahmen und fliegende Flaschen nach Jugendprotesten",
+   "t": "Nach den Jugendprotesten „Gen Z regelt“ kam es in mehreren Städten zu vereinzelten Festnahmen und Zusammenstößen mit der Polizei. Die Demonstrationen selbst verliefen überwiegend friedlich.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-festnahmen-und-fliegende-flaschen-nach-jugendprotesten/100271691.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-21T00:34:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "e2f7c68f04a08020",
+   "k": "welt",
+   "titel": "Umwelt: Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
+   "t": "Die EU verbietet die Ausfuhr von Plastikmüll in zahlreiche Länder. Es gelten damit strengere Regeln für den Export von Abfällen.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/deutschland/umwelt-ausfuhrstopp-fuer-plastikmuell-aus-der-eu-in-viele-laender/100271688.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-21T00:00:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "a0638054b46012b9",
+   "k": "usa",
+   "titel": "Texas Gov-elect Gina Hinojosa vows to rescind Abbott's H-1B visa restrictions despite admitting program abuse",
+   "t": "Die designierte Gouverneurin von Texas, Gina Hinojosa, kündigt an, Gouverneur Abbotts Einstellungsstopp für H-1B-Visa am ersten Tag aufzuheben. Sie räumt zugleich Missbrauch des Programms durch Unternehmen ein.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-20T23:37:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "13276223fb87330a",
+   "k": "deutschland",
+   "titel": "Juso-Chef stellt Bedingungen an die neue SPD-Spitze – und empfiehlt „Klassenkampf“",
+   "t": "Juso-Chef Philipp Türmer stellt Bedingungen an die künftige SPD-Spitze und fordert einen stärker linken Kurs.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6b0072f75842ff528b9e2109/philipp-tuermer-juso-chef-stellt-bedingungen-an-die-neue-spd-spitze-und-empfiehlt-klassenkampf.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-20T23:22:47+00:00",
+   "tag": null
+  },
   {
    "id": "28d9ad4767c15468",
    "k": "finanzen",
@@ -253,6 +301,18 @@
    "tag": null
   },
   {
+   "id": "0ef73b5e428b9bdb",
+   "k": "finanzen",
+   "titel": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
+   "t": "Die US-Börsenaufsicht SEC prüft laut Medienberichten die Bilanzierung von Nvidia sowie mutmaßlichen Chipschmuggel nach China. Die Aktie gab daraufhin weiter nach.",
+   "e": "Nvidia ist als größter Chipwert stark gewichtet im S&P 500 und Nasdaq, daher wirken Untersuchungen dort auf die gesamte KI-Branche.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T21:30:36+00:00",
+   "tag": null
+  },
+  {
    "id": "1c12ba10b1a43cbe",
    "k": "usa",
    "titel": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
@@ -298,6 +358,42 @@
    "link": "https://www.tagesschau.de/tagesthemen/video-1687376.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-20T21:17:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "ffbc314786c9501c",
+   "k": "welt",
+   "titel": "Klimakonferenz geht in Verlängerung - gemeinsame Abschlusserklärung wird zur Herausforderung",
+   "t": "Die Weltklimakonferenz COP31 verlängert sich, weil sich die Teilnehmer nicht auf eine gemeinsame Abschlusserklärung einigen können.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1687372.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-20T21:12:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "ea8c21b2d79853ce",
+   "k": "welt",
+   "titel": "Übungsmanöver der \"Koalition der Willigen\" in Polen",
+   "t": "Die „Koalition der Willigen“ führt ein Übungsmanöver in Polen durch.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1687358.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-20T21:06:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "04538d796a8a3e8a",
+   "k": "welt",
+   "titel": "Britischer Premier Burnham in Brüssel - der Versuch einer EU-Annäherung",
+   "t": "Der britische Premierminister Burnham besucht Brüssel, um die Beziehungen zur EU wieder näher zu gestalten.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1687350.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-20T21:02:02+00:00",
    "tag": null
   },
   {
@@ -649,6 +745,18 @@
    "tag": null
   },
   {
+   "id": "927f501a24106082",
+   "k": "usa",
+   "titel": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
+   "t": "US-Präsident Trump warnt US-Konzerne davor, KI-Rechenzentren im Ausland zu bauen, und droht mit „enormen Strafen“. Er will den Bau von Rechenzentren ausschließlich im Inland.",
+   "e": "Der Streit um Rechenzentren ist nach der Kongresswahl politisch brisant, weil die Demokraten strengere Regeln fordern und sich Teile der Bevölkerung gegen die Anlagen wenden.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T19:15:12+00:00",
+   "tag": null
+  },
+  {
    "id": "0586a1d12731e725",
    "k": "deutschland",
    "titel": "Notfallversorgung: Linnemanns erster Erfolg",
@@ -961,6 +1069,18 @@
    "tag": null
   },
   {
+   "id": "80103e234d432bf3",
+   "k": "finanzen",
+   "titel": "Trump: Zinssätze sind zu hoch, weil die Fed 'politisch' ist - MarketScreener Deutschland",
+   "t": "US-Präsident Trump kritisiert die hohen Zinsen und begründet dies damit, dass die Fed „politisch“ sei.",
+   "e": "Die öffentliche Kritik aus dem Weißen Haus an der unabhängigen Notenbank setzt die Fed unter politischen Druck, während Zinsentscheidungen anstehen.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDlfaUFQUW1YVnhmbmRQOFRBYW9pdTdObU9uRTRBVnlQY3FraVVrRURuSVlyeUJ2cFA5cFpjVFJ6Mi0tX2w2dk5fRGw5aDBCRkR1QjRyLU9pZDZGLWdCTDQ0UzRYSVQ0SmUtMjdPRXg3cU83Z3dWMVZyTlZVM3RMQjJURWdrT29JXzBoOVRwNWxRTlRfWExoMjVCVmJjVi1Dd2MxVlZsVEN4YkRKZnExN1IwRDNIQ1l5WV9vVTB1Yw?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-20T17:39:28+00:00",
+   "tag": null
+  },
+  {
    "id": "1debac403b544b00",
    "k": "deutschland",
    "titel": "„Wir sind auf dem absoluten Holzweg. Das haben wir unter anderem Trittin und Habeck zu verdanken“",
@@ -1021,6 +1141,42 @@
    "tag": null
   },
   {
+   "id": "c76966e7765fe909",
+   "k": "finanzen",
+   "titel": "Michigan-Verbraucherstimmung: Endwert 51,5, Inflationserwartung auf 3,7 Prozent gesunken – entlastet das den S&P 500 vor dem Fed-Zinsschritt? - AktienCheck.de",
+   "t": "Das Verbrauchervertrauen der Universität Michigan liegt bei 51,5 Punkten. Die erwartete Inflation sank auf 3,7 Prozent.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXRIQUpQeHZyQTNUeUViNmhoY3VNRFVweGpMY3pMN1p1OG5VNkdKcnptV2JSWEl3R2M2UGJZN0k0V0NCTzItZkVfUFhZMjdld3h5OGstVFhEcTlIeHFBNEg3WkxaS0FpWUtxU193YUhQOVlXcFNBY3p6cV9wdnlkeHR4U3plVGdtaWU0a3ZaY1ZXZXR2TDgzem0xS1cydDdEUUpBWFFDcFZiZw?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-20T17:24:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "1a2a661b33ea85d8",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Trump fordert wohl von Kiew Frieden mit Russland bis Anfang Januar",
+   "t": "Trump fordert laut Berichten von Kiew einen Frieden mit Russland bis Anfang Januar. Ohne Abkommen soll es keine US-Sicherheitsgarantien für die Ukraine geben.",
+   "e": "Ein Ultimatum mit Frist zum Jahresbeginn setzt Kiew und Europa unter Zeitdruck, da die Ukraine ohne US-Garantien schwerer abgesichert wäre.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-trump-fordert-wohl-von-kiew-frieden-mit-russland-bis-anfang-januar/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T17:24:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b3bb3ce19a9d2502",
+   "k": "welt",
+   "titel": "Liveblog Ukrainekrieg: Dänemark: Moskau wollte ukrainischen Rapper töten",
+   "t": "Eine Marschflugkörper ist in Polen abgestürzt. Verteidigungsminister Kosiński spricht von einer „Provokation“.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-soll-anschlag-auf-ukrainischen-rapper-in-daenemark-geplant-haben-faz-110683325.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-20T17:22:35+00:00",
+   "tag": null
+  },
+  {
    "id": "5426bd802c284cae",
    "k": "usa",
    "titel": "USA: Trump-Regierung vergibt erstmals Lizenzen für Tiefseebergbau - T-Online",
@@ -1057,6 +1213,18 @@
    "tag": null
   },
   {
+   "id": "e949fd23faf2bd2a",
+   "k": "welt",
+   "titel": "Jahrtausend-Problem: Anthropic-Forscher will Riemannsche Vermutung bewiesen haben",
+   "t": "Ein Mathematiker von Anthropic behauptet, die Riemannsche Vermutung bewiesen zu haben. Eine erste computergestützte Prüfung stützt diese Aussage.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/wissen/computer-mathematik/riemannsche-vermutung-hat-anthropic-das-jahrtausendproblem-geloest-201703196.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-20T17:14:28+00:00",
+   "tag": null
+  },
+  {
    "id": "2059e04292265083",
    "k": "nrw",
    "titel": "Nordrhein-Westfalen: So geht's weiter - ein Jahr nach Brand in Schloss Hardenberg - n-tv.de",
@@ -1081,6 +1249,30 @@
    "tag": null
   },
   {
+   "id": "a793d1d57df21df5",
+   "k": "finanzen",
+   "titel": "US-BIP im 4. Quartal: Nowcast-Schätzung der St.-Louis-Fed bei 2,046 % Wachstum gegenüber zuvor 1,805 - MarketScreener Deutschland",
+   "t": "Die St. Louis Fed schätzt das US-Wirtschaftswachstum im 4. Quartal auf 2,046 Prozent. Im Vorquartal lag es bei 1,805 Prozent.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjJuNFVKdDFIUjduRVMtc2RRdEZ3TEhOTWFaWUg1cC1yUGZ1QkpLeGtNQ0F5U2VIN2NkLUxud2hvY19tcDBlQkRwY3o0Zl9fcmp5b0hOOXpXMVdnWjZDUG1rbFJXVUZTR2xWMXN2MWtZTG1Bd0Z5S2tXQ1lzdzRJSjFGanVZLS1nM3prS0ZHMnlWblJHdlVmbkdIZVhUY3ZHXy0zSWh1U25ISjVOX2U2OTRqVy1kYTRESjVrcGhaU0xoN2FJY0dNRHhkeTQ2R0htZTc2RnpEcC1abGRxZnI1NnlfVHoyd3RsYVNfSXlWeUxZV2FtUGc?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-20T17:07:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "474f6b8afb8f4904",
+   "k": "deutschland",
+   "titel": "„In vielen Milieus findet die CDU nicht mehr statt“ – Kramp-Karrenbauer empfiehlt Öffnung der Partei",
+   "t": "Ex-CDU-Chefin Annegret Kramp-Karrenbauer sieht ihre Partei vor existenziellen Herausforderungen und empfiehlt eine Öffnung.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6b005f0a5842ff528b9e1e9a/in-vielen-milieus-findet-die-cdu-nicht-mehr-statt-kramp-karrenbauer-empfiehlt-oeffnung-ihrer-partei.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-20T17:01:30+00:00",
+   "tag": null
+  },
+  {
    "id": "17b8ea296a35943a",
    "k": "usa",
    "titel": "US-Politik aktuell: Republikaner lassen Trump im Stich – Kongress-Abgeordnete verweigern die Arbeit - News.de",
@@ -1102,6 +1294,18 @@
    "link": "https://www.nzz.ch/international/nato-ostflanke-russische-marschflugkoerper-schlagen-in-polen-ein-ld.10070169",
    "quelle": "NZZ",
    "zeit": "2026-11-20T16:58:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "b7ea677693dabb30",
+   "k": "finanzen",
+   "titel": "Der Deutsche Markus Brunnermeier und die Französin Boone als Kandidaten für EZB-Direktorium nominiert - MarketScreener Deutschland",
+   "t": "Der Deutsche Markus Brunnermeier und die Französin Boone wurden als Kandidaten für das EZB-Direktorium nominiert.",
+   "e": "Die Besetzung des EZB-Direktoriums bestimmt mit, wie sich die Geldpolitik im Euroraum in den kommenden Jahren entwickelt.",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV3hsa2RoR3pKa0FTcmQ5ZGpyWHZDUmRRVk5HVkZkV1FtMVJXWm9XcGxjUGVSNmNDeHF4SXBGTFpYQXVNMUFGSnNHc2hWZWU0ZEpfeTF2THA1dm5EWUNWRldpRmNLRXZ1RE5yNzJJaUhYTmVGN0k4VnQtRHRlSGNTdlpXNGhFMWdacU5BREFDd3RxaXR5TEpDMUlZLVVFQTA0cWJxM0Z6azl6WFlOUlNYRXZnSHdsSWtuWFlleXJra1dqWDE1bGJ0d0s3T2N0RjhnNmtmdXI2WEtmWU9hck1udGEzaC1pVzA4TmhOMFZpZXRqVklxbmpFVWVNRng?oc=5",
+   "quelle": "MarketScreener Deutschland",
+   "zeit": "2026-11-20T16:57:20+00:00",
    "tag": null
   },
   {
@@ -1172,6 +1376,18 @@
    "e": "Die Investitionszusage ist eine der größeren ausländischen Zusagen dieses Jahres für den Standort Deutschland.",
    "s": 6,
    "link": "https://www.handelsblatt.com/politik/deutschland/zusammenarbeit-mit-golfstaaten-katar-will-15-milliarden-in-deutschland-investieren/100271648.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T16:47:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "47b382acce72ea03",
+   "k": "deutschland",
+   "titel": "Golfstaaten-Abkommen: Katar will 15 Milliarden in Deutschland investieren",
+   "t": "Der Emir von Katar sagt bei seinem Staatsbesuch in Deutschland Investitionen in Höhe von 15 Milliarden Euro zu. Bundeskanzler Merz begrüßt das Vorhaben.",
+   "e": "Die Summe ist erheblich und betrifft die deutsche Investitionslandschaft, zudem belegt sie die engeren wirtschaftlichen Beziehungen zu den Golfstaaten.",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/politik/deutschland/golfstaaten-abkommen-katar-will-15-milliarden-in-deutschland-investieren/100271648.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-20T16:47:38+00:00",
    "tag": null
@@ -1309,6 +1525,18 @@
    "tag": null
   },
   {
+   "id": "36ec10581ec5bad6",
+   "k": "deutschland",
+   "titel": "Syphilis-Fälle in Deutschland verzeichnen neuen Rekord – höchste Zahlen in Berlin und Hamburg",
+   "t": "Die Zahl der Syphilis-Fälle in Deutschland hat einen neuen Rekord erreicht. Besonders hohe Werte gibt es in Berlin und Hamburg.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.welt.de/gesundheit/article6b0063fe39a3e8110f0e44e4/syphilis-faelle-in-deutschland-verzeichnen-neuen-rekord-hoechste-zahlen-in-berlin-und-hamburg.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-20T16:23:52+00:00",
+   "tag": null
+  },
+  {
    "id": "7f094abc72206a04",
    "k": "deutschland",
    "titel": "Merz: Unterstützung der Ukraine bringt uns Dividende",
@@ -1354,6 +1582,18 @@
    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
    "quelle": "MarketWatch",
    "zeit": "2026-11-20T16:19:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e7ef26fd9fbe7a76",
+   "k": "deutschland",
+   "titel": "Gesundheitsreform: Gesetz abgesegnet – doch der Streit um die Notfallreform geht weiter",
+   "t": "Der Bundesrat hat die Reform der Notfallversorgung beschlossen. Kommunen und Rettungsdienste befürchten, dass sie die Kosten tragen müssen.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/deutschland/gesundheitsreform-gesetz-abgesegnet-aber-streit-um-notfallreform-haelt-an/100270216.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T16:15:14+00:00",
    "tag": null
   },
   {
@@ -1477,6 +1717,18 @@
    "tag": null
   },
   {
+   "id": "d50ad58f3f3f102a",
+   "k": "finanzen",
+   "titel": "EZB: Nagel hadert mit mangelndem Rückhalt für Kandidatur - Handelsblatt",
+   "t": "EZB-Direktor Nagel äußert sich unzufrieden über mangelnden Rückhalt für seine Kandidatur.",
+   "e": "Die Personalfrage im EZB-Direktorium ist für die Ausrichtung der Geldpolitik im Euroraum relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxMSjNUUGVBYTZGQ1A5R2FVcHVDWlVibElOX3ltQTUyU3F5enZMOHU1SWo4dmFJaVdZUHVsa3MxaXhCN3FZelVfRXZJOFppUVJOTjBDUXN3WlR6S1pYY0pza3VzRkoxd2duMFk3bW5IVXZhb2J4N3lITHlEWEYybDlhVFJHbFZQWDRhNUdISU4tUlFSTGlpX01XTERTQVF3OHhMQ3ljMWgyUUFWSWtrcnNGb0dya1lfdmxKN1BEOA?oc=5",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-20T15:35:38+00:00",
+   "tag": null
+  },
+  {
    "id": "ef1ec41665c6e721",
    "k": "deutschland",
    "titel": "Deutschlands große Wette auf die „Ukraine-Dividende“",
@@ -1513,6 +1765,54 @@
    "tag": null
   },
   {
+   "id": "6078a78ff15b00f0",
+   "k": "nrw",
+   "titel": "Mutterschutz für Selbstständige: NRW-Initiative im Bundesrat - Deutsches Handwerksblatt",
+   "t": "Nordrhein-Westfalen bringt im Bundesrat eine Initiative zum Mutterschutz für Selbstständige ein.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWhrcWVDeHY1a2MwMDVUc1JMNEo1YzhpMDZqVW5CamlpZHJfVlgzbTFNd3FaTldmVThObjIwWHdFaUllbWhhZVpQdEFKMTY4V0xGMUU1Zi10TXhVN1NJMi1EZ2dqTlplSU84OUlKMXBpZ1l0cVBGUkR2R2FBeHB2M1pHN2kzaVdPSm1FbE56bWo1eGZrdHFvU0RiZi13eGtjYjhlT3Y2TkpuU1R0?oc=5",
+   "quelle": "Deutsches Handwerksblatt",
+   "zeit": "2026-11-20T15:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "70ad06f4a5176de2",
+   "k": "finanzen",
+   "titel": "EZB-Ratsmitglied Santos Pereira warnt vor erheblichem Energiedruck auf die Inflation - aktien.news",
+   "t": "EZB-Ratsmitglied Santos Pereira warnt vor einem erheblichen Energiedruck auf die Inflation.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXJ5VzFKYVkzV21TeWhMd3d1VjdIczdoMXcxZnJfS3FtbWJVOU9rNGhaNjVzRUpqSVBfYUl2Z3lsTUdzRzB2VkRpTUh1VGJsdFdQRXd5alFqbkE0MXBIUWVPWEYwZGFiUHhPSkRzTGMtUHhYYUlia0ZZLThid3lBam1DcDlZbktrZ29KQWVtdW1Tc3J0R2xOZ3o1OFJUcVJuVjNZdE5pa1ZOOWc5?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-20T15:04:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "60bb46fa9508237c",
+   "k": "finanzen",
+   "titel": "EZB will Swap-Linien zugänglicher machen und den Euro stärken - aktien.news",
+   "t": "Die EZB will ihre Swap-Linien leichter zugänglich machen und so den Euro stärken.",
+   "e": "Erleichterte Swap-Linien verbessern die Versorgung mit Fremdwährung in Krisenzeiten und stützen damit das Vertrauen in den Euro.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXdudlFWaDNmdHdmV3lHSks2ckloODM0MlBVNURzenRGS0JnZ1FITnl2RDFodXQ5Q1VuYUxzekZTSDlySHBwNUZTRWJDZ0FyaVJaR1JMZ0tEVDA3TmtvN3RtS2xBRmZWS0o2TUM2SXhMbXhzTjdyYTdoOUFuX3htV3R3akV4V3V2S2YxX0Rn?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-20T15:02:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "118c13608787071b",
+   "k": "deutschland",
+   "titel": "Nordrhein-Westfalen: Briefporto wird so hoch wie noch nie - tagesschau.de",
+   "t": "Das Briefporto steigt auf ein neues Rekordniveau.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjBGZEt6cF9HejY5NU1nWWNRWTZ2eVJEVXl5T0RaMW04bjJEUklSekhLOTBuS0ZYNWRKSU9WOWVPa2g5dzlQdlFPWGQzLVpoSmxPYzJtZXoxdzZCLU5RcWZsNDNhZlFFdHZaOVk0b1dNX2hWYmN4YnlZd3ZwYkp2U25xcHFtdWp5dmE1ZDhGa3czNFAwN1R1SDJGX2hDMHluTlpIS1Z6UmRqMWpveVQtV2dpSmtEeXV4UlJ2elRWMXB3bWNLWkRKNC1Wb3FjU3huWHc?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-20T15:01:23+00:00",
+   "tag": null
+  },
+  {
    "id": "392f1a6d38e3db24",
    "k": "finanzen",
    "titel": "Warsh wants Fed officials to talk less. Instead, they’re talking more - CNBC",
@@ -1534,6 +1834,18 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-20T14:58:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "17d4a6a202d8b757",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Neues Urteil gegen Waffenhändler aus Heek - tagesschau.de",
+   "t": "Ein Gericht hat ein neues Urteil gegen einen Waffenhändler aus Heek gefällt.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWVUWGN5THQ0UDBBT2RrQ1I1YzFBZEpYaHRDckpUb21UMFZ2V3ZiR0UxTHNkeHREdFZtRXM5dTdSXzI5VFFCN3dmNFNZV1dBd1ZFTW00emNKejk4cVN3X1FFZHdwTUNYQi1qTTBuU2V4Ul9FZGtLVzlRUE02cExlRXg2UWh1Nkl3TzZXcTJfNXZRazBSc0pzcjVhSUNjb0pYX1FYSmU3bURteXpuYWJiMlpUZWJDWFdOVWpsNk9GZ2pzS1VzR0FCVlVaMEM?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-20T14:58:00+00:00",
    "tag": null
   },
   {
@@ -1705,6 +2017,18 @@
    "tag": null
   },
   {
+   "id": "60de1846135684d4",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Premiere im Depot 2 trotz unklarer Zukunft - tagesschau.de",
+   "t": "Im Dortmunder Depot 2 hat eine Premiere stattgefunden, obwohl die Zukunft des Standorts unklar ist.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkdwem5lRUh5djdnaE0zcHNqeU1ZSUg2U0g3ano1SWdRUlBZMFd5NXV3NTdSYXgycGlHZnB6TFZvRXlEVjY4NjY3TzFQNXNkUk5rNWNzeUhKMTF3RFdNZVhldWhuZFNtOWkzSHVQNldjeW9YbUJHZmROc25GMVRESjVJdTR1YjRjTkIzcWd1a0FseUJmMHZ5d29xMzBkQTBSaXVlcFJ5MHRRNmEyeFpNUi1aQ01zenpsaVZncS16OTQzaHdXX3BVRTA0X2lISTctbmZF?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-20T14:10:00+00:00",
+   "tag": null
+  },
+  {
    "id": "7ddfabdca1634339",
    "k": "welt",
    "titel": "Streit um Rückkehr von Sheikh Hasina führt in Bangladesh zu gewaltsamen Ausschreitungen",
@@ -1786,6 +2110,18 @@
    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
    "quelle": "CoinDesk",
    "zeit": "2026-11-20T13:35:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "4fbff6b0afcd9087",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Zwei Brände in Köln - Polizei prüft Zusammenhang - n-tv.de",
+   "t": "In Köln sind zwei Brände ausgebrochen. Die Polizei prüft einen möglichen Zusammenhang.",
+   "e": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFU5cDRIbkNrcnU3OGVzUEJmLUZPcFZkVnBBdWpHcVNtSmNySmk3OFdMRjRQSGtqdEVLNlFLcW1xeFRvRGx6ZjB3bVZkUzRiYTZodjAyTW9RV3V4Z1dhZU13bFJpZXNlbEEtUjEyanoyamhQbWNiaUNQem9QaGJGOTlQbEpLTU90ZnlfQXZBS2RjZUdGSlFSeVhkZGRtenNKckJXS3FXN3BJSDMwR2xkVTkzV2hILTg?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-20T13:30:00+00:00",
    "tag": null
   },
   {
@@ -2747,342 +3083,6 @@
    "quelle": "IKZ-Online",
    "zeit": "2026-11-20T08:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "d47cd6c07520ea7d",
-   "k": "finanzen",
-   "titel": "U.K. Government Borrowed More in October, But Is on Track for Smaller Deficit",
-   "t": "Das britische Haushaltsdefizit lag im Fiskaljahr bis Oktober bei 3,5 Prozent des BIP und damit unter dem Vorjahreswert von 3,8 Prozent.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-20T07:53:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8468b1ac587b46e5",
-   "k": "finanzen",
-   "titel": "Fed warnt vor Überhitzung: KI-Boom treibt die Inflation an - aktien.news",
-   "t": "Die US-Notenbank Fed warnt vor einer Überhitzung der Wirtschaft, der KI-Boom treibt die Inflation an.",
-   "e": "Eine Warnung der Fed vor Überhitzung macht weitere Zinserhöhungen wahrscheinlicher und setzt die Aktienmärkte unter Druck.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUdyUWpPeTFZNXhPeG1Db1o4N2diTHdDbDNDcF9vdm5JVFRJUUJXT0ZoZFBiZ211QXE3aFFvMmU4UmozaktScHpGanU5R3M2WUdaUW4zcEVUYWM2bFRUeTE5VkNLY29FS1RRbzkycjhzdjJKUEhKVXVkakd4LWRDeGdwYXpKdDVL?oc=5",
-   "quelle": "aktien.news",
-   "zeit": "2026-11-20T07:50:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "56a803ebeb1ab6eb",
-   "k": "usa",
-   "titel": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-   "t": "Nach dem Rücktritt von Nvidia-Chef Huang untersuchen kalifornische Behörden, ob KI-Chips oder Informationen illegal nach China gelangt sind.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T07:47:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "db9d728e93afc133",
-   "k": "welt",
-   "titel": "Warum Burnham die Nähe zur EU sucht",
-   "t": "Der britische Premier Burnham will London wieder näher an die EU führen und hält den Brexit für gescheitert; ein EU-UK-Gipfel ist geplant.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T07:41:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "98758864eab4b358",
-   "k": "welt",
-   "titel": "Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer?",
-   "t": "Spanien wächst wirtschaftlich stark, doch die Unzufriedenheit über Lebensstandards wächst vor den Wahlen der kommenden Woche.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-20T07:41:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2dbeda7d7ada345e",
-   "k": "finanzen",
-   "titel": "Fed-Zinsentscheid am 9. Dezember: Markt preist zu rund 90 Prozent 25 Basispunkte ein, Waller denkt an 50 – wie weit geht die Fed bei der Zinserhöhung? - AktienCheck.de",
-   "t": "Vor dem Fed-Zinsentscheid am 9. Dezember preist der Markt zu rund 90 Prozent eine Zinserhöhung um 25 Basispunkte ein, Gouverneur Waller erwägt 50.",
-   "e": "Die Fed erhöht offenbar wieder die Zinsen; eine Erhöhung um 50 Basispunkte stünde im Kontrast zur Markterwartung und würde die Märkte überraschen.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkx6LUliM2k4dzNGcXdtVy10WldwWVNBZXRPOExOcXpWRkJ1ZWlBRnJCQ05NVmNJV2JNTHY0SHhLWlZ4eGtUYWFJd3M2M1F5OUpDdVJfa2dRYzN6YUJ0eW56NTVQdWU3MXItWGp2dm5rUnBDLUlRQVZxdzh6bWRJYnpmSjNwaDBYV0Z2aFlMN0ZyRlhNM1MzOUQwMFFGVjVXMWJMSGJQZDd5UzhrQ1E?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-20T07:15:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "5b3c82b450526f28",
-   "k": "finanzen",
-   "titel": "Die EZB steht vor einer richtungsweisenden Personalentscheidung - payoff",
-   "t": "Die EZB steht vor einer richtungsweisenden Personalentscheidung.",
-   "e": "Personalentscheidungen im EZB-Direktorium beeinflussen den künftigen Kurs der Zinspolitik im Euroraum.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGJrUm9jc2FDNVNRT0tnWU1wRDczdVN3QnhwNzlOSS1WOWxlaE0ydDBZdXIwb3lQSEhnc1AzckxKclZHZGpOTnRYb2VXMHUzZXl5TnV0YXNSbHNuUlExckdfNjBOTU9ObmFna3RmNE83bnppbnd5b1ZxdndKTkJIalZRUm01bGpKZEgxN200SXpGckFl?oc=5",
-   "quelle": "payoff",
-   "zeit": "2026-11-20T07:10:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "20931927ad690bb7",
-   "k": "finanzen",
-   "titel": "UBS-Fondsgesellschaften kaufen Üetlihof in Zürich",
-   "t": "Die UBS-Fondsgesellschaften kaufen laut Bericht die Immobilie Üetlihof in Zürich vom norwegischen Staatsfonds für 850 Millionen Franken. Der Vollzug ist für Januar vorgesehen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/ubs-fondsgesellschaften-kaufen-ueetlihof-in-zuerich-ld.10069703",
-   "quelle": "NZZ",
-   "zeit": "2026-11-20T06:57:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "e284fb3b41afd6dc",
-   "k": "finanzen",
-   "titel": "Dollar near 19-month high, set for 4th weekly gain as AI jitters spur haven bid - KELO-AM",
-   "t": "Der Dollar steht nahe einem 19-Monats-Hoch und ist auf dem Weg zum vierten Wochengewinn in Folge, KI-Sorgen treiben Anleger in sichere Häfen.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnl5MHEwcTdYNG9UdVZPSV96SGdQNnhISVB6WHk0N0UxQ3BadnJRLUMxMm1FbXR1QnJtWXY3a1NhbDYxNmRsVGhuWlZuS1dkaktwcnhGU2t6Rkw3YkxVVlM2N3JNQmQ5ZlZIOElwR0NKMVcyeWdaaUVJZ1RYLXQ5VkdmTTFEWnp1M1dral8yYw?oc=5",
-   "quelle": "KELO-AM",
-   "zeit": "2026-11-20T06:53:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "568cbf0dade1420b",
-   "k": "finanzen",
-   "titel": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
-   "t": "Von heute an gilt die neue EU-Verbraucherkreditrichtlinie. Auch kleine Kredite, etwa beim Kauf auf Raten oder \"Heute kaufen, später zahlen\", unterliegen strengeren Prüfpflichten für Anbieter.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T06:51:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "9719a96f23314262",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Kiews Bürgermeister: Schwerster Angriff auf Brücken der Stadt – mindestens drei Tote",
-   "t": "Bei einem der bislang schwersten Angriffe auf Brücken in Kiew sind laut Bürgermeister mindestens drei Menschen ums Leben gekommen. Russland hat Vergeltung angekündigt.",
-   "e": "Die Angriffe treffen zentrale Infrastruktur der Hauptstadt und erhöhen den Druck auf die laufenden Gespräche über Sicherheitsgarantien.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-schwerster-angriff-auf-kiews-bruecken-laut-buergermeister/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T06:47:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c34d6a76d51520e",
-   "k": "nrw",
-   "titel": "Geschwindigkeitskontrollen im Märkischen Kreis - LokalDirekt",
-   "t": "Im Märkischen Kreis sind Geschwindigkeitskontrollen angekündigt. Genaue Orte und Zeiten gehen aus der Meldung nicht hervor.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWtUbzg2dEdUNmlXR1c1V09sc2RqR3ExUFJWLTdhV2RoWEZySHZsVUdQYkhpQ2FTNDA5RzBuYjZMSDRiVWxtem1aWHkxM1JMYWROcDlOV21xaTBkZWxxdE1KRXIzYUwyalBnM3JTY3F6dXdSYTdnQTZIMXVnbXpIc2pXYw?oc=5",
-   "quelle": "LokalDirekt",
-   "zeit": "2026-11-20T06:46:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "2316cc0c8829abdc",
-   "k": "welt",
-   "titel": "Ukraine braucht weiterhin „riesige Summen“, sagt Selenskyj",
-   "t": "Selenskyj nennt eine Finanzlücke von 25 Milliarden Euro für die Ukraine im Jahr 2027. Das Land sei auf große Summen angewiesen, solange der Krieg andauert.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/ausland/article6affe3279c54a7e3cf5ede8d/ukraine-braucht-weiterhin-riesige-summen-sagt-wolodymyr-selenskyj.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T06:30:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "d1b0d186a2633d46",
-   "k": "finanzen",
-   "titel": "Marktbericht: DAX dürfte trotz Anthropic-Hype weiter fallen",
-   "t": "Der DAX dürfte nach einer Marktvorschau schwächer starten. Der Kursimpuls durch den Anthropic-Börsengang ist laut Bericht nicht auf die europäischen Märkte übergesprungen, die Wall Street liegt deutlich zurück.",
-   "e": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-20T06:30:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "42ccefe004a29494",
-   "k": "finanzen",
-   "titel": "Nachhaltigkeit: EU vereinfacht Regeln zu nachhaltigen Finanzprodukten",
-   "t": "Die EU vereinfacht die Regeln für nachhaltige Finanzprodukte. Anleger sollen die Qualität grüner Angebote leichter einschätzen können.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/nachhaltigkeit-eu-vereinfacht-regeln-zu-nachhaltigen-finanzprodukten/100271472.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T06:28:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "9e73c6b7251da072",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Verdacht auf illegales Rennen: Drei junge Männer überleben schweren Unfall - tagesschau.de",
-   "t": "In NRW sind drei junge Männer bei einem Unfall schwer verletzt worden, der Verdacht fällt auf ein illegales Rennen. Alle drei haben überlebt.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3owZDc5bjEtOHEteldVdm1wMHJNc0JuVXBqbDBSR0MzSnFqQ29qd0Y5TmdST2pLYTljX3ZqREFrUlYwdWVnUnpkNkY0czVRU3Zqai1JM0lVM3V6MElOR3VMcG9JbTJjWTNqUHdIdThDMEdtcW92ajZRaVlJdm9LTy1VMXpDNTdRaWNTUGxWNTZaRVRvWEpYaXhJT0xZd0lGVzVVbUlpWFhzZUdDbHV6czk5S2xnbTY0X3Eyak5QN2otX2lfNG8zd0g0LWpTRzVlNlVuVjgwMkJFUjRNdThRY1Jhcw?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-20T06:27:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "3ecd64c2363abfbb",
-   "k": "deutschland",
-   "titel": "Keine Kartenzahlung: Warum Gastronomen so oft auf Bargeld beharren",
-   "t": "Einige Gastronomen akzeptieren weiterhin nur Bargeld. Der Gesetzgeber will dies ändern, ein Teil der Wirte wehrt sich dagegen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/rhein-main/wirtschaft/sollten-gastronomen-verpflichtet-werden-kartenzahlung-zu-akzeptieren-accg-201605892.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-20T06:26:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "2150d2d121c4f69a",
-   "k": "welt",
-   "titel": "„Für die Russen ist heute jede Nachricht eine Quelle für Traumata“",
-   "t": "Die russische Zeitung Nowaja Gaseta wird eingestellt. Sie war eine der wichtigsten unabhängigen Stimmen des Landes.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/kultur/plus6afd5995a883f861e53302a2/sergej-sokolow-nowaja-gaseta-fuer-die-russen-ist-heute-jede-nachricht-eine-quelle-fuer-traumata.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T06:22:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "dbd6f65ba559963b",
-   "k": "usa",
-   "titel": "Stephen Miller: Hardliner an der Macht – so gefährlich ist Donald Trumps neuer Stabschef - News.de",
-   "t": "Stephen Miller ist neuer Stabschef im Weißen Haus. Er gilt als politischer Hardliner in Trumps Umfeld.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUXpfQ042aXZmekU4M050V2tOemx4U2NHcDdrYmwyRHdfY0ppdUZ0d25DVmlLT3Z4VEJ5WTNnczdwLW1qeFE4aXBjY19rTFRvZUhxdF9yQnpZZzEtcVg5VUp6bERSSzlMdThleUNnM3VMWUxZTC1SS003eFlZWG0wWHREX2RhU0xja1BpZG5GN2dkb2xOZjdtNzNjbjBZekI0dzM1YVM5Z0xtX1lpeF80SkNncmtENDdzVlJkRW5Lc3p0MFA5WUZaeUxWdXNNNF9nSjdHcU5GeUV1Q2o2Q0I0S1lsRENiM3ZPR1k2Z3BkZFRQMk16b1F6TEVSVzI?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-20T06:19:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c8e5fe3ed651bde",
-   "k": "welt",
-   "titel": "Künstliche Intelligenz: Apple entwickelt eigenen KI-Agenten",
-   "t": "Apple entwickelt laut Stellenausschreibungen einen eigenen KI-Agenten, der auch Code schreiben kann.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-apple-entwickelt-eigenen-ki-agenten/100271467.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T06:15:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "f3569f945fd09dde",
-   "k": "finanzen",
-   "titel": "Gold Plunges to a 14-Month Low as Federal Reserve Officials Signal More Rate Hikes - South Florida Reporter",
-   "t": "Gold fällt auf ein 14-Monats-Tief, nachdem Fed-Vertreter weitere Zinserhöhungen signalisiert haben.",
-   "e": "Höhere Zinserwartungen belasten Gold, da es keine Zinsen abwirft und die Opportunitätskosten steigen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFrQzBON2YzdWlDV0NNMVJyUWlmUFpsMzNXekg3SUljMy1ORHZWU1F3Y2tfX3YtUVMtZGVabkNONlNaeU5ySzlpRTlYRXZ6U0FZS1BlTVUtX2ZiOFNHQlBkdjZTellxam5lMjlOR1phTVYzcVJVZ0ZKOE9FejFYd2tYWjF5UjA0REFSYVlWZTFKOHRMY0VDTWtzUnkzQlRZc3htdFZ3MGRPNzdxYTZvemZfb19BV1U?oc=5",
-   "quelle": "South Florida Reporter",
-   "zeit": "2026-11-20T06:12:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "4a079c933c3d9d74",
-   "k": "nrw",
-   "titel": "Lüdenscheid: Tagesbaustelle auf der A45 nahe Bremecke heute, am 20.11.2026 - News.de",
-   "t": "Auf der A45 bei Lüdenscheid gibt es am 20.11.2026 eine Tagesbaustelle nahe Bremecke.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbkR4dlpCUjBjYmUzS3pBZDNlOUQ3V3pVUjlLN3liZ3d0RzVCbEZoLTZzampwamRabnJ3Z2VfT1I2TzJyUDdERFJELVdOR25OakxtNVM5THJuZXYzamRnUU1RWmRLT19iZzlVSEZnOHNkOGpsSFRiMjlQRm1lVV9veTZibjdDQjl0ak5ydmtiTGl4S2pGRXZPbEZDWnVlZkRORjdWNWJMUjF0ZU5WbE53cTlLMm42TEhUbUVaMlJ5a2NxeTZiOWZFMTUwWnF3U0FTSzFXM3NmWU5td1JDamlIOE5RN3hySzc1bXVQV3pOaHZJVk1JMU5GWU5rWXQzRERIZXpGMXgzbWk4NzM3ZDZYQU9xdUZuV0w4TjdlQ2hRUU8wY3VYRUhaMFZMeFBqUHNiNXFBQVk5a2xWSkkz?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-20T05:59:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "78410e6f00017224",
-   "k": "usa",
-   "titel": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
-   "t": "Nach einem Treffen Trumps mit Xi Jinping und Wladimir Putin gibt es in den USA Kritik. Große Abkommen blieben laut Bericht aus.",
-   "e": "Das erste Treffen eines US-Präsidenten mit den Staatschefs Chinas und Russlands an einem Tisch wirft Fragen zur außenpolitischen Strategie auf.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T05:48:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "78231ac637151e44",
-   "k": "welt",
-   "titel": "VIDEO - Kriegsmaterialgesetz: Der Bundesrat will die Regeln für Waffenexporte lockern",
-   "t": "Die Schweiz stimmt am 29. November über die Revision des Kriegsmaterialgesetzes ab. Der Bundesrat will Waffenexporte lockern.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/shorts/kriegsmaterialgesetz-der-bundesrat-will-die-regeln-fuer-waffenexporte-lockern-ld.10069683",
-   "quelle": "NZZ",
-   "zeit": "2026-11-20T05:47:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "2d9423936401cc78",
-   "k": "finanzen",
-   "titel": "AMD und Nvidia: US-Regierung gerät wegen Chipexporten nach China unter Druck",
-   "t": "Laut neuen Dokumenten durften Nvidia und AMD KI-Chips an Kunden liefern, die später auf einer Liste mutmaßlicher Unterstützer des chinesischen Militärs landeten.",
-   "e": "Der Fall betrifft zentrale Halbleiterkonzerne und wirft Fragen an die Exportkontrollen der US-Regierung auf.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/technik/ki/amd-und-nvidia-us-regierung-geraet-wegen-chipexporten-nach-china-unter-druck/100271465.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T05:46:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "56a3dcd69ad80792",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Auto fährt in Juweliergeschäft - tagesschau.de",
-   "t": "In NRW ist ein Auto in ein Juweliergeschäft gefahren. Angaben zu Verletzten und Ort fehlen im Auszug.",
-   "e": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ18xMXI2SF84ZnRweVFsTUs5T1Y3N3h0eEZaekRiX2VTNnBQMmJoU3V1ZEZTbWNyeUw5MEVKTjdURnRhUkN0YWxJektBd3lDVTJETnNHUlBWdnVSdk1hVEJseHFfVXI4bDRpWm5qTFQ5X0dGM3BnVXdkRUdNTHNCN2psZ2hYX1ZiVkVOcENwbTRrbDBlR3k3THdQa0JSd1R1Z05HSWJnWllWYzZySGJXRUx2UFN6d2ZPTE9oRnZSRHlfLVZGMG5YTWdTbDVsbVAtTk5NVQ?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-20T05:43:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "a91185cf0436eb7c",
-   "k": "nrw",
-   "titel": "Menden (Sauerland): Baustelle auf Berkenhofskamp in Berkenhofskamp ab kommende Woche Montag - News.de",
-   "t": "In Menden (Sauerland) beginnt ab kommender Woche Montag eine Baustelle auf dem Berkenhofskamp.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNUk9WRnNMekZiNHNteUFmNTk5TmVIUHhFNjJ6bUlRRnE5dzRpOTN3djcwMmZ0Yks5N01WWkM0bWRrYVA4WUNwdGhsSHJwRDJDSjMwelJ4eUg3RC05ZjBFRDZTeDJpRGxTd2ZtajN5a24zY3RhcE9jQ24yOGMyLXRYUU9nblRZNzhsZUtidjY2UFpQZk9UeGNHcm90MF9iT3d4YkZ1dzl4dUV5UGRHU2ZFc0Q4anpXNUlvbEs1T3dJX0hLZndIYlBXVUpwTGcwLWVxSXdSSjNsai1EeUh2N3c0S2xnQUJudHJLNTBKVy1Xc2xNaS1zT1o1cHFjY1VldG84X1hZbWxZdXV0ZXhXQTB0ZzZSSEs5aGdrWXhma0FpdWs0QmVHTnprQlo1bXNva0ZJSGRxVFNGOER0WVkzeWNfTXZlODZIeS1sSlVPWkFUclhZV1ZxM1dkTTVZNmJwUTVXS1hfSWQ3eUc0QlB2S2tv?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-20T05:35:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "2acdd0ca5053a461",
-   "k": "usa",
-   "titel": "Pro-life group says Trump admin didn't give key abortion drug commitments before Overton FDA nomination pulled",
-   "t": "Die Pro-Life-Organisation Susan B. Anthony Pro-Life America kritisiert, die Regierung habe keine verbindlichen Zusagen zu Abtreibungspillen gemacht. Die FDA-Nominierung von Heidi Overton wurde daraufhin zurückgezogen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/pro-life-group-says-trump-admin-didnt-give-key-abortion-drug-commitments-overton-fda-nomination-pulled",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-20T05:32:52+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3145,7 +3145,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "CNBC Finance",
@@ -3160,12 +3160,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -3190,7 +3190,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 39
+    "n": 36
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3210,12 +3210,13 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
