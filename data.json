@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-21T05:01:15.816964+00:00",
+ "aktualisiert": "2026-11-21T07:01:28.986504+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "56.249 $",
-   "delta": -8.484625429570821
+   "wert": "57.950 $",
+   "delta": -6.429112635121113
   },
   {
    "name": "Ethereum",
-   "wert": "1.560 $",
-   "delta": -9.620320348583219
+   "wert": "1.638 $",
+   "delta": -6.242668213863682
   },
   {
    "name": "Gold",
-   "wert": "3.539 $",
-   "delta": -3.9750373083706436
+   "wert": "3.515 $",
+   "delta": -4.61538461538461
   },
   {
    "name": "EZB Zins",
@@ -54,36 +54,252 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-20T19:01:32.391032+00:00",
+  "slot": 7,
+  "stand": "2026-11-21T07:01:28.986482+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Die Märkte stehen unter Druck: Bitcoin ist erstmals seit Juli unter 60.000 Dollar gefallen, der Nasdaq gab laut Meldung über 2 Prozent nach, und der S&P 500 verzeichnete seinen sechsten Verlusttag in Folge. Der Deka DAX notierte zuletzt bei 216,70 €, der Deka Nasdaq-100 bei 165,64 €."
+    "t": "Die Börsen geraten unter Druck: Der Nasdaq verzeichnet laut Meldungen seine schwächste Woche seit 2020, Dow und S&P 500 sind in die Korrektur gerutscht. Marktdaten: Deka S&P 500 133,75 €, Deka Nasdaq-100 165,64 €."
    },
    {
     "k": "finanzen",
-    "t": "Bei den Zinsen beträgt der EZB-Zins 2,50 %, die Fed Funds liegen bei 3,88 %. Laut Rabobank preisen die Märkte Zinserhöhungen der Fed im Dezember und Januar ein, und EZB-Vizepräsident Nagel hält im Dezember voraussichtlich ein Handeln für nötig."
+    "t": "Bei den Zinsen sind die EZB mit 2,50 % und die Fed Funds mit 3,88 % notiert. Fed-Gouverneurin Lisa Cook spricht sich für weitere Zinserhöhungen aus, für die nächste Fed-Sitzung wird eine Erhöhung erwartet, offen ist deren Höhe."
    },
    {
-    "k": "welt",
-    "t": "In Polen sind zwei russische Marschflugkörper eingeschlagen, laut Regierung drei russische Flugobjekte insgesamt. Ministerpräsident Tusk spricht von einer gezielten Provokation des Kremls."
-   },
-   {
-    "k": "welt",
-    "t": "Im Iran-Krieg wurden Raketenangriffe im Süden Irans gemeldet, die Waffenruhe war Anfang Juli von Präsident Trump für beendet erklärt worden. Laut Pentagon kostet der Krieg bereits fast 50 Milliarden US-Dollar."
-   },
-   {
-    "k": "nrw",
-    "t": "In Iserlohn legt ein 24-Stunden-Streik Teile der Metallindustrie lahm, und die IG Metall verschärft in den Tarifverhandlungen den Ton."
+    "k": "finanzen",
+    "t": "Im KI- und Chipsektor gab es starke Verluste: Nvidia verliert an einem Tag rund 14 Prozent, die Chipwerte verloren laut Meldung rund 2,3 Billionen US-Dollar in einer Woche. Die Anthropic-Aktie gibt nach ihrem Börsendebüt rund 11 Prozent nach."
    },
    {
     "k": "deutschland",
-    "t": "In der Metallindustrie gibt es erstmals seit acht Jahren 24-Stunden-Warnstreiks, die Arbeitgeber fordern die Gewerkschaften zur Rückkehr an den Verhandlungstisch auf."
+    "t": "Der DAX fiel laut Meldungen unter 25.000 Punkte und verlor auf Wochensicht mehr als 7 Prozent. Der Deka DAX notiert bei 216,70 €. Der Deutsche Markus Brunnermeier wurde zusammen mit der Französin Boone für das EZB-Direktorium nominiert."
+   },
+   {
+    "k": "welt",
+    "t": "In Polen sind zwei russische Marschflugkörper eingeschlagen, es ist die erste Verletzung des polnischen Luftraums in diesem Ausmaß. Ministerpräsident Tusk spricht von einer gezielten Provokation des Kremls."
+   },
+   {
+    "k": "nrw",
+    "t": "In Iserlohn legt ein 24-Stunden-Streik Teile der Metallindustrie lahm, die IG Metall verschärft in den Tarifverhandlungen den Ton."
    }
   ]
  },
  "items": [
+  {
+   "id": "366c46e161411926",
+   "k": "usa",
+   "titel": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+   "t": "Laut Medienberichten sind Hacker zusätzlich in ein Zahlungssystem des US-Agrarministeriums eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Sicherheitsvorfällen bei US-Behörden ein.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T06:51:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "e3c906d05938c98c",
+   "k": "usa",
+   "titel": "USA: Donald Trump schränkt Unternehmensauskünfte für US-Kongress ein - DIE ZEIT",
+   "t": "US-Präsident Trump schränkt die Möglichkeit ein, dass Unternehmen dem US-Kongress Auskünfte erteilen.",
+   "e": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0xWaER1bC1XM19CM2RFWmJKbjBEYU04c0k1MDJBdldzTnBETHhvWWdIaVZLRUZMOHpXcDZwbXNxdXpia012RE9TbGN2MkZGVzJJdlhJal9iLTR1aUI4SnRvLWNCZkVFMUd0cGFfUEtRNTlPWHlzcVhidnRDSlZiUzdQd0w4ME9Na19aTDhvTGhyNmMxUWRkQ1FFSDNmMWZhWU5wQWtZT2Y0eVFwamc?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-21T06:51:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "a262c3534ad13d30",
+   "k": "deutschland",
+   "titel": "„Ich will mich nicht integrieren“ – dieser Berliner wird als Beispiel für Integration hofiert",
+   "t": "Ein Berliner Verein, der als Integrationsvorzeigeprojekt gilt, unterhält laut Bericht enge Beziehungen zum Netzwerk der Hisbollah.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/debatte/plus6b0039955842ff528b9e1a14/hisbollah-einfluss-ich-will-mich-nicht-integrieren-dieser-berliner-wird-als-beispiel-fuer-integration-hofiert.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T06:46:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "ddc7fed50ffcda47",
+   "k": "deutschland",
+   "titel": "Zwangsräumungen: 27.446 Fälle in Deutschland im Jahr 2025 - ad-hoc-news.de",
+   "t": "Im Jahr 2025 wurden in Deutschland 27.446 Zwangsräumungen registriert.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFNVUjNxY3c3cmExZldsWjQtRlAtcmtoaTZ3Mko2NFU3U0pzb09XN1FWVndoUmE2X3hFZmZPN09nSDBOYkpYLXh1dTJPMWtrNDNiM3ZiTTN3emNWczI5S2E4NjZhdHlPdFBDRHJWV0VGajFvOE9aZGR5TWJTUnBmOWx6ekxJNlNsTWNZTEpwcWFfVHlfRWV3UkhMMlZHbEpqUHhETg?oc=5",
+   "quelle": "ad-hoc-news.de",
+   "zeit": "2026-11-21T06:39:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "5301dbae9fbb9e3d",
+   "k": "welt",
+   "titel": "Einer der wichtigsten Nahost-Vermittler sieht Deutschland plötzlich in einer Schlüsselrolle",
+   "t": "Im Streit um das iranische Atomprogramm sind die Gespräche für eine friedliche Lösung festgefahren. Experten sehen Deutschland dabei in einer Schlüsselrolle.",
+   "e": "Eine mögliche neue Eskalation am Golf hätte direkte Folgen für Energiepreise und Märkte, auch in Europa.",
+   "s": 6,
+   "link": "https://www.welt.de/politik/ausland/plus6afd6f3f4e6cd4bac15cedb0/katar-einer-der-wichtigsten-nahost-vermittler-sieht-deutschland-ploetzlich-in-einer-schluesselrolle.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T06:37:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "33de62e4cd49b293",
+   "k": "welt",
+   "titel": "Ukraine-Krieg ‒ „Das Problem ist, Selenskyj und Putin hassen sich enorm“",
+   "t": "Trump sagt, Putin wolle den Ukraine-Krieg diplomatisch beenden, und macht den gegenseitigen Hass zwischen Putin und Selenskyj für die schwierigen Verhandlungen verantwortlich.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/videos/video6b01363e39a3e8110f0e4e45/ukraine-krieg-trump-sieht-hass-als-bremse-fuer-gespraeche-zwischen-putin-und-selenskyj.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T06:30:29+00:00",
+   "tag": null
+  },
+  {
+   "id": "5c48c1a28f49d184",
+   "k": "finanzen",
+   "titel": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "t": "Ein Fehler im Bitcoin-Netzwerk könnte Nodes lahmlegen, wenn eine Kennung 50.000-mal wiederholt wird. Den Fehler fand nach Angaben des Berichts eine KI.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-21T06:16:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "e0907b24b566797a",
+   "k": "welt",
+   "titel": "How China is using summits to expand its global influence",
+   "t": "Chinas Präsident Xi Jinping nutzt internationale Gipfeltreffen, um seinen globalen Einfluss auszuweiten.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-21T06:00:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "727adf491aa49ca2",
+   "k": "nrw",
+   "titel": "Was hat das mit Iserlohn zu tun? Streit um AfD-Antrag im Ausschuss - IKZ-Online",
+   "t": "Im Ausschuss in Iserlohn gibt es Streit um einen Antrag der AfD mit lokalem Bezug.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUNERnBqcGZfWk01aHQ5d3IwdXdfa2tVWlAyRTJNbGhlakJ1b0ZRTEJKWndTb2hKQXVRZVlucWFrOWpPTXJqaXZyQjZPYkpHbHBuVVNyYWY3bjVacEtOSFE3S2w2cnB4SUx3TUd2VXdaWjlFSDFkQXdzOFlmYklMbS1jQ0R2OXItdVpGT3hLV1FNa3YwWWNTNS1WdmYxRFNLRUh0d1M3U1NkX1pydVFhMHVyalQ0bEpyTkV2ZlMtT0RUcW54amcxcXBR?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-21T06:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "59cd1d5801d034ba",
+   "k": "finanzen",
+   "titel": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "t": "Der Kurs von XRP fällt um rund 10 Prozent, nachdem Hebelwetten aufgelöst wurden und das Volumen der XRP-ETFs unter 1 Milliarde Dollar gesunken ist.",
+   "e": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-21T05:59:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "aedb004d1e04217c",
+   "k": "finanzen",
+   "titel": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+   "t": "Hongkong will Krypto-Verwahrer und Berater einer Lizenzpflicht unterstellen. Die Gesetzesvorlage soll am 2. Dezember erstmals im Legislativrat beraten werden.",
+   "e": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-21T05:40:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "fd940bb21a5927ae",
+   "k": "nrw",
+   "titel": "Meinerzhagen: Dauerbaustelle auf der L539 in Darmche ab kommende Woche Dienstag - News.de",
+   "t": "Auf der L539 in Darmecke (Meinerzhagen) beginnt ab kommenden Dienstag eine längere Baustelle.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOX3BUSDF1aDZ4aFpGeUNHZFdpRkxxZTRSQmhSenpkT0ZRWDNXazFubzZJc2RtNEJWT2NJVzNidWlqdXdTeXdwcUk5T25UdW14X3ppODNSb2g1T01EakQwMHJSZHBYbHZ1VHRkX0JEUFl2eS0xS2NqQmJ5U2xJeUlyTy1McXAzY21TZnZpMnJxWWpYNDBZUExueFg0Y1Y2c2puTm8xMmxBZUk5RGlYa0VzbG5MR213ZFZzV2dRSzhkQS02S0x6aW9kOFJpblJ6TWUyUDQ3ZXozUEVFZXo1SnU1TzVNNW5XSkpFenpreFdDNnBZSlRsT3VfbldtcUwxM3FmN0JzTUdnQkFfenYwd3g0MVVsaEtmRXBjZU5rbWc5ZVVzZ1VjZVNUTEFFdk5MWGtxYndfbGpBNDM5Qm5jQlVYU19hMVBELXB0M2pSdVZlRGl2Qllo?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-21T05:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "efaabc63a0f1eacc",
+   "k": "finanzen",
+   "titel": "Bei der US-Notenbank gibt es interne Meinungsverschiedenheiten bezüglich der Zinspolitik. - Vietnam.vn",
+   "t": "Innerhalb der US-Notenbank gibt es unterschiedliche Auffassungen zur künftigen Zinspolitik.",
+   "e": "Die Uneinigkeit im Fed-Rat ist für die Erwartungen an kommende Zinsschritte und damit für Anleihen- und Aktienmärkte relevant.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3RybTVTWG9HaWNJcWd5NWpfZnhtMWRLWDNJdEZ5VWNGY0NyeklfX0cxSXNzWlJBTGpRNEpfWE55eHo1MncyV1c4cWJQSm1DZU5IS1duaXdfakFYeW9USEcwWE1Jd2RKeUpBM1FnQ3hkRXZrSUEzRjNxb1VHVlptTF9R?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-21T05:33:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "07abcfcff9f03ea5",
+   "k": "usa",
+   "titel": "Trump will Tech-Konzerne mit Datenzentren im Ausland hoch besteuern – und bleibt beim Ukraine-Krieg vage",
+   "t": "Nach seiner Asienreise kündigt Trump an, Tech-Konzerne mit Datenzentren im Ausland hoch besteuern zu wollen. Konkrete Fortschritte im Ukraine-Krieg und bei der nuklearen Abrüstung bleiben laut Bericht aus.",
+   "e": "",
+   "s": 6,
+   "link": "https://www.nzz.ch/international/trump-will-tech-konzerne-mit-datenzentren-im-ausland-hoch-besteuern-und-bleibt-beim-ukraine-krieg-vage-ld.10070204",
+   "quelle": "NZZ",
+   "zeit": "2026-11-21T05:23:19+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a6518fff2ed2ce1",
+   "k": "deutschland",
+   "titel": "Verkehrsminister Bilger erwartet von Automobilindustrie „klares Bekenntnis“ zu Deutschland",
+   "t": "Verkehrsminister Steffen Bilger erwartet von der Automobilindustrie ein klares Bekenntnis zum Standort Deutschland, während die Branche Zehntausende Stellen abbaut.",
+   "e": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T05:23:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "50a6d3e9e02ac96e",
+   "k": "finanzen",
+   "titel": "Trump Praises India's 7% GDP Growth, Slams US Federal Reserve Over High Interest Rates - Howl.Link",
+   "t": "Trump lobt das indische Wirtschaftswachstum von 7 Prozent und kritisiert die US-Notenbank Fed wegen hoher Zinsen.",
+   "e": "Öffentliche Kritik des US-Präsidenten an der Fed berührt die Frage der Unabhängigkeit der Notenbank.",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5lWXBzVlNXemI4UGN5VTh0T2duQmkxQkZ4dk1DSmtnelNaQjlTcGN2NmFTSlpNWEJfaXdv?oc=5",
+   "quelle": "Howl.Link",
+   "zeit": "2026-11-21T05:05:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "ecde29cd69c763ca",
+   "k": "welt",
+   "titel": "Pressekonferenz im Weißen Haus: Die koordinierte Kampagne der USA gegen die Ukraine - WELT",
+   "t": "Nach einer Pressekonferenz im Weißen Haus wird der Kurs der USA gegenüber der Ukraine als koordinierte Kampagne kritisiert.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQy1ZMnJhdURxc04tZjN2QnhnSmN6SjVDSWdkX0JPM21aMXYxbUtVTWdncUJmcWJTNm9ZczFCZXlxS0hEZ3djcEVDc3oyWXJFVG12dzNJMFUySGZyZ05paWtTRUtkU0tuMlRMNHB6MmNNcExiXzdweDIwN2M0djFaYlFpWnBDRnpWUjNuUmx3VmVINGNTSGhzSWVMcHpXSlF0YU5RZVBqT3o3Nnhtei1laXdYc0R2UlFIRnZqZUgwclpCQmhqR0VObkE4dE1RcXR3c09nQWE2UmdVSkszNnE3MGlKVXlTT3dRS1RjZQ?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-21T05:04:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "b4465c5a89a49e2b",
+   "k": "nrw",
+   "titel": "Frost-Warnung für NRW: Glätte am Samstag, eisige Nächte folgen - Come-on",
+   "t": "Der Deutsche Wetterdienst warnt für NRW vor Glätte am Samstag, danach folgen eisige Nächte.",
+   "e": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONnZFQ1BIRXJPX0p1b0d1cndzNDdjR0MxTEM5SVVlS29fVzNzeDBKWTQwUE54OV9lc0ZxTDRpdTFLbXRBN0JBOVRpU0dKRkVpWlpqeGRtWUxZUFJJVGRQSU5GOWFUZkkxVGo3Wm9WLVFscVA1d1V1ZHQ2eHViTFZvN2pZNFFMMlhrSlpNMlFBR3plWWYtSE5jNEJJbF82NEg5TkdaaHBfOHB5OElJREcxV25TWmwxbVRUckNDNQ?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-21T05:01:23+00:00",
+   "tag": null
+  },
   {
    "id": "08f3ee40f08915ea",
    "k": "usa",
@@ -2749,6 +2965,18 @@
    "tag": null
   },
   {
+   "id": "e1b44a9854ad9d7b",
+   "k": "finanzen",
+   "titel": "What Gold’s Price Collapse Means For Millions of Americans - Newsweek",
+   "t": "Der Preisrückgang bei Gold betrifft nach Berichten Millionen US-Bürger, die Gold als Anlage oder Sicherheit halten.",
+   "e": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVVaYTJtVXF1Q0RCemZkeThoZGVQeUhmOEs1MDk3RE1LeWRFZjlTdlhrOHhKMldyMmVNMF96T2VaLVlkZm9qdkNUMjBKbzBwYnYyZ3FMc3BtdDdaMFFjYXEzelZJUnRqOUdDTTJtRDBnRndUMzlGRl96c2N3NWpzbnZsOXU0dTZSd3NnbGI1VVk5c0Uydnc?oc=5",
+   "quelle": "Newsweek",
+   "zeit": "2026-11-20T12:15:00+00:00",
+   "tag": null
+  },
+  {
    "id": "54fb303f1f629b92",
    "k": "finanzen",
    "titel": "Fed-Notenbankerin Paulson fordert weitere Zinserhöhungen - trend.at",
@@ -2855,234 +3083,6 @@
    "quelle": "AktienCheck.de",
    "zeit": "2026-11-20T11:20:55+00:00",
    "tag": null
-  },
-  {
-   "id": "dad9bf6a16a70d14",
-   "k": "finanzen",
-   "titel": "Anna Paulson: Die Fed muss die Zinsen noch weiter erhöhen - IDNFinancials",
-   "t": "Die Fed-Vertreterin Anna Paulson fordert weitere Zinserhöhungen der US-Notenbank.",
-   "e": "Die Aussage fällt in eine Phase steigender Zinserwartungen an den Märkten.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkVyNGE1LURULXNiMHpJbWRfZmxqSy1Lenp6STluRHNOWFdKdHkxRFdpM0NvUmZvWnRtTTR4bXh2dkQxMVlJYjZZWmJXQjhpYUx2TU9lc1RiYldlaDlVRlNpRDR0MFBuSzBRVmtsaFNNNEZNZXFwS2tKNGhmSE9FYndfaXpCNHJfOEpsMV9USGxyYmtnXzhZbDlHak96R1RBTXhpeDZGYkM?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-20T11:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6b80832c755f60d7",
-   "k": "finanzen",
-   "titel": "Wall Street: Dow Jones erstmals seit Juni unter 50.000 Punkten, S&P 500 mit sechstem Verlusttag - Wie viel Zinsangst steckt nach dem Fed-Protokoll im Markt? - AktienCheck.de",
-   "t": "Der Dow Jones ist erstmals seit Juni wieder unter 50.000 Punkte gefallen, der S&P 500 verzeichnete seinen sechsten Verlusttag in Folge. Im Markt wird die Zinsangst nach dem Fed-Protokoll diskutiert.",
-   "e": "Sechs Verlusttage in Folge sind eine ungewöhnlich lange Serie, und die Zinserwartungen der Fed sind dabei ein zentraler Faktor.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXprR3dGMmNrOFFCMWJrc0wxdXBubGRwVlBnYVRVZEt0TEREX1V0MWxMd3NSVFNjOEk1QWRUb0R2cWwzbE9pZjVtQVpqVmpNVzJsS2QwZUNCN0JqMHVNUlVCQXZzRDhySTdHaWtDWWdlR1hpQ1NHR2VlU1ZmRk1EVXBYYkNYaDJTVDdQN2UwcmpGbnBObVhVZFdadVFoT3VVSGFreTVzQW8zOHBxWUhJZw?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-20T11:14:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "cccff391ea080dcb",
-   "k": "usa",
-   "titel": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-   "t": "Das Weiße Haus ersetzt den Cyber-Direktor Sean Cairncross durch Kirsten Davies, nachdem es zu verbreiteten Technik-Ausfällen kam.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-20T10:59:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "707119c340bdfafd",
-   "k": "deutschland",
-   "titel": "Galeria schließt drei Kaufhäuser – der Hälfte der Filialen droht das Aus",
-   "t": "Galeria schließt drei Kaufhäuser, weitere Standorte stehen zur Disposition. Von einst 300 Filialen sind nur noch 83 übrig, bis zu 50 könnten laut Medienbericht wegfallen.",
-   "e": "Der Rückzug der Warenhauskette trifft Innenstädte und Beschäftigte und ist ein Signal für den Strukturwandel im Einzelhandel.",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T10:57:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "1d0de952fbb25831",
-   "k": "finanzen",
-   "titel": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-   "t": "VanEck beendet im Februar 2027 die Verwahrungsvereinbarungen mit Gemini für drei Krypto-ETFs, Coinbase bleibt Verwahrer.",
-   "e": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-20T10:54:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "4aaed79e948f1b47",
-   "k": "welt",
-   "titel": "Ukraine-Krieg: Regierung: Drei russische Flugobjekte in Polen abgestürzt",
-   "t": "Die polnische Regierung meldet, dass drei russische Flugobjekte in Polen abgestürzt sind, darunter zwei mutmaßliche Raketen und eine Drohne. Verteidigungsminister Kosiniak-Kamysz spricht von einer Provokation.",
-   "e": "Der Vorfall an der NATO-Ostflanke erhöht die Spannungen mit Russland und stellt die Frage nach der Reaktion des Bündnisses.",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-regierung-drei-russische-flugobjekte-in-polen-abgestuerzt/100271558.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T10:52:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "d779e94b9e98870f",
-   "k": "finanzen",
-   "titel": "Pharma: Nach gescheiterten Reppegather-Deals: Bafin weist Bilanzfehler bei Dermapharm nach",
-   "t": "Die Finanzaufsicht Bafin hat zwei Fehler im Konzernabschluss 2025 des Pharmakonzerns Dermapharm festgestellt. Hintergrund sind gescheiterte Geschäfte mit den Brüdern Reppegather.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-reppegather-deals-bafin-weist-bilanzfehler-bei-dermapharm-nach/100271508.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T10:51:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "4e10c8f896557832",
-   "k": "deutschland",
-   "titel": "Im „Rotationssystem“ sollen kolumbianische Frauen in Hotels für Sex angeboten worden sein",
-   "t": "Vor dem Landgericht Mannheim stehen drei Männer und eine Frau, denen Menschenhandel und Zwangsprostitution kolumbianischer Frauen vorgeworfen wird.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/plus6b0005c839a3e8110f0e3619/prozess-in-mannheim-im-rotationssystem-sollen-kolumbianische-frauen-in-hotels-fuer-sex-angeboten-worden-sein.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T10:51:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "68b5a4a8fef62fb1",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Blitzeinbruch in Juweliergeschäft - n-tv.de",
-   "t": "In einem Juweliergeschäft in Nordrhein-Westfalen hat es einen Blitzeinbruch gegeben.",
-   "e": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjM1SXhRUzJSN3BSbjBHSXRYeXhUc3JYQ0pLNV9kbmxjQmFqZGdxOW9FNHFTaWxRWmUwdDAxdDdCRFFEUTN0NXBKYXZGLVZSMzYtU2YyTVgtOHpra2ZheE91b01vNDNmRmp6anhTTFJJYmFjLWFycFp6bXZIX0FaQ3J4aUttNkFlU0FSN2RrYWFuMWV3Q3Q3WFJuLUVrYW03RnQ4?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-20T10:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c6d5a36542882c0",
-   "k": "welt",
-   "titel": "EU-UK-Gipfel: EU einigt sich mit Briten auf Projekte für Wiederannäherung",
-   "t": "EU und Großbritannien haben sich knapp sieben Jahre nach dem Brexit auf Projekte zur Annäherung geeinigt. Die Vereinbarung soll beim Gipfel in Brüssel vorgestellt werden.",
-   "e": "Nach dem Brexit-Bruch wird die Beziehung zwischen EU und London wieder enger, was Handel und Sicherheit betrifft.",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/eu-uk-gipfel-eu-einigt-sich-mit-briten-auf-projekte-fuer-wiederannaeherung/100270861.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-20T10:44:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "1c43a70d261ada25",
-   "k": "welt",
-   "titel": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-   "t": "Ein Gericht hat ein Urteil gefällt, das den inhaftierten İmamoğlu von einer Präsidentschaftskandidatur in der Türkei ausschließt. Es geht um Vorwürfe im Zusammenhang mit seinem Hochschulabschluss.",
-   "e": "Der größte Rivale Erdoğans wird damit weiter von der nächsten Präsidentschaftswahl ausgeschlossen, was die Lage der Opposition in der Türkei weiter schwächt.",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T10:41:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "3152d8e0515eecba",
-   "k": "finanzen",
-   "titel": "Eurozone Wage Growth Accelerates, But Remains Modest",
-   "t": "Die Tarifverdienste im Euroraum sind im dritten Quartal laut EZB um 2,57 Prozent gestiegen, nach 2,45 Prozent im Vorquartal.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-20T10:38:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "23d4a505a2948d3e",
-   "k": "deutschland",
-   "titel": "„Die letzten 48 Stunden waren eine absolute Katastrophe“ – Experte rechnet mit Merz-Regierung ab",
-   "t": "Gerald Knaus, Vater des EU-Türkei-Abkommens, kritisiert das Verhalten der Koalition in der Migrationspolitik scharf und sieht in der Ruanda-Initiative nur einen Anfang.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6b0010fbb237b5b41c9a220d/migration-die-letzten-48-stunden-waren-eine-absolute-katastrophe-experte-rechnet-mit-merz-regierung-ab.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-20T10:35:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "24a7ebe9742c99d5",
-   "k": "deutschland",
-   "titel": "Ole Hilgert, RBB, über die Lage der Jugendproteste vom Alexanderplatz in Berlin",
-   "t": "Der RBB-Journalist Ole Hilgert äußert sich zur Lage der Jugendproteste am Berliner Alexanderplatz.",
-   "e": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/video/video-1686986.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-20T10:26:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "d032ce7d1a782a35",
-   "k": "deutschland",
-   "titel": "Anklage wegen Mord: Mann soll Ehefrau getötet haben, weil ihm das Seniorenheim zu teuer war",
-   "t": "Die Staatsanwaltschaft Koblenz klagt einen 80-Jährigen wegen Mordes an seiner Ehefrau an. Er soll sie im Seniorenheim erwürgt haben, um die Heimkosten zu sparen.",
-   "e": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/mordanklage-in-koblenz-80-jaehriger-soll-ehefrau-im-seniorenheim-getoetet-haben-accg-201701565.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-20T10:24:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "1effba9bf84b9af2",
-   "k": "finanzen",
-   "titel": "Währungstausch: EZB will Schutzschirm gegen Finanzstress ausweiten - WirtschaftsWoche",
-   "t": "Die EZB will ihren Währungstausch-Schutzschirm gegen Finanzstress ausweiten, wie Lagarde mitteilte.",
-   "e": "Ein erweiterter Schutzschirm soll Liquiditätsengpässe im Euroraum abfedern, falls Finanzmärkte unter Druck geraten.",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakZKQXRLQWtWZ2tXVGVLTUFKU1hDWmsxVHU3OTlwVlptUHhGdmwwWEluVzR6MzRQNzdfb1RObzAyQ1MzRnYyUUZjVm9MN2dudjl2MDZWcXdqUjI3SWkxYVJXbVo3LTJqTEFlTnlfbGJOa2h5ZzFYdXh4YzNxYXJUVHEwR2hWREE3NWFsaWZBTHBCclRmWVJBVFNTbUJsenZEbHZxSXR5UndRcE0tX3l2UndFLWJOZmp2cTZ6cg?oc=5",
-   "quelle": "WirtschaftsWoche",
-   "zeit": "2026-11-20T10:23:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "3527fa40776427fd",
-   "k": "finanzen",
-   "titel": "Globaler Wettlauf: EZB-Chefin Lagarde: Europa handelt bei Krisen oft zu spät - Tagesspiegel",
-   "t": "EZB-Chefin Lagarde sagt, Europa handle bei Krisen oft zu spät.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMi10ZnBWSktDLUhHemVSbzliOFRHeFVTZG42Wmp4ajdYZEJUU0ItUWpqcHBOTUN1UG9GVF9UQ29NMDVMZ1RwZU1iZlVfRGZBTGhTT1BEZG80ZVRSR2RzNVdlTEJNV3pPRTRRZnhSbkJiWHo3NlFyTm1LOVQ1UE5jeTF5RzhjdXZCM1RmeXYtWkxWSElyczdWNnkxakN1NHIzYlVMX3U4R2VTYnhQSS1MOXBZZ0hlR25vaXY1RUJ6X2NlQ0o4OXk5VExDMA?oc=5",
-   "quelle": "Tagesspiegel",
-   "zeit": "2026-11-20T10:22:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "28a6c455dab604f5",
-   "k": "finanzen",
-   "titel": "Globaler Wettlauf: EZB-Chefin Lagarde: Europa handelt bei Krisen oft zu spät - Saarbrücker Zeitung",
-   "t": "EZB-Chefin Lagarde kritisiert, Europa handle bei Krisen oft zu spät.",
-   "e": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDVWaGp3UUhVMF9xOTNaUWJWQlZDdlBSbXllcTRqRUVDeTFnbjg0SFJTN2VnMWhvbnlieGtpSHMwd3FnQzk0U1hCTjlVbHZMX010WDRaLWRKRGQ5OHZFOHROVXp3TmhDQnZHMENSS3dMeExINWhJVUZBU0ZUeERocHVjUU1xWEsxNGhNZDM5U2FBek9ZaDhZaGotTl9qalNQLWhhc2xGdTZjMHdoVmIybWZxZjlpdS12MjlSNDJBR1lsWW9QcXlWWVp3?oc=5",
-   "quelle": "Saarbrücker Zeitung",
-   "zeit": "2026-11-20T10:21:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d06ef6be30979899",
-   "k": "finanzen",
-   "titel": "EZB-Ratsmitglied Santos Pereira: Energiebedingter Inflationsdruck gibt Anlass zur Sorge - MarketScreener Deutschland",
-   "t": "EZB-Ratsmitglied Santos Pereira sieht energiebedingten Inflationsdruck mit Sorge.",
-   "e": "Energiepreise bleiben ein Risiko für die Inflation im Euroraum und können Zinsentscheidungen der EZB beeinflussen.",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUFdmUUVscGlHdU5ROEloQ0dLMENRY1JmVzFBQkVGWnlNb2p1dVhlMS1TZVBieUNTV2VMVl94bENSWkRrRjZWNXJBSXVreEZRSjI4OXNjM3dHM0o1VlgzTkloS0RfUWpqcTlxM0tEcFRlbW1JZUt3N0dKSXFfTzFpTDlscFlVWW1UdEZVVW14WGQtQ1YzbkNyNnYwNy05T01kbXhPYkx4QXBIMkRwVHdXYVFRYnVlZEZ5aVB2LUdHejdHcUM4NVpSVURsY3BDaXZtTUJQUjJyaFY3Um1sODVFaUpfY3NNNW8?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-20T10:10:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3100,12 +3100,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Welt",
@@ -3145,12 +3145,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "MarketWatch",
@@ -3190,12 +3190,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 31
+    "n": 28
    },
    {
     "name": "Google News NRW",
@@ -3210,7 +3210,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 13
    },
    {
     "name": "Google News Fed",
