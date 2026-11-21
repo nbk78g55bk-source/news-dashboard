@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-21T19:01:29.913141+00:00",
+ "aktualisiert": "2026-11-21T20:30:49.936425+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.057 $",
-   "delta": 2.909201343569557
+   "wert": "60.322 $",
+   "delta": 2.7940883310886204
   },
   {
    "name": "Ethereum",
-   "wert": "1.680 $",
-   "delta": 3.9062387501140945
+   "wert": "1.684 $",
+   "delta": 4.605740454949353
   },
   {
    "name": "Gold",
@@ -49,6 +49,58 @@
   {
    "name": "Fed Funds",
    "wert": "3,88 %",
+   "delta": null
+  }
+ ],
+ "trading_markt": [
+  {
+   "name": "S&P 500",
+   "wert": "6.910",
+   "delta": -3.699085335565211
+  },
+  {
+   "name": "Nasdaq-100",
+   "wert": "25.029",
+   "delta": -5.611743151701476
+  },
+  {
+   "name": "DAX",
+   "wert": "24.803",
+   "delta": -2.5959608270653134
+  },
+  {
+   "name": "VIX (Angstbarometer)",
+   "wert": "35,89",
+   "delta": 26.19549692701595
+  },
+  {
+   "name": "US 10J Rendite",
+   "wert": "4,91 %",
+   "delta": null
+  },
+  {
+   "name": "Bitcoin",
+   "wert": "60.322 $",
+   "delta": 2.7940883310886204
+  },
+  {
+   "name": "Ethereum",
+   "wert": "1.684 $",
+   "delta": 4.605740454949353
+  },
+  {
+   "name": "Solana",
+   "wert": "71 $",
+   "delta": 3.1583220138732444
+  },
+  {
+   "name": "Rohöl WTI",
+   "wert": "83,41 $",
+   "delta": 0.24035682938092773
+  },
+  {
+   "name": "EUR/USD",
+   "wert": "1,0990",
    "delta": null
   }
  ],
@@ -81,6 +133,201 @@
  },
  "items": [
   {
+   "id": "518dd16e2d979ae4",
+   "k": "deutschland",
+   "titel": "Karoline Preisler bei Palästina-Demonstration in Berlin angegriffen",
+   "t": "Die Juristin Karoline Preisler wurde bei einer israelfeindlichen Demonstration in Berlin angegriffen und getreten. Es ist nicht der erste Angriff auf sie bei solchen Kundgebungen.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T20:23:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "69b7817cc9959994",
+   "k": "welt",
+   "titel": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+   "t": "EU und Indonesien haben ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Die Verhandlungen dauerten fast zehn Jahre.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T20:17:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "03059db3022c5238",
+   "k": "welt",
+   "titel": "Akuter Darmverschluss – Brasiliens Ex-Präsident Bolsonaro auf Intensivstation",
+   "t": "Der frühere brasilianische Präsident Jair Bolsonaro liegt wegen eines akuten Darmverschlusses auf der Intensivstation. Laut Krankenhaus ist er bei Bewusstsein.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-21T19:58:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "63bc6d4e70ff3937",
+   "k": "welt",
+   "titel": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+   "t": "In den Niederlanden protestieren Anwohner gegen PFAS-Belastung durch die Chemiefabrik Chemours. Sie sollen kein Obst aus ihren Gärten mehr essen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T19:54:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "cadf6a1c3a433110",
+   "k": "trading",
+   "titel": "HPE Aktie: Minus 10 Prozent an einem Tag – FAA-Stopp, Insiderverkauf und Zahlen am Montag – Showdown am 23. November - AktienCheck.de",
+   "t": "Die HPE-Aktie verlor an einem Tag rund 10 Prozent, nach einem FAA-Stopp und einem Insiderverkauf. Die Zahlen werden am Montag erwartet, der Termin ist der 23. November.",
+   "e": "",
+   "tk": "HPE",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1d1k0ZmhzVGxvSjFFRkxtUFlQb0xuNHVHS1l4WVVoZkJYT1Z0QWZTUFJHNnM5UWhLQjVRV1VvdzMzNVc0eHZhSl9tMFMwWmtXMjFPU1J6dWVpNThROFlLZ25DTnFURHF4b1R4QnJ0d0ZSTU90NEh2dnpNYmx5Zw?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T19:44:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "21058169bd7864e1",
+   "k": "trading",
+   "titel": "Intuit Aktie: Kurssturz um 14 Prozent, Mailchimp für ein Drittel des Kaufpreises verkauft – Wie tief fällt der TurboTax-Konzern? - AktienCheck.de",
+   "t": "Die Intuit-Aktie fiel um rund 14 Prozent, nachdem Mailchimp für etwa ein Drittel des Kaufpreises verkauft wurde.",
+   "e": "",
+   "tk": "INTU",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3ItZFplTDMySVEtTHQtMHRFRF9lVDY2SUFnOFZfMjl2dmJscmVCSk1EV2wzbC1jemp4bVVSMEJRTy1WU1pnMl91YWJCMGZLajh5VkVtR3ZyanA3ekZCMEM1eWtPRXNFdjBocEd1a2tSelZzQ2dNZ3JXcEhyb0JCTDhYa1M1NnVRcDMzemE5ZnU?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T19:42:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "ba8469821d153f69",
+   "k": "welt",
+   "titel": "Russische Armee greift Südukrainische Industriestadt Krywyj Rih an",
+   "t": "Die russische Armee greift die südukrainische Industriestadt Krywyj Rih an.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687772.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T19:29:44+00:00",
+   "tag": null
+  },
+  {
+   "id": "28aeac64515f37b9",
+   "k": "deutschland",
+   "titel": "Bald Generalinspekteur: Im guten Geiste Preußens",
+   "t": "Christian Freuding wird künftiger Generalinspekteur der Bundeswehr.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/politik/inland/christian-freuding-staerkt-der-neue-generalinspekteur-die-bundeswehr-201694897.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-21T19:26:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "ea8c381b7dd70bbf",
+   "k": "deutschland",
+   "titel": "Bundesverkehrsministerium erwägt streckenbezogene PKW-Maut für alle",
+   "t": "Das Bundesverkehrsministerium erwägt eine streckenbezogene Pkw-Maut für alle Autofahrer.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687766.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T19:23:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "844b51537242174a",
+   "k": "deutschland",
+   "titel": "Alters-Vorsorgedepot kommt erst Mitte 2027",
+   "t": "Das Altersvorsorgedepot soll als Nachfolger der Riester-Rente erst Mitte 2027 kommen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687764.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-21T19:21:35+00:00",
+   "tag": null
+  },
+  {
+   "id": "49af6a51095c3804",
+   "k": "finanzen",
+   "titel": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers' - Investor's Business Daily",
+   "t": "Nach Nvidia und Anthropic gilt die Woche an der Wall Street als die schlechteste seit der Covid-Zeit. Die Dow-Jones-Futures zeigen entsprechende Verluste.",
+   "e": "Die Schwäche bei KI-Werten belastet den breiten Markt und erinnert an die Turbulenzen von 2020.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
+   "quelle": "Investor's Business Daily",
+   "zeit": "2026-11-21T19:18:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "67fb755426266cbd",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
+   "t": "Die Chefin des Online-Händlers Wildberries, Kim, ist nach EU-Sanktionen zurückgetreten.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-21T19:04:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1017ac0290ae0a3",
+   "k": "usa",
+   "titel": "Trump says Sen Cornyn is doing a 'tremendous disservice' by blocking Texas judicial pick",
+   "t": "Trump wirft Senator John Cornyn vor, die Bestätigung eines Bundesrichters für Dallas zu blockieren.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-21T18:57:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "0ca86751b6f257a1",
+   "k": "trading",
+   "titel": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "t": "Die Börsen Upbit und Bithumb haben Ein- und Auszahlungen von CYBER wegen eines vermuteten Sicherheitsvorfalls ausgesetzt. Ein Bridge-Exploit von rund einer Million Dollar wird untersucht.",
+   "e": "",
+   "tk": "CYBER",
+   "s": 5,
+   "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "quelle": "The Block",
+   "zeit": "2026-11-21T18:51:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "18a4ca5537d8e542",
+   "k": "trading",
+   "titel": "Ethereum Kurs bei 1.534,83 Euro – 1,68 % gestiegen - tixio - Nachrichten",
+   "t": "Ethereum notierte bei rund 1.535 Euro und lag damit 1,68 Prozent im Plus.",
+   "e": "",
+   "tk": "ETH",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjhsdGVkNHRYMElFdmxuMVVibExhUXAweS11LUMxN1d2dFZ0WVZ1QzNtazlYWmlRQlRqRTllZS1uRW5WLUlGRlpxUmpYUThTS09xREQ4aFdSNlF6TnBWU0pIZzI1T1Y3a0l1ZDg2S05NUzUybzZUdnVDYWZXbE1CMjNCQXA?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-21T18:34:12+00:00",
+   "tag": null
+  },
+  {
    "id": "1567289333c9569f",
    "k": "welt",
    "titel": "Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte",
@@ -105,6 +352,45 @@
    "tag": null
   },
   {
+   "id": "723930f64b7edeaa",
+   "k": "trading",
+   "titel": "D-Wave Quantum Aktie: Anthropic-Rally verpufft! - Börse Global",
+   "t": "Die Aktie von D-Wave Quantum hat den Anthropic-bedingten Kursanstieg wieder abgegeben.",
+   "e": "",
+   "tk": "QBTS",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3IzSThvRUo5OWJfTFpLcDhNS1IySGwwNUZ6RXpTV1A3TF9EenVLdlhHMVVCTE9lMWJBa3hWNWR2OEFjMW1uRTd2VVVWMTBSZE5CZjNmZ0U0MDlGUUotOXI1N19FRXVPOWM3SXZvcmFfb2JZZFJSS2tiOF83dkRhbExDQzd3MDBN?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-21T18:24:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "38f37d7fa166bce8",
+   "k": "trading",
+   "titel": "Shopify Aktie: Minus 16 Prozent in einer Woche vor dem Black Friday – kommt jetzt das Comeback im Weihnachtsgeschäft? - AktienCheck.de",
+   "t": "Die Shopify-Aktie verlor in einer Woche rund 16 Prozent vor dem Black Friday.",
+   "e": "",
+   "tk": "SHOP",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakdvdGJJbGdOSzItYlJVZElMZUNfMHl4eXF1Y0FBVmZsZTVMSmtTWldUT0hBZ2dBYVNuUmhBMlp6N0d2OFZRZU9OU0VuQ3ZNc2JJbGlxN2FrWExqZ1Y4V0NJRVdIMTRSM1JjN2U1SFJhaWFRWHhFdW5oSGNaUERHems0ek9qVzlSMFpPMks5RUc?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T18:04:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "dd7765b5e7b41392",
+   "k": "finanzen",
+   "titel": "AI Fears Drive Market Selloff as VIX Closes at 36 - Wisevoter",
+   "t": "Der VIX schloss bei 36, nachdem Sorgen um KI den Markt belastet hatten.",
+   "e": "Ein VIX über 30 signalisiert erhöhte Nervosität und starke Schwankungen an den Aktienmärkten.",
+   "tk": "",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcldBYXpmUnhGWTNranJHbWlWMXZiOW5oLTQ3aGRoaDVJZ3pQTVF6UWlXYWh4M1RWdm9zS2NsQktuZDc3NThQbTd4eXM1ckhfbG56TTAyRjRwMEtGTExlQl9vN291TW5SdXpMeV9WcmVzRmI4dVlLREhnUGhKZjBaQjUyYlVOMXNh?oc=5",
+   "quelle": "Wisevoter",
+   "zeit": "2026-11-21T17:54:44+00:00",
+   "tag": null
+  },
+  {
    "id": "50a435182dc39976",
    "k": "finanzen",
    "titel": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
@@ -114,6 +400,32 @@
    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
    "quelle": "CoinDesk",
    "zeit": "2026-11-21T17:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "3e5083dbca358273",
+   "k": "trading",
+   "titel": "Allianz Aktie: Callcenter-Kahlschlag? - Börse Global",
+   "t": "Die Allianz prüft einen Kahlschlag im Callcenter, berichtet Börse Global.",
+   "e": "",
+   "tk": "ALV",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0QUpjWDR5YnRlRVFqU01IcE1jNGozNGZMeGhaX3I0NFNteDJzcGxJSy1HMkhWbEx5R3pQMkRzX2VDMEZNUjEwdTltVXVvOF9lNk1fSFVETTBxZFRXMEpWbVdiQXNjWmFSRVJyWU84bWR3Z2NKWGNlLVl5SQ?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-21T17:47:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "9c6e015682f5aeb4",
+   "k": "trading",
+   "titel": "Snowflake Aktie: Minus 12 Prozent in einer Woche vor den Zahlen – Eiszeit für die Daten-Cloud? - AktienCheck.de",
+   "t": "Die Snowflake-Aktie verlor in einer Woche rund 12 Prozent vor den Quartalszahlen.",
+   "e": "",
+   "tk": "SNOW",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2VxWG0tYjc5ZkwxRmdEUkp3V19WSHZGejJsc3NSS2VjZEpXWWU1ZzJaV1hDbjEwV050WXEtRTczM3ZDMEpHOWZma2Rfai1qd0JwdjNIY21MWnV3OVBOd1lfSWhWZVhBMmRxd3BwZmx6WFo0LTFJYWR1d0o1UE5neTNfTlRUNWlzcTVfQ0JZSHU?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T17:43:42+00:00",
    "tag": null
   },
   {
@@ -129,6 +441,19 @@
    "tag": null
   },
   {
+   "id": "dba5e28273b0a34f",
+   "k": "trading",
+   "titel": "Bitcoin Kurs bei 54.786,00 Euro – 3,43 % gestiegen - tixio - Nachrichten",
+   "t": "Bitcoin notierte bei rund 54.786 Euro und lag 3,43 Prozent im Plus.",
+   "e": "",
+   "tk": "BTC",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU91eDNVQmlPMUk3OTNKSGxXUUlRVUpMWjAwakZkY3hYQmxGdEJHWFF1MnRQS0FVTWlLS3E0TVZVQnFhU25vZDdXR25qTHU0RDk1am9Wd2h1Nk5TWFJlU29vcXE3NENJUkpYWE4wc0IxblpzMGY1UzdLcDUzUG9ZWHoweU0?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-21T17:31:56+00:00",
+   "tag": null
+  },
+  {
    "id": "647963e552d69d2c",
    "k": "deutschland",
    "titel": "Razzia gegen Zuhälterring – Rumänen zwangen Frauen in Deutschland zur Prostitution",
@@ -138,6 +463,19 @@
    "link": "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
    "quelle": "Welt",
    "zeit": "2026-11-21T17:31:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "c1d3adf9ccc6d753",
+   "k": "trading",
+   "titel": "AppLovin Aktie: Erst plus 71 Prozent in fünf Tagen, jetzt der Rückschlag – verpufft die Rekord-Rally schon wieder? - AktienCheck.de",
+   "t": "Die AppLovin-Aktie hat nach einem Anstieg von 71 Prozent in fünf Tagen einen Rückschlag erlitten.",
+   "e": "",
+   "tk": "APP",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVBlSV9HMlB1VVdGbDlRLWg5ZDRPdVQyaHVMbXI2VUdPZ0Y0MzZyekRHbGp3Qmg3Q2YtdE5Qc3d3Y1VZTU1DbkExb2FvOEg0ODNxVE1XcTBSdEpyc3RIUHg4d1pYdy1GN3hkYTh4eHloREpuenVqOENLbnFWRnFSUHo1WFc1Zw?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T17:27:26+00:00",
    "tag": null
   },
   {
@@ -165,6 +503,19 @@
    "tag": null
   },
   {
+   "id": "49fd8f4ec12c74c4",
+   "k": "trading",
+   "titel": "Super Micro Aktie: 20 Milliarden Umsatz im Quartal, aber 19 Prozent Wochenminus – der KI-Serverbauer notiert kaum über dem Jahrestief - AktienCheck.de",
+   "t": "Super Micro hat ein Quartalsumsatz von rund 20 Milliarden Dollar gemeldet, die Aktie verlor aber 19 Prozent in einer Woche und notiert nahe dem Jahrestief.",
+   "e": "",
+   "tk": "SMCI",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWJFbmh6LXpKR3F6bjVUUVV6Rk44NUY1ZWQxT2RQejRNMGpjNWxHdTJPOWt3UE4tbkNEYzdOaHFfcmtpVEVVMnMzRnZJOXdQTS1wWWRiVTlmSDZvYXMwUGNVSW1uR05sOGFKT0xfaDdPdDFFR2dXZFVlMmdnYjNTMGVjTGxFY0pMTHJJN0VFS24?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T17:04:22+00:00",
+   "tag": null
+  },
+  {
    "id": "cc2c401321efc733",
    "k": "deutschland",
    "titel": "„So eine Ego-Show brauchen wir nicht“ – Schwerdtner rechnet mit Parteiausschluss von Emde",
@@ -174,6 +525,19 @@
    "link": "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
    "quelle": "Welt",
    "zeit": "2026-11-21T17:03:52+00:00",
+   "tag": null
+  },
+  {
+   "id": "79f4104b0e57176f",
+   "k": "trading",
+   "titel": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "t": "Die US-Börsenaufsicht SEC wirft acht Colorado-Gesellschaften vor, mit gefälschten Krypto-Plattformen rund 37 Millionen Dollar von US-Anlegern erbeutet zu haben.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-21T17:01:02+00:00",
    "tag": null
   },
   {
@@ -237,6 +601,19 @@
    "tag": null
   },
   {
+   "id": "a6b88fefa9cde314",
+   "k": "finanzen",
+   "titel": "S&P 500 Stocks Fall 8.6% in a Week as AI Shares Slide - JournalArta",
+   "t": "Die Aktien im S&P 500 fielen in einer Woche im Schnitt um 8,6 Prozent, vor allem KI-Werte gaben nach.",
+   "e": "Der Ausverkauf bei KI-Titeln reicht bis in den breiten US-Aktienmarkt.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGRITGlLX1RQU0NfWm1PMGlqamZDQUIzOVE0VkhyVTNLQWFtRUJMU2NmVkZfampCVEhONzJNU3p1R1VVRHU1MGxDejhSbXJFQmg3VzFpOVhMejZKeWFnUkRjMmp0V21pbjN3WEQzOTZZMzlLTWQ4NG4wSzY4elIzRzhKbw?oc=5",
+   "quelle": "JournalArta",
+   "zeit": "2026-11-21T16:48:32+00:00",
+   "tag": null
+  },
+  {
    "id": "9c70e54b1dc1a612",
    "k": "welt",
    "titel": "Dominic Hebestreit, ARD Istanbul, zzt. in Antalya, erklärt, warum es noch keine Abschlusserklärung beim Weltklimagipfel gibt",
@@ -246,6 +623,19 @@
    "link": "https://www.tagesschau.de/video/video-1687608.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-21T16:45:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "a09812dc7a6abe48",
+   "k": "trading",
+   "titel": "Oxford Square Capital Aktie: Führung kauft nach - Börse Global",
+   "t": "Die Führung der Oxford Square Capital hat Aktien nachgekauft.",
+   "e": "",
+   "tk": "OXSQ",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFFKN3FPWmY5MUdpdlpRZFZxdm9vUjVlLWV6SXp6NEVTZ0QwdXkyREp3amxmdktaTWJxTWh5dUNPbUFvczkzZW9Rd1lwXzNWXzZpQjZ3cDNpY1NXT05aM25md21vU3BRQkx3VEY4czhXS2RzWTNJY0VuWUZGSlpLUFhkdm5YeW9iczEw?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-21T16:41:21+00:00",
    "tag": null
   },
   {
@@ -270,6 +660,19 @@
    "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
    "quelle": "CNBC",
    "zeit": "2026-11-21T16:40:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "ef842ec4cf78b256",
+   "k": "trading",
+   "titel": "Coinbase Aktie: Fünf Verlusttage, minus 20 Prozent, Allzeit-Jahrestief – der Krypto-Winter hat die größte US-Börse erreicht - AktienCheck.de",
+   "t": "Die Coinbase-Aktie verlor in fünf Handelstagen rund 20 Prozent und erreichte ein Allzeit-Jahrestief.",
+   "e": "Der Kursrückgang der größten US-Krypto-Börse spiegelt den schwachen Bitcoin-Markt wider.",
+   "tk": "COIN",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGVRSTRqTm5lc3IxQWp2M25qTFJaekdyYVNzS1c2NTJKeWRaWVZ1QmJCRkJyUGNMcGlXMk8zeUVnLUZmbE9PQk5JaXd1cno1RFFrZlBYbTRlQzFmYUtxYjA2U1VzbkxkVzlQR0szWWg5U3p5WmFmMGw4SDNpcXN5UTY2LUVBSkh6S25DTTlZenV1a3c?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-21T16:35:11+00:00",
    "tag": null
   },
   {
@@ -369,6 +772,19 @@
    "tag": null
   },
   {
+   "id": "05184c6c81ba6753",
+   "k": "trading",
+   "titel": "XRP-Kurs unter 0,90 Dollar: Wie tief fällt der Ripple-Coin noch? - BTC-ECHO",
+   "t": "Der XRP-Kurs ist unter 0,90 Dollar gefallen.",
+   "e": "",
+   "tk": "XRP",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclJCLWRNOHhmMTJGNXlBc2JtV3NZemMxWTFoR0pDWk9ITFlhMmpSTEFrZDRQNExtRUNLM3g4NE10S1oyUHJLQUlXTmJ4ZTl0bHpyMl8yQTFnWDRfemV4Um1lNWwtb1FBWnVLVFRmU20yT29MeUhJUHBxRGh5R3RZelpXaXI4NG43SklwVl9ZTQ?oc=5",
+   "quelle": "BTC-ECHO",
+   "zeit": "2026-11-21T16:00:00+00:00",
+   "tag": null
+  },
+  {
    "id": "f5750e74b85f4955",
    "k": "deutschland",
    "titel": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
@@ -378,6 +794,19 @@
    "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
    "quelle": "Tagesschau",
    "zeit": "2026-11-21T15:55:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "e466daf2fb4a5722",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: 140 Femizide: Holzkreuze in Bielefeld erinnern an getötete Frauen - tagesschau.de",
+   "t": "In Bielefeld wurden Holzkreuze aufgestellt, die an 140 getötete Frauen in NRW erinnern.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUdjd2x6ZWl1S1lSTDJiQTZwXzIycGEtaUxGQzUxaVF2dDExb1FZcmdCbHJOb0JCVGwxTVpsQ3E5ZkVSNnFkcHViODNmX3Q3X3RHengxbkFzSHc0TFVlLU1Sc1BKTjFmMHpYaG96T3BXT2pSLVBzUThFbkdCZmZ4cW9hRjNiemtzaVhGbnlUaUZ2LWM0MG1jVkRGS1Qzc3NqaXBhTVdEbGU1bFd0cldfelRQWVV3U0JTVGRkOHBJTU05QThqdVBlOGx5dGhHWVQ1a2NHWUJ3?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-21T15:53:36+00:00",
    "tag": null
   },
   {
@@ -465,6 +894,19 @@
    "tag": null
   },
   {
+   "id": "20b7ab802ccde2dc",
+   "k": "trading",
+   "titel": "Bitcoin fällt 14 Prozent unter den 200-Wochen-Durchschnitt – was die Historie zeigt - aktien.news",
+   "t": "Bitcoin liegt 14 Prozent unter seinem 200-Wochen-Durchschnitt.",
+   "e": "",
+   "tk": "BTC",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblNlZGxFTEF0UFN5SlFHQXh6Vmp3M2ZQc2pqMmxzZXd4QThqN1Fxa2ZpLWItNlNBbFpyVm1ONkZVRWZNeUVIYVdqTHRKLVN1MC1iZ1RGbVQtVF9sNnhacUlrZHdOSkw2ZFM5NzNWM0ExSThWTmhwbjJmM0RlcGpJTTNoY2hvU0F3cXpSX1NwTkloTHhSNTVQUEdKYjBvQUtUMExmRU9YbVY?oc=5",
+   "quelle": "aktien.news",
+   "zeit": "2026-11-21T14:56:25+00:00",
+   "tag": null
+  },
+  {
    "id": "84068d24bdf035e7",
    "k": "usa",
    "titel": "Demokraten gewinnen Midterms und erhöhen Druck auf Trump - SuaraGarut.ID",
@@ -474,6 +916,19 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yVk9uQXU1b0kwdk9IbWlVUHFwTDNvbmV6NEhvVlZrUENuMmFyeE1YSzlSUGMzcE1RTTBKcVhvR19fcUllWWZKaGFFaE10YkZhdGVhTWswUWV6TkE2LVJYenl5Y0RnQQ?oc=5",
    "quelle": "SuaraGarut.ID",
    "zeit": "2026-11-21T14:51:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "64d2d36cdf6bad1b",
+   "k": "finanzen",
+   "titel": "Nasdaq Drops 10% in Worst Market Week Since April 2025 - JournalArta",
+   "t": "Der Nasdaq ist in der vergangenen Woche um 10 Prozent gefallen, die schwächste Marktwoche seit April 2025.",
+   "e": "Der Rückgang ist deutlich stärker als die üblichen Wochenschwankungen und betrifft vor allem Technologiewerte.",
+   "tk": "",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GU1I5X09NMVY3b0QzaUxOOWVZeHlqT1Ffamo4UHdpMlRTZWlJN3BURVRwek9VTnpjMlprdWdNbWxmNGN3Z1BtbEprUGlET29LT2dBVENpT3pBNVZWY0JlNnhmSHJiU3V3RmxmdVpTY1JrWTZlNFA3aklyOU56bm8?oc=5",
+   "quelle": "JournalArta",
+   "zeit": "2026-11-21T14:46:58+00:00",
    "tag": null
   },
   {
@@ -654,6 +1109,19 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3FNaFR3bzVxUE9vLXJwektRRkRDZUJlTnhwbGtUYWdVZE5yQW9wNDJSTlhGRHZDbEpyQUVRQkhSUm85TlhPZ3lid3pRckNZdlRYRHRvQXgxa1dsMFlveTJsa3ljcTdvT1F0N01Fd3lnOENsNzhScnlGWE9TMHlJV0pFR3lESmdzQ05jMi1pLTBoSlJmRVB4R0R3?oc=5",
    "quelle": "tixio - Nachrichten",
    "zeit": "2026-11-21T14:01:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "99e1ccbb875e4e6a",
+   "k": "finanzen",
+   "titel": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+   "t": "Nach dem Börsengang von Anthropic und einer Führungskrise bei Nvidia wächst die Debatte, ob die KI-Blase platzt. Bitcoin fiel zeitweise unter 60.000 Dollar.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-21T14:01:06+00:00",
    "tag": null
   },
   {
@@ -1434,6 +1902,19 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObElNbUJaSzBtejNUV21mWXoxbklIR1hHcENzWmN2czl2WGxVY2swdTRwQi1fWkVvcER0V215dThjY3R1NW92RTg0cXprUk9Qcnh6S01hbExNdVN0V3RyZFRsVm94elBCN2x6azR4V1dxa1lGeE5Tc2RIOFdCaTJHQkZ5QXJUREZqT2g2cGYyQUNTa1U0dW53REZGRS1zbEhRZmtVbFF5ejdvSHlvR1RVWno0YnNtRDg?oc=5",
    "quelle": "n-tv.de",
    "zeit": "2026-11-21T09:32:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "bbe42588ffbfb3ee",
+   "k": "nrw",
+   "titel": "Bedrohungslage: SEK-Einsatz in Düsseldorf - Frau und Mann verletzt - STERN.de",
+   "t": "In Düsseldorf hat ein SEK-Einsatz wegen einer Bedrohungslage stattgefunden. Eine Frau und ein Mann wurden verletzt.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWd5MDFIcVZzNG9SdXlVamtHMjYtZXV2cGMxTmdkWC1HbUdCcTg1Mm5QWGNJNEpWY3NKSmJ3U3VySWJHdktjQmVhWENPLVNtY3A2V3BkbU84bFdtYWtKcldnVmhTczh1UFdDTjRtWnJDb2h2NkNWVVQ2SkhRNDRaUU1kaG9jTG9Ydkt5MS0yX2w3ODA2cVBRVUN4UTBNRTdtOE11cXZLR1NvcDhVRWViUDcwWElJOU1wSm1rdnpRZ0EwTU04MkVmTEdjakY5ZTRkOGI3cWYwcTFXckNM?oc=5",
+   "quelle": "STERN.de",
+   "zeit": "2026-11-21T09:31:43+00:00",
    "tag": null
   },
   {
@@ -2253,6 +2734,19 @@
    "tag": null
   },
   {
+   "id": "301c86849713cdf1",
+   "k": "usa",
+   "titel": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+   "t": "Der US-Senat hat ein Gesetz beschlossen, das Wettmärkte auf Todesfälle und Kriege verbietet. JPMorgan sieht zugleich wegen des Bitcoin-Kursrückgangs mehr Druck auf die Miner.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+   "quelle": "The Block",
+   "zeit": "2026-11-21T04:30:00+00:00",
+   "tag": null
+  },
+  {
    "id": "4bb81684cb573095",
    "k": "welt",
    "titel": "Folgenreiche KI-Entwicklung: Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
@@ -2322,6 +2816,19 @@
    "link": "https://www.handelsblatt.com/politik/international/umwelt-klimagipfel-verlaengert-nur-trippelschritte-in-sicht/100271703.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-21T03:30:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "966aa630eefa6495",
+   "k": "trading",
+   "titel": "Anthropic Stock Falls 13.5% Premarket as Nasdaq Slides - shattered.io",
+   "t": "Die Anthropic-Aktie fiel vorbörslich um 13,5 Prozent, während auch der Nasdaq nachgab. Anthropic hat kürzlich an die Börse gebracht.",
+   "e": "Der Rückgang folgt kurz nach dem Börsengang und fällt in eine schwache Woche für Technologiewerte.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVFyc2FjdFlQeG5OckxoSlM3YjUxa2stUHQ3YzdnbjhEY1M5ZWdaNFloRmNoMHctcTVnQ0M5T1pkZEhTaVRHTzA1TTNIbWloc1JDQmhZY1JZQ1NDUmd1cW9WSlpFWnlNMFdjSl9uSl95Ymkzai1zQ0JDTm84Tl9FelowSmxQR2NNaHYzZXdWNkR5MmhHYkJ1dFJHYW93dw?oc=5",
+   "quelle": "shattered.io",
+   "zeit": "2026-11-21T03:28:49+00:00",
    "tag": null
   },
   {
@@ -2469,6 +2976,19 @@
    "tag": null
   },
   {
+   "id": "3c0681bce0f446c0",
+   "k": "usa",
+   "titel": "'Look At India': Trump Uses India's 7% Growth To Call Out 'Very Political' US Federal Reserve - Republic World",
+   "t": "Trump verweist auf Indiens Wachstum von 7 Prozent und kritisiert die US-Notenbank Fed als sehr politisch.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGtFaU1GRWlkbW5CVF9iYWVENlBiZzZWQ2FUTTJNV2RaXzE4Q0VLdkZweFFBM3VkanBjOXU4MEhaNkFBRlZtLU5Nc3R6alJaWjRUeElRaWc3WDVhdmxOY0Z5amdUR0tnV0Q4WVUtTGliYXR2VTB3LS1XdDd2TndDV2JTVnFHZ0ZNWWdSQVpGcHp1b3ZmM0FHakl4UTRaN01QUEJqRDdndDVMcml3YUwybFRQTms2RWoxdm90bzBhejNpWXlpamlGaE5GNjhaODVDaVFUMkIwRU14OEnSAeABQVVfeXFMUEVYNnNMZGFndnA0YTdMLUVnTGd3Y3pwYjdEbXZub1FFbVVuV0tlZG5yMDNZT2RLRzJid2FJV0RPWlBkNmQtc0RISjRLb2IwOHBja1lleGVVdHV4SHVaNFEzX3VoVE9ZSW1jN0YtR0xUTmE4R3dhNzB0cnB0Qk9OSkNzdTZWVmpvSGdjVk1NaC1TMDBjNjJvMXlBV3VyOUkyNlJWT1Y3WV9LY0ktYmxzTERZYWdzZDNtNEcwTjlkNWlSOUpNZWFRTlQ0NThLOEdxR0I4SmI1T25EVWlQN1JZZXQ?oc=5",
+   "quelle": "Republic World",
+   "zeit": "2026-11-21T00:04:32+00:00",
+   "tag": null
+  },
+  {
    "id": "e2f7c68f04a08020",
    "k": "welt",
    "titel": "Umwelt: Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
@@ -2577,6 +3097,19 @@
    "tag": null
   },
   {
+   "id": "4d6272dfd439cdf3",
+   "k": "trading",
+   "titel": "StubHub's Stock Slides After Earnings Call as Media Focus on Fulfillment Failures Continues - TicketNews",
+   "t": "Die Aktie von StubHub gab nach der Telefonkonferenz zu den Quartalszahlen nach. Die Medien berichten weiter über Probleme bei der Abwicklung von Tickets.",
+   "e": "",
+   "tk": "STUB",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkNRTGRhNFA2THFMeGxURzZLNXhzRmN3aExycXhJSVctN3JCc1BITC1WcDRhQ01wRmgzT3o2V3JXaTdnNDFIZTMtZnBhTHVjRWpwc1BoM21RdVNSb1h5RjZzc1FfUVZiendRclV0b1Z1djlCeUR1bkxzSHlJbkpEbU5QM2V1Z0d5QjQzQ25qaEJxZmh2SXNrYlEtbXZmNnhBbGEzcmFacUdPcEVWdVExOG5jaENZaERYM1dmdjFMeEZVYXZF?oc=5",
+   "quelle": "TicketNews",
+   "zeit": "2026-11-20T22:43:10+00:00",
+   "tag": null
+  },
+  {
    "id": "d73ff43d129bb982",
    "k": "finanzen",
    "titel": "The Federal Reserve is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question. - Barron's",
@@ -2670,6 +3203,19 @@
    "link": "https://www.wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-20T21:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c1116129f80e4806",
+   "k": "trading",
+   "titel": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+   "t": "Fortitude, eine Zcash-Mining-Firma von DCG, hat die Zustimmung der Aktionäre für einen Nasdaq-Börsengang erhalten. Der ZEC-Kurs liegt rund 55 Prozent unter seinem Rekordhoch.",
+   "e": "",
+   "tk": "ZEC",
+   "s": 4,
+   "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+   "quelle": "The Block",
+   "zeit": "2026-11-20T21:40:01+00:00",
    "tag": null
   },
   {
@@ -2838,6 +3384,19 @@
    "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-20T20:52:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e467b8ad1b2a59a",
+   "k": "trading",
+   "titel": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+   "t": "Die Nvidia-Aktie fiel um rund 13 Prozent auf ein 52-Wochen-Tief, nachdem Berichte über eine SEC-Prüfung von Bilanzierungsfragen bekannt wurden. Zuvor war Jensen Huang zurückgetreten.",
+   "e": "Die Nvidia-Aktie ist als größter KI-Chipwert ein zentraler Treiber der aktuellen Marktschwäche.",
+   "tk": "NVDA",
+   "s": 7,
+   "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-20T20:36:54+00:00",
    "tag": null
   },
   {
@@ -3079,6 +3638,58 @@
    "quelle": "STERN.de",
    "zeit": "2026-11-20T19:46:51+00:00",
    "tag": null
+  },
+  {
+   "id": "de9f26cf344d7151",
+   "k": "trading",
+   "titel": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+   "t": "Elliptic meldet, dass seit dem 17. November Bitcoin im Wert von 149 Millionen Dollar über Coinjoins gemischt wurde. Es handelt sich um Gelder aus dem Binance-Hack.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+   "quelle": "The Block",
+   "zeit": "2026-11-20T18:22:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "badbd3469a1100bd",
+   "k": "trading",
+   "titel": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+   "t": "JPMorgan schätzt die Produktionskosten von Bitcoin auf 86.000 Dollar. Der aktuelle Kurs liegt deutlich darunter.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+   "quelle": "The Block",
+   "zeit": "2026-11-20T18:17:39+00:00",
+   "tag": null
+  },
+  {
+   "id": "d7f3e43f684b4571",
+   "k": "trading",
+   "titel": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+   "t": "Der Token XMR1 (wrapped Monero) ist nach einem Hack über 13 Millionen Dollar um 99 Prozent gefallen. Der Gründer hat Rückerstattungen versprochen.",
+   "e": "",
+   "tk": "XMR",
+   "s": 4,
+   "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "quelle": "The Block",
+   "zeit": "2026-11-20T16:11:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "65aa7ebf45530599",
+   "k": "trading",
+   "titel": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+   "t": "Der Abgeordnete Steven Horsford hält es für möglich, dass ein überparteilicher Gesetzentwurf zur Krypto-Besteuerung noch vor Ende dieses Kongresses im Repräsentantenhaus abgestimmt wird.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+   "quelle": "The Block",
+   "zeit": "2026-11-20T14:51:32+00:00",
+   "tag": null
   }
  ],
  "status": {
@@ -3086,22 +3697,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Welt",
@@ -3111,17 +3722,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -3141,7 +3752,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "CNBC Finance",
@@ -3161,7 +3772,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -3181,7 +3792,64 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 23
+    "n": 22
+   },
+   {
+    "name": "Decrypt",
+    "ok": true,
+    "n": 20
+   },
+   {
+    "name": "The Block",
+    "ok": true,
+    "n": 17
+   },
+   {
+    "name": "Yahoo Finance",
+    "ok": false,
+    "n": 0,
+    "fehler": "404 Client Error: Not Found for url: https://finance.yahoo.com/news/rssindex"
+   },
+   {
+    "name": "CNBC Markets",
+    "ok": true,
+    "n": 3
+   },
+   {
+    "name": "CNBC Investing",
+    "ok": true,
+    "n": 5
+   },
+   {
+    "name": "MarketWatch Market Pulse",
+    "ok": true,
+    "n": 0
+   },
+   {
+    "name": "finanzen.net",
+    "ok": false,
+    "n": 0,
+    "fehler": "403 Client Error: Forbidden for url: https://www.finanzen.net/rss/news"
+   },
+   {
+    "name": "Google News Aktien Kurssprung",
+    "ok": true,
+    "n": 40
+   },
+   {
+    "name": "Google News Krypto Kurs",
+    "ok": true,
+    "n": 40
+   },
+   {
+    "name": "Google News Premarket Movers",
+    "ok": true,
+    "n": 3
+   },
+   {
+    "name": "Google News Nasdaq Futures",
+    "ok": true,
+    "n": 37
    },
    {
     "name": "Google News Iserlohn",
@@ -3201,7 +3869,7 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 31
+    "n": 24
    },
    {
     "name": "Google News USA",
@@ -3211,7 +3879,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 33
+    "n": 28
    }
   ],
   "markt": [],
