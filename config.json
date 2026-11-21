@@ -1,5 +1,5 @@
 {
-  "hinweis": "Hier stellst du alles ein. Feeds hinzufuegen/loeschen, Orte aendern, Push-Schwelle anpassen. Der Basiszins aendert sich nur zum 1.1. und 1.7. (Bundesbank, § 247 BGB) und wird hier von Hand gepflegt. Die Marktleiste oben steht unter 'markt' (Reihenfolge = Anzeige). Weitere Optionen: quelle 'basiszins' oder 'eurusd'.",
+  "hinweis": "Hier stellst du alles ein. Feeds hinzufuegen/loeschen, Orte aendern, Push-Schwelle anpassen. Der Basiszins aendert sich nur zum 1.1. und 1.7. (Bundesbank, § 247 BGB) und wird hier von Hand gepflegt. Die Marktleiste oben steht unter 'markt' (Reihenfolge = Anzeige), die Leiste im Tab 'Aktien & Krypto' unter 'trading_markt'. Weitere Optionen: quelle 'basiszins' oder 'eurusd'. Yahoo-Formate (fmt): eur, usd, usd2, idx, idx2, rate.",
   "orte": [
     "Iserlohn",
     "Märkischer Kreis",
@@ -9,8 +9,9 @@
     "Dortmund",
     "Sauerland"
   ],
-  "interessen": "Aktien, Krypto, Zinsen und Notenbanken (EZB, Fed, Basiszins), Weltwirtschaft, Politik in Deutschland und den USA",
+  "interessen": "Aktien, Krypto, kurzfristiges Trading, Zinsen und Notenbanken (EZB, Fed, Basiszins), Weltwirtschaft, Politik in Deutschland und den USA",
   "push_min_score": 9,
+  "push_min_score_trading": 8,
   "push_max_pro_tag": 5,
   "ruhezeit": {
     "von": 23,
@@ -21,7 +22,7 @@
     12,
     19
   ],
-  "max_items_pro_lauf": 70,
+  "max_items_pro_lauf": 90,
   "aufbewahren_stunden": 48,
   "andere_sicht_aktiv": false,
   "basiszins": {
@@ -82,6 +83,63 @@
     {
       "name": "Fed Funds",
       "quelle": "fed"
+    }
+  ],
+  "trading_markt": [
+    {
+      "name": "S&P 500",
+      "quelle": "yahoo",
+      "symbol": "^GSPC",
+      "fmt": "idx"
+    },
+    {
+      "name": "Nasdaq-100",
+      "quelle": "yahoo",
+      "symbol": "^NDX",
+      "fmt": "idx"
+    },
+    {
+      "name": "DAX",
+      "quelle": "yahoo",
+      "symbol": "^GDAXI",
+      "fmt": "idx"
+    },
+    {
+      "name": "VIX (Angstbarometer)",
+      "quelle": "yahoo",
+      "symbol": "^VIX",
+      "fmt": "idx2"
+    },
+    {
+      "name": "US 10J Rendite",
+      "quelle": "yahoo",
+      "symbol": "^TNX",
+      "fmt": "rate"
+    },
+    {
+      "name": "Bitcoin",
+      "quelle": "krypto",
+      "id": "bitcoin"
+    },
+    {
+      "name": "Ethereum",
+      "quelle": "krypto",
+      "id": "ethereum"
+    },
+    {
+      "name": "Solana",
+      "quelle": "krypto",
+      "id": "solana"
+    },
+    {
+      "name": "Rohöl WTI",
+      "quelle": "yahoo",
+      "symbol": "CL=F",
+      "fmt": "usd2"
+    },
+    {
+      "name": "EUR/USD",
+      "quelle": "eurusd"
     }
   ],
   "feeds": [
@@ -178,12 +236,67 @@
     {
       "name": "CoinDesk",
       "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "hint": "finanzen"
+      "hint": "trading"
     },
     {
       "name": "Cointelegraph",
       "url": "https://cointelegraph.com/rss",
-      "hint": "finanzen"
+      "hint": "trading"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "hint": "trading"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml",
+      "hint": "trading"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "hint": "trading"
+    },
+    {
+      "name": "CNBC Markets",
+      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+      "hint": "trading"
+    },
+    {
+      "name": "CNBC Investing",
+      "url": "https://www.cnbc.com/id/15839069/device/rss/rss.html",
+      "hint": "trading"
+    },
+    {
+      "name": "MarketWatch Market Pulse",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+      "hint": "trading"
+    },
+    {
+      "name": "finanzen.net",
+      "url": "https://www.finanzen.net/rss/news",
+      "hint": "trading"
+    },
+    {
+      "name": "Google News Aktien Kurssprung",
+      "url": "https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quartalszahlen+when:1d&hl=de&gl=DE&ceid=DE:de",
+      "hint": "trading"
+    },
+    {
+      "name": "Google News Krypto Kurs",
+      "url": "https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+when:1d&hl=de&gl=DE&ceid=DE:de",
+      "hint": "trading"
+    },
+    {
+      "name": "Google News Premarket Movers",
+      "url": "https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+reaction+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "hint": "trading"
+    },
+    {
+      "name": "Google News Nasdaq Futures",
+      "url": "https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "hint": "trading"
     },
     {
       "name": "Google News Iserlohn",
