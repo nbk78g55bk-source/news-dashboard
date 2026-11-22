@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-22T19:01:45.453329+00:00",
+ "aktualisiert": "2026-11-22T21:01:46.958792+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.692 $",
-   "delta": 1.0985852486960872
+   "wert": "60.837 $",
+   "delta": 0.7921354477651423
   },
   {
    "name": "Ethereum",
-   "wert": "1.713 $",
-   "delta": 1.9953851703818155
+   "wert": "1.719 $",
+   "delta": 2.078871087768052
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.692 $",
-   "delta": 1.0985852486960872
+   "wert": "60.837 $",
+   "delta": 0.7921354477651423
   },
   {
    "name": "Ethereum",
-   "wert": "1.713 $",
-   "delta": 1.9953851703818155
+   "wert": "1.719 $",
+   "delta": 2.078871087768052
   },
   {
    "name": "Solana",
    "wert": "70 $",
-   "delta": -0.44951718159745196
+   "delta": -0.4960912914164043
   },
   {
    "name": "Rohöl WTI",
@@ -5304,12 +5304,12 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Tagesschau Ausland",
@@ -5319,7 +5319,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Welt",
@@ -5329,7 +5329,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "FAZ",
@@ -5344,7 +5344,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Handelsblatt",
@@ -5354,12 +5354,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 29
+    "n": 26
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 7
+    "n": 4
    },
    {
     "name": "CNBC Finance",
@@ -5374,12 +5374,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 21
+    "n": 19
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -5394,17 +5394,17 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 8
+    "n": 6
    },
    {
     "name": "The Block",
@@ -5425,7 +5425,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 3
+    "n": 2
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -5455,13 +5455,15 @@
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 29
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -5476,12 +5478,12 @@
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 14
+    "n": 32
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 9
    },
    {
     "name": "Google News Fed",
