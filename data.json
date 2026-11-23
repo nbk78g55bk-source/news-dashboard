@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-23T05:01:40.749457+00:00",
+ "aktualisiert": "2026-11-23T07:01:52.328922+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.167 $",
-   "delta": 3.330090016279514
+   "wert": "61.404 $",
+   "delta": 4.124951719457606
   },
   {
    "name": "Ethereum",
-   "wert": "1.725 $",
-   "delta": 3.8392581150782847
+   "wert": "1.723 $",
+   "delta": 3.914341394251823
   },
   {
    "name": "Gold",
-   "wert": "3.612 $",
-   "delta": -1.9888753222086608
+   "wert": "3.625 $",
+   "delta": 3.1205581357361956
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.167 $",
-   "delta": 3.330090016279514
+   "wert": "61.404 $",
+   "delta": 4.124951719457606
   },
   {
    "name": "Ethereum",
-   "wert": "1.725 $",
-   "delta": 3.8392581150782847
+   "wert": "1.723 $",
+   "delta": 3.914341394251823
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 2.775428051961226
+   "wert": "72 $",
+   "delta": 4.238121146081746
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,50 $",
-   "delta": 0.34851690748480824
+   "wert": "83,18 $",
+   "delta": -0.9526117229757602
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,28 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-22T19:01:45.453310+00:00",
+  "slot": 7,
+  "stand": "2026-11-23T07:01:52.328902+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Die US-Notenbank Fed hat den Leitzins erstmals seit 2023 wieder erhöht, der Fed Funds liegt laut Marktdaten bei 3,88 %. Die EZB-Zinsen stehen bei 2,50 %. Die Fed könnte ihre Zinserhöhungen über Dezember hinaus fortsetzen."
+    "t": "Der KI-Ausverkauf vertieft sich: Der Nasdaq ist an einem Tag um 5,3 Prozent gefallen und in eine Korrektur gerutscht, der S&P 500 ist ebenfalls in eine Korrektur gefallen und der VIX steigt nahe 36. Der Deka Nasdaq-100 notiert bei 165,64 €."
    },
    {
     "k": "finanzen",
-    "t": "Der Nasdaq ist an einem Tag um 5,3 Prozent gefallen, der S&P 500 ist in eine Korrektur gerutscht, belastet durch fallende KI-Aktien. Zuletzt notierten Deka Nasdaq-100 bei 165,64 € und Deka S&P 500 bei 133,75 €."
+    "t": "Die US-Notenbank Fed hat den Leitzins erstmals seit 2023 wieder erhöht, aktuell liegen die Fed Funds bei 3,88 %. Für Dezember wird laut Meldungen eine Erhöhung um einen Viertel- oder halben Prozentpunkt erwogen, während die EZB ihren Zins bei 2,50 % belassen hat."
    },
    {
     "k": "finanzen",
-    "t": "Bitcoin notiert laut Marktdaten bei 60.692 $ und hat sich nach einem Zweijahrestief durch Short-Liquidationen erholt. Zuvor wurden gehebelte Positionen von rund 1,8 Mrd. USD liquidiert. Die Strategy-Aktie hat in einer Woche rund 30 Prozent verloren."
+    "t": "Der iShares MSCI World steht bei 122,72 €, der Deka DAX bei 216,70 €, Bitcoin bei 61.404 $ und Gold bei 3.625 $. Finanzminister Bessent warnt die Fed vor einer zu straffen Geldpolitik."
    },
    {
     "k": "welt",
-    "t": "Trump hat die Verhandlungen mit dem Iran beendet, Experten erwarten nun einen dauerhaften Konflikt auf niedrigem Niveau. Bahrain und Saudi-Arabien melden neue Angriffe, und auf Tanker in der Straße von Hormus wurde erneut geschossen."
+    "t": "Trump hat die Verhandlungen mit dem Iran beendet und kündigt weitere Angriffe an. Saudi-Arabien und Bahrain melden neue Angriffe, während Iran sich weiterhin offen für eine Einigung mit den USA zeigt."
    },
    {
-    "k": "welt",
-    "t": "Die Nato berät über russische Luftraumverletzungen in Polen, Warschau sieht in einem abgestürzten Flugobjekt eine russische Rakete. Nach einem russischen Drohnenangriff ist bei Kiew ein Wohnhaus eingestürzt, mindestens 14 Menschen gelten als vermisst."
-   },
-   {
-    "k": "deutschland",
-    "t": "Landkreise und Städte fordern vom Bund 30 Milliarden Euro Soforthilfe und sprechen von der tiefsten Finanzkrise seit Gründung der Bundesrepublik."
+    "k": "usa",
+    "t": "Die Demokraten haben bei den Midterms die größte Mehrheit im US-Repräsentantenhaus seit 1992 gewonnen. Das erhöht den Druck auf Trump durch Untersuchungen und Kontrolle durch die Republikaner."
    }
   ]
  },
@@ -5352,12 +5348,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 11
+    "n": 14
    },
    {
     "name": "Welt",
@@ -5437,7 +5433,7 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Decrypt",
@@ -5447,7 +5443,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "Yahoo Finance",
@@ -5493,19 +5489,18 @@
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
-   },
-   {
-    "name": "Google News Iserlohn",
     "ok": true,
     "n": 40
    },
    {
+    "name": "Google News Iserlohn",
+    "ok": true,
+    "n": 33
+   },
+   {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 4
+    "n": 8
    },
    {
     "name": "Google News NRW",
@@ -5514,19 +5509,18 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 24
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 29
    }
   ],
   "markt": [],
