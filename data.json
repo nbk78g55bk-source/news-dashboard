@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-23T11:02:00.155010+00:00",
+ "aktualisiert": "2026-11-23T13:01:46.651490+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "123,84 €",
-   "delta": 0.9167613540986608
+   "wert": "123,60 €",
+   "delta": 0.7211862351953702
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,80 €",
-   "delta": 2.0681189868805294
+   "wert": "41,69 €",
+   "delta": 1.794648116431019
   },
   {
    "name": "Deka S&P 500",
-   "wert": "133,87 €",
-   "delta": 0.08597444057383274
+   "wert": "134,76 €",
+   "delta": 0.7513701024256969
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "167,52 €",
-   "delta": 1.134991920598294
+   "wert": "167,04 €",
+   "delta": 0.8452068434618987
   },
   {
    "name": "Deka DAX",
-   "wert": "218,35 €",
-   "delta": 0.761422738806905
+   "wert": "218,50 €",
+   "delta": 0.8306428597632864
   },
   {
    "name": "Bitcoin",
-   "wert": "61.376 $",
-   "delta": 0.964465232840975
+   "wert": "61.233 $",
+   "delta": 0.7010266254807977
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 0.9149026194452715
+   "wert": "1.720 $",
+   "delta": 0.7878145838643666
   },
   {
    "name": "Gold",
-   "wert": "3.626 $",
-   "delta": 3.154693654690943
+   "wert": "3.616 $",
+   "delta": 2.847473984098148
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.015",
-   "delta": 0.8541006658543626
+   "wert": "24.964",
+   "delta": 0.6486398205594268
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "30,00",
-   "delta": -16.411255195917494
+   "wert": "31,57",
+   "delta": -12.036777551170507
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.376 $",
-   "delta": 0.964465232840975
+   "wert": "61.233 $",
+   "delta": 0.7010266254807977
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 0.9149026194452715
+   "wert": "1.720 $",
+   "delta": 0.7878145838643666
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 2.415551833892893
+   "delta": 2.7114333847488785
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,63 $",
-   "delta": -1.6075295343771168
+   "wert": "82,15 $",
+   "delta": -2.1790941697819033
   },
   {
    "name": "EUR/USD",
@@ -5352,7 +5352,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -5367,7 +5367,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "FAZ",
@@ -5422,7 +5422,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "New York Post Politik",
@@ -5432,22 +5432,22 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 14
+    "n": 18
    },
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 11
+    "n": 13
    },
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 5
+    "n": 7
    },
    {
     "name": "The Block",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Yahoo Finance",
@@ -5463,7 +5463,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 2
+    "n": 3
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -5483,31 +5483,28 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 0
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 38
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News NRW",
@@ -5517,19 +5514,19 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 37
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 26
    }
   ],
   "markt": [],
