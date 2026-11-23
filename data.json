@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-23T19:01:51.615089+00:00",
+ "aktualisiert": "2026-11-23T21:01:49.351062+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.376 $",
-   "delta": 1.1264166500377295
+   "wert": "61.159 $",
+   "delta": 0.528911344412977
   },
   {
    "name": "Ethereum",
-   "wert": "1.740 $",
-   "delta": 1.5760888299773939
+   "wert": "1.722 $",
+   "delta": 0.21602500827510354
   },
   {
    "name": "Gold",
-   "wert": "3.653 $",
-   "delta": 3.9142089514342615
+   "wert": "3.633 $",
+   "delta": 3.339594382362532
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.241",
-   "delta": 4.787716130863018
+   "wert": "7.238",
+   "delta": 4.737936018135058
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.723",
-   "delta": 6.766714023228371
+   "wert": "26.746",
+   "delta": 6.860509293991868
   },
   {
    "name": "DAX",
@@ -70,33 +70,33 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,08",
-   "delta": -24.547226356848196
+   "wert": "26,72",
+   "delta": -25.550291294497185
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,94 %",
+   "wert": "4,92 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "61.376 $",
-   "delta": 1.1264166500377295
+   "wert": "61.159 $",
+   "delta": 0.528911344412977
   },
   {
    "name": "Ethereum",
-   "wert": "1.740 $",
-   "delta": 1.5760888299773939
+   "wert": "1.722 $",
+   "delta": 0.21602500827510354
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 4.142582026548626
+   "delta": 3.6378532383209183
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,76 $",
-   "delta": -3.8342500931416557
+   "wert": "80,06 $",
+   "delta": -4.667781853107
   },
   {
    "name": "EUR/USD",
@@ -5348,7 +5348,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -5368,12 +5368,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 31
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "NZZ",
@@ -5388,12 +5388,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "CNBC Finance",
@@ -5408,12 +5408,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Fox News Politik",
@@ -5433,17 +5433,17 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 23
+    "n": 26
    },
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "The Block",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Yahoo Finance",
@@ -5454,12 +5454,12 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 0
+    "n": 1
    },
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -5484,9 +5484,8 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
+    "ok": true,
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5505,9 +5504,8 @@
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -5516,15 +5514,13 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 13
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 37
    }
   ],
   "markt": [],
