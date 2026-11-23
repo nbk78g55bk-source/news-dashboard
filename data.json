@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-23T21:01:49.351062+00:00",
+ "aktualisiert": "2026-11-23T23:01:49.509343+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "126,64 €",
-   "delta": 3.202545556280878
+   "delta": -0.114363052670019
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,74 €",
-   "delta": 6.797700023136866
+   "delta": 1.5297078480397408
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,40 €",
-   "delta": 3.469025417966809
+   "delta": -0.09384147425518519
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "174,26 €",
-   "delta": 5.204057378721694
+   "delta": -1.0785669973950252
   },
   {
    "name": "Deka DAX",
    "wert": "221,30 €",
-   "delta": 2.1227517842819843
+   "delta": -0.5393258426966252
   },
   {
    "name": "Bitcoin",
-   "wert": "61.159 $",
-   "delta": 0.528911344412977
+   "wert": "61.177 $",
+   "delta": 0.14873082918278357
   },
   {
    "name": "Ethereum",
-   "wert": "1.722 $",
-   "delta": 0.21602500827510354
+   "wert": "1.710 $",
+   "delta": -0.4127185898496968
   },
   {
    "name": "Gold",
-   "wert": "3.633 $",
-   "delta": 3.339594382362532
+   "wert": "3.634 $",
+   "delta": 3.385108407635551
   },
   {
    "name": "EZB Zins",
@@ -55,8 +55,8 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.238",
-   "delta": 4.737936018135058
+   "wert": "7.237",
+   "delta": 4.7288193114435995
   },
   {
    "name": "Nasdaq-100",
@@ -66,12 +66,12 @@
   {
    "name": "DAX",
    "wert": "25.337",
-   "delta": 2.1549629447871643
+   "delta": -0.49694269693869586
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,72",
-   "delta": -25.550291294497185
+   "wert": "26,62",
+   "delta": -25.828920443844126
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.159 $",
-   "delta": 0.528911344412977
+   "wert": "61.177 $",
+   "delta": 0.14873082918278357
   },
   {
    "name": "Ethereum",
-   "wert": "1.722 $",
-   "delta": 0.21602500827510354
+   "wert": "1.710 $",
+   "delta": -0.4127185898496968
   },
   {
    "name": "Solana",
-   "wert": "73 $",
-   "delta": 3.6378532383209183
+   "wert": "72 $",
+   "delta": 2.1802406904190383
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,06 $",
-   "delta": -4.667781853107
+   "wert": "80,25 $",
+   "delta": -4.441537518259264
   },
   {
    "name": "EUR/USD",
@@ -5373,7 +5373,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 7
+    "n": 8
    },
    {
     "name": "NZZ",
@@ -5393,12 +5393,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 7
+    "n": 8
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "MarketWatch",
@@ -5408,12 +5408,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Fox News Politik",
@@ -5433,12 +5433,12 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 15
+    "n": 17
    },
    {
     "name": "The Block",
@@ -5485,7 +5485,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5500,7 +5500,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Google News NRW",
@@ -5515,12 +5515,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 37
+    "n": 40
    }
   ],
   "markt": [],
