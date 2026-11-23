@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-23T09:01:41.101273+00:00",
+ "aktualisiert": "2026-11-23T11:02:00.155010+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "123,28 €",
-   "delta": 0.4563449283471632
+   "wert": "123,84 €",
+   "delta": 0.9167613540986608
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,65 €",
-   "delta": 1.6969799484133352
+   "wert": "41,80 €",
+   "delta": 2.0681189868805294
   },
   {
    "name": "Deka S&P 500",
@@ -18,28 +18,28 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "166,78 €",
-   "delta": 0.6882399266797012
+   "wert": "167,52 €",
+   "delta": 1.134991920598294
   },
   {
    "name": "Deka DAX",
-   "wert": "217,80 €",
-   "delta": 0.5076156286335953
+   "wert": "218,35 €",
+   "delta": 0.761422738806905
   },
   {
    "name": "Bitcoin",
-   "wert": "61.432 $",
-   "delta": 2.848697996470098
+   "wert": "61.376 $",
+   "delta": 0.964465232840975
   },
   {
    "name": "Ethereum",
    "wert": "1.723 $",
-   "delta": 2.226061765109741
+   "delta": 0.9149026194452715
   },
   {
    "name": "Gold",
-   "wert": "3.611 $",
-   "delta": 2.725155041176941
+   "wert": "3.626 $",
+   "delta": 3.154693654690943
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "24.943",
-   "delta": 0.5638912536814811
+   "wert": "25.015",
+   "delta": 0.8541006658543626
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "31,11",
-   "delta": -13.318471638166452
+   "wert": "30,00",
+   "delta": -16.411255195917494
   },
   {
    "name": "US 10J Rendite",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.432 $",
-   "delta": 2.848697996470098
+   "wert": "61.376 $",
+   "delta": 0.964465232840975
   },
   {
    "name": "Ethereum",
    "wert": "1.723 $",
-   "delta": 2.226061765109741
+   "delta": 0.9149026194452715
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 3.6831064618226925
+   "delta": 2.415551833892893
   },
   {
    "name": "Rohöl WTI",
@@ -106,28 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-23T07:01:52.328902+00:00",
+  "slot": 12,
+  "stand": "2026-11-23T11:02:00.154990+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Der KI-Ausverkauf vertieft sich: Der Nasdaq ist an einem Tag um 5,3 Prozent gefallen und in eine Korrektur gerutscht, der S&P 500 ist ebenfalls in eine Korrektur gefallen und der VIX steigt nahe 36. Der Deka Nasdaq-100 notiert bei 165,64 €."
+    "t": "Der KI-Ausverkauf setzt die US-Börsen unter Druck: Der Nasdaq fiel an einem Tag um 5,3 Prozent, Nvidia verlor binnen einer Woche rund 2,65 Billionen Dollar Marktwert, und der S&P 500 ist in eine Korrektur gerutscht. Der Deka Nasdaq-100 notiert bei 167,52 €."
    },
    {
     "k": "finanzen",
-    "t": "Die US-Notenbank Fed hat den Leitzins erstmals seit 2023 wieder erhöht, aktuell liegen die Fed Funds bei 3,88 %. Für Dezember wird laut Meldungen eine Erhöhung um einen Viertel- oder halben Prozentpunkt erwogen, während die EZB ihren Zins bei 2,50 % belassen hat."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der iShares MSCI World steht bei 122,72 €, der Deka DAX bei 216,70 €, Bitcoin bei 61.404 $ und Gold bei 3.625 $. Finanzminister Bessent warnt die Fed vor einer zu straffen Geldpolitik."
+    "t": "Der Deka DAX steht bei 218,35 € und der iShares MSCI World bei 123,84 €. Die Fed Funds liegen bei 3,88 %, der EZB-Zins bei 2,50 %, und die Fed erwägt im Dezember eine Zinserhöhung um einen Viertel- oder halben Prozentpunkt. Gold kostet 3.626 $, Bitcoin 61.376 $."
    },
    {
     "k": "welt",
-    "t": "Trump hat die Verhandlungen mit dem Iran beendet und kündigt weitere Angriffe an. Saudi-Arabien und Bahrain melden neue Angriffe, während Iran sich weiterhin offen für eine Einigung mit den USA zeigt."
+    "t": "Trump hat die Verhandlungen mit dem Iran beendet und rechnet mit einer Fortsetzung der Angriffe. Experten erwarten laut Bericht einen dauerhaften Konflikt auf niedrigem Niveau; die Huthi-Miliz meldet einen Angriff auf die saudische Raffinerie Rabigh."
+   },
+   {
+    "k": "deutschland",
+    "t": "Laut Recherchen von WDR, NDR und SZ bereiten westliche Geheimdienste sich auf die Möglichkeit vor, dass Russland noch in diesem Jahr einen Satelliten mit Atomsprengkopf ins All bringt. Deutschland ist laut denselben Recherchen auf einen großflächigen Satellitenausfall nicht vorbereitet."
+   },
+   {
+    "k": "welt",
+    "t": "Die Nato berät über russische Luftraumverletzungen in Polen, wo ein abgestürztes Flugobjekt als russische Rakete gilt. Bei einem russischen Angriff auf ein Mehrfamilienhaus in der Region Kiew wurden mindestens zehn Menschen getötet."
    },
    {
     "k": "usa",
-    "t": "Die Demokraten haben bei den Midterms die größte Mehrheit im US-Repräsentantenhaus seit 1992 gewonnen. Das erhöht den Druck auf Trump durch Untersuchungen und Kontrolle durch die Republikaner."
+    "t": "Die Demokraten gewinnen bei den Midterms die größte Mehrheit im US-Repräsentantenhaus seit 1992. Der Druck auf Trump wächst dadurch, unter anderem durch Untersuchungen und Gesundheitspolitik."
    }
   ]
  },
@@ -5338,22 +5342,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 10
+    "n": 12
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 16
+    "n": 19
    },
    {
     "name": "Welt",
@@ -5363,17 +5367,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 8
+    "n": 10
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "NZZ",
@@ -5388,12 +5392,12 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 24
+    "n": 27
    },
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 4
+    "n": 5
    },
    {
     "name": "CNBC Finance",
@@ -5408,17 +5412,17 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "New York Post Politik",
@@ -5428,7 +5432,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 11
+    "n": 14
    },
    {
     "name": "Cointelegraph",
@@ -5443,7 +5447,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 8
+    "n": 10
    },
    {
     "name": "Yahoo Finance",
@@ -5479,18 +5483,20 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 0
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -5501,27 +5507,29 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
     "ok": true,
-    "n": 40
+    "n": 37
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 29
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
