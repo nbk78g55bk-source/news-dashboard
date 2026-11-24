@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-24T17:01:56.317119+00:00",
+ "aktualisiert": "2026-11-24T19:01:44.021870+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.369 $",
-   "delta": -4.46875691198282
+   "wert": "59.846 $",
+   "delta": -2.4025605159470045
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -5.648986697726104
+   "wert": "1.678 $",
+   "delta": -3.4301628568192988
   },
   {
    "name": "Gold",
-   "wert": "3.568 $",
-   "delta": -2.281314141742785
+   "wert": "3.556 $",
+   "delta": -2.6072165440614636
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.165",
-   "delta": -0.9958301746814335
+   "wert": "7.189",
+   "delta": -0.6618598484224858
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.047",
-   "delta": -2.612689773764465
+   "wert": "26.190",
+   "delta": -2.0780622875575583
   },
   {
    "name": "DAX",
@@ -70,33 +70,33 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "28,22",
-   "delta": 6.010515065080213
+   "wert": "26,37",
+   "delta": -0.9391466241614022
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,89 %",
+   "wert": "4,91 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.369 $",
-   "delta": -4.46875691198282
+   "wert": "59.846 $",
+   "delta": -2.4025605159470045
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -5.648986697726104
+   "wert": "1.678 $",
+   "delta": -3.4301628568192988
   },
   {
    "name": "Solana",
    "wert": "69 $",
-   "delta": -7.321935617777566
+   "delta": -5.225923497090043
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,84 $",
-   "delta": 0.835726389369218
+   "wert": "81,91 $",
+   "delta": 2.170390259193855
   },
   {
    "name": "EUR/USD",
@@ -106,28 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-24T11:02:05.027884+00:00",
+  "slot": 19,
+  "stand": "2026-11-24T19:01:44.021852+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nvidia hat Jensen Huang nach einem kurzen Rücktritt wieder zum Chef gemacht, was an der Wall Street für Kurssprünge sorgte: Der S&P 500 stieg laut Meldung um 4,62 Prozent, der Nasdaq zum Handelsstart um rund sieben Prozent. Die Nvidia-Aktie legte um 31 Prozent zu. Trump hat seinen Einfluss auf die Entscheidung öffentlich betont, was Kritik auslöst."
+    "t": "Die Fed-Vertreterin Williams signalisiert weitere Zinserhöhungen zur Eindämmung der Inflation, und immer mehr Finanzinstitute erwarten Anhebungen bei den nächsten drei Sitzungen. Der Fed Funds liegt laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %."
    },
    {
     "k": "finanzen",
-    "t": "Bei den Zinsen signalisiert Fed-Vertreter John Williams weitere Zinserhöhungen zur Inflationsbekämpfung, und die Märkte preisen eine Fed-Erhöhung um 25 Basispunkte im Dezember nahezu fest ein. Der Leitzins der Fed liegt laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %."
+    "t": "Der Deka DAX notiert bei 218,50 €, der iShares MSCI World bei 124,56 €. Laut Marktbericht hat der DAX eine sechstägige Verlustserie beendet."
    },
    {
     "k": "finanzen",
-    "t": "Am Markt notieren Deka DAX 219,65 €, Deka S&P 500 137,62 € und Deka Nasdaq-100 170,74 € sowie iShares MSCI World 125,34 €. Bitcoin wird mit 59.648 $ angegeben, nachdem er laut Meldungen von rund 55.000 Dollar auf zeitweise 64.500 Dollar gestiegen war; im Zuge der Nvidia-Rally wurden Liquidationen von über 500 Millionen Dollar gemeldet."
+    "t": "Nach der Rückkehr von Jensen Huang an die Spitze von Nvidia ist die Nvidia-Aktie laut Meldung um 31 Prozent gestiegen und der S&P 500 um 4,62 Prozent. Der Deka Nasdaq-100 notiert bei 168,16 €."
+   },
+   {
+    "k": "finanzen",
+    "t": "Bitcoin liegt laut Marktdaten bei 59.846 $ und rutscht laut Meldungen Richtung 60.000 Dollar, während Bitcoin-ETFs im November Nettoabflüsse von 4,71 Milliarden Dollar verzeichneten."
    },
    {
     "k": "deutschland",
-    "t": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Hubert Aiwanger soll Staatssekretär Tobias Gotthardt dessen Nachfolger werden. Der Landesverband der Freien Wähler wird künftig von einer Doppelspitze geführt."
+    "t": "Deutschland zahlte im vergangenen Jahr 14,9 Milliarden Euro mehr in den EU-Haushalt ein, als zurückfloss. Der zweitgrößte Nettozahler liegt laut Meldung weit dahinter."
    },
    {
     "k": "nrw",
-    "t": "In NRW ist ein Unbekannter in eine Sitzung der Grünen eingedrungen, mehrere Personen wurden im Krankenhaus behandelt. Zudem weitet die IG Metall ihren Arbeitskampf im Märkischen Kreis aus."
+    "t": "In NRW ist ein Unbekannter in eine Sitzung der Grünen eingedrungen, mehrere Personen wurden im Krankenhaus behandelt."
    }
   ]
  },
@@ -2978,409 +2982,6 @@
    "quelle": "Börse Express",
    "zeit": "2026-11-22T19:08:07+00:00",
    "tag": null
-  },
-  {
-   "id": "2507a52e30d1c829",
-   "k": "trading",
-   "titel": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-   "t": "Das Protokoll Chainflip hat einen Diebstahl von 122,9 BTC gemeldet, der Verlust summiert sich auf etwa 12 Millionen Dollar. Dem Angreifer wurde eine Belohnung von 10 Prozent für die Rückgabe angeboten.",
-   "e": "Hacks in dieser Größenordnung belasten das Vertrauen in DeFi-Protokolle und können Kursbewegungen auslösen.",
-   "tk": "BTC,ETH",
-   "s": 6,
-   "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-   "quelle": "The Block",
-   "zeit": "2026-11-22T18:58:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "03e45d9f18583d30",
-   "k": "welt",
-   "titel": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
-   "t": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen laut Bericht von einem Drohnenangriff aus.",
-   "e": "Der Vorfall betrifft die russische Marinepräsenz im Mittelmeerraum, und die Ermittlungen zur Urheberschaft laufen noch.",
-   "tk": "",
-   "s": 7,
-   "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T18:43:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "780b26baf9398cdb",
-   "k": "welt",
-   "titel": "Trump beendet Iran-Verhandlungen – Experten erwarten jetzt endlosen „Krieg auf kleiner Flamme“ - Frankfurter Rundschau",
-   "t": "Trump hat die Verhandlungen mit dem Iran beendet. Experten erwarten nun laut Bericht einen dauerhaften Konflikt auf niedrigem Niveau.",
-   "e": "Ein anhaltender Konflikt mit dem Iran beeinflusst Ölpreise, Schifffahrt und damit auch die Inflationserwartungen.",
-   "tk": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUtKLUprUm9tRnJmSC1GbldJWlBMeU9EVm0zbkd2Y0g1VDZKaEJwZjNTTVZ3UnNmUVhZRHA1MV9fTi1ta0VyWHd0ZzJUa2YyX1AwNExQRVBwRndreFFLTHR1RWk3aHlfbHNQSmJ3Z2NEU090c0pMZlZvaFo0UlhZclVFeGlwQjY1amFHbzJibnRxVkVSSmxXamczdDRuR1R0MlNWOFR4aHIxNEFPRHFrdV84Yw?oc=5",
-   "quelle": "Frankfurter Rundschau",
-   "zeit": "2026-11-22T18:41:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "311dfe4773f24579",
-   "k": "finanzen",
-   "titel": "Philadelphia Fed: Paulson offen für aufeinanderfolgende Zinserhöhungen - Nachrichten und Statistiken - IndexBox",
-   "t": "Philadelphia-Fed-Vertreter Paulson hält aufeinanderfolgende Zinserhöhungen der Fed für möglich.",
-   "e": "Solche Aussagen aus dem Fed-Umfeld beeinflussen direkt die Zinserwartungen an den Märkten.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXNhWElHbmpOZklnQUY2UDQ3YThpNEszTzZoRlpxX2tlbHN4a1FhZVA0THd1cWNPYXRxRWNaeF9jcTVyMDZHX3gyd1p5T2RfZzdqSFpEcDRIMktsRXF3elFfWldQTm1MRHo5ZWFMWmtzUkh0Wnh3S1k3OEVmcFlUZkYtX0hJb0VsT3ZZLUotU0I5ZVVESE5LTWJJX3gyX05lV1dVUGdac1pPSjd6RThGcGRJejFCNDIxQ0I5cUY0eXBGWjA5dzl3?oc=5",
-   "quelle": "IndexBox",
-   "zeit": "2026-11-22T18:40:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "c8fb438a46578dda",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Nach Einbruch: Antifa-Schmierereien im Eingang der Kölner Oper - tagesschau.de",
-   "t": "Nach einem Einbruch wurden im Eingang der Kölner Oper Schmierereien der Antifa entdeckt.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXJwbzRwN2VtcUdNaGZjdGlkaG52OTQwZlE5MEUtSXlkR0JxWWEtNkFIREhuUDMyMU5LbFVvbmlucGY0QkN3VXpDX254RE45T053SGlSenpQM1Q0dUs3VlNTSndUaDZoUklpQjBoNVpxSElsODBJU1BCSnJvY0tOQkVvdVdtNEdnVlVyUDY0U3dldWJ0Z3hYRl93M0kzck80UjFvSjlzc2c5U204eXZ6dGVWOVUybHpfR29WNnJfQnYwbmM3X3o1bXh3Y1JXWTZWNFE?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-22T18:14:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "13f018fa3a52442c",
-   "k": "usa",
-   "titel": "Major California school district gives state officials the middle finger with bans on trans students",
-   "t": "Der Schulbezirk Chino Valley in Kalifornien hat eine umfassende Richtlinie zu transgeschlechtlichen Schülern beschlossen. Der Bezirk widersetzt sich damit laut Bericht der Auffassung von Generalstaatsanwalt Bonta.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/22/us-news/chino-valley-unified-school-district-changes-transgender-policy/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-22T18:07:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "e880280176984c8f",
-   "k": "welt",
-   "titel": "„Inakzeptabel“ – UN‑Gebäude bei Drohnenangriff beschädigt",
-   "t": "Bei einem Drohnenangriff auf ein Wohngebiet in Khartum wurde ein Gebäude der Vereinten Nationen beschädigt. Im Krieg zwischen Armee und RSF verändern Drohnen das Kampfgeschehen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6b03283739a3e8110f0e6ee8/konflikt-im-sudan-inakzeptabel-ungebaeude-bei-drohnenangriff-beschaedigt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T18:05:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e89f36ffecf39a03",
-   "k": "finanzen",
-   "titel": "Stock ownership reached 56% among U.S. families in 2025, Federal Reserve data shows - Traders Union",
-   "t": "Laut Daten der Federal Reserve besaßen 2025 rund 56 Prozent der US-Haushalte Aktien.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1Q0MHJ3YlpHNmRzODNfOEpEcllnM0lMTUY1SHh6eExkVTM3ZHowRmRjd0dpUGY4S1NjRnFuYnBSc0hJWlhBb1EyNzdaREljR2kzMW12UzdvempyYWlFVVBQTHg3ZE1KaVhnQVZJUXBya21SYkV2NEZxZVI3bHdVQXczYkM2LWMt?oc=5",
-   "quelle": "Traders Union",
-   "zeit": "2026-11-22T18:05:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "82cdb767dce8a301",
-   "k": "finanzen",
-   "titel": "S&P 500 volatility rises post-midterms, signali... - Pluang",
-   "t": "Die Volatilität des S&P 500 steigt nach den US-Midterms, was Marktbeobachter als Signal werten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTBCNWNKM0RvTjdFb0dTVzFvbjRlOG1vd2tVVWpPVFpDeTFUdEFRcGhob3g2bTZWckUzSjdnaXNaT2xNdXFFOFY1U1p5SFNSMkhVY0Iyd0ZfSUdydWFJQXBiYWx0RVNuVHVHRVU4QmlaallCOUNCVzJ2TURORnd0TGVlUlAwREFn?oc=5",
-   "quelle": "Pluang",
-   "zeit": "2026-11-22T18:04:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "e1dd64fac3c9f864",
-   "k": "nrw",
-   "titel": "News, Nordrhein-Westfalen, Regional: Drei Verletzte nach Kollision auf der B221 in Niederkrüchten - tixio - Nachrichten",
-   "t": "Bei einer Kollision auf der B221 in Niederkrüchten wurden drei Personen verletzt.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY053YVViM285cHVEdk5WT18wYnFNekFGdEZzWTlLamNMRlZYQW5rNW5VMXpMN2tIUWpIaHl0YVJrV2lheW5BbHR0LXNlaDNnbXgxZ251RnpVNEpJWUQ4Q0hQZ1BRMmdubFBLdF9jRXNyVEVnVmpSVUYwQi1heFFqZXlCUkRiczN6ZUh2OVFwQUZGUTJ0QldTZW9YYw?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-22T18:03:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "41b78a01b3fafd4a",
-   "k": "trading",
-   "titel": "Lowe's Aktie: Gewinn schlägt Erwartungen deutlich, Umsatzprognose steigt – warum fällt der Kurs trotzdem? - AktienCheck.de",
-   "t": "Lowe's hat einen über den Erwartungen liegenden Gewinn gemeldet und die Umsatzprognose angehoben. Der Kurs fiel dennoch.",
-   "e": "",
-   "tk": "LOW",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS29fWTl6dFBKUGVOSWlWdEVQcXJtekliaGJUalJSdWQ3aERCSWhoQkI4WmhKWE55dUdsTXNrLTcwTG44eFpNcUFoZGVFZHVQRWRDeU9JT0JzQU5FdTN1SmM5dkxWbDIyNUVmeXNZT1NKMFZzYnp1a2EwMWRZWGxNdVBCY0dRY2djXzMzT3pFcFFORERyTXN5eEZTMmJXdENLRnpWdmdPSHhUTlE?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T18:01:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ddb7d3b3914f547",
-   "k": "nrw",
-   "titel": "Frost-Nacht in NRW: Glätte droht – das bringt der Montag - Come-on",
-   "t": "In NRW droht in der Nacht Frost und am Montag Glätte.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzRkSjBQRmdHWjRmaTRIY3FqTGtUV3NhRDd4RGpteDJjaGUySElENVRyNDFFRWRJWnBPMW1KSEx6NnBOSGJaUWdkbGsyaWFXS2Y2RlJkVUwwLWczYzlMVW56SEdBWmVDVDJ0bmpqbnRUcldpM09QaG91TXZyZEU5aGdSMlFxaS1pSWtNblk1aFlmUE1uNzdKVXV4bUVMLVFaNEhQRDFKYVl4OU5yMGljRQ?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-22T18:01:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "e479a8a5155661b7",
-   "k": "trading",
-   "titel": "Ross Stores Aktie: 12 Prozent Umsatzplus, mehr Kunden als geplant – doch der Weihnachtsausblick bremst - AktienCheck.de",
-   "t": "Ross Stores hat einen Umsatzanstieg von 12 Prozent und mehr Kunden als geplant gemeldet. Der Ausblick für das Weihnachtsgeschäft fällt jedoch zurückhaltend aus.",
-   "e": "",
-   "tk": "ROST",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVVMSmFZalV3SHB3ZXB2bTlIUUViZGd1WUVjYkNvU19sd19uRXBWQjZ6WnJ6VWtqRFl0SGgzV2FkNEh6cG1FVHhTeFZIMXpYVFU5VDcySUFVeENBMVpWdDJQcnpaTVY5Y3NfR0VpM0VMempQRG5DcG9KdENoRE1PMHAxbVlaRVp2WmFGQVVrNEtBdnlKYjhRRXJuMkJSMVA0Tjh6MGFR?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T18:00:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "63d1a64345b524b6",
-   "k": "nrw",
-   "titel": "Baarstraße in Iserlohn: Neuer Asphalt auf knapp 300 Metern Länge - IKZ-Online",
-   "t": "In Iserlohn wird die Baarstraße auf knapp 300 Metern Länge neu asphaltiert.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2VmdFE5aHo0MmpoMEJlbHZPTDF6WXVhZzBWOVRWNkFnUy1vRGpaVzhXdTc2X3N3eUtRdzFFQTNhNGlSWFVZU0dTUF9UR1VTTUliSXhRbVZSWTZRa2d4M3FOc1l2bEllX3VBSVFDMGtzLTAtRV8zdjk0WE5kd2RkdjNuRkRnSlpFVnpUeHNqLUQ2cm9jckdNMzVIalM5Rk5kRzJXaTgzcXljb3EwNl8zeHlPX1U4SXJ5NmVma0RNcWw5UlJmWUZjWnV3?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-22T18:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "9aa8b431487c9113",
-   "k": "welt",
-   "titel": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
-   "t": "Trump droht nach dem Jahreswechsel mit neuen Angriffen auf den Iran und bezeichnet die iranischen Unterhändler als \"professionelle Tap-Tänzer\". Die Seeblockade bleibt bestehen.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-22T17:52:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "783d06bc94a0e417",
-   "k": "trading",
-   "titel": "Ethereum Kurs bei 1.560,19 Euro – 0,30 % gefallen - tixio - Nachrichten",
-   "t": "Ethereum notiert laut Kursmeldung bei rund 1.560 Euro und liegt damit 0,30 Prozent im Minus.",
-   "e": "",
-   "tk": "ETH",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUFNalBTbDZrV1BiTUVGbnAwNWpjckFSV1Bwb2JXNGJ3TkN5WnBORHViOEx0VWNmUVN1aHE5S2lXNXdWMXFwNnNPVHBaMjZrQk5fYU1lWTZBanFJbHV2VGM2bjBfQWtzRGJFamVlMnUzN1R4R2lqZU13ZTBGWlphQ3J4WQ?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-22T17:43:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "a0c2c88979b87e2e",
-   "k": "nrw",
-   "titel": "Überraschender Parteitag: Stiller Machtgewinn der Radikalen in der zerrütteten NRW-AfD - WELT",
-   "t": "Auf dem Parteitag der NRW-AfD haben sich die Radikalen laut Bericht hinter den Kulissen durchgesetzt, während nach außen Einigkeit demonstriert wurde.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmhjVXFOcnduVHgtdklXdHFtb05iWmoyX0JBVGZ4TEpkM3JhQU9UdHowb1puYVl2M2RMOUVmY2NrTTF0QnFYbmlmeFg0dHJ6RDBaXzZpTEgxbHJVdTNQVmgySFVtYnY2N0R0N2xLeWtKOEpuZ0xTc3VETTdwU2hxanR1UzIxM0hIcThOTjdFVFlIQUFNTExnN2ZFcXdBdVQ0TEhnUnBQM2s5ODQ1bDZ4bTVfZGh4U3Z5UW4yQ3NaelZzQmxETEZtUEZDSHRnTXZWdU1rNU1KM1RaUWxrSEV1Q0lsRmNzUThsakZwVlZsNXZJeXM?oc=5",
-   "quelle": "WELT",
-   "zeit": "2026-11-22T17:41:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2f0a070bffe7a15",
-   "k": "usa",
-   "titel": "Trump Backs 10% Credit Card Rate Cap With Democrats - EEW Magazine",
-   "t": "Trump unterstützt laut Bericht eine Obergrenze von 10 Prozent für Kreditkartenzinsen gemeinsam mit den Demokraten.",
-   "e": "Eine solche Zinsgrenze würde das Geschäftsmodell von Kreditkartenanbietern direkt betreffen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xzZzBKcjRocV94NkRfeDlOQTM0NmRXVEw3Yk90Q0phNG01bG44cllNbzlTY1dWbjJsYlFSSjNIVDNPUUxoQl9oWm9ySk9kVU1ubU5GeWhOc2xnWmY0NUdYNzNBWGRLY014UVBlV2k3aVNGUDJmeWdzeC1fNm1Nd1BYSUUzdm4zSks2UmVBQjU3V2xnNzNCU1p3QTRoVVhXYlZ5aS1pRHVuQ3JfU3ZFVjJZUQ?oc=5",
-   "quelle": "EEW Magazine",
-   "zeit": "2026-11-22T17:37:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "02e8cef1817e31e2",
-   "k": "nrw",
-   "titel": "Stiller Machtgewinn der Radikalen in der zerrütteten NRW-AfD",
-   "t": "Auf dem Landesparteitag der NRW-AfD hat sich laut Bericht das radikale Lager um Helferich gegenüber der gemäßigten Gruppe um Landeschef Vincentz durchgesetzt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/plus6b000c73b237b5b41c9a2158/ueberraschender-parteitag-stiller-machtgewinn-der-radikalen-in-der-zerruetteten-nrw-afd.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T17:36:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "f6233017ca072890",
-   "k": "deutschland",
-   "titel": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
-   "t": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien hat den Angriff scharf kritisiert.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T17:36:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "b7f076010f0a4c5d",
-   "k": "trading",
-   "titel": "Bitcoin Kurs bei 55.639,00 Euro – 0,02 % gestiegen - tixio - Nachrichten",
-   "t": "Bitcoin notiert laut Kursmeldung bei rund 55.639 Euro und liegt damit praktisch unverändert.",
-   "e": "",
-   "tk": "BTC",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2c4Wk9IeEVsenk5Y3M4dFRMUXFnQk0zRlFZXzdFRjF1c2lxRktjRkE3QnNIQzBKVHpDTkhhZHk5VXV0dkx2WmtBaFhBb1ZJODVVWHB5czlZT09GWGZiMHhqTWZNUFdEYzdNZ3pSUEJGUmtoQ2VQZDdBd3YyZHJkVU05b0Q?oc=5",
-   "quelle": "tixio - Nachrichten",
-   "zeit": "2026-11-22T17:26:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "6835e1417fe5c8a5",
-   "k": "usa",
-   "titel": "Luftfahrt: IT-Panne sorgt für Verspätungen bei US-Airline Delta",
-   "t": "Die US-Airline Delta hat nach einer IT-Panne Verspätungen gemeldet. Das Ausmaß ist laut Bericht noch unklar, nachdem sich in den USA seit Tagen technische Ausfälle häufen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-it-panne-sorgt-fuer-verspaetungen-bei-us-airline-delta/100271884.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-22T17:23:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "9808a1ca819d1a61",
-   "k": "finanzen",
-   "titel": "Spot-Gold erholt sich um über 2 % und erobert 3.600 Dollar zurück, da Fed-Zinserhöhungserwartungen abkühlen - TradingKey",
-   "t": "Spot-Gold erholt sich um über 2 % und steigt wieder über 3.600 Dollar, weil die Erwartungen an Fed-Zinserhöhungen nachlassen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm03cklmYWtCRUFBMjJIbTdVelE4V1FkcVN5Rk41R2UxYWRwMTNHUmVtTzVuZUZzbzlwV2hpNmpNWVZkVVpOMW9ja3Z1SWtTbzJrenVnOWlrRDJ4bmxSVWEtUzMxR0VyN2lYS0l5ODctcW9aRlNjT0drTFF6czNOdDZqc2R3eVdva2RkZ284cGdiOEx3bGtuU1VmREpaU0FVM2VlXzU2OWZIMGlXeU56S0xUUVBaamRpRXdqQW1lc2lISHVOdHNDNlVqRUU5WkNiUHo3eXZleng?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-22T17:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ecf439899ec57084",
-   "k": "trading",
-   "titel": "ams-OSRAM Aktie: JPMorgan schraubt das Kursziel runter - Börse Express",
-   "t": "JPMorgan senkt das Kursziel für ams-OSRAM.",
-   "e": "",
-   "tk": "AMS",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNekMxQW5SaUZSZlZWclBSQ0pTZHpDLXVIdXZ5aGhtX0piZUhMN3BGNWNGcl8yV090QzBjNko3a2tnRS13d1ZhcnNJUkZFSWh3YUJReVktVzVUNjh0X3IzcUd5TlBIblFfYVlxa2RJSkxrcENIZGhkZk9fSWFXODlOOENORjBaUmJaZjlfZWh3TU9UeHdTR0EzMk5xVW9NNEl6RkdnSVpPZkY?oc=5",
-   "quelle": "Börse Express",
-   "zeit": "2026-11-22T17:16:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "f36593f996bc9e24",
-   "k": "finanzen",
-   "titel": "Fed Decision and Broadcom Earnings Due December 9 - Wisevoter",
-   "t": "Die Fed trifft am 9. Dezember ihre Zinsentscheidung, am selben Tag werden die Quartalszahlen von Broadcom erwartet.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXlfVldSYVZaSElrZ2xsX2hKbWVMd0pSZXJqX3dtZWU1TWdhR2llcENOc0k0M3J4ZDVHTkdlQUZRNFVoV3ZGZ2pnLUpQQ2s2T0FYSlJISEVTOFJCMlZobVlZTkRadjkzYkFhM3lFazdIajRkMXhBZm9OY09wbkVtempKTE9JbHRsanlRY2xvX242dw?oc=5",
-   "quelle": "Wisevoter",
-   "zeit": "2026-11-22T17:14:29+00:00",
-   "tag": null
-  },
-  {
-   "id": "f5e3a018ae8af73b",
-   "k": "trading",
-   "titel": "Red Cat Aktie: Needham dampft Kursziel auf 5 Dollar ein - Börse Global",
-   "t": "Needham senkt das Kursziel für Red Cat auf 5 Dollar.",
-   "e": "",
-   "tk": "RCAT",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTZCVU9DUjRWT3ctcnUzOGpYb19mbHJ6M0tuNnBMWkI5dmMxV0Jqc0Z4UzEtWkUzdy1PZjhxZmV5MWF4MnJpaVpMeC1iZWdWVHhVaDhiWWZ3bC1FSDJKb0pLNUJwU0JhQ0lWeF9pZ3FIYkpORng3Qk9zV2I5MEppRWpmeWVYNmZnWi1fMlNKd0loT083?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-22T17:12:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "a09d4c65fe8d6928",
-   "k": "trading",
-   "titel": "Take-Two Aktie: Prognose bleibt trotz GTA-Rekord unverändert - Finanztrends",
-   "t": "Take-Two hat trotz eines GTA-Verkaufsrekords seine Prognose unverändert gelassen.",
-   "e": "",
-   "tk": "TTWO",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnZFWHFEZG9DdmE0eGxubndDTWVLTVdwbi1UVm9XU1pkeXlzMHc0MFBvdW94ZExiRWFiVEhHd2hQUGdfajZhOXZ6b2RnU3d5ZVU0OFNLUHZFMm9HWFMtUnlMT19BUl9Ocm81Y3ZiM205aFhUR3RDMldnd0dTZzJFOTF0NUpsX0dEOTMyUjBoNzFjXy1vWkotSFNR?oc=5",
-   "quelle": "Finanztrends",
-   "zeit": "2026-11-22T17:10:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "2d84f9a20f3a0382",
-   "k": "trading",
-   "titel": "Bitcoin zurück an 60.000-US-Dollar-Marke: Kann der Rebound KI-Aktien und Co. stabilisieren? - Finanzen.net",
-   "t": "Bitcoin ist wieder über die Marke von 60.000 US-Dollar gestiegen. Es wird diskutiert, ob sich KI-Aktien dadurch stabilisieren.",
-   "e": "",
-   "tk": "BTC",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHNZRE1DTDR6dXMtMjdiUzhJbnpadkM2OGNLYXQwYXRqOHFibEtXTVdMTWNteVdpTWlaRVpKMWxfTllYNjdhbjZiUGQ3ckNDYlMxa1ZlcE14dy04OXh2RnBrN3VzVVJuN2sxQzRRZ29qeU9UYzJVZlpyejkxei1Hamt1TDY4TkkzWTJ0ZnZfemJGMlM0d3lMUEpFeHgyeUM3ekNYaWxoVTZUeFpFZ1dfT2I2NkpzTnUtWUhYU19rbGRSeEY5cDM1SDJPaHNXYUc4bUktODJqRG5sSGtmOVc4YTl6TzgxVmplR215UTZaaVZxbmlTY0IxUGZhZG5JR00?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-22T17:09:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "dd7e4e1c705e249a",
-   "k": "deutschland",
-   "titel": "Statistik: Führt Bürokratieabbau in den wirtschaftlichen Blindflug? Wie Deutschland um die richtige Balance ringt",
-   "t": "Die Bundesregierung plant eine große Reform, um Unternehmen von Statistikpflichten zu befreien. Kritiker fragen, ob die Datengrundlage zur Wirtschaft darunter leidet.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/konjunktur/statistik-buerokratieabbau-gegen-oekonomie-wann-wird-es-schaedlich/100267313.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-22T17:08:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "a166e04c6d116157",
-   "k": "finanzen",
-   "titel": "Everyday Economics: The stock selloff could hit spending - The Center Square",
-   "t": "Ein Bericht warnt, dass der Ausverkauf an den Aktienmärkten die Konsumausgaben in den USA belasten könnte.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDhWVVJjQy1QV1RmRGM3UzQ3Ny13LTZoTm1PM01rQmlDR1d4eW5RaG1KVmJyQUdWNE8yZGFYb0RYWTVYMDExMzByTGd4UDUydWhzdENtQWdEUFNseTI1VmhFcDFLaVZkNm43a1haa0JMazRtbXB5ekl6UDcxZDRiUGpLcjczak9yNDhaWmo3TEJQdGFB0gGaAUFVX3lxTE5kbkZGa1lTUUNHbDJFMFY5cDhGYkFUMzcyTmR1OG1TODlicEtFV1J6VzBIek12OTNKVS1sVzBsa3lyTWtfMGVLbU42X0ZRcTBzTEJRXzdpYi16czZ4SzFhcGJtMXlVMnk3d28zZTY1SUVJTU9vak11SUlEWElobWJ3MXhiUEJRU1VuOThqcWtLX0pLX3NCSnhjSHc?oc=5",
-   "quelle": "The Center Square",
-   "zeit": "2026-11-22T17:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "94628069ae41686f",
-   "k": "deutschland",
-   "titel": "Bundeswehr verlegte Panzer und andere Fahrzeuge per Bahn nach Litauen für Großübung",
-   "t": "Die Bundeswehr hat Panzer und weitere Fahrzeuge per Bahn nach Litauen verlegt, für eine Großübung.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/video/video-1688022.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T17:06:05+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3393,7 +2994,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -3448,7 +3049,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 4
+    "n": 6
    },
    {
     "name": "MarketWatch",
@@ -3458,7 +3059,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -3488,7 +3089,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 24
+    "n": 29
    },
    {
     "name": "The Block",
@@ -3509,7 +3110,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 2
+    "n": 3
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -3535,7 +3136,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 13
+    "n": 31
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3550,7 +3151,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "Google News NRW",
@@ -3565,7 +3166,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 19
    },
    {
     "name": "Google News Fed",
