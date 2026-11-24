@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-24T01:01:48.852287+00:00",
+ "aktualisiert": "2026-11-24T03:01:47.259618+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.236 $",
-   "delta": 0.2118915710223716
+   "wert": "60.061 $",
+   "delta": -0.8273613688111702
   },
   {
    "name": "Ethereum",
-   "wert": "1.708 $",
-   "delta": -0.37778284980171395
+   "wert": "1.686 $",
+   "delta": -1.071720466823043
   },
   {
    "name": "Gold",
-   "wert": "3.659 $",
-   "delta": 4.079197293048908
+   "wert": "3.637 $",
+   "delta": -0.39436661907414905
   },
   {
    "name": "EZB Zins",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.337",
-   "delta": -0.49694269693869586
+   "delta": 2.1549629447871643
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.236 $",
-   "delta": 0.2118915710223716
+   "wert": "60.061 $",
+   "delta": -0.8273613688111702
   },
   {
    "name": "Ethereum",
-   "wert": "1.708 $",
-   "delta": -0.37778284980171395
+   "wert": "1.686 $",
+   "delta": -1.071720466823043
   },
   {
    "name": "Solana",
-   "wert": "72 $",
-   "delta": 2.23421769317826
+   "wert": "71 $",
+   "delta": 1.0687580526266676
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,40 $",
-   "delta": -4.262923569695253
+   "wert": "79,93 $",
+   "delta": -0.29936157468726243
   },
   {
    "name": "EUR/USD",
@@ -5368,7 +5368,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
@@ -5408,12 +5408,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 24
+    "n": 21
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -5479,13 +5479,14 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5499,8 +5500,9 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 19
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
    },
    {
     "name": "Google News NRW",
@@ -5516,7 +5518,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 24
    },
    {
     "name": "Google News Fed",
