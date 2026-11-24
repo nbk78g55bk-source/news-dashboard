@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-24T05:01:39.798866+00:00",
+ "aktualisiert": "2026-11-24T07:01:49.869090+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.287 $",
-   "delta": -1.4552508353821105
+   "wert": "60.470 $",
+   "delta": -1.523807461937096
   },
   {
    "name": "Ethereum",
-   "wert": "1.698 $",
-   "delta": -1.6225955342597953
+   "wert": "1.700 $",
+   "delta": -1.350107003025264
   },
   {
    "name": "Gold",
-   "wert": "3.634 $",
-   "delta": 3.382263781055994
+   "wert": "3.631 $",
+   "delta": -0.5559484824086303
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.287 $",
-   "delta": -1.4552508353821105
+   "wert": "60.470 $",
+   "delta": -1.523807461937096
   },
   {
    "name": "Ethereum",
-   "wert": "1.698 $",
-   "delta": -1.6225955342597953
+   "wert": "1.700 $",
+   "delta": -1.350107003025264
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 0.2395528999934131
+   "wert": "72 $",
+   "delta": -0.1405579736131241
   },
   {
    "name": "Rohöl WTI",
-   "wert": "79,63 $",
-   "delta": -5.179808505657135
+   "wert": "79,97 $",
+   "delta": -0.24946759824523435
   },
   {
    "name": "EUR/USD",
@@ -106,28 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-23T19:01:51.615069+00:00",
+  "slot": 7,
+  "stand": "2026-11-24T07:01:49.869075+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nach der Rückkehr von Jensen Huang an die Spitze von Nvidia stieg der Nasdaq zum Handelsstart um rund sieben Prozent, nachdem er zuvor stark gefallen war. Zuvor hatte der Tech-Ausverkauf den Nasdaq in eine Korrektur gedrückt, und der VIX stieg nahe 36."
+    "t": "Nvidia holt Jensen Huang nach seinem Rücktritt wieder als Chef zurück, und die Aktie stieg laut Meldung um 31 Prozent. Der Nasdaq lag zum Handelsstart rund sieben Prozent im Plus, der Deka Nasdaq-100 notiert bei 174,26 €."
    },
    {
     "k": "finanzen",
-    "t": "Die Märkte preisen eine Zinserhöhung der Fed um 25 Basispunkte im Dezember nahezu fest ein, der Leitzins der Fed liegt bei 3,88 %, der EZB-Zins bei 2,50 %. Finanzminister Bessent warnt die Fed davor, die Geldpolitik zu straff zu gestalten."
+    "t": "Laut Meldungen preisen die Märkte eine Fed-Zinserhöhung um 25 Basispunkte im Dezember nahezu fest ein. Die Fed Funds liegen bei 3,88 %, der EZB-Zins bei 2,50 %."
    },
    {
     "k": "finanzen",
-    "t": "Deka DAX 221,30 €, Deka S&P 500 138,40 €, Deka Nasdaq-100 174,26 € und iShares MSCI World 126,64 € sind die aktuellen ETF-Kurse. Bitcoin notiert bei 61.376 $, Gold bei 3.653 $."
+    "t": "Bitcoin steht laut Marktdaten bei 60.470 $, nach einer Erholung von etwa 55.000 Dollar. Gold notiert bei 3.631 $, Ethereum bei 1.700 $."
    },
    {
-    "k": "usa",
-    "t": "Die Demokraten gewinnen bei den Midterms die größte Mehrheit im US-Repräsentantenhaus seit 1992. Damit steigt der Druck auf Trump durch Untersuchungen, Gesundheitspolitik und die Kontrolle der Republikaner."
+    "k": "finanzen",
+    "t": "Der Deka DAX notiert bei 221,30 €, der iShares MSCI World bei 126,64 € und der iShares MSCI EM bei 43,74 €."
    },
    {
     "k": "deutschland",
-    "t": "Laut Recherchen von WDR, NDR und SZ ist Deutschland auf einen großflächigen Satellitenausfall nicht vorbereitet, eine Notfallplanung gibt es bislang nicht. Westliche Geheimdienste gehen zudem davon aus, dass Russland noch in diesem Jahr einen Satelliten mit Atomsprengkopf ins All bringen will."
+    "t": "Deutschland beteiligt sich gemeinsam mit Österreich, Dänemark, den Niederlanden und Griechenland an Plänen für ein Abschiebezentrum in Ruanda ab 2027."
+   },
+   {
+    "k": "nrw",
+    "t": "In NRW ist ein Unbekannter in eine Sitzung der Grünen eingedrungen, mehrere Personen wurden im Krankenhaus behandelt."
    }
   ]
  },
@@ -5343,17 +5347,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 12
+    "n": 14
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 22
    },
    {
     "name": "Welt",
@@ -5363,7 +5367,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 20
+    "n": 22
    },
    {
     "name": "FAZ",
@@ -5373,7 +5377,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 8
+    "n": 11
    },
    {
     "name": "NZZ",
@@ -5393,7 +5397,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "CNBC Finance",
@@ -5479,14 +5483,13 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 14
+    "n": 16
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5501,7 +5504,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 19
+    "n": 21
    },
    {
     "name": "Google News NRW",
@@ -5516,7 +5519,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Google News Fed",
