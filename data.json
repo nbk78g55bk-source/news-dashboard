@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-24T21:01:42.090494+00:00",
+ "aktualisiert": "2026-11-24T23:01:36.501064+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "124,56 €",
-   "delta": -1.6423835905090112
+   "delta": 1.5075611924523669
   },
   {
    "name": "iShares MSCI EM",
    "wert": "42,10 €",
-   "delta": -3.7472243822473494
+   "delta": 2.7957468386122786
   },
   {
    "name": "Deka S&P 500",
    "wert": "135,87 €",
-   "delta": -1.824490909722365
+   "delta": 1.5812455908027712
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "168,16 €",
-   "delta": -3.5005134277085292
+   "delta": 1.5213720234467987
   },
   {
    "name": "Deka DAX",
    "wert": "218,50 €",
-   "delta": -1.2652521523476623
+   "delta": 0.8306428597632864
   },
   {
    "name": "Bitcoin",
-   "wert": "59.691 $",
-   "delta": -2.4736186174694064
+   "wert": "59.901 $",
+   "delta": -2.205110482807405
   },
   {
    "name": "Ethereum",
-   "wert": "1.674 $",
-   "delta": -2.8871172868788273
+   "wert": "1.683 $",
+   "delta": -1.7310281797578622
   },
   {
    "name": "Gold",
-   "wert": "3.554 $",
-   "delta": -2.672944759655127
+   "wert": "3.555 $",
+   "delta": -2.6373419762085626
   },
   {
    "name": "EZB Zins",
@@ -55,8 +55,8 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.202",
-   "delta": -0.4912130329778108
+   "wert": "7.201",
+   "delta": -0.49853633760822413
   },
   {
    "name": "Nasdaq-100",
@@ -66,12 +66,12 @@
   {
    "name": "DAX",
    "wert": "25.018",
-   "delta": -1.2608285626672933
+   "delta": 0.8669621277164419
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,78",
-   "delta": 0.6010486691299777
+   "wert": "26,36",
+   "delta": -0.9767123630221697
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.691 $",
-   "delta": -2.4736186174694064
+   "wert": "59.901 $",
+   "delta": -2.205110482807405
   },
   {
    "name": "Ethereum",
-   "wert": "1.674 $",
-   "delta": -2.8871172868788273
+   "wert": "1.683 $",
+   "delta": -1.7310281797578622
   },
   {
    "name": "Solana",
-   "wert": "69 $",
-   "delta": -4.724413579648889
+   "wert": "70 $",
+   "delta": -2.871346220537873
   },
   {
    "name": "Rohöl WTI",
-   "wert": "81,47 $",
-   "delta": 1.6215565183313796
+   "wert": "81,69 $",
+   "delta": 1.8959733887626173
   },
   {
    "name": "EUR/USD",
@@ -2462,201 +2462,6 @@
    "quelle": "Seeking Alpha",
    "zeit": "2026-11-22T23:03:40+00:00",
    "tag": null
-  },
-  {
-   "id": "9fd43ce2bf3b62e6",
-   "k": "finanzen",
-   "titel": "Goldman Sachs bevorzugt Gold gegenüber Silber bis 2027 - IDNFinancials",
-   "t": "Goldman Sachs bevorzugt Gold gegenüber Silber bis 2027.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXJiaHMwcXBzRjZRNG1zeHlsRWV3ZjIxdEw5N1p3Y2pFQVFxRFhSejBfWVpZM1pqaElrOXdmX2ZmaEVJQVhCdHJaNHNucjQ5SWxfelNYVjJ6TDdjNWY4alk2WWttNHY4ZV83RGNSaHpSNTgtaU1vWXRxMzFROERzVUhoQ0Ryb3oxLWRhSnIwVVl2d3NkTEhSb01WTmpHRTBwTzdHTkFB?oc=5",
-   "quelle": "IDNFinancials",
-   "zeit": "2026-11-22T23:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "ace56ce8ea3e564b",
-   "k": "finanzen",
-   "titel": "Thanksgiving Later This Week Raises Possibility of Increased Volatility - SBS 뉴스",
-   "t": "Der Thanksgiving-Feiertag in dieser Woche könnte zu erhöhter Volatilität an den Märkten führen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlN2prQTQwenJmQk1DczdfXzFOSmxMcTZTaEEtVTlhRmtJZFRMR1M0amFfaEFvUUpOaGtVMjZqbXBHeWNQN0NtbmdVeVZlRDlpeGF6cGszeDZSNkItUzNxLXlBZE1tM2hwOXVpMEZ30gFmQVVfeXFMTjA3cURmellELXVoNUpkV0ZkQnN2RG9Nc2dPWWQwYy1Ya0NMY25taU9MTF9iOEJZZ3VRUWR3akQtX05SV3ZaSk9mblcxZkswZ1FXSW5zUFVHSEd5SndnbG91b0pVakNn?oc=5",
-   "quelle": "SBS 뉴스",
-   "zeit": "2026-11-22T22:59:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "2f9b4fffdc9ea839",
-   "k": "finanzen",
-   "titel": "Bessent Warns Fed of Overtightening as Stocks Fall - Wisevoter",
-   "t": "Finanzminister Bessent warnt die Fed vor einer zu straffen Geldpolitik, während die Aktienkurse fallen.",
-   "e": "Die Warnung aus dem Finanzministerium betrifft direkt den Kurs der Fed und damit Zinserwartungen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXV3TVJiNnVERDdyUk5DOFpDVTUxbTRoYnVsNnhhWlNMY3ZUMFV3ZlZPU214QjZsTVpUcHNyWGZQRmNjaW9TajRtb0wtNVo0QXNXSGNoXzJ1enA1SFF3QUxoMFBUME9pWlRBcGtib0RDVWp6UVJ0ajhoOWtMR2xXRWc4eW80cjg1YU1DSDk4aw?oc=5",
-   "quelle": "Wisevoter",
-   "zeit": "2026-11-22T22:54:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "26b5743fab646cbd",
-   "k": "trading",
-   "titel": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-   "t": "Bitcoin erholt sich nach einem neuen Zyklustief bei rund 55.110 Dollar. Ledger untersucht Berichte über manipulierte Hardware-Wallets in Berlin und den VAE.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-22T22:47:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c5da0b4ef3381da",
-   "k": "finanzen",
-   "titel": "Starker Dollar und Fed-Signale drücken Rohstoffmärkte - Dosya Haber",
-   "t": "Ein starker Dollar und Signale der Fed drücken die Rohstoffmärkte.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXRKa19nekVtZDFzeFMybHA2TURhOGpOcGV2UFF5MVJsYlBmRDRiZGlmTXhzX3JvS3MtbHhZZi1FZWtxalpzSXRRanFaQXVGdXZfYW9yZFJab2R4anViaC1VN3hLWjZUci1CMjJIV1RSb2NYN1ZqSjZHOW1zNVdza0ZyYkN2aGs4Si1aRWE2QUhiSENaem4tbDgtcDVmTTFzUm5OUjJMOA?oc=5",
-   "quelle": "Dosya Haber",
-   "zeit": "2026-11-22T22:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "460a45f8aacef3be",
-   "k": "finanzen",
-   "titel": "48,7: Australiens S&P Global EMI für das verarbeitende Gewerbe gibt im November nach - DE.COM",
-   "t": "Der australische Einkaufsmanagerindex für das verarbeitende Gewerbe (S&P Global) sinkt im November auf 48,7.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeW9mNnE3eGRxclNTUFBDNkFTRWtzSmlicVF3UWc4bGFJMENhNDFkZHprc05RamRKSktZcUdaODI1cW9aYXd3LTRfRV9Pajltb2NpLWctZzVNQl9yUGsyRnZodlcxUkNiU0F0dV91aFE4TFQ1bC0yTVlyRy1KVmpidll6ZVpOX2ZHQUJ4aEF6T2djMUFFTEtUTlJmd0NKcnU2cmwxc002M1dkTEp1dWtCMkhSOFNCcDdCM1NEeWZ2WWotbWs0Y05N?oc=5",
-   "quelle": "DE.COM",
-   "zeit": "2026-11-22T22:39:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "a39031f318b9cc0c",
-   "k": "finanzen",
-   "titel": "Neuseeländische Einzelhandelsumsätze steigen in Q3 um 2,2% QoQ ggü. 0,5% erwartet - DE.COM",
-   "t": "Die Einzelhandelsumsätze in Neuseeland steigen im dritten Quartal um 2,2 Prozent gegenüber dem Vorquartal, erwartet waren 0,5 Prozent.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSE9GalgtQmFfSUU5VUVRMW55eElzYUhQWXBFZC1IQWZhbF8wcllQYmJibVpibTFNeURFYnFXbDhhYzF0cTZNek1USGhVbFQ1bjAxMUlfeTZwbC1KSTlWMng2eVhJNG02X0t4al9KanZpd184VWFDeFFRTlgwTkFMX19hNDZfQldjMUZUNGZESDZjVUhpeXlBMzljRDZqUjZuUjJURkVaY3JpRzZTdkNleHYtV1k2LWFsRHZkUGlUOHdzdw?oc=5",
-   "quelle": "DE.COM",
-   "zeit": "2026-11-22T22:35:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "54a5abb647bcc7d4",
-   "k": "finanzen",
-   "titel": "Asia Braces for More Volatility After US Selloff: Markets Wrap - Bloomberg.com",
-   "t": "Die Märkte in Asien stellen sich nach dem US-Ausverkauf auf weitere Schwankungen ein.",
-   "e": "Der US-Ausverkauf setzt die Stimmung an den Börsen weltweit unter Druck.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
-   "quelle": "Bloomberg.com",
-   "zeit": "2026-11-22T22:02:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "d45f1acd3b34f602",
-   "k": "deutschland",
-   "titel": "Regierungskoalition diskutiert weiterhin über die Rentenreform",
-   "t": "Die Koalition diskutiert weiter über die Rentenreform, eine Einigung steht noch aus.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1688220.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T22:01:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a4bc1ec188aee8e",
-   "k": "welt",
-   "titel": "COP31 ohne Abschlusserklärung: Was haben die Klimakonferenzen seit 2015 gebracht?",
-   "t": "Die Weltklimakonferenz COP31 im türkischen Antalya endet ohne gemeinsame Abschlusserklärung.",
-   "e": "Das Scheitern setzt die Serie der Klimakonferenzen seit 2015 fort, deren Ergebnisse umstritten sind.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1688216.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T21:56:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "21b2fb7ed454e9c0",
-   "k": "finanzen",
-   "titel": "Morning Wrap: ASX 200 to fall as AI rout drags S&P 500 into correction, Nasdaq erases 2026 gains - Market Index",
-   "t": "Der S&P 500 rutscht durch den KI-Ausverkauf in eine Korrektur, der Nasdaq hat seine Gewinne des Jahres 2026 wieder abgegeben.",
-   "e": "Eine Korrektur von zehn Prozent bei großen Indizes gilt als deutliches Zeichen für nachlassende Risikobereitschaft an den Märkten.",
-   "tk": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWZ1MXFHNTRVc0l2NVR4cHRNLV82WG5VaFFJY0ZQcGRwRU10d1hQeHVKbXpzbzFEdTJLUGNMWllSTlNKSnJNaGlIVV9tOE9qeUt4Yk1CVTMxSkJycGtFVnJVaW5vaS13NEFwdzFfVlFMT1lkc09xZG1ZcHpYOXh1dDZ5N2tsNmh1cFRaMW90UlBON1ZRN0Rmb09tWUU1ZGZPMFdzQ1hSbUdETmwxMEE?oc=5",
-   "quelle": "Market Index",
-   "zeit": "2026-11-22T21:40:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "cb00afa39b2fc4c6",
-   "k": "usa",
-   "titel": "Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’",
-   "t": "Der demokratische Fraktionschef Hakeem Jeffries schließt künftige Amtsenthebungsverfahren gegen Mitglieder der Trump-Regierung nicht aus, sollten die Demokraten im Januar den Kongress kontrollieren.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/22/us-news/hakeem-jeffries-refuses-to-rule-out-future-impeachment-attempts/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-22T21:38:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "f858f6d0321d4e65",
-   "k": "welt",
-   "titel": "Liveblog Ukrainekrieg: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
-   "t": "Ein nach einer Explosion beschädigtes russisches Kriegsschiff ist in einem libyschen Hafen gesunken. Als Ursache gilt ein Drohnenangriff.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russisches-kriegsschiff-nach-explosion-in-libyschem-hafen-gesunken-faz-110683325.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-22T21:26:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "84dc56c40ab1bf49",
-   "k": "trading",
-   "titel": "Babylon Bitcoin-Staking vor dem Aus: 41.600 BTC betroffen - CryptoTicker.io",
-   "t": "Das Bitcoin-Staking-Protokoll Babylon steht vor dem Aus, betroffen sind 41.600 BTC.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hWjRPdWJBc2k2UHEzV3NDZTJIei1hdTJ0dFNyakxqOGdUWlBkRGEydXQxa1c4NVBqSGpFVnZEYmdCbUxCMXhyTWdRbkpQbE9FSTVUOFU4OUp4SEhqWW1pUGRJVjhCZnBJRmRHN2RGejA?oc=5",
-   "quelle": "CryptoTicker.io",
-   "zeit": "2026-11-22T21:17:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "e725af271ad0fea3",
-   "k": "welt",
-   "titel": "Drug Kingpin’s Capture in Mexico Threatens to Touch Off Bloody Succession Battle",
-   "t": "Nach der Festnahme des mexikanischen Drogenbosses Fausto Isidro Meza Flores droht ein blutiger Nachfolgekampf im Kartell.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.wsj.com/world/americas/drug-kingpins-capture-in-mexico-threatens-to-touch-off-bloody-succession-battle-8df2bff0?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-22T21:10:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2689,12 +2494,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -2719,7 +2524,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "CNBC Finance",
@@ -2739,7 +2544,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Fox News Politik",
@@ -2764,7 +2569,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 31
+    "n": 34
    },
    {
     "name": "The Block",
@@ -2785,7 +2590,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -2811,7 +2616,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 14
+    "n": 31
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2825,8 +2630,9 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 33
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
    },
    {
     "name": "Google News NRW",
@@ -2841,12 +2647,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 17
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 31
    }
   ],
   "markt": [],
