@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-24T03:01:47.259618+00:00",
+ "aktualisiert": "2026-11-24T05:01:39.798866+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.061 $",
-   "delta": -0.8273613688111702
+   "wert": "60.287 $",
+   "delta": -1.4552508353821105
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": -1.071720466823043
+   "wert": "1.698 $",
+   "delta": -1.6225955342597953
   },
   {
    "name": "Gold",
-   "wert": "3.637 $",
-   "delta": -0.39436661907414905
+   "wert": "3.634 $",
+   "delta": 3.382263781055994
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.061 $",
-   "delta": -0.8273613688111702
+   "wert": "60.287 $",
+   "delta": -1.4552508353821105
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": -1.071720466823043
+   "wert": "1.698 $",
+   "delta": -1.6225955342597953
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.0687580526266676
+   "delta": 0.2395528999934131
   },
   {
    "name": "Rohöl WTI",
-   "wert": "79,93 $",
-   "delta": -0.29936157468726243
+   "wert": "79,63 $",
+   "delta": -5.179808505657135
   },
   {
    "name": "EUR/USD",
@@ -132,6 +132,409 @@
   ]
  },
  "items": [
+  {
+   "id": "05734495f2e35a02",
+   "k": "trading",
+   "titel": "Redwood AI Aktie: Kurs ist aufs 52-Wochen-Tief gerauscht - Börse Global",
+   "t": "Die Aktie von Redwood AI ist auf ein 52-Wochen-Tief gefallen.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVVoUTRkY3N5T2ZDODdfdzdVQ3I4NlZoSU9DanFGX3RLOEdCOGhqcTFjaWlGZnBLWUhkejgzc015ZzU5ME90QlVwLW01Xzd1TDYwSWxMV0JIRGo4WmJSV1lPclV0ejFoLWdTR205bXk3SC1DVU9yU2NkWHpqbFRYT05ZdENDQkljTlVaRVNoSmNhWV9OaGc?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-24T04:41:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "e9c70ccacf23421d",
+   "k": "welt",
+   "titel": "Liveblog Ukrainekrieg: Russische Drohne dringt kurzzeitig in polnischen Luftraum ein",
+   "t": "Eine russische Drohne ist kurzzeitig in den polnischen Luftraum eingedrungen, in Polen wurde Luftalarm ausgelöst, die NATO verstärkt die Luftraumüberwachung.",
+   "e": "Der Vorfall betrifft ein NATO-Land direkt und erhöht die Spannungen an der Ostflanke.",
+   "tk": "",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-24T04:41:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "8735000fc9162cb9",
+   "k": "finanzen",
+   "titel": "Investor Bill Ackman besorgt, dass Fed-Politik Rezession auslösen könnte - IDNFinancials",
+   "t": "Investor Bill Ackman äußert die Sorge, dass die Geldpolitik der Fed eine Rezession auslösen könnte.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnpET2ZxclNvUngxMktMb2xIcXpxMTVzbHVuZjRnWWtudHhzYXc4X1hKWnFpQmNuckVST1RsQzkzaVhqTG1maldwbndUdy15eHlzbFpsTmQ3ZkN2b0lYWDVFOWl5OWhBSXhCOHlKdWM2ZllKRThoSkR1MHlHeURhY21fbkxGYnd6OXF2Z0hVbGMxd1Atd2dfRGFQbklqSklrYWhEVkROQmFBR0d1d3dvVXRXaTJPd20zVHotNk52Zm5GaGs?oc=5",
+   "quelle": "IDNFinancials",
+   "zeit": "2026-11-24T04:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "824943b56a27c4c0",
+   "k": "nrw",
+   "titel": "NRW: Unbekannter stürmt Grünen-Sitzung - Personen im Krankenhaus - ZDFheute",
+   "t": "In NRW ist ein Unbekannter in eine Sitzung der Grünen eingedrungen, mehrere Personen wurden im Krankenhaus behandelt.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRk1EZERlYWpydGtPU1QwMFlweUlPWmdDTUptYlQ5cnloOUJhRE9lLUtzX2V2a21tb0UxSll0STBXSUh3WGJ1VnZxczB0RlV1MG5yb2I0UDVya3ZULUZONFJFY3VHZ0ZLWUp1ZkVxZzJMU0pPY2FraFRZOThxdkplUEdpcEZjTEItdzR0LXNXNjlrVWRtLUFtY0FDZVZaZw?oc=5",
+   "quelle": "ZDFheute",
+   "zeit": "2026-11-24T04:37:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "97146d54c17d89db",
+   "k": "finanzen",
+   "titel": "Showdown um die UBS",
+   "t": "Die Wirtschaftskommission des Schweizer Nationalrats stellt die Weichen für eine Eigenkapitalregel und eine mögliche Begrenzung der Boni bei der UBS.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/schweiz/showdown-um-die-ubs-ld.10072336",
+   "quelle": "NZZ",
+   "zeit": "2026-11-24T04:35:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "89d30f9a72d410cf",
+   "k": "trading",
+   "titel": "PODCAST «NZZ AKZENT» - Warum die neuen KI-Millionäre von Anthropic San Francisco schaden",
+   "t": "Der Börsengang von Anthropic hat in San Francisco über Nacht viele Menschen zu Millionären gemacht und treibt die Immobilienpreise.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/podcast/warum-die-neuen-ki-millionaere-von-anthropic-san-francisco-schaden-ld.10072588",
+   "quelle": "NZZ",
+   "zeit": "2026-11-24T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d81fbdc34cf0ed0d",
+   "k": "usa",
+   "titel": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+   "t": "Kalshi hat den Betrieb in Utah eingestellt, nachdem ein Bundesrichter dem Bundesstaat erlaubt hat, seine Glücksspielgesetze durchzusetzen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+   "quelle": "The Block",
+   "zeit": "2026-11-24T04:28:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "987ac813017e3f41",
+   "k": "welt",
+   "titel": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+   "t": "Laut einem US-Gremium setzt China seine Bemühungen fort, den Aufstieg Indiens zu bremsen, nun eher mit wirtschaftlichen als militärischen Mitteln.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-24T04:27:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "2750cc52e3ddfe54",
+   "k": "welt",
+   "titel": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+   "t": "Südkorea meldet, dass mehrere russische Militärflugzeuge am Dienstagmorgen in seine Luftverteidigungszone eingedrungen sind. Zuvor hatten Taiwan und Japan ähnliche Vorfälle gemeldet.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-24T04:23:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "215b0c99fbeac0d7",
+   "k": "deutschland",
+   "titel": "„Regelrechte Hass-Tsunamis“ – Klöckner warnt vor digitaler Gewalt gegen Frauen",
+   "t": "Bundestagspräsidentin Julia Klöckner warnt vor digitaler Gewalt gegen Frauen und fordert eine schnellere Ahndung.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/article6b050e4b5842ff528b9e674c/drohungen-im-internet-regelrechte-hass-tsunamis-kloeckner-warnt-vor-digitaler-gewalt-gegen-frauen.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-24T04:21:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "17a616c70c8e33a8",
+   "k": "finanzen",
+   "titel": "Immer mehr Finanzinstitute gehen davon aus, dass die US-Notenbank (Fed) bei ihren nächsten drei Sitzungen die Zinssätze anheben wird. - Vietnam.vn",
+   "t": "Immer mehr Finanzinstitute erwarten, dass die US-Notenbank Fed bei ihren nächsten drei Sitzungen die Zinsen anhebt.",
+   "e": "Die Erwartung weiterer Zinserhöhungen belastet Anleihen und Wachstumsaktien, ein Zinsschritt wäre für Märkte weltweit relevant.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC1zNWstM2lvcmttbHJMTmR1R1Y1YmZ1VFF3dFE5X3dXZXJTcG5iYTVOY2RnMU54cVUyM080bUZ5NmpXc0NRV0JHSDAwcTFNeTE5TC02MWlzYnZtQ001NG5xaV9kRzd6amtFd0dtYVh5YlI2X292MkU2akNaa3JQQ2pYVDJHNm12RV9BajZibkF1YTJIeUtHLUxFTF9hQQ?oc=5",
+   "quelle": "Vietnam.vn",
+   "zeit": "2026-11-24T04:17:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "02ea6ee301b46bc2",
+   "k": "usa",
+   "titel": "Court Clears Way for Detonation of Toxic Lead Explosives in Iowa",
+   "t": "Ein US-Gericht hat den Weg für die Sprengung von rund 9.500 Pfund giftigem Bleiazid in einer Munitionsanlage in Iowa freigemacht.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-24T04:15:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "75e0824e28a0e309",
+   "k": "welt",
+   "titel": "Kriegsfolgen im Gazastreifen: Verseuchtes Wasser, Gift in den Trümmern",
+   "t": "Laut Oxfam leidet die Bevölkerung im Gazastreifen unter verseuchtem Wasser, Müll und Asbest in zerstörten Gebäuden.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-24T04:09:27+00:00",
+   "tag": null
+  },
+  {
+   "id": "952c5c82b45ed308",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: 17 Millionen Euro Schmiergeld: Hat Ex-Manager Vaillant abgezockt? - tagesschau.de",
+   "t": "Im Vaillant-Verfahren geht es um 17 Millionen Euro Schmiergeld, es wird geprüft, ob der Ex-Manager sich bereichert hat.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV2NvS0RUSEVjaFVyalFuVTdCOUUyVGJTOEhNbWFlcG05b1JDU0xQOG5NbGtuMk9rZVcwSWhzVnVJczJCSV9mLW1WUTRhaXlCbkxDSVdERnFOOV9YUkJNU3k1Y1Y2RGk3XzFJRmNZWkF1R0JYbFdYTUt0SlI3OS1NNG92dHpoU1p6c1pYY2dWSHlkYU5uUV9yeGwwRm4wOTNmU0tQYkNHZkoycHM3MmNyWnlGaE9LWUotV25vR1RjemdCUnpIcVZqYnlLUnh6TmRtcElZ?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-24T04:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ded8d348f053ad5",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Nordbrücke Bonn: Warum die IHK jetzt einen Krisenkoordinator hat - tagesschau.de",
+   "t": "Die IHK in Bonn hat einen Krisenkoordinator für die Nordbrücke eingesetzt.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3VpSGZ5Z3A4bmpMczg5clJLSGowVlE5aEVvVEFOV1E5ZndHdndOWWNrUmFfNmlucVRPdGxaQmh3bDlELVZzZEl0N0xHSG5BOHZzRmF4S3EyQlE5aVZSUkdYWlhza2NXQ2NXdnhJemk3ZTE5eHRqSUJFbEpDQy1tMDhjcHhTMEFrWWFWQUg5VU1pNlcxYVhDSXB4cXpoZlo5SnBjUE13bFpLeERKOWtnZ0Y5OFV4RG83MDBCN2hWMnlEOXRYaFRKZmEyRWlTZnVac1BSZA?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-24T04:05:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a5f0b259de3086c8",
+   "k": "trading",
+   "titel": "BYD Aktie News: BYD am Montagnachmittag fester - finanzen.ch",
+   "t": "Die BYD-Aktie hat am Montagnachmittag zugelegt.",
+   "e": "",
+   "tk": "BYD",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDdIa1VWT24yeEttcnJteksyVXlGNklydndTSy1TZ2JZTzZyUTdHY2RBd2ljMEdXMV8xaktqSnJ0aDVjWEpzMzhfVkIwTUhxczlwTFB0d3ZjYVRINlUwOHcyXzJPaUp3TVd1UHVSbVNRb3NZSjgyT0dwclAyQ0d6LWc2cW1Yang2dkh6TDU4RDE?oc=5",
+   "quelle": "finanzen.ch",
+   "zeit": "2026-11-24T03:34:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "895e0e2a282223d2",
+   "k": "trading",
+   "titel": "Allianz Aktie: LBBW schraubt das Kursziel auf 510 Euro - Börse Global",
+   "t": "LBBW hebt das Kursziel für die Allianz-Aktie auf 510 Euro an.",
+   "e": "",
+   "tk": "ALV",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXd5MkNxajhmX3VwbTVNVEdMd3lDOGQycUlVaGI0Q1VDNUlCVDZIdnhUcDJfQ3JiS1NONVcxZ3FvUHIzUW5ac0hXa3NCdVNVaU9VdWlTbWpYU0FmTkJiMkFWWDYyZkJDVDVtcEdSdkViZWgweFBmX0h1MkhQRE9lRDcxeTBfOHNocWE3U1JCNWl3Qk0?oc=5",
+   "quelle": "Börse Global",
+   "zeit": "2026-11-24T03:31:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "5b7ddfb9d3d185d2",
+   "k": "usa",
+   "titel": "China’s second-richest man’s deal to drain California town’s water triggers outrage: ‘Don’t sell out your nation’",
+   "t": "Ein Wasserrechte-Deal eines Unternehmens des zweitreichsten Chinesen mit einer kalifornischen Stadt sorgt für Empörung und Sicherheitsbedenken.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/23/us-news/chinese-billionaires-california-water-deal-near-travis-air-force-base-faces-calls-for-federal-probe/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-24T03:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e292bc79ca78d7f9",
+   "k": "trading",
+   "titel": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+   "t": "Ein kalifornisches Gericht hat die Klage gegen Coinbase wegen TerraUSD-Käufen beendet.",
+   "e": "",
+   "tk": "COIN",
+   "s": 4,
+   "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+   "quelle": "The Block",
+   "zeit": "2026-11-24T03:05:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "2ca57e9c0516b51c",
+   "k": "welt",
+   "titel": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
+   "t": "Mexiko hat einen führenden Drogenboss festgenommen, die Kartelle bleiben jedoch tief in Politik und Wirtschaft verankert.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/americas/mexico-took-down-a-top-drug-kingpin-can-it-dismantle-his-cartel-be03308a?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-24T03:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f371593a767b9507",
+   "k": "finanzen",
+   "titel": "Federal Reserve official faces probe over blackout period compliance - Forex Factory",
+   "t": "Ein Fed-Beamter steht wegen der Einhaltung der Sperrfrist (Blackout-Periode) unter Prüfung.",
+   "e": "Solche Verfahren betreffen das Vertrauen in die Unabhängigkeit und die Kommunikation der US-Notenbank gegenüber den Märkten.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWtQVE9LMGtRZ09tbzFyUXdVTXAtWEhRRWlBeUhRQlNZM2hGclUwTUMtUm5jSm5EN0VIVnp1VFZvUTU3b012R2NmdnBlTEY5WlpfeWlMejllR1BlOThwdVBub3JnOTJ2dEFYR0QwNGtCc082ZGZjZGIyR2o1MFFPTHBlYzE1MjJnbTJpMTZGOGJiX0UxVGtrLWNBN3ZzMHho0gGmAUFVX3lxTE9weG51dWFtMV9hOFZJZ0NqMzNHYWRnNlBycVUzSXBjMEZ3MjBOMXpEclg4cUs1aXR2X0VhODdWblA4NjVHRHpjQk5mVG5qWkU0Skp2aWctSjNFSGVISWZRenQycTFMY0xicUZmSWFLV3NvRjZUNlgtZ0dhdlJDUEY0cnpFSVlhcV94ZUdMaUVfbEljNkE5ZDJOY2R4UHFCQTVBVGp1R2c?oc=5",
+   "quelle": "Forex Factory",
+   "zeit": "2026-11-24T02:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b3d1eabd8bcb822e",
+   "k": "trading",
+   "titel": "USA setzen Firma in Nvidia-Kontroverse auf schwarze Liste",
+   "t": "Die USA setzen die Firma Megaspeed auf eine schwarze Liste und verhängen einen Lieferstopp, nachdem sie durch die Nvidia-Affäre bekannt wurde.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://www.welt.de/politik/ausland/article6b04e6bd39a3e8110f0e96ce/megaspeed-usa-setzen-firma-in-nvidia-kontroverse-auf-schwarze-liste.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-24T01:41:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "9fdff9aeba0f66a9",
+   "k": "finanzen",
+   "titel": "Williams Signals Further Fed Rate Increases to Curb Inflation - cwibc.co.id",
+   "t": "Die Fed-Vertreterin Williams signalisiert weitere Zinserhöhungen zur Eindämmung der Inflation.",
+   "e": "Ein solches Signal verschiebt die Erwartungen für die Zinspolitik und damit auch die Bewertung von Aktien.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUV83YnBrUzdDUEJHOHl5RF9qRVNUMGtaMmdnNV9JbzQ3MjdjLVlBOG41SFpsaElyMGxQMlVXdXZJdXA5MGwwTmhrYzNMNFZnUDVYaVlqbTZrNGg0RjJjejdLY05zaGlUZWRqNw?oc=5",
+   "quelle": "cwibc.co.id",
+   "zeit": "2026-11-24T01:40:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "e083f38dd12b3554",
+   "k": "usa",
+   "titel": "Unsealed Ilhan Omar search warrant cites alleged immigration fraud dating back to 1980: ‘Crimes over decades’",
+   "t": "Ein entsiegelter Durchsuchungsbefehl gegen die Kongressabgeordnete Ilhan Omar nennt Ermittlungen wegen angeblichen Einwanderungsbetrugs seit 1980.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/23/us-news/ilhan-omar-search-warrant-cites-alleged-immigration-fraud-dating-back-to-1980-crimes-over-decades/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-24T01:18:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "182e1a1f59e90bdf",
+   "k": "trading",
+   "titel": "S&P 500 jumps 4.62% as Nvidia's 31% surge on Huang's return lifts chips - Quantisnow",
+   "t": "Der S&P 500 ist um 4,62 Prozent gestiegen, getrieben von einem Kurssprung der Nvidia-Aktie um 31 Prozent nach der Rückkehr von Jensen Huang.",
+   "e": "Der Index-Sprung zeigt, wie stark einzelne Schwergewichte den breiten Markt in dieser Woche bewegt haben.",
+   "tk": "NVDA",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObncwekJ1WlFDRGRwbTFTMTBkaEk5VzBXb0c3SHB0SnZDZ3ByUmhMMExXNUpXemMwYVJqRzlRb09NbFRXWk9OX0lfQmZyMlFBVjNkOEVCSWowdnpKcGZxZkNfanJvandSUDhMRGNJN1hUc25LeXlicGVOYWpfSU16UGJPX1V5bFdmLV9hTUVaVWtlZTRS?oc=5",
+   "quelle": "Quantisnow",
+   "zeit": "2026-11-24T01:17:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "bec8b776eee0c06e",
+   "k": "trading",
+   "titel": "HPE just posted its strongest growth ever — but its stock is sinking",
+   "t": "HPE hat seine Finanzprognose angehoben und ein Rekordwachstum gemeldet, die Aktie fiel dennoch.",
+   "e": "",
+   "tk": "HPE",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-24T01:01:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "338821854b5719e9",
+   "k": "trading",
+   "titel": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+   "t": "Die Ethereum Foundation verdoppelt ihr Team für Protokollsicherheit vor einem großen Upgrade.",
+   "e": "",
+   "tk": "ETH",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-24T00:36:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "f0f2b8a01fadc9d1",
+   "k": "trading",
+   "titel": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+   "t": "Die US-Terminaufsicht CFTC erlaubt in einer Stellungnahme, dass regulierte Firmen Bitcoin und Ether auf ihre Betriebskosten anrechnen dürfen.",
+   "e": "",
+   "tk": "BTC,ETH",
+   "s": 5,
+   "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+   "quelle": "The Block",
+   "zeit": "2026-11-24T00:33:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "eca751c3cc22cec7",
+   "k": "trading",
+   "titel": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+   "t": "SharkNinja wird in den S&P 500 aufgenommen und ersetzt AES.",
+   "e": "Der Indexwechsel führt in der Regel zu Kaufnachfrage durch indexnahe Fonds.",
+   "tk": "SN",
+   "s": 6,
+   "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-23T23:18:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1890aa9ae7aca2bc",
+   "k": "trading",
+   "titel": "Tuya Inc (NYSE:TUYA) Posts In-Line Q3 2026 Results and Declares Cash Dividend - ChartMill",
+   "t": "Tuya hat im dritten Quartal 2026 in etwa den Erwartungen entsprechende Zahlen vorgelegt und eine Bardividende angekündigt.",
+   "e": "",
+   "tk": "TUYA",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUxoSkNjWGtINU5Gd18wZlJCd3NreFY3d0VGeVN1RXlqVjFHRklxM0YyNjRMb2FPNDd3SHBtV3lfRTJmYlV5VDhERnEtUmh3bFc3d09BRXFyeGM0ZG10UWdRbURIWFpPMkVTaWlFZVExVExlT0RCTTdUaVNRTE1MOVpqUzY5ZnRqdXhvamJlcUpmVVJGWk95YkdmNHZyd3RNY2hlOVcwQXB0N1N6M3VfWWtLNUdhZnJyNjZ6QWhCSVhZY3Z3?oc=5",
+   "quelle": "ChartMill",
+   "zeit": "2026-11-23T23:12:04+00:00",
+   "tag": null
+  },
+  {
+   "id": "39b24f2ff6149ebd",
+   "k": "trading",
+   "titel": "Symbotic (NASDAQ:SYM) Q4 Revenue In Line, EPS Beats as Guidance Tracks Near Consensus - ChartMill",
+   "t": "Symbotic meldet für das vierte Quartal einen Umsatz in Höhe der Erwartungen und einen übertroffenen Gewinn je Aktie, die Prognose liegt nahe am Konsens.",
+   "e": "",
+   "tk": "SYM",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0ljRU5ZZDFZMDVOU0ZSVnlvWUc5TW14eG50S0RDT0M4eGtYZWc2b3d0Nlp2WWR1eS1uQnFRaFpqeUt5Q2NxSEw3VFloUFZVOVZGSExsRzFyVWNkNjFURlk0N3NfU3dZeU50TGVvUTFEMHZDbW1wYV91ZjB4dEFNOW9LSkpCcjNXZFZPUG1ZQVBmdS0teGFpdEVRNGozOTh0dDUxSzJYazhlU0hndEhpQkQ4Q1hzM1JRQ2M2UGxOQTJKYzhUOXFfLUNfOWo?oc=5",
+   "quelle": "ChartMill",
+   "zeit": "2026-11-23T23:08:21+00:00",
+   "tag": null
+  },
   {
    "id": "fe119c53edb533a8",
    "k": "deutschland",
@@ -169,6 +572,19 @@
    "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
    "quelle": "MarketWatch",
    "zeit": "2026-11-23T18:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "00dee3ef687d93e8",
+   "k": "trading",
+   "titel": "Boxlegende, „Mr. Wonderful“, ein Mentalist: Das ist die Gästeliste für Trumps Meme-Coin-Dinner - Fuldaer Zeitung",
+   "t": "Die Gästeliste für ein Meme-Coin-Dinner mit Donald Trump wurde veröffentlicht.",
+   "e": "",
+   "tk": "TRUMP",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2tBREdKUlZjbXZMdTlQNDF5RFFhRUtoRjdndEt3T3o0QmFTb1dHV3NjSDlhOXBOZzRHRW1qUUZ4cUhHNWVSZGZUR0dVM0tDcnh5d3h5TFVvd3FmaXYxcFFTVmN2YzFKZXVlMnBIVjQ0MXdxOFlHbnJPc1ZldjR0QnpLQ3BzaFN5Q01CTEhuYVRBS2hIcWdXUmxtTmlyZTN0YVNMOWRJVW1YcFZ6bVdiRkhfUEpMQWZqc21EVDJ4VmdNTHJvZy11eEVR?oc=5",
+   "quelle": "Fuldaer Zeitung",
+   "zeit": "2026-11-23T18:54:09+00:00",
    "tag": null
   },
   {
@@ -523,6 +939,19 @@
    "tag": null
   },
   {
+   "id": "96c331e68811c7d5",
+   "k": "trading",
+   "titel": "Huang-Comeback: Der Börsencrash ist vorerst abgewendet – nur Anthropic erholt sich nicht",
+   "t": "Nach dem Comeback von Jensen Huang hat sich der Börsenabsturz bei KI-Aktien vorerst abgewendet, nur Anthropic erholt sich laut Bericht nicht.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nach-huang-abgang-nvidia-bricht-den-ki-boom-aber-woanders-gibt-es-hoffnung-201708314.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-23T15:50:01+00:00",
+   "tag": null
+  },
+  {
    "id": "c159e282054e2712",
    "k": "nrw",
    "titel": "Menden (Sauerland): Baustelle auf Berkenhofskamp in Berkenhofskamp ab heute - News.de",
@@ -549,6 +978,32 @@
    "tag": null
   },
   {
+   "id": "c7f455eb1ff20047",
+   "k": "trading",
+   "titel": "Binance hackers push $247 million through transactions designed to cloud the source",
+   "t": "Hacker der Binance-Attacke haben 247 Millionen Dollar über Transaktionen verschoben, die die Herkunft verschleiern sollen.",
+   "e": "",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-23T15:29:01+00:00",
+   "tag": null
+  },
+  {
+   "id": "e82e2015179839cb",
+   "k": "trading",
+   "titel": "Nvidia setzt Jensen Huang wieder als Chef ein",
+   "t": "Nvidia setzt Jensen Huang offiziell wieder als Chef ein, wenige Tage nach seinem Rücktritt im Zusammenhang mit einem Spionageskandal.",
+   "e": "Die Rückkehr des Gründers war der Auslöser für die starken Kursbewegungen der Chipwerte in dieser Woche.",
+   "tk": "NVDA",
+   "s": 8,
+   "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-23T15:18:29+00:00",
+   "tag": null
+  },
+  {
    "id": "c47f519f99695412",
    "k": "nrw",
    "titel": "Tauschen statt kaufen: In Iserlohn haben hunderte Menschen Weihnachtsschmuck getauscht - WDR",
@@ -559,6 +1014,19 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEcxMkEzdE1hRHpvV1FzUnVFR1hBakFBQTJsak1nbV9lU3lNcmVyX2NDV2xZeS01dExBWjdsVkhtMmYwVmhXWDR3S1E3SHJ3MUJpR2pHOFh4c1lTdDY3U2l3NmhOdnZCMXpLSGR1cnVESjg2ZjYwNTg3TDR6SFZJR3gzalpJdFpELXVacDE0a2xHU085S2d2UlpoVzFBZ3lzcVc1TUFUQnd3QTlQUXFKSA?oc=5",
    "quelle": "WDR",
    "zeit": "2026-11-23T15:17:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "fff131f100d7a1c8",
+   "k": "finanzen",
+   "titel": "OBI und Toom wollen fusionieren",
+   "t": "OBI und Toom wollen fusionieren und ihre über 600 Märkte unter einem Dach vereinen, die Marke Toom soll wegfallen. Das Bundeskartellamt muss zustimmen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-23T15:09:32+00:00",
    "tag": null
   },
   {
@@ -575,6 +1043,19 @@
    "tag": null
   },
   {
+   "id": "3f2e0616506f0a35",
+   "k": "trading",
+   "titel": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+   "t": "American Bitcoin sichert sich einen Kredit über 150 Millionen Dollar, besichert mit seinen Bitcoin.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-23T15:02:32+00:00",
+   "tag": null
+  },
+  {
    "id": "dd35245ebb649a05",
    "k": "trading",
    "titel": "Nvidia holt Ex-Chef Jensen Huang zurück an die Firmenspitze – Aktie schießt nach oben",
@@ -585,6 +1066,45 @@
    "link": "https://www.welt.de/wirtschaft/article6b0447c6172877701c0701b3/jensen-huang-nvidia-holt-ex-ceo-zurueck-an-die-firmenspitze-aktie-schiesst-nach-oben.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-23T14:23:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "dab1f66422b7163e",
+   "k": "nrw",
+   "titel": "Iserlohn: Unbekannte stehlen zwei E-Bikes und einen E-Scooter - IKZ-Online",
+   "t": "In Iserlohn haben Unbekannte zwei E-Bikes und einen E-Scooter gestohlen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXy04VnpvWWd5Uk95VTJQeXM4NWNocTdpLUNfcGFYZ0VXelZZZDEzcWlTbGNiUTg0d0lLRHU4YWVoVktFOE1fcy1fR2lGbWNFdWhQLWtCMmk4UV9rZkNjRjNvWXhLTS01bWRlWUI5THEzZlRQcFF4TkZSTmhlYlZvRkpsYm4xbUhURzNRRzM1SFFRYmNwLTkydmdoaWFGQnE1TE4tQklfVjRlSEJjR1VuQzVBLUtUZG9xMlZGZGZKcjlNUmc?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-23T14:20:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "edf2fee44017ffad",
+   "k": "nrw",
+   "titel": "Taschendiebe schlagen in Iserlohn und Letmathe zu - IKZ-Online",
+   "t": "In Iserlohn und Letmathe haben Taschendiebe zugeschlagen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjlBU1hOM1MxM2Q1Nk81TjhBNFlyMlF0VHdnbTlsbHVlUDk4VWFKdjFCNmdKQXc3QUJLU2dDaWZINUs4TlRvaXdkMW8zcEl3NGdxUVRHYzZ1Q1hoT3VOR3ptX3VsemNVOU5RTkdtRE5Eb19MZ0lZcWRPQnp0R19VQVNHbW1PYTFrYUthV050VTB3OVpIdGhTSkdkRXdMR25hQm42UzNOUDV3ZjZxRElJaFNvUk0?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-23T14:12:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "1b38b131f4cd4cf7",
+   "k": "nrw",
+   "titel": "IG Metall weitet Arbeitskampf im Märkischen Kreis aus - Radio MK",
+   "t": "Die IG Metall weitet ihren Arbeitskampf im Märkischen Kreis aus.",
+   "e": "Der Arbeitskampf betrifft die Region um Iserlohn direkt und kann Produktion und Beschäftigung in lokalen Betrieben beeinflussen.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1hHR2s3RC1udmNoZFg3VWNCV0FhbkFiUGVWc1p0OWoyVExZUlh5anR1UWxJWGp0eV9PZ1JJN3pMRnZIcUdneDhQaktXRlNlYnYtVUhKeUFUS1JQYkJtMzJvajNOdzE5SzFvdWJwRkpUQ2hKQ291Ty12U0t5VzlLS3pJNmJhUzdaelgwbzV4WDZRZlBwQmM1Tg?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-23T14:12:00+00:00",
    "tag": null
   },
   {
@@ -611,6 +1131,97 @@
    "link": "https://www.welt.de/wirtschaft/plus6b043a6966a00c9ca1fe0e0c/klimakonferenz-in-der-tuerkei-wie-deutschlands-klima-mission-in-einem-historischen-debakel-endete.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-23T13:54:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "9bcdefd77e6da8db",
+   "k": "nrw",
+   "titel": "Weil er ein Seniorenpaar brutal überfallen hat, muss ein 34-Jähriger sechs Jahre in den Knast - WDR",
+   "t": "Ein 34-Jähriger muss sechs Jahre ins Gefängnis, weil er ein Seniorenpaar brutal überfallen hat.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWM3WTFKUTh6UHpnSllTOXBlN1YxeEVTRTZraVlkTjBna0ludC1FYkRHRGozU0NWT01iWl9KUFVZckdHRVhkRzlITDJHN0N1R1diYkd4SnZxTVVhT1UwS2VFUFFqTnk1WlBUMFpDUVhVUVBGVkhDSmlGVjg4cGRzS2hjU2NXek9KQmpVaEhwTXc2ODJ1V2FkQzA3dXdfQ3NIb0dDb2VCSQ?oc=5",
+   "quelle": "WDR",
+   "zeit": "2026-11-23T13:40:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "eaf9166e154423da",
+   "k": "nrw",
+   "titel": "Polizei-News Menden, 23.11.26: E-Scooter-Fahrer flüchtet vor Kontrolle - Reifendiebstahl - News.de",
+   "t": "In Menden flüchtete ein E-Scooter-Fahrer vor einer Kontrolle, zudem wurde Reifendiebstahl angezeigt.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVRUdmk0UTFrVkdHZWYzdjQ5RVg1UTh4azEtM1Q4UmNUQThNTGNQMkp0ckUwS0Vqb0NrYUxJeWpOX05vMTRpd01KUjBDZHBhaWEyY1FTNEw1T29ockcwNEVKZ0t2UXJLSER2TzFZdWFkMWk2OE5rdGM2VkcyZzBBdTVwR0l4R00tc3YybjB2bV9naE1jUE5nRlFrNXVpWmtIYzREZU13?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-23T13:40:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "50c86287bebb24f6",
+   "k": "finanzen",
+   "titel": "Der Ausverkauf war ein „erstes sehr reinigendes Gewitter“",
+   "t": "Der DAX erholt sich nach deutlichen Verlusten in der Vorwoche, Chefökonom Christian Röhl ordnet die Lage im Tech-Sektor ein.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/video6b042a235842ff528b9e57d9/erholung-an-den-boersen-der-ausverkauf-war-ein-erstes-sehr-reinigendes-gewitter.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-23T13:37:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "f89a933dc56df226",
+   "k": "welt",
+   "titel": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+   "t": "Der ukrainische Präsident lobt eine Drohnenoperation, bei der ein russisches Kriegsschiff in einem libyschen Hafen versenkt wurde.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+   "quelle": "CNBC Politik",
+   "zeit": "2026-11-23T13:28:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "86d4b4fc71547c14",
+   "k": "trading",
+   "titel": "The biggest money-making energy trade looks over. What to buy instead",
+   "t": "Der starke Anstieg bei Raffinerie-Aktien ist laut CNBC vorbei, Anleger suchen nach Alternativen im Energiesektor.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+   "quelle": "CNBC Investing",
+   "zeit": "2026-11-23T12:00:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "63cdffa711d78fb2",
+   "k": "welt",
+   "titel": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
+   "t": "Die 'Koalition der Willigen' hat in Polen ihre erste militärische Übung absolviert, bei der Hunderte Soldaten die Sicherung eines Friedens in der Ukraine testeten.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-23T10:30:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "24f86e883f73da35",
+   "k": "welt",
+   "titel": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
+   "t": "Die Weltklimakonferenz COP31 in Antalya endet ohne Bekenntnis der fast 200 Staaten zum Klimaschutz, Umweltminister Schneider sieht das nicht als Rückschlag.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-23T09:29:40+00:00",
    "tag": null
   },
   {
@@ -4720,617 +5331,6 @@
    "quelle": "The Boston Globe",
    "zeit": "2026-11-22T07:44:56+00:00",
    "tag": null
-  },
-  {
-   "id": "41ad94a3ed3d2795",
-   "k": "trading",
-   "titel": "Volkswagen Aktie: Zwei Nullrunden liegen auf dem Tisch - Börse Global",
-   "t": "Bei Volkswagen liegen laut Bericht zwei Nullrunden auf dem Verhandlungstisch.",
-   "e": "",
-   "tk": "VOW3",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzZwbkg4QmRoTG1Pc01kbzdtcHlnZHBOVjUzWi1jWjVzQjcyVnNseVloeDhUUUFUZUFSX0F3ejJObnRGbXlUY0MwYzUtMlR2anRlZko0dUtmRmdxclg3NGF5MGhybzROelpDQ3VnRWl0N2xhUjVNbS0zMHZobUd6Nm5RLThCdllSNl9hTVhvMmtQNjA?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-22T07:38:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "c45d7d490cee82ab",
-   "k": "welt",
-   "titel": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
-   "t": "Ein Jahr nach Einführung des Social-Media-Verbots für Jugendliche in Australien zeigen sich Lücken bei der Umsetzung.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T07:26:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "13dbccc7a54fc085",
-   "k": "trading",
-   "titel": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-   "t": "Südkoreanische Börsen haben Transfers des Tokens CYBER gestoppt, nachdem ungewöhnliches Minting auf Solana und ein Abfluss aus der Ethereum-Bridge gemeldet wurden.",
-   "e": "",
-   "tk": "CYBER",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-22T07:24:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "df12d8170516000c",
-   "k": "welt",
-   "titel": "Im Auftrag Russlands?: Die dänische Gang und der Plan zur Ermordung eines ukrainischen Rappers",
-   "t": "In Dänemark sollen zwei Mitglieder der verbotenen Gang \"Loyal to Familia\" einen Mord an einem ukrainischen Rapper im Auftrag Russlands geplant haben.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-22T07:19:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "7b4441a2f6209c86",
-   "k": "usa",
-   "titel": "Klage gegen journalisten: Trump muss gar nicht gewinnen",
-   "t": "Trumps Milliardenklage gegen die New York Times und Penguin Random House hat eine wichtige Hürde genommen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-22T06:53:16+00:00",
-   "tag": null
-  },
-  {
-   "id": "2bc26fb4cc472ac7",
-   "k": "welt",
-   "titel": "„Die Nato wird nicht überrascht“ – Brigadegeneral Huber über Gefahren an der Ostflanke",
-   "t": "Brigadegeneral Christoph Huber, Kommandeur der ersten dauerhaft im Ausland stationierten Bundeswehr-Kampfbrigade, sieht Russlands militärische Stärke wachsen, erwartet für die Nato an der Ostflanke aber keine Überraschung.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T06:51:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "9406f862a303b61a",
-   "k": "trading",
-   "titel": "Allianz Aktie: Rekord nach neun Monaten eingefahren - Finanztrends",
-   "t": "Die Allianz-Aktie hat nach neun Monaten einen Rekord eingefahren.",
-   "e": "",
-   "tk": "ALV",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnlKUDA3ZUlabGxMUlVBbEVsaVZqT2RvcGVtSWpxQzlmaGV0MzVDazMzV0pZRGcwVGNfRkJSRjVOVjZuQURPTlVvaUdFci0wMUk3YkcyQmFUY1hMSEM5ejgxSzZvbDRhdWJoMGpHRmwtWXNLMldWUVp2Z3VuYy1OdVVqeXZXSEg5SDFHVw?oc=5",
-   "quelle": "Finanztrends",
-   "zeit": "2026-11-22T06:50:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d048f6e72bb5f50",
-   "k": "nrw",
-   "titel": "Nach Niedrigwasser: Rhein-Pegel könnte nach Regen auf 3,30 Meter steigen",
-   "t": "Nach Niedrigwasser am Rhein könnte der Pegel nach Regenfällen auf 3,30 Meter steigen. Bundesamt und Nabu warnen vor zu viel Hoffnung, Hochwasser in den kommenden Monaten sei nicht ausgeschlossen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/rhein-niedrigwasser-pegel-kaub-koennte-nach-regen-auf-330-meter-steigen/100271822.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-22T06:48:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "4fd206a313b679eb",
-   "k": "trading",
-   "titel": "Lenovo Aktie: JPMorgan sieht mehr Gewinn, kappt Kursziel - Börse Global",
-   "t": "JPMorgan erwartet für Lenovo mehr Gewinn, hat das Kursziel aber gesenkt.",
-   "e": "",
-   "tk": "0992.HK",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPemRBeWVyUU5OU19DZFdzRWdyQjh3MHRaVlNMQjI0ZmF4VGVPc2R1Uk9zV3p6TGRwLWNTNlhpdmt2SUtJSU8yVmQyTHNsaTlmNXNERkdPakZlc1ZLTHNGODJSSG5vX2UtajNIOFE5TEFfeUVNc3VheDZJcEpNdDRpeWhwOGEzQUJCZXJtTGY1V1Bwam5m?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-22T06:46:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "cd8236dff771393f",
-   "k": "trading",
-   "titel": "Walmart überrascht mit starken Zahlen – warum die Aktie trotzdem fällt - wallstreetONLINE",
-   "t": "Walmart hat mit starken Quartalszahlen überrascht, die Aktie fiel dennoch.",
-   "e": "",
-   "tk": "WMT",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkp1ekxSTXVNamJfeDE4MXRfenRtS1ZKSHREbzMxY2IxXzdQbDRjTWd0MWFnQVRCZDBPSVNRZ1U1XzhDRm43Z2xPeWMwVVM4YmR3NnlOMzBPb0xGaU5IeHRqWndXbGdfcDJlR3p6dnQtMF9HbXd1WFBmX2NSaHh1RFRuODJ5WmwtSGNHVDhzMmhuVTNUdWg2T19EOE9md3c2?oc=5",
-   "quelle": "wallstreetONLINE",
-   "zeit": "2026-11-22T06:44:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "2eefd9d0ce001312",
-   "k": "welt",
-   "titel": "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
-   "t": "US-Botschafter bei der UNO, Mike Waltz, spricht von unhaltbaren russischen Verlusten, bei denen monatliche Todesfälle die Rekrutierung übersteigen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/22/us-news/russia-faces-unsustainable-losses-approaching-wwii-scale-in-ukraine-war-mike-waltz-warns/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-22T06:43:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "5c7f386bb3a59b48",
-   "k": "welt",
-   "titel": "Neue Front Ostsee? Drohnen treffen russischen Frachter – Moskau verdächtigt den Westen",
-   "t": "Im Finnischen Meerbusen soll der russische Frachter Sparta II durch zwei Drohnen angegriffen worden sein. Russland macht die Ukraine dafür verantwortlich, Belege sind laut Berichten bislang nicht öffentlich.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/videos/video6b02873339a3e8110f0e602b/ukraine-krieg-neue-front-ostsee-drohnen-treffen-russischen-frachter-moskau-verdaechtigt-den-westen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T06:40:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c09290a3be3b3bc",
-   "k": "trading",
-   "titel": "Bitcoin-Kurs: 1,8 Mrd. USD an gehebelten Positionen liquidiert - ad-hoc-news.de",
-   "t": "Im Bitcoin-Markt wurden gehebelte Positionen im Umfang von rund 1,8 Mrd. USD liquidiert.",
-   "e": "Große Liquidationswellen verstärken kurzfristig Kursschwankungen, weil Zwangsverkäufe Abwärtsdruck erzeugen.",
-   "tk": "BTC",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmphZ1ZUeUpLQXl1d1BNSnhlY2w4TThCR284LXRtc1Nqb1k4QjYzdHcxbmZoUFRKLUNnTENmcVhjeGhfZzdISU9hQ3N4cVlpX1JrYmpOMUxPVkQ1Q3FobHVQNWdKVVVGN1pPVXFvYnAzVE10bDNUTFR2aEhDek5LeU9TYzI1TUZfd2pKZ0ZtNkowNFZaTVJyREx2ODVwenBSQXBKUFNEYThDcVk0dHA5dm9yOFNzVDFfQ3BOLXdCZw?oc=5",
-   "quelle": "ad-hoc-news.de",
-   "zeit": "2026-11-22T06:39:07+00:00",
-   "tag": null
-  },
-  {
-   "id": "634ce56144b8563d",
-   "k": "trading",
-   "titel": "Solidity 0.8.39: Ethereum-Kurs bleibt unter 1.700 USD - ad-hoc-news.de",
-   "t": "Ethereum notiert weiter unter 1.700 USD.",
-   "e": "",
-   "tk": "ETH",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVZSeGtPUHFaT3AwdEsySFVUWDVpSExQaGM0VHFaNU1mclRnWGpGSGZBYzhEMGx5YjdTM18zRXBQN1pYNjY3YzA4bDctNGJDZWdURDR1VVpUV1Rwb0xlMU5EeDZSa3Q3RVlMNFpYR1YtdWJYQjlUd0xfaTBpZVBMUEw4WkhRTGJ3SXF1eXdYbzRUSi1YNHdLUHZpb3BONVloQ2FpYlNWREFPZDZrR0VXbTZUYUM?oc=5",
-   "quelle": "ad-hoc-news.de",
-   "zeit": "2026-11-22T06:38:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "80d0df666e49c55c",
-   "k": "trading",
-   "titel": "Eli Lilly Aktienanalyse: 39 Prozent Umsatzplus, Prognose um 5,5 Milliarden Dollar hoch – wie lange trägt die Abnehm-Spritze die Aktie? - AktienCheck.de",
-   "t": "Eli Lilly meldet 39 % Umsatzplus und hebt die Jahresprognose um 5,5 Mrd. USD an.",
-   "e": "Die Prognoseanhebung bei einem Schwergewicht der Pharmabranche ist ein wichtiger Kursauslöser im Sektor.",
-   "tk": "LLY",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTV3ak1hQWNwd1JDcWNmTGRCWS1hZ1hDMGNSME9hYVRyeHdmQTdWQXE4a2FtamE1dndBbkx5ZUtFWkFLX3FjTEcyRmxZRC00SjhWeUN2bVhEbzZrRmFyT2FDczJ6OVZLMy1IVzgwUmRfTWppaHRCbHA2TnZTZzY4cVdVanBGWFRfU1lDOXdQTTJ2N2RTMnZtNWU4VUo0dHlNWDJaNVdDTGlINUhxenc?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:33:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "ffb31df90587228c",
-   "k": "trading",
-   "titel": "Berkshire Hathaway Aktienanalyse: Abel kauft Aktien zurück, der Gewinn sinkt – was macht der Konzern mit 357 Milliarden Dollar? - AktienCheck.de",
-   "t": "Berkshire Hathaway meldet einen gesunkenen Gewinn, Abel kauft eigene Aktien zurück, der Konzern verfügt über rund 357 Mrd. USD.",
-   "e": "",
-   "tk": "BRK.B",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0thaHFGSGNWbzJOUmJGVVJBYk8wbE9EWUhwMm9lWVlyeWsxdzFDdlpqSGM5NXBtUVZ2VkVGUmZhRUZ4bDAwTFphU0xXd2NqbmxwOHJZQ0JtRkhXQzVTUWREVm1VcXhiWXRmTEhXNnJrZ19DVm8wMVYzS2pGazd2V0QtMzg0RmRPQmZ3U3YyODhrMGZFemRfN0h5M19DSTZVSXF3c2hUX0dOMHBBdDZn?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:33:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "48ec36fb36ea26da",
-   "k": "trading",
-   "titel": "Novo Nordisk Aktienanalyse: Die Wegovy-Pille schlägt zurück, doch die Aktie liegt 16 Prozent im Minus – kippt der Kampf gegen Eli Lilly? - AktienCheck.de",
-   "t": "Novo Nordisk meldet einen Rückschlag der Wegovy-Pille, die Aktie liegt rund 16 % im Minus.",
-   "e": "",
-   "tk": "NVO",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdG5QdGNkT09YNC1lTTU3OG8tNG1VQkdvUGNZd05vVnppekIwa0duTjRNV2lRZVpqYmFZaTg3VEdfdkFJaDNmd1pZbDJLUTlxclE0c2ZqQnEtYzdHTTVNSDd2S2kycEZJSXIxOFp2Q1ZkTFBXX29XREFXYXJzejNpRGRxR25zWG9UU3lwTDlzMXBKVUZNY2RLdzJ2akdRMFZ0dmxQSTNZRTI4Zw?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:33:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "3f53c61300d97e03",
-   "k": "trading",
-   "titel": "Heidelberg Materials Aktienanalyse: Die Zahlen schlagen den Markt, die Aktie hängt bei 173 Euro fest – wann dreht der Zement-Riese? - AktienCheck.de",
-   "t": "Heidelberg Materials übertrifft mit seinen Zahlen den Markt, die Aktie notiert bei rund 173 Euro.",
-   "e": "",
-   "tk": "HEI",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1liRmJNWmVONk82Unl6QmJoYzFpRVE1bk5tQldXNEVMTFNtWUNNS2pWMFZXbzYxRGdKcWk1a1lGNUJLNEgza3c2UHpRcllCcENxWnFOUTh1aDdzR0ZIRlZ5a0tGVnZKS09adlJ5NmRvYjIweEZjM2g1Uk03UVZ4cjNTOXpHSnNoaVVONW1ZRTdyUnpQVkF3TWJnaVR1X0hvZmJSMFhDbF8?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:31:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "4cfcecb538ba512e",
-   "k": "trading",
-   "titel": "Merck Aktienanalyse: Dritte Prognoseanhebung in Folge, KI-Chips als Turbo – doch ist die Merck Aktie schon zu teuer? - AktienCheck.de",
-   "t": "Merck hebt zum dritten Mal in Folge die Prognose an, KI-Chips treiben das Geschäft.",
-   "e": "",
-   "tk": "MRK",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0tPZHIxSHJSZjdqbU4yWUNPTzI0TzNLTkI2Y3RKZXZsSXRBQnJXVk5jbklhNkowc2dnZmVhVnZ4ZFVpTzNZNEM5UTBPRVRwZkhCQWxxM2UtdkNqZDFMZi1xbzh5X1IxQVN6UG5HZHl4WTZ3MFhZLXhYRW9henRZeGoyb20tcEZpcHdxVHNSNnh0SHcwRTh2WWxDeUVjNjJKX1N5U0NTek8zYkN4Q0l1aw?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:31:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "4c19a340215aa3df",
-   "k": "trading",
-   "titel": "Deutsche Börse Aktienanalyse: Rekordlauf, Prognose erneut hoch, 5,3-Milliarden-Deal – wie viel Luft hat die Aktie noch bei 315 Euro? - AktienCheck.de",
-   "t": "Deutsche Börse verzeichnet einen Rekordlauf, hebt erneut die Prognose an und vermeldet einen 5,3-Mrd.-Deal.",
-   "e": "",
-   "tk": "DB1",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWRoOWJhZE1weE8wNW9fOU8xSG92ZWU4Zkw2RHAzQXRxZmFVc2FEaWx5MThtSlFRVDdUcUR3T1dULWV6RVp1bmNHb3N5NUF3ZTR2aDZYWGljLUpQUnZudER4T3phUl9FdzlUWkNmUVZUdmdiLXdoazU5ZFZ0V3ZMMTNLX3NXRkJmSkhFakY1ZGxJQmRwXzVOQklUWVdMeXVheXl3R3BfUkFOVXhYU2J2dQ?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:31:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "46fd9736e5d1d6c2",
-   "k": "deutschland",
-   "titel": "Gutachten warnt vor Lebensgefahr für Ex-BND-Chef Hanning",
-   "t": "Ein fachärztliches Gutachten warnt, dass für den in Untersuchungshaft sitzenden Ex-BND-Präsidenten August Hanning wegen Krebs und eines Immundefekts Lebensgefahr besteht.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T06:30:49+00:00",
-   "tag": null
-  },
-  {
-   "id": "03a9d605f025728b",
-   "k": "trading",
-   "titel": "Beiersdorf Aktienanalyse: Nivea schrumpft weiter, die Aktie fällt unter 80 Euro – ist der Boden erreicht? - AktienCheck.de",
-   "t": "Beiersdorf schrumpft weiter, die Aktie fällt unter 80 Euro.",
-   "e": "",
-   "tk": "BEI",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWxzemVNMW9CdmFxVzlLSUcwVlUxM09VT0VfeGNOdXpWNUU2MVdWeHlWWWtkQ1FHYUg5UWpnQ0hXS3pqTldUOF9nVkZBRUVCSmtCdENPcHFISVhUUnRaR2V2LXBqbWp3Nnc0SHlLZ2d0TUxOS1Q1QmFKUy1YYThUV2FZWVlYZFQwQW9pWGRXZFZweXh1ejVrN0JSVWplVlduZlRmY1dubmwzX05iUEE?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:30:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "5de88d5100ae72b8",
-   "k": "trading",
-   "titel": "Hannover Rück Aktienanalyse: 83,7 Prozent Schaden-Kosten-Quote, 4,25 Prozent Dividende – warum zögert der Rückversicherer bei der Prognose? - AktienCheck.de",
-   "t": "Hannover Rück verzeichnet eine Schaden-Kosten-Quote von 83,7 % und eine Dividende von 4,25 %, zögert aber bei der Prognose.",
-   "e": "",
-   "tk": "HNR1",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2RWOTZQT0hfWEpLbGdPRG9VVEstWWpCZkRKRGc0TnJBa3l6WG5SblliWWV0alpmM21WbmhIdXdkZEdqc3NuMjZCUUFSUGY0Q0s3RGM1MGxvZE5KTFN5dUNuZEVFYXJTazlLVlR2TUZ6VG1iU3NUYWEyNWFTNmVTVzVzbmlxMjMxX2JOR2tIRnNUQW4zWG8zVGhHWVZ5R2k3c2c5dGZCSQ?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T06:30:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "cbe3f4c2fd598f65",
-   "k": "finanzen",
-   "titel": "S&P 500 Futures Fall 3.20% to 6,966.75 as the AI Sell-Off Deepens: What to Expect When Trading Resumes Sunday - BBN Times",
-   "t": "S&P-500-Futures fallen um 3,20 % auf 6.966,75 Punkte, da der Ausverkauf bei KI-Werten sich vertieft.",
-   "e": "Ein Rückgang dieser Größenordnung bei Index-Futures zählt zu den deutlichen Bewegungen der laufenden Korrektur im Technologiesektor.",
-   "tk": "",
-   "s": 8,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTDJPcE0yaDhfTUh5ODZiZy12UFVrTnpmRVhFcGJiV1dNRW5RNlNZM2owTXk3Vl9UdS01WU1NSjlTODBBQ3ZpV29YeUhRalFxWk1ERVV3TWYtZVdPRGR5aTFpSlMxZ3h0alRrVC1fV3lJUG04cWM3ay1QOEZNNjZLY0NLR0RhTGVoX19rMDFCRG9JdTlSUmk0bWV1S29hLTdxRVJ3LVF1UHIxdnZjTzZ2dkVJajVRZ3JqTTgxaEQwOW5hUFpLbi1JUXFlMEI3UXVRZ1c0dzdrVkVOQQ?oc=5",
-   "quelle": "BBN Times",
-   "zeit": "2026-11-22T06:26:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "f0a68b4504443dc0",
-   "k": "finanzen",
-   "titel": "Inflation: Jetzt übernehmen die Schuldensünder die Europäische Zentralbank - WELT",
-   "t": "Ein Beitrag thematisiert, dass hochverschuldete Euro-Staaten mit Blick auf die Inflation zunehmend Einfluss auf die Europäische Zentralbank gewinnen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0V2dEtGOFNBQVAwSmIzdFR2M3g2S0tqdlAxVTFoV25fRzRUN19qeDZLVW9CNlBfT2FxQmtjVmRRN25PQURYU25lN0dvMXVGWGlUOWxwdUlfMnV3YWtTN0FSYXhFMncwX0F6UTVBNUl4Wkh4b0gtOUFUWl95QW1JdHMzNS1pQnZmY3JBS1lJQ2lkMUtZX0VjUW9qLXRuS0Z3SkpwNTVSSmlMSFdrN0MtUnlaQUhsTG5YZFBnd1RNSmVIYzgtbTgtTXhvd1poVWlsOEUzUUpkSlY?oc=5",
-   "quelle": "WELT",
-   "zeit": "2026-11-22T06:25:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "33095d62d010196b",
-   "k": "finanzen",
-   "titel": "Jetzt übernehmen die Schuldensünder die Europäische Zentralbank",
-   "t": "Die Welt berichtet über Pläne, dass hoch verschuldete Staaten Einfluss auf die EZB gewinnen sollen, mit Unterstützung des Bundeskanzlers.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/debatte/plus6afea2de332a07285981e087/inflation-jetzt-uebernehmen-die-schuldensuender-die-europaeische-zentralbank.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T06:22:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "87c6a04038ffec2b",
-   "k": "finanzen",
-   "titel": "Bank of Korea to Hike Rates Amid Inflation - 조선일보",
-   "t": "Die Bank of Korea will die Zinsen angesichts der Inflation anheben.",
-   "e": "Eine Zinserhöhung der Bank of Korea zeigt, dass Notenbanken in Asien wegen Inflation straffen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWZyVjc0NEdUQ1l4WlJzaExVS3RSWlpkSlhkQnNyR291VHZ5MGlOV2N4V2l2TTNvVWMxLXBET3RvNlJ3WHExbHRIVnBxc2dmTFBPUWRxX3F0MWdrOXJwTTFKdmIyRjU1VTd0cWFLN2RzX3BDd3l6dngwWHNmZlExSlZqamtDdkc4dTlabWh3?oc=5",
-   "quelle": "조선일보",
-   "zeit": "2026-11-22T06:21:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "0479c63344cac5fb",
-   "k": "deutschland",
-   "titel": "„Dann habe ich gar nichts mehr in der Hand“, fürchtet die Alleinerziehende",
-   "t": "Die Bundesregierung plant, den Unterhaltsvorschuss künftig vom Einkommen der Alleinerziehenden abhängig zu machen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T06:16:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "b89385bee51991fb",
-   "k": "trading",
-   "titel": "Ripple-Kurs: XRP mit +9 Prozent – Trendwende oder Bullenfalle? - Bitcoin2Go",
-   "t": "Der XRP-Kurs legte um rund 9 Prozent zu.",
-   "e": "",
-   "tk": "XRP",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbFl1ZVZoZVc1NjJnMHJ5b0tmQjlOby1iWV81WWZnSFFTaUhUZ0tZN2stWHFJaXEwcjhHZWxzNldWSU5Sc0ZIakNvcER1aUxPcEkyRThLdlRkSnFHQlB2WGpFZnVaNlk2R3h6RnY2bnc2dUU?oc=5",
-   "quelle": "Bitcoin2Go",
-   "zeit": "2026-11-22T06:07:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "9f828b9af1c964ee",
-   "k": "trading",
-   "titel": "Cisco Aktie: Zwei KI-Partnerschaften mit DXC und Qumulo - Börse Express",
-   "t": "Cisco kündigt zwei KI-Partnerschaften mit DXC und Qumulo an.",
-   "e": "",
-   "tk": "CSCO",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk9ubXl2LU1kTDVfVC04SnRhN19QQktoblY1WC1EVU8xdmRBby13REt1b0U1ZlRtQ2tCQVdkNTgxNjRTVzY4bVphTTNmVDRaZm85T3Bjb3Rld20wOVZTX19remphYlNYVkFhX250RWc2MkFDb1lDRU9va0tEVTczdlM0cG5OSjFyZmtFb094NHZUSlE2NG5mYmJFNHV6ZFY0RG9PeDdUYS1pUQ?oc=5",
-   "quelle": "Börse Express",
-   "zeit": "2026-11-22T06:03:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "c3b2048015b8bc32",
-   "k": "finanzen",
-   "titel": "Fed: Zinserhöhung könnte über Dezember hinaus andauern - BeInCrypto",
-   "t": "Die US-Notenbank Fed könnte ihre Zinserhöhungen über Dezember hinaus fortsetzen.",
-   "e": "Weitere Zinsschritte der Fed wirken auf Liquidität, Dollarkurs und Risikoaufschläge bei Aktien und Krypto.",
-   "tk": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42TEtJeThDZzcybENCQV8tUV9Id2J0bmIzcXJ0UElNODBqN19KZDE1Nl9NNGI2ZGJoQWIyNmJzWDdUR3VIbld1ZDB5NklFQ0FqYlc1TkI0REN4SkFESnZFX0Frd1BfaDVaUnVON3dkektLeTFXZEtHa1RYQQ?oc=5",
-   "quelle": "BeInCrypto",
-   "zeit": "2026-11-22T06:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a25d121e47bbe064",
-   "k": "usa",
-   "titel": "Trump says Sen. John Cornyn is doing a ‘tremendous disservice’ by blocking Texas judicial pick",
-   "t": "Trump wirft Senator John Cornyn vor, die Bestätigung eines Richters für Texas zu blockieren.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://nypost.com/2026/11/22/us-news/trump-says-sen-john-cornyn-is-doing-a-tremendous-disservice-by-blocking-texas-judicial-pick/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-22T05:56:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "df24c0dfdbecf0e6",
-   "k": "trading",
-   "titel": "Siemens Aktie: Enexis setzt beim Netzausbau auf sie - Börse Global",
-   "t": "Der Netzbetreiber Enexis setzt beim Netzausbau auf Siemens.",
-   "e": "",
-   "tk": "SIE",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM01INTdieWdzVTc4SURPWUhGLWlQcHNrNjN1VVZGMWdjR01lcEZuTFVEajc4UC1OWHd4WXJWbWNjLU85UUp4TkRnQ1pFM0N5VExSek05TUlRd214SlF5ek5UZTA3dE5XeURiYnZKbl9qZmh0YjlIUm9MT0dQSWlfOUpMeE1CM0NrX3FNTkZXMA?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-22T05:49:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "3c9db3c9c82ec562",
-   "k": "deutschland",
-   "titel": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
-   "t": "Die Bundesbeauftragte gegen Antisemitismus, Felix Klein-Nachfolgerin Schnurbein, warnt vor wachsendem Judenhass in Deutschland und nennt die AfD-Ideologie einen gefährlichen Angriff auf die Erinnerungskultur.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-22T05:47:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "d7b6b17664907e79",
-   "k": "trading",
-   "titel": "Lufthansa Aktienanalyse: Rekordumsatz, Piloten-Ultimatum bis Montag – Hebt die Aktie nach 21 Prozent Plus ab oder droht der Absturz? - AktienCheck.de",
-   "t": "Lufthansa meldet Rekordumsatz, die Piloten haben ein Ultimatum bis Montag gestellt, die Aktie hat 21 % zugelegt.",
-   "e": "",
-   "tk": "LHA",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXJwZGN4ZXF1UGxpQjhJQktENzFhLWJSdUtMZjJxLXVtVDU5cG4zbXVVUkEtcmEzT2hWa1VISVR6YmFFNm4zLUlDbWN5RTZUbUZiOWtEdTBOT2JKTlVVZk9wLUhiWElGSWd5WWFBOFNCOXJZbDZFMVZtSkRwVmx6TW9wX2xYMFJocGtCdm5vRTRWSjFKQTFMRm5CQS1sS3Bldk5wMDhrYUQySV82bHIwYw?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T05:43:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "85d0b7916adbbe7a",
-   "k": "trading",
-   "titel": "Alibaba Aktie: Megaspeed-Ärger? - Börse Global",
-   "t": "Alibaba ist in einen Streit um Megaspeed verwickelt.",
-   "e": "",
-   "tk": "BABA",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82RWY3YjRhSzFkS3lvU21meFNjbzA5LTZCMmRBSmFZbF9JcHBfVzRVWW5kYzh6QnowaG15T0hmbWtEcnVpM3hVQTlhaVc0VW4xOVA1VkhIQUJ2NTJfR3RVQVJHc09uazNOc1FhWlNOdDJxNVE5?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-22T05:42:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "7f78c278b9d7ecc0",
-   "k": "trading",
-   "titel": "Applied Materials: Aktie fiel am Freitag um 11 Prozent - Börse Express",
-   "t": "Applied Materials verlor am Freitag rund 11 % an der Börse.",
-   "e": "Der Kursrückgang bei einem großen Chipausrüster passt zum breiteren Ausverkauf bei KI- und Halbleiterwerten.",
-   "tk": "AMAT",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblpMQ21vbUlfMm80bEdqTEtidHJhal9IQUpLcXpkQVBYdFg2eXdwRVdlT29CaktYUGV1UTVaZnV2cklVQXBsY1Nudm9KbkYyaGdqTm9wdHNfM3FUUXBTbkZXNkx4RzNGWmZyVXlFTzN1TTlDNHF2TXNCTlhSSlhmMTNHUnFyMXhJZUlWMXR6aTdMVmYwMHVocVpadkRXZV96c0xxOURYSXE?oc=5",
-   "quelle": "Börse Express",
-   "zeit": "2026-11-22T05:42:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "9257252b82bdfdb3",
-   "k": "trading",
-   "titel": "CrowdStrike Aktie: Jefferies hält Zscaler-Kauf für wahrscheinlich - Börse Express",
-   "t": "Jefferies hält einen Kauf von Zscaler für wahrscheinlich, CrowdStrike steht im Fokus.",
-   "e": "",
-   "tk": "CRWD",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODc4SmwwU2JXdTA5LWxBdzFBelM4YW1oa0J2RC1qWDI5NnFiNVlrN1BxTWlQSE0zOV91N1BQRkJyNElmN3dPaWlIaGFBUzVxMWs5NWVXamtXeWpCU195Z1dzUW1WcXhXVWFEWEJYZUdsa1NvTF9zMk1SYTZ6dE1zMGx1X25XaWN4SXVNekFnb3ljclZWMzBtdGtPT0RwTTliY1BkdnZ3aXBSVC10U1U1Wl9LcW5venVYcXc?oc=5",
-   "quelle": "Börse Express",
-   "zeit": "2026-11-22T05:39:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "7f559ad229a237dc",
-   "k": "trading",
-   "titel": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-   "t": "Das Krypto-Protokoll Chainflip bestätigt einen Hack über rund 12 Mio. USD und bietet dem Angreifer 10 % Belohnung für die Rückgabe von 90 % der Mittel bis 23. November.",
-   "e": "",
-   "tk": "FLIP",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-22T05:28:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "9356f724ff92a31c",
-   "k": "finanzen",
-   "titel": "US Stocks' Sixth Straight Loss Echoes 2018 Playbook as Goldman Sachs Warns of Liquidity Contraction Risk - BigGo Finance",
-   "t": "US-Aktien verzeichneten den sechsten Verlusttag in Folge. Goldman Sachs warnt vor dem Risiko einer Liquiditätsverknappung, Analysten ziehen Parallelen zu 2018.",
-   "e": "Sechs Verlusttage in Folge und Liquiditätswarnungen sind ein Stimmungsindikator für die Lage an der Wall Street.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YV3N0NGFyX1Q0dXlXcG90U2xvRTFNVWgxTlV5N3JybFl3c1JFVUgwdFdKdGdvWkRrTzlvUFlqQ0c4bFhBMUJiWUhNYUtUdWM2Rk43eTFCam9vYWk3WGEwNVlHZmVqOVVJVVM3Q0xIMFVaQWtkRUE?oc=5",
-   "quelle": "BigGo Finance",
-   "zeit": "2026-11-22T05:25:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6df0c6675fb1c201",
-   "k": "trading",
-   "titel": "Deutsche Bank Aktienanalyse: Rekordgewinn, Skandalberichte, EZB-Schock – was wirklich in den Zahlen steckt - AktienCheck.de",
-   "t": "Die Deutsche Bank meldet einen Rekordgewinn, zugleich gibt es Berichte über Skandale und Belastungen durch EZB-Vorgaben.",
-   "e": "",
-   "tk": "DBK",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUZkNnI0b09JeUg3UDd0aGxMaldOQnRHMC1CbW9sU25KalNnZ3dhOEVZZzNKaFhObGtFMk1LRUo1NV9IQVhkZnp1Z1pHMHlidmkxcmJzaGJnYXMxU3VWMU90akJxbWtualB4d3FsZEhlOTdKZXNfYTJDYkpkeTZYSUJBbUxxYURnVnhxbTd3X1hoWXV0bXJtclRJZHBtd2MyNmozWjVNNG5xOXNyei16Zg?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T05:23:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "5a61bfd7e96be8fb",
-   "k": "trading",
-   "titel": "BASF Aktienanalyse: Evonik-Deal abgesagt, Aktie unter Druck – was Anleger vor dem Capital Markets Day am Montag wissen müssen - AktienCheck.de",
-   "t": "BASF hat den Evonik-Deal abgesagt, die Aktie steht vor dem Capital Markets Day unter Druck.",
-   "e": "",
-   "tk": "BAS",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaU11RVBzMi1YLVNhcGZrTzFubmF3cnpkakkwd2plQkdiT2ZHbjZMWWtPZHpTd0NqWnE5UkdMX0RFT0I5SzVVbmxSeTNrQnZFempyUHJHX3hNSFBJMDdBeFgtZjBISlhzcDNkNURVNURxaFVUQklKZ3FGZTVObWxQNzV3NE1DZUVFd2ZWWlFjOGR0NEhiRHFXMVFqS3BLZHpsVjhva2V2dlEyRGxR?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-22T05:22:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "f50ec926c88b104f",
-   "k": "deutschland",
-   "titel": "Kliniken, Feuerwehr und Polizei fordern sofortiges Böllerverbot in Berlin",
-   "t": "Kliniken, Feuerwehr und Polizei fordern ein sofortiges Böllerverbot in Berlin.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-22T05:19:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "efa7cc377e0688c4",
-   "k": "trading",
-   "titel": "Geberit Aktie: Mehr Kursziel, gleiche Skepsis bei Baader - Börse Express",
-   "t": "Baader hält bei Geberit an der Skepsis fest, hebt das Kursziel aber an.",
-   "e": "",
-   "tk": "GEB",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjdlZkhSdkc5WWhDbkxodmE4SlhXVDUxdE1ZUTRVNTFVX0cxUjVnVk5SbmtzalZ6UVNad0h0RFQxSzNQZEw3am1yczRDb2hlNDFoREY5eC1PZXcxMWxua3N6aE4tUkdiWVFLVUNPUnM3a0I4OVhJNC1TSG8wTEhFeU1xS3J4WVRBN1M3WVNKbi1sWE9rNUJKdmxhdGMwSEFqNFY2bWpYNXVmZw?oc=5",
-   "quelle": "Börse Express",
-   "zeit": "2026-11-22T05:03:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "0ce445b266b4df88",
-   "k": "trading",
-   "titel": "Bitcoin-Crash im Faktencheck: Tether, Kraken, Montag - CryptoTicker.io",
-   "t": "Nach einem Bitcoin-Kursrückgang werden Hintergründe zu Tether und Kraken sowie dem Wochenstart erläutert.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE5FZ29kMTg0dlVEVmc0RGowZERYOGVwcG5XX2duOWlDSUJKX095UjJJWk1fdHJ2WktGblNON0lNWlB1d0EtRzJJS3lzb2FpdVM0Vmc1Y3JzbzAzSVZlZl8wRnk0VHhFbnFLQ0hHOW9lN0ZIZ1ZzTlBESnljcERUdk02SnBid1N0OGxNUw?oc=5",
-   "quelle": "CryptoTicker.io",
-   "zeit": "2026-11-22T05:02:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "3167e1215b1cca0d",
-   "k": "nrw",
-   "titel": "Frost und Glätte in NRW – eisige Woche liegt vor uns - Come-on",
-   "t": "Für NRW wird eine eisige Woche mit Frost und Glätte erwartet.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0VxUTJaU2szTm93ODRBMGJ3TmZILUdQeVBOWkJxcUJzUUs3NWVJN0lkeC1iQ2ZPNTBwaFhvRmg4Z3Q2cXowa1BsWEkxRmhMQmF4UkZmUzhBcGN3SEdHOGhaMlZTWHR1dFdNNVozWl9xZktORHMxS01MRUQydjlDR29xZHdveF93VlVfNzBrU2FVekx3dDRWdVM4elFTTFNZQXN4UU1mNEtvN3k0?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-22T05:01:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "775c2b4f66a6958e",
-   "k": "deutschland",
-   "titel": "Tierseuche: Vogelgrippe-Fälle nehmen zu, vor allem im Norden",
-   "t": "Die Zahl der Vogelgrippe-Fälle steigt wieder, vor allem im Norden Deutschlands, liegt aber unter dem Niveau des Vorjahres.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/tierseuche-vogelgrippe-faelle-nehmen-zu-vor-allem-im-norden/100271817.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-22T05:00:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5353,7 +5353,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Welt",
@@ -5363,7 +5363,7 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "FAZ",
@@ -5393,7 +5393,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 10
    },
    {
     "name": "CNBC Finance",
@@ -5408,12 +5408,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Fox News Politik",
@@ -5433,7 +5433,7 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Decrypt",
@@ -5486,7 +5486,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 14
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5500,15 +5500,13 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
+    "ok": true,
+    "n": 19
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -5518,7 +5516,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 24
+    "n": 14
    },
    {
     "name": "Google News Fed",
