@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-23T23:01:49.509343+00:00",
+ "aktualisiert": "2026-11-24T01:01:48.852287+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.177 $",
-   "delta": 0.14873082918278357
+   "wert": "61.236 $",
+   "delta": 0.2118915710223716
   },
   {
    "name": "Ethereum",
-   "wert": "1.710 $",
-   "delta": -0.4127185898496968
+   "wert": "1.708 $",
+   "delta": -0.37778284980171395
   },
   {
    "name": "Gold",
-   "wert": "3.634 $",
-   "delta": 3.385108407635551
+   "wert": "3.659 $",
+   "delta": 4.079197293048908
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.177 $",
-   "delta": 0.14873082918278357
+   "wert": "61.236 $",
+   "delta": 0.2118915710223716
   },
   {
    "name": "Ethereum",
-   "wert": "1.710 $",
-   "delta": -0.4127185898496968
+   "wert": "1.708 $",
+   "delta": -0.37778284980171395
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 2.1802406904190383
+   "delta": 2.23421769317826
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,25 $",
-   "delta": -4.441537518259264
+   "wert": "80,40 $",
+   "delta": -4.262923569695253
   },
   {
    "name": "EUR/USD",
@@ -5408,12 +5408,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "Fox News Politik",
@@ -5433,12 +5433,12 @@
    {
     "name": "Cointelegraph",
     "ok": true,
-    "n": 27
+    "n": 29
    },
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "The Block",
@@ -5485,7 +5485,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5500,12 +5500,13 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
