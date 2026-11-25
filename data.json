@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T08:08:43.506432+00:00",
+ "aktualisiert": "2026-11-25T08:12:08.847468+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.786 $",
-   "delta": -2.3794592892399984
+   "wert": "58.788 $",
+   "delta": -2.3974079656784686
   },
   {
    "name": "Ethereum",
    "wert": "1.642 $",
-   "delta": -3.0195175135614165
+   "delta": -3.0169986948451877
   },
   {
    "name": "Gold",
-   "wert": "3.524 $",
-   "delta": -1.066843633610981
+   "wert": "3.523 $",
+   "delta": -1.0893035573015242
   },
   {
    "name": "EZB Zins",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.018",
-   "delta": -1.2608285626672933
+   "delta": -1.2608680302191977
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.786 $",
-   "delta": -2.3794592892399984
+   "wert": "58.788 $",
+   "delta": -2.3974079656784686
   },
   {
    "name": "Ethereum",
    "wert": "1.642 $",
-   "delta": -3.0195175135614165
+   "delta": -3.0169986948451877
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -4.82065968646424
+   "delta": -5.018744208264165
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,18 $",
-   "delta": -2.27910174552729
+   "wert": "80,23 $",
+   "delta": -2.2181632956305153
   },
   {
    "name": "EUR/USD",
@@ -3519,7 +3519,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3645,8 +3645,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -3656,7 +3657,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3686,7 +3687,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Google News Fed",
