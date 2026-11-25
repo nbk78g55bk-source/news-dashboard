@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-25T09:01:43.110456+00:00",
+ "aktualisiert": "2026-11-25T11:01:49.165894+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "124,89 €",
-   "delta": -1.3897087841746592
+   "wert": "124,08 €",
+   "delta": -0.38935690755868
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,92 €",
-   "delta": -4.1679015963487
+   "wert": "41,48 €",
+   "delta": -1.4726805144713029
   },
   {
    "name": "Deka S&P 500",
    "wert": "135,66 €",
-   "delta": -1.9798433381790548
+   "delta": -0.15823590558170508
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "166,80 €",
-   "delta": -4.280956468492992
+   "wert": "166,12 €",
+   "delta": -1.2131325033795992
   },
   {
    "name": "Deka DAX",
-   "wert": "219,50 €",
-   "delta": -0.8133768761570348
+   "wert": "218,35 €",
+   "delta": -0.06864988558352714
   },
   {
    "name": "Bitcoin",
-   "wert": "59.348 $",
-   "delta": -1.138591643234903
+   "wert": "58.779 $",
+   "delta": -1.6104229264421361
   },
   {
    "name": "Ethereum",
-   "wert": "1.651 $",
-   "delta": -2.056295247644236
+   "wert": "1.644 $",
+   "delta": -2.2633084002783677
   },
   {
    "name": "Gold",
-   "wert": "3.564 $",
-   "delta": 0.04773007953231545
+   "wert": "3.559 $",
+   "delta": -0.09264444353359602
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.136",
-   "delta": 0.47406008172772296
+   "wert": "25.057",
+   "delta": 0.1563664136464027
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,75",
-   "delta": 5.273138685370848
+   "wert": "29,25",
+   "delta": 10.96357861430981
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.348 $",
-   "delta": -1.138591643234903
+   "wert": "58.779 $",
+   "delta": -1.6104229264421361
   },
   {
    "name": "Ethereum",
-   "wert": "1.651 $",
-   "delta": -2.056295247644236
+   "wert": "1.644 $",
+   "delta": -2.2633084002783677
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -4.12625493129992
+   "delta": -3.8177220644207943
   },
   {
    "name": "Rohöl WTI",
-   "wert": "81,19 $",
-   "delta": -1.048145057612393
+   "wert": "81,14 $",
+   "delta": -1.1090835075091676
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-25T07:01:45.388528+00:00",
+  "slot": 12,
+  "stand": "2026-11-25T11:01:49.165857+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Die Nvidia-Aktie fällt am Tag nach der Rückkehr von Jensen Huang als Konzernchef um rund sechs Prozent. Zuvor hatten viele asiatische Kurse deutlich zugelegt, und die SoftBank-Aktie verlor über elf Prozent. S&P 500 und Nasdaq schlossen tiefer."
+    "t": "Die zehnjährige Bundesanleihe rentiert bei 3,26 Prozent, und eine EZB-Zinserhöhung im Dezember ist nahezu eingepreist, obwohl die Inflation bei rund 4 Prozent liegt. Der EZB-Zins liegt bei 2,50 %."
    },
    {
     "k": "finanzen",
-    "t": "Zu den Marktdaten zählen Deka DAX 218,50 €, iShares MSCI World 124,56 € und Deka Nasdaq-100 168,16 €. Bitcoin notiert bei 59.172 $, Ethereum bei 1.658 $ und Gold bei 3.518 $."
+    "t": "Die Nvidia-Aktie fiel nach der Rückkehr von Jensen Huang an die Konzernspitze um rund sechs Prozent, S&P 500 und Nasdaq schlossen tiefer. Gold (3.559 $) und Silber notieren auf 52-Wochen-Tiefs; Deka DAX 218,35 € und Deka S&P 500 135,66 €."
    },
    {
-    "k": "finanzen",
-    "t": "Die EZB hat den Zins bei 2,50 % und die Fed Funds liegen bei 3,88 %. Fed-Vizechef John Williams hält höhere Zinsen „im Laufe der Zeit“ zur Inflationsbekämpfung für wahrscheinlich."
+    "k": "deutschland",
+    "t": "Die deutsche Wirtschaft ist im dritten Quartal laut aktualisierter Schätzung nur um 0,1 Prozent gewachsen, langsamer als erwartet. Im Bundestag verteidigt Kanzler Merz den Rekord-Haushalt und sagt, Deutschland könne sich künftig nicht mehr alles leisten."
    },
    {
     "k": "usa",
-    "t": "Trump sagt, der Iran-Krieg sei bis Januar finanziert, und äußert sich zu israelischen Zielen eines Regimewechsels in Teheran. Zugleich kritisiert er Demokraten im Kongress, die den Konflikt beenden wollen."
+    "t": "US-Medien berichten, die Regierung bereite neue Zölle gegen China, die EU und weitere Länder vor, nachdem der Supreme Court frühere Zölle als illegal eingestuft hatte. Bitcoin notiert bei 58.779 $."
+   },
+   {
+    "k": "finanzen",
+    "t": "Fed-Vizechef John Williams hält höhere Zinsen wohl „im Laufe der Zeit“ für nötig, um die Inflation zu bekämpfen. Der Leitzins der Fed (Fed Funds) liegt bei 3,88 %."
    },
    {
     "k": "welt",
-    "t": "Russland wirft Estland feindselige Handlungen vor und warnt, die estnischen Grenzmaßnahmen könnten zu einem offenen Krieg führen. Tallinn will ab dem 1. Dezember Straßenübergänge schließen."
-   },
-   {
-    "k": "nrw",
-    "t": "Der Märkische Kreis probt den Orkan-Ernstfall mit rund 400 simulierten Einsätzen in einer Nacht."
+    "t": "Russland wirft Estland feindselige Handlungen vor und warnt, die estnischen Grenzmaßnahmen könnten zu einem offenen Krieg führen. Tallinn will ab 1. Dezember Straßenübergänge schließen."
    }
   ]
  },
@@ -3905,71 +3905,6 @@
    "quelle": "CNBC Investing",
    "zeit": "2026-11-23T12:00:20+00:00",
    "tag": null
-  },
-  {
-   "id": "63cdffa711d78fb2",
-   "k": "welt",
-   "titel": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
-   "t": "Die 'Koalition der Willigen' hat in Polen ihre erste militärische Übung absolviert, bei der Hunderte Soldaten die Sicherung eines Friedens in der Ukraine testeten.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-23T10:30:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "a70b0f9723eec29f",
-   "k": "deutschland",
-   "titel": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
-   "t": "Die Zeugen Jehovas erhalten nach einer Einigung das Archiv einer NS-Verfolgten, das lange im Museum der Bundeswehr lag.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-23T10:26:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "904cb2ed93aba986",
-   "k": "trading",
-   "titel": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
-   "t": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, soll über mehr als ein Jahr Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes gehabt haben.",
-   "e": "Der Fall belastet Nvidia zusätzlich in der laufenden Affäre um Jensen Huang.",
-   "tk": "NVDA",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-23T09:56:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "24f86e883f73da35",
-   "k": "welt",
-   "titel": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
-   "t": "Die Weltklimakonferenz COP31 in Antalya endet ohne Bekenntnis der fast 200 Staaten zum Klimaschutz, Umweltminister Schneider sieht das nicht als Rückschlag.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-23T09:29:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "8e11f7570d7d24a9",
-   "k": "deutschland",
-   "titel": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
-   "t": "Die Parlamentarische Versammlung der NATO tagt in Berlin zur Sicherheitspolitik.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-23T09:14:40+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3992,7 +3927,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Welt",
@@ -4007,7 +3942,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "FAZ Finanzen",
@@ -4032,7 +3967,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "CNBC Finance",
@@ -4047,7 +3982,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 31
+    "n": 32
    },
    {
     "name": "WSJ USA",
@@ -4077,7 +4012,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "The Block",
@@ -4123,8 +4058,9 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": true,
-    "n": 35
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4139,7 +4075,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Google News NRW",
@@ -4148,19 +4084,18 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 35
+    "n": 40
    }
   ],
   "markt": [],
