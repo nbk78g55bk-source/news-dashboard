@@ -372,6 +372,20 @@ def ntfy(topic, title, message, link=None, prio=4):
     if r.status_code >= 300:
         log("ntfy-Fehler", r.status_code, r.text[:200])
 
+def telegram(token, chat, title, message, link=None):
+    text = title + "\n" + message[:900] + (("\n" + link) if link else "")
+    r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                      json={"chat_id": chat, "text": text[:4000]}, timeout=15)
+    if r.status_code >= 300:
+        log("Telegram-Fehler", r.status_code, r.text[:200])
+
+def push(topic, tg, title, message, link=None, prio=4):
+    """Sendet an ntfy und/oder Telegram, je nachdem was eingerichtet ist."""
+    if topic:
+        ntfy(topic, title, message, link, prio)
+    if tg:
+        telegram(tg[0], tg[1], title, message, link)
+
 # ---------------------------------------------------------------- Main
 def main():
     cfg = load_json(CFG_PATH, {})
@@ -379,6 +393,9 @@ def main():
     state = load_json(STATE_PATH, {"seen": {}, "push": {}})
     api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     topic = os.environ.get("NTFY_TOPIC", "").strip()
+    tg_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    tg_chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    tg = (tg_token, tg_chat) if tg_token and tg_chat else None
     now_dt = dt.datetime.now(TZ)
     now = time.time()
     heute = now_dt.strftime("%Y-%m-%d")
@@ -429,8 +446,8 @@ def main():
                 seen[it["id"]] = now
         except ApiError as ex:
             log("API-Fehler:", ex)
-            if topic and state["push"].get("fehler_gemeldet") != heute:
-                ntfy(topic, "News-Bot: API-Fehler", "Claude-API meldet einen Fehler. Guthaben leer oder Key falsch? " + str(ex)[:200], prio=3)
+            if (topic or tg) and state["push"].get("fehler_gemeldet") != heute:
+                push(topic, tg, "News-Bot: API-Fehler", "Claude-API meldet einen Fehler. Guthaben leer oder Key falsch? " + str(ex)[:200], prio=3)
                 state["push"]["fehler_gemeldet"] = heute
         except Exception as ex:
             log("Fehler bei der Bewertung:", ex)
@@ -451,7 +468,7 @@ def main():
     behalten = behalten[:400]
 
     # Push
-    if topic:
+    if topic or tg:
         min_s = cfg.get("push_min_score", 9)
         max_n = cfg.get("push_max_pro_tag", 5)
         min_t = cfg.get("push_min_score_trading", min_s)
@@ -463,7 +480,7 @@ def main():
                 continue
             try:
                 kopf = ("AKTIEN/KRYPTO" + (" " + i["tk"] if i.get("tk") else "")) if i["k"] == "trading" else i["k"].upper()
-                ntfy(topic, f"{kopf}: {i['titel']}", i["t"], i["link"])
+                push(topic, tg, f"{kopf}: {i['titel']}", i["t"], i["link"])
                 state["push"]["anzahl"] += 1
             except Exception as ex:
                 log("Push fehlgeschlagen:", ex)
