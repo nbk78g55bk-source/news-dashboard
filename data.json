@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-25T13:01:41.715801+00:00",
+ "aktualisiert": "2026-11-25T15:01:46.813915+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "123,42 €",
-   "delta": -0.915186785262978
+   "wert": "122,22 €",
+   "delta": -1.8785392329655037
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,20 €",
-   "delta": -2.1377636739685846
+   "wert": "40,67 €",
+   "delta": -3.384794598026042
   },
   {
    "name": "Deka S&P 500",
-   "wert": "134,10 €",
-   "delta": -1.3027122843869199
+   "wert": "133,44 €",
+   "delta": -1.7884707474167816
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "164,92 €",
-   "delta": -1.9267385772776646
+   "wert": "162,36 €",
+   "delta": -3.4490982015934923
   },
   {
    "name": "Deka DAX",
-   "wert": "217,65 €",
-   "delta": -0.3890160183066316
+   "wert": "216,95 €",
+   "delta": -0.7093821510297582
   },
   {
    "name": "Bitcoin",
-   "wert": "58.669 $",
-   "delta": -2.8337541752338917
+   "wert": "58.074 $",
+   "delta": -3.82991943247947
   },
   {
    "name": "Ethereum",
-   "wert": "1.646 $",
-   "delta": -3.267407851835885
+   "wert": "1.641 $",
+   "delta": -3.0291531463202634
   },
   {
    "name": "Gold",
-   "wert": "3.544 $",
-   "delta": -0.5165755031926289
+   "wert": "3.486 $",
+   "delta": -2.1252675375279084
   },
   {
    "name": "EZB Zins",
@@ -55,52 +55,52 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.201",
-   "delta": -0.49853633760822413
+   "wert": "7.049",
+   "delta": -2.112594719006833
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.214",
-   "delta": -1.9888193685951405
+   "wert": "25.388",
+   "delta": -3.150715526512937
   },
   {
    "name": "DAX",
-   "wert": "24.907",
-   "delta": -0.44148766203202516
+   "wert": "24.787",
+   "delta": -0.923584205908301
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "30,79",
-   "delta": 16.805763608020463
+   "wert": "34,47",
+   "delta": 30.7663095670174
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,90 %",
+   "wert": "4,82 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "58.669 $",
-   "delta": -2.8337541752338917
+   "wert": "58.074 $",
+   "delta": -3.82991943247947
   },
   {
    "name": "Ethereum",
-   "wert": "1.646 $",
-   "delta": -3.267407851835885
+   "wert": "1.641 $",
+   "delta": -3.0291531463202634
   },
   {
    "name": "Solana",
-   "wert": "68 $",
-   "delta": -3.9487047328906497
+   "wert": "67 $",
+   "delta": -3.6730062027813073
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,21 $",
-   "delta": 0.1949993202818634
+   "wert": "83,18 $",
+   "delta": 1.3772052482793784
   },
   {
    "name": "EUR/USD",
-   "wert": "1,0963",
+   "wert": "1,0935",
    "delta": null
   }
  ],
@@ -4308,162 +4308,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-23T15:02:32+00:00",
    "tag": null
-  },
-  {
-   "id": "dd35245ebb649a05",
-   "k": "trading",
-   "titel": "Nvidia holt Ex-Chef Jensen Huang zurück an die Firmenspitze – Aktie schießt nach oben",
-   "t": "Nvidia hat Gründer Jensen Huang mit sofortiger Wirkung wieder zum Präsidenten und Firmenchef gemacht. Die Aktie stieg deutlich, nachdem Huang zuvor wegen Affären zurückgetreten war.",
-   "e": "Die Rückkehr hat den KI-Handel an den Märkten stark bewegt und den Nasdaq nach dem vorherigen Kursrutsch angetrieben.",
-   "tk": "NVDA",
-   "s": 8,
-   "link": "https://www.welt.de/wirtschaft/article6b0447c6172877701c0701b3/jensen-huang-nvidia-holt-ex-ceo-zurueck-an-die-firmenspitze-aktie-schiesst-nach-oben.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-23T14:23:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dab1f66422b7163e",
-   "k": "nrw",
-   "titel": "Iserlohn: Unbekannte stehlen zwei E-Bikes und einen E-Scooter - IKZ-Online",
-   "t": "In Iserlohn haben Unbekannte zwei E-Bikes und einen E-Scooter gestohlen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXy04VnpvWWd5Uk95VTJQeXM4NWNocTdpLUNfcGFYZ0VXelZZZDEzcWlTbGNiUTg0d0lLRHU4YWVoVktFOE1fcy1fR2lGbWNFdWhQLWtCMmk4UV9rZkNjRjNvWXhLTS01bWRlWUI5THEzZlRQcFF4TkZSTmhlYlZvRkpsYm4xbUhURzNRRzM1SFFRYmNwLTkydmdoaWFGQnE1TE4tQklfVjRlSEJjR1VuQzVBLUtUZG9xMlZGZGZKcjlNUmc?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-23T14:20:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "3299f17cc2d79578",
-   "k": "deutschland",
-   "titel": "Bombendrohungen an Hunderten Schulen bundesweit",
-   "t": "Hunderte Schulen bundesweit haben Drohschreiben mit Bombendrohungen erhalten, mehrere wurden vorsorglich geräumt. Laut Polizei gibt es bislang keine Hinweise auf eine tatsächliche Gefahr.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-23T14:13:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "edf2fee44017ffad",
-   "k": "nrw",
-   "titel": "Taschendiebe schlagen in Iserlohn und Letmathe zu - IKZ-Online",
-   "t": "In Iserlohn und Letmathe haben Taschendiebe zugeschlagen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjlBU1hOM1MxM2Q1Nk81TjhBNFlyMlF0VHdnbTlsbHVlUDk4VWFKdjFCNmdKQXc3QUJLU2dDaWZINUs4TlRvaXdkMW8zcEl3NGdxUVRHYzZ1Q1hoT3VOR3ptX3VsemNVOU5RTkdtRE5Eb19MZ0lZcWRPQnp0R19VQVNHbW1PYTFrYUthV050VTB3OVpIdGhTSkdkRXdMR25hQm42UzNOUDV3ZjZxRElJaFNvUk0?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-23T14:12:18+00:00",
-   "tag": null
-  },
-  {
-   "id": "1b38b131f4cd4cf7",
-   "k": "nrw",
-   "titel": "IG Metall weitet Arbeitskampf im Märkischen Kreis aus - Radio MK",
-   "t": "Die IG Metall weitet ihren Arbeitskampf im Märkischen Kreis aus.",
-   "e": "Der Arbeitskampf betrifft die Region um Iserlohn direkt und kann Produktion und Beschäftigung in lokalen Betrieben beeinflussen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1hHR2s3RC1udmNoZFg3VWNCV0FhbkFiUGVWc1p0OWoyVExZUlh5anR1UWxJWGp0eV9PZ1JJN3pMRnZIcUdneDhQaktXRlNlYnYtVUhKeUFUS1JQYkJtMzJvajNOdzE5SzFvdWJwRkpUQ2hKQ291Ty12U0t5VzlLS3pJNmJhUzdaelgwbzV4WDZRZlBwQmM1Tg?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-23T14:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c7800fa5e1005bc2",
-   "k": "welt",
-   "titel": "Sieben Sprengboote vor Bengasi – Die mysteriöse Mission der ukrainischen Seedrohnen",
-   "t": "Vor der libyschen Küste hat die ukrainische Seite nach Berichten eine russische Korvette mit Sprengbooten versenkt. Die Herkunft der Boote ist unklar.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6b04293566a00c9ca1fe0ba9/seekrieg-sieben-sprengboote-vor-bengasi-die-mysterioese-mission-der-ukrainischen-seedrohnen.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-23T14:04:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "0dd7547cd9934a79",
-   "k": "deutschland",
-   "titel": "Wie Deutschlands Klima-Mission in einem historischen Debakel endete",
-   "t": "Umweltminister Schneider kehrte ohne greifbare Ergebnisse von der UN-Klimakonferenz zurück.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6b043a6966a00c9ca1fe0e0c/klimakonferenz-in-der-tuerkei-wie-deutschlands-klima-mission-in-einem-historischen-debakel-endete.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-23T13:54:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "9bcdefd77e6da8db",
-   "k": "nrw",
-   "titel": "Weil er ein Seniorenpaar brutal überfallen hat, muss ein 34-Jähriger sechs Jahre in den Knast - WDR",
-   "t": "Ein 34-Jähriger muss sechs Jahre ins Gefängnis, weil er ein Seniorenpaar brutal überfallen hat.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWM3WTFKUTh6UHpnSllTOXBlN1YxeEVTRTZraVlkTjBna0ludC1FYkRHRGozU0NWT01iWl9KUFVZckdHRVhkRzlITDJHN0N1R1diYkd4SnZxTVVhT1UwS2VFUFFqTnk1WlBUMFpDUVhVUVBGVkhDSmlGVjg4cGRzS2hjU2NXek9KQmpVaEhwTXc2ODJ1V2FkQzA3dXdfQ3NIb0dDb2VCSQ?oc=5",
-   "quelle": "WDR",
-   "zeit": "2026-11-23T13:40:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "eaf9166e154423da",
-   "k": "nrw",
-   "titel": "Polizei-News Menden, 23.11.26: E-Scooter-Fahrer flüchtet vor Kontrolle - Reifendiebstahl - News.de",
-   "t": "In Menden flüchtete ein E-Scooter-Fahrer vor einer Kontrolle, zudem wurde Reifendiebstahl angezeigt.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVRUdmk0UTFrVkdHZWYzdjQ5RVg1UTh4azEtM1Q4UmNUQThNTGNQMkp0ckUwS0Vqb0NrYUxJeWpOX05vMTRpd01KUjBDZHBhaWEyY1FTNEw1T29ockcwNEVKZ0t2UXJLSER2TzFZdWFkMWk2OE5rdGM2VkcyZzBBdTVwR0l4R00tc3YybjB2bV9naE1jUE5nRlFrNXVpWmtIYzREZU13?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-23T13:40:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "50c86287bebb24f6",
-   "k": "finanzen",
-   "titel": "Der Ausverkauf war ein „erstes sehr reinigendes Gewitter“",
-   "t": "Der DAX erholt sich nach deutlichen Verlusten in der Vorwoche, Chefökonom Christian Röhl ordnet die Lage im Tech-Sektor ein.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/video6b042a235842ff528b9e57d9/erholung-an-den-boersen-der-ausverkauf-war-ein-erstes-sehr-reinigendes-gewitter.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-23T13:37:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "63db694119fd6b89",
-   "k": "welt",
-   "titel": "Deutschlands Anti-China-Plan im Kampf um die Rohstoffe der Zukunft",
-   "t": "Die Bundesregierung plant neue Rohstoffpartnerschaften, da die deutsche Industrie bei Seltenen Erden stark von China abhängig ist.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6b0185e64490a28f5fdb8169/seltene-erden-deutschlands-anti-china-plan-im-kampf-um-die-rohstoffe-der-zukunft.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-23T13:33:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "f89a933dc56df226",
-   "k": "welt",
-   "titel": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-   "t": "Der ukrainische Präsident lobt eine Drohnenoperation, bei der ein russisches Kriegsschiff in einem libyschen Hafen versenkt wurde.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-   "quelle": "CNBC Politik",
-   "zeit": "2026-11-23T13:28:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4476,12 +4320,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -4496,17 +4340,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 28
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 16
+    "n": 18
    },
    {
     "name": "NZZ",
@@ -4541,12 +4385,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 32
+    "n": 33
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -4571,7 +4415,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 35
+    "n": 33
    },
    {
     "name": "The Block",
@@ -4587,7 +4431,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 4
+    "n": 6
    },
    {
     "name": "CNBC Investing",
@@ -4618,7 +4462,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 20
+    "n": 31
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4628,12 +4472,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 36
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 28
    },
    {
     "name": "Google News NRW",
@@ -4648,13 +4492,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 24
+    "n": 15
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 32
    }
   ],
   "markt": [],
