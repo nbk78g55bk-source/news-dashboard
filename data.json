@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T07:01:45.388545+00:00",
+ "aktualisiert": "2026-11-25T08:01:48.998231+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.172 $",
-   "delta": -2.062340245527599
+   "wert": "58.678 $",
+   "delta": -2.74821315348528
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -2.387199763247047
+   "wert": "1.639 $",
+   "delta": -3.3197675056602636
   },
   {
    "name": "Gold",
-   "wert": "3.518 $",
-   "delta": -1.2381005517513755
+   "wert": "3.524 $",
+   "delta": -1.075266104994932
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.172 $",
-   "delta": -2.062340245527599
+   "wert": "58.678 $",
+   "delta": -2.74821315348528
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -2.387199763247047
+   "wert": "1.639 $",
+   "delta": -3.3197675056602636
   },
   {
    "name": "Solana",
-   "wert": "69 $",
-   "delta": -4.228002867780069
+   "wert": "68 $",
+   "delta": -5.099608944766393
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,56 $",
-   "delta": -1.815969526311778
+   "wert": "80,24 $",
+   "delta": -2.205975605651167
   },
   {
    "name": "EUR/USD",
@@ -2209,22 +2209,22 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 40
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Welt",
@@ -2279,7 +2279,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "WSJ USA",
@@ -2350,18 +2350,20 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 15
+    "n": 34
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -2386,12 +2388,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 35
    }
   ],
   "markt": [],
