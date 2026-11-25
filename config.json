@@ -13,7 +13,16 @@
   "push_min_score": 9,
   "push_min_score_trading": 8,
   "push_test": false,
-  "push_max_pro_tag": 5,
+  "push_max_pro_tag": 8,
+  "push_min_score_watchlist": 6,
+  "watchlist": [
+    {"ticker": "NVDA", "namen": ["nvidia", "jensen huang"]},
+    {"ticker": "TSLA", "namen": ["tesla", "elon musk"]},
+    {"ticker": "AAPL", "namen": ["apple"]},
+    {"ticker": "MSFT", "namen": ["microsoft"]},
+    {"ticker": "BTC", "namen": ["bitcoin"]},
+    {"ticker": "ETH", "namen": ["ethereum"]}
+  ],
   "ruhezeit": {
     "von": 23,
     "bis": 6

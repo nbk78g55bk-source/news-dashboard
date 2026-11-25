@@ -372,6 +372,17 @@ def ntfy(topic, title, message, link=None, prio=4):
     if r.status_code >= 300:
         log("ntfy-Fehler", r.status_code, r.text[:200])
 
+def watch_hit(cfg, i):
+    """Liefert das Watchlist-Kuerzel, wenn die Meldung einen beobachteten Wert betrifft, sonst ''."""
+    text = (i["titel"] + " " + (i.get("t") or "")).lower()
+    tks = {x.upper() for x in re.split(r"[\s,;/]+", i.get("tk") or "") if x}
+    for w in cfg.get("watchlist", []):
+        t = str(w.get("ticker", "")).upper()
+        namen = [str(n).lower() for n in w.get("namen", []) if n]
+        if (t and t in tks) or any(re.search(r"\b" + re.escape(n) + r"\b", text) for n in namen):
+            return t or (namen[0] if namen else "?")
+    return ""
+
 def telegram(token, chat, title, message, link=None):
     text = title + "\n" + message[:900] + (("\n" + link) if link else "")
     r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
@@ -470,18 +481,28 @@ def main():
     # Push
     if topic or tg:
         if cfg.get("push_test"):
-            push(topic, tg, "Test vom News-Dashboard", "Wenn du das liest, funktionieren die Pushes.")
+            try:
+                push(topic, tg, "Test vom News-Dashboard", "Wenn du das liest, funktionieren die Pushes.")
+            except Exception as ex:
+                log("Test-Push fehlgeschlagen:", ex)
         min_s = cfg.get("push_min_score", 9)
         max_n = cfg.get("push_max_pro_tag", 5)
         min_t = cfg.get("push_min_score_trading", min_s)
-        kandidaten = sorted([i for i in neue_items if i["s"] >= (min_t if i["k"] == "trading" else min_s)], key=lambda x: -x["s"])
-        for i in kandidaten:
+        min_w = cfg.get("push_min_score_watchlist", 6)
+        kandidaten = []
+        for i in neue_items:
+            w = watch_hit(cfg, i)
+            schwelle = min_t if i["k"] == "trading" else min_s
+            if i["s"] >= schwelle or (w and i["s"] >= min_w):
+                kandidaten.append((i, w))
+        kandidaten.sort(key=lambda x: -x[0]["s"])
+        for i, w in kandidaten:
             if state["push"]["anzahl"] >= max_n:
                 break
             if in_ruhezeit(cfg, now_dt) and i["s"] < 10:
                 continue
             try:
-                kopf = ("AKTIEN/KRYPTO" + (" " + i["tk"] if i.get("tk") else "")) if i["k"] == "trading" else i["k"].upper()
+                kopf = ("WATCHLIST " + w) if w else (("AKTIEN/KRYPTO" + (" " + i["tk"] if i.get("tk") else "")) if i["k"] == "trading" else i["k"].upper())
                 push(topic, tg, f"{kopf}: {i['titel']}", i["t"], i["link"])
                 state["push"]["anzahl"] += 1
             except Exception as ex:

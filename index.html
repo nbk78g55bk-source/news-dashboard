@@ -193,6 +193,38 @@ main{padding:6px 0 24px;display:grid;gap:12px}
 .leer{grid-column:1/-1;color:var(--mu);text-align:center;padding:56px 0}
 .skel{height:110px;border-radius:18px;background:linear-gradient(90deg,var(--surface) 25%,var(--surface2) 50%,var(--surface) 75%);background-size:200% 100%;animation:sh 1.2s infinite}
 @keyframes sh{to{background-position:-200% 0}}
+
+/* Steuerung, Gruppen, Wichtigkeit */
+.ctl{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;font-size:12.5px;color:var(--mu);padding:0 2px}
+.ctl label{display:inline-flex;align-items:center;gap:8px}
+.seg{display:inline-flex;border:1px solid var(--bd);border-radius:999px;overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:none;color:var(--tx);font:inherit;font-size:12.5px;font-weight:620;padding:5px 12px;cursor:pointer}
+.seg button.on{background:var(--ac);color:#fff}
+@media(prefers-color-scheme:dark){.seg button.on{color:#0a0c11}}
+.tkchips{grid-column:1/-1;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:0 2px}
+.tkchips::-webkit-scrollbar{display:none}
+.tkchips button{flex:none;border:1px solid var(--bd);background:var(--surface);color:var(--tx);border-radius:999px;padding:4px 11px;font:inherit;font-size:12.5px;font-weight:650;cursor:pointer}
+.tkchips button span{color:var(--mu);font-weight:500;margin-left:5px}
+.tkchips button.on{border-color:var(--c-trading);color:var(--c-trading);background:color-mix(in srgb,var(--c-trading) 12%,transparent)}
+.day{grid-column:1/-1;display:flex;align-items:center;gap:10px;font-size:12px;letter-spacing:.07em;text-transform:uppercase;font-weight:700;color:var(--mu);padding:10px 2px 0}
+.day::after{content:"";flex:1;height:1px;background:var(--bd)}
+.mt{margin-left:auto;display:inline-flex;gap:2px;align-items:flex-end;height:13px}
+.mt i{display:block;width:4px;border-radius:2px;background:var(--bd)}
+.mt+.chk{margin-left:8px}
+.card.imp{box-shadow:inset 3px 0 0 var(--hot),var(--shadow)}
+.card.imp9{box-shadow:inset 3px 0 0 var(--dn),var(--shadow)}
+main.compact{grid-template-columns:1fr;gap:8px}
+main.compact .card{padding:10px 14px}
+main.compact .card h3{font-size:15.5px;margin:0}
+main.compact .card p,main.compact .card .e{display:none}
+main.compact .card .top{margin-bottom:5px}
+main.compact .card.big{grid-column:auto}
+main.compact .card.big h3{font-size:15.5px}
+.brief h2 .bright{display:flex;align-items:center;gap:10px}
+.brief h2 .chk{margin-left:0;text-transform:none;letter-spacing:0}
+.brief.done .in{padding:9px 16px}
+.brief.done h2{margin:0}
+.brief.done::before{height:2px}
 footer{color:var(--mu);font-size:12px;padding:6px 0 44px;text-align:center}
 footer details{margin-top:6px}
 footer summary{cursor:pointer}
@@ -231,6 +263,8 @@ const isRead_=isRead;
 function pruneRead(){const ids=new Set((DATA.items||[]).map(i=>i.id));let ch=false;
   Object.keys(READ).forEach(k=>{if(!ids.has(k)&&Date.now()-Math.abs(READ[k])>3*86400000){delete READ[k];ch=true}});if(ch)saveRead()}
 try{lastVisit=+localStorage.getItem("lastVisit")||0}catch(e){}
+let minS=0,tkr="",view="cards";try{view=localStorage.getItem("view")==="kompakt"?"kompakt":"cards"}catch(e){}
+function tickersOf(i){return (i.tk||"").toUpperCase().split(/[\s,;\/]+/).filter(Boolean)}
 
 function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
 function safe(u){return /^https?:\/\//i.test(u)?u:"#"}
@@ -305,16 +339,28 @@ function renderBrief(){
   const b=DATA.briefing,box=document.getElementById("brief");
   if(!b||!b.punkte||!b.punkte.length){box.hidden=true;return}
   box.hidden=false;box.textContent="";
+  const bid="brief-"+b.stand;
+  const done=isRead(bid);
+  box.className="brief"+(done?" done":"");
   const inner=el("div","in");
-  const h=el("h2");h.appendChild(el("span","","Lage "+b.slot+" Uhr"));
-  h.appendChild(el("span","",ago(b.stand)));inner.appendChild(h);
-  const ul=el("ul");
-  b.punkte.forEach(p=>{
-    const li=el("li");li.style.setProperty("--cc",colorOf(p.k));
-    li.appendChild(el("i","",NAMES[p.k]||p.k));
-    li.appendChild(el("span","",p.t));ul.appendChild(li);
-  });
-  inner.appendChild(ul);box.appendChild(inner);
+  const h=el("h2");
+  h.appendChild(el("span","","Lage "+b.slot+" Uhr"+(done?" · gelesen":"")));
+  const rt=el("span","bright");
+  rt.appendChild(el("span","",ago(b.stand)));
+  const c=el("button","chk");c.type="button";
+  c.appendChild(el("i","","✓"));c.appendChild(el("span","lbl",done?"Anzeigen":"Gelesen"));
+  c.onclick=()=>{READ[bid]=done?-Date.now():Date.now();saveRead();renderBrief()};
+  rt.appendChild(c);h.appendChild(rt);inner.appendChild(h);
+  if(!done){
+    const ul=el("ul");
+    b.punkte.forEach(p=>{
+      const li=el("li");li.style.setProperty("--cc",colorOf(p.k));
+      li.appendChild(el("i","",NAMES[p.k]||p.k));
+      li.appendChild(el("span","",p.t));ul.appendChild(li);
+    });
+    inner.appendChild(ul);
+  }
+  box.appendChild(inner);
 }
 function filtered(){
   let items=(DATA.items||[]).slice();
@@ -327,6 +373,8 @@ function filtered(){
   }else if(tab!=="alle"){
     items=items.filter(i=>i.k===tab);
   }
+  if(!ql&&tab!=="top"&&minS)items=items.filter(i=>i.s>=minS);
+  if(!ql&&tab==="trading"&&tkr)items=items.filter(i=>tickersOf(i).includes(tkr));
   return items;
 }
 function renderNav(){
@@ -344,14 +392,38 @@ function setRead(i,val){
   READ[i.id]=val?Date.now():-Date.now();
   saveRead();
 }
+function dayLabel(iso){
+  const d=new Date(iso),n=new Date();
+  const a=new Date(d.getFullYear(),d.getMonth(),d.getDate()),b=new Date(n.getFullYear(),n.getMonth(),n.getDate());
+  const diff=Math.round((b-a)/86400000);
+  if(diff<=0)return "Heute";
+  if(diff===1)return "Gestern";
+  return d.toLocaleDateString("de-DE",{weekday:"long",day:"numeric",month:"long"});
+}
+function clock(iso){return new Date(iso).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})}
+function meter(s){
+  const m=el("span","mt");m.title="Wichtigkeit "+s+" von 10";
+  const n=Math.max(1,Math.ceil(s/2)),col=s>=9?"var(--dn)":s>=7?"var(--hot)":s>=5?"var(--ac)":"var(--mu)";
+  for(let k=1;k<=5;k++){const g=el("i");g.style.height=(3+k*2)+"px";if(k<=n)g.style.background=col;m.appendChild(g)}
+  return m;
+}
+function seg(opts,cur,on){
+  const s=el("div","seg");
+  opts.forEach(([v,l])=>{const b=el("button",v===cur?"on":"",l);b.type="button";b.onclick=()=>on(v);s.appendChild(b)});
+  return s;
+}
 function renderList(){
   showTradingPanel();
   const main=document.getElementById("main");main.textContent="";
+  main.className=view==="kompakt"?"compact":"";
   const items=filtered();
-  const total=(DATA.items||[]).length,nread=(DATA.items||[]).filter(i=>isRead(i.id)).length;
+  const all=DATA.items||[];
+  const total=all.length,nread=all.filter(i=>isRead(i.id)).length;
+  const grouped=tab!=="top"||!!query.trim();
   if(total){
+    const nneu=lastVisit?all.filter(i=>!isRead(i.id)&&new Date(i.zeit).getTime()>lastVisit).length:0;
     const tl=el("div","tools");
-    tl.appendChild(el("span","",showRead?"Alle Meldungen ("+total+")":(total-nread)+" ungelesen"));
+    tl.appendChild(el("span","",(showRead?"Alle Meldungen ("+total+")":(total-nread)+" ungelesen")+(nneu?" · "+nneu+" neu seit deinem letzten Besuch":"")));
     if(items.some(i=>!isRead(i.id))){
       const b=el("button","","✓ Diese alle gelesen");
       b.onclick=()=>{items.forEach(i=>{READ[i.id]=Date.now()});saveRead();renderNav();renderList()};
@@ -363,20 +435,52 @@ function renderList(){
       tl.appendChild(b2);
     }
     main.appendChild(tl);
+    const ctl=el("div","ctl");
+    if(tab!=="top"&&!query.trim()){
+      const l1=el("label","","Wichtigkeit");
+      l1.appendChild(seg([[0,"Alle"],[5,"ab 5"],[7,"ab 7"]],minS,v=>{minS=v;renderList()}));
+      ctl.appendChild(l1);
+    }
+    const l2=el("label","","Ansicht");
+    l2.appendChild(seg([["cards","Karten"],["kompakt","Kompakt"]],view,v=>{view=v;try{localStorage.setItem("view",v)}catch(e){}renderList()}));
+    ctl.appendChild(l2);
+    main.appendChild(ctl);
   }
-  if(!items.length){main.appendChild(el("div","leer",query?"Nichts gefunden.":(total&&nread?"Alles gelesen ✓":"Gerade nichts in dieser Rubrik.")));return}
+  if(tab==="trading"&&!query.trim()){
+    const cnt={};
+    all.filter(i=>i.k==="trading"&&(showRead||!isRead(i.id))).forEach(i=>tickersOf(i).forEach(t=>{cnt[t]=(cnt[t]||0)+1}));
+    const top=Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]||(a<b?-1:1)).slice(0,14);
+    if(tkr&&!top.includes(tkr))top.unshift(tkr);
+    if(top.length){
+      const ch=el("div","tkchips");
+      const b0=el("button",tkr?"":"on","Alle");b0.type="button";b0.onclick=()=>{tkr="";renderList()};ch.appendChild(b0);
+      top.forEach(t=>{
+        const b=el("button",t===tkr?"on":"",t);b.type="button";
+        if(cnt[t])b.appendChild(el("span","",String(cnt[t])));
+        b.onclick=()=>{tkr=tkr===t?"":t;renderList()};
+        ch.appendChild(b);
+      });
+      main.appendChild(ch);
+    }
+  }
+  if(!items.length){main.appendChild(el("div","leer",query?"Nichts gefunden.":(total&&nread&&!minS&&!tkr?"Alles gelesen ✓":"Gerade nichts in dieser Rubrik.")));return}
+  let lastDay="";
   items.forEach((i,idx)=>{
+    if(grouped){
+      const dl=dayLabel(i.zeit);
+      if(dl!==lastDay){main.appendChild(el("div","day",dl));lastDay=dl}
+    }
     const isRead=isRead_(i.id);
-    const a=el("a","card"+(idx===0&&tab==="top"&&!query?" big":"")+(isRead?" read":""));
+    const a=el("a","card"+(idx===0&&tab==="top"&&!query?" big":"")+(isRead?" read":"")+(i.s>=9?" imp9":i.s>=8?" imp":""));
     a.href=safe(i.link);a.target="_blank";a.rel="noopener noreferrer";
     a.style.setProperty("--cc",colorOf(i.k));
     const top=el("div","top");
     if(lastVisit&&new Date(i.zeit).getTime()>lastVisit&&!isRead)top.appendChild(el("span","dot"));
     top.appendChild(el("span","chip",NAMES[i.k]||i.k));
-    if(i.tk)top.appendChild(el("span","tkr",i.tk));
-    top.appendChild(el("span","",i.quelle+" · "+ago(i.zeit)));
+    tickersOf(i).slice(0,3).forEach(t=>top.appendChild(el("span","tkr",t)));
+    top.appendChild(el("span","",i.quelle+" · "+(grouped?clock(i.zeit)+" Uhr":ago(i.zeit))));
     if(i.tag)top.appendChild(el("span","tag",i.tag));
-    if(i.s>=8)top.appendChild(el("span","hot","wichtig"));
+    top.appendChild(meter(i.s||1));
     const c=el("button","chk");c.type="button";
     c.setAttribute("aria-label",isRead?"Als ungelesen markieren":"Als gelesen markieren");
     c.appendChild(el("i","","✓"));c.appendChild(el("span","lbl",isRead?"Gelesen":"Gelesen?"));
