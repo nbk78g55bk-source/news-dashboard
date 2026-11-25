@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T08:05:03.810156+00:00",
+ "aktualisiert": "2026-11-25T08:08:43.506432+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.764 $",
-   "delta": -2.6309411566853855
+   "wert": "58.786 $",
+   "delta": -2.3794592892399984
   },
   {
    "name": "Ethereum",
-   "wert": "1.641 $",
-   "delta": -3.250198627651014
+   "wert": "1.642 $",
+   "delta": -3.0195175135614165
   },
   {
    "name": "Gold",
-   "wert": "3.523 $",
-   "delta": -1.0949185382241544
+   "wert": "3.524 $",
+   "delta": -1.066843633610981
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.764 $",
-   "delta": -2.6309411566853855
+   "wert": "58.786 $",
+   "delta": -2.3794592892399984
   },
   {
    "name": "Ethereum",
-   "wert": "1.641 $",
-   "delta": -3.250198627651014
+   "wert": "1.642 $",
+   "delta": -3.0195175135614165
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -5.018942994256434
+   "delta": -4.82065968646424
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,30 $",
-   "delta": -2.132849465775033
+   "wert": "80,18 $",
+   "delta": -2.27910174552729
   },
   {
    "name": "EUR/USD",
@@ -137,6 +137,32 @@
  },
  "items": [
   {
+   "id": "dfe9b5b5e51e42ca",
+   "k": "deutschland",
+   "titel": "Tarifverhandlung Metall und Elektro: Klappt der Pilotabschluss? - WirtschaftsWoche",
+   "t": "Vor der Tarifverhandlung für Metall und Elektro stellt sich die Frage, ob der Pilotabschluss übernommen wird.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0lLenlQdnFOMjd5OWtiMjFmbDNoNDc0RFJMRjFBeG5fRXFwQjFJRzBtdTNfTGJzbDhJVng2U19MY00zTVJ4eXE2OEVreVROalFGNkhqaFZXWkFQWS00b1l1Yk1mVDY2RW0wa1VQcFRvaEV1a1pLeXFnREg0b3BFQXlzaXBfUGN4eDRaaFkzeGJBRTlza1Y3WTcxRlloczBzZjRUVFYxX3hyX01LMDl5V2lVVDhyUUpYTFZtc0RkVXh0Tm5RMVRZOVJHaVlQbWphRUF3cjFB?oc=5",
+   "quelle": "WirtschaftsWoche",
+   "zeit": "2026-11-25T08:03:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "91b6551d782b3b16",
+   "k": "trading",
+   "titel": "Immobilien: Aroundtown bekommt nach LEG-Einstieg neue Führungsspitze",
+   "t": "Aroundtown bekommt nach dem unerwarteten Einstieg bei LEG eine neue Führungsspitze, die Entscheidung wurde zusammen mit den Quartalszahlen bekanntgegeben.",
+   "e": "",
+   "tk": "AT1,LEG",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-aroundtown-bekommt-nach-leg-einstieg-neue-fuehrungsspitze/100272387.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T08:00:12+00:00",
+   "tag": null
+  },
+  {
    "id": "8d196001fb516b72",
    "k": "finanzen",
    "titel": "Gold hält nahe 15-Monats-Tief: Fed-Zinserwartungen und PCE-Daten im Fokus - aktien.news",
@@ -147,6 +173,19 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWktrNk01MzUtSXhhWHAtSU4xZU9JUHlHVmpsa2FKdkhSZzYwX3B3TlJjdUhfSjJ0bWJmdFRXcVM5T1MzRlZBSUZTdlpIRDdBSjROWnBsdjZTaG5ZcFl6VHllUUFkOVU1RFBMd3ozRWZ6THpRMEluQzMzRTBTdXpiZTRmNnVXc1U4eG13THg0X20zbkYzOWVpcVBiaFI?oc=5",
    "quelle": "aktien.news",
    "zeit": "2026-11-25T07:58:12+00:00",
+   "tag": null
+  },
+  {
+   "id": "7f8e666a0542d4b0",
+   "k": "trading",
+   "titel": "KI: Microsofts Cloud-Chef warnt: „Die IT-Ausfälle dürften in den nächsten Monaten deutlich zunehmen“",
+   "t": "Microsofts Cloud-Chef warnt, dass IT-Ausfälle durch die KI-Welle in den nächsten Monaten deutlich zunehmen dürften.",
+   "e": "",
+   "tk": "MSFT",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-die-it-ausfaelle-duerften-in-den-naechsten-monaten-deutlich-zunehmen/100270347.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T07:58:00+00:00",
    "tag": null
   },
   {
@@ -212,6 +251,19 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-jetzt-live-merz-spricht-bei-generaldebatte-im-bundestag/100137034.html",
    "quelle": "Handelsblatt",
    "zeit": "2026-11-25T07:51:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "59a7a960c773e47e",
+   "k": "trading",
+   "titel": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses - Bloomberg.com",
+   "t": "US-Aktienindex-Futures geben nach, da Sorgen über KI Verluste bei Technologiewerten auslösen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWw3QUJsbEp5MS1ZTDJGZ0Qyc1hHWDkxSWc0ZTVJbGgxeldKZ1B0SUlMTnI5VGdDSzZQZGsydEoyQzJUZ2NDcDJ4Y1Itd0xYNjNJN080RGtGZ3NsQlBYZU9vVVBZTXAzMDlCXzFPVWYxLXd4Zm9mZWhvaF9Td0tBaHNZTW9OVG5Ld2piVlZzUWMzczFSY19kbk1KNklUcFJwTlJlcUZlaEJmM2JyN1RR?oc=5",
+   "quelle": "Bloomberg.com",
+   "zeit": "2026-11-25T07:51:00+00:00",
    "tag": null
   },
   {
@@ -345,6 +397,19 @@
    "tag": null
   },
   {
+   "id": "42eec61e801b00cb",
+   "k": "nrw",
+   "titel": "Kriminalität: Durchsuchungen in NRW und Hessen nach Schüssen in Duisburg - DIE ZEIT",
+   "t": "Nach Schüssen in Duisburg gab es Durchsuchungen in NRW und Hessen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0FRb0RmM1JjRzUwZkpVcHBXTEtyX2ltdjF5RkhqaTU1UXhCUmNEb2lwM1R4MXlZVXV0eVZnZHdyVzFvT2Y3RmxtMUxvN1cxSi1XV0VKeWFsbHpTb3Bad2RLcnJDOXFqVk1Vb3dublI5T0JtQVNmcGZWT1dTbzhmMGNoTGVDZ2x4aVhZX0IybEw0YzdrMDJaZHFmTQ?oc=5",
+   "quelle": "DIE ZEIT",
+   "zeit": "2026-11-25T07:25:38+00:00",
+   "tag": null
+  },
+  {
    "id": "1bcb6a46f6e2b9b1",
    "k": "usa",
    "titel": "Sechs Tote nach Flugzeugabsturz vor Küste von Mississippi",
@@ -371,6 +436,19 @@
    "tag": null
   },
   {
+   "id": "ace4ecbb0c06f74f",
+   "k": "trading",
+   "titel": "Ether Kurs: BitMine fehlen nur rund 24.400 ETH bis zur Fünf-Prozent-Marke, die ETF-Fonds verkaufen weiter – wer hält die 1.700 Dollar? - AktienCheck.de",
+   "t": "BitMine fehlen rund 24.400 ETH bis zur Fünf-Prozent-Marke, während ETF-Fonds weiter Ether verkaufen. Der Ether-Kurs nähert sich der Marke von 1.700 Dollar.",
+   "e": "",
+   "tk": "ETH",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmFlcUY3MmVSdExTdVZNbUt5dFdqbGF0SHFjR2dHeFNIMXUtTzdyYUhNUWwwV3dqSlJWejJWdlp4WXFfY0ROUGdBRFh2UC1pZnhDeVQzWjdBMjROZDhUckZMNmxEYk82YnRwbUZfLUFiYVhwNl9RVTR4VjRCOXdxbGRwV1NFY3kxU2N0bF82VE9DSndmbG1YQWhubWtPemNfN2pkOVphMXlmRGI3MnVGaQ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T07:20:38+00:00",
+   "tag": null
+  },
+  {
    "id": "671532dd03978887",
    "k": "finanzen",
    "titel": "Bundesanleihen: Zehnjährige bei 3,26 Prozent, EZB-Zinserhöhung im Dezember fast eingepreist – warum fällt die Rendite trotz 4 Prozent Inflation? - AktienCheck.de",
@@ -394,6 +472,19 @@
    "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T07:18:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "24ce2e9f9f1620d8",
+   "k": "welt",
+   "titel": "Kritik an Berlin: Le Pen spricht vom Ende des „deutschen Europas“",
+   "t": "Marine Le Pen kritisiert Deutschland und spricht vom Ende des deutschen Europas, kurz vor dem Berlin-Besuch von Mélenchon.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.faz.net/aktuell/politik/ausland/le-pen-prangert-deutsche-dominanz-in-der-eu-an-accg-201714505.html",
+   "quelle": "FAZ",
+   "zeit": "2026-11-25T07:14:36+00:00",
    "tag": null
   },
   {
@@ -433,6 +524,19 @@
    "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-25T06:54:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "e154b7c06b405c56",
+   "k": "finanzen",
+   "titel": "US dollar steadies ahead of key inflation and growth data - سانا",
+   "t": "Der US-Dollar tritt vor wichtigen Inflations- und Wachstumsdaten auf der Stelle.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aMU9JWGhsdDMyRkVjbXhaSWlmNUhYN1JFM3UtOWJib2x6eUU0RGNfRHB5TXprYU5RWTNrU3liTXJ6bWV3OUZUeE5Qc1k?oc=5",
+   "quelle": "سانا",
+   "zeit": "2026-11-25T06:41:58+00:00",
    "tag": null
   },
   {
@@ -501,6 +605,32 @@
    "tag": null
   },
   {
+   "id": "e30268298e4b34b3",
+   "k": "deutschland",
+   "titel": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
+   "t": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber in Abschiebezentren nach Ruanda bringen. Ein Podcast ordnet die Entwicklung der europäischen Migrationspolitik ein.",
+   "e": "Die Pläne sind ein Schritt in der EU-Asylpolitik, der die Abschiebepraxis grundlegend verändern könnte.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T06:11:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "b11878426b754d75",
+   "k": "finanzen",
+   "titel": "Zinserhöhungen 2027: Welche Gefahr die Deutsche Bank für Aktien sieht - Finanzen.net",
+   "t": "Die Deutsche Bank sieht Risiken für Aktien durch mögliche Zinserhöhungen im Jahr 2027.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDJSLWUyUVlYTDZwem4zM3RkNE9PVlFBM3IzLXIyZGJaQlBOa25tSUJhbVE0NDBweUpQdVM1d3pHcEZZc0J1bXdSWmZGSl9RcERaNmd6ZVJUOHhPUUdRcHgwUDJ3OFdaMUZUSG1XOUYxd01RMzVGb0tFUkxYRm5sTTdXdElEbzRwbEtvUm9XMHpCaV9UOXhpU1lBcjRfaFZ1aUFfVzd0SXZNUkdNMFB1eElwLWNHelJCaUxtcnZTckZoY3UzVXhPTEJkZlFTS2VLSDE5QmF2dXJUd0lxdzZyZkF3OTNqMXJEaHc?oc=5",
+   "quelle": "Finanzen.net",
+   "zeit": "2026-11-25T06:11:00+00:00",
+   "tag": null
+  },
+  {
    "id": "004357445286eff4",
    "k": "nrw",
    "titel": "„Das Gewaltpotenzial ist gestiegen“: Tag gegen Gewalt an Frauen in Iserlohn - IKZ-Online",
@@ -527,6 +657,58 @@
    "tag": null
   },
   {
+   "id": "d0d5c9e2c0145d36",
+   "k": "finanzen",
+   "titel": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
+   "t": "Die Aussichten der deutschen Industrie haben sich zuletzt verbessert, die Branchen entwickeln sich aber sehr unterschiedlich.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T05:28:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "c19a931837e154ae",
+   "k": "finanzen",
+   "titel": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence - tmgm.com",
+   "t": "Der australische Dollar fällt unter 0,66 US-Dollar und erreicht ein neues Jahrestief, beeinflusst durch die unterschiedliche Geldpolitik von RBA und Fed.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMVZIMDZGT3pRR3I0VEp3dExremVfTVFiQ2RSRW9uYU9rNVRNal9qVW9uM1UzVlctcUVxeTdpUjBzRXZPdFlHSHpUbXFQazNPVDFQMHdjZGdtZDVDUkF6MDBBTk1fbFYzdTFoUzVLUWRCNlpVaUNhOXRwY2p0cW12R2JUT2wwRkNYUjJZYnhrQUlhcVFlTjBETDVEei1qUnZGbUJ6ZGVldS1EbUE3OVRER0lIMGNKNkJrMUtPdlJQU0ZOU3ZVcVhWdW4zaHJoNDVIWG53Y0RlMGdzWmJLX2R5QQ?oc=5",
+   "quelle": "tmgm.com",
+   "zeit": "2026-11-25T05:27:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "492dda9484c06bc3",
+   "k": "welt",
+   "titel": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
+   "t": "In Israel laufen schwierige Sondierungen zwischen Gadi Eisenkot und Netanjahus Likud, die Zeit für eine Regierungsbildung wird knapp.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T05:18:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "d150445f57550b7c",
+   "k": "finanzen",
+   "titel": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision - Kotak Neo",
+   "t": "Die US-Daten zur PCE-Inflation und zum BIP des dritten Quartals werden veröffentlicht, sie gelten als wichtige Signale vor der Zinsentscheidung der Fed im Dezember.",
+   "e": "Die PCE-Inflation ist der Maßstab, den die Fed für ihre Zinsentscheidungen bevorzugt.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5",
+   "quelle": "Kotak Neo",
+   "zeit": "2026-11-25T05:09:34+00:00",
+   "tag": null
+  },
+  {
    "id": "11e92423ec3a7c73",
    "k": "welt",
    "titel": "Putins Atombombe im All und das 98-Prozent-Szenario",
@@ -537,6 +719,45 @@
    "link": "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-25T05:02:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "aee304b6b0729883",
+   "k": "trading",
+   "titel": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+   "t": "Die tschechische Notenbank hat vor einem Jahr Bitcoin gekauft, nennt aber keinen aktuellen Wert der Position.",
+   "e": "",
+   "tk": "BTC",
+   "s": 4,
+   "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T04:50:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f99ad2bb25bbe9d",
+   "k": "trading",
+   "titel": "Teamchef Trump greift zum Hörer: Wie Jensen Huang dank dem amerikanischen Präsidenten zu Nvidia zurückfand",
+   "t": "Der Nvidia-Verwaltungsrat hat Jensen Huang nach Gesprächen mit dem Weißen Haus als Chef zurückgeholt. Trump sicherte zu, Huang habe nichts Illegales getan.",
+   "e": "Die Personalie folgt auf die Affäre um Huang und beeinflusst die Erwartungen an den wichtigsten KI-Chipkonzern.",
+   "tk": "NVDA",
+   "s": 7,
+   "link": "https://www.nzz.ch/wirtschaft/teamchef-trump-greift-zum-hoerer-wie-jensen-huang-dank-dem-us-praesidenten-zu-nvidia-zurueckfand-ld.10073489",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T04:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "569ed734c646fdf1",
+   "k": "welt",
+   "titel": "«Südamerikanisches Modell» für Italien: Alte Verbündete proben den Aufstand gegen Melonis Haushalt",
+   "t": "In Italien regt sich Widerstand gegen den Haushalt 2027, Sondersteuern und die Streckung von Steuergutschriften belasten Banken und Industrie.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/wirtschaft/suedamerikanisches-modell-fuer-italien-alte-verbuendete-proben-den-aufstand-gegen-melonis-haushalt-ld.10073306",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T04:30:00+00:00",
    "tag": null
   },
   {
@@ -553,6 +774,19 @@
    "tag": null
   },
   {
+   "id": "e05a025977ded563",
+   "k": "trading",
+   "titel": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+   "t": "Xiamen Airlines bestellt 50 Boeing 737-8 zu einem Katalogpreis von rund 7,4 Milliarden Dollar.",
+   "e": "",
+   "tk": "BA",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T03:58:32+00:00",
+   "tag": null
+  },
+  {
    "id": "5625be6920f65d34",
    "k": "welt",
    "titel": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
@@ -566,6 +800,19 @@
    "tag": null
   },
   {
+   "id": "8929d058d8c302f9",
+   "k": "trading",
+   "titel": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+   "t": "Ein New Yorker Senator schlägt eine 10-prozentige Steuer auf Gebühren von Prognosemärkten vor, die einen Vorschulfonds finanzieren soll.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T02:46:14+00:00",
+   "tag": null
+  },
+  {
    "id": "600c302a003030f3",
    "k": "welt",
    "titel": "China’s Military Ambitions in the Pacific Suffer Setback",
@@ -576,6 +823,84 @@
    "link": "https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T02:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d4c272d267709877",
+   "k": "welt",
+   "titel": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+   "t": "Eine US-Jury hat Huawei in einem Strafprozess wegen Bankbetrugs, Geldwäsche und Verschwörung zum Diebstahl von Geschäftsgeheimnissen schuldig gesprochen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T02:43:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "0aa65fc7f6f6b85e",
+   "k": "trading",
+   "titel": "【US Pre-Market】Anthropic Set to Go Public, US Futures Rise; Alibaba, PDD Gain Post-Earnings as Gold and Silver Hit 52-Week Lows - TradingKey",
+   "t": "Anthropic will an die Börse gehen, US-Futures steigen. Alibaba und PDD legen nach Zahlen zu, während Gold und Silber auf 52-Wochen-Tiefs notieren.",
+   "e": "",
+   "tk": "BABA,PDD",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUG5HV2JGbXFXN1lpME9BQzNQMHlqb0Y3ZWJJM2RreEt2aXVxNFNhRDBxQkJkcG9CcURLRngwaHdiaFhnUE5HQ2VJQ2h3dlhldnBONjdCTGxDZFE2M3I2WW1zZ1JHSkVlWGJ2Yl8xUGRoN2JIQU43djhsZGRkVktaa3VlTDJjRk1NbFJOaXVqRVZac3VlMmY3eFg2emlGdw?oc=5",
+   "quelle": "TradingKey",
+   "zeit": "2026-11-25T02:00:23+00:00",
+   "tag": null
+  },
+  {
+   "id": "8c18cd9c702ead48",
+   "k": "usa",
+   "titel": "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu",
+   "t": "Pennsylvanias Gouverneur Shapiro wirft Biden vor, in Bezug auf Netanjahu nicht genug getan zu haben.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-25T02:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9e9399b0c1fa7027",
+   "k": "welt",
+   "titel": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
+   "t": "Die Huthi haben erneut den Public Investment Fund Tower in der saudischen Hauptstadt Riad angegriffen, nachdem es am Donnerstag bereits einen Angriff gab.",
+   "e": "Die Angriffe zeigen die anhaltende Eskalation im Nahen Osten auch auf Saudi-Arabien.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-25T01:43:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5ecc6e2683cd193",
+   "k": "finanzen",
+   "titel": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed - Yahoo Finance",
+   "t": "Wall-Street-Futures fallen, nachdem S&P 500 und Nasdaq tiefer schlossen. Inflationsdaten stehen im Fokus.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
+   "quelle": "Yahoo Finance",
+   "zeit": "2026-11-25T01:42:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "d82c6430bea7d673",
+   "k": "trading",
+   "titel": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+   "t": "CleanSpark hat im September-Quartal 2.102 BTC verkauft, bei einer Produktion von 1.708 BTC, und erwägt weitere Verkäufe zur Risikoreduktion.",
+   "e": "",
+   "tk": "CLSK,BTC",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T01:40:59+00:00",
    "tag": null
   },
   {
@@ -602,6 +927,19 @@
    "link": "https://www.foxnews.com/politics/california-prosecutors-victim-advocates-challenge-newsoms-mass-death-sentence-commutation",
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T01:21:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "b560daf0f729fca3",
+   "k": "usa",
+   "titel": "Trump says NYC congestion pricing is ‘a killer’ for state — vows to block it from spreading",
+   "t": "Trump nennt die Staugebühr in New York City eine Belastung für den Bundesstaat und kündigt an, ihre Ausweitung auf andere Metropolregionen zu verhindern.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/24/us-news/trump-says-nyc-congestion-pricing-is-a-killer-for-state-vows-to-block-it-from-spreading/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-25T01:03:23+00:00",
    "tag": null
   },
   {
@@ -930,6 +1268,19 @@
    "tag": null
   },
   {
+   "id": "24089c202cafb8dd",
+   "k": "welt",
+   "titel": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+   "t": "Venezuela weist Schulden von 237 Milliarden Dollar aus, deutlich mehr als erwartet, was die Herausforderungen der Übergangsregierung unterstreicht.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-24T21:55:00+00:00",
+   "tag": null
+  },
+  {
    "id": "a82888cd3f0119ba",
    "k": "trading",
    "titel": "AI debt markets shudder as Nvidia's top 'banker' returns",
@@ -1008,6 +1359,19 @@
    "tag": null
   },
   {
+   "id": "26c4ace1c9f131ae",
+   "k": "trading",
+   "titel": "Micron’s stock falls as an analyst warns about a future supply glut",
+   "t": "Ein BNP-Paribas-Analyst warnt vor einem wachsenden Überangebot bei Speicherchips, was die Preissetzungsmacht von Micron bedrohen könnte. Die Micron-Aktie gab nach.",
+   "e": "",
+   "tk": "MU",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-24T21:22:00+00:00",
+   "tag": null
+  },
+  {
    "id": "7a5c27cc293f9b01",
    "k": "trading",
    "titel": "Coinbase Aktie: 102 Dollar, 27 Milliarden Dollar Börsenwert, Handelsumsatz im Quartal minus 44 Prozent und Bitcoin-Bestand unter Einstand – wie viel Krypto-Winter steckt im Kurs? - AktienCheck.de",
@@ -1031,6 +1395,19 @@
    "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
    "quelle": "Decrypt",
    "zeit": "2026-11-24T21:16:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "af19a9bc8f8525be",
+   "k": "usa",
+   "titel": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
+   "t": "Die CIA wurde Ziel eines Cyberangriffs, bei dem unklassifizierte Daten in einem Netzwerk zur Analyse offener Quellen offenlagen. Klassifizierte Systeme seien nach Angaben nicht betroffen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/cia-hit-cyber-breach-exposed-unclassified-data-intelligence-analysis-network-sources",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-24T20:53:34+00:00",
    "tag": null
   },
   {
@@ -1073,6 +1450,19 @@
    "tag": null
   },
   {
+   "id": "d3f18c72c10b88d0",
+   "k": "trading",
+   "titel": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+   "t": "Der Krypto-Vermögensverwalter 21Shares sieht den Bitcoin-Ausverkauf durch schwache Nachfrage und erzwungene Liquidationen getrieben.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-24T19:44:23+00:00",
+   "tag": null
+  },
+  {
    "id": "ac125d3105b422d2",
    "k": "trading",
    "titel": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
@@ -1083,6 +1473,19 @@
    "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
    "quelle": "Decrypt",
    "zeit": "2026-11-24T19:35:32+00:00",
+   "tag": null
+  },
+  {
+   "id": "3ceff47f7700f69c",
+   "k": "trading",
+   "titel": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+   "t": "Coldcard erklärt, warum eine Schwachstelle in seiner Bitcoin-Wallet über fünf Jahre unentdeckt blieb, eine Entschädigung ist noch nicht festgelegt.",
+   "e": "",
+   "tk": "BTC",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-24T19:04:26+00:00",
    "tag": null
   },
   {
@@ -1099,6 +1502,45 @@
    "tag": null
   },
   {
+   "id": "b1d5282cedc6e40f",
+   "k": "trading",
+   "titel": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+   "t": "Südkorea will das ICO-Verbot von 2017 aufheben, inländische Projekte könnten wieder Token verkaufen, unter IPO-ähnlichen Offenlegungsregeln.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-24T18:36:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "53997e5117987a69",
+   "k": "trading",
+   "titel": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+   "t": "Fear-and-Greed-Indizes zeigen für Aktien und Krypto extreme Angst, nachdem die Nvidia-Erholung nachließ und Bitcoin unter 60.000 Dollar fiel.",
+   "e": "",
+   "tk": "BTC,NVDA",
+   "s": 5,
+   "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-24T18:16:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "4d1f439dbf451fc6",
+   "k": "usa",
+   "titel": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
+   "t": "Der Abgeordnete Raskin weitet seine Untersuchung zu 1789 Capital aus, der Investmentfirma von Trump Jr., unter anderem wegen Beteiligungen an Polymarket.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
+   "quelle": "The Block",
+   "zeit": "2026-11-24T18:05:03+00:00",
+   "tag": null
+  },
+  {
    "id": "bf949efa44bb73bc",
    "k": "nrw",
    "titel": "Raubserie in Altena und Iserlohn: 21-Jähriger verurteilt - Radio MK",
@@ -1112,6 +1554,19 @@
    "tag": null
   },
   {
+   "id": "5c345d83a8343d71",
+   "k": "nrw",
+   "titel": "Iserlohn: Liudmyla Yamchikova darf endlich in ihrem erlernten Beruf arbeiten - IKZ-Online",
+   "t": "In Iserlohn darf Liudmyla Yamchikova endlich in ihrem erlernten Beruf arbeiten.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVlZ2NEdYbU5hVHV1RFV6a2lWMDZreTFKNXZtdWpQVGlLanBldTBBWXpPRnBWQkxEd1NZUzJya0pLTDVDQ010NWRScnktTXBBc2ZGVXlOeGN4ZUdGekppLWNiVEV0cUNBTGZwd3pMaVBvVl9PNFZ0NDhxNTFHWnc5R01HWGY2R0V3U240NzZIUWItVzN6SUpNSmZIdTBJZTJfbnp3UXR2V3hrc29SMVJBUkZBT0o2RHowckVmeFpfV2xrOV9ZdjgwNlMwR1c3LVZOcjJIV1RCUQ?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-24T16:30:00+00:00",
+   "tag": null
+  },
+  {
    "id": "c35cc713941726b3",
    "k": "welt",
    "titel": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
@@ -1122,6 +1577,19 @@
    "link": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-24T16:24:25+00:00",
+   "tag": null
+  },
+  {
+   "id": "7475a9dcfc9aec85",
+   "k": "trading",
+   "titel": "Earnings call transcript: Analog Devices beats Q4 2026 estimates, shares slide - Investing.com",
+   "t": "Analog Devices übertrifft die Erwartungen im vierten Quartal, die Aktie gibt dennoch nach.",
+   "e": "",
+   "tk": "ADI",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2tPdHFGT1pxVFhPUjJmMGwyek1QZzVsUWdXRzhueWdYVnlTTHNBOHp2NGJnX1pYck1JeUczLUhObkJxNFVMUm1lVG1zQ3h1N2pHZTBsc0FMbFBRalNzQV8xb3kycU9LLWZLcFNaSVJhQlp0ajkxa19UUUxxUE9EaURGSDI1UHpOZmRwTlJnb1dnYzhpLURxd1lVYTF1cjZRM1Vpdzg2b2tQV2ZYUHNRQlhhR3dfcnBCVUpRQUQwTWFjLTZfT3VEcWItRjg?oc=5",
+   "quelle": "Investing.com",
+   "zeit": "2026-11-24T16:21:29+00:00",
    "tag": null
   },
   {
@@ -1255,6 +1723,19 @@
    "tag": null
   },
   {
+   "id": "0c8dc9f48ece433d",
+   "k": "welt",
+   "titel": "90.000 deutsche Jobs bedroht – Die drastische Warnung des türkischen Handelsministers",
+   "t": "Der türkische Handelsminister warnt, dass die neue EU-Regel zum Schutz der Autoindustrie bis zu 90.000 Jobs in Deutschland kosten könnte.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.welt.de/wirtschaft/plus6b0566bc7ad92134767602cd/industrial-accelerator-act-90-000-deutsche-jobs-bedroht-die-drastische-warnung-des-tuerkischen-handelsministers.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-24T13:24:26+00:00",
+   "tag": null
+  },
+  {
    "id": "88b079520d5a6b64",
    "k": "nrw",
    "titel": "Unfallfluchten: Polizei sucht Zeugen - meinestadt.de",
@@ -1307,6 +1788,19 @@
    "tag": null
   },
   {
+   "id": "6998244df8a151f5",
+   "k": "finanzen",
+   "titel": "Im Blickpunkt: Was machen Sie mit unseren Zinsen, Herr Brunnermeier?",
+   "t": "Deutschland schlägt Markus Brunnermeier als neuen Chefvolkswirt der EZB vor, er gilt als aussichtsreicher Kandidat.",
+   "e": "Der Chefvolkswirt prägt die analytische Grundlage der EZB-Zinsentscheidungen.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.faz.net/aktuell/finanzen/deutschlands-kandidat-fuer-ezb-chefvolkswirt-was-machen-sie-mit-unseren-zinsen-herr-brunnermeier-accg-201695756.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-24T10:24:46+00:00",
+   "tag": null
+  },
+  {
    "id": "d636f8f365762df0",
    "k": "deutschland",
    "titel": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
@@ -1317,6 +1811,19 @@
    "link": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T10:06:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "18cff511226a12d0",
+   "k": "nrw",
+   "titel": "Polizei-News Lüdenscheid, 24.11.26: Wohnhausbrand am Oberen Worthagen - News.de",
+   "t": "In Lüdenscheid brannte ein Wohnhaus am Oberen Worthagen, die Polizei berichtet über den Einsatz.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1pfa093enZ4VVlmQUg2SGNaemFvWUk2ZWJjb0lsWXh6Nmh1aXA4czdFVFhQd0MxZWpXZ0JOQlNjdmNNTTg5M1pHc1RuRmpyOWVZSlBkck5nSXdNWnlLN2hPcUZUUXV0UXpSeWJkN29pdkVaajUzeTJ6WEpRY3VKZVFrY3B6UlBkV3JWNTA1b0xzMFBaQkFsZk12bEpsMGdYWkljVXNxMXY0U1d4Z3NwTlllVWowcnM?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-24T09:30:02+00:00",
    "tag": null
   },
   {
@@ -1489,6 +1996,19 @@
    "tag": null
   },
   {
+   "id": "cde95c65dcc3c747",
+   "k": "finanzen",
+   "titel": "Fast Vier Prozent: Keine Angst vor der Anschlussfinanzierung",
+   "t": "Hauskredite über rund 80 Milliarden Euro müssen 2027 zu deutlich höheren Zinssätzen refinanziert werden, viele Kreditnehmer müssen sich vorbereiten.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.faz.net/premium/meine-finanzen/vorsorge/anschlussfinanzierung-2027-so-bereiten-sie-sich-auf-hoehere-zinsen-vor-accg-201703446.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-24T06:43:35+00:00",
+   "tag": null
+  },
+  {
    "id": "19017a8ac6b5ed7a",
    "k": "finanzen",
    "titel": "Investitionszyklus: Die KI-Rezession ist unausweichlich",
@@ -1551,6 +2071,19 @@
    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
    "quelle": "CNBC Politik",
    "zeit": "2026-11-24T05:05:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "144a1c5f7dd5c537",
+   "k": "deutschland",
+   "titel": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
+   "t": "Die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte startet in Emden. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einschnitte.",
+   "e": "Die Tarifrunde findet mitten in der schwersten Krise des Konzerns statt und betrifft einen großen Teil der deutschen Autoindustrie.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-24T05:04:00+00:00",
    "tag": null
   },
   {
@@ -2061,6 +2594,19 @@
    "tag": null
   },
   {
+   "id": "0870eeeaa0ad8307",
+   "k": "usa",
+   "titel": "Democratic Lawmaker to Quit After Allegation of Sexual Misconduct",
+   "t": "Ein demokratischer Abgeordneter tritt nach einem Vorwurf sexuellen Fehlverhaltens zurück, der Ethikausschuss sah laut Bericht erhebliche Belege.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_usnews",
+   "quelle": "WSJ USA",
+   "zeit": "2026-11-23T22:29:00+00:00",
+   "tag": null
+  },
+  {
    "id": "fbce9eea0ad529b8",
    "k": "trading",
    "titel": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
@@ -2149,6 +2695,19 @@
    "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
    "quelle": "Decrypt",
    "zeit": "2026-11-23T20:36:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "dfc79c03cbf21b78",
+   "k": "deutschland",
+   "titel": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+   "t": "Die Finanzierung des Stromspar-Checks für Haushalte mit wenig Einkommen ist für drei weitere Jahre gesichert.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-23T20:11:45+00:00",
    "tag": null
   },
   {
@@ -2893,6 +3452,32 @@
    "tag": null
   },
   {
+   "id": "a70b0f9723eec29f",
+   "k": "deutschland",
+   "titel": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
+   "t": "Die Zeugen Jehovas erhalten nach einer Einigung das Archiv einer NS-Verfolgten, das lange im Museum der Bundeswehr lag.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-23T10:26:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "904cb2ed93aba986",
+   "k": "trading",
+   "titel": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
+   "t": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, soll über mehr als ein Jahr Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes gehabt haben.",
+   "e": "Der Fall belastet Nvidia zusätzlich in der laufenden Affäre um Jensen Huang.",
+   "tk": "NVDA",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-23T09:56:20+00:00",
+   "tag": null
+  },
+  {
    "id": "24f86e883f73da35",
    "k": "welt",
    "titel": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
@@ -3106,7 +3691,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 36
+    "n": 40
    }
   ],
   "markt": [],
