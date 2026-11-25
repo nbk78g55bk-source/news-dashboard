@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T05:01:41.039546+00:00",
+ "aktualisiert": "2026-11-25T07:01:45.388545+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.125 $",
-   "delta": -1.9577917380269312
+   "wert": "59.172 $",
+   "delta": -2.062340245527599
   },
   {
    "name": "Ethereum",
    "wert": "1.658 $",
-   "delta": -2.3502178083136696
+   "delta": -2.387199763247047
   },
   {
    "name": "Gold",
-   "wert": "3.548 $",
-   "delta": -2.8372652986393354
+   "wert": "3.518 $",
+   "delta": -1.2381005517513755
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.125 $",
-   "delta": -1.9577917380269312
+   "wert": "59.172 $",
+   "delta": -2.062340245527599
   },
   {
    "name": "Ethereum",
    "wert": "1.658 $",
-   "delta": -2.3502178083136696
+   "delta": -2.387199763247047
   },
   {
    "name": "Solana",
    "wert": "69 $",
-   "delta": -3.787135485675272
+   "delta": -4.228002867780069
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,73 $",
-   "delta": 0.698517954153588
+   "wert": "80,56 $",
+   "delta": -1.815969526311778
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-24T19:01:44.021852+00:00",
+  "slot": 7,
+  "stand": "2026-11-25T07:01:45.388528+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Die Fed-Vertreterin Williams signalisiert weitere Zinserhöhungen zur Eindämmung der Inflation, und immer mehr Finanzinstitute erwarten Anhebungen bei den nächsten drei Sitzungen. Der Fed Funds liegt laut Marktdaten bei 3,88 %, der EZB-Zins bei 2,50 %."
+    "t": "Die Nvidia-Aktie fällt am Tag nach der Rückkehr von Jensen Huang als Konzernchef um rund sechs Prozent. Zuvor hatten viele asiatische Kurse deutlich zugelegt, und die SoftBank-Aktie verlor über elf Prozent. S&P 500 und Nasdaq schlossen tiefer."
    },
    {
     "k": "finanzen",
-    "t": "Der Deka DAX notiert bei 218,50 €, der iShares MSCI World bei 124,56 €. Laut Marktbericht hat der DAX eine sechstägige Verlustserie beendet."
+    "t": "Zu den Marktdaten zählen Deka DAX 218,50 €, iShares MSCI World 124,56 € und Deka Nasdaq-100 168,16 €. Bitcoin notiert bei 59.172 $, Ethereum bei 1.658 $ und Gold bei 3.518 $."
    },
    {
     "k": "finanzen",
-    "t": "Nach der Rückkehr von Jensen Huang an die Spitze von Nvidia ist die Nvidia-Aktie laut Meldung um 31 Prozent gestiegen und der S&P 500 um 4,62 Prozent. Der Deka Nasdaq-100 notiert bei 168,16 €."
+    "t": "Die EZB hat den Zins bei 2,50 % und die Fed Funds liegen bei 3,88 %. Fed-Vizechef John Williams hält höhere Zinsen „im Laufe der Zeit“ zur Inflationsbekämpfung für wahrscheinlich."
    },
    {
-    "k": "finanzen",
-    "t": "Bitcoin liegt laut Marktdaten bei 59.846 $ und rutscht laut Meldungen Richtung 60.000 Dollar, während Bitcoin-ETFs im November Nettoabflüsse von 4,71 Milliarden Dollar verzeichneten."
+    "k": "usa",
+    "t": "Trump sagt, der Iran-Krieg sei bis Januar finanziert, und äußert sich zu israelischen Zielen eines Regimewechsels in Teheran. Zugleich kritisiert er Demokraten im Kongress, die den Konflikt beenden wollen."
    },
    {
-    "k": "deutschland",
-    "t": "Deutschland zahlte im vergangenen Jahr 14,9 Milliarden Euro mehr in den EU-Haushalt ein, als zurückfloss. Der zweitgrößte Nettozahler liegt laut Meldung weit dahinter."
+    "k": "welt",
+    "t": "Russland wirft Estland feindselige Handlungen vor und warnt, die estnischen Grenzmaßnahmen könnten zu einem offenen Krieg führen. Tallinn will ab dem 1. Dezember Straßenübergänge schließen."
    },
    {
     "k": "nrw",
-    "t": "In NRW ist ein Unbekannter in eine Sitzung der Grünen eingedrungen, mehrere Personen wurden im Krankenhaus behandelt."
+    "t": "Der Märkische Kreis probt den Orkan-Ernstfall mit rund 400 simulierten Einsätzen in einer Nacht."
    }
   ]
  },
@@ -2202,19 +2202,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-23T09:14:40+00:00",
    "tag": null
-  },
-  {
-   "id": "45e54442e86beb94",
-   "k": "deutschland",
-   "titel": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
-   "t": "In der Metall- und Elektroindustrie in Norddeutschland hat ein neuer Warnstreik begonnen, die IG Metall fordert fünf Prozent.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-23T06:48:24+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2227,12 +2214,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 21
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -2247,17 +2234,17 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "NZZ",
@@ -2282,7 +2269,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "MarketWatch",
@@ -2383,9 +2370,8 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
+    "ok": true,
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -2400,7 +2386,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Google News Fed",
