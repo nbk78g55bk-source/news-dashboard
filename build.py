@@ -469,6 +469,8 @@ def main():
 
     # Push
     if topic or tg:
+        if cfg.get("push_test"):
+            push(topic, tg, "Test vom News-Dashboard", "Wenn du das liest, funktionieren die Pushes.")
         min_s = cfg.get("push_min_score", 9)
         max_n = cfg.get("push_max_pro_tag", 5)
         min_t = cfg.get("push_min_score_trading", min_s)
