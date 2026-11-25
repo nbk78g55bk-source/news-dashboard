@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T08:12:08.847468+00:00",
+ "aktualisiert": "2026-11-25T08:16:42.556429+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.788 $",
-   "delta": -2.3974079656784686
+   "wert": "58.844 $",
+   "delta": -2.251538339207484
   },
   {
    "name": "Ethereum",
-   "wert": "1.642 $",
-   "delta": -3.0169986948451877
+   "wert": "1.640 $",
+   "delta": -3.254823459903512
   },
   {
    "name": "Gold",
-   "wert": "3.523 $",
-   "delta": -1.0893035573015242
+   "wert": "3.517 $",
+   "delta": -1.2717904372872013
   },
   {
    "name": "EZB Zins",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.018",
-   "delta": -1.2608680302191977
+   "delta": -1.2608285626672933
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.788 $",
-   "delta": -2.3974079656784686
+   "wert": "58.844 $",
+   "delta": -2.251538339207484
   },
   {
    "name": "Ethereum",
-   "wert": "1.642 $",
-   "delta": -3.0169986948451877
+   "wert": "1.640 $",
+   "delta": -3.254823459903512
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -5.018744208264165
+   "delta": -4.989880654073733
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,23 $",
-   "delta": -2.2181632956305153
+   "wert": "80,31 $",
+   "delta": -2.1206617757956736
   },
   {
    "name": "EUR/USD",
@@ -3539,7 +3539,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 38
    },
    {
     "name": "FAZ Finanzen",
@@ -3645,9 +3645,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -3657,7 +3656,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 34
+    "n": 15
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3672,7 +3671,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -3687,12 +3686,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 35
    }
   ],
   "markt": [],
