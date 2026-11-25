@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-25T21:01:40.664367+00:00",
+ "aktualisiert": "2026-11-25T23:01:39.421852+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "122,24 €",
-   "delta": -1.866497327369221
+   "delta": -3.478223980281958
   },
   {
    "name": "iShares MSCI EM",
    "wert": "40,72 €",
-   "delta": -3.2707803421122117
+   "delta": -6.895444620386193
   },
   {
    "name": "Deka S&P 500",
    "wert": "132,94 €",
-   "delta": -2.152789594689175
+   "delta": -3.938006506167968
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "162,28 €",
-   "delta": -3.4966719398533685
+   "delta": -6.8747818687472595
   },
   {
    "name": "Deka DAX",
    "wert": "215,70 €",
-   "delta": -1.281464530892451
+   "delta": -2.5305029256814326
   },
   {
    "name": "Bitcoin",
-   "wert": "60.225 $",
-   "delta": 0.9109266714336133
+   "wert": "60.042 $",
+   "delta": 0.24942509348280786
   },
   {
    "name": "Ethereum",
-   "wert": "1.688 $",
-   "delta": 0.9144375376527998
+   "wert": "1.685 $",
+   "delta": 0.14619881575452048
   },
   {
    "name": "Gold",
-   "wert": "3.603 $",
-   "delta": 1.1594963022142801
+   "wert": "3.618 $",
+   "delta": 1.569389909566743
   },
   {
    "name": "EZB Zins",
@@ -56,7 +56,7 @@
   {
    "name": "S&P 500",
    "wert": "7.183",
-   "delta": -0.2527373514968123
+   "delta": -0.2542648980541684
   },
   {
    "name": "Nasdaq-100",
@@ -66,12 +66,12 @@
   {
    "name": "DAX",
    "wert": "24.702",
-   "delta": -1.2618232370235516
+   "delta": -2.506740240761318
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "28,34",
-   "delta": 7.511378390753487
+   "wert": "28,29",
+   "delta": 7.3216970597888675
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.225 $",
-   "delta": 0.9109266714336133
+   "wert": "60.042 $",
+   "delta": 0.24942509348280786
   },
   {
    "name": "Ethereum",
-   "wert": "1.688 $",
-   "delta": 0.9144375376527998
+   "wert": "1.685 $",
+   "delta": 0.14619881575452048
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 1.749466316385632
+   "wert": "70 $",
+   "delta": 0.8963437470169802
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,10 $",
-   "delta": 2.4984727263800632
+   "wert": "84,15 $",
+   "delta": 2.559411176276849
   },
   {
    "name": "EUR/USD",
@@ -136,6 +136,279 @@
   ]
  },
  "items": [
+  {
+   "id": "13916331a2d054f7",
+   "k": "usa",
+   "titel": "Trump’s DC renovation account gets mysterious $300M infusion",
+   "t": "Ein Konto der National Park Service, aus dem Trumps Renovierungsprojekte in DC finanziert werden, hat im September 300 Millionen Dollar aus unbekannter Quelle erhalten.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/25/us-news/president-trumps-dc-renovation-account-gets-mysterious-300m-infusion/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-25T22:54:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "00f2a685a862af38",
+   "k": "trading",
+   "titel": "American Express Aktie News: American Express am Nachmittag mit negativen Vorzeichen - Finanzen.net",
+   "t": "Die American-Express-Aktie notierte am Nachmittag im Minus.",
+   "e": "",
+   "tk": "AXP",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbklTNXgtemQ1NkZvZjBOdWRPZ3o3bW42YllUbUtRWnBuVDRheHZWRjBFWFc4eEhKMm9FSTRvWUx4Slo3d3pUQjFsTk1YWHBoNGJOb0Jhc1JWR1duSjh0Zm1WcTJlcWh0S1FpTW50ZzA1d2twN2h4bUpycFZyb2p1Y0p3SDV3RHJiUmlkamF4YUxGQkJfRUxzMlBfM01pdw?oc=5",
+   "quelle": "Finanzen.net",
+   "zeit": "2026-11-25T22:40:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "58793a856ad1357a",
+   "k": "welt",
+   "titel": "China's Google Just Released Its Fast New AI Model for Free",
+   "t": "Baidu hat die Gewichte seines neuen schnellen Reasoning-Modells veröffentlicht, das Entwicklern kommerziell nutzbar zur Verfügung steht.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T22:38:09+00:00",
+   "tag": null
+  },
+  {
+   "id": "cd0d08be39eb3c6d",
+   "k": "finanzen",
+   "titel": "EZB vertagt Entscheidung über doppelte Mindestreserve für Banken - trading-house.net",
+   "t": "Die EZB hat die Entscheidung über die doppelte Mindestreserve für Banken vertagt.",
+   "e": "Die Frage betrifft die Liquiditätssteuerung im Euroraum und ist Teil der laufenden geldpolitischen Feinabstimmung der Notenbank.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGUxSjI0cTRFbno3VVZ5eF9aUXFUNVNOd203UTJJTkc0U094YmRMenFRTTlQXzNnX05OZ3VXakEya0VVaXlOMkQ2alZkbjh6QmxjU1NGT2dZdk9MbkVZNGJnNWhJRFlneWF3azVaSlpPcmh1UEs0bHVQeEozRDNGMmdtUzJjaFhvQU5US0xyZFNVVXp4V1hnMWE4OU1YdnhGQ0FKOEZGZVA?oc=5",
+   "quelle": "trading-house.net",
+   "zeit": "2026-11-25T22:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5836fccc6177ff0a",
+   "k": "trading",
+   "titel": "Deutsche Bank Aktie News: Deutsche Bank am Mittwochnachmittag in Rot - Finanzen.net",
+   "t": "Die Deutsche-Bank-Aktie notierte am Mittwochnachmittag im Minus.",
+   "e": "",
+   "tk": "DBK",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW5OeFBucHJZd1RDUzhsc2pKSzNBblBQVjBKdGRHZk1PRzlBR2JYX0I5UW5aWFR4UnhENGVkbldKM1E0Y3FybmxhQjlqS2VBREZiZ01uVm8zRVV6Qm5DQVp6aFNUanZNYk55b09ZbFp6bjItUmN5aWVuZlM5Y2xGZmdldEJmaUduTDY0UEU5N0pldUpZWHQzd1Jn?oc=5",
+   "quelle": "Finanzen.net",
+   "zeit": "2026-11-25T22:28:49+00:00",
+   "tag": null
+  },
+  {
+   "id": "bb17cc5df7531ce9",
+   "k": "trading",
+   "titel": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+   "t": "Die Senatoren Warren und Van Hollen fordern SEC-Chef Atkins in zwei Schreiben auf, die Innovationsausnahme und die 'Regulation Crypto' zurückzunehmen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T22:20:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "f98e8200ec5b6d3c",
+   "k": "trading",
+   "titel": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+   "t": "Oracle, CoreWeave und andere Tech-Werte erholten sich am Mittwoch von frühen Verlusten nach einem starken Ausverkauf.",
+   "e": "",
+   "tk": "ORCL, CRWV",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T22:16:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "05d1c8c77702a944",
+   "k": "trading",
+   "titel": "MARA Aktie: 13.597 Bitcoin verkauft, 750 Millionen Dollar Kredit – geht den Minern das Geld aus? - AktienCheck.de",
+   "t": "Der Bitcoin-Miner MARA hat 13.597 Bitcoin verkauft und einen Kredit über 750 Millionen Dollar aufgenommen.",
+   "e": "Verkäufe von Mining-Beständen und neue Kreditlinien deuten auf finanziellen Druck bei Minern in einer schwachen Bitcoin-Phase hin.",
+   "tk": "MARA, BTC",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlVXR1VPb0ZRMm81WHlDUDdqZU5Lbzh3YzZZNkk0QkVBQ1lzTW9yRGd1RDRieGFKQ2hENHJuS3dDSGN2QUNtYjQwLXRfaTRkUmQ1dm93Q0E0ZHpHLWZKUmViNmpRRjl2QzZaeVBIdjl1aTk4X2F0S1l5Ti1nbHdlLWIxa1JwNkd2SDNpMEhrYzg?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T22:12:36+00:00",
+   "tag": null
+  },
+  {
+   "id": "d540fe45c02858d8",
+   "k": "trading",
+   "titel": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+   "t": "Nvidia hat einen großen Teil des Montagsanstiegs wieder abgegeben, weil Käufer nach dem Rücksetzer Gewinne mitnehmen.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T22:11:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6ca09705fdcfb084",
+   "k": "trading",
+   "titel": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher. - Investor's Business Daily",
+   "t": "Die Dow-Jones-Futures schwankten stark, Nasdaq und Nvidia verringerten ihre Verluste, während Anthropic wieder höher notierte.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
+   "quelle": "Investor's Business Daily",
+   "zeit": "2026-11-25T21:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f7f2f5b635bc1733",
+   "k": "finanzen",
+   "titel": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+   "t": "Die Schweiz hat 57 Jurisdiktionen für den Austausch von Krypto-Steuerdaten freigegeben, ab 2028 sollen Daten mit ausländischen Behörden getauscht werden.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T21:53:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "8ba9b6b379a2e171",
+   "k": "trading",
+   "titel": "Strategy Aktie: Nasdaq100 Gewinner mit plus 3,1 Prozent – 850.000 Bitcoin und ein Abschlag - AktienCheck.de",
+   "t": "Die Strategy-Aktie gehörte mit plus 3,1 Prozent zu den Gewinnern im Nasdaq 100, das Unternehmen hält rund 850.000 Bitcoin.",
+   "e": "",
+   "tk": "MSTR",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0s5bE0wXzFhdTF2aE1KQ2MyU21PRGd0cHlTTEVlOGpsT0Zyazg2WTUtdFFJTDJfN0VQdnZaMTZOdHQ5NGNzWVctUGRranRfUHdCd0p0REQ1N2I0dzMta2Q5SWNkWW40UVBXRDJvMDM4eS15YVdObXk1TVVoaG80dlMtd2N4VFh0VlJpOVdOQXRsM0szbWoxZEpadk82VnoycC0yV2JqVC1vZnc?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T21:50:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "fc2924d4ed048ba1",
+   "k": "usa",
+   "titel": "Trump's birthright citizenship restrictions struck down again by DC federal judge he called 'hater'",
+   "t": "Ein Bundesrichter in DC hat die zweite Anordnung zur Einschränkung des Geburtsrechts (Birthright Citizenship) von Präsident Trump gekippt und sich dabei auf den 14. Verfassungszusatz gestützt.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-25T21:48:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "02b8088468663805",
+   "k": "trading",
+   "titel": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+   "t": "US-Geheimdienste fanden laut Bericht keine Belege, dass Peking Alice Huang angewiesen hat, Nvidia-CEO auszuspionieren; sie bleibt aber mit Einreiseverboten und Prüfung ihrer Geschäftsbeziehungen konfrontiert.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T21:46:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "4a232999a513818c",
+   "k": "deutschland",
+   "titel": "„Kuhhandel“ statt Sparpolitik – Wirtschaftsweise warnt vor 100 Prozent Schuldenquote bis 2040",
+   "t": "Die Wirtschaftsweise Monika Schnitzer kritisiert die Haushaltsplanung der Bundesregierung und warnt vor einer Schuldenquote von 100 Prozent bis 2040.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-25T21:45:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "0c5d1844013e2d17",
+   "k": "deutschland",
+   "titel": "Arbeitgeber und Beschäftigte der Metall- und Elektroindustrie starten in vierte Verhandlungsrunde",
+   "t": "In der Tarifrunde der Metall- und Elektroindustrie beginnt die vierte Verhandlungsrunde zwischen Arbeitgebern und Beschäftigten.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/tagesthemen/video-1690020.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T21:40:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "d22d1134cb9b61c5",
+   "k": "trading",
+   "titel": "Nvidia whiplash shows how much investors’ financial futures depend on tech as the AI boom falters - Fortune",
+   "t": "Die Nvidia-Kursschwankungen zeigen, wie stark Anlegerportfolios am Tech-Sektor hängen, während der KI-Boom ins Stocken gerät.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlpzTlhsUUpWNDFpbHlobWdGV1B5NlR1RE43QUdlckZUZENLdkNuckM3ZVV4NlFyWXFVN0RBQ2J5Wnc2TmIzRlFIQ3RwTjZIZjBZa3ZmekhQWXFJOE55aWZzaG83ZmJvLTFuRnJrQTNmTUNHZHExRE15RmFneS16SnJ4R3Z1RmI3SUZqb0w4YUFtbGtqNjdHUndZYjNYMGY4?oc=5",
+   "quelle": "Fortune",
+   "zeit": "2026-11-25T21:37:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "627e6aa7826ca3f4",
+   "k": "trading",
+   "titel": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+   "t": "Die Optionsmärkte deuten darauf hin, dass Händler mit einem niedrigeren VIX rechnen und große Schwankungen an den Aktienmärkten nachlassen könnten.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T21:26:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "b074d196ba01df06",
+   "k": "welt",
+   "titel": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+   "t": "Der Passwortmanager 1Password meldet einen Einbruch über ein kompromittiertes GitHub-Konto, bei dem Kundennamen und E-Mail-Adressen kopiert wurden; Tresorinhalte seien nicht betroffen.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T21:16:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "ecac550890c04a5c",
+   "k": "finanzen",
+   "titel": "EZB-Protokoll und GfK-Konsumklima: Donnerstag ohne Wall Street – Was bewegt den DAX bei dünnem Handel? - AktienCheck.de",
+   "t": "Vor dem DAX stehen am Donnerstag das EZB-Protokoll und das GfK-Konsumklima im dünnen Handel ohne Wall Street.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlNwa01SVWgwZDJHZ0pBb0d2OEtnM0pndlNjTWZmNFZ2TWNPZVlJTk9SMEEtOGRIaEpubUJwbWJNakhwLVN4QWIyamhEUkRaRHRseWd4ekZ0ajNCYnk2TFdxekpfUFZKUGhqTUZ1NnFtckEzdWVVNDJoSC1aTjBuN1hBdHVpYkhrLVU2YzFjZ3lnakNIWkpwYkp4T1cxQm9fNkJJZ3RzSlRrSmpUMzJkLQ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T21:10:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "deba646eefd37606",
+   "k": "finanzen",
+   "titel": "Fed-Zinserhöhung im Dezember: Kern-PCE steigt auf 3,3 Prozent, Williams schließt Schritte hintereinander nicht aus – wie viel ist schon eingepreist? - AktienCheck.de",
+   "t": "Der Kern-PCE-Preisindex der USA stieg auf 3,3 Prozent, Fed-Vertreter Williams schließt aufeinanderfolgende Zinsschritte nicht aus.",
+   "e": "Die Zahl stützt die Erwartung einer Zinserhöhung der Fed im Dezember und erhöht den Druck auf Anleger.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1ZQa2l3YU5xUlFhZHdMRlI1bjlTaWRXbnVLTHFrRTY2OW9rLTgzYjUtUUg2OUFBVkc2d29HZFpDbVN4eGhwZHVRNVdyWmFyZ0hTMS0tNTNIZ2p2cmJKUkhGVFJPV3JlbWp2VVVUeEJRbVVYTUxISU1oWDVGQ1BTVk5tUGNXZ2lWQUk4QkRKeGVBZ2xYcHZFQ19VX1NBdHQ4X2NzZGFXc1JWUUxPY0VZ?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T21:04:27+00:00",
+   "tag": null
+  },
   {
    "id": "73ecb62e87ae2a54",
    "k": "trading",
@@ -358,6 +631,19 @@
    "tag": null
   },
   {
+   "id": "7f9807236d699a12",
+   "k": "usa",
+   "titel": "DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees",
+   "t": "Justizminister Blanche hat Zivilanwälte des Justizministeriums mobilisiert, um rund 97.000 Habeas-Corpus-Anträge von inhaftierten Migranten abzuwehren.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-25T19:24:48+00:00",
+   "tag": null
+  },
+  {
    "id": "5d19c362f2eb93f2",
    "k": "finanzen",
    "titel": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
@@ -371,6 +657,19 @@
    "tag": null
   },
   {
+   "id": "2723153b1493e322",
+   "k": "usa",
+   "titel": "Newsom shredded for ‘hypocritical’ claim Trump 'sells' pardons after moving to spare 548 death row inmates",
+   "t": "Gouverneur Newsom will 548 Todeskandidaten in Kalifornien verschonen und fordert eine Reform der presidentiellen Begnadigungsbefugnisse, was auf Kritik stößt.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.foxnews.com/politics/newsom-shredded-hypocritical-claim-trump-sells-pardons-after-moving-spare-548-death-row-inmates",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-25T19:16:34+00:00",
+   "tag": null
+  },
+  {
    "id": "c2150c757e97fa10",
    "k": "trading",
    "titel": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
@@ -381,6 +680,19 @@
    "link": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
    "quelle": "CNBC Investing",
    "zeit": "2026-11-25T19:16:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "dd1be6aac9b66c1b",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Regentage entlasten Talsperren - tagesschau.de",
+   "t": "In Nordrhein-Westfalen haben Regentage die Talsperren entlastet.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1Vfcnk4cDRFS3Fqc3JHV0JKVlVIUm4tcWFLc2Y2Yl93S0NEQm9Zak42U3kxcV81eVRlTlJPUHg3SE1EdE03cXhuZ3lWaWNkZWtRZHl2cC1TMkhucFNkTEVnMTBfOC1ZVzA5SDI5U2lUNlpGQ0prRldYblFLUUNaMm5xYjFqTExoVE9TMVFOVnFZeXN6Qkt3QnZIeHJQNXRFNzMxSS0yVXEwYmxsQVFfYV84bHJhbFdJcGRob0t1Nm5XeUM5Um5aTHNGWEVqTEZyMmFNTnJfMmw?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-25T19:10:00+00:00",
    "tag": null
   },
   {
@@ -410,6 +722,45 @@
    "tag": null
   },
   {
+   "id": "1c7fb237ed7b514f",
+   "k": "finanzen",
+   "titel": "Börsen: Die Furcht vor einem KI-Crash will nicht weichen: Was kann die Angst der Anleger jetzt stoppen?",
+   "t": "Die US-Börsen haben hohe Anfangsverluste am Mittwoch weitgehend aufgeholt. Neue Zolldrohungen und die Aussicht auf höhere Zinsen belasten weiterhin, die Sorge vor einem KI-Crash bleibt.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-die-angst-vor-einem-ki-crash-haelt-an/100272767.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T19:01:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "90a7b7150e678ae2",
+   "k": "usa",
+   "titel": "‘I don’t think’ Jensen Huang needs a pardon, JD Vance says: ‘I talked to the attorney general’",
+   "t": "Vizepräsident Vance sagt, Nvidia-CEO Jensen Huang brauche keine Begnadigung, da das Justizministerium gegen ihn keine Ermittlungen führe.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/25/us-news/i-dont-think-jensen-huang-needs-a-pardon-jd-vance-says-i-talked-to-the-attorney-general/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-25T18:58:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2931875919e0435",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Nach Gewalttat im Juni in Hamm: Zufallsfestnahme bei einer Verkehrskontrolle - tagesschau.de",
+   "t": "Nach einer Gewalttat im Juni in Hamm wurde ein Verdächtiger bei einer Verkehrskontrolle zufällig festgenommen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEhGWDFXeEszZkdyVF83dThmbXM2Sk5PSWFoc09mMVNFRzNsSEJBUFdicEJ6TFhLYjgwQlJibTNKdjlUQjNqeW94TV81QXFrOXJBa1YwVGRuQ3NEV2tSYlMxczd3aHBfTmZLTWg5QXlBdzQ5WndscURhNjRyNUZ1eVI4bl9JYW9ENzMtS3BPZ3JfQW9WQk9pUUZfdFlkM08xelZpTzY1a3VGd2hHZUdUek9aQ0kzdjlFUnRLUEFidkYtVXVQaHl3WmJ1N2NUVW9xSDRFUUUyQ0FURFFXb0dveW1B?oc=5",
+   "quelle": "tagesschau.de",
+   "zeit": "2026-11-25T18:58:00+00:00",
+   "tag": null
+  },
+  {
    "id": "bdc43d85741ba79e",
    "k": "trading",
    "titel": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
@@ -420,6 +771,19 @@
    "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "quelle": "Cointelegraph",
    "zeit": "2026-11-25T18:54:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "020b13e4e25e8c80",
+   "k": "welt",
+   "titel": "+++ Ukraine-Krieg +++: Ukraine: Drei russische Kampfjets und zwei Bomber beschädigt",
+   "t": "Laut Newsblog wurden drei russische Kampfjets und zwei Bomber in der Ukraine beschädigt, Russland rechnet mit einem Rückgang der Getreideexporte.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-aendert-wohl-strategie-zu-geschaeftsabschluessen-mit-russland/27982126.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T18:52:00+00:00",
    "tag": null
   },
   {
@@ -488,6 +852,19 @@
    "tag": null
   },
   {
+   "id": "7705bdbc02f455fb",
+   "k": "trading",
+   "titel": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
+   "t": "Bitcoin ist unter 58.000 Dollar gefallen, die Marktkapitalisierung der Kryptowährungen liegt auf dem niedrigsten Stand seit September 2024.",
+   "e": "Der Rückgang fällt mit steigender US-Inflation und schwächeren Aktienmärkten zusammen.",
+   "tk": "BTC",
+   "s": 6,
+   "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T17:26:55+00:00",
+   "tag": null
+  },
+  {
    "id": "a12570182e01b4e0",
    "k": "usa",
    "titel": "Trump droht mit neuen Zöllen wegen Überkapazitäten – doch die EU will die USA lieber als Verbündete gegen China",
@@ -540,6 +917,19 @@
    "tag": null
   },
   {
+   "id": "7619d86a32130b82",
+   "k": "welt",
+   "titel": "Überraschender Rücktritt aus dem Ständerat – grosse Blutauffrischung für die kleine Kammer",
+   "t": "Der Zuger Ständerat Matthias Michel tritt bei den Wahlen 2027 nicht mehr an.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.nzz.ch/schweiz/ueberraschender-ruecktritt-aus-dem-staenderat-grosse-blutauffrischung-fuer-die-kleine-kammer-ld.10074480",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T16:30:00+00:00",
+   "tag": null
+  },
+  {
    "id": "d1314fa3e08e3b78",
    "k": "trading",
    "titel": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
@@ -550,6 +940,32 @@
    "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T16:02:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "61c247b514ac1f16",
+   "k": "welt",
+   "titel": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+   "t": "Das ukrainische Parlament hat ein Gesetz zu Krypto-Steuern und Regulierung verabschiedet, das laut Bericht rund 330 Millionen Dollar einbringen soll.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T16:02:07+00:00",
+   "tag": null
+  },
+  {
+   "id": "bda1f86097404c82",
+   "k": "finanzen",
+   "titel": "BOE’s Bailey Sees Lower Peak for Inflation if Energy Prices Stay Where They Are",
+   "t": "BoE-Gouverneur Bailey erwartet einen niedrigeren Inflationsgipfel im Vereinigten Königreich, falls Öl- und Gaspreise auf dem aktuellen Niveau bleiben.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-25T15:24:00+00:00",
    "tag": null
   },
   {
@@ -576,6 +992,19 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkVDZjh6ZUVzN3RyQjdNeW1CczU2QjRmQ3hqMTc3OW5JdmVjN0g5UmVfQVJYSFU3czgzUVA0aFhBT0hqMnhIa3hrbVcyNTlIMjF3TjlabmlVd1FuUS1XU3lEbEJseUFXOTBmaExfbWxKM19OMFNyaEZoM3J0QzNSWTJhc1B3dW04VEV1VmhVR2laNm9pMS1ISmowMlN1cjVfNDNLNUhIRENLbGpveWFVX2lmY3dtU19BbU5aYW4tWmxwRFZnRHZkbG9LTUFZWFo2SUI1UFhWYzRqbTJ0eGNN?oc=5",
    "quelle": "IKZ-Online",
    "zeit": "2026-11-25T15:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "dfef5a706a044a25",
+   "k": "trading",
+   "titel": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+   "t": "Die südkoreanische Krypto-Börse Bithumb warnt vor Phishing, nachdem die Untersuchung des Einbruchs vom Oktober vertieft wurde.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T14:47:17+00:00",
    "tag": null
   },
   {
@@ -1034,6 +1463,19 @@
    "tag": null
   },
   {
+   "id": "6e7601a2a387bc8a",
+   "k": "finanzen",
+   "titel": "Marketing statt Produktion – Der deutsche KI-Boom geht an den Werkhallen vorbei",
+   "t": "Laut neuen Detailzahlen nutzt mehr als jedes dritte Unternehmen in Deutschland KI, die Anwendung konzentriert sich aber auf Marketing und Büroarbeit statt auf die Produktion.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/article6b05ae38d4a4a3142c5714a4/kuenstliche-intelligenz-marketing-statt-produktion-der-deutsche-ki-boom-geht-an-den-werkhallen-vorbei.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T11:26:11+00:00",
+   "tag": null
+  },
+  {
    "id": "4316e03c9dffd238",
    "k": "trading",
    "titel": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
@@ -1125,6 +1567,32 @@
    "tag": null
   },
   {
+   "id": "54c3fe773e42fc6f",
+   "k": "nrw",
+   "titel": "MK-Jugendamtschef geht Ende April in Ruhestand: Nachfolger steht schon heute fest - Come-on",
+   "t": "Der Jugendamtschef des Märkischen Kreises geht Ende April in den Ruhestand, sein Nachfolger steht bereits fest.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmxYemk0TUllQ2wxaFNaaURfWUs1NzVCYVpsSGh1THpUeHh4ckI1aWRZbVJSaTA5ajZGZGxBdDdBdEQ1RS0wRldKOFV0bVU2WVdaWXpxbTJfZkNJcFpZV3A5RFVYUkhReHBzT3N5S0Q5VHgxZmMtV3ROeFR6OWxxQXN4Y09xWG1tN294T3cweFpVMGJPRHduMVV3MUFtYVhnY0c2UFdySXFtZzNnQ3c?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-25T10:41:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1ca8e93e4153e278",
+   "k": "welt",
+   "titel": "„Vergeltungsmaßnahmen sind unvermeidlich, das sollte jedem bewusst sein“ – Putin droht der Ukraine",
+   "t": "Putin kündigt Vergeltungsmaßnahmen gegen die Ukraine an, nachdem die Ukraine in diesem Monat 15 russische Ölraffinerien angegriffen hat.",
+   "e": "Die Angriffe auf Raffinerien setzen Russlands Energiegeschäft unter Druck und könnten die Eskalation im Krieg verstärken.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/article6b06ae99366061b7ba3e4d2a/ukraine-krieg-vergeltungsmassnahmen-sind-unvermeidlich-das-sollte-jedem-bewusst-sein-putin-droht-der-ukraine.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T10:40:12+00:00",
+   "tag": null
+  },
+  {
    "id": "db4b24dc0e93174e",
    "k": "trading",
    "titel": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
@@ -1148,6 +1616,32 @@
    "link": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-boost-quantum-technology-6555b429?mod=rss_worldnews",
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T10:04:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "723818755a957245",
+   "k": "nrw",
+   "titel": "Meinerzhagen: Tagesbaustelle auf der A45 bei Lengelscheid heute, am 25.11.2026 - News.de",
+   "t": "Auf der A45 bei Lengelscheid in Meinerzhagen gibt es eine Tagesbaustelle.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQcmYwT1ZHbU9CdXNuSV9pWWVoNFdTQ2NFaWhSZmtuTWdmSmt0bGdRbml1SHl0c0E5a1pvZUR3QmZVbkFGZ2FNWFZFU0V1WlNiZ21DWDVETVZVeU1CZmVzU2diNDlhalVvX0U4RE9hZlFGS3VTTHRac2I4NDVteXFVWm9RT3FjMWYtUEVJWFNjRFBsSVFiR0NMWVFQN0dlNXJuLXJJUTZ4Ukx4LWJQeHIxazFWMDhkaWktdXN1aFhUSkNndXpWRG5oVTNaMThobmE4aXlRbWFpa2x5YlJhNHhMVm1DTWNMMnZwVVFlUGdBMnM0ZnJHZkZ4OVJEZE5xSml2dVpGbTFhMXhFX2RtLUIzcXJJbUFPUGJxYXJXYlpSS0JoOVB1NGhDQzhqVV9JVlNwZ0RsdFFJQWxSNGxQYzNOT2kyYU41V0VNOHBSc3ZXcmVYbzB5TjEteV9XQ3FKajZJZ3l0Q2ZnTWI?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-25T10:01:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "85e2c46a62b80d30",
+   "k": "deutschland",
+   "titel": "Kerzen dürften deutlich teurer werden",
+   "t": "Hersteller rechnen laut Bericht mit Preissteigerungen von 30 bis 50 Prozent bei Adventskerzen.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-25T09:40:38+00:00",
    "tag": null
   },
   {
@@ -2071,6 +2565,19 @@
    "link": "https://nypost.com/2026/11/24/us-news/federal-grand-jury-empaneled-in-ilhan-omar-case/",
    "quelle": "New York Post Politik",
    "zeit": "2026-11-25T04:14:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "944ec36d4f342549",
+   "k": "deutschland",
+   "titel": "Keine schnelle Lösung bei Gewalt gegen Frauen",
+   "t": "Zum Orange Day wird betont, dass Strafverschärfungen und Gesetzesänderungen angestoßen sind, schnelle Lösungen gegen Gewalt an Frauen aber nicht in Sicht sind.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-25T04:00:11+00:00",
    "tag": null
   },
   {
@@ -3309,6 +3816,32 @@
    "tag": null
   },
   {
+   "id": "0fe583e05a753b78",
+   "k": "trading",
+   "titel": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
+   "t": "Nvidia hat Jensen Huang wieder als CEO eingesetzt, zugleich betreffen US-Chipbeschränkungen das KI-Ökosystem.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-24T12:36:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5df02ff5bae665f3",
+   "k": "welt",
+   "titel": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia",
+   "t": "Russische Militärflugzeuge haben mehrfach den Luftraum von US-Verbündeten in Asien verletzt oder berührt, Japan und Südkorea schickten Abfangjäger.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-24T12:23:00+00:00",
+   "tag": null
+  },
+  {
    "id": "380db22eadf71646",
    "k": "trading",
    "titel": "Börsen in Turbulenzen: Eine Blase platzt selten schnell",
@@ -4165,97 +4698,6 @@
    "quelle": "ChartMill",
    "zeit": "2026-11-23T23:08:21+00:00",
    "tag": null
-  },
-  {
-   "id": "8940fbe80f34b51b",
-   "k": "trading",
-   "titel": "HPE delivers quarterly results beat, raises guidance; stocks slips after big rally - Investing.com",
-   "t": "HPE hat die Quartalszahlen übertroffen und die Prognose angehoben, die Aktie gab nach einer starken Vorwoche dennoch nach.",
-   "e": "",
-   "tk": "HPE",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXZ3MGViMWJlRURXZjNFYWZUYzNweFV2WUU0aHJ5WkhzcFV1WjJ5czdKRkt4dEpPTGV6TzA3NjNYMThoaldmMWFIeFNGdHl4RmFSZndRaHZyRXY5eU5jeHREMHN2OFZmYVBaYjZaUm1SV3JOMmtsM1dISVl0d0ZtS2szNWpMSFhqcW1UeTRuNm5wSi1LNFlGOVk5ZzNXUDgyMGVZVWJkZXN5RWRwX2RHdkNHX2V2YUU?oc=5",
-   "quelle": "Investing.com",
-   "zeit": "2026-11-23T22:47:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "0870eeeaa0ad8307",
-   "k": "usa",
-   "titel": "Democratic Lawmaker to Quit After Allegation of Sexual Misconduct",
-   "t": "Ein demokratischer Abgeordneter tritt nach einem Vorwurf sexuellen Fehlverhaltens zurück, der Ethikausschuss sah laut Bericht erhebliche Belege.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-23T22:29:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fbce9eea0ad529b8",
-   "k": "trading",
-   "titel": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
-   "t": "Grayscale bezeichnet Bitcoin und große Altcoins als überverkauft. Der Bärenmarkt sei laut Grayscale der längste bisher erfasste.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
-   "quelle": "The Block",
-   "zeit": "2026-11-23T22:18:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "206d2682df8f7ba2",
-   "k": "trading",
-   "titel": "wall street: Anthropic kann vom Huang-Hype nicht profitieren",
-   "t": "Der Börsenneuling Anthropic verliert, während Nasdaq-Werte im Huang-Comeback teils zweistellig zulegen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/boerse-anthropic-kann-vom-hype-um-huangs-nvidia-rueckkehr-nicht-profitieren-201710953.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-23T22:00:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "1273406ed2c615c0",
-   "k": "trading",
-   "titel": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-   "t": "Konsumwerte wie Kroger und Tyson Foods zählten am Montag zu den größten Verlierern im S&P 500, während Nvidia kräftig zulegte.",
-   "e": "",
-   "tk": "KR,TSN",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-23T21:45:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "271c2ac613cfe871",
-   "k": "usa",
-   "titel": "Dem lawmaker to resign after report says he made 'unwelcome' sexual advances toward staffer",
-   "t": "Der demokratische Abgeordnete Jimmy Gomez kündigt nach einem Ethikbericht seinen Rücktritt an, dem unerwünschte sexuelle Annäherungen gegenüber einer Mitarbeiterin vorgeworfen werden.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-23T21:06:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "17bae0dcc0a1c3ed",
-   "k": "trading",
-   "titel": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-   "t": "US-Behörden wollen rund 1,1 Milliarden Dollar in Krypto zurückholen, die beim Binance-Hack mit Nordkorea-Bezug gestohlen wurden. Dabei geht es um beschlagnahmtes USDC.",
-   "e": "",
-   "tk": "USDC",
-   "s": 6,
-   "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-23T21:04:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4273,7 +4715,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -4293,12 +4735,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -4318,7 +4760,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "CNBC Finance",
@@ -4333,12 +4775,12 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 33
+    "n": 30
    },
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Fox News Politik",
@@ -4363,7 +4805,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "The Block",
@@ -4384,7 +4826,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -4399,9 +4841,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -4411,7 +4852,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 27
+    "n": 25
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4421,12 +4862,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 35
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 23
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -4435,19 +4876,20 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 11
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
