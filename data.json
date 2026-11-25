@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-25T19:01:54.388854+00:00",
+ "aktualisiert": "2026-11-25T21:01:40.664367+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.694 $",
-   "delta": -0.22892321829400442
+   "wert": "60.225 $",
+   "delta": 0.9109266714336133
   },
   {
    "name": "Ethereum",
-   "wert": "1.680 $",
-   "delta": 0.19160169143959657
+   "wert": "1.688 $",
+   "delta": 0.9144375376527998
   },
   {
    "name": "Gold",
-   "wert": "3.570 $",
-   "delta": 0.21337201675009076
+   "wert": "3.603 $",
+   "delta": 1.1594963022142801
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.178",
-   "delta": -0.3249486432988946
+   "wert": "7.183",
+   "delta": -0.2527373514968123
   },
   {
    "name": "Nasdaq-100",
-   "wert": "25.949",
-   "delta": -1.0101594773520794
+   "wert": "26.047",
+   "delta": -0.6381049728964139
   },
   {
    "name": "DAX",
@@ -70,33 +70,33 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,82",
-   "delta": 5.5386925487213245
+   "wert": "28,34",
+   "delta": 7.511378390753487
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,84 %",
+   "wert": "4,85 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.694 $",
-   "delta": -0.22892321829400442
+   "wert": "60.225 $",
+   "delta": 0.9109266714336133
   },
   {
    "name": "Ethereum",
-   "wert": "1.680 $",
-   "delta": 0.19160169143959657
+   "wert": "1.688 $",
+   "delta": 0.9144375376527998
   },
   {
    "name": "Solana",
-   "wert": "70 $",
-   "delta": 0.7678050396949986
+   "wert": "71 $",
+   "delta": 1.749466316385632
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,78 $",
-   "delta": 2.1084666470406965
+   "wert": "84,10 $",
+   "delta": 2.4984727263800632
   },
   {
    "name": "EUR/USD",
@@ -136,6 +136,487 @@
   ]
  },
  "items": [
+  {
+   "id": "73ecb62e87ae2a54",
+   "k": "trading",
+   "titel": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+   "t": "Der Mining-Anbieter Braiins meldet \"Hashrate Hijacking\": Ein Angreifer leitet Rechenleistung über unverschlüsselte Verbindungen um und stiehlt Bitcoin-Mining-Belohnungen, über 1.000 Standorte in einer Sekunde betroffen.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T20:36:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "fd54bd4fc95dbf23",
+   "k": "trading",
+   "titel": "Markets Touch Record Highs Before Reversing As Chipmaker Selloff Drags Down S&P 500 And Nasdaq - Foreign Policy Journal",
+   "t": "Die Märkte erreichen kurz Rekordstände und drehen dann ins Minus, weil der Ausverkauf bei Chipwerten S&P 500 und Nasdaq nach unten zieht.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGsyeGsxWkJwRlZCZ2pDZ0JVNUY3VHFsdXdtN2N4UHZGZ1BGYWJqLS1BaVJtSjlwVC1wVmNCNUlVVUxDRWFZWDdnV19GRFh1SzhSZVlveUpyb1dLWHltd2FIcjJkek81bkpIbnJhTFd0MWNtbE9TVGg5Q1NQa1hJM2M2cE9ud1dFc1RTSTRtdzUyaUF3NGVDWVBfUWpreV9WeWl0Mi1RUVBSTXNMNnZod3ZBMWN0UFRQS0VLUlVfSm9oUV9oUko5cEZqRGtqV0RrenhDSnJpVmZEZw?oc=5",
+   "quelle": "Foreign Policy Journal",
+   "zeit": "2026-11-25T20:33:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "bc807cc0ccc79b6c",
+   "k": "finanzen",
+   "titel": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
+   "t": "Das Beige Book der Fed meldet für die US-Wirtschaft ein leichtes bis moderates Wachstum. Gleichzeitig bleibt die Inflation hartnäckig, und die Notenbanker zeigen sich zunehmend besorgt.",
+   "e": "Die Einschätzung stützt die Erwartung einer restriktiven Fed-Haltung vor der Dezember-Sitzung.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T20:24:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "878122a7a4b1f97b",
+   "k": "trading",
+   "titel": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor - Bitcoin Magazine",
+   "t": "Der Gesetzentwurf für eine strategische Bitcoin-Reserve passiert einen Ausschuss des US-Repräsentantenhauses und geht an das Plenum.",
+   "e": "Eine staatliche Bitcoin-Reserve wäre ein regulatorischer Schritt mit möglichen Auswirkungen auf die Nachfrage.",
+   "tk": "BTC",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWxleFpSeVk1OE9WUTRPOEd5YTNxMG5BeHBNVlpiblVxNHRGcG5tRlpuUzlJaDdYWkhCZ0s5ZzBtOU5qMENSdWFGU2pwYVZjZ1lnajY4TS0tQ0VZTDlPQTBwREg0TlpYYXRILUJxelVXVHNNQXMxdmtJaDIzY1pRNA?oc=5",
+   "quelle": "Bitcoin Magazine",
+   "zeit": "2026-11-25T19:53:48+00:00",
+   "tag": null
+  },
+  {
+   "id": "b8e65de04b89ed80",
+   "k": "welt",
+   "titel": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "t": "Die US-Telekomaufsicht FCC genehmigt SpaceX den Einsatz von bis zu einer Million Rechenzentrums-Satelliten im Orbit. Amazon hatte sich gegen den Antrag ausgesprochen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T19:52:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "1e8864975fa989cc",
+   "k": "trading",
+   "titel": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
+   "t": "Die Ratingagentur S&P droht Nvidia nach Führungswirren mit einer Herabstufung und sieht Schwächen in der Unternehmensführung.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 6,
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T19:51:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "ff9e360c24e82724",
+   "k": "welt",
+   "titel": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
+   "t": "Israelische Richter empfehlen, den Bestechungsvorwurf gegen Ministerpräsident Netanjahu fallen zu lassen. Netanjahu muss sich weiterhin wegen Betrugs und Untreue vor Gericht verantworten.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T19:50:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "542c164820b24981",
+   "k": "trading",
+   "titel": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+   "t": "Die Nvidia-Aktie steuert auf einen \"Death Cross\" zu, den ersten seit März 2025, da der Kurs weiter schwach tendiert.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T19:43:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "39ad580dc94773ed",
+   "k": "welt",
+   "titel": "Ein Krater, so gross wie ein Fussballfeld: Die Raumsonde Hera fotografiert die Narben auf dem Asteroiden Dimorphos",
+   "t": "Die ESA-Raumsonde Hera hat Bilder des Asteroiden Dimorphos veröffentlicht, auf denen ein Krater von der Größe eines Fußballfelds zu sehen ist. Vier Jahre nach dem gezielten Einschlag einer NASA-Sonde zeigen die Aufnahmen das Ausmaß der Zerstörung.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.nzz.ch/wissenschaft/ein-krater-so-gross-wie-ein-fussballfeld-die-raumsonde-hera-fotografiert-die-narben-auf-dem-asteroiden-dimorphos-ld.10073156",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T19:39:34+00:00",
+   "tag": null
+  },
+  {
+   "id": "7b6b3f78a654393e",
+   "k": "finanzen",
+   "titel": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+   "t": "Die Fed erklärt, die Inflation habe sich nicht verbessert. Vor der Dezember-Sitzung wird über eine mögliche Zinserhöhung in den USA diskutiert.",
+   "e": "Eine Zinserhöhung im Dezember wäre eine Wende und würde Aktien-, Krypto- und Anleihemärkte direkt betreffen.",
+   "tk": "",
+   "s": 7,
+   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T19:39:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b3f8cc0c2a8b06a3",
+   "k": "trading",
+   "titel": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+   "t": "Fidelity beantragt bei der SEC einen Spot-Chainlink-ETF mit geplanter Notierung an der Nasdaq.",
+   "e": "Ein Spot-ETF auf Chainlink wäre ein institutioneller Zugang zu einem großen Oracle-Netzwerk-Token.",
+   "tk": "LINK",
+   "s": 6,
+   "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T19:32:42+00:00",
+   "tag": null
+  },
+  {
+   "id": "a9cfc36e05be2016",
+   "k": "welt",
+   "titel": "„Die mentale Integrität muss erhalten bleiben“",
+   "t": "Ethikrat-Mitglied Aldo Faisal warnt bei Gehirn-Chip-Schnittstellen vor Abhängigkeiten und ausländischer Einflussnahme abseits medizinischer Anwendungen.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.welt.de/videos/video6b0733ea0d5af5eba2d36724/neurotechnologie-die-mentale-integritaet-muss-erhalten-bleiben.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-25T19:31:11+00:00",
+   "tag": null
+  },
+  {
+   "id": "a950039c7000522d",
+   "k": "nrw",
+   "titel": "Nordrhein-Westfalen: Bombe wird in Dortmund entschärft - n-tv.de",
+   "t": "In Dortmund wird eine Bombe entschärft. Betroffene Bereiche werden für die Entschärfung geräumt.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVRlZVI5OXdGZ2JaLTUwVEFBTEY5LWcyeUtUbWxpOFBiUnlseFpQN0loNVZFdElJTFotYWU1TnpCMm84dVNXNHo1cUZXN1BQTDBMRGNCdmtEWFU5WkJFVjlEbE9GSDJsc0RBOHpSdDZlWlVZZFkxNjc0RGhiSFllYkVFX2FQWkNRVDBLbGxLNHd6UnItZlBfMVZ4STc5cDYzSnpR?oc=5",
+   "quelle": "n-tv.de",
+   "zeit": "2026-11-25T19:29:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "76699ec43e3258b2",
+   "k": "trading",
+   "titel": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+   "t": "Nvidia will in einem Sammelklage-Verfahren 290 Millionen Dollar zahlen. Der Vorwurf: Der Konzern habe verschwiegen, wie viel Gaming-Umsatz 2017 und 2018 von Krypto-Minern stammte.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T19:28:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "f8dcee28a2865dc7",
+   "k": "trading",
+   "titel": "Bitcoin: CFTC-Staff erlaubt Bitcoin und Ether als Betriebsreserve von Terminbörsen, 20 Prozent Abschlag – wird Krypto zur anerkannten Sicherheit? - AktienCheck.de",
+   "t": "Die US-Terminbörsenaufsicht CFTC erlaubt Terminbörsen, Bitcoin und Ether als Betriebsreserve zu halten, mit einem Abschlag von 20 Prozent.",
+   "e": "Die Anerkennung von Krypto als Sicherheit könnte den institutionellen Zugang zu Kryptomärkten erleichtern.",
+   "tk": "BTC,ETH",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU9vLTVyV2VRaHhZNDRnMS1CTDJVSmZUTlFqOUlsUHlHN1NTeU9ET2xiSXZWSVlQRnItTVRtWFVqQW9UNmt4cjlfYTNJWkd2d3VuaDMxYnBlS3ZLZ1lyNmI0VURQOTcxcVpZN2lHUHpkbWgzYnRwcHlycmZCYjhpcGpYZGJzb0FYeUZCYVEyaWdSVUhvWmFFMHlzM3R2SGE4?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T19:26:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "8bb09de850b81992",
+   "k": "trading",
+   "titel": "Galaxy Digital Aktie: Research nimmt Bitcoin-Boden-Call zurück, 58.525 Dollar als Schlüsselmarke – wie tief kann Bitcoin laut Galaxy noch fallen? - AktienCheck.de",
+   "t": "Galaxy Digital nimmt seine Prognose eines Bitcoin-Bodens zurück und nennt 58.525 Dollar als Schlüsselmarke.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1ZnV0pubXFPNldURG4yR1ExZjE3ZjYwUnNnZkc0Q2MtbGxwWjJ5SXpWeFRJd3dEdERCY0IweVhwcUFtMHQwTnZWNFJncGtyTVdVNFJlR2JJZDBmMk5FOHc0YzBXNXVTcm14R1JtNXFIOEtTRklOSDZNeElfZmtrMHUtcHhmRlRyNVBLZUdqMlN6OE4xQXZLNTE0V2VSQmVoUGJHNVI4alRfLXVYYlRN?oc=5",
+   "quelle": "AktienCheck.de",
+   "zeit": "2026-11-25T19:26:20+00:00",
+   "tag": null
+  },
+  {
+   "id": "41091010b439c3be",
+   "k": "welt",
+   "titel": "NATO boss says Ukraine ‘doing exceptionally well’ in war, as Trump admin sidelines plan to do business with Russia",
+   "t": "NATO-Generalsekretär Rutte bewertet die Lage der Ukraine im Krieg mit Russland als \"außergewöhnlich gut\". Berichten zufolge lässt die US-Regierung Pläne für Geschäfte mit Russland fallen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://nypost.com/2026/11/25/us-news/nato-boss-says-ukraine-doing-exceptionally-well-in-war-as-trump-admin-drops-plans-to-do-business-with-russia/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-25T19:25:40+00:00",
+   "tag": null
+  },
+  {
+   "id": "5d19c362f2eb93f2",
+   "k": "finanzen",
+   "titel": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+   "t": "Die Verkäufe neu gebauter Häuser in den USA erreichen im Oktober ein Jahreshoch, Bauträger bieten Rabatte und günstige Hypotheken an.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T19:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2150c757e97fa10",
+   "k": "trading",
+   "titel": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
+   "t": "Nvidia-Vorstände werden untersucht und sind bereits in einer Aktionärsklage als Beklagte benannt, der Vorwurf lautet mangelnde Aufsicht.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
+   "quelle": "CNBC Investing",
+   "zeit": "2026-11-25T19:16:24+00:00",
+   "tag": null
+  },
+  {
+   "id": "16624b3524e17359",
+   "k": "welt",
+   "titel": "News, Politik: Kushner kritisiert ukrainische Forderungen nach Sicherheitsgarantien - tixio - Nachrichten",
+   "t": "Jared Kushner kritisiert ukrainische Forderungen nach Sicherheitsgarantien.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWtNRXJjU1pTblpaYW02M0RLeWg2LVdiN01HTGQzOGJmbmtpNzhGR1NWMnJKczQ4X2pIR1Z0eFR5UVQ1Yjk3ZDJpWmpjTXpBeHlGS1M0WjQtYjBGbWJsOWhreE9uWk0yOUJTUExmdTVYZzB6cjZOWnl5YTUyM1pQMGJrVDFyb0RzRk5ybDNjcUJzNTBPUkJpNnhGTk5YNTItaXhINQ?oc=5",
+   "quelle": "tixio - Nachrichten",
+   "zeit": "2026-11-25T19:05:14+00:00",
+   "tag": null
+  },
+  {
+   "id": "3230be1336879672",
+   "k": "deutschland",
+   "titel": "„Respekt-Rente“ – Jetzt macht die Union der SPD ein neues Angebot im Reform-Streit",
+   "t": "Unionsabgeordnete schlagen einen Kompromiss im Streit um die Rente mit 63 vor: Eine \"Respekt-Rente\" soll Geringverdienern nach 45 Beitragsjahren weiterhin eine abschlagsfreie Frühverrentung ermöglichen. Die SPD soll damit zu einer Einigung bewegt werden.",
+   "e": "Die Reform der Alterssicherung ist einer der zentralen Konfliktpunkte zwischen Union und SPD im Haushalts- und Reformstreit.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.welt.de/politik/article6b071e5cbb5effe8198cd777/respekt-rente-jetzt-macht-die-union-der-spd-ein-neues-angebot-im-reformstreit.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-25T19:03:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "bdc43d85741ba79e",
+   "k": "trading",
+   "titel": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+   "t": "Die Ethereum Foundation setzt auf Keccak-256 als Schutz gegen Quanten- und KI-Bedrohungen, vor einem der größten Sicherheitsumbauten seit dem Merge.",
+   "e": "",
+   "tk": "ETH",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T18:54:51+00:00",
+   "tag": null
+  },
+  {
+   "id": "d56d784a77393253",
+   "k": "trading",
+   "titel": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+   "t": "Der französische Senat blockiert eine neue Krypto-Steuer und eine Liste von Wallets, die Kritiker als Entführungsrisiko bezeichnen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T18:24:47+00:00",
+   "tag": null
+  },
+  {
+   "id": "21c5556dbd5e0d64",
+   "k": "trading",
+   "titel": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
+   "t": "Das US-Justizministerium kündigt nach einer Anweisung Trumps seine \"größte jemals\" Offensive gegen Krypto-Betrugserlöse an.",
+   "e": "Die Beschlagnahmung von Krypto-Erlösen könnte den Markt für betroffene Coins und Börsen beeinflussen.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T18:05:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "1eca9970cb0959a9",
+   "k": "finanzen",
+   "titel": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+   "t": "Die US-Inflation steigt im Oktober auf 3,8 Prozent, die Kerninflation liegt über den Erwartungen. Die Märkte rechnen vor der Fed-Sitzung im Dezember mit einer Zinserhöhung.",
+   "e": "Die höhere Inflation erhöht den Druck auf die Fed und belastet damit die Erwartungen für risikoreiche Anlagen wie Krypto.",
+   "tk": "",
+   "s": 7,
+   "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T17:53:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "a789f667ba83f7d1",
+   "k": "trading",
+   "titel": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+   "t": "Krypto-Veteranen rechnen mit weiteren Verlusten, nachdem Bitcoin stark gefallen ist.",
+   "e": "",
+   "tk": "BTC",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T17:38:33+00:00",
+   "tag": null
+  },
+  {
+   "id": "809d32fd8f008ad2",
+   "k": "trading",
+   "titel": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+   "t": "Bitcoin fällt Richtung 57.000 Dollar, belastet durch Zolldrohungen und einen heißeren PCE-Inflationsbericht, während der Nasdaq um 4 Prozent sinkt.",
+   "e": "Der Kursrückgang der Tech-Aktien geht mit Bitcoin einher, was die Korrelation zwischen beiden Märkten zeigt.",
+   "tk": "BTC",
+   "s": 7,
+   "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T17:33:22+00:00",
+   "tag": null
+  },
+  {
+   "id": "a12570182e01b4e0",
+   "k": "usa",
+   "titel": "Trump droht mit neuen Zöllen wegen Überkapazitäten – doch die EU will die USA lieber als Verbündete gegen China",
+   "t": "Trump droht mit neuen Zöllen wegen Überkapazitäten, vor allem im Zusammenhang mit China. Die EU sieht die Drohungen nach Angaben der NZZ derzeit weniger ernst.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.nzz.ch/wirtschaft/trump-droht-mit-neuen-zoellen-wegen-ueberkapazitaeten-doch-die-eu-will-die-usa-lieber-als-verbuendete-gegen-china-ld.10074714",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T17:23:05+00:00",
+   "tag": null
+  },
+  {
+   "id": "b4cb92a2c20b2fc7",
+   "k": "usa",
+   "titel": "Historisches Wahldebakel für Donald Trump: US-Demokraten holen bestes Ergebnis seit 36 Jahren - Frankfurter Rundschau",
+   "t": "Die US-Demokraten erzielen bei den Zwischenwahlen das beste Ergebnis seit 36 Jahren, unter anderem mit einer großen Mehrheit im Repräsentantenhaus.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1VVdWpTX3FtN1UtQ1Q5MWNhS0o4akk3ZGFVblROVXF1RUE3dFBQYlkwcEpObkVIcEQyNGs4cDJTbG93R2JzaTkwMTIxREZwWUdISUc5RTdYWmIzV191cndSM2ZrS3ljUFYyZjlacGppM3haR2Z3cTh5bjFVNUpzc0c1VXNrdUdURk9ZZ3hpblNWSnRSY3BaMXNRSWV0NUtfOGc?oc=5",
+   "quelle": "Frankfurter Rundschau",
+   "zeit": "2026-11-25T17:08:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6945a1a14bf473c8",
+   "k": "welt",
+   "titel": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
+   "t": "Die EU und Großbritannien verhängen Kartellstrafen von insgesamt 630 Millionen Dollar gegen die drei größten Duftstoffkonzerne. Sie sollen sensible Preisinformationen ausgetauscht haben.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/business/eu-fines-fragrance-giants-firmenich-givaudan-iff-517-million-over-pricing-f61209c0?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-25T17:07:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "a06c319ae4cbae84",
+   "k": "finanzen",
+   "titel": "Ratssitzung: EZB-Rat diskutiert über höhere Mindestreserve für Banken",
+   "t": "Der EZB-Rat diskutiert über eine höhere Mindestreservepflicht für Banken. Ein Beschluss könnte am 16. Dezember fallen, die Banken zeigen sich laut Bericht stark beunruhigt.",
+   "e": "Höhere Mindestreserven entziehen Banken Liquidität und betreffen damit Kreditvergabe und Zinsmärkte im Euroraum.",
+   "tk": "",
+   "s": 7,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-diskutiert-hoehere-mindestreserve-fuer-banken-201716008.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-25T17:03:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "d1314fa3e08e3b78",
+   "k": "trading",
+   "titel": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+   "t": "Die europäische Bankenaufsicht EBA fordert von der EU-Kommission Regeln für Krypto-Firmen, die DeFi-Kredite anbieten.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T16:02:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "e22e0c3dfc91de9a",
+   "k": "nrw",
+   "titel": "Kita-Beiträge im MK: Neue Regeln ab August 2027 - Radio MK",
+   "t": "Im Märkischen Kreis gelten ab August 2027 neue Regeln für die Kita-Beiträge.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQUZHX0sxeHVCNzBlaGJYQUVvQzZJd1g2aEZLQzMwNWlIa0pMV0RZWXpMWHF3UTFxd2tjQ3dUQnppYld6X1o2SE9qYU83YWFuWlNvNXRiNWU2bmNyVW1uclJ5YjNlQ2d2djRoRTQyM3B4NGg1dGZmWGdjS3ZRRDhIdFAxZmtvamVqbFo5SDJLNA?oc=5",
+   "quelle": "Radio MK",
+   "zeit": "2026-11-25T15:08:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "66e25c5fcbeaec63",
+   "k": "nrw",
+   "titel": "Aus für Hunderte Bus-Fahrten? Stadt Iserlohn kritisiert Pläne des Kreises scharf - IKZ-Online",
+   "t": "Die Stadt Iserlohn kritisiert die Pläne des Märkischen Kreises scharf, die Hunderte Busfahrten streichen würden.",
+   "e": "Betroffen wären Busverbindungen im Kreisgebiet, die Stadt wirft dem Kreis eine unzureichende Abstimmung vor.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkVDZjh6ZUVzN3RyQjdNeW1CczU2QjRmQ3hqMTc3OW5JdmVjN0g5UmVfQVJYSFU3czgzUVA0aFhBT0hqMnhIa3hrbVcyNTlIMjF3TjlabmlVd1FuUS1XU3lEbEJseUFXOTBmaExfbWxKM19OMFNyaEZoM3J0QzNSWTJhc1B3dW04VEV1VmhVR2laNm9pMS1ISmowMlN1cjVfNDNLNUhIRENLbGpveWFVX2lmY3dtU19BbU5aYW4tWmxwRFZnRHZkbG9LTUFZWFo2SUI1UFhWYzRqbTJ0eGNN?oc=5",
+   "quelle": "IKZ-Online",
+   "zeit": "2026-11-25T15:00:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1935aac743e5d0ca",
+   "k": "finanzen",
+   "titel": "EU verlängert Staatshilfen bis 2027 – Unternehmen und Landwirte profitieren",
+   "t": "Die EU-Kommission verlängert die Möglichkeit staatlicher Hilfen für Unternehmen und Landwirte bis Juni 2027, um hohe Energiekosten abzufedern.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/article6b06ee6dc75e09cb88d15b5e/wegen-energiekrise-eu-verlaengert-staatshilfen-bis-2027-unternehmen-und-landwirte-profitieren.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T14:42:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "637d858078bca984",
+   "k": "deutschland",
+   "titel": "Discounter senken Butterpreis unter einen Euro",
+   "t": "Lidl und Aldi senken den Preis für ein Stück Butter unter einen Euro, was der Bauernverband als Belastung für Milchbauern kritisiert.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-25T14:01:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "e96a98f7d37cd0ad",
+   "k": "finanzen",
+   "titel": "Aus bei Oddo-BHF: Joachim Häger beendet seine operative Bankkarriere",
+   "t": "Joachim Häger beendet seine operative Bankkarriere bei Oddo-BHF, nur etwa neun Monate nach Übernahme einer neuen Aufgabe dort.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/joachim-haeger-verlaesst-oddo-bhf-und-beendet-bankkarriere-201716176.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-25T13:42:16+00:00",
+   "tag": null
+  },
   {
    "id": "a476e33d757180d3",
    "k": "welt",
@@ -345,6 +826,19 @@
    "tag": null
   },
   {
+   "id": "3c0270403a22e6ee",
+   "k": "trading",
+   "titel": "Musks nächster Deutschland-Coup",
+   "t": "Eine neu gegründete Tesla-Gesellschaft führt direkt zum Stammsitz eines schwäbischen Maschinenbauers, ein möglicher Einstieg wird diskutiert.",
+   "e": "",
+   "tk": "TSLA",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/article6b06c6fbcd4642ba2eb1851c/einstieg-bei-maschinenbauer-musks-naechster-deutschland-coup.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T12:08:21+00:00",
+   "tag": null
+  },
+  {
    "id": "b5cbe166f3f6f006",
    "k": "nrw",
    "titel": "Polizei-News Iserlohn, 25.11.26: Waghalsige Unfallflucht über Land und durchs Wasser - News.de",
@@ -488,6 +982,19 @@
    "tag": null
   },
   {
+   "id": "5d9f5fbacb5f20f3",
+   "k": "welt",
+   "titel": "„Nebel des Krieges“ – Microsoft ruft nach Outlook-Ausfall „Code Red“ aus",
+   "t": "Microsoft ruft nach einer weltweiten Outlook-Störung intern die höchste Alarmstufe \"Code Red\" aus und will sein Krisenmanagement überarbeiten.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.welt.de/wirtschaft/video6b06c8b3cd4642ba2eb18549/globale-it-probleme-nebel-des-krieges-microsoft-ruft-nach-outlook-ausfall-code-red-aus.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T11:41:01+00:00",
+   "tag": null
+  },
+  {
    "id": "7d983a65090f3727",
    "k": "nrw",
    "titel": "Nach Unfall im MK: Betrunkener Fahranfänger flieht durch zwei Bäche vor Polizei - Come-on",
@@ -537,6 +1044,19 @@
    "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
    "quelle": "Decrypt",
    "zeit": "2026-11-25T11:23:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "4f2d13e21fe2f99f",
+   "k": "usa",
+   "titel": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
+   "t": "Der Salvadorianer Abrego García hat die USA verlassen. Er war 2025 rechtswidrig in ein Gefängnis abgeschoben worden und wurde zum Symbol für die Migrationspolitik von Präsident Trump.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-25T11:19:15+00:00",
    "tag": null
   },
   {
@@ -1710,6 +2230,19 @@
    "tag": null
   },
   {
+   "id": "a42b9e82eb3d7443",
+   "k": "welt",
+   "titel": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+   "t": "Russland greift ukrainische Brücken an, die Ukraine schlägt zunehmend zurück, auch auf die Krim-Brücke. Beide Seiten gefährden damit Logistik und Versorgung.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+   "quelle": "Tagesschau Ausland",
+   "zeit": "2026-11-25T01:40:52+00:00",
+   "tag": null
+  },
+  {
    "id": "0d6cc1b78a68384e",
    "k": "usa",
    "titel": "Trump declares he’s ‘certainly not corrupt’ and hits out at ‘real’ grift in Minnesota, other Dem states",
@@ -2422,6 +2955,19 @@
    "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
    "quelle": "Decrypt",
    "zeit": "2026-11-24T18:36:03+00:00",
+   "tag": null
+  },
+  {
+   "id": "3bbd4827384133a7",
+   "k": "finanzen",
+   "titel": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "t": "Der Verbrauchervertrauensindex des Conference Board ist nach den Zwischenwahlen deutlich auf 103,3 gestiegen. Die Inflationssorgen bleiben jedoch bestehen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "quelle": "CNBC Markets",
+   "zeit": "2026-11-24T18:34:43+00:00",
    "tag": null
   },
   {
@@ -3710,71 +4256,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-23T21:04:03+00:00",
    "tag": null
-  },
-  {
-   "id": "9a29cf568c4d72d9",
-   "k": "trading",
-   "titel": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
-   "t": "Der Bitcoin-Kurs ist nach den Abflüssen aus US-Spot-ETFs im November auf Rekordniveau in Richtung 60.000 US-Dollar gefallen; die Abflüsse summieren sich auf 4,71 Milliarden US-Dollar.",
-   "e": "Rekordabflüsse aus ETFs sind ein zentraler Indikator für die Nachfrage institutioneller Anleger nach Bitcoin.",
-   "tk": "BTC",
-   "s": 7,
-   "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-23T20:48:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "df182038457b21ff",
-   "k": "trading",
-   "titel": "Kalshi secures temporary win in New York gambling law dispute",
-   "t": "Kalshi darf vorerst weiter in New York operieren, im Streit um sportbezogene Event-Verträge ist eine Anhörung im Januar angesetzt.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-23T20:38:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "038e1bdcf9547095",
-   "k": "trading",
-   "titel": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-   "t": "Nordkoreanische Akteure haben laut Elliptic rund 247 Millionen Dollar aus dem Binance-Hack über Bitcoin-Mixer geschleust.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-23T20:36:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "dfc79c03cbf21b78",
-   "k": "deutschland",
-   "titel": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
-   "t": "Die Finanzierung des Stromspar-Checks für Haushalte mit wenig Einkommen ist für drei weitere Jahre gesichert.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-23T20:11:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "53263b11560b9f01",
-   "k": "trading",
-   "titel": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-   "t": "Nvidia setzt Jensen Huang wieder als Chef ein, nachdem sein Rücktritt nur von kurzer Dauer war. Präsident Trump hat seinen Einfluss auf die Entscheidung öffentlich betont.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 7,
-   "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-23T19:07:24+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3787,17 +4268,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Welt",
@@ -3812,7 +4293,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -3837,7 +4318,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "CNBC Finance",
@@ -3882,7 +4363,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 32
+    "n": 33
    },
    {
     "name": "The Block",
@@ -3918,8 +4399,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -3929,7 +4411,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 19
+    "n": 27
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3939,12 +4421,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 23
    },
    {
     "name": "Google News NRW",
@@ -3953,13 +4435,14 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Google News Fed",
