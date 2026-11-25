@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-25T11:01:49.165894+00:00",
+ "aktualisiert": "2026-11-25T13:01:41.715801+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "124,08 €",
-   "delta": -0.38935690755868
+   "wert": "123,42 €",
+   "delta": -0.915186785262978
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,48 €",
-   "delta": -1.4726805144713029
+   "wert": "41,20 €",
+   "delta": -2.1377636739685846
   },
   {
    "name": "Deka S&P 500",
-   "wert": "135,66 €",
-   "delta": -0.15823590558170508
+   "wert": "134,10 €",
+   "delta": -1.3027122843869199
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "166,12 €",
-   "delta": -1.2131325033795992
+   "wert": "164,92 €",
+   "delta": -1.9267385772776646
   },
   {
    "name": "Deka DAX",
-   "wert": "218,35 €",
-   "delta": -0.06864988558352714
+   "wert": "217,65 €",
+   "delta": -0.3890160183066316
   },
   {
    "name": "Bitcoin",
-   "wert": "58.779 $",
-   "delta": -1.6104229264421361
+   "wert": "58.669 $",
+   "delta": -2.8337541752338917
   },
   {
    "name": "Ethereum",
-   "wert": "1.644 $",
-   "delta": -2.2633084002783677
+   "wert": "1.646 $",
+   "delta": -3.267407851835885
   },
   {
    "name": "Gold",
-   "wert": "3.559 $",
-   "delta": -0.09264444353359602
+   "wert": "3.544 $",
+   "delta": -0.5165755031926289
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.057",
-   "delta": 0.1563664136464027
+   "wert": "24.907",
+   "delta": -0.44148766203202516
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "29,25",
-   "delta": 10.96357861430981
+   "wert": "30,79",
+   "delta": 16.805763608020463
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.779 $",
-   "delta": -1.6104229264421361
+   "wert": "58.669 $",
+   "delta": -2.8337541752338917
   },
   {
    "name": "Ethereum",
-   "wert": "1.644 $",
-   "delta": -2.2633084002783677
+   "wert": "1.646 $",
+   "delta": -3.267407851835885
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -3.8177220644207943
+   "delta": -3.9487047328906497
   },
   {
    "name": "Rohöl WTI",
-   "wert": "81,14 $",
-   "delta": -1.1090835075091676
+   "wert": "82,21 $",
+   "delta": 0.1949993202818634
   },
   {
    "name": "EUR/USD",
@@ -136,6 +136,500 @@
   ]
  },
  "items": [
+  {
+   "id": "a476e33d757180d3",
+   "k": "welt",
+   "titel": "Osteuropa: Ukraine und Ungarn nähern sich diplomatisch an",
+   "t": "Der ukrainische Präsident Selenskyj und der ungarische Ministerpräsident Magyar haben nahe der gemeinsamen Grenze Volleyball gespielt. Magyar sagte der Ukraine humanitäre Unterstützung zu.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/video/politik/ukraine-krieg-ukraine-und-ungarn-naehern-sich-diplomatisch-an/100272652.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T12:53:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "b96a5ed2d4b284e5",
+   "k": "trading",
+   "titel": "Italiens UniCredit bringt sechsjähriges Bitcoin-Zertifikat mit Gewinnobergrenze von 65 % auf den Markt - Cryptonews.net",
+   "t": "Die italienische UniCredit bringt ein sechsjähriges Bitcoin-Zertifikat für Privatkunden mit Kapitalschutz und einer Gewinnobergrenze von 65 Prozent auf den Markt.",
+   "e": "",
+   "tk": "BTC",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jSUdXODllVTdselF2VkFzV0xET252NFBfVjFSZlZDbXpSWFM3WkxWMmN4VW8wc1lTbFdrN3FiSmluQW51X1hGcXdxN0taNDdfVDJESTlYR2hQckhN?oc=5",
+   "quelle": "Cryptonews.net",
+   "zeit": "2026-11-25T12:52:30+00:00",
+   "tag": null
+  },
+  {
+   "id": "d93171a5348bd5bc",
+   "k": "trading",
+   "titel": "Autobauer: Tarifverhandlungen bei Volkswagen von Protest begleitet",
+   "t": "Bei Volkswagen begleitet Protest die Tarifverhandlungen. Der Konzern begründet seine Sparpläne mit US-Zöllen, dem Einbruch in China und Wettbewerbsdruck.",
+   "e": "",
+   "tk": "VOW3",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/video/unternehmen/ein-protest-begleitet-die-tarifverhandlungen-bei-volkswagen/100272653.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T12:52:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "9ba43f2c0cf73df4",
+   "k": "deutschland",
+   "titel": "Deutschland: Berliner Linke schließt Vanessa Emde aus der Fraktion aus",
+   "t": "Die Linksfraktion im Berliner Abgeordnetenhaus hat Vanessa Emde mit 33 von 44 Stimmen aus der Fraktion ausgeschlossen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.handelsblatt.com/video/politik/deutschland-berliner-linke-schliesst-vanessa-emde-aus-der-fraktion-aus/100272659.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T12:51:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "cbb229409432e1a3",
+   "k": "deutschland",
+   "titel": "Friedrich Merz: „Wir werden aus Steuermitteln nicht mehr alles leisten können“",
+   "t": "Bundeskanzler Merz sagt, Deutschland werde aus Steuermitteln nicht mehr alles leisten können und sieht das Land in einer schwierigen Lage.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.handelsblatt.com/video/politik/friedrich-merz-wir-werden-aus-steuermitteln-nicht-mehr-alles-leisten-koennen/100272702.html",
+   "quelle": "Handelsblatt",
+   "zeit": "2026-11-25T12:50:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "f5d11549d31356a7",
+   "k": "trading",
+   "titel": "Nach Apple-Absprung: Samsung steigt bei AMS-Osram ein",
+   "t": "Samsung steigt mit 210 Millionen Euro bei AMS-Osram ein, nachdem Apple sich aus dem gemeinsamen Chipfabrik-Projekt in Malaysia zurückgezogen hatte.",
+   "e": "",
+   "tk": "AMS",
+   "s": 5,
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html",
+   "quelle": "Tagesschau Wirtschaft",
+   "zeit": "2026-11-25T12:45:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "63d3b91ac76de411",
+   "k": "usa",
+   "titel": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+   "t": "Nvidia hat den CEO Jensen Huang nach politischem Druck von Präsident Trump wieder eingesetzt. Im Kongress wächst die parteiübergreifende Kritik an den Verbindungen von Tech-Konzernen zur Regierung.",
+   "e": "Der Fall wirft Fragen zum politischen Einfluss großer Tech-Konzerne auf, die auch Nvidia-Aktionäre betreffen können.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T12:44:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "6d97991bb1db2daa",
+   "k": "trading",
+   "titel": "Earnings call transcript: GDS beats Q3 2026 estimates but shares fall premarket - Investing.com UK",
+   "t": "GDS hat im dritten Quartal 2026 die Erwartungen übertroffen, die Aktie gab vorbörslich dennoch nach.",
+   "e": "",
+   "tk": "GDS",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObzA1OFZhYk1BWDEyaGYyemF5cDBsNXJoOTBZOGZrTFdBdl9Yd3VQZnNBQjN2X3pKRWloWVp3V181bnNId2Q3OEw3SnRqQXMxeVZIQ3RaMWVkV3BZZGdRUi1vQ1o5UElpN0JxQUd0YWg1VlBGTTk3c0RDbkdRSWhZV3JONjRMdXZwRlkxd2ZhRWlzRmZrX2M3UUhVVURTV21QRi12Qy1SeG11aW5Ic3pkOEhPamowVFZpRDRmOFdnSmhhMDloYUtTbHJwMEQtak9CNXdJZmlR?oc=5",
+   "quelle": "Investing.com UK",
+   "zeit": "2026-11-25T12:44:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "6ad26c52d77fe629",
+   "k": "deutschland",
+   "titel": "Linken-Abgeordnete blockieren Bundestagsveranstaltung mit Ex-Mossad-Chef",
+   "t": "Zwei Linken-Abgeordnete haben den Zugang zu einer Bundestagsveranstaltung mit dem früheren Mossad-Chef David Barnea blockiert. Der Ältestenrat soll sich mit dem Vorfall befassen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.welt.de/politik/deutschland/article6b06c4ecd4a4a3142c572fe6/bundestag-linke-abgeordnete-blockieren-veranstaltung-mit-ex-mossad-chef.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-25T12:37:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "abb1a27af99ad92a",
+   "k": "deutschland",
+   "titel": "„Herr Merz, warum schaffen Sie Deutschland ab?“ – Malermeister schreibt Brandbrief",
+   "t": "Ein 36-jähriger Malermeister aus NRW hat einen Brandbrief an Bundeskanzler Merz geschrieben, der unter Abgeordneten kursiert. Er kritisiert die Wirtschaftspolitik deutlich.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.welt.de/politik/deutschland/article6b06c4e2366061b7ba3e50ef/nrw-herr-merz-warum-schaffen-sie-deutschland-ab-malermeister-schreibt-brandbrief.html",
+   "quelle": "Welt",
+   "zeit": "2026-11-25T12:31:59+00:00",
+   "tag": null
+  },
+  {
+   "id": "c18ac09018e20d0a",
+   "k": "welt",
+   "titel": "Tote und Vermisste nach Überflutung in Goldmine",
+   "t": "In einer illegal betriebenen Goldmine in Indonesien sind Bergleute durch plötzlich eindringende Wassermassen eingeschlossen worden. Die Rettungsarbeiten laufen, bisher wurden drei Tote geborgen.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T12:31:45+00:00",
+   "tag": null
+  },
+  {
+   "id": "40c298da7ec27a43",
+   "k": "welt",
+   "titel": "Here’s how to find value in cybersecurity stocks after a strong year",
+   "t": "Russland und die Nato streiten über eine mögliche Blockade einer wichtigen Ostsee-Wasserstraße. Zwei nordische Regierungschefs suchten laut Bericht über einen Vermittler einen direkten Draht zu Putin.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T12:30:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "41209e3c7e9981ac",
+   "k": "finanzen",
+   "titel": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "t": "Die Nvidia-Turbulenzen erschweren die Lage von Fed-Chef Kevin Warsh, der Marktsignale lesen will.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T12:26:41+00:00",
+   "tag": null
+  },
+  {
+   "id": "7a719510730e0252",
+   "k": "welt",
+   "titel": "Knapp 12 000 Migranten in drei Wochen: so viele Menschen wie kaum zuvor erreichen die Kanarischen Inseln",
+   "t": "Auf den Kanarischen Inseln sind in drei Wochen knapp 12.000 Migranten angekommen, so viele wie kaum zuvor. Hunderte Boote erreichen die Inseln aus Westafrika.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T12:21:17+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2e7f11bd437b9b6",
+   "k": "finanzen",
+   "titel": "Kartenzahlung überholt erstmals Bargeld in Geschäften – EZB-Studie 2026 - Wirtschaft - SZ.de - SZ.de",
+   "t": "Laut EZB-Studie 2026 überholt die Kartenzahlung erstmals das Bargeld im Geschäftsverkehr.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFpnc0dOSUE3OEFkYnRLSHdRWkg2YkFpeDh6NmxLS3NFS2phME0tY2FGS2lRakJqbGNtOVpfdThFT3IwNXBKVVVhVDlFTjBMblA3VXhzdEdRdTFMMzFycGdrM3RYVkxZX3dJV1p1My03dmFXb19YMXl6R2dhYXZiQTlONGs3dUFwY1FGSWw0dnF0Nkk?oc=5",
+   "quelle": "SZ.de",
+   "zeit": "2026-11-25T12:19:31+00:00",
+   "tag": null
+  },
+  {
+   "id": "2c7d28b408346e3e",
+   "k": "trading",
+   "titel": "Nvidia, Anthropic and AMD Stocks Drop 5% & Nasdaq Futures Slide 2.4% - Coinpaper",
+   "t": "Nvidia, Anthropic und AMD verlieren rund 5 Prozent, die Nasdaq-Futures fallen um 2,4 Prozent.",
+   "e": "Der KI-Ausverkauf belastet Tech-Werte und ist ein Marktstimmungs-Treiber.",
+   "tk": "NVDA, AMD",
+   "s": 7,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2J0TE03eUpieWp3R3k4UHNMdWxXa0pPT3ZCQTc4QUNkYTQycENxR2FvWXpiTTU2eUV5RmRuVVFVbVkwb01wNjFaZ0MzN1pNT3pFMmxkSE93ZTlsekhMc1hScGhkeUlBMUVSUWNXRUNOQl82VVA0UnBzVWNORVRxZW9jc0F3ZzJPRFc4NkN2UWE4emRQMTdzOThaRQ?oc=5",
+   "quelle": "Coinpaper",
+   "zeit": "2026-11-25T12:14:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "b5cbe166f3f6f006",
+   "k": "nrw",
+   "titel": "Polizei-News Iserlohn, 25.11.26: Waghalsige Unfallflucht über Land und durchs Wasser - News.de",
+   "t": "Polizei Iserlohn meldet eine Unfallflucht über Land und durch ein Gewässer. Der Fahrer konnte zunächst entkommen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa0xTVi0yXzVaS2xlN2NkVEIwN1lsMFI0U0VlR1dKSHpqc241SlU0RWlteHBRYmtkcDJRbHhvQTA1V1l4c29mczdIeld3RUJCa2tIM1EtZ3ZXSXp4MmdMbFNaZ2FLSTFudWRUS1paXzZKN2otMzJ2ckNGRnhCMWdXOTlvaFFLVmlkZFN3WklRQWM5YlJMdmJfQVdsOVNmYVZiN0IwcjdEV29iV05oZkJZby1xSUNEOTg1ejlyWjgxT0FDUzhUOEZZZy05Qmw5Si1BWlJNVQ?oc=5",
+   "quelle": "News.de",
+   "zeit": "2026-11-25T12:05:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "dce80f28c4e60a6e",
+   "k": "nrw",
+   "titel": "Überwachungssoftware – NRW stoppt Vertrag mit Palantir und über­wacht nun mit Celonis - nd-aktuell.de",
+   "t": "NRW stoppt den Vertrag mit der Überwachungssoftware Palantir und setzt künftig auf Celonis.",
+   "e": "Die Entscheidung betrifft die Datenanalyse in NRW-Behörden und ist politisch umstritten.",
+   "tk": "",
+   "s": 6,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUhtY2VkNF84SHN1R3pQdDdRcXJFaDZtME9xdjdJU2dnLWg3X1hxTmxrckgxQWhXSE1MeVR6VC1nTDdGLUhLTENRbFlXS3ZNdDdtaF9BWmRQLWZ1SzBJVUllV09Gd2pyUUNGelJwLWRjWUFORnA2YzdYRGVGc0kzcWZ1M21BSEdJMHRyU0JHN1JvZzJWTzh3bmtEam1IbFJQM3RTUDdqeWp2cnlvVElmN1pyamNXUkJjbzg4dmIwLWsyZDZlZHJMN2ZORQ?oc=5",
+   "quelle": "nd-aktuell.de",
+   "zeit": "2026-11-25T12:03:16+00:00",
+   "tag": null
+  },
+  {
+   "id": "9de0957d72f816db",
+   "k": "trading",
+   "titel": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+   "t": "Ether und DeFi-Token verlieren stärker als Bitcoin, da der Ausverkauf an den Aktienmärkten weitergeht.",
+   "e": "",
+   "tk": "ETH, BTC",
+   "s": 5,
+   "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+   "quelle": "CoinDesk",
+   "zeit": "2026-11-25T11:57:50+00:00",
+   "tag": null
+  },
+  {
+   "id": "94b1ada768b4261b",
+   "k": "trading",
+   "titel": "Earnings call transcript: NewRiver REIT lifts H1 2027 dividend, shares ease premarket - Investing.com",
+   "t": "NewRiver REIT hebt die Dividende für das erste Halbjahr 2027 an, die Aktie gibt vorbörslich leicht nach.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUTVPdEhTRF9jZlRkaHZaSlZEazBHMXU5bm54bEQ0eUE4VkQ0VHozSWRsY3BzWW8zM05SdWJpSkVzMlhmc2M3cGxiUmZQU3d2eU9oT0Vnd2JkMEx0eV9UbGh6bkN3cE5IZ1lxelVsc0R2N0prejVWTU5Uc1FTWWF1V2xOOTFXZUZfRkp5UGx1UGRaSlJyTDJHenFpdUJjSVNmYUdUWFQ3NUlxbEZvOFg5Q0JDR3VFUDI3cUpwbXNhdk9rWEVnZi1TOXl4a1NVcWZ0dkNyNkN3?oc=5",
+   "quelle": "Investing.com",
+   "zeit": "2026-11-25T11:57:08+00:00",
+   "tag": null
+  },
+  {
+   "id": "77b7cefe83e71b3c",
+   "k": "trading",
+   "titel": "Soros verkauft NVIDIA-Aktien im dritten Quartal: Was wussten die Großanleger vor der Affäre? - Finanzen.net",
+   "t": "Investor George Soros hat seine NVIDIA-Aktien im dritten Quartal verkauft, wie aus Meldepflichten hervorgeht.",
+   "e": "",
+   "tk": "NVDA",
+   "s": 5,
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1NTR21Mc2V3RkVhMWRUeFZfNjFBdks5bzBMd05vN2RHWHFfQ0FJazFmWkp4a1dRRmlKZ1BVOXJlRmZGaFlmZ2FXUnlqTVBrV21sWFBaMzZLd0RqalBaaXdaU254ZlAxM1dBdlhoVW1RaW5mMVJvTkRoN0YwSTR6c1N1OU8wZWtNbktVLWVlRkk4WEFqbkoyWXhzOUtQTl9DT1ZiakxKRXdjdUo2bUxLTy11YjFXSExJOG5Wam1UZ2tudDQ1RThpQ193eUhGV3J0d2g3aFZUOXlRN1hYUElVb2lRN3lwUzU3bGQ5UFFCcV8zYXE0MWJwTXdRekhKdw?oc=5",
+   "quelle": "Finanzen.net",
+   "zeit": "2026-11-25T11:55:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "1f0627900a1e345c",
+   "k": "finanzen",
+   "titel": "Inflation: Jetzt übernehmen die Schuldensünder die EZB - WELT",
+   "t": "Die WELT analysiert, dass hochverschuldete Euro-Staaten mit ihren Anleihekäufen zunehmend Einfluss auf die EZB-Politik gewinnen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVFmY0ZudVd2Sjk5MGpUc2dwM2JRX3hEaUJ5MXRFMWNWdUFmd2VOekxnU2x4TngyVWVQb1BzV0RIREdBWHZleHRORUVIaGYxM2dRblQzSU1kX2poclprWmZLVXpfczEwZWdENy12YWJORWFESTNPbTF0SWZSbWxjZFg0N1VKQmwtSWNqLVZjTGFibUl1c2FCTVlVSVdvNnZReTJxbXg1ZVA4RVlfVm5oWVlFaC1yNUl4RVhTYw?oc=5",
+   "quelle": "WELT",
+   "zeit": "2026-11-25T11:54:53+00:00",
+   "tag": null
+  },
+  {
+   "id": "0d518fcb791e7fdd",
+   "k": "usa",
+   "titel": "Victoria Broderick unseats Rep. Scott DesJarlais, giving Democrats their largest House majority in 36 years",
+   "t": "Victoria Broderick hat Rep. Scott DesJarlais geschlagen. Die Demokraten erhalten damit mindestens 259 Sitze im Repräsentantenhaus, ihre größte Mehrheit seit 36 Jahren.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://nypost.com/2026/11/25/us-news/victoria-broderick-unseats-rep-scott-desjarlais-giving-democrats-their-largest-house-majority-in-36-years/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-25T11:52:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "cabb1eb64bf17a77",
+   "k": "trading",
+   "titel": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+   "t": "In Florida wurde ein Mann verurteilt, der mithilfe von KI den Streamer N3ON imitierte und Betreiber eines Meme-Coin-Projekts um 260.000 Dollar betrog.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T11:52:06+00:00",
+   "tag": null
+  },
+  {
+   "id": "649b2b5312b0c814",
+   "k": "finanzen",
+   "titel": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+   "t": "Die von der Fed bevorzugte Inflationskennziffer wurde veröffentlicht, eine Zinserhöhung im Dezember ist laut Marktpreisen bereits eingepreist.",
+   "e": "",
+   "tk": "",
+   "s": 7,
+   "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T11:49:54+00:00",
+   "tag": null
+  },
+  {
+   "id": "f2d0905a2ce0633a",
+   "k": "finanzen",
+   "titel": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
+   "t": "Der Euro ist gegenüber dem Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, getrieben vom KI-Boom in den USA.",
+   "e": "Der schwächere Euro verteuert Importe und verändert die Lage für exportierende Unternehmen und Sparer.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
+   "quelle": "Tagesschau",
+   "zeit": "2026-11-25T11:47:38+00:00",
+   "tag": null
+  },
+  {
+   "id": "6ed5811125ec2b2e",
+   "k": "welt",
+   "titel": "Wenn der Bismarckhering sauer aufstösst: So macht Jean-Luc Mélenchon die Germanophobie wieder salonfähig",
+   "t": "Der französische Linkspolitiker Mélenchon reist nach Berlin, nachdem er seit Jahren vor deutscher Vorherrschaft in Europa warnt.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://www.nzz.ch/international/warum-jean-luc-melenchon-deutschland-als-feindbild-sieht-ld.10073238",
+   "quelle": "NZZ",
+   "zeit": "2026-11-25T11:46:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "7d983a65090f3727",
+   "k": "nrw",
+   "titel": "Nach Unfall im MK: Betrunkener Fahranfänger flieht durch zwei Bäche vor Polizei - Come-on",
+   "t": "Im Märkischen Kreis flüchtete nach einem Unfall ein betrunkener Fahranfänger durch zwei Bäche vor der Polizei.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXFhenVTQzhiU2l1Ni01Nl9MdEV5OFpXRWhtYWxKZXBVVTlvRU5tVVAyNmdTejJ0YUJGNGhNZnVOZG5qbk5nUzFVNTVpT2E1OWczc09fRVlIUEg5SzBXZ2x1N2ZOU3dzXy1pcDdHaHprc0wtSmZCOEhFU1hwejdzT2NWYTV1Wjd1WmZKa1lsOEtldjBKa1Ezcmt4N1BxMnNmcUpqWmI1ajZBTTJLeUdHRlo3dw?oc=5",
+   "quelle": "Come-on",
+   "zeit": "2026-11-25T11:40:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "e075457909064692",
+   "k": "finanzen",
+   "titel": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+   "t": "Die Hongkonger Währungsbehörde HKMA startet eine Plattform für tokenisierte Schuldtitel mit 24-Stunden-Abwicklung in mehreren Währungen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T11:31:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "c2dc3e143235d826",
+   "k": "trading",
+   "titel": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+   "t": "JPMorgan-Strategen sehen den S&P 500 laut Bericht auf dem Weg zu 8.200 Punkten, die aktuellen Rücksetzer seien Teil des Weges.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+   "quelle": "MarketWatch",
+   "zeit": "2026-11-25T11:27:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "4316e03c9dffd238",
+   "k": "trading",
+   "titel": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+   "t": "Hyperliquid-Token HYPE verliert über 8 Prozent, nachdem Abraxas Capital sich aus Hyperliquid zurückgezogen hat. Bitcoin fiel unter 59.000 Dollar.",
+   "e": "",
+   "tk": "HYPE, BTC",
+   "s": 5,
+   "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+   "quelle": "Decrypt",
+   "zeit": "2026-11-25T11:23:57+00:00",
+   "tag": null
+  },
+  {
+   "id": "8e65ca3feddc5379",
+   "k": "trading",
+   "titel": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+   "t": "US-Spot-Bitcoin-ETFs verzeichneten im November Nettoabflüsse von 4,94 Milliarden Dollar, ein neuer Monatsrekord.",
+   "e": "Die Abflüsse sind der bisher größte Monatswert seit Zulassung der Produkte.",
+   "tk": "BTC",
+   "s": 6,
+   "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "quelle": "Cointelegraph",
+   "zeit": "2026-11-25T11:12:26+00:00",
+   "tag": null
+  },
+  {
+   "id": "8f4f4642a91f7710",
+   "k": "trading",
+   "titel": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
+   "t": "Die norwegische Billigfluglinie Norse Atlantic bricht um 77 Prozent ein, nachdem sie vor einer kritischen Finanzlage gewarnt hat.",
+   "e": "Die Kursbewegung hängt an der Finanzierung der kurzfristigen Liquidität.",
+   "tk": "NAS",
+   "s": 6,
+   "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+   "quelle": "CNBC",
+   "zeit": "2026-11-25T11:10:28+00:00",
+   "tag": null
+  },
+  {
+   "id": "9207ee7d33dcb64c",
+   "k": "trading",
+   "titel": "Aktie im Blick: Erste Group geht in Polen in die Vollen",
+   "t": "Die Erste Group übernimmt die frühere Santander Bank in Polen und baut damit ihre Stellung in Osteuropa aus. Integration und digitale Plattform stehen nun im Fokus.",
+   "e": "",
+   "tk": "EBS",
+   "s": 5,
+   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/erste-group-in-polen-rekordkauf-als-wachstumswette-auf-osteuropa-accg-201690750.html",
+   "quelle": "FAZ Finanzen",
+   "zeit": "2026-11-25T11:08:15+00:00",
+   "tag": null
+  },
+  {
+   "id": "96709aaeaeb8e865",
+   "k": "trading",
+   "titel": "K+S Aktie News: K+S am Mittag mit Kurseinbußen - Finanzen.net",
+   "t": "K+S verliert am Mittag an Wert, die Aktie notiert im Minus.",
+   "e": "",
+   "tk": "SDF",
+   "s": 3,
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclFEa0Y2UExSZ2J2R213ZDJjTmpZTUxxbWZQOGpVcEMyWkUtZmRxbVNQQTdBOEkzYWtXV2JjRFhOTVhfODhabUI4Mzd6MGdfTm1NUHBTOEY4dGZPbV9TQjZpYnFGR3Y0V0pFajE3MUp4a2o1aV9NTU00T2dHbjJFelRLb2djcTBtZk5WaQ?oc=5",
+   "quelle": "Finanzen.net",
+   "zeit": "2026-11-25T11:05:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "44e151fe0915be03",
+   "k": "usa",
+   "titel": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
+   "t": "Republikanische Abgeordnete im Repräsentantenhaus drängen Außenminister Marco Rubio zu einer Präsidentschaftskandidatur 2028. Im Umfeld Trumps gibt es Uneinigkeit über Vance.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.foxnews.com/politics/marco-rubios-2028-stock-surges-among-house-republicans-trump-insiders-split-vance",
+   "quelle": "Fox News Politik",
+   "zeit": "2026-11-25T11:00:37+00:00",
+   "tag": null
+  },
+  {
+   "id": "db4b24dc0e93174e",
+   "k": "trading",
+   "titel": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+   "t": "Die japanischen Finanzkonzerne SBI und SMFG gründen ein Solana-Joint-Venture für Stablecoin-Zahlungen und Tokenisierung.",
+   "e": "",
+   "tk": "SOL",
+   "s": 5,
+   "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+   "quelle": "The Block",
+   "zeit": "2026-11-25T10:23:10+00:00",
+   "tag": null
+  },
+  {
+   "id": "d99fe63dfdaffee7",
+   "k": "welt",
+   "titel": "EU Lays out Plan to Boost Quantum Technology",
+   "t": "Die EU legt einen Plan zur Stärkung der Quantentechnologie vor. Geplant ist unter anderem ein Sovereign Tech Equity Fund mit 55 Milliarden Dollar.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-boost-quantum-technology-6555b429?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-25T10:04:00+00:00",
+   "tag": null
+  },
   {
    "id": "55fa32e502034587",
    "k": "trading",
@@ -990,6 +1484,19 @@
    "tk": "",
    "s": 6,
    "link": "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
+   "quelle": "Welt Wirtschaft",
+   "zeit": "2026-11-25T05:02:43+00:00",
+   "tag": null
+  },
+  {
+   "id": "3f6ddc700e90d7ee",
+   "k": "welt",
+   "titel": "Putins Atombombe im All und das 98-Prozent-Szenario",
+   "t": "Westliche Geheimdienste warnen, dass Russland noch in diesem Jahr einen Atomsprengkopf im Orbit platzieren könnte.",
+   "e": "Eine Detonation im All hätte laut Berichten verheerende Folgen für Satelliten und Infrastruktur.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-25T05:02:43+00:00",
    "tag": null
@@ -1892,6 +2399,19 @@
    "tag": null
   },
   {
+   "id": "772bd797da0980cf",
+   "k": "deutschland",
+   "titel": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
+   "t": "Per Mail verschickte Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
+   "e": "Die Polizei geht von einer koordinierten Aktion aus, nicht von Einzelfällen.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-24T18:39:01+00:00",
+   "tag": null
+  },
+  {
    "id": "b1d5282cedc6e40f",
    "k": "trading",
    "titel": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
@@ -1957,6 +2477,19 @@
    "tag": null
   },
   {
+   "id": "a9fb8b3c6cd040f4",
+   "k": "welt",
+   "titel": "I Went Inside Chornobyl as Ukraine Races to Secure It",
+   "t": "Ukrainische Ingenieure und Streitkräfte arbeiten daran, die Strahlung im Atomkraftwerk Tschernobyl einzudämmen.",
+   "e": "",
+   "tk": "",
+   "s": 4,
+   "link": "https://www.wsj.com/world/i-went-inside-chornobyl-as-ukraine-races-to-secure-it-08d719cd?mod=rss_worldnews",
+   "quelle": "WSJ Welt",
+   "zeit": "2026-11-24T17:08:00+00:00",
+   "tag": null
+  },
+  {
    "id": "5d1b4886d8278a63",
    "k": "trading",
    "titel": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
@@ -1967,6 +2500,19 @@
    "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
    "quelle": "The Block",
    "zeit": "2026-11-24T17:00:02+00:00",
+   "tag": null
+  },
+  {
+   "id": "059a5e833333fc1c",
+   "k": "usa",
+   "titel": "Legal fight over 20,000 California ballots ends as appeals court OKs DOJ dismissal",
+   "t": "Ein Berufungsgericht hat das Justizministerium-Verfahren zu 20.000 Stimmzetteln in Kalifornien bestätigt, der Rechtsstreit ist damit beendet.",
+   "e": "",
+   "tk": "",
+   "s": 3,
+   "link": "https://nypost.com/2026/11/24/us-news/fight-over-20k-california-ballots-ends-as-court-oks-doj-dismissal/",
+   "quelle": "New York Post Politik",
+   "zeit": "2026-11-24T16:35:35+00:00",
    "tag": null
   },
   {
@@ -2045,6 +2591,19 @@
    "link": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T15:42:18+00:00",
+   "tag": null
+  },
+  {
+   "id": "71ce39ec3d62821e",
+   "k": "deutschland",
+   "titel": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
+   "t": "Geflüchtete müssen laut Bericht in deutschen Konsulaten bei Taliban-Vertretern vorsprechen, auf Anordnung deutscher Behörden. Seit 2024 gibt es Sammelabschiebungen nach Afghanistan.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-24T15:18:02+00:00",
    "tag": null
   },
   {
@@ -2139,6 +2698,19 @@
    "tag": null
   },
   {
+   "id": "7cb3bc64dba79e51",
+   "k": "deutschland",
+   "titel": "\"Zutiefst schockierend\" - Weiterer Anstieg bei Fällen von Gewalt gegen Frauen",
+   "t": "Das BKA meldet einen weiteren Anstieg bei Gewalt gegen Frauen: rund 198.000 Frauen und Mädchen wurden im vergangenen Jahr Opfer häuslicher Gewalt.",
+   "e": "",
+   "tk": "",
+   "s": 5,
+   "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-24T13:31:58+00:00",
+   "tag": null
+  },
+  {
    "id": "6f324cb1d5e171ef",
    "k": "welt",
    "titel": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
@@ -2175,6 +2747,19 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GY1RVTlZuZW45RTVLamIwMlAyUGJIRHFsLUxwMUxzdjhZRGdqbkY5YjI5SW5mYlZtSGpkQzZEclFtR2pxNFhiYjl3WGZndU1ST0RkTHpyNTZOOGFBaHR3cDRRXzhTcGhmaWVRbFNscjhJMDZEVjZZZnpNYWRsSjg?oc=5",
    "quelle": "meinestadt.de",
    "zeit": "2026-11-24T13:20:00+00:00",
+   "tag": null
+  },
+  {
+   "id": "5a2dab2305f24d49",
+   "k": "deutschland",
+   "titel": "Bundeshaushalt 2027: Klingbeil sieht \"wichtige Zukunftsinvestitionen\"",
+   "t": "Zu Beginn der Haushaltsberatungen verteidigt Finanzminister Klingbeil den geplanten Rekordetat 2027. Die Opposition übt harsche Kritik.",
+   "e": "Der Bundeshaushalt 2027 ist ein Rekordvolumen und ein zentrales politisches Streitthema.",
+   "tk": "",
+   "s": 6,
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html",
+   "quelle": "Tagesschau Inland",
+   "zeit": "2026-11-24T13:10:35+00:00",
    "tag": null
   },
   {
@@ -3879,32 +4464,6 @@
    "quelle": "CNBC Politik",
    "zeit": "2026-11-23T13:28:15+00:00",
    "tag": null
-  },
-  {
-   "id": "1d047c041854913d",
-   "k": "deutschland",
-   "titel": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-   "t": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Hubert Aiwanger soll Staatssekretär Tobias Gotthardt dessen Nachfolger werden. Der Landesverband der Freien Wähler wird künftig von einer Doppelspitze geführt.",
-   "e": "Ein Personalwechsel in der bayerischen Landesregierung mit Blick auf die Zukunft der Freien Wähler auf Landesebene.",
-   "tk": "",
-   "s": 7,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-23T12:17:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "86d4b4fc71547c14",
-   "k": "trading",
-   "titel": "The biggest money-making energy trade looks over. What to buy instead",
-   "t": "Der starke Anstieg bei Raffinerie-Aktien ist laut CNBC vorbei, Anleger suchen nach Alternativen im Energiesektor.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
-   "quelle": "CNBC Investing",
-   "zeit": "2026-11-23T12:00:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3917,17 +4476,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 15
+    "n": 17
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 22
+    "n": 25
    },
    {
     "name": "Welt",
@@ -3947,7 +4506,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "NZZ",
@@ -3967,12 +4526,12 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -4033,7 +4592,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -4058,9 +4617,8 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
+    "ok": true,
+    "n": 20
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4075,7 +4633,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -4090,12 +4648,13 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 24
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
