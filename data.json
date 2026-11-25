@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-25T08:22:25.098903+00:00",
+ "aktualisiert": "2026-11-25T08:24:59.565411+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "124,48 €",
-   "delta": -1.7095003359415606
+   "wert": "124,63 €",
+   "delta": -1.5910590204723518
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "41,72 €",
-   "delta": -4.627445726970258
+   "wert": "41,73 €",
+   "delta": -4.593151388864181
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.900 $",
-   "delta": -2.3486802198249572
+   "wert": "58.871 $",
+   "delta": -2.3827903130379453
   },
   {
    "name": "Ethereum",
-   "wert": "1.640 $",
-   "delta": -3.2934432180426825
+   "wert": "1.639 $",
+   "delta": -3.3151705175920294
   },
   {
    "name": "Gold",
-   "wert": "3.522 $",
-   "delta": -1.1342234046826105
+   "wert": "3.521 $",
+   "delta": -1.1510683474505234
   },
   {
    "name": "EZB Zins",
@@ -65,8 +65,8 @@
   },
   {
    "name": "DAX",
-   "wert": "25.014",
-   "delta": -0.015471165503266882
+   "wert": "25.032",
+   "delta": 0.05587800378776819
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.900 $",
-   "delta": -2.3486802198249572
+   "wert": "58.871 $",
+   "delta": -2.3827903130379453
   },
   {
    "name": "Ethereum",
-   "wert": "1.640 $",
-   "delta": -3.2934432180426825
+   "wert": "1.639 $",
+   "delta": -3.3151705175920294
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -5.072652547381674
+   "delta": -5.197434483144906
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,31 $",
-   "delta": -2.1206617757956736
+   "wert": "80,29 $",
+   "delta": -2.1450371557543813
   },
   {
    "name": "EUR/USD",
@@ -3656,7 +3656,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 15
+    "n": 34
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3671,7 +3671,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -3686,12 +3686,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 26
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 33
    }
   ],
   "markt": [],
