@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-25T08:16:42.556429+00:00",
+ "aktualisiert": "2026-11-25T08:20:37.094699+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "124,56 €",
-   "delta": 1.5075611924523669
+   "delta": -1.6423835905090112
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,10 €",
-   "delta": 2.7957468386122786
+   "wert": "41,78 €",
+   "delta": -4.478836928510555
   },
   {
    "name": "Deka S&P 500",
-   "wert": "135,87 €",
-   "delta": 1.5812455908027712
+   "wert": "135,66 €",
+   "delta": -1.9798433381790548
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "168,16 €",
-   "delta": 1.5213720234467987
+   "wert": "166,80 €",
+   "delta": -4.280956468492992
   },
   {
    "name": "Deka DAX",
-   "wert": "218,50 €",
-   "delta": 0.8306428597632864
+   "wert": "218,65 €",
+   "delta": -1.1974708609190698
   },
   {
    "name": "Bitcoin",
-   "wert": "58.844 $",
-   "delta": -2.251538339207484
+   "wert": "58.822 $",
+   "delta": -2.4275470212829435
   },
   {
    "name": "Ethereum",
    "wert": "1.640 $",
-   "delta": -3.254823459903512
+   "delta": -3.2692872289676296
   },
   {
    "name": "Gold",
-   "wert": "3.517 $",
-   "delta": -1.2717904372872013
+   "wert": "3.523 $",
+   "delta": -1.0808810859175733
   },
   {
    "name": "EZB Zins",
@@ -65,8 +65,8 @@
   },
   {
    "name": "DAX",
-   "wert": "25.018",
-   "delta": -1.2608285626672933
+   "wert": "25.044",
+   "delta": 0.10408366102305777
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "58.844 $",
-   "delta": -2.251538339207484
+   "wert": "58.822 $",
+   "delta": -2.4275470212829435
   },
   {
    "name": "Ethereum",
    "wert": "1.640 $",
-   "delta": -3.254823459903512
+   "delta": -3.2692872289676296
   },
   {
    "name": "Solana",
    "wert": "68 $",
-   "delta": -4.989880654073733
+   "delta": -5.053272138785062
   },
   {
    "name": "Rohöl WTI",
-   "wert": "80,31 $",
-   "delta": -2.1206617757956736
+   "wert": "80,29 $",
+   "delta": -2.1450371557543813
   },
   {
    "name": "EUR/USD",
@@ -3666,12 +3666,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 30
    },
    {
     "name": "Google News NRW",
@@ -3686,7 +3686,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 26
    },
    {
     "name": "Google News Fed",
