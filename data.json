@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T13:46:24.762628+00:00",
+ "aktualisiert": "2026-11-26T14:01:39.200304+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,83 €",
-   "delta": 2.9327570344248377
+   "wert": "125,82 €",
+   "delta": 2.9286667202172323
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,40 €",
-   "delta": 4.122978279746969
+   "wert": "42,43 €",
+   "delta": 4.19173549383669
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.837 $",
-   "delta": 4.496932664588404
+   "wert": "60.806 $",
+   "delta": 4.858316082019523
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.395336432717446
+   "wert": "1.702 $",
+   "delta": 4.453792341492598
   },
   {
    "name": "Gold",
-   "wert": "3.599 $",
-   "delta": 1.7902582243827458
+   "wert": "3.597 $",
+   "delta": 1.7223810829477992
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.171",
-   "delta": 1.8964725889111023
+   "wert": "25.210",
+   "delta": 2.0554467285250455
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,96",
-   "delta": -4.70131096672165
+   "wert": "26,88",
+   "delta": -4.984096394120108
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.837 $",
-   "delta": 4.496932664588404
+   "wert": "60.806 $",
+   "delta": 4.858316082019523
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.395336432717446
+   "wert": "1.702 $",
+   "delta": 4.453792341492598
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.983087152572282
+   "delta": 6.593837405021954
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,67 $",
-   "delta": 1.18307802487303
+   "wert": "84,49 $",
+   "delta": 0.9679728631335927
   },
   {
    "name": "EUR/USD",
@@ -4893,19 +4893,6 @@
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-24T14:05:35+00:00",
    "tag": null
-  },
-  {
-   "id": "0585f8491794647a",
-   "k": "trading",
-   "titel": "Nvidia hält die Märkte in Atem",
-   "t": "Nach der gestrigen Rally kommen an den Aktienmärkten Zweifel auf, die Rückkehr von Jensen Huang hat neue Fragen aufgeworfen.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-24T14:01:35+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4973,7 +4960,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 7
+    "n": 8
    },
    {
     "name": "MarketWatch",
@@ -5013,7 +5000,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 33
+    "n": 32
    },
    {
     "name": "The Block",
@@ -5075,7 +5062,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Google News NRW",
@@ -5090,7 +5077,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 18
    },
    {
     "name": "Google News Fed",
