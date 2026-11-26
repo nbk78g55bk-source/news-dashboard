@@ -1,40 +1,30 @@
 {
- "aktualisiert": "2026-11-26T22:46:26.455663+00:00",
+ "aktualisiert": "2026-11-26T23:01:39.955905+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "125,83 €",
-   "delta": 2.9327570344248377
+   "delta": 1.0115181101420845
   },
   {
    "name": "iShares MSCI EM",
    "wert": "42,40 €",
-   "delta": 4.110700205802376
+   "delta": 0.705466832882351
   },
   {
    "name": "Deka S&P 500",
    "wert": "137,15 €",
-   "delta": 3.1591954901612596
+   "delta": 0.9384006245917842
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "169,44 €",
-   "delta": 4.412127972986268
+   "delta": 0.7611776344050192
   },
   {
    "name": "Deka DAX",
    "wert": "220,40 €",
-   "delta": 2.17895369413732
-  },
-  {
-   "name": "Bitcoin",
-   "wert": "60.575 $",
-   "delta": 0.7244062141933709
-  },
-  {
-   "name": "Ethereum",
-   "wert": "1.696 $",
-   "delta": 0.6147322900980938
+   "delta": 0.8695652173912993
   },
   {
    "name": "Gold",
@@ -66,7 +56,7 @@
   {
    "name": "DAX",
    "wert": "25.216",
-   "delta": 2.078319249248728
+   "delta": 0.7902748034427587
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -77,21 +67,6 @@
    "name": "US 10J Rendite",
    "wert": "4,85 %",
    "delta": null
-  },
-  {
-   "name": "Bitcoin",
-   "wert": "60.575 $",
-   "delta": 0.7244062141933709
-  },
-  {
-   "name": "Ethereum",
-   "wert": "1.696 $",
-   "delta": 0.6147322900980938
-  },
-  {
-   "name": "Solana",
-   "wert": "71 $",
-   "delta": 1.0915453131528803
   },
   {
    "name": "Rohöl WTI",
@@ -4161,58 +4136,6 @@
    "quelle": "ChartMill",
    "zeit": "2026-11-24T23:03:09+00:00",
    "tag": null
-  },
-  {
-   "id": "e6259b1494cabeb1",
-   "k": "trading",
-   "titel": "Siemens Energy Aktie News: Siemens Energy am Dienstagnachmittag schwächer - Finanzen.net",
-   "t": "Siemens Energy notiert am Dienstagnachmittag schwächer.",
-   "e": "",
-   "tk": "ENR",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05YZEtTM3hOd1lVc3dseDlwc3o4enZ6ZXZHWnYydGJMbEVLT2paNldDZGhqeGZLRy0tR05taFZZaHYtVFZzanBzV2s4ZExZMFBuZU1uSHNfMlpnUXVuU0FhRzVJb3l5aDRVUWQzbVFGZlpQYmZtUXhnTFprelNZSHRDMGNKM2tjMmJoU281ZWpCeGU2Q09ldkVzTQ?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-24T23:01:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "3d9c75663ed7c442",
-   "k": "nrw",
-   "titel": "Energiepreise für NRW-Haushalte: Wenn die Gasrechnung plötzlich auf 2885 Euro steigt - RP Online",
-   "t": "Berichte über stark steigende Gasrechnungen für NRW-Haushalte, in einem Fall auf 2885 Euro.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWNYLTYwR09aTjlLdmRNTWdiN1NUaUwzYlJQc181TUowX3lpSEpDME03U2VTcEZmZjhya3RGbF9Zd1BEeDhzc2JrUzMySTA5b0s1MDNhbWRwN0dfalpGalN1Tmhoc1J4ajgzLVV2NUFUVTk4SFd1OTlZek5VZld2LVIxdV9wQzFPR1VvclhVUjBfWXVvWnRGSUZkc0lyUQ?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-24T23:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "22236ecb3801f536",
-   "k": "welt",
-   "titel": "Liveblog Ukrainekrieg: Lukaschenko möchte Selenskyj nach Moskau begleiten",
-   "t": "Im Ukraine-Liveblog kündigt Lukaschenko an, Selenskyj nach Moskau begleiten und für dessen Sicherheit garantieren zu wollen. Selenskyj sagt, die USA wollten bis Januar Frieden erreichen.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lukaschenko-koennte-selenskyj-nach-moskau-begleiten-faz-110683325.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-24T22:59:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "b530f275b17f806a",
-   "k": "trading",
-   "titel": "Turkey flees from Trump ahead of annual presidential pardon",
-   "t": "Nach einem Wallet-Abfluss von 2,57 Millionen US-Dollar ist der Meme-Coin Black Bull laut Berichten um 55 Prozent eingebrochen. Ansem bestreitet eine Beteiligung und kündigt eine Sicherheitsprüfung an.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-24T22:54:51+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4220,7 +4143,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -4295,7 +4218,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -4356,8 +4279,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -4367,12 +4291,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 36
+    "n": 38
    },
    {
     "name": "Google News Iserlohn",
@@ -4391,21 +4315,28 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 17
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 34
+    "n": 35
    }
   ],
-  "markt": [],
+  "markt": [
+   "Bitcoin: 'bitcoin'",
+   "Ethereum: 'ethereum'",
+   "Bitcoin: 'bitcoin'",
+   "Ethereum: 'ethereum'",
+   "Solana: 'solana'"
+  ],
   "briefing": null
  }
 }
