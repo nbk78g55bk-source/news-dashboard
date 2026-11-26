@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T20:46:20.768615+00:00",
+ "aktualisiert": "2026-11-26T21:01:38.675566+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.753 $",
-   "delta": 1.4755988555439101
+   "wert": "60.697 $",
+   "delta": 0.7980717732124301
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 1.384678084999207
+   "wert": "1.703 $",
+   "delta": 0.9289917638985636
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.753 $",
-   "delta": 1.4755988555439101
+   "wert": "60.697 $",
+   "delta": 0.7980717732124301
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 1.384678084999207
+   "wert": "1.703 $",
+   "delta": 0.9289917638985636
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.6779407537274311
+   "delta": 1.0449401224894204
   },
   {
    "name": "Rohöl WTI",
@@ -4460,45 +4460,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T21:16:02+00:00",
    "tag": null
-  },
-  {
-   "id": "af19a9bc8f8525be",
-   "k": "usa",
-   "titel": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
-   "t": "Die CIA wurde Ziel eines Cyberangriffs, bei dem unklassifizierte Daten in einem Netzwerk zur Analyse offener Quellen offenlagen. Klassifizierte Systeme seien nach Angaben nicht betroffen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/cia-hit-cyber-breach-exposed-unclassified-data-intelligence-analysis-network-sources",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-24T20:53:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "54660523431aa159",
-   "k": "trading",
-   "titel": "SEC staff gives Molecule no-action relief for scientific research tokens",
-   "t": "Die US-Börsenaufsicht SEC signalisiert, gegen Molecule wegen Nutzungstoken für Forschung nicht vorzugehen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
-   "quelle": "The Block",
-   "zeit": "2026-11-24T20:53:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "cc44c36a83f0c2de",
-   "k": "trading",
-   "titel": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-   "t": "Utah will die strafrechtliche Verfolgung von Kalshi einstellen, nachdem das Unternehmen dort den Betrieb eingestellt hat. Die Zivilklagen bleiben offen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-24T20:48:27+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4536,7 +4497,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -4566,7 +4527,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "MarketWatch",
@@ -4683,12 +4644,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 21
+    "n": 16
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 32
    }
   ],
   "markt": [],
