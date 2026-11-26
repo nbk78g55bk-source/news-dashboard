@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T20:31:31.332167+00:00",
+ "aktualisiert": "2026-11-26T20:46:20.768615+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.633 $",
-   "delta": 1.2502347703088863
+   "wert": "60.753 $",
+   "delta": 1.4755988555439101
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 1.2473151949393868
+   "wert": "1.704 $",
+   "delta": 1.384678084999207
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.633 $",
-   "delta": 1.2502347703088863
+   "wert": "60.753 $",
+   "delta": 1.4755988555439101
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 1.2473151949393868
+   "wert": "1.704 $",
+   "delta": 1.384678084999207
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.2709985856765318
+   "delta": 1.6779407537274311
   },
   {
    "name": "Rohöl WTI",
@@ -4499,32 +4499,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-24T20:48:27+00:00",
    "tag": null
-  },
-  {
-   "id": "527af39fbba63aac",
-   "k": "usa",
-   "titel": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-   "t": "Utah hat die Strafverfahren gegen die Gründer der Prognosemarkt-Plattform Kalshi fallen gelassen, nachdem das Unternehmen seine Tätigkeit im Bundesstaat eingestellt hatte.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-   "quelle": "CNBC Finance",
-   "zeit": "2026-11-24T20:45:57+00:00",
-   "tag": null
-  },
-  {
-   "id": "ac564b69812efd28",
-   "k": "trading",
-   "titel": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-   "t": "Die Ethereum Foundation hat ihr Sicherheitsteam verdoppelt und priorisiert eine kryptografische Überarbeitung wegen KI-Risiken.",
-   "e": "",
-   "tk": "ETH",
-   "s": 4,
-   "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T20:36:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4632,7 +4606,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "The Block",
@@ -4679,7 +4653,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "Google News Nasdaq Futures",
