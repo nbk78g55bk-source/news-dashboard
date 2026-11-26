@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T16:16:20.645641+00:00",
+ "aktualisiert": "2026-11-26T16:31:43.681314+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,94 €",
-   "delta": 3.0268342611997845
+   "wert": "125,96 €",
+   "delta": 3.043195518030206
   },
   {
    "name": "iShares MSCI EM",
    "wert": "42,45 €",
-   "delta": 4.235936560037246
+   "delta": 4.240847789615088
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.615 $",
-   "delta": 3.507230112421251
+   "wert": "60.390 $",
+   "delta": 3.0232435402634192
   },
   {
    "name": "Ethereum",
-   "wert": "1.691 $",
-   "delta": 2.498691571776498
+   "wert": "1.684 $",
+   "delta": 2.3886043171953477
   },
   {
    "name": "Gold",
-   "wert": "3.603 $",
-   "delta": 1.8920739365351658
+   "wert": "3.599 $",
+   "delta": 1.795914652835684
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.276",
-   "delta": 2.323885108912127
+   "wert": "25.264",
+   "delta": 2.274496657083991
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,61",
-   "delta": -5.938497211589889
+   "wert": "26,66",
+   "delta": -5.761756319465849
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.615 $",
-   "delta": 3.507230112421251
+   "wert": "60.390 $",
+   "delta": 3.0232435402634192
   },
   {
    "name": "Ethereum",
-   "wert": "1.691 $",
-   "delta": 2.498691571776498
+   "wert": "1.684 $",
+   "delta": 2.3886043171953477
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.731388925770317
+   "delta": 4.2768343947312735
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,93 $",
-   "delta": 1.4937854807188788
+   "wert": "85,10 $",
+   "delta": 1.696940355694987
   },
   {
    "name": "EUR/USD",
@@ -4763,45 +4763,6 @@
    "quelle": "Radio MK",
    "zeit": "2026-11-24T16:35:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5c345d83a8343d71",
-   "k": "nrw",
-   "titel": "Iserlohn: Liudmyla Yamchikova darf endlich in ihrem erlernten Beruf arbeiten - IKZ-Online",
-   "t": "In Iserlohn darf Liudmyla Yamchikova endlich in ihrem erlernten Beruf arbeiten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVlZ2NEdYbU5hVHV1RFV6a2lWMDZreTFKNXZtdWpQVGlLanBldTBBWXpPRnBWQkxEd1NZUzJya0pLTDVDQ010NWRScnktTXBBc2ZGVXlOeGN4ZUdGekppLWNiVEV0cUNBTGZwd3pMaVBvVl9PNFZ0NDhxNTFHWnc5R01HWGY2R0V3U240NzZIUWItVzN6SUpNSmZIdTBJZTJfbnp3UXR2V3hrc29SMVJBUkZBT0o2RHowckVmeFpfV2xrOV9ZdjgwNlMwR1c3LVZOcjJIV1RCUQ?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-24T16:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "c35cc713941726b3",
-   "k": "welt",
-   "titel": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
-   "t": "Der EGMR hat entschieden, dass Pushbacks an EU-Außengrenzen in Ausnahmefällen zulässig sind, wenn ein Drittstaat Migration gezielt als Druckmittel einsetzt. Besonders schutzbedürftige Menschen bleiben geschützt.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-24T16:24:25+00:00",
-   "tag": null
-  },
-  {
-   "id": "7475a9dcfc9aec85",
-   "k": "trading",
-   "titel": "Earnings call transcript: Analog Devices beats Q4 2026 estimates, shares slide - Investing.com",
-   "t": "Analog Devices übertrifft die Erwartungen im vierten Quartal, die Aktie gibt dennoch nach.",
-   "e": "",
-   "tk": "ADI",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2tPdHFGT1pxVFhPUjJmMGwyek1QZzVsUWdXRzhueWdYVnlTTHNBOHp2NGJnX1pYck1JeUczLUhObkJxNFVMUm1lVG1zQ3h1N2pHZTBsc0FMbFBRalNzQV8xb3kycU9LLWZLcFNaSVJhQlp0ajkxa19UUUxxUE9EaURGSDI1UHpOZmRwTlJnb1dnYzhpLURxd1lVYTF1cjZRM1Vpdzg2b2tQV2ZYUHNRQlhhR3dfcnBCVUpRQUQwTWFjLTZfT3VEcWItRjg?oc=5",
-   "quelle": "Investing.com",
-   "zeit": "2026-11-24T16:21:29+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4819,12 +4780,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 28
+    "n": 30
    },
    {
     "name": "Welt",
@@ -4839,7 +4800,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "FAZ Finanzen",
@@ -4869,7 +4830,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "MarketWatch",
@@ -4956,7 +4917,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4966,7 +4927,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 37
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -4980,13 +4941,15 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 21
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
