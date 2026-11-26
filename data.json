@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T11:01:48.020152+00:00",
+ "aktualisiert": "2026-11-26T11:16:23.859587+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "125,38 €",
-   "delta": 2.5687190699478224
+   "delta": 2.564628755740217
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,30 €",
-   "delta": 3.872505571277207
+   "wert": "42,25 €",
+   "delta": 3.7472692170423594
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.465 $",
-   "delta": 2.8162348888371973
+   "wert": "60.521 $",
+   "delta": 3.0668730367217405
   },
   {
    "name": "Ethereum",
-   "wert": "1.693 $",
-   "delta": 2.900905982551124
+   "wert": "1.695 $",
+   "delta": 3.0363872730106585
   },
   {
    "name": "Gold",
-   "wert": "3.586 $",
-   "delta": 1.4254185891699134
+   "wert": "3.587 $",
+   "delta": 1.4423878745286611
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.159",
-   "delta": 1.8514157472023562
+   "wert": "25.146",
+   "delta": 1.7965216974655362
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,47",
-   "delta": -2.8985538670565303
+   "wert": "27,50",
+   "delta": -2.7925093317821004
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.465 $",
-   "delta": 2.8162348888371973
+   "wert": "60.521 $",
+   "delta": 3.0668730367217405
   },
   {
    "name": "Ethereum",
-   "wert": "1.693 $",
-   "delta": 2.900905982551124
+   "wert": "1.695 $",
+   "delta": 3.0363872730106585
   },
   {
    "name": "Solana",
-   "wert": "70 $",
-   "delta": 4.07207142515527
+   "wert": "71 $",
+   "delta": 4.195299101300123
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,22 $",
-   "delta": 0.6453151205244589
+   "wert": "84,46 $",
+   "delta": 0.9321220028436938
   },
   {
    "name": "EUR/USD",
@@ -5088,19 +5088,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-24T11:49:57+00:00",
    "tag": null
-  },
-  {
-   "id": "803ed1a494db03d7",
-   "k": "finanzen",
-   "titel": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January",
-   "t": "China verlängert die Aussetzung einiger Exportbeschränkungen für kritische Rohstoffe in die USA bis Januar, kurz nach dem Gipfel zwischen Trump und Xi in Shenzhen.",
-   "e": "Die Verlängerung wirkt als Entspannungssignal im Handelsstreit zwischen den USA und China.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T11:13:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5118,12 +5105,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 23
+    "n": 26
    },
    {
     "name": "Welt",
@@ -5138,7 +5125,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -5163,7 +5150,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "CNBC Finance",
@@ -5178,7 +5165,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "WSJ USA",
@@ -5224,7 +5211,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "CNBC Investing",
@@ -5255,7 +5242,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 13
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5264,9 +5251,8 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -5286,7 +5272,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "Google News Fed",
