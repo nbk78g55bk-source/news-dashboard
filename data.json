@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-26T09:31:37.924444+00:00",
+ "aktualisiert": "2026-11-26T09:46:19.062072+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "125,50 €",
-   "delta": 0.7465961870238846
+   "delta": 2.6627962967227914
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,44 €",
-   "delta": 0.8052293068069538
+   "wert": "42,37 €",
+   "delta": 4.054221065657249
   },
   {
    "name": "Deka S&P 500",
    "wert": "136,54 €",
-   "delta": 0.49312203348106376
+   "delta": 2.704120108109054
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "168,88 €",
-   "delta": 0.4281614665859079
+   "delta": 4.0670453970604425
   },
   {
    "name": "Deka DAX",
    "wert": "220,25 €",
-   "delta": 0.8009153318077722
+   "delta": 2.1094126639462196
   },
   {
    "name": "Bitcoin",
-   "wert": "60.699 $",
-   "delta": 3.136698088367874
+   "wert": "60.897 $",
+   "delta": 3.48222802225931
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 3.656670978504157
+   "wert": "1.703 $",
+   "delta": 4.0263890653855485
   },
   {
    "name": "Gold",
-   "wert": "3.600 $",
-   "delta": 1.829853223553135
+   "wert": "3.602 $",
+   "delta": 1.883589293855814
   },
   {
    "name": "EZB Zins",
@@ -65,8 +65,8 @@
   },
   {
    "name": "DAX",
-   "wert": "25.194",
-   "delta": 1.9894200359581227
+   "wert": "25.225",
+   "delta": 2.1147128707187823
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.699 $",
-   "delta": 3.136698088367874
+   "wert": "60.897 $",
+   "delta": 3.48222802225931
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 3.656670978504157
+   "wert": "1.703 $",
+   "delta": 4.0263890653855485
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.130332941435698
+   "delta": 5.474466004703928
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,30 $",
-   "delta": -0.45411126169926375
+   "wert": "83,44 $",
+   "delta": -0.2868072470130434
   },
   {
    "name": "EUR/USD",
@@ -5333,7 +5333,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 18
+    "n": 11
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5343,7 +5343,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -5363,7 +5363,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 17
    },
    {
     "name": "Google News Fed",
