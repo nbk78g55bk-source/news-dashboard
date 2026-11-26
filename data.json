@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T10:01:38.065789+00:00",
+ "aktualisiert": "2026-11-26T10:16:20.283089+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,60 €",
-   "delta": 2.7486928950825273
+   "wert": "125,72 €",
+   "delta": 2.8468604360651018
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,38 €",
-   "delta": 4.059132295235068
+   "wert": "42,42 €",
+   "delta": 4.172090575525345
   },
   {
    "name": "Deka S&P 500",
@@ -18,8 +18,8 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "168,88 €",
-   "delta": 4.0670453970604425
+   "wert": "169,26 €",
+   "delta": 4.301208573581539
   },
   {
    "name": "Deka DAX",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.861 $",
-   "delta": 3.120088946157628
+   "wert": "60.882 $",
+   "delta": 3.3273866735546753
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 3.577080137007079
+   "wert": "1.703 $",
+   "delta": 3.6652690259597707
   },
   {
    "name": "Gold",
-   "wert": "3.602 $",
-   "delta": 1.8609635800441504
+   "wert": "3.601 $",
+   "delta": 1.838337866232509
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.216",
-   "delta": 2.0801409544391136
+   "wert": "25.246",
+   "delta": 2.199968673628616
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,00",
-   "delta": -4.559918253022433
+   "wert": "26,91",
+   "delta": -4.878051858845689
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.861 $",
-   "delta": 3.120088946157628
+   "wert": "60.882 $",
+   "delta": 3.3273866735546753
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 3.577080137007079
+   "wert": "1.703 $",
+   "delta": 3.6652690259597707
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.0346876360684245
+   "delta": 5.145957382569274
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,37 $",
-   "delta": -0.370459254356148
+   "wert": "83,56 $",
+   "delta": -0.14340380585342594
   },
   {
    "name": "EUR/USD",
@@ -5140,32 +5140,6 @@
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-24T10:24:46+00:00",
    "tag": null
-  },
-  {
-   "id": "8bb9e05e6bc5e970",
-   "k": "welt",
-   "titel": "Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.",
-   "t": "Bahrain leidet unter wiederholten Angriffen aus dem Iran und unter einer schwächelnden Wirtschaft, die mit seinen engen Verbindungen zu den USA zusammenhängt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T10:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d636f8f365762df0",
-   "k": "deutschland",
-   "titel": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
-   "t": "Der Bund kürzt den Gesundheitsetat um sechs Milliarden Euro, gesetzlich Versicherte warten bereits länger auf Facharzttermine.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T10:06:17+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5178,7 +5152,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Tagesschau Ausland",
@@ -5243,7 +5217,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -5320,7 +5294,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 17
+    "n": 14
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5335,7 +5309,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Google News NRW",
@@ -5350,7 +5324,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 25
    },
    {
     "name": "Google News Fed",
