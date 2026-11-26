@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T18:31:33.834903+00:00",
+ "aktualisiert": "2026-11-26T18:46:20.514523+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.633 $",
-   "delta": 1.7668489817592128
+   "wert": "60.573 $",
+   "delta": 1.605719324477525
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 1.250297132301768
+   "delta": 1.0786503654811739
   },
   {
    "name": "Gold",
-   "wert": "3.593 $",
-   "delta": 1.6177371565689214
+   "wert": "3.597 $",
+   "delta": 1.7195528687213413
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.633 $",
-   "delta": 1.7668489817592128
+   "wert": "60.573 $",
+   "delta": 1.605719324477525
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 1.250297132301768
+   "delta": 1.0786503654811739
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.7376213424542177
+   "delta": 2.1757712319019955
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,82 $",
-   "delta": 1.3623323263225462
+   "wert": "84,88 $",
+   "delta": 1.4340340469023438
   },
   {
    "name": "EUR/USD",
@@ -4616,45 +4616,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T18:55:27+00:00",
    "tag": null
-  },
-  {
-   "id": "772bd797da0980cf",
-   "k": "deutschland",
-   "titel": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-   "t": "Per Mail verschickte Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
-   "e": "Die Polizei geht von einer koordinierten Aktion aus, nicht von Einzelfällen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T18:39:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "b1d5282cedc6e40f",
-   "k": "trading",
-   "titel": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-   "t": "Südkorea will das ICO-Verbot von 2017 aufheben, inländische Projekte könnten wieder Token verkaufen, unter IPO-ähnlichen Offenlegungsregeln.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T18:36:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "3bbd4827384133a7",
-   "k": "finanzen",
-   "titel": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "t": "Der Verbrauchervertrauensindex des Conference Board ist nach den Zwischenwahlen deutlich auf 103,3 gestiegen. Die Inflationssorgen bleiben jedoch bestehen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-   "quelle": "CNBC Markets",
-   "zeit": "2026-11-24T18:34:43+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4667,7 +4628,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -4737,7 +4698,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -4762,7 +4723,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 32
+    "n": 31
    },
    {
     "name": "The Block",
@@ -4778,7 +4739,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "CNBC Investing",
@@ -4809,7 +4770,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 3
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4839,7 +4800,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Google News Fed",
