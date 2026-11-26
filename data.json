@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T18:01:57.717805+00:00",
+ "aktualisiert": "2026-11-26T18:16:22.858030+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.463 $",
-   "delta": 1.5883064767081945
+   "wert": "60.448 $",
+   "delta": 1.2181607228458096
   },
   {
    "name": "Ethereum",
-   "wert": "1.692 $",
-   "delta": 0.9542967857765738
+   "wert": "1.691 $",
+   "delta": 0.5990869534125463
   },
   {
    "name": "Gold",
-   "wert": "3.594 $",
-   "delta": 1.6545039415128748
+   "wert": "3.595 $",
+   "delta": 1.679957869550952
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.463 $",
-   "delta": 1.5883064767081945
+   "wert": "60.448 $",
+   "delta": 1.2181607228458096
   },
   {
    "name": "Ethereum",
-   "wert": "1.692 $",
-   "delta": 0.9542967857765738
+   "wert": "1.691 $",
+   "delta": 0.5990869534125463
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.4285167495896904
+   "delta": 1.9655630963857746
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,76 $",
-   "delta": 1.2906306057427486
+   "wert": "84,82 $",
+   "delta": 1.3623323263225462
   },
   {
    "name": "EUR/USD",
@@ -4668,32 +4668,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-24T18:22:04+00:00",
    "tag": null
-  },
-  {
-   "id": "53997e5117987a69",
-   "k": "trading",
-   "titel": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-   "t": "Fear-and-Greed-Indizes zeigen für Aktien und Krypto extreme Angst, nachdem die Nvidia-Erholung nachließ und Bitcoin unter 60.000 Dollar fiel.",
-   "e": "",
-   "tk": "BTC,NVDA",
-   "s": 5,
-   "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T18:16:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "4d1f439dbf451fc6",
-   "k": "usa",
-   "titel": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
-   "t": "Der Abgeordnete Raskin weitet seine Untersuchung zu 1789 Capital aus, der Investmentfirma von Trump Jr., unter anderem wegen Beteiligungen an Polymarket.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
-   "quelle": "The Block",
-   "zeit": "2026-11-24T18:05:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4756,7 +4730,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 11
+    "n": 12
    },
    {
     "name": "CNBC Finance",
@@ -4771,7 +4745,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 31
    },
    {
     "name": "WSJ USA",
