@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T20:01:41.169592+00:00",
+ "aktualisiert": "2026-11-26T20:16:28.518689+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.640 $",
-   "delta": 1.2387847861506187
+   "wert": "60.674 $",
+   "delta": 1.1850094266239384
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 1.1457172607254695
+   "wert": "1.702 $",
+   "delta": 1.100757211066516
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.640 $",
-   "delta": 1.2387847861506187
+   "wert": "60.674 $",
+   "delta": 1.1850094266239384
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 1.1457172607254695
+   "wert": "1.702 $",
+   "delta": 1.100757211066516
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.3443421029501512
+   "delta": 1.304320997230737
   },
   {
    "name": "Rohöl WTI",
@@ -4525,19 +4525,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T20:36:02+00:00",
    "tag": null
-  },
-  {
-   "id": "374476a8c091e3c5",
-   "k": "nrw",
-   "titel": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
-   "t": "In Plettenberg wird nach einem Raub an einer Unterführung nach Zeugen gesucht.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T20:09:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4615,7 +4602,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -4722,7 +4709,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 24
    },
    {
     "name": "Google News Fed",
