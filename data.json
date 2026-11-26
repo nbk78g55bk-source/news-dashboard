@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T10:46:19.284179+00:00",
+ "aktualisiert": "2026-11-26T11:01:48.020152+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,67 €",
-   "delta": 2.8059572939890254
+   "wert": "125,38 €",
+   "delta": 2.5687190699478224
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,38 €",
-   "delta": 4.073865983968572
+   "wert": "42,30 €",
+   "delta": 3.872505571277207
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.475 $",
-   "delta": 2.7142747619166467
+   "wert": "60.465 $",
+   "delta": 2.8162348888371973
   },
   {
    "name": "Ethereum",
    "wert": "1.693 $",
-   "delta": 3.001961390082165
+   "delta": 2.900905982551124
   },
   {
    "name": "Gold",
-   "wert": "3.584 $",
-   "delta": 1.3745107330937145
+   "wert": "3.586 $",
+   "delta": 1.4254185891699134
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.233",
-   "delta": 2.1471392231075637
+   "wert": "25.159",
+   "delta": 1.8514157472023562
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,00",
-   "delta": -4.559918253022433
+   "wert": "27,47",
+   "delta": -2.8985538670565303
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.475 $",
-   "delta": 2.7142747619166467
+   "wert": "60.465 $",
+   "delta": 2.8162348888371973
   },
   {
    "name": "Ethereum",
    "wert": "1.693 $",
-   "delta": 3.001961390082165
+   "delta": 2.900905982551124
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 4.3777178150464415
+   "wert": "70 $",
+   "delta": 4.07207142515527
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,71 $",
-   "delta": 0.035850495596090326
+   "wert": "84,22 $",
+   "delta": 0.6453151205244589
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-26T07:01:44.087291+00:00",
+  "slot": 12,
+  "stand": "2026-11-26T11:01:48.020128+00:00",
   "punkte": [
    {
     "k": "usa",
-    "t": "Die USA kündigen neue Sonderzölle von 15 Prozent auf betroffene EU-Produkte und 20 Prozent auf chinesische Waren an. Laut Medienberichten bereitet die Regierung zusätzlich weitere Zölle vor, nachdem der Supreme Court frühere Zölle als illegal eingestuft hat."
+    "t": "Die USA haben neue Sonderzölle von 15 Prozent auf betroffene EU-Produkte und von 20 Prozent auf chinesische Waren angekündigt. Laut Meldungen belasten die Zolldrohungen auch Bitcoin und die Aktienmärkte."
    },
    {
     "k": "finanzen",
-    "t": "Die US-Inflation steigt im Oktober auf 3,8 Prozent, der Kern-PCE auf 3,3 Prozent. Der Markt taxiert die Wahrscheinlichkeit einer Zinserhöhung der Fed im Dezember auf rund 98 Prozent, die Fed Funds liegen bei 3,88 %."
+    "t": "Im KI-Ausverkauf geraten Nasdaq-Werte wie Nvidia, AMD und Intel unter Druck, und die Nasdaq-Futures verlieren laut Meldung 2,4 Prozent. Die Marktdaten nennen Deka Nasdaq-100 169,34 €, Deka S&P 500 136,54 € und Deka DAX 220,25 €, Bitcoin 60.465 $ und Gold 3.586 $."
    },
    {
     "k": "finanzen",
-    "t": "Die EZB hält den Zins bei 2,50 %, der EZB-Rat hat die Entscheidung über eine doppelte Mindestreserve für Banken vertagt. Die Banken zeigen sich laut Bericht stark beunruhigt."
+    "t": "Die US-Inflation stieg im Oktober auf 3,8 Prozent, der Kern-PCE auf 3,3 Prozent. Am Markt wird eine Fed-Zinserhöhung im Dezember mit rund 98 Prozent Wahrscheinlichkeit gesehen; der Fed Funds liegt laut Marktdaten bei 3,88 %."
    },
    {
     "k": "finanzen",
-    "t": "Im KI-Ausverkauf geraten Nvidia, AMD und Intel unter Druck, der Nasdaq fällt laut Meldung um 4 Prozent. Der Deka DAX steht bei 215,70 €, der iShares MSCI World bei 122,24 €, der Deka Nasdaq-100 bei 162,28 €."
+    "t": "Der EZB-Zins liegt laut Marktdaten bei 2,50 %. Der EZB-Rat hat die Entscheidung über eine doppelte Mindestreserve für Banken vertagt, die Banken zeigen sich laut Bericht stark beunruhigt."
    },
    {
-    "k": "finanzen",
-    "t": "Bitcoin fällt laut Meldungen Richtung 57.000 Dollar, belastet durch Zolldrohungen und heißere Inflationsdaten. Die Marktdaten nennen zugleich 60.493 $ für Bitcoin, 1.686 $ für Ethereum und 3.598 $ für Gold."
+    "k": "welt",
+    "t": "Trump und NATO-Generalsekretär Rutte fordern nach einem Treffen in Mar-a-Lago, dass Russland jede Ausweitung des Kriegs in der Ukraine unterlässt."
    },
    {
     "k": "deutschland",
-    "t": "Die deutsche Wirtschaft ist im dritten Quartal laut aktualisierter Schätzung nur um 0,1 Prozent gewachsen, langsamer als erwartet."
+    "t": "Die SPD-Linke bringt sich für einen Machtkampf um die Neuausrichtung der Partei in Stellung und kritisiert Vizekanzler Klingbeil."
    }
   ]
  },
@@ -5101,19 +5101,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T11:13:00+00:00",
    "tag": null
-  },
-  {
-   "id": "48bde2b6a49fcb6a",
-   "k": "welt",
-   "titel": "„Es brennt lichterloh“ – Deutschlands Top-Verdiener verweigern den Konsum",
-   "t": "Die EU will die Versorgung mit Arzneimitteln sichern, weil Medikamente wie Antibiotika und Fiebersäfte in Europa immer wieder fehlen und die Abhängigkeit von Asien groß ist.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6b017eb65842ff528b9e2c93/es-brennt-lichterloh-deutschlands-top-verdiener-verweigern-den-konsum.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-24T10:48:11+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5156,7 +5143,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -5268,7 +5255,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 12
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5277,13 +5264,14 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 37
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "Google News NRW",
@@ -5298,7 +5286,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 25
+    "n": 11
    },
    {
     "name": "Google News Fed",
