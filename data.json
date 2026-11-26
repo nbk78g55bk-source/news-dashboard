@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T14:46:22.979780+00:00",
+ "aktualisiert": "2026-11-26T15:01:44.613730+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,61 €",
-   "delta": 2.756873523497738
+   "wert": "125,71 €",
+   "delta": 2.8386798076498687
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,37 €",
-   "delta": 4.032120532556971
+   "wert": "42,36 €",
+   "delta": 4.010019999456693
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.690 $",
-   "delta": 5.732141369779646
+   "wert": "60.692 $",
+   "delta": 4.348228815372641
   },
   {
    "name": "Ethereum",
-   "wert": "1.698 $",
-   "delta": 5.438075061186031
+   "wert": "1.697 $",
+   "delta": 3.2363236498198784
   },
   {
    "name": "Gold",
-   "wert": "3.611 $",
-   "delta": 2.1183310746516693
+   "wert": "3.603 $",
+   "delta": 1.8920739365351658
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.214",
-   "delta": 2.0701418170608
+   "wert": "25.241",
+   "delta": 2.182237409775567
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,03",
-   "delta": -4.453873717748003
+   "wert": "27,02",
+   "delta": -4.489221896172813
   },
   {
    "name": "US 10J Rendite",
@@ -80,27 +80,27 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.690 $",
-   "delta": 5.732141369779646
+   "wert": "60.692 $",
+   "delta": 4.348228815372641
   },
   {
    "name": "Ethereum",
-   "wert": "1.698 $",
-   "delta": 5.438075061186031
+   "wert": "1.697 $",
+   "delta": 3.2363236498198784
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 8.023124567400734
+   "delta": 5.519029490072815
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,70 $",
-   "delta": 1.2189288851629287
+   "wert": "84,57 $",
+   "delta": 1.0635751572400043
   },
   {
    "name": "EUR/USD",
-   "wert": "1,0935",
+   "wert": "1,0975",
    "delta": null
   }
  ],
@@ -4854,19 +4854,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T15:15:31+00:00",
    "tag": null
-  },
-  {
-   "id": "ada686cd951d5c71",
-   "k": "deutschland",
-   "titel": "Hamburgs Hafen verliert im laufenden Jahr an Ladung",
-   "t": "Der Hamburger Hafen verliert im laufenden Jahr Ladung, die Automatisierung der HHLA-Terminals und Infrastrukturprobleme setzen den größten deutschen Seehafen unter Druck.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/regionales/hamburg/article6b0593c6d4a4a3142c57113f/probleme-mit-verkehrswegen-hamburgs-hafen-verliert-im-laufenden-jahr-an-ladung.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-24T14:48:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4914,7 +4901,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -5036,7 +5023,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Google News NRW",
@@ -5051,12 +5038,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 22
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 39
    }
   ],
   "markt": [],
