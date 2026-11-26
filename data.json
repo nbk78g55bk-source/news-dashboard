@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-26T12:16:23.473904+00:00",
+ "aktualisiert": "2026-11-26T12:31:35.233336+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,64 €",
-   "delta": 2.781415408743393
+   "wert": "125,78 €",
+   "delta": 2.900034520763972
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,37 €",
-   "delta": 4.0443986065015425
+   "wert": "42,44 €",
+   "delta": 4.226114100881584
   },
   {
    "name": "Deka S&P 500",
-   "wert": "136,54 €",
-   "delta": 2.704120108109054
+   "wert": "137,00 €",
+   "delta": 3.046366883040874
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "168,86 €",
-   "delta": 4.054721019348806
+   "wert": "169,46 €",
+   "delta": 4.424452350697905
   },
   {
    "name": "Deka DAX",
-   "wert": "220,25 €",
-   "delta": 2.1094126639462196
+   "wert": "219,60 €",
+   "delta": 1.8080681997847403
   },
   {
    "name": "Bitcoin",
-   "wert": "60.591 $",
-   "delta": 3.562928491414991
+   "wert": "60.567 $",
+   "delta": 3.2974273338169215
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 3.6735223583974297
+   "delta": 3.3187849041698136
   },
   {
    "name": "Gold",
-   "wert": "3.598 $",
-   "delta": 1.7619760821181885
+   "wert": "3.594 $",
+   "delta": 1.6573321557393106
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.142",
-   "delta": 1.7812598562038984
+   "wert": "25.160",
+   "delta": 1.8542090284942692
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,97",
-   "delta": -4.665962788296851
+   "wert": "26,90",
+   "delta": -4.913400037270499
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.591 $",
-   "delta": 3.562928491414991
+   "wert": "60.567 $",
+   "delta": 3.2974273338169215
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 3.6735223583974297
+   "delta": 3.3187849041698136
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.699895947640432
+   "delta": 4.1390991375386985
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,28 $",
-   "delta": 0.7170168411042788
+   "wert": "84,57 $",
+   "delta": 1.0635751572400043
   },
   {
    "name": "EUR/USD",
@@ -5036,19 +5036,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T12:36:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5df02ff5bae665f3",
-   "k": "welt",
-   "titel": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia",
-   "t": "Russische Militärflugzeuge haben mehrfach den Luftraum von US-Verbündeten in Asien verletzt oder berührt, Japan und Südkorea schickten Abfangjäger.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T12:23:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5126,7 +5113,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -5156,7 +5143,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "The Block",
@@ -5203,7 +5190,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5213,7 +5200,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
