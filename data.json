@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T15:01:44.613730+00:00",
+ "aktualisiert": "2026-11-26T15:16:26.893264+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,71 €",
-   "delta": 2.8386798076498687
+   "wert": "125,79 €",
+   "delta": 2.9041248349716
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,36 €",
-   "delta": 4.010019999456693
+   "wert": "42,41 €",
+   "delta": 4.142623198058315
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.692 $",
-   "delta": 4.348228815372641
+   "wert": "60.197 $",
+   "delta": 3.907324197884275
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 3.2363236498198784
+   "wert": "1.678 $",
+   "delta": 2.745667152244741
   },
   {
    "name": "Gold",
-   "wert": "3.603 $",
-   "delta": 1.8920739365351658
+   "wert": "3.604 $",
+   "delta": 1.9175278645732874
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.241",
-   "delta": 2.182237409775567
+   "wert": "25.245",
+   "delta": 2.1965681572732487
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,02",
-   "delta": -4.489221896172813
+   "wert": "26,83",
+   "delta": -5.1608372862441465
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.692 $",
-   "delta": 4.348228815372641
+   "wert": "60.197 $",
+   "delta": 3.907324197884275
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 3.2363236498198784
+   "wert": "1.678 $",
+   "delta": 2.745667152244741
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 5.519029490072815
+   "wert": "70 $",
+   "delta": 5.04220575983012
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,57 $",
-   "delta": 1.0635751572400043
+   "wert": "84,66 $",
+   "delta": 1.171127738109723
   },
   {
    "name": "EUR/USD",
@@ -4841,19 +4841,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T15:18:02+00:00",
    "tag": null
-  },
-  {
-   "id": "1197989ab708077c",
-   "k": "deutschland",
-   "titel": "Taliban lassen Abschiebeflug verschieben",
-   "t": "Die Taliban haben einen für heute geplanten Abschiebeflug nach Kabul abgesagt, laut NDR-Informationen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T15:15:31+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4866,7 +4853,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Ausland",
@@ -4891,7 +4878,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -4936,7 +4923,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -4961,7 +4948,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "The Block",
@@ -5008,7 +4995,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5018,12 +5005,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 26
    },
    {
     "name": "Google News NRW",
@@ -5038,12 +5025,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 22
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 39
+    "n": 40
    }
   ],
   "markt": [],
