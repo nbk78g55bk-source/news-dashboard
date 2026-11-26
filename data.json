@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T19:01:40.627256+00:00",
+ "aktualisiert": "2026-11-26T19:16:18.362464+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.422 $",
-   "delta": 1.2625749908522357
+   "wert": "60.478 $",
+   "delta": 0.9627572066685233
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 1.1585927653145744
+   "wert": "1.700 $",
+   "delta": 0.9425363217601379
   },
   {
    "name": "Gold",
-   "wert": "3.596 $",
-   "delta": 1.691270726456784
+   "wert": "3.594 $",
+   "delta": 1.6601603699657685
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.422 $",
-   "delta": 1.2625749908522357
+   "wert": "60.478 $",
+   "delta": 0.9627572066685233
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 1.1585927653145744
+   "wert": "1.700 $",
+   "delta": 0.9425363217601379
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.156755030899314
+   "delta": 1.7743121333383443
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,92 $",
-   "delta": 1.4818351939555718
+   "wert": "84,97 $",
+   "delta": 1.5415866277720625
   },
   {
    "name": "EUR/USD",
@@ -4577,32 +4577,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-24T19:19:19+00:00",
    "tag": null
-  },
-  {
-   "id": "ee473422de23712a",
-   "k": "trading",
-   "titel": "Verbraucherschützer haben die smarte Brille im Blick",
-   "t": "Die EU-Polizeibehörde Europol hat Krypto-Zahlungen von über 28 Millionen US-Dollar im Umfeld illegaler IPTV-Dienste nachverfolgt.",
-   "e": "",
-   "tk": "BTC",
-   "s": 3,
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/smart-glasses-klage-verbraucherschutz-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-24T19:06:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "3ceff47f7700f69c",
-   "k": "trading",
-   "titel": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-   "t": "Coldcard erklärt, warum eine Schwachstelle in seiner Bitcoin-Wallet über fünf Jahre unentdeckt blieb, eine Entschädigung ist noch nicht festgelegt.",
-   "e": "",
-   "tk": "BTC",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-24T19:04:26+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4625,7 +4599,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "Welt",
@@ -4710,7 +4684,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "The Block",
@@ -4787,7 +4761,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Google News Fed",
