@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T17:01:46.326266+00:00",
+ "aktualisiert": "2026-11-26T17:16:17.205167+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.481 $",
-   "delta": 3.374933944712746
+   "wert": "60.519 $",
+   "delta": 2.206795947647232
   },
   {
    "name": "Ethereum",
-   "wert": "1.691 $",
-   "delta": 2.9072007290554676
+   "wert": "1.693 $",
+   "delta": 2.0353483197714834
   },
   {
    "name": "Gold",
-   "wert": "3.598 $",
-   "delta": 1.7704607247975623
+   "wert": "3.599 $",
+   "delta": 1.7846017959298521
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.481 $",
-   "delta": 3.374933944712746
+   "wert": "60.519 $",
+   "delta": 2.206795947647232
   },
   {
    "name": "Ethereum",
-   "wert": "1.691 $",
-   "delta": 2.9072007290554676
+   "wert": "1.693 $",
+   "delta": 2.0353483197714834
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.66542098294093
+   "delta": 3.626968238785328
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,62 $",
-   "delta": 1.123326591056517
+   "wert": "84,34 $",
+   "delta": 0.7887185616840764
   },
   {
    "name": "EUR/USD",
@@ -4711,19 +4711,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T17:43:03+00:00",
    "tag": null
-  },
-  {
-   "id": "a9fb8b3c6cd040f4",
-   "k": "welt",
-   "titel": "I Went Inside Chornobyl as Ukraine Races to Secure It",
-   "t": "Ukrainische Ingenieure und Streitkräfte arbeiten daran, die Strahlung im Atomkraftwerk Tschernobyl einzudämmen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.wsj.com/world/i-went-inside-chornobyl-as-ukraine-races-to-secure-it-08d719cd?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T17:08:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4771,7 +4758,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Handelsblatt",
@@ -4801,7 +4788,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "WSJ USA",
@@ -4887,14 +4874,13 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -4909,12 +4895,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 22
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 39
+    "n": 40
    }
   ],
   "markt": [],
