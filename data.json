@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T21:31:33.865125+00:00",
+ "aktualisiert": "2026-11-26T21:46:21.218993+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.837 $",
-   "delta": 0.887815349418663
+   "wert": "60.839 $",
+   "delta": 1.0130937540235463
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 0.8142818127683185
+   "wert": "1.706 $",
+   "delta": 1.112944301943602
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.837 $",
-   "delta": 0.887815349418663
+   "wert": "60.839 $",
+   "delta": 1.0130937540235463
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 0.8142818127683185
+   "wert": "1.706 $",
+   "delta": 1.112944301943602
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 1.1902368653868847
+   "wert": "72 $",
+   "delta": 1.2420980425500776
   },
   {
    "name": "Rohöl WTI",
@@ -4356,45 +4356,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-24T21:50:25+00:00",
    "tag": null
-  },
-  {
-   "id": "ba51d92909fec662",
-   "k": "trading",
-   "titel": "Anthropic’s stock just broke below its IPO price for the first time",
-   "t": "Die Anthropic-Aktie fällt erstmals unter ihren IPO-Preis von 83 Dollar, wenige Tage nach dem Börsendebüt an der Nasdaq.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-24T21:46:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "90d0d2dd7fd17b91",
-   "k": "usa",
-   "titel": "Obama judge's Omar warrant unsealing directly contradicts his own decision in Trump case, DOJ says",
-   "t": "Das US-Justizministerium wirft Richter Boasberg vor, mit der Freigabe von Durchsuchungsbefehlen im Fall der Abgeordneten Ilhan Omar seinem eigenen Urteil im Fall Trump zu widersprechen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/obama-judges-omar-warrant-unsealing-directly-contradicts-his-own-decision-trump-case",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-24T21:45:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "be1cb6496af0e9d5",
-   "k": "welt",
-   "titel": "USA: US-Gericht spricht Huawei wegen Betrugs schuldig",
-   "t": "Ein US-Geschworenengericht spricht den chinesischen Konzern Huawei in mehreren Anklagepunkten schuldig, darunter Bankbetrug und Verstöße gegen Sanktionen. Vom Vorwurf der Verschwörung zu Racketeering wird Huawei freigesprochen.",
-   "e": "Das Urteil betrifft einen jahrelangen Fall im Technologie- und Sanktionsstreit zwischen USA und China.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-spricht-huawei-wegen-betrugs-schuldig/100272531.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-24T21:36:32+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4554,7 +4515,7 @@
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Iserlohn",
@@ -4584,7 +4545,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 32
    }
   ],
   "markt": [],
