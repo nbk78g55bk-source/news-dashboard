@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-26T07:01:44.087308+00:00",
+ "aktualisiert": "2026-11-26T09:01:37.236808+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "122,24 €",
-   "delta": -3.478223980281958
+   "wert": "125,57 €",
+   "delta": 0.8068057150052876
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "40,72 €",
-   "delta": -6.895444620386193
+   "wert": "42,38 €",
+   "delta": 0.6650867839128827
   },
   {
    "name": "Deka S&P 500",
-   "wert": "132,94 €",
-   "delta": -3.938006506167968
+   "wert": "136,54 €",
+   "delta": 0.49312203348106376
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "162,28 €",
-   "delta": -6.8747818687472595
+   "wert": "168,88 €",
+   "delta": 0.4281614665859079
   },
   {
    "name": "Deka DAX",
-   "wert": "215,70 €",
-   "delta": -2.5305029256814326
+   "wert": "220,10 €",
+   "delta": 0.732265446224245
   },
   {
    "name": "Bitcoin",
-   "wert": "60.493 $",
-   "delta": 2.3092807533765796
+   "wert": "60.838 $",
+   "delta": 2.5406302372829868
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": 1.7284839371299439
+   "wert": "1.699 $",
+   "delta": 2.9730547301606625
   },
   {
    "name": "Gold",
-   "wert": "3.598 $",
-   "delta": 1.7478350109859209
+   "wert": "3.602 $",
+   "delta": 1.8722764369499822
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "24.702",
-   "delta": -1.2618232370235516
+   "wert": "25.200",
+   "delta": 2.0139523325219066
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "28,29",
-   "delta": 7.3216970597888675
+   "wert": "26,79",
+   "delta": -5.302229999943364
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.493 $",
-   "delta": 2.3092807533765796
+   "wert": "60.838 $",
+   "delta": 2.5406302372829868
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": 1.7284839371299439
+   "wert": "1.699 $",
+   "delta": 2.9730547301606625
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.7327324470791545
+   "delta": 4.507889544464905
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,89 $",
-   "delta": 0.2509556573355276
+   "wert": "83,87 $",
+   "delta": 0.2270550838089136
   },
   {
    "name": "EUR/USD",
@@ -5205,136 +5205,6 @@
    "quelle": "News.de",
    "zeit": "2026-11-24T09:20:02+00:00",
    "tag": null
-  },
-  {
-   "id": "ef6b2090fe4a3f78",
-   "k": "deutschland",
-   "titel": "Verkauf von Ziehl-Abegg: Gefährliche Entwicklung",
-   "t": "Die Eigentümerfamilien von Ziehl-Abegg und einem weiteren Unternehmen verkaufen ihr Geschäft ins Ausland.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ebm-papst-und-ziehl-abegg-verkauf-gefaehrdet-deutschen-technologiestandort-201709745.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-24T08:56:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "dd4019a6c3e5b81e",
-   "k": "deutschland",
-   "titel": "Ukraine-Krieg: Das steckt hinter dem Boom deutsch-ukrainischer Rüstungsfirmen",
-   "t": "Deutsch-ukrainische Rüstungsfirmen erleben einen Boom, weil ukrainische Waffen zunehmend in Deutschland produziert werden.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/deutsch-ukrainische-ruestungsfirmen-das-steckt-hinter-dem-boom/100272103.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-24T08:52:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "c09c71605443b795",
-   "k": "trading",
-   "titel": "Digitalwährungen im Fokus: So bewegen sich Bitcoin & Co. am Vormittag - Finanzen.net",
-   "t": "Bitcoin und weitere Digitalwährungen bewegen sich am Vormittag im Fokus der Marktberichte.",
-   "e": "",
-   "tk": "BTC",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVNtMFNPVE94UEhvYncwUGJraG9OUi1xREFGSHRibFJCaWVsUTRPX0Q5WmdfZmhQUlF4a2ZzbUdrSG1DMGVwVEZCNFZMNU1pd1NtcEJGV1lPSGYzQlV1cmdjMVBCRU96UUZjX3E0Qjg2TlpWWUxWNkZ2VXJYTUdZeEE2SWdQMC1vWldfdVdURkNHSUN2Z0VmNkxrUE0zdlpxYUZ3eks1Q21YYmRzS1VsM3E5NUlLZ3VTNXc?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-24T08:48:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "e188b6ed2849e14f",
-   "k": "trading",
-   "titel": "Azure: Microsofts Cloud-Chef warnt: Die Folgen der Künstlichen Intelligenz macht die globale IT instabil",
-   "t": "Microsoft-Cloud-Chef Scott Guthrie warnt, dass KI-bedingte Belastungen die globale IT anfälliger machen und IT-Ausfälle zunehmen könnten.",
-   "e": "",
-   "tk": "MSFT",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/technik/it-internet/azure-microsofts-cloud-chef-erwartet-mehr-it-ausfaelle-durch-ki/100270347.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-24T08:46:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "0613fa5df87577ec",
-   "k": "welt",
-   "titel": "Rochade in Südkorea: Seoul setzt noch mehr auf die Nähe zu Washington",
-   "t": "In Südkorea müssen Außenminister, Geheimdienstchef und Vereinigungsminister gehen, Präsident Lee richtet die Politik stärker auf Washington aus.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/lee-bildet-regierung-um-suedkorea-setzt-noch-mehr-auf-die-naehe-zu-den-usa-accg-201711157.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-24T08:46:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "823ef37ceba736e5",
-   "k": "nrw",
-   "titel": "Streit am Hagener Hauptbahnhof: Iserlohner durch Pfefferspray verletzt - IKZ-Online",
-   "t": "Am Hagener Hauptbahnhof wurde ein Iserlohner nach einem Streit durch Pfefferspray verletzt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0RRYzZCVnJFV3lobWFoaFRTQjBJVHVrZHhfSjRqZUJOS0J0NmlWSXk1SzBhTzFIS0JKQVZXRDNGWGdDZ2pOWERJT2ctM1QwenBsc3Noekg3SGZTTVZXYzdkbWdGeGlUWTNCMjJST3kwRFp2TWtGajQwWklyTzlCQlpyQUJTSVUwbnRHUVl3cnMxU05SOUxLRmxvalBQcm1FQkxHa29FRGJhUWJya3VlanAyOXdETTVESjhwcUlPUWxyUWUxbEpUNnlsMWd3Ylk?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-24T08:40:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "074ec0ecf633f021",
-   "k": "deutschland",
-   "titel": "Deutschlands Nettobeitrag an die EU ist fast dreimal so groß wie der des Zweitplatzierten",
-   "t": "Deutschland zahlte im vergangenen Jahr 14,9 Milliarden Euro mehr in den EU-Haushalt ein, als zurückfloss. Der zweitgrößte Nettozahler liegt weit dahinter.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6b0530e939a3e8110f0e98de/iw-studie-deutschlands-nettobeitrag-an-die-eu-ist-fast-dreimal-so-gross-wie-der-des-zweitplatzierten.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-24T08:23:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "1fc6028c074f5b69",
-   "k": "trading",
-   "titel": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
-   "t": "Jensen Huang kehrt nach einem kurzen Rücktritt als Nvidia-Chef zurück. Berichten zufolge hat US-Präsident Trump Einfluss genommen, was Kritik auslöst.",
-   "e": "Die Rückkehr löste eine starke Erholung bei Chipwerten und im Nasdaq aus, zugleich steht die Governance des Konzerns in der Kritik.",
-   "tk": "NVDA",
-   "s": 8,
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-24T07:55:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "295720dd0d3b5b97",
-   "k": "trading",
-   "titel": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
-   "t": "Bitcoin-ETFs verzeichnen weiter Abflüsse, im November lagen die Nettoabflüsse bei 4,71 Milliarden Dollar, während die BlackRock-Aktie IBIT um rund 5 Prozent zulegte.",
-   "e": "",
-   "tk": "BTC,IBIT",
-   "s": 5,
-   "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-24T07:41:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "15405f5ecc01e426",
-   "k": "nrw",
-   "titel": "Polizei kontrolliert Geschwindigkeiten: 104 Verstöße in Iserlohn und Hemer - IKZ-Online",
-   "t": "Die Polizei hat bei Geschwindigkeitskontrollen in Iserlohn und Hemer 104 Verstöße festgestellt.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPam5jdUU0eE9VNWd0a1JNN1M4WFlOYTRBSmU0QlNXRzVlanVTMFFhR19reTMtLUFoUlhFRjJXMzBfWXRmSzVTdlRZN0FvNXNMQlo2RDlhb3VJbWFreFg4TGtQM2FyNVRDNXU1VEdoRXU2YnJUSEI5dlZ2Mkp5eGN0Wkk4NGxqUnJsNmpVbTY5dUJ1bl9QWG03UjJEbW9OMzlCV1RWaHFyR0d3ZTVnV3lhbFJOMGtuSE1SX09scWZlUzV5Z09qMTRLcF9ndVE0MlMycmMwX2R6VQ?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-24T07:13:41+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5347,17 +5217,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 22
+    "n": 24
    },
    {
     "name": "Welt",
@@ -5372,12 +5242,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -5402,7 +5272,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 7
+    "n": 8
    },
    {
     "name": "MarketWatch",
@@ -5412,7 +5282,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "WSJ USA",
@@ -5458,7 +5328,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "CNBC Investing",
@@ -5483,20 +5353,18 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 21
+    "n": 17
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -5521,13 +5389,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 20
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
