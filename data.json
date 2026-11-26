@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T23:31:29.640593+00:00",
+ "aktualisiert": "2026-11-26T23:46:20.084503+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.402 $",
-   "delta": 0.4630332051390374
+   "wert": "60.404 $",
+   "delta": 0.16104250544549492
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": -0.14797040692476218
+   "wert": "1.685 $",
+   "delta": -0.40341465214693684
   },
   {
    "name": "Gold",
-   "wert": "3.591 $",
-   "delta": 1.5724857289456384
+   "wert": "3.592 $",
+   "delta": 1.5979396569837379
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.402 $",
-   "delta": 0.4630332051390374
+   "wert": "60.404 $",
+   "delta": 0.16104250544549492
   },
   {
    "name": "Ethereum",
-   "wert": "1.686 $",
-   "delta": -0.14797040692476218
+   "wert": "1.685 $",
+   "delta": -0.40341465214693684
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.8523963167805636
+   "delta": 0.8184446952470174
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,82 $",
-   "delta": 1.3623323263225462
+   "wert": "84,90 $",
+   "delta": 1.4579346204289578
   },
   {
    "name": "EUR/USD",
@@ -4057,32 +4057,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-24T23:48:16+00:00",
    "tag": null
-  },
-  {
-   "id": "44be36aac8406fe1",
-   "k": "trading",
-   "titel": "Earnings call transcript: GoodRx beats Q3 2026 revenue forecast, shares rise after hours - Investing.com UK",
-   "t": "GoodRx übertrifft die Umsatzerwartungen für das dritte Quartal 2026, die Aktie steigt nachbörslich.",
-   "e": "",
-   "tk": "GDRX",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmJwTVlQM3JvWEtSTHFvMzhscUo3SHU4YTJhVkhkeC1WMFRuVnJIU2p5Z21STHlOeUxhMWhEQnVmVXlGLVd1TXlTZjlXWkFuT3NkdWxhdWJVUTZ1aG52blRYTEJHZzhQdHVnODhoa1ZYeWJ4ZHRLcU44WDl5a01UaTAxMld6OTdER0l2SW5yOGVVeFlIaHFvcVdHTm15SDNnQTI3TFNCU1dLVXM5SUpQNXczcW1tQ2drbzAtWHVyVG5WZGVQaGs1VDhUMW1DTHNUa01vd1gxV3V4S3BJX2pmeQ?oc=5",
-   "quelle": "Investing.com UK",
-   "zeit": "2026-11-24T23:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2d8848c1cd078a74",
-   "k": "usa",
-   "titel": "Kilmar Abrego Garcia Is Leaving the U.S. for Spain After Arranging Own Exit",
-   "t": "Der Salvadorianer Kilmar Abrego Garcia verlässt die USA in Richtung Spanien, nachdem er seinen Abgang selbst organisieren durfte. Damit endet ein rund eineinhalbjähriger Rechtsstreit.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.wsj.com/us-news/law/kilmar-abrego-garcia-is-leaving-the-u-s-to-a-country-of-his-choosing-117cad88?mod=rss_usnews",
-   "quelle": "WSJ USA",
-   "zeit": "2026-11-24T23:32:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4237,7 +4211,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4267,12 +4241,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 16
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 34
+    "n": 30
    }
   ],
   "markt": [],
