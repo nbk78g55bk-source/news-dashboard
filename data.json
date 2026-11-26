@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T19:16:18.362464+00:00",
+ "aktualisiert": "2026-11-26T19:31:30.747046+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.478 $",
-   "delta": 0.9627572066685233
+   "wert": "60.555 $",
+   "delta": 0.7508462271631077
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 0.9425363217601379
+   "wert": "1.702 $",
+   "delta": 0.679303664326669
   },
   {
    "name": "Gold",
-   "wert": "3.594 $",
-   "delta": 1.6601603699657685
+   "wert": "3.593 $",
+   "delta": 1.6064242996631117
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.478 $",
-   "delta": 0.9627572066685233
+   "wert": "60.555 $",
+   "delta": 0.7508462271631077
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 0.9425363217601379
+   "wert": "1.702 $",
+   "delta": 0.679303664326669
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.7743121333383443
+   "delta": 1.0425800903263396
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,97 $",
-   "delta": 1.5415866277720625
+   "wert": "84,91 $",
+   "delta": 1.4698849071922648
   },
   {
    "name": "EUR/USD",
@@ -4564,19 +4564,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T19:35:32+00:00",
    "tag": null
-  },
-  {
-   "id": "33c62a4198dce72c",
-   "k": "trading",
-   "titel": "Republican senator's husband dead: 'Our family is heartbroken'",
-   "t": "Bitcoin hat Gewinne über 60.000 US-Dollar wieder abgegeben, weil Zollsorgen die US-Börsen belasten. Die Aktie von Anthropic fiel zeitweise unter den Ausgabepreis.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/republican-senators-husband-dead-family-heartbroken",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-24T19:19:19+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4589,7 +4576,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -4639,7 +4626,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "CNBC Finance",
@@ -4761,7 +4748,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 24
+    "n": 17
    },
    {
     "name": "Google News Fed",
