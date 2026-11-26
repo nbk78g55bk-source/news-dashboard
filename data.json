@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T09:46:19.062072+00:00",
+ "aktualisiert": "2026-11-26T10:01:38.065789+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,50 €",
-   "delta": 2.6627962967227914
+   "wert": "125,60 €",
+   "delta": 2.7486928950825273
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,37 €",
-   "delta": 4.054221065657249
+   "wert": "42,38 €",
+   "delta": 4.059132295235068
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.897 $",
-   "delta": 3.48222802225931
+   "wert": "60.861 $",
+   "delta": 3.120088946157628
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.0263890653855485
+   "wert": "1.702 $",
+   "delta": 3.577080137007079
   },
   {
    "name": "Gold",
    "wert": "3.602 $",
-   "delta": 1.883589293855814
+   "delta": 1.8609635800441504
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.225",
-   "delta": 2.1147128707187823
+   "wert": "25.216",
+   "delta": 2.0801409544391136
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,14",
-   "delta": -4.065043755075138
+   "wert": "27,00",
+   "delta": -4.559918253022433
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.897 $",
-   "delta": 3.48222802225931
+   "wert": "60.861 $",
+   "delta": 3.120088946157628
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.0263890653855485
+   "wert": "1.702 $",
+   "delta": 3.577080137007079
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.474466004703928
+   "delta": 5.0346876360684245
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,44 $",
-   "delta": -0.2868072470130434
+   "wert": "83,37 $",
+   "delta": -0.370459254356148
   },
   {
    "name": "EUR/USD",
@@ -5166,19 +5166,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T10:06:17+00:00",
    "tag": null
-  },
-  {
-   "id": "dce3ea6619fc8ef9",
-   "k": "trading",
-   "titel": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
-   "t": "Nach der Rückkehr von Jensen Huang an die Spitze von Nvidia haben asiatische Märkte zugelegt, Bedenken zu Exportbeschränkungen und KI-Finanzierung bleiben.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 4,
-   "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T09:52:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5191,7 +5178,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Tagesschau Ausland",
@@ -5216,7 +5203,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
@@ -5333,7 +5320,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 11
+    "n": 17
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5343,12 +5330,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Google News NRW",
@@ -5363,7 +5350,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 10
    },
    {
     "name": "Google News Fed",
