@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T16:01:37.734069+00:00",
+ "aktualisiert": "2026-11-26T16:16:20.645641+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,91 €",
-   "delta": 2.9982020617465466
+   "wert": "125,94 €",
+   "delta": 3.0268342611997845
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,40 €",
-   "delta": 4.125433894535879
+   "wert": "42,45 €",
+   "delta": 4.235936560037246
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.547 $",
-   "delta": 3.765581407657669
+   "wert": "60.615 $",
+   "delta": 3.507230112421251
   },
   {
    "name": "Ethereum",
    "wert": "1.691 $",
-   "delta": 2.559927549029667
+   "delta": 2.498691571776498
   },
   {
    "name": "Gold",
-   "wert": "3.598 $",
-   "delta": 1.7732889390240203
+   "wert": "3.603 $",
+   "delta": 1.8920739365351658
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.251",
-   "delta": 2.220857559811673
+   "wert": "25.276",
+   "delta": 2.323885108912127
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,72",
-   "delta": -5.549667248917012
+   "wert": "26,61",
+   "delta": -5.938497211589889
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.547 $",
-   "delta": 3.765581407657669
+   "wert": "60.615 $",
+   "delta": 3.507230112421251
   },
   {
    "name": "Ethereum",
    "wert": "1.691 $",
-   "delta": 2.559927549029667
+   "delta": 2.498691571776498
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.726169170605212
+   "delta": 4.731388925770317
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,11 $",
-   "delta": 1.708890642458294
+   "wert": "84,93 $",
+   "delta": 1.4937854807188788
   },
   {
    "name": "EUR/USD",
@@ -4853,9 +4853,8 @@
    },
    {
     "name": "Handelsblatt",
-    "ok": false,
-    "n": 0,
-    "fehler": "403 Client Error: Forbidden for url: https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "CNBC",
@@ -4880,7 +4879,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -4987,7 +4986,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Google News Fed",
