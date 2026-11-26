@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T09:16:21.432923+00:00",
+ "aktualisiert": "2026-11-26T09:31:37.924444+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,70 €",
-   "delta": 0.9111688968397313
+   "wert": "125,50 €",
+   "delta": 0.7465961870238846
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,48 €",
-   "delta": 0.9026164837333539
+   "wert": "42,44 €",
+   "delta": 0.8052293068069538
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.822 $",
-   "delta": 3.0401990046798604
+   "wert": "60.699 $",
+   "delta": 3.136698088367874
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 3.4955734343132705
+   "wert": "1.697 $",
+   "delta": 3.656670978504157
   },
   {
    "name": "Gold",
-   "wert": "3.602 $",
-   "delta": 1.8637917942706084
+   "wert": "3.600 $",
+   "delta": 1.829853223553135
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.200",
-   "delta": 2.013628473821405
+   "wert": "25.194",
+   "delta": 1.9894200359581227
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,01",
-   "delta": -4.524570074597623
+   "wert": "27,14",
+   "delta": -4.065043755075138
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.822 $",
-   "delta": 3.0401990046798604
+   "wert": "60.699 $",
+   "delta": 3.136698088367874
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 3.4955734343132705
+   "wert": "1.697 $",
+   "delta": 3.656670978504157
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.253190083357653
+   "delta": 5.130332941435698
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,47 $",
-   "delta": -0.2509563867231446
+   "wert": "83,30 $",
+   "delta": -0.45411126169926375
   },
   {
    "name": "EUR/USD",
@@ -5179,32 +5179,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T09:52:00+00:00",
    "tag": null
-  },
-  {
-   "id": "18cff511226a12d0",
-   "k": "nrw",
-   "titel": "Polizei-News Lüdenscheid, 24.11.26: Wohnhausbrand am Oberen Worthagen - News.de",
-   "t": "In Lüdenscheid brannte ein Wohnhaus am Oberen Worthagen, die Polizei berichtet über den Einsatz.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1pfa093enZ4VVlmQUg2SGNaemFvWUk2ZWJjb0lsWXh6Nmh1aXA4czdFVFhQd0MxZWpXZ0JOQlNjdmNNTTg5M1pHc1RuRmpyOWVZSlBkck5nSXdNWnlLN2hPcUZUUXV0UXpSeWJkN29pdkVaajUzeTJ6WEpRY3VKZVFrY3B6UlBkV3JWNTA1b0xzMFBaQkFsZk12bEpsMGdYWkljVXNxMXY0U1d4Z3NwTlllVWowcnM?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-24T09:30:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "15bb4e23e2df067a",
-   "k": "trading",
-   "titel": "Polizei-News Plettenberg, 24.11.26: Zeugensuche nach Raub an Unterführung - News.de",
-   "t": "Der Nvidia-Chef Jensen Huang ist nach seiner Rückkehr als CEO laut Berichten im Fokus des US-Justizministeriums. Der Aktienkurs von Nvidia hatte nach seiner Rückkehr deutlich zugelegt.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDgxRjQzdWVoUlBGSktSRXpTSUhWZlgxYXA0VmlUODZVejNiNWthbUw4eDhDd2liaUdOQ2ZJdUdCQmk3QVQtWmhCUFFiR3pJQTJ0NWE4NDZZWWVMUUtoaldrdlQ2enk3ZEFvU0dGVHQ0dzRlYzRXSF9jOExfRlV5ZUpnSVZlTUIwekYySmM2Y1ZLNTRpVTVHcmZ3Z29DQ2hFeEFVa1AwTkVFWDdxWVJHRVd3?oc=5",
-   "quelle": "News.de",
-   "zeit": "2026-11-24T09:20:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5242,7 +5216,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -5359,7 +5333,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5369,12 +5343,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Google News NRW",
@@ -5389,7 +5363,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Fed",
