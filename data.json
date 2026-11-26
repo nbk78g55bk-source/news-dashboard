@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T13:01:46.608747+00:00",
+ "aktualisiert": "2026-11-26T13:16:23.729618+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,84 €",
-   "delta": 2.9491182912552594
+   "wert": "125,67 €",
+   "delta": 2.8059572939890254
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,49 €",
-   "delta": 4.331705536805086
+   "wert": "42,40 €",
+   "delta": 4.118067050169127
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.806 $",
-   "delta": 3.6400864643156225
+   "wert": "60.768 $",
+   "delta": 3.5555708142367477
   },
   {
    "name": "Ethereum",
    "wert": "1.705 $",
-   "delta": 3.6059146428392856
+   "delta": 3.5677567405471953
   },
   {
    "name": "Gold",
-   "wert": "3.593 $",
-   "delta": 1.6177371565689214
+   "wert": "3.592 $",
+   "delta": 1.589455014304364
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.175",
-   "delta": 1.9157016992540132
+   "wert": "25.145",
+   "delta": 1.7936069691609102
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,77",
-   "delta": -5.372926356792984
+   "wert": "27,13",
+   "delta": -4.100391933499948
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.806 $",
-   "delta": 3.6400864643156225
+   "wert": "60.768 $",
+   "delta": 3.5555708142367477
   },
   {
    "name": "Ethereum",
    "wert": "1.705 $",
-   "delta": 3.6059146428392856
+   "delta": 3.5677567405471953
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.6043211284102945
+   "delta": 4.717335428614543
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,68 $",
-   "delta": 1.195028311636337
+   "wert": "84,85 $",
+   "delta": 1.398183186612445
   },
   {
    "name": "EUR/USD",
@@ -4997,32 +4997,6 @@
    "quelle": "meinestadt.de",
    "zeit": "2026-11-24T13:20:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5a2dab2305f24d49",
-   "k": "deutschland",
-   "titel": "Bundeshaushalt 2027: Klingbeil sieht \"wichtige Zukunftsinvestitionen\"",
-   "t": "Zu Beginn der Haushaltsberatungen verteidigt Finanzminister Klingbeil den geplanten Rekordetat 2027. Die Opposition übt harsche Kritik.",
-   "e": "Der Bundeshaushalt 2027 ist ein Rekordvolumen und ein zentrales politisches Streitthema.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T13:10:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "1a8e70f7c86dac74",
-   "k": "trading",
-   "titel": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-   "t": "Während die meisten Märkte am Montag stiegen, konnte Krypto die Erholung nicht halten, da ETF-Verkäufer aussteigen.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T13:07:49+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5030,12 +5004,12 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Tagesschau Ausland",
@@ -5130,7 +5104,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 34
+    "n": 33
    },
    {
     "name": "The Block",
@@ -5177,7 +5151,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 7
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5192,7 +5166,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Google News NRW",
@@ -5207,7 +5181,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 24
    },
    {
     "name": "Google News Fed",
