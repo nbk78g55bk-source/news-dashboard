@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T17:46:27.053773+00:00",
+ "aktualisiert": "2026-11-26T18:01:57.717805+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.363 $",
-   "delta": 1.212310874252901
+   "wert": "60.463 $",
+   "delta": 1.5883064767081945
   },
   {
    "name": "Ethereum",
-   "wert": "1.689 $",
-   "delta": 0.850028296711716
+   "wert": "1.692 $",
+   "delta": 0.9542967857765738
   },
   {
    "name": "Gold",
-   "wert": "3.595 $",
-   "delta": 1.6686450126451424
+   "wert": "3.594 $",
+   "delta": 1.6545039415128748
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.363 $",
-   "delta": 1.212310874252901
+   "wert": "60.463 $",
+   "delta": 1.5883064767081945
   },
   {
    "name": "Ethereum",
-   "wert": "1.689 $",
-   "delta": 0.850028296711716
+   "wert": "1.692 $",
+   "delta": 0.9542967857765738
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.3415041488023642
+   "delta": 2.4285167495896904
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,83 $",
-   "delta": 1.3742826130858532
+   "wert": "84,76 $",
+   "delta": 1.2906306057427486
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,28 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-26T11:01:48.020128+00:00",
+  "slot": 19,
+  "stand": "2026-11-26T18:01:57.717781+00:00",
   "punkte": [
    {
-    "k": "usa",
-    "t": "Die USA haben neue Sonderzölle von 15 Prozent auf betroffene EU-Produkte und von 20 Prozent auf chinesische Waren angekündigt. Laut Meldungen belasten die Zolldrohungen auch Bitcoin und die Aktienmärkte."
+    "k": "finanzen",
+    "t": "Am Markt wird eine US-Zinserhöhung im Dezember inzwischen mit rund 98 Prozent eingepreist. Der Leitzins der Fed liegt bei 3,88 %, der Kern-PCE stieg auf 3,3 %, während die EZB ihren Zins bei 2,50 % belässt und die Entscheidung über die doppelte Mindestreserve vertagt hat."
    },
    {
     "k": "finanzen",
-    "t": "Im KI-Ausverkauf geraten Nasdaq-Werte wie Nvidia, AMD und Intel unter Druck, und die Nasdaq-Futures verlieren laut Meldung 2,4 Prozent. Die Marktdaten nennen Deka Nasdaq-100 169,34 €, Deka S&P 500 136,54 € und Deka DAX 220,25 €, Bitcoin 60.465 $ und Gold 3.586 $."
+    "t": "Im KI-Ausverkauf geraten Nasdaq-Aktien wie Nvidia, AMD und Intel reihenweise unter Druck, und S&P 500 sowie Nasdaq ziehen nach einem kurzen Rekordhoch ins Minus. Der Deka Nasdaq-100 notiert bei 169,44 €, der Deka S&P 500 bei 137,15 €."
    },
    {
     "k": "finanzen",
-    "t": "Die US-Inflation stieg im Oktober auf 3,8 Prozent, der Kern-PCE auf 3,3 Prozent. Am Markt wird eine Fed-Zinserhöhung im Dezember mit rund 98 Prozent Wahrscheinlichkeit gesehen; der Fed Funds liegt laut Marktdaten bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der EZB-Zins liegt laut Marktdaten bei 2,50 %. Der EZB-Rat hat die Entscheidung über eine doppelte Mindestreserve für Banken vertagt, die Banken zeigen sich laut Bericht stark beunruhigt."
-   },
-   {
-    "k": "welt",
-    "t": "Trump und NATO-Generalsekretär Rutte fordern nach einem Treffen in Mar-a-Lago, dass Russland jede Ausweitung des Kriegs in der Ukraine unterlässt."
+    "t": "Der Deka DAX notiert bei 220,40 € und der iShares MSCI World bei 125,83 €. Bitcoin kostet 60.463 $, Ethereum 1.692 $ und Gold 3.594 $. Die US-Terminbörsenaufsicht CFTC erlaubt Bitcoin und Ether als Betriebsreserve mit 20 Prozent Abschlag."
    },
    {
     "k": "deutschland",
-    "t": "Die SPD-Linke bringt sich für einen Machtkampf um die Neuausrichtung der Partei in Stellung und kritisiert Vizekanzler Klingbeil."
+    "t": "In der SPD formiert sich der linke Flügel für einen Machtkampf um die Neuausrichtung der Partei und kritisiert Vizekanzler Klingbeil. Unionsabgeordnete schlagen im Rentenstreit eine „Respekt-Rente“ vor, die Geringverdienern nach 45 Beitragsjahren abschlagsfreie Frühverrentung ermöglichen soll."
+   },
+   {
+    "k": "welt",
+    "t": "Trump und NATO-Generalsekretär Rutte fordern nach einem Treffen in Mar-a-Lago, dass Russland jede Ausweitung des Kriegs in der Ukraine unterlässt. Der Iran steht unter Druck durch die US-Blockade, die Kürzungen bei Treibstoff- und Lebensmittelsubventionen treffen die Bevölkerung."
    }
   ]
  },
@@ -4715,7 +4711,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -4775,7 +4771,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -4882,12 +4878,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 39
+    "n": 40
    }
   ],
   "markt": [],
