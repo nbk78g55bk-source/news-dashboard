@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T19:31:30.747046+00:00",
+ "aktualisiert": "2026-11-26T19:46:16.812435+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.555 $",
-   "delta": 0.7508462271631077
+   "wert": "60.625 $",
+   "delta": 1.2159591915070478
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 0.679303664326669
+   "wert": "1.704 $",
+   "delta": 1.1723169373400617
   },
   {
    "name": "Gold",
    "wert": "3.593 $",
-   "delta": 1.6064242996631117
+   "delta": 1.6290500134747532
   },
   {
    "name": "EZB Zins",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.555 $",
-   "delta": 0.7508462271631077
+   "wert": "60.625 $",
+   "delta": 1.2159591915070478
   },
   {
    "name": "Ethereum",
-   "wert": "1.702 $",
-   "delta": 0.679303664326669
+   "wert": "1.704 $",
+   "delta": 1.1723169373400617
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.0425800903263396
+   "delta": 1.3436949137026495
   },
   {
    "name": "Rohöl WTI",
@@ -4538,32 +4538,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T20:09:00+00:00",
    "tag": null
-  },
-  {
-   "id": "d3f18c72c10b88d0",
-   "k": "trading",
-   "titel": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-   "t": "Der Krypto-Vermögensverwalter 21Shares sieht den Bitcoin-Ausverkauf durch schwache Nachfrage und erzwungene Liquidationen getrieben.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-24T19:44:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "ac125d3105b422d2",
-   "k": "trading",
-   "titel": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-   "t": "Bitcoin fällt unter 60.000 Dollar, die realisierten Verluste haben sich innerhalb einer Woche fast verdoppelt.",
-   "e": "Die schwersten realisierten Verluste seit dem FTX-Zusammenbruch deuten laut Glassnode auf eine Phase wie frühere Marktböden hin.",
-   "tk": "BTC",
-   "s": 6,
-   "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T19:35:32+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4671,7 +4645,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "The Block",
@@ -4748,7 +4722,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 19
    },
    {
     "name": "Google News Fed",
