@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T23:01:39.955905+00:00",
+ "aktualisiert": "2026-11-26T23:16:17.168024+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -27,9 +27,19 @@
    "delta": 0.8695652173912993
   },
   {
+   "name": "Bitcoin",
+   "wert": "60.411 $",
+   "delta": 0.43370557102521784
+  },
+  {
+   "name": "Ethereum",
+   "wert": "1.687 $",
+   "delta": -0.00016028349064399675
+  },
+  {
    "name": "Gold",
-   "wert": "3.593 $",
-   "delta": 1.6290500134747532
+   "wert": "3.592 $",
+   "delta": 1.58097037162499
   },
   {
    "name": "EZB Zins",
@@ -69,9 +79,24 @@
    "delta": null
   },
   {
+   "name": "Bitcoin",
+   "wert": "60.411 $",
+   "delta": 0.43370557102521784
+  },
+  {
+   "name": "Ethereum",
+   "wert": "1.687 $",
+   "delta": -0.00016028349064399675
+  },
+  {
+   "name": "Solana",
+   "wert": "71 $",
+   "delta": 0.6033934607499067
+  },
+  {
    "name": "Rohöl WTI",
-   "wert": "84,91 $",
-   "delta": 1.4698849071922648
+   "wert": "84,82 $",
+   "delta": 1.3623323263225462
   },
   {
    "name": "EUR/USD",
@@ -4071,71 +4096,6 @@
    "quelle": "tmgm.com",
    "zeit": "2026-11-24T23:26:49+00:00",
    "tag": null
-  },
-  {
-   "id": "32f68b3f968b16fe",
-   "k": "trading",
-   "titel": "Deutsche Telekom Aktie News: Deutsche Telekom am Dienstagmittag in Grün - Finanzen.net",
-   "t": "Die Deutsche-Telekom-Aktie notiert am Dienstagmittag im Plus.",
-   "e": "",
-   "tk": "DTE",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXhQU0lfdHBLbVFnZFNRYWxQVnV5ZWFtbnJta1RjZ2V0T19CdTZXSnNCYnVPTlhhdVNQem9mRi1zMV82dnZIaHNPQld6bk5ySF95RmNrOUxaR21lT21MRkRrOEp6aG9IbEwtVXBUN2Y3T0F0djZvZ0VMSmh0bFlBUU45cjNYa0g0anc0YmpTeUh5dUxYdTFrTEd6eGFzdw?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-24T23:11:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "d8482b1a53994841",
-   "k": "trading",
-   "titel": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-   "t": "Micron hat das Sicherheitsbudget für CEO Sanjay Mehrotra laut Filing um 2.000 Prozent erhöht, seine Gesamtvergütung lag bei 39,7 Millionen Dollar.",
-   "e": "",
-   "tk": "MU",
-   "s": 3,
-   "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-24T23:11:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2bc3250537c23f22",
-   "k": "trading",
-   "titel": "K+S Aktie News: K+S zeigt sich am Mittag fester - Finanzen.net",
-   "t": "K+S zeigt sich am Mittag etwas fester.",
-   "e": "",
-   "tk": "SDF",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbl9SME84SnBNMFVNRFJ5UHN5ekFXWnF5S0pFSVFBQms2U0k2NmdrQzM5UENMX05mSHhSLUxuOEtMNkJxaWh5ejJVeW93aDJGQkFVaXROa25UdFNVN1F6cmpVdms1VUhnVW0tYjl6YUt2eFpiOFRqZ0Vjc0pZenRBZDVBUE5UTHFqVFkyeg?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-24T23:10:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "af138d5fb4ae76b4",
-   "k": "trading",
-   "titel": "Workday (NASDAQ:WDAY) Posts In-Line Results but Shares Slide 7.1% After Hours - ChartMill",
-   "t": "Workday legt Zahlen im Rahmen der Erwartungen vor, die Aktie gibt nachbörslich um 7,1 Prozent nach.",
-   "e": "",
-   "tk": "WDAY",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGpSZGpwbU9acVNGcEc4dEEtQVAyNnJFY2twNkRQaWlULUpJNWpsYWI0RnBJbDlPckNwa1g4cVZHeHdIYk1oOHpEbXExejEtM0ViMHJPemlta1pqd3JSb2JjN3pWSVhVS3ZpVlBJT2pYMl9fQUdZSlJhZGgtY1l0RUpESzJkMzRfRGtXbTdadUtDZ3hJQ0s5TF9sVkhVZUdKaV8yMmJpRHRzWW5kSnJLdE5OekQ3aVA3dm5wTUwwQ01Vdw?oc=5",
-   "quelle": "ChartMill",
-   "zeit": "2026-11-24T23:04:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "70fc38c1e129532e",
-   "k": "trading",
-   "titel": "Nutanix (NASDAQ:NTNX) Shares Fall on Soft Revenue Guidance and CEO Succession Plan - ChartMill",
-   "t": "Nutanix-Aktien fallen nach schwacher Umsatzprognose und der Ankündigung einer CEO-Nachfolge.",
-   "e": "",
-   "tk": "NTNX",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVY0SER3VDVhQmhZTGhoU1Rtd0R0d1VDX3p2eE9OcDBVTHZURTFRWGNWTVBtUm9LckU0TkxtTDBPcDBVeTY1MHVyYkh3QjdtWTBQZDRveXBDU0xfandMZ1NlSThHSDgwMUlPQkE0SWg2LWZlVDRpYURGeUdQZWtZQW9KbUxHX3NZdGNCeW8yZ24wN3IwX0s0MkVIeDllenRfRTZ6bF9UbjZfaVVYMGtFajRYSm43LWs4THBUdEFLMmtqeW9sTVcxZlFrZw?oc=5",
-   "quelle": "ChartMill",
-   "zeit": "2026-11-24T23:03:09+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4203,7 +4163,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -4264,7 +4224,7 @@
    {
     "name": "CNBC Investing",
     "ok": true,
-    "n": 3
+    "n": 2
    },
    {
     "name": "MarketWatch Market Pulse",
@@ -4279,9 +4239,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -4291,12 +4250,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 38
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -4315,28 +4274,21 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 15
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 35
+    "n": 34
    }
   ],
-  "markt": [
-   "Bitcoin: 'bitcoin'",
-   "Ethereum: 'ethereum'",
-   "Bitcoin: 'bitcoin'",
-   "Ethereum: 'ethereum'",
-   "Solana: 'solana'"
-  ],
+  "markt": [],
   "briefing": null
  }
 }
