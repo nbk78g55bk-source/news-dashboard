@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T22:01:39.847670+00:00",
+ "aktualisiert": "2026-11-26T22:16:19.680620+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.780 $",
-   "delta": 1.0653266620375448
+   "wert": "60.503 $",
+   "delta": 0.7328147004830009
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 1.2530698241872782
+   "wert": "1.695 $",
+   "delta": 0.7582906821935834
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.780 $",
-   "delta": 1.0653266620375448
+   "wert": "60.503 $",
+   "delta": 0.7328147004830009
   },
   {
    "name": "Ethereum",
-   "wert": "1.704 $",
-   "delta": 1.2530698241872782
+   "wert": "1.695 $",
+   "delta": 0.7582906821935834
   },
   {
    "name": "Solana",
-   "wert": "72 $",
-   "delta": 1.518196548670952
+   "wert": "71 $",
+   "delta": 0.8729907623778611
   },
   {
    "name": "Rohöl WTI",
@@ -4252,45 +4252,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-24T22:16:44+00:00",
    "tag": null
-  },
-  {
-   "id": "3e38b0c03521c360",
-   "k": "trading",
-   "titel": "+++ Geschäftszahlen +++: Dell erhöht nach Rekordquartal Ziele erneut – Mehr Aktienrückkäufe",
-   "t": "Dell hebt nach einem Rekordquartal seine Ziele erneut an und kündigt mehr Aktienrückkäufe an. Auch der Temu-Mutterkonzern PDD übertrifft seine Gewinnprognose.",
-   "e": "Die Dell-Zahlen zeigen die anhaltende Nachfrage nach KI-Servern.",
-   "tk": "DELL,PDD",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-dell-erhoeht-nach-rekordquartal-ziele-erneut-mehr-aktienrueckkaeufe/24098412.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-24T22:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c9ef922a3a8eb2e",
-   "k": "trading",
-   "titel": "Börse am Tag danach: Nvidia-Aktie fällt um sechs Prozent",
-   "t": "Nvidia-Aktie fällt am Tag nach der Rückkehr von Jensen Huang um rund sechs Prozent, während viele asiatische Kurse zuvor deutlich zugelegt hatten.",
-   "e": "Die Nvidia-Bewegung hat großen Einfluss auf Nasdaq und den gesamten KI-Handel.",
-   "tk": "NVDA",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/finanzen/asiens-boersen-feiern-jensen-huangs-comeback-accg-201711270.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-24T22:11:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a8b0f45adbf3a86",
-   "k": "trading",
-   "titel": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-   "t": "Der Bitcoin-Miner CleanSpark weist für das Jahr einen Verlust von 987 Millionen Dollar aus, der Umsatz sank um 25 Prozent.",
-   "e": "",
-   "tk": "CLSK",
-   "s": 5,
-   "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-   "quelle": "The Block",
-   "zeit": "2026-11-24T22:10:45+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4398,7 +4359,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "The Block",
@@ -4439,9 +4400,8 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
@@ -4451,7 +4411,7 @@
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Iserlohn",
@@ -4476,12 +4436,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 21
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 35
+    "n": 40
    }
   ],
   "markt": [],
