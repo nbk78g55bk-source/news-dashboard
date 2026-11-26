@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T23:16:17.168024+00:00",
+ "aktualisiert": "2026-11-26T23:31:29.640593+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.411 $",
-   "delta": 0.43370557102521784
+   "wert": "60.402 $",
+   "delta": 0.4630332051390374
   },
   {
    "name": "Ethereum",
-   "wert": "1.687 $",
-   "delta": -0.00016028349064399675
+   "wert": "1.686 $",
+   "delta": -0.14797040692476218
   },
   {
    "name": "Gold",
-   "wert": "3.592 $",
-   "delta": 1.58097037162499
+   "wert": "3.591 $",
+   "delta": 1.5724857289456384
   },
   {
    "name": "EZB Zins",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.411 $",
-   "delta": 0.43370557102521784
+   "wert": "60.402 $",
+   "delta": 0.4630332051390374
   },
   {
    "name": "Ethereum",
-   "wert": "1.687 $",
-   "delta": -0.00016028349064399675
+   "wert": "1.686 $",
+   "delta": -0.14797040692476218
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.6033934607499067
+   "delta": 0.8523963167805636
   },
   {
    "name": "Rohöl WTI",
@@ -4083,19 +4083,6 @@
    "quelle": "WSJ USA",
    "zeit": "2026-11-24T23:32:00+00:00",
    "tag": null
-  },
-  {
-   "id": "7290e452cc51776a",
-   "k": "finanzen",
-   "titel": "Mexican Peso sinks as softer core inflation meets Fed hike threat - tmgm.com",
-   "t": "Der mexikanische Peso gibt nach, nachdem die Kerninflation etwas schwächer ausfiel, zugleich wächst die Sorge vor einer Zinserhöhung der Fed.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEM4eU1DcXBadllQWXpGNjlhQnU0RktwSjhFRnE0T0k5Q01OUnZtU0NaVW9fSVk4M3ctUzNnZmtFUXBOcXlvaURKd2szUFdzT1FXZkV5YnJyUnppUWs5ZHJtWXpGYmlOcUt2elBwWjRINURNUjRCUFBWSVdFcUpVSkVwNEhZekN4NmtXT1BsTGxTWDNNbmgzQnVOSV9DWEZVWFRhYndRNFo3dzNSWFY1RExCZkU1blJFS3pyZjRxTUtaY19NTmdMZHZlYw?oc=5",
-   "quelle": "tmgm.com",
-   "zeit": "2026-11-24T23:26:49+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4103,7 +4090,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
@@ -4138,7 +4125,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "NZZ",
@@ -4250,7 +4237,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4280,7 +4267,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 18
    },
    {
     "name": "Google News Fed",
