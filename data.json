@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T14:16:28.922336+00:00",
+ "aktualisiert": "2026-11-26T14:31:29.307997+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -8,8 +8,8 @@
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,40 €",
-   "delta": 4.118067050169127
+   "wert": "42,36 €",
+   "delta": 4.012475614245603
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.803 $",
-   "delta": 4.311466785137695
+   "wert": "60.701 $",
+   "delta": 4.397051351848271
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.0821355654811775
+   "wert": "1.700 $",
+   "delta": 4.08431530089826
   },
   {
    "name": "Gold",
-   "wert": "3.603 $",
-   "delta": 1.9033867934409976
+   "wert": "3.602 $",
+   "delta": 1.8609635800441504
   },
   {
    "name": "EZB Zins",
@@ -65,8 +65,8 @@
   },
   {
    "name": "DAX",
-   "wert": "25.213",
-   "delta": 2.070060852385658
+   "wert": "25.202",
+   "delta": 2.0226965174357403
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.803 $",
-   "delta": 4.311466785137695
+   "wert": "60.701 $",
+   "delta": 4.397051351848271
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 4.0821355654811775
+   "wert": "1.700 $",
+   "delta": 4.08431530089826
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 6.34302332738059
+   "delta": 6.488421754464567
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,61 $",
-   "delta": 1.11137630429321
+   "wert": "84,81 $",
+   "delta": 1.3503820395592614
   },
   {
    "name": "EUR/USD",
@@ -4909,7 +4909,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "NZZ",
@@ -4944,7 +4944,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -4974,7 +4974,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 32
+    "n": 33
    },
    {
     "name": "The Block",
@@ -5021,7 +5021,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5031,12 +5031,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 39
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Google News NRW",
@@ -5051,13 +5051,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 22
+    "n": 18
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
