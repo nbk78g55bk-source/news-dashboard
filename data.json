@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T21:01:38.675566+00:00",
+ "aktualisiert": "2026-11-26T21:16:20.222480+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.697 $",
-   "delta": 0.7980717732124301
+   "wert": "60.750 $",
+   "delta": 0.945662052133044
   },
   {
    "name": "Ethereum",
    "wert": "1.703 $",
-   "delta": 0.9289917638985636
+   "delta": 1.041084464061493
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.697 $",
-   "delta": 0.7980717732124301
+   "wert": "60.750 $",
+   "delta": 0.945662052133044
   },
   {
    "name": "Ethereum",
    "wert": "1.703 $",
-   "delta": 0.9289917638985636
+   "delta": 1.041084464061493
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.0449401224894204
+   "delta": 1.353342612333474
   },
   {
    "name": "Rohöl WTI",
@@ -4447,19 +4447,6 @@
    "quelle": "AktienCheck.de",
    "zeit": "2026-11-24T21:20:45+00:00",
    "tag": null
-  },
-  {
-   "id": "c190ab57b96713b8",
-   "k": "trading",
-   "titel": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-   "t": "Coinkite veröffentlicht eine Analyse zu einer Schwachstelle bei Coldcard-Bitcoin-Wallets: Ein Software-Zufallsgenerator wurde über fünf Jahre statt des Hardware-Generators ausgeliefert.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T21:16:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4507,7 +4494,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -4522,7 +4509,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "CNBC Finance",
@@ -4567,7 +4554,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "The Block",
@@ -4644,12 +4631,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 20
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 32
+    "n": 40
    }
   ],
   "markt": [],
