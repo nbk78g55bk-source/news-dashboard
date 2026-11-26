@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T12:01:38.910030+00:00",
+ "aktualisiert": "2026-11-26T12:16:23.473904+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,66 €",
-   "delta": 2.7977766655738145
+   "wert": "125,64 €",
+   "delta": 2.781415408743393
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,34 €",
-   "delta": 3.9830082367785735
+   "wert": "42,37 €",
+   "delta": 4.0443986065015425
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.632 $",
-   "delta": 3.575162254695033
+   "wert": "60.591 $",
+   "delta": 3.562928491414991
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 3.8286893060634326
+   "delta": 3.6735223583974297
   },
   {
    "name": "Gold",
-   "wert": "3.595 $",
-   "delta": 1.6856142980038902
+   "wert": "3.598 $",
+   "delta": 1.7619760821181885
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.156",
-   "delta": 1.8354657062021218
+   "wert": "25.142",
+   "delta": 1.7812598562038984
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,09",
-   "delta": -4.241784647199176
+   "wert": "26,97",
+   "delta": -4.665962788296851
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.632 $",
-   "delta": 3.575162254695033
+   "wert": "60.591 $",
+   "delta": 3.562928491414991
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 3.8286893060634326
+   "delta": 3.6735223583974297
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.064944797180482
+   "delta": 4.699895947640432
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,48 $",
-   "delta": 0.9560225763703079
+   "wert": "84,28 $",
+   "delta": 0.7170168411042788
   },
   {
    "name": "EUR/USD",
@@ -5049,32 +5049,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T12:23:00+00:00",
    "tag": null
-  },
-  {
-   "id": "380db22eadf71646",
-   "k": "trading",
-   "titel": "Börsen in Turbulenzen: Eine Blase platzt selten schnell",
-   "t": "Die Börsen zeigen Panikanzeichen, Sorgen über einen Rückschlag bei den KI-Gewinnen belasten die Kurse.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/jensen-huang-und-nvidia-unruhe-um-anthropic-platzt-jetzt-die-ki-blase-accg-201712266.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-24T12:14:17+00:00",
-   "tag": null
-  },
-  {
-   "id": "89114610e6369c4a",
-   "k": "finanzen",
-   "titel": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-   "t": "JPMorgan, HSBC und StoneX haben in London die ersten digitalen Goldhandelsgeschäfte abgeschlossen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-24T12:04:39+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5152,7 +5126,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -5244,7 +5218,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Google News NRW",
