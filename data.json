@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T12:31:35.233336+00:00",
+ "aktualisiert": "2026-11-26T12:46:27.498533+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,78 €",
-   "delta": 2.900034520763972
+   "wert": "125,81 €",
+   "delta": 2.916395777594416
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,44 €",
-   "delta": 4.226114100881584
+   "wert": "42,45 €",
+   "delta": 4.240847789615088
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.567 $",
-   "delta": 3.2974273338169215
+   "wert": "60.851 $",
+   "delta": 3.79567284767545
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 3.3187849041698136
+   "wert": "1.707 $",
+   "delta": 3.961790221418921
   },
   {
    "name": "Gold",
-   "wert": "3.594 $",
-   "delta": 1.6573321557393106
+   "wert": "3.598 $",
+   "delta": 1.7732889390240203
   },
   {
    "name": "EZB Zins",
@@ -66,12 +66,12 @@
   {
    "name": "DAX",
    "wert": "25.160",
-   "delta": 1.8542090284942692
+   "delta": 1.851739605902858
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,90",
-   "delta": -4.913400037270499
+   "wert": "26,92",
+   "delta": -4.842703680420879
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.567 $",
-   "delta": 3.2974273338169215
+   "wert": "60.851 $",
+   "delta": 3.79567284767545
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 3.3187849041698136
+   "wert": "1.707 $",
+   "delta": 3.961790221418921
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.1390991375386985
+   "delta": 4.820232349244334
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,57 $",
-   "delta": 1.0635751572400043
+   "wert": "84,63 $",
+   "delta": 1.1352768778198241
   },
   {
    "name": "EUR/USD",
@@ -5023,19 +5023,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T13:07:49+00:00",
    "tag": null
-  },
-  {
-   "id": "0fe583e05a753b78",
-   "k": "trading",
-   "titel": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
-   "t": "Nvidia hat Jensen Huang wieder als CEO eingesetzt, zugleich betreffen US-Chipbeschränkungen das KI-Ökosystem.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-24T12:36:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5053,7 +5040,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -5113,7 +5100,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "WSJ USA",
@@ -5143,7 +5130,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "The Block",
@@ -5190,7 +5177,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5205,7 +5192,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Google News NRW",
