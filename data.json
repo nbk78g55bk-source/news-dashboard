@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T18:46:20.514523+00:00",
+ "aktualisiert": "2026-11-26T19:01:40.627256+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.573 $",
-   "delta": 1.605719324477525
+   "wert": "60.422 $",
+   "delta": 1.2625749908522357
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 1.0786503654811739
+   "delta": 1.1585927653145744
   },
   {
    "name": "Gold",
-   "wert": "3.597 $",
-   "delta": 1.7195528687213413
+   "wert": "3.596 $",
+   "delta": 1.691270726456784
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.573 $",
-   "delta": 1.605719324477525
+   "wert": "60.422 $",
+   "delta": 1.2625749908522357
   },
   {
    "name": "Ethereum",
    "wert": "1.699 $",
-   "delta": 1.0786503654811739
+   "delta": 1.1585927653145744
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 2.1757712319019955
+   "delta": 2.156755030899314
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,88 $",
-   "delta": 1.4340340469023438
+   "wert": "84,92 $",
+   "delta": 1.4818351939555718
   },
   {
    "name": "EUR/USD",
@@ -4603,19 +4603,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-24T19:04:26+00:00",
    "tag": null
-  },
-  {
-   "id": "c3a5e833a6d2ccda",
-   "k": "trading",
-   "titel": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-   "t": "Die CFTC erlaubt laut neuer Leitlinie, dass Bitcoin, Ether und Stablecoins auf Swap-Plattformen für die Betriebskostenreserve zählen.",
-   "e": "",
-   "tk": "BTC,ETH",
-   "s": 4,
-   "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T18:55:27+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4628,7 +4615,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -4658,7 +4645,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -4723,7 +4710,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "The Block",
@@ -4770,7 +4757,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 3
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4800,7 +4787,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 21
+    "n": 23
    },
    {
     "name": "Google News Fed",
