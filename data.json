@@ -1,10 +1,10 @@
 {
- "aktualisiert": "2026-11-26T15:31:34.521159+00:00",
+ "aktualisiert": "2026-11-26T15:46:21.086782+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,88 €",
-   "delta": 2.973660176500892
+   "wert": "125,92 €",
+   "delta": 3.0145633185769682
   },
   {
    "name": "iShares MSCI EM",
@@ -18,8 +18,8 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,66 €",
-   "delta": 4.547696127814271
+   "wert": "169,44 €",
+   "delta": 4.412127972986268
   },
   {
    "name": "Deka DAX",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.270 $",
-   "delta": 3.9390156490177386
+   "wert": "60.385 $",
+   "delta": 3.832105973509454
   },
   {
    "name": "Ethereum",
-   "wert": "1.683 $",
-   "delta": 3.0410011434423208
+   "wert": "1.687 $",
+   "delta": 2.759574055370208
   },
   {
    "name": "Gold",
-   "wert": "3.601 $",
-   "delta": 1.8439942946854249
+   "wert": "3.600 $",
+   "delta": 1.829853223553135
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.244",
-   "delta": 2.1915888297528774
+   "wert": "25.251",
+   "delta": 2.223569876428466
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,78",
-   "delta": -5.3375781783681635
+   "wert": "26,80",
+   "delta": -5.266881821518554
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.270 $",
-   "delta": 3.9390156490177386
+   "wert": "60.385 $",
+   "delta": 3.832105973509454
   },
   {
    "name": "Ethereum",
-   "wert": "1.683 $",
-   "delta": 3.0410011434423208
+   "wert": "1.687 $",
+   "delta": 2.759574055370208
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.326454153850646
+   "delta": 5.349305389117584
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,65 $",
-   "delta": 1.1591774513464381
+   "wert": "84,88 $",
+   "delta": 1.4340340469023438
   },
   {
    "name": "EUR/USD",
@@ -4815,19 +4815,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-24T15:50:12+00:00",
    "tag": null
-  },
-  {
-   "id": "2aa2cb820bbe2e9f",
-   "k": "deutschland",
-   "titel": "Bilanz des Spendenrats: Deutsche spenden wieder mehr",
-   "t": "Die Deutschen spenden laut Bilanz des Spendenrats wieder mehr, die Zahl der Spender geht aber zurück.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T15:42:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4840,7 +4827,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -4910,7 +4897,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -4992,7 +4979,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -5012,12 +4999,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 21
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 0
+    "n": 39
    }
   ],
   "markt": [],
