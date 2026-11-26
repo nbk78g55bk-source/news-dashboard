@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T15:16:26.893264+00:00",
+ "aktualisiert": "2026-11-26T15:31:34.521159+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,79 €",
-   "delta": 2.9041248349716
+   "wert": "125,88 €",
+   "delta": 2.973660176500892
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,41 €",
-   "delta": 4.142623198058315
+   "wert": "42,40 €",
+   "delta": 4.118067050169127
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.197 $",
-   "delta": 3.907324197884275
+   "wert": "60.270 $",
+   "delta": 3.9390156490177386
   },
   {
    "name": "Ethereum",
-   "wert": "1.678 $",
-   "delta": 2.745667152244741
+   "wert": "1.683 $",
+   "delta": 3.0410011434423208
   },
   {
    "name": "Gold",
-   "wert": "3.604 $",
-   "delta": 1.9175278645732874
+   "wert": "3.601 $",
+   "delta": 1.8439942946854249
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.245",
-   "delta": 2.1965681572732487
+   "wert": "25.244",
+   "delta": 2.1915888297528774
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,83",
-   "delta": -5.1608372862441465
+   "wert": "26,78",
+   "delta": -5.3375781783681635
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.197 $",
-   "delta": 3.907324197884275
+   "wert": "60.270 $",
+   "delta": 3.9390156490177386
   },
   {
    "name": "Ethereum",
-   "wert": "1.678 $",
-   "delta": 2.745667152244741
+   "wert": "1.683 $",
+   "delta": 3.0410011434423208
   },
   {
    "name": "Solana",
-   "wert": "70 $",
-   "delta": 5.04220575983012
+   "wert": "71 $",
+   "delta": 5.326454153850646
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,66 $",
-   "delta": 1.171127738109723
+   "wert": "84,65 $",
+   "delta": 1.1591774513464381
   },
   {
    "name": "EUR/USD",
@@ -4828,19 +4828,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-24T15:42:18+00:00",
    "tag": null
-  },
-  {
-   "id": "71ce39ec3d62821e",
-   "k": "deutschland",
-   "titel": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
-   "t": "Geflüchtete müssen laut Bericht in deutschen Konsulaten bei Taliban-Vertretern vorsprechen, auf Anordnung deutscher Behörden. Seit 2024 gibt es Sammelabschiebungen nach Afghanistan.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-24T15:18:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4853,7 +4840,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
@@ -4883,7 +4870,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -4918,7 +4905,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "WSJ USA",
@@ -5005,7 +4992,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 40
+    "n": 39
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -5030,7 +5017,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 0
    }
   ],
   "markt": [],
