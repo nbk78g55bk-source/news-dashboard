@@ -225,6 +225,7 @@ main.compact .card.big h3{font-size:15.5px}
 .brief.done .in{padding:9px 16px}
 .brief.done h2{margin:0}
 .brief.done::before{height:2px}
+.ei{font-size:10.5px;font-weight:750;letter-spacing:.04em;text-transform:uppercase;color:var(--dn);background:color-mix(in srgb,var(--dn) 13%,transparent);border-radius:999px;padding:2px 9px}
 footer{color:var(--mu);font-size:12px;padding:6px 0 44px;text-align:center}
 footer details{margin-top:6px}
 footer summary{cursor:pointer}
@@ -480,6 +481,7 @@ function renderList(){
     tickersOf(i).slice(0,3).forEach(t=>top.appendChild(el("span","tkr",t)));
     top.appendChild(el("span","",i.quelle+" · "+(grouped?clock(i.zeit)+" Uhr":ago(i.zeit))));
     if(i.tag)top.appendChild(el("span","tag",i.tag));
+    if(i.p)top.appendChild(el("span","ei","Eilmeldung"));
     top.appendChild(meter(i.s||1));
     const c=el("button","chk");c.type="button";
     c.setAttribute("aria-label",isRead?"Als ungelesen markieren":"Als gelesen markieren");
