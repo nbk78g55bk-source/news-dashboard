@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T17:31:33.577988+00:00",
+ "aktualisiert": "2026-11-26T17:46:27.053773+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.454 $",
-   "delta": 2.258184350845355
+   "wert": "60.363 $",
+   "delta": 1.212310874252901
   },
   {
    "name": "Ethereum",
-   "wert": "1.692 $",
-   "delta": 2.0455396119467477
+   "wert": "1.689 $",
+   "delta": 0.850028296711716
   },
   {
    "name": "Gold",
-   "wert": "3.597 $",
-   "delta": 1.7195528687213413
+   "wert": "3.595 $",
+   "delta": 1.6686450126451424
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.454 $",
-   "delta": 2.258184350845355
+   "wert": "60.363 $",
+   "delta": 1.212310874252901
   },
   {
    "name": "Ethereum",
-   "wert": "1.692 $",
-   "delta": 2.0455396119467477
+   "wert": "1.689 $",
+   "delta": 0.850028296711716
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 3.3457105366131854
+   "delta": 2.3415041488023642
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,69 $",
-   "delta": 1.2069785983996217
+   "wert": "84,83 $",
+   "delta": 1.3742826130858532
   },
   {
    "name": "EUR/USD",
@@ -4698,19 +4698,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-24T18:05:03+00:00",
    "tag": null
-  },
-  {
-   "id": "380cd6eed7f6c73c",
-   "k": "trading",
-   "titel": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-   "t": "Die Kursentwicklung von Bitcoin, Ripple und weiteren Kryptowährungen am Vormittag im Überblick.",
-   "e": "",
-   "tk": "BTC,XRP",
-   "s": 3,
-   "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T17:43:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4748,7 +4735,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -4788,7 +4775,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 31
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -4818,7 +4805,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 34
+    "n": 32
    },
    {
     "name": "The Block",
@@ -4895,12 +4882,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 39
    }
   ],
   "markt": [],
