@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T16:31:43.681314+00:00",
+ "aktualisiert": "2026-11-26T16:46:17.082691+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,96 €",
-   "delta": 3.043195518030206
+   "wert": "125,81 €",
+   "delta": 2.924576406009627
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,45 €",
-   "delta": 4.240847789615088
+   "wert": "42,40 €",
+   "delta": 4.113155820591308
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.390 $",
-   "delta": 3.0232435402634192
+   "wert": "60.472 $",
+   "delta": 4.035936639398755
   },
   {
    "name": "Ethereum",
-   "wert": "1.684 $",
-   "delta": 2.3886043171953477
+   "wert": "1.689 $",
+   "delta": 3.6080037979540616
   },
   {
    "name": "Gold",
    "wert": "3.599 $",
-   "delta": 1.795914652835684
+   "delta": 1.78743001015631
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.264",
-   "delta": 2.274496657083991
+   "wert": "25.231",
+   "delta": 2.142686165975527
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,66",
-   "delta": -5.761756319465849
+   "wert": "26,80",
+   "delta": -5.266881821518554
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.390 $",
-   "delta": 3.0232435402634192
+   "wert": "60.472 $",
+   "delta": 4.035936639398755
   },
   {
    "name": "Ethereum",
-   "wert": "1.684 $",
-   "delta": 2.3886043171953477
+   "wert": "1.689 $",
+   "delta": 3.6080037979540616
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 4.2768343947312735
+   "delta": 5.371178628402732
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,10 $",
-   "delta": 1.696940355694987
+   "wert": "85,00 $",
+   "delta": 1.5774374880619835
   },
   {
    "name": "EUR/USD",
@@ -4737,32 +4737,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-24T17:00:02+00:00",
    "tag": null
-  },
-  {
-   "id": "059a5e833333fc1c",
-   "k": "usa",
-   "titel": "Legal fight over 20,000 California ballots ends as appeals court OKs DOJ dismissal",
-   "t": "Ein Berufungsgericht hat das Justizministerium-Verfahren zu 20.000 Stimmzetteln in Kalifornien bestätigt, der Rechtsstreit ist damit beendet.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://nypost.com/2026/11/24/us-news/fight-over-20k-california-ballots-ends-as-court-oks-doj-dismissal/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-24T16:35:35+00:00",
-   "tag": null
-  },
-  {
-   "id": "bf949efa44bb73bc",
-   "k": "nrw",
-   "titel": "Raubserie in Altena und Iserlohn: 21-Jähriger verurteilt - Radio MK",
-   "t": "Ein 21-Jähriger wurde wegen einer Raubserie in Altena und Iserlohn verurteilt.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZm50N0dfeFdyLTV5RHNZeFFWdEh2OUJyNVlrWVJrVlZycm8wazBrTlBvcl9paGE1SXlLeFllMUJ0WHhXbFNCNGVhOUJrMUZ4Qnc2ZDlnQ2w5d1I4M3RNZC1Ea2RtWmFFZW1wcXUxbTFyU1BrN1RqSDBHTEExWVduZjA3eGlyNTdUaHZ4SVNhUEMzd0F6alhrdGQ2NA?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-24T16:35:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4770,7 +4744,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -4780,7 +4754,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -4800,7 +4774,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 38
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -4810,7 +4784,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Handelsblatt",
@@ -4870,7 +4844,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "The Block",
@@ -4917,7 +4891,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4927,7 +4901,7 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 37
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -4941,15 +4915,13 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 20
    },
    {
     "name": "Google News Fed",
