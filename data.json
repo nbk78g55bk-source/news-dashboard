@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T14:31:29.307997+00:00",
+ "aktualisiert": "2026-11-26T14:46:22.979780+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,67 €",
-   "delta": 2.80186697978142
+   "wert": "125,61 €",
+   "delta": 2.756873523497738
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,36 €",
-   "delta": 4.012475614245603
+   "wert": "42,37 €",
+   "delta": 4.032120532556971
   },
   {
    "name": "Deka S&P 500",
@@ -23,23 +23,23 @@
   },
   {
    "name": "Deka DAX",
-   "wert": "219,60 €",
-   "delta": 1.8080681997847403
+   "wert": "220,00 €",
+   "delta": 1.9935109469610302
   },
   {
    "name": "Bitcoin",
-   "wert": "60.701 $",
-   "delta": 4.397051351848271
+   "wert": "60.690 $",
+   "delta": 5.732141369779646
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 4.08431530089826
+   "wert": "1.698 $",
+   "delta": 5.438075061186031
   },
   {
    "name": "Gold",
-   "wert": "3.602 $",
-   "delta": 1.8609635800441504
+   "wert": "3.611 $",
+   "delta": 2.1183310746516693
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.202",
-   "delta": 2.0226965174357403
+   "wert": "25.214",
+   "delta": 2.0701418170608
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,10",
-   "delta": -4.2064364687743545
+   "wert": "27,03",
+   "delta": -4.453873717748003
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.701 $",
-   "delta": 4.397051351848271
+   "wert": "60.690 $",
+   "delta": 5.732141369779646
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": 4.08431530089826
+   "wert": "1.698 $",
+   "delta": 5.438075061186031
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 6.488421754464567
+   "delta": 8.023124567400734
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,81 $",
-   "delta": 1.3503820395592614
+   "wert": "84,70 $",
+   "delta": 1.2189288851629287
   },
   {
    "name": "EUR/USD",
@@ -4889,7 +4889,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 28
    },
    {
     "name": "Welt",
@@ -4990,7 +4990,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "CNBC Investing",
@@ -5036,7 +5036,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "Google News NRW",
@@ -5051,7 +5051,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 16
    },
    {
     "name": "Google News Fed",
