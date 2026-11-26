@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-26T16:46:17.082691+00:00",
+ "aktualisiert": "2026-11-26T17:01:46.326266+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,81 €",
-   "delta": 2.924576406009627
+   "wert": "125,83 €",
+   "delta": 2.9327570344248377
   },
   {
    "name": "iShares MSCI EM",
    "wert": "42,40 €",
-   "delta": 4.113155820591308
+   "delta": 4.110700205802376
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,00 €",
-   "delta": 3.046366883040874
+   "wert": "137,15 €",
+   "delta": 3.1591954901612596
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,48 €",
-   "delta": 4.436776728409542
+   "wert": "169,44 €",
+   "delta": 4.412127972986268
   },
   {
    "name": "Deka DAX",
-   "wert": "220,00 €",
-   "delta": 1.9935109469610302
+   "wert": "220,40 €",
+   "delta": 2.17895369413732
   },
   {
    "name": "Bitcoin",
-   "wert": "60.472 $",
-   "delta": 4.035936639398755
+   "wert": "60.481 $",
+   "delta": 3.374933944712746
   },
   {
    "name": "Ethereum",
-   "wert": "1.689 $",
-   "delta": 3.6080037979540616
+   "wert": "1.691 $",
+   "delta": 2.9072007290554676
   },
   {
    "name": "Gold",
-   "wert": "3.599 $",
-   "delta": 1.78743001015631
+   "wert": "3.598 $",
+   "delta": 1.7704607247975623
   },
   {
    "name": "EZB Zins",
@@ -65,8 +65,8 @@
   },
   {
    "name": "DAX",
-   "wert": "25.231",
-   "delta": 2.142686165975527
+   "wert": "25.216",
+   "delta": 2.078319249248728
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.472 $",
-   "delta": 4.035936639398755
+   "wert": "60.481 $",
+   "delta": 3.374933944712746
   },
   {
    "name": "Ethereum",
-   "wert": "1.689 $",
-   "delta": 3.6080037979540616
+   "wert": "1.691 $",
+   "delta": 2.9072007290554676
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.371178628402732
+   "delta": 4.66542098294093
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,00 $",
-   "delta": 1.5774374880619835
+   "wert": "84,62 $",
+   "delta": 1.123326591056517
   },
   {
    "name": "EUR/USD",
@@ -4724,19 +4724,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-24T17:08:00+00:00",
    "tag": null
-  },
-  {
-   "id": "5d1b4886d8278a63",
-   "k": "trading",
-   "titel": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
-   "t": "Dell hat die Erwartungen übertroffen und die Umsatzprognose angehoben, der Aktienkurs liegt aber weiterhin bei rund 295 US-Dollar.",
-   "e": "",
-   "tk": "DELL",
-   "s": 5,
-   "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
-   "quelle": "The Block",
-   "zeit": "2026-11-24T17:00:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4774,7 +4761,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "FAZ Finanzen",
@@ -4814,7 +4801,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "WSJ USA",
@@ -4891,7 +4878,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4900,8 +4887,9 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -4921,12 +4909,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 39
    }
   ],
   "markt": [],
