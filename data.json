@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-26T10:16:20.283089+00:00",
+ "aktualisiert": "2026-11-26T10:31:37.778522+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,72 €",
-   "delta": 2.8468604360651018
+   "wert": "125,69 €",
+   "delta": 2.822318550819447
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,42 €",
-   "delta": 4.172090575525345
+   "wert": "42,41 €",
+   "delta": 4.130345124113721
   },
   {
    "name": "Deka S&P 500",
@@ -18,8 +18,8 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,26 €",
-   "delta": 4.301208573581539
+   "wert": "169,34 €",
+   "delta": 4.350506084428085
   },
   {
    "name": "Deka DAX",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.882 $",
-   "delta": 3.3273866735546753
+   "wert": "60.751 $",
+   "delta": 3.2061731767467307
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 3.6652690259597707
+   "wert": "1.700 $",
+   "delta": 3.469286157004937
   },
   {
    "name": "Gold",
-   "wert": "3.601 $",
-   "delta": 1.838337866232509
+   "wert": "3.588 $",
+   "delta": 1.4763264452461344
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.246",
-   "delta": 2.199968673628616
+   "wert": "25.240",
+   "delta": 2.177055670567385
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,91",
-   "delta": -4.878051858845689
+   "wert": "26,99",
+   "delta": -4.595266431447243
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.882 $",
-   "delta": 3.3273866735546753
+   "wert": "60.751 $",
+   "delta": 3.2061731767467307
   },
   {
    "name": "Ethereum",
-   "wert": "1.703 $",
-   "delta": 3.6652690259597707
+   "wert": "1.700 $",
+   "delta": 3.469286157004937
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 5.145957382569274
+   "delta": 4.815761140269066
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,56 $",
-   "delta": -0.14340380585342594
+   "wert": "83,70 $",
+   "delta": 0.023900208832805525
   },
   {
    "name": "EUR/USD",
@@ -5114,32 +5114,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-24T10:48:11+00:00",
    "tag": null
-  },
-  {
-   "id": "128150fd12cebd5b",
-   "k": "finanzen",
-   "titel": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
-   "t": "Der ifo-Index steigt im November den siebten Monat in Folge und erreicht den höchsten Stand seit dem Frühjahr.",
-   "e": "Die Stimmung in der deutschen Wirtschaft verbessert sich weiter, der Aufschwung gewinnt an Fahrt.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-24T10:28:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "6998244df8a151f5",
-   "k": "finanzen",
-   "titel": "Im Blickpunkt: Was machen Sie mit unseren Zinsen, Herr Brunnermeier?",
-   "t": "Deutschland schlägt Markus Brunnermeier als neuen Chefvolkswirt der EZB vor, er gilt als aussichtsreicher Kandidat.",
-   "e": "Der Chefvolkswirt prägt die analytische Grundlage der EZB-Zinsentscheidungen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/finanzen/deutschlands-kandidat-fuer-ezb-chefvolkswirt-was-machen-sie-mit-unseren-zinsen-herr-brunnermeier-accg-201695756.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-24T10:24:46+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -5162,7 +5136,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Welt",
@@ -5294,7 +5268,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 14
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -5304,12 +5278,12 @@
    {
     "name": "Google News Iserlohn",
     "ok": true,
-    "n": 38
+    "n": 36
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 22
+    "n": 20
    },
    {
     "name": "Google News NRW",
@@ -5324,7 +5298,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 25
+    "n": 11
    },
    {
     "name": "Google News Fed",
