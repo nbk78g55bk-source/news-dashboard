@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T22:31:29.677544+00:00",
+ "aktualisiert": "2026-11-26T22:46:26.455663+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.549 $",
-   "delta": 0.8159886001621297
+   "wert": "60.575 $",
+   "delta": 0.7244062141933709
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 0.8427187707476133
+   "wert": "1.696 $",
+   "delta": 0.6147322900980938
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.549 $",
-   "delta": 0.8159886001621297
+   "wert": "60.575 $",
+   "delta": 0.7244062141933709
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": 0.8427187707476133
+   "wert": "1.696 $",
+   "delta": 0.6147322900980938
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 1.1592049390273962
+   "delta": 1.0915453131528803
   },
   {
    "name": "Rohöl WTI",
@@ -4213,19 +4213,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-24T22:54:51+00:00",
    "tag": null
-  },
-  {
-   "id": "eeeb020a15d1468d",
-   "k": "welt",
-   "titel": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-   "t": "Beschäftigte bei OpenAI und Anthropic äußern laut Bericht Zweifel, ob ihre stärksten KI-Modelle überhaupt veröffentlicht werden sollten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-24T22:36:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4303,7 +4290,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "WSJ USA",
@@ -4333,7 +4320,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "The Block",
@@ -4380,13 +4367,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 36
    },
    {
     "name": "Google News Iserlohn",
@@ -4411,7 +4397,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 19
    },
    {
     "name": "Google News Fed",
