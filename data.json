@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-26T22:16:19.680620+00:00",
+ "aktualisiert": "2026-11-26T22:31:29.677544+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.503 $",
-   "delta": 0.7328147004830009
+   "wert": "60.549 $",
+   "delta": 0.8159886001621297
   },
   {
    "name": "Ethereum",
-   "wert": "1.695 $",
-   "delta": 0.7582906821935834
+   "wert": "1.697 $",
+   "delta": 0.8427187707476133
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.503 $",
-   "delta": 0.7328147004830009
+   "wert": "60.549 $",
+   "delta": 0.8159886001621297
   },
   {
    "name": "Ethereum",
-   "wert": "1.695 $",
-   "delta": 0.7582906821935834
+   "wert": "1.697 $",
+   "delta": 0.8427187707476133
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.8729907623778611
+   "delta": 1.1592049390273962
   },
   {
    "name": "Rohöl WTI",
@@ -4226,32 +4226,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-24T22:36:02+00:00",
    "tag": null
-  },
-  {
-   "id": "76d805a874cb415f",
-   "k": "trading",
-   "titel": "Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - HPPR",
-   "t": "Bitcoin rutscht Richtung 60.000 Dollar, nachdem die Erholung nach der Nvidia-Rally nachlässt.",
-   "e": "",
-   "tk": "BTC",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB?oc=5",
-   "quelle": "HPPR",
-   "zeit": "2026-11-24T22:18:45+00:00",
-   "tag": null
-  },
-  {
-   "id": "705ac5d47cc40c45",
-   "k": "trading",
-   "titel": "Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss",
-   "t": "BlackRock hat in Hongkong einen tokenisierten Geldmarktfonds gestartet, der Stablecoins akzeptiert; das Volumen liegt bei rund 100 Millionen US-Dollar.",
-   "e": "",
-   "tk": "BLK",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-24T22:16:44+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4289,7 +4263,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -4329,7 +4303,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -4406,12 +4380,13 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 38
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -4436,12 +4411,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 21
+    "n": 14
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 34
    }
   ],
   "markt": [],
