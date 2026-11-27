@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T18:01:52.857656+00:00",
+ "aktualisiert": "2026-11-27T18:16:23.129648+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.761 $",
-   "delta": -1.2001036707524808
+   "wert": "59.857 $",
+   "delta": -0.9768922538869185
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -1.5196632127449063
+   "wert": "1.670 $",
+   "delta": -1.266720048899777
   },
   {
    "name": "Gold",
-   "wert": "3.663 $",
-   "delta": 3.589002472408853
+   "wert": "3.681 $",
+   "delta": 4.1122221043032425
   },
   {
    "name": "EZB Zins",
@@ -55,8 +55,8 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.298",
-   "delta": 1.605091876574094
+   "wert": "7.297",
+   "delta": 1.5970170083845048
   },
   {
    "name": "Nasdaq-100",
@@ -70,8 +70,8 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,74",
-   "delta": -7.686564536210383
+   "wert": "23,96",
+   "delta": -10.597012380258708
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.761 $",
-   "delta": -1.2001036707524808
+   "wert": "59.857 $",
+   "delta": -0.9768922538869185
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -1.5196632127449063
+   "wert": "1.670 $",
+   "delta": -1.266720048899777
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.1953154096569414
+   "delta": 1.2074658637223603
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,70 $",
-   "delta": -1.17112846749734
+   "wert": "82,83 $",
+   "delta": -1.0157747395744265
   },
   {
    "name": "EUR/USD",
@@ -2118,33 +2118,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T18:24:47+00:00",
    "tag": null
-  },
-  {
-   "id": "aebd3b2acbfb9e06",
-   "k": "deutschland",
-   "titel": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-   "t": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Vert",
-   "e": "",
-   "tk": "",
-   "p": false,
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-25T18:10:19+00:00",
-   "tag": null
-  },
-  {
-   "id": "21c5556dbd5e0d64",
-   "k": "trading",
-   "titel": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
-   "t": "Das US-Justizministerium kündigt nach einer Anweisung Trumps seine \"größte jemals\" Offensive gegen Krypto-Betrugserlöse an.",
-   "e": "Die Beschlagnahmung von Krypto-Erlösen könnte den Markt für betroffene Coins und Börsen beeinflussen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T18:05:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2157,7 +2130,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -2299,7 +2272,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 7
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2313,9 +2286,8 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
+    "ok": true,
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -2329,14 +2301,13 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 13
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 26
+    "n": 40
    }
   ],
   "markt": [],
