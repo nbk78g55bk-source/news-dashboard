@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T20:16:24.608795+00:00",
+ "aktualisiert": "2026-11-27T20:31:35.752357+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.726 $",
-   "delta": -1.5621786022860553
+   "wert": "59.745 $",
+   "delta": -1.4602535890004775
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -2.0078324338176
+   "wert": "1.665 $",
+   "delta": -2.1122368016605106
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.726 $",
-   "delta": -1.5621786022860553
+   "wert": "59.745 $",
+   "delta": -1.4602535890004775
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -2.0078324338176
+   "wert": "1.665 $",
+   "delta": -2.1122368016605106
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.0219392664044198
+   "delta": 1.0704081759452033
   },
   {
    "name": "Rohöl WTI",
@@ -1727,19 +1727,6 @@
    "quelle": "Foreign Policy Journal",
    "zeit": "2026-11-25T20:33:00+00:00",
    "tag": null
-  },
-  {
-   "id": "bc807cc0ccc79b6c",
-   "k": "finanzen",
-   "titel": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
-   "t": "Das Beige Book der Fed meldet für die US-Wirtschaft ein leichtes bis moderates Wachstum. Gleichzeitig bleibt die Inflation hartnäckig, und die Notenbanker zeigen sich zunehmend besorgt.",
-   "e": "Die Einschätzung stützt die Erwartung einer restriktiven Fed-Haltung vor der Dezember-Sitzung.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T20:24:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1827,7 +1814,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "New York Post Politik",
@@ -1924,7 +1911,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Google News Fed",
