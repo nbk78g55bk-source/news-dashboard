@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T21:46:21.338086+00:00",
+ "aktualisiert": "2026-11-27T22:01:44.727473+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.781 $",
-   "delta": -1.7348839539723924
+   "wert": "59.758 $",
+   "delta": -1.5536600319065559
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -2.455726519944034
+   "wert": "1.663 $",
+   "delta": -2.288470398056228
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.781 $",
-   "delta": -1.7348839539723924
+   "wert": "59.758 $",
+   "delta": -1.5536600319065559
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -2.455726519944034
+   "wert": "1.663 $",
+   "delta": -2.288470398056228
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.394003784461741
+   "delta": 0.5854326641860833
   },
   {
    "name": "Rohöl WTI",
@@ -1441,84 +1441,6 @@
    "quelle": "MarketWatch",
    "zeit": "2026-11-25T22:11:00+00:00",
    "tag": null
-  },
-  {
-   "id": "6ca09705fdcfb084",
-   "k": "trading",
-   "titel": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher. - Investor's Business Daily",
-   "t": "Die Dow-Jones-Futures schwankten stark, Nasdaq und Nvidia verringerten ihre Verluste, während Anthropic wieder höher notierte.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
-   "quelle": "Investor's Business Daily",
-   "zeit": "2026-11-25T21:55:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f7f2f5b635bc1733",
-   "k": "finanzen",
-   "titel": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-   "t": "Die Schweiz hat 57 Jurisdiktionen für den Austausch von Krypto-Steuerdaten freigegeben, ab 2028 sollen Daten mit ausländischen Behörden getauscht werden.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T21:53:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "b35406599eb8966d",
-   "k": "trading",
-   "titel": "Autodesk Aktie: Erwartungen übertroffen, Kurs fällt – warum gute Zahlen bei Software nicht mehr reichen - AktienCheck.de",
-   "t": "Die Autodesk-Aktie fällt, obwohl das Unternehmen die Erwartungen übertroffen hat.",
-   "e": "",
-   "tk": "ADSK",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnVsaU0xcUR4TFlabGY1M3JTOHk2c2ZEdWw4MGtDZVYyN2pld25SS0szZnZFbHk0MUl6c1UxV2hfdmF3QnFONUQzTndyZHZUM2hFRjNlU1lqRk1jNVR5UWxMV3dRYWFwalNCcndKSVl3NkZhLWlBZno1MDR3MV9EVFNPQTBoWXFUWEhWb1VVRTVGWnliWHU1Q2ZXRFlEdW5UeXViRA?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T21:51:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8ba9b6b379a2e171",
-   "k": "trading",
-   "titel": "Strategy Aktie: Nasdaq100 Gewinner mit plus 3,1 Prozent – 850.000 Bitcoin und ein Abschlag - AktienCheck.de",
-   "t": "Die Strategy-Aktie gehörte mit plus 3,1 Prozent zu den Gewinnern im Nasdaq 100, das Unternehmen hält rund 850.000 Bitcoin.",
-   "e": "",
-   "tk": "MSTR",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0s5bE0wXzFhdTF2aE1KQ2MyU21PRGd0cHlTTEVlOGpsT0Zyazg2WTUtdFFJTDJfN0VQdnZaMTZOdHQ5NGNzWVctUGRranRfUHdCd0p0REQ1N2I0dzMta2Q5SWNkWW40UVBXRDJvMDM4eS15YVdObXk1TVVoaG80dlMtd2N4VFh0VlJpOVdOQXRsM0szbWoxZEpadk82VnoycC0yV2JqVC1vZnc?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T21:50:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "19c7121dfc34ccb3",
-   "k": "usa",
-   "titel": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-   "t": "SpaceX und Elon Musk wollen rund 17,8 Milliarden US-Dollar in sogenannte Trump-Konten spenden, unter anderem durch Aktien der Klasse A.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T21:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fc2924d4ed048ba1",
-   "k": "usa",
-   "titel": "Trump's birthright citizenship restrictions struck down again by DC federal judge he called 'hater'",
-   "t": "Ein Bundesrichter in DC hat die zweite Anordnung zur Einschränkung des Geburtsrechts (Birthright Citizenship) von Präsident Trump gekippt und sich dabei auf den 14. Verfassungszusatz gestützt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T21:48:11+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1576,7 +1498,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "CNBC Politik",
@@ -1601,7 +1523,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Fox News Politik",
@@ -1642,7 +1564,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "CNBC Investing",
@@ -1673,7 +1595,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1707,8 +1629,9 @@
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
