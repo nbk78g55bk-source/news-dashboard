@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T10:16:14.697903+00:00",
+ "aktualisiert": "2026-11-27T10:31:37.465724+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -8,8 +8,8 @@
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,30 €",
-   "delta": 2.1298692231026095
+   "wert": "43,32 €",
+   "delta": 2.1770423728592503
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.609 $",
-   "delta": 1.1803923228452844
+   "wert": "61.633 $",
+   "delta": 1.4164090966583212
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 1.429402214933515
+   "wert": "1.728 $",
+   "delta": 1.603213252216686
   },
   {
    "name": "Gold",
-   "wert": "3.698 $",
-   "delta": 4.595846737027243
+   "wert": "3.699 $",
+   "delta": 4.626957093518258
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.413",
-   "delta": 0.7842014458791402
+   "wert": "25.410",
+   "delta": 0.7694486267060485
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,91",
-   "delta": -7.052236159943426
+   "wert": "24,89",
+   "delta": -7.126863027739539
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.609 $",
-   "delta": 1.1803923228452844
+   "wert": "61.633 $",
+   "delta": 1.4164090966583212
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 1.429402214933515
+   "wert": "1.728 $",
+   "delta": 1.603213252216686
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.2774255296224846
+   "delta": 3.4310500333930785
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,71 $",
-   "delta": 2.425907848256359
+   "wert": "85,82 $",
+   "delta": 2.5573610026526916
   },
   {
    "name": "EUR/USD",
@@ -3308,19 +3308,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-25T10:40:12+00:00",
    "tag": null
-  },
-  {
-   "id": "db4b24dc0e93174e",
-   "k": "trading",
-   "titel": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-   "t": "Die japanischen Finanzkonzerne SBI und SMFG gründen ein Solana-Joint-Venture für Stablecoin-Zahlungen und Tokenisierung.",
-   "e": "",
-   "tk": "SOL",
-   "s": 5,
-   "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T10:23:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3428,7 +3415,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 28
+    "n": 29
    },
    {
     "name": "The Block",
@@ -3475,12 +3462,13 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -3490,7 +3478,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 27
+    "n": 29
    },
    {
     "name": "Google News NRW",
@@ -3499,14 +3487,14 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 16
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
