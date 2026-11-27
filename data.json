@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T18:31:30.300654+00:00",
+ "aktualisiert": "2026-11-27T18:46:21.761428+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.787 $",
-   "delta": -1.3909481897560387
+   "wert": "59.758 $",
+   "delta": -1.3569173973680448
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -1.9123474906588611
+   "wert": "1.666 $",
+   "delta": -1.9404385363984737
   },
   {
    "name": "Gold",
-   "wert": "3.675 $",
-   "delta": 3.928388179583586
+   "wert": "3.668 $",
+   "delta": 3.7530388975433038
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.787 $",
-   "delta": -1.3909481897560387
+   "wert": "59.758 $",
+   "delta": -1.3569173973680448
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -1.9123474906588611
+   "wert": "1.666 $",
+   "delta": -1.9404385363984737
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.5845130217295442
+   "delta": 0.7559455318614438
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,97 $",
-   "delta": -0.8484707248882062
+   "wert": "83,10 $",
+   "delta": -0.6931169969653039
   },
   {
    "name": "EUR/USD",
@@ -2092,19 +2092,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-25T18:52:00+00:00",
    "tag": null
-  },
-  {
-   "id": "907fc8e8110d387b",
-   "k": "finanzen",
-   "titel": "„Sieht im Moment nicht so aus, als würde es noch einmal eskalieren“",
-   "t": "Chefvolkswirt Edgar Walk erwartet nach den neuen US-Industriezöllen gegen die EU und 13 weitere Partner nur geringe Folgen für Deutschlands BIP.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.welt.de/videos/video6b071afcd4a4a3142c573b06/handelskonflikt-und-zoelle-sieht-im-moment-nicht-so-aus-als-wuerde-es-noch-einmal-eskalieren.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T18:40:38+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2137,12 +2124,12 @@
    {
     "name": "Welt Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
@@ -2259,7 +2246,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2289,12 +2276,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 40
    }
   ],
   "markt": [],
