@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T20:01:40.585329+00:00",
+ "aktualisiert": "2026-11-27T20:16:24.608795+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.860 $",
-   "delta": -1.2877101969048657
+   "wert": "59.726 $",
+   "delta": -1.5621786022860553
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.9139837293920936
+   "wert": "1.668 $",
+   "delta": -2.0078324338176
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.860 $",
-   "delta": -1.2877101969048657
+   "wert": "59.726 $",
+   "delta": -1.5621786022860553
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.9139837293920936
+   "wert": "1.668 $",
+   "delta": -2.0078324338176
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.0431785952241954
+   "delta": 1.0219392664044198
   },
   {
    "name": "Rohöl WTI",
@@ -1847,7 +1847,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "The Block",
@@ -1924,13 +1924,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
