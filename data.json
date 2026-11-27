@@ -1,25 +1,25 @@
 {
- "aktualisiert": "2026-11-27T16:01:47.306112+00:00",
+ "aktualisiert": "2026-11-27T16:16:20.895768+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,11 €",
-   "delta": 1.0252359094341523
+   "wert": "127,02 €",
+   "delta": 0.9457604455554325
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,42 €",
-   "delta": 2.403473491691055
+   "wert": "43,37 €",
+   "delta": 2.2926165897629858
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,53 €",
-   "delta": 0.2770758800547668
+   "wert": "138,19 €",
+   "delta": 0.7619641219034134
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,94 €",
-   "delta": 0.2950882621514772
+   "wert": "171,72 €",
+   "delta": 1.345607604899679
   },
   {
    "name": "Deka DAX",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.127 $",
-   "delta": -0.7660954909077708
+   "wert": "60.017 $",
+   "delta": -0.8787886576337154
   },
   {
    "name": "Ethereum",
-   "wert": "1.673 $",
-   "delta": -1.0908851631155927
+   "wert": "1.672 $",
+   "delta": -0.9756595137580978
   },
   {
    "name": "Gold",
-   "wert": "3.657 $",
-   "delta": 3.4249660472744026
+   "wert": "3.649 $",
+   "delta": 3.1958806949314633
   },
   {
    "name": "EZB Zins",
@@ -55,23 +55,23 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.267",
-   "delta": 1.169745103662856
+   "wert": "7.260",
+   "delta": 1.076188010155854
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.493",
-   "delta": 1.7118758957418656
+   "wert": "26.472",
+   "delta": 1.6339510766823606
   },
   {
    "name": "DAX",
-   "wert": "25.440",
-   "delta": 0.8916749403927726
+   "wert": "25.453",
+   "delta": 0.9416441666241893
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,33",
-   "delta": -5.485071936225094
+   "wert": "25,35",
+   "delta": -5.41044506842897
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.127 $",
-   "delta": -0.7660954909077708
+   "wert": "60.017 $",
+   "delta": -0.8787886576337154
   },
   {
    "name": "Ethereum",
-   "wert": "1.673 $",
-   "delta": -1.0908851631155927
+   "wert": "1.672 $",
+   "delta": -0.9756595137580978
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.5926794858905937
+   "delta": 1.7638153974907338
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,53 $",
-   "delta": -0.17925466614332475
+   "wert": "83,43 $",
+   "delta": -0.2987575337763393
   },
   {
    "name": "EUR/USD",
@@ -2379,46 +2379,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-25T16:28:08+00:00",
    "tag": null
-  },
-  {
-   "id": "1e67f5e53bf4997b",
-   "k": "usa",
-   "titel": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-   "t": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
-   "e": "",
-   "tk": "",
-   "p": false,
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-   "quelle": "CNBC Politik",
-   "zeit": "2026-11-25T16:02:52+00:00",
-   "tag": null
-  },
-  {
-   "id": "d1314fa3e08e3b78",
-   "k": "trading",
-   "titel": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-   "t": "Die europäische Bankenaufsicht EBA fordert von der EU-Kommission Regeln für Krypto-Firmen, die DeFi-Kredite anbieten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T16:02:31+00:00",
-   "tag": null
-  },
-  {
-   "id": "61c247b514ac1f16",
-   "k": "welt",
-   "titel": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-   "t": "Das ukrainische Parlament hat ein Gesetz zu Krypto-Steuern und Regulierung verabschiedet, das laut Bericht rund 330 Millionen Dollar einbringen soll.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T16:02:07+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2481,7 +2441,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "CNBC Finance",
@@ -2526,7 +2486,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "The Block",
@@ -2573,7 +2533,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2582,14 +2542,13 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -2604,12 +2563,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 27
    }
   ],
   "markt": [],
