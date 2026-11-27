@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-27T08:16:33.426788+00:00",
+ "aktualisiert": "2026-11-27T08:31:28.401865+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "125,83 €",
-   "delta": 1.0115181101420845
+   "wert": "127,18 €",
+   "delta": 4.041232184686283
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "42,40 €",
-   "delta": 0.705466832882351
+   "wert": "43,28 €",
+   "delta": 6.288830523573585
   },
   {
    "name": "Deka S&P 500",
-   "wert": "137,15 €",
-   "delta": 0.9384006245917842
+   "wert": "138,51 €",
+   "delta": 4.18969676852734
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "169,44 €",
-   "delta": 0.7611776344050192
+   "wert": "172,26 €",
+   "delta": 6.149865230327034
   },
   {
    "name": "Deka DAX",
-   "wert": "220,40 €",
-   "delta": 0.8695652173912993
+   "wert": "221,90 €",
+   "delta": 2.8743639960484124
   },
   {
    "name": "Bitcoin",
-   "wert": "61.800 $",
-   "delta": 2.1105204817282104
+   "wert": "61.840 $",
+   "delta": 1.9888831948658405
   },
   {
    "name": "Ethereum",
-   "wert": "1.734 $",
-   "delta": 2.825129345703635
+   "wert": "1.735 $",
+   "delta": 2.78599374600051
   },
   {
    "name": "Gold",
-   "wert": "3.692 $",
-   "delta": 4.409184598081128
+   "wert": "3.706 $",
+   "delta": 4.824932089370182
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.216",
-   "delta": 2.078319249248728
+   "wert": "25.417",
+   "delta": 0.7971696498296765
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,80",
-   "delta": -5.266881821518554
+   "wert": "24,86",
+   "delta": -7.238803329433708
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.800 $",
-   "delta": 2.1105204817282104
+   "wert": "61.840 $",
+   "delta": 1.9888831948658405
   },
   {
    "name": "Ethereum",
-   "wert": "1.734 $",
-   "delta": 2.825129345703635
+   "wert": "1.735 $",
+   "delta": 2.78599374600051
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.295053749805674
+   "delta": 3.4352637279657454
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,16 $",
-   "delta": 2.96367075260493
+   "wert": "85,98 $",
+   "delta": 2.748565590865515
   },
   {
    "name": "EUR/USD",
@@ -3555,45 +3555,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T08:35:47+00:00",
    "tag": null
-  },
-  {
-   "id": "087c0278b0df280f",
-   "k": "trading",
-   "titel": "Streit um Handel: Trump plant neue Zölle auf Waren aus China und der EU - RP Online",
-   "t": "Die E-Mini-Nasdaq-100-Futures fielen um über 2 Prozent, weil Chipwerte nachgaben.",
-   "e": "",
-   "tk": "NQ",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEQzdTRKbVpXYTZpVnNrRzhONmMxVzZCRFZlVkNWQ0Vqc1ZySU5RSDRDRmRVdUYtaUliTFE2UzlqZnVEVGNHS0tDb2xnbUprODdieHhOUjJXbmh3cF9JS0NKSTVfc3VPOFdWdG0xT19yNEczYzRzcGowWDlfTlhoRkJmZ2dsYVZhdnJLYzRIdkJVRW1tTTdBeGNnZWxJYkUwT2ltR1pfNEpLdw?oc=5",
-   "quelle": "RP Online",
-   "zeit": "2026-11-25T08:31:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f72ff1c64d62a8ee",
-   "k": "usa",
-   "titel": "US-Gericht spricht Huawei wegen Betrugs schuldig",
-   "t": "In den USA ist der chinesische Technologiekonzern Huawei von einer Jury in Brooklyn in zehn von zwölf Anklagepunkten schuldig gesprochen worden. Es geht um den Vorwurf des Betrugs.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T08:25:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "636c7db8cbcadaa2",
-   "k": "trading",
-   "titel": "EU will Versorgung mit Arzneimitteln sicherstellen",
-   "t": "Die US-Derivateaufsicht CFTC hat dauerhafte Berichtsregeln für bestimmte Event-Kontrakte beschlossen, da mehr Firmen Prognosemärkte in den USA starten wollen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T08:24:12+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3606,7 +3567,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -3616,7 +3577,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Welt",
@@ -3671,7 +3632,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "WSJ USA",
@@ -3737,9 +3698,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -3748,9 +3708,8 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
+    "ok": true,
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3780,12 +3739,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 20
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
