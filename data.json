@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T05:16:23.255272+00:00",
+ "aktualisiert": "2026-11-27T05:31:43.136774+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.624 $",
-   "delta": 1.297409373267924
+   "wert": "61.655 $",
+   "delta": 1.2344397717951487
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 2.5409057577378364
+   "wert": "1.743 $",
+   "delta": 2.7147633592327054
   },
   {
    "name": "Gold",
-   "wert": "3.665 $",
-   "delta": 3.6568796138438
+   "wert": "3.669 $",
+   "delta": 3.7558671117697617
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.624 $",
-   "delta": 1.297409373267924
+   "wert": "61.655 $",
+   "delta": 1.2344397717951487
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 2.5409057577378364
+   "wert": "1.743 $",
+   "delta": 2.7147633592327054
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.6785391179269715
+   "delta": 2.742464454506861
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,81 $",
-   "delta": 2.5454107158893846
+   "wert": "86,19 $",
+   "delta": 2.999521612894851
   },
   {
    "name": "EUR/USD",
@@ -3602,45 +3602,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-25T05:32:55+00:00",
    "tag": null
-  },
-  {
-   "id": "d0d5c9e2c0145d36",
-   "k": "finanzen",
-   "titel": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
-   "t": "Die Aussichten der deutschen Industrie haben sich zuletzt verbessert, die Branchen entwickeln sich aber sehr unterschiedlich.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T05:28:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "c19a931837e154ae",
-   "k": "finanzen",
-   "titel": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence - tmgm.com",
-   "t": "Der australische Dollar fällt unter 0,66 US-Dollar und erreicht ein neues Jahrestief, beeinflusst durch die unterschiedliche Geldpolitik von RBA und Fed.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMVZIMDZGT3pRR3I0VEp3dExremVfTVFiQ2RSRW9uYU9rNVRNal9qVW9uM1UzVlctcUVxeTdpUjBzRXZPdFlHSHpUbXFQazNPVDFQMHdjZGdtZDVDUkF6MDBBTk1fbFYzdTFoUzVLUWRCNlpVaUNhOXRwY2p0cW12R2JUT2wwRkNYUjJZYnhrQUlhcVFlTjBETDVEei1qUnZGbUJ6ZGVldS1EbUE3OVRER0lIMGNKNkJrMUtPdlJQU0ZOU3ZVcVhWdW4zaHJoNDVIWG53Y0RlMGdzWmJLX2R5QQ?oc=5",
-   "quelle": "tmgm.com",
-   "zeit": "2026-11-25T05:27:41+00:00",
-   "tag": null
-  },
-  {
-   "id": "492dda9484c06bc3",
-   "k": "welt",
-   "titel": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
-   "t": "In Israel laufen schwierige Sondierungen zwischen Gadi Eisenkot und Netanjahus Likud, die Zeit für eine Regierungsbildung wird knapp.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T05:18:30+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3658,12 +3619,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "Welt",
@@ -3795,12 +3756,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 38
+    "n": 35
    },
    {
     "name": "Google News Iserlohn",
@@ -3814,9 +3775,8 @@
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -3831,7 +3791,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 36
+    "n": 32
    }
   ],
   "markt": [],
