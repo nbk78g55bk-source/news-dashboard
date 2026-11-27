@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T06:46:25.312612+00:00",
+ "aktualisiert": "2026-11-27T07:01:42.550290+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.625 $",
-   "delta": 1.9317287691932423
+   "wert": "61.642 $",
+   "delta": 1.9193492696583256
   },
   {
    "name": "Ethereum",
-   "wert": "1.731 $",
-   "delta": 2.7770225298975717
+   "wert": "1.733 $",
+   "delta": 2.7956548680664737
   },
   {
    "name": "Gold",
-   "wert": "3.682 $",
-   "delta": 4.12636317543551
+   "wert": "3.680 $",
+   "delta": 4.081111747812227
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.625 $",
-   "delta": 1.9317287691932423
+   "wert": "61.642 $",
+   "delta": 1.9193492696583256
   },
   {
    "name": "Ethereum",
-   "wert": "1.731 $",
-   "delta": 2.7770225298975717
+   "wert": "1.733 $",
+   "delta": 2.7956548680664737
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.075438069866547
+   "delta": 3.3149209288713464
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,13 $",
-   "delta": 2.927819892315031
+   "wert": "85,89 $",
+   "delta": 2.6410130099957962
   },
   {
    "name": "EUR/USD",
@@ -3997,32 +3997,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-25T07:03:02+00:00",
    "tag": null
-  },
-  {
-   "id": "b83f43bfa6631742",
-   "k": "nrw",
-   "titel": "Über Jahrzehnte in Iserlohn unverzichtbar: Goldene Eule für Gunther Kingreen - IKZ-Online",
-   "t": "In Iserlohn erhält Gunther Kingreen die Goldene Eule für sein jahrzehntelanges Engagement.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDVLaVppR3pSSGs1bUN0YmFzT0U1eVR1aDVUMWdZTDJaZDdPVjRCSjg2R2RxazN5cGdzbF84dzJ6X1VhMmFoc2tTTzdGZzQ4a3ZpbWEwRjNjQWY0T0tMVFZXZ094TExsRnktR1FlZUZ2d1hQNHgyRHNjSnN0UzFKZzQtVlhCT3FyOTFnWmhfZXVWMkpCRVZFemFsMElPSUhYd0JUNDBISGpkNjF1VUx2SmJBQkNseWlHaDVmeVBHSjNnOXg5Vk9JRnJENXNrdUtCSndmQWlQZF9uZw?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-25T07:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "484bc6718182f39a",
-   "k": "trading",
-   "titel": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
-   "t": "Ein südkoreanischer Gesetzentwurf zu Stablecoins bevorzugt bankgeführte Emission, erlaubt Fintechs aber große Anteile.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T06:54:59+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4045,7 +4019,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 30
+    "n": 31
    },
    {
     "name": "Welt",
@@ -4166,8 +4140,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -4196,8 +4171,9 @@
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
@@ -4212,7 +4188,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 34
+    "n": 31
    }
   ],
   "markt": [],
