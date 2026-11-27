@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T16:16:20.895768+00:00",
+ "aktualisiert": "2026-11-27T16:31:45.839237+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,02 €",
-   "delta": 0.9457604455554325
+   "wert": "126,86 €",
+   "delta": 0.8185997033494985
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,37 €",
-   "delta": 2.2926165897629858
+   "wert": "43,36 €",
+   "delta": 2.2713886723725096
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.017 $",
-   "delta": -0.8787886576337154
+   "wert": "59.999 $",
+   "delta": -0.6278954844076566
   },
   {
    "name": "Ethereum",
-   "wert": "1.672 $",
-   "delta": -0.9756595137580978
+   "wert": "1.671 $",
+   "delta": -0.7588429657578671
   },
   {
    "name": "Gold",
-   "wert": "3.649 $",
-   "delta": 3.1958806949314633
+   "wert": "3.648 $",
+   "delta": 3.1845678380256315
   },
   {
    "name": "EZB Zins",
@@ -55,48 +55,48 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.260",
-   "delta": 1.076188010155854
+   "wert": "7.272",
+   "delta": 1.2389383707357426
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.472",
-   "delta": 1.6339510766823606
+   "wert": "26.524",
+   "delta": 1.8334335456931639
   },
   {
    "name": "DAX",
-   "wert": "25.453",
-   "delta": 0.9416441666241893
+   "wert": "25.435",
+   "delta": 0.868554258731713
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,35",
-   "delta": -5.41044506842897
+   "wert": "25,49",
+   "delta": -4.888056993856205
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,91 %",
+   "wert": "4,92 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "60.017 $",
-   "delta": -0.8787886576337154
+   "wert": "59.999 $",
+   "delta": -0.6278954844076566
   },
   {
    "name": "Ethereum",
-   "wert": "1.672 $",
-   "delta": -0.9756595137580978
+   "wert": "1.671 $",
+   "delta": -0.7588429657578671
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.7638153974907338
+   "delta": 1.8678665553669653
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,43 $",
-   "delta": -0.2987575337763393
+   "wert": "83,50 $",
+   "delta": -0.21510552643323466
   },
   {
    "name": "EUR/USD",
@@ -2353,32 +2353,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T16:40:20+00:00",
    "tag": null
-  },
-  {
-   "id": "7619d86a32130b82",
-   "k": "welt",
-   "titel": "Überraschender Rücktritt aus dem Ständerat – grosse Blutauffrischung für die kleine Kammer",
-   "t": "Der Zuger Ständerat Matthias Michel tritt bei den Wahlen 2027 nicht mehr an.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.nzz.ch/schweiz/ueberraschender-ruecktritt-aus-dem-staenderat-grosse-blutauffrischung-fuer-die-kleine-kammer-ld.10074480",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T16:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "97242117296a4664",
-   "k": "trading",
-   "titel": "KI-Ernüchterung an den Börsen greift um sich",
-   "t": "An den US-Börsen setzt sich die Verkaufswelle bei Tech-Aktien fort, Investoren sorgen sich um die Geschäfte mit künstlicher Intelligenz.",
-   "e": "Der KI-Trade gerät unter Druck, was Bewertungen großer Tech-Werte und den Gesamtmarkt belasten kann.",
-   "tk": "NVDA,AMD",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-25T16:28:08+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2396,12 +2370,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Welt",
@@ -2426,7 +2400,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Handelsblatt",
@@ -2436,7 +2410,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "CNBC Politik",
@@ -2486,7 +2460,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "The Block",
@@ -2502,7 +2476,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "CNBC Investing",
@@ -2522,8 +2496,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -2533,7 +2508,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2563,12 +2538,13 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 13
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 27
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
