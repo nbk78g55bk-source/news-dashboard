@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T03:01:44.814569+00:00",
+ "aktualisiert": "2026-11-27T03:16:27.797166+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.265 $",
-   "delta": 0.9760764426246791
+   "wert": "61.515 $",
+   "delta": 1.3725089141798357
   },
   {
    "name": "Ethereum",
-   "wert": "1.720 $",
-   "delta": 1.390863777056801
+   "wert": "1.728 $",
+   "delta": 1.880785218961427
   },
   {
    "name": "Gold",
-   "wert": "3.652 $",
-   "delta": 3.2750706932722196
+   "wert": "3.659 $",
+   "delta": 3.4730456891241435
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.265 $",
-   "delta": 0.9760764426246791
+   "wert": "61.515 $",
+   "delta": 1.3725089141798357
   },
   {
    "name": "Ethereum",
-   "wert": "1.720 $",
-   "delta": 1.390863777056801
+   "wert": "1.728 $",
+   "delta": 1.880785218961427
   },
   {
    "name": "Solana",
-   "wert": "72 $",
-   "delta": 1.714139185848598
+   "wert": "73 $",
+   "delta": 2.3433343822888766
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,64 $",
-   "delta": 2.3422558409132765
+   "wert": "85,75 $",
+   "delta": 2.473708995309587
   },
   {
    "name": "EUR/USD",
@@ -3758,19 +3758,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-25T03:58:32+00:00",
    "tag": null
-  },
-  {
-   "id": "5625be6920f65d34",
-   "k": "welt",
-   "titel": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
-   "t": "In China wird der Shanghaier Parteichef Chen Jining wegen schwerer Verstöße gegen die Parteidisziplin untersucht.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T03:13:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3930,13 +3917,12 @@
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 40
+    "n": 33
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3956,12 +3942,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 33
    }
   ],
   "markt": [],
