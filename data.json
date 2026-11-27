@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T04:16:23.883763+00:00",
+ "aktualisiert": "2026-11-27T04:31:30.473315+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.429 $",
-   "delta": 0.8623948245684447
+   "wert": "61.400 $",
+   "delta": 0.6914873274007658
   },
   {
    "name": "Ethereum",
    "wert": "1.729 $",
-   "delta": 1.6861166495651958
+   "delta": 1.620051621035034
   },
   {
    "name": "Gold",
-   "wert": "3.654 $",
-   "delta": 3.354260691612998
+   "wert": "3.661 $",
+   "delta": 3.5380946163326543
   },
   {
    "name": "EZB Zins",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.429 $",
-   "delta": 0.8623948245684447
+   "wert": "61.400 $",
+   "delta": 0.6914873274007658
   },
   {
    "name": "Ethereum",
    "wert": "1.729 $",
-   "delta": 1.6861166495651958
+   "delta": 1.620051621035034
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.1108177640798695
+   "delta": 2.1921978376089912
   },
   {
    "name": "Rohöl WTI",
@@ -3693,32 +3693,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T04:50:08+00:00",
    "tag": null
-  },
-  {
-   "id": "3f99ad2bb25bbe9d",
-   "k": "trading",
-   "titel": "Teamchef Trump greift zum Hörer: Wie Jensen Huang dank dem amerikanischen Präsidenten zu Nvidia zurückfand",
-   "t": "Der Nvidia-Verwaltungsrat hat Jensen Huang nach Gesprächen mit dem Weißen Haus als Chef zurückgeholt. Trump sicherte zu, Huang habe nichts Illegales getan.",
-   "e": "Die Personalie folgt auf die Affäre um Huang und beeinflusst die Erwartungen an den wichtigsten KI-Chipkonzern.",
-   "tk": "NVDA",
-   "s": 7,
-   "link": "https://www.nzz.ch/wirtschaft/teamchef-trump-greift-zum-hoerer-wie-jensen-huang-dank-dem-us-praesidenten-zu-nvidia-zurueckfand-ld.10073489",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T04:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "569ed734c646fdf1",
-   "k": "welt",
-   "titel": "«Südamerikanisches Modell» für Italien: Alte Verbündete proben den Aufstand gegen Melonis Haushalt",
-   "t": "In Italien regt sich Widerstand gegen den Haushalt 2027, Sondersteuern und die Streckung von Steuergutschriften belasten Banken und Industrie.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/wirtschaft/suedamerikanisches-modell-fuer-italien-alte-verbuendete-proben-den-aufstand-gegen-melonis-haushalt-ld.10073306",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T04:30:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3766,7 +3740,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Handelsblatt",
@@ -3873,12 +3847,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 3
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 36
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -3903,13 +3877,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 20
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 35
    }
   ],
   "markt": [],
