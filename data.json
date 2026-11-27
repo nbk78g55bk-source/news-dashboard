@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T17:01:48.494161+00:00",
+ "aktualisiert": "2026-11-27T17:16:21.574482+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.950 $",
-   "delta": -0.8818904962943654
+   "wert": "59.951 $",
+   "delta": -0.867246165681133
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.3504942512289733
+   "wert": "1.671 $",
+   "delta": -1.26571019004102
   },
   {
    "name": "Gold",
-   "wert": "3.659 $",
-   "delta": 3.495671402935807
+   "wert": "3.658 $",
+   "delta": 3.461732832218334
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.284",
-   "delta": 1.4057261654103925
+   "wert": "7.279",
+   "delta": 1.3333307954347395
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.579",
-   "delta": 2.0445028060485537
+   "wert": "26.568",
+   "delta": 2.0014612163320455
   },
   {
    "name": "DAX",
@@ -70,8 +70,8 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,65",
-   "delta": -8.02238544129288
+   "wert": "24,66",
+   "delta": -7.985072007394822
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.950 $",
-   "delta": -0.8818904962943654
+   "wert": "59.951 $",
+   "delta": -0.867246165681133
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.3504942512289733
+   "wert": "1.671 $",
+   "delta": -1.26571019004102
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.5005715826333996
+   "delta": 1.4554111618361483
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,83 $",
-   "delta": -1.0157747395744265
+   "wert": "82,94 $",
+   "delta": -0.8843215851781161
   },
   {
    "name": "EUR/USD",
@@ -2236,71 +2236,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-25T17:23:05+00:00",
    "tag": null
-  },
-  {
-   "id": "092caf82715cdef7",
-   "k": "trading",
-   "titel": "Prediction markets push OpenAI IPO expectations later into 2027",
-   "t": "Prognosemärkte senken die Wahrscheinlichkeit eines OpenAI-Börsengangs vor Juni 2027, da KI-Werte schwächer tendieren.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-   "quelle": "CNBC Finance",
-   "zeit": "2026-11-25T17:08:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "b4cb92a2c20b2fc7",
-   "k": "usa",
-   "titel": "Historisches Wahldebakel für Donald Trump: US-Demokraten holen bestes Ergebnis seit 36 Jahren - Frankfurter Rundschau",
-   "t": "Die US-Demokraten erzielen bei den Zwischenwahlen das beste Ergebnis seit 36 Jahren, unter anderem mit einer großen Mehrheit im Repräsentantenhaus.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1VVdWpTX3FtN1UtQ1Q5MWNhS0o4akk3ZGFVblROVXF1RUE3dFBQYlkwcEpObkVIcEQyNGs4cDJTbG93R2JzaTkwMTIxREZwWUdISUc5RTdYWmIzV191cndSM2ZrS3ljUFYyZjlacGppM3haR2Z3cTh5bjFVNUpzc0c1VXNrdUdURk9ZZ3hpblNWSnRSY3BaMXNRSWV0NUtfOGc?oc=5",
-   "quelle": "Frankfurter Rundschau",
-   "zeit": "2026-11-25T17:08:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d7b75c2d34e44613",
-   "k": "usa",
-   "titel": "Historisches Wahldebakel für Donald Trump: US-Demokraten holen bestes Ergebnis seit 36 Jahren - Gießener Allgemeine",
-   "t": "Die US-Demokraten erreichen bei einer Wahl das beste Ergebnis seit 36 Jahren.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0F4SGpDb0kxTWJ6VU9LZERDUWFNeUJtSURTa2RSdDNfaE1yaHpCbl9Fc2c2ZkFNV0xTT3pPUmE5SnJiQXNmbGE4ZlhTeWM3RERFbEU3NVdWMHlKclVhLXpER0dIZkMwd1QtQV82SUQxajY1bWw2U1ZDNnczMVZZanNnTC1Lc3FKZ05MLUFoeElRdndwSnNjXzBGMTFEZ2VGNEZEY3BrOUdJbmQ0enVUcGd1SXF0VEE3a2c?oc=5",
-   "quelle": "Gießener Allgemeine",
-   "zeit": "2026-11-25T17:08:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "6945a1a14bf473c8",
-   "k": "welt",
-   "titel": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
-   "t": "Die EU und Großbritannien verhängen Kartellstrafen von insgesamt 630 Millionen Dollar gegen die drei größten Duftstoffkonzerne. Sie sollen sensible Preisinformationen ausgetauscht haben.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.wsj.com/business/eu-fines-fragrance-giants-firmenich-givaudan-iff-517-million-over-pricing-f61209c0?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T17:07:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "a06c319ae4cbae84",
-   "k": "finanzen",
-   "titel": "Ratssitzung: EZB-Rat diskutiert über höhere Mindestreserve für Banken",
-   "t": "Der EZB-Rat diskutiert über eine höhere Mindestreservepflicht für Banken. Ein Beschluss könnte am 16. Dezember fallen, die Banken zeigen sich laut Bericht stark beunruhigt.",
-   "e": "Höhere Mindestreserven entziehen Banken Liquidität und betreffen damit Kreditvergabe und Zinsmärkte im Euroraum.",
-   "tk": "",
-   "s": 7,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-diskutiert-hoehere-mindestreserve-fuer-banken-201716008.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-25T17:03:43+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2338,12 +2273,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -2368,7 +2303,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "MarketWatch",
@@ -2408,7 +2343,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "The Block",
@@ -2455,7 +2390,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2474,9 +2409,8 @@
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -2491,7 +2425,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
