@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T21:01:37.382172+00:00",
+ "aktualisiert": "2026-11-27T21:16:24.752546+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.774 $",
-   "delta": -1.5648888532933602
+   "wert": "59.805 $",
+   "delta": -1.5382222335954054
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -2.151189073493203
+   "wert": "1.666 $",
+   "delta": -2.1603686999547236
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.774 $",
-   "delta": -1.5648888532933602
+   "wert": "59.805 $",
+   "delta": -1.5382222335954054
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -2.151189073493203
+   "wert": "1.666 $",
+   "delta": -2.1603686999547236
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.9282636262976108
+   "delta": 0.7137467861804063
   },
   {
    "name": "Rohöl WTI",
@@ -1636,45 +1636,6 @@
    "quelle": "Finanzen.net",
    "zeit": "2026-11-25T21:17:00+00:00",
    "tag": null
-  },
-  {
-   "id": "b074d196ba01df06",
-   "k": "welt",
-   "titel": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-   "t": "Der Passwortmanager 1Password meldet einen Einbruch über ein kompromittiertes GitHub-Konto, bei dem Kundennamen und E-Mail-Adressen kopiert wurden; Tresorinhalte seien nicht betroffen.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T21:16:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "ecac550890c04a5c",
-   "k": "finanzen",
-   "titel": "EZB-Protokoll und GfK-Konsumklima: Donnerstag ohne Wall Street – Was bewegt den DAX bei dünnem Handel? - AktienCheck.de",
-   "t": "Vor dem DAX stehen am Donnerstag das EZB-Protokoll und das GfK-Konsumklima im dünnen Handel ohne Wall Street.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlNwa01SVWgwZDJHZ0pBb0d2OEtnM0pndlNjTWZmNFZ2TWNPZVlJTk9SMEEtOGRIaEpubUJwbWJNakhwLVN4QWIyamhEUkRaRHRseWd4ekZ0ajNCYnk2TFdxekpfUFZKUGhqTUZ1NnFtckEzdWVVNDJoSC1aTjBuN1hBdHVpYkhrLVU2YzFjZ3lnakNIWkpwYkp4T1cxQm9fNkJJZ3RzSlRrSmpUMzJkLQ?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T21:10:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "deba646eefd37606",
-   "k": "finanzen",
-   "titel": "Fed-Zinserhöhung im Dezember: Kern-PCE steigt auf 3,3 Prozent, Williams schließt Schritte hintereinander nicht aus – wie viel ist schon eingepreist? - AktienCheck.de",
-   "t": "Der Kern-PCE-Preisindex der USA stieg auf 3,3 Prozent, Fed-Vertreter Williams schließt aufeinanderfolgende Zinsschritte nicht aus.",
-   "e": "Die Zahl stützt die Erwartung einer Zinserhöhung der Fed im Dezember und erhöht den Druck auf Anleger.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1ZQa2l3YU5xUlFhZHdMRlI1bjlTaWRXbnVLTHFrRTY2OW9rLTgzYjUtUUg2OUFBVkc2d29HZFpDbVN4eGhwZHVRNVdyWmFyZ0hTMS0tNTNIZ2p2cmJKUkhGVFJPV3JlbWp2VVVUeEJRbVVYTUxISU1oWDVGQ1BTVk5tUGNXZ2lWQUk4QkRKeGVBZ2xYcHZFQ19VX1NBdHQ4X2NzZGFXc1JWUUxPY0VZ?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T21:04:27+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1752,7 +1713,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -1864,7 +1825,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 29
    }
   ],
   "markt": [],
