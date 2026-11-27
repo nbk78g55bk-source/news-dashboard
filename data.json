@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T02:46:19.651218+00:00",
+ "aktualisiert": "2026-11-27T03:01:44.814569+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.442 $",
-   "delta": 0.8037703014173222
+   "wert": "61.265 $",
+   "delta": 0.9760764426246791
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.3859302720659423
+   "wert": "1.720 $",
+   "delta": 1.390863777056801
   },
   {
    "name": "Gold",
-   "wert": "3.659 $",
-   "delta": 3.4871867602564333
+   "wert": "3.652 $",
+   "delta": 3.2750706932722196
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.442 $",
-   "delta": 0.8037703014173222
+   "wert": "61.265 $",
+   "delta": 0.9760764426246791
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.3859302720659423
+   "wert": "1.720 $",
+   "delta": 1.390863777056801
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.6578660924038182
+   "delta": 1.714139185848598
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,68 $",
-   "delta": 2.3900569879664824
+   "wert": "85,64 $",
+   "delta": 2.3422558409132765
   },
   {
    "name": "EUR/USD",
@@ -3925,7 +3925,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3934,8 +3934,9 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3955,12 +3956,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 20
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 31
    }
   ],
   "markt": [],
