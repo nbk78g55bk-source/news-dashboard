@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T11:01:47.184222+00:00",
+ "aktualisiert": "2026-11-27T11:16:21.087461+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,47 €",
-   "delta": 1.3073738062036044
+   "wert": "127,39 €",
+   "delta": 1.247767208294559
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,41 €",
-   "delta": 2.3775282593249125
+   "wert": "43,40 €",
+   "delta": 2.3657349718857468
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.608 $",
-   "delta": 1.9033992135097204
+   "wert": "61.566 $",
+   "delta": 1.6954208592643552
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 2.1043567754471946
+   "wert": "1.725 $",
+   "delta": 1.7810160690019554
   },
   {
    "name": "Gold",
    "wert": "3.706 $",
-   "delta": 4.819275660917266
+   "delta": 4.813619232464372
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.439",
-   "delta": 0.8881453680637197
+   "wert": "25.437",
+   "delta": 0.8764065657109299
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,60",
-   "delta": -8.208952610783149
+   "wert": "24,83",
+   "delta": -7.350743631127877
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.608 $",
-   "delta": 1.9033992135097204
+   "wert": "61.566 $",
+   "delta": 1.6954208592643552
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 2.1043567754471946
+   "wert": "1.725 $",
+   "delta": 1.7810160690019554
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 4.071734089497257
+   "delta": 3.6812484801327185
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,46 $",
-   "delta": 2.1271506791738393
+   "wert": "85,31 $",
+   "delta": 1.947896377724323
   },
   {
    "name": "EUR/USD",
@@ -3187,58 +3187,6 @@
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-25T11:19:15+00:00",
    "tag": null
-  },
-  {
-   "id": "8e65ca3feddc5379",
-   "k": "trading",
-   "titel": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-   "t": "US-Spot-Bitcoin-ETFs verzeichneten im November Nettoabflüsse von 4,94 Milliarden Dollar, ein neuer Monatsrekord.",
-   "e": "Die Abflüsse sind der bisher größte Monatswert seit Zulassung der Produkte.",
-   "tk": "BTC",
-   "s": 6,
-   "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T11:12:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "8f4f4642a91f7710",
-   "k": "trading",
-   "titel": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
-   "t": "Die norwegische Billigfluglinie Norse Atlantic bricht um 77 Prozent ein, nachdem sie vor einer kritischen Finanzlage gewarnt hat.",
-   "e": "Die Kursbewegung hängt an der Finanzierung der kurzfristigen Liquidität.",
-   "tk": "NAS",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T11:10:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "9207ee7d33dcb64c",
-   "k": "trading",
-   "titel": "Aktie im Blick: Erste Group geht in Polen in die Vollen",
-   "t": "Die Erste Group übernimmt die frühere Santander Bank in Polen und baut damit ihre Stellung in Osteuropa aus. Integration und digitale Plattform stehen nun im Fokus.",
-   "e": "",
-   "tk": "EBS",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/erste-group-in-polen-rekordkauf-als-wachstumswette-auf-osteuropa-accg-201690750.html",
-   "quelle": "FAZ Finanzen",
-   "zeit": "2026-11-25T11:08:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "96709aaeaeb8e865",
-   "k": "trading",
-   "titel": "K+S Aktie News: K+S am Mittag mit Kurseinbußen - Finanzen.net",
-   "t": "K+S verliert am Mittag an Wert, die Aktie notiert im Minus.",
-   "e": "",
-   "tk": "SDF",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclFEa0Y2UExSZ2J2R213ZDJjTmpZTUxxbWZQOGpVcEMyWkUtZmRxbVNQQTdBOEkzYWtXV2JjRFhOTVhfODhabUI4Mzd6MGdfTm1NUHBTOEY4dGZPbV9TQjZpYnFGR3Y0V0pFajE3MUp4a2o1aV9NTU00T2dHbjJFelRLb2djcTBtZk5WaQ?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T11:05:18+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3251,17 +3199,17 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 20
+    "n": 21
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Welt",
@@ -3276,12 +3224,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "NZZ",
@@ -3392,9 +3340,8 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
+    "ok": true,
+    "n": 11
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3409,7 +3356,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Google News NRW",
@@ -3423,15 +3370,13 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 14
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
