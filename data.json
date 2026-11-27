@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T18:16:23.129648+00:00",
+ "aktualisiert": "2026-11-27T18:31:30.300654+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.857 $",
-   "delta": -0.9768922538869185
+   "wert": "59.787 $",
+   "delta": -1.3909481897560387
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.266720048899777
+   "wert": "1.667 $",
+   "delta": -1.9123474906588611
   },
   {
    "name": "Gold",
-   "wert": "3.681 $",
-   "delta": 4.1122221043032425
+   "wert": "3.675 $",
+   "delta": 3.928388179583586
   },
   {
    "name": "EZB Zins",
@@ -70,33 +70,33 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "23,96",
-   "delta": -10.597012380258708
+   "wert": "23,81",
+   "delta": -11.156713888729552
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,93 %",
+   "wert": "4,94 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.857 $",
-   "delta": -0.9768922538869185
+   "wert": "59.787 $",
+   "delta": -1.3909481897560387
   },
   {
    "name": "Ethereum",
-   "wert": "1.670 $",
-   "delta": -1.266720048899777
+   "wert": "1.667 $",
+   "delta": -1.9123474906588611
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.2074658637223603
+   "delta": 0.5845130217295442
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,83 $",
-   "delta": -1.0157747395744265
+   "wert": "82,97 $",
+   "delta": -0.8484707248882062
   },
   {
    "name": "EUR/USD",
@@ -2105,19 +2105,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-25T18:40:38+00:00",
    "tag": null
-  },
-  {
-   "id": "d56d784a77393253",
-   "k": "trading",
-   "titel": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-   "t": "Der französische Senat blockiert eine neue Krypto-Steuer und eine Liste von Wallets, die Kritiker als Entführungsrisiko bezeichnen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T18:24:47+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2205,7 +2192,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "New York Post Politik",
@@ -2272,7 +2259,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2302,12 +2289,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 15
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 30
    }
   ],
   "markt": [],
