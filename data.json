@@ -1,40 +1,40 @@
 {
- "aktualisiert": "2026-11-27T22:46:20.693136+00:00",
+ "aktualisiert": "2026-11-27T23:01:43.179448+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,20 €",
-   "delta": 1.092790053731063
+   "delta": 4.057593441516705
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,49 €",
-   "delta": 2.5898074332297405
+   "delta": 6.806965244035523
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,47 €",
-   "delta": 0.9661275921554857
+   "delta": 4.155848186391231
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,16 €",
-   "delta": 1.6052865435565167
+   "delta": 6.088243341768851
   },
   {
    "name": "Deka DAX",
    "wert": "222,30 €",
-   "delta": 0.8620717586807158
+   "delta": 3.0598067432247245
   },
   {
    "name": "Bitcoin",
-   "wert": "59.723 $",
-   "delta": -1.402343315747896
+   "wert": "59.715 $",
+   "delta": -1.1533127892595492
   },
   {
    "name": "Ethereum",
    "wert": "1.656 $",
-   "delta": -2.4000495619774673
+   "delta": -2.111905023303394
   },
   {
    "name": "Gold",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.441",
-   "delta": 0.8951648546057678
+   "delta": 2.9920865727439683
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.723 $",
-   "delta": -1.402343315747896
+   "wert": "59.715 $",
+   "delta": -1.1533127892595492
   },
   {
    "name": "Ethereum",
    "wert": "1.656 $",
-   "delta": -2.4000495619774673
+   "delta": -2.111905023303394
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.40301067020844966
+   "delta": 0.6888161620561334
   },
   {
    "name": "Rohöl WTI",
@@ -1298,32 +1298,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-26T00:00:15+00:00",
    "tag": null
-  },
-  {
-   "id": "4ba66ed915572619",
-   "k": "deutschland",
-   "titel": "„Es gibt sie, die linke Mehrheit in Deutschland“ – SPD-Linke formiert sich für den Machtkampf",
-   "t": "Die SPD-Linke bringt sich für einen Machtkampf um die Neuausrichtung der Partei in Stellung und kritisiert Vizekanzler Klingbeil.",
-   "e": "Der Richtungsstreit könnte die Stabilität der Koalition in Berlin beeinflussen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.welt.de/politik/deutschland/plus6b05b2bccd4642ba2eb1699b/krise-der-spd-es-gibt-sie-die-linke-mehrheit-in-deutschland-spd-linke-formiert-sich-fuer-den-machtkampf.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-25T22:59:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "13916331a2d054f7",
-   "k": "usa",
-   "titel": "Trump’s DC renovation account gets mysterious $300M infusion",
-   "t": "Ein Konto der National Park Service, aus dem Trumps Renovierungsprojekte in DC finanziert werden, hat im September 300 Millionen Dollar aus unbekannter Quelle erhalten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/25/us-news/president-trumps-dc-renovation-account-gets-mysterious-300m-infusion/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T22:54:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1366,7 +1340,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -1411,7 +1385,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "New York Post Politik",
@@ -1508,7 +1482,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Google News Fed",
