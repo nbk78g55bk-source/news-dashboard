@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T11:46:17.766538+00:00",
+ "aktualisiert": "2026-11-27T12:01:44.321778+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,25 €",
-   "delta": 1.1365015588643557
+   "wert": "127,00 €",
+   "delta": 0.9338391259736234
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,40 €",
-   "delta": 2.363376314397936
+   "wert": "43,26 €",
+   "delta": 2.030805608613706
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.699 $",
-   "delta": 1.691007796504371
+   "wert": "61.570 $",
+   "delta": 1.5241203701465253
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 1.7226918888453888
+   "wert": "1.722 $",
+   "delta": 1.3974071268914932
   },
   {
    "name": "Gold",
-   "wert": "3.704 $",
-   "delta": 4.748570305255861
+   "wert": "3.695 $",
+   "delta": 4.5110003102335705
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.414",
-   "delta": 0.7858274286374645
+   "wert": "25.352",
+   "delta": 0.5400264253181186
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,98",
-   "delta": -6.791042122657043
+   "wert": "25,44",
+   "delta": -5.074624163346475
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.699 $",
-   "delta": 1.691007796504371
+   "wert": "61.570 $",
+   "delta": 1.5241203701465253
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 1.7226918888453888
+   "wert": "1.722 $",
+   "delta": 1.3974071268914932
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.502166758177018
+   "delta": 3.2016614169467874
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,41 $",
-   "delta": 2.0673992453573264
+   "wert": "85,28 $",
+   "delta": 1.9120455174344242
   },
   {
    "name": "EUR/USD",
@@ -2979,123 +2979,6 @@
    "quelle": "nd-aktuell.de",
    "zeit": "2026-11-25T12:03:16+00:00",
    "tag": null
-  },
-  {
-   "id": "9de0957d72f816db",
-   "k": "trading",
-   "titel": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-   "t": "Ether und DeFi-Token verlieren stärker als Bitcoin, da der Ausverkauf an den Aktienmärkten weitergeht.",
-   "e": "",
-   "tk": "ETH, BTC",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T11:57:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "94b1ada768b4261b",
-   "k": "trading",
-   "titel": "Earnings call transcript: NewRiver REIT lifts H1 2027 dividend, shares ease premarket - Investing.com",
-   "t": "NewRiver REIT hebt die Dividende für das erste Halbjahr 2027 an, die Aktie gibt vorbörslich leicht nach.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUTVPdEhTRF9jZlRkaHZaSlZEazBHMXU5bm54bEQ0eUE4VkQ0VHozSWRsY3BzWW8zM05SdWJpSkVzMlhmc2M3cGxiUmZQU3d2eU9oT0Vnd2JkMEx0eV9UbGh6bkN3cE5IZ1lxelVsc0R2N0prejVWTU5Uc1FTWWF1V2xOOTFXZUZfRkp5UGx1UGRaSlJyTDJHenFpdUJjSVNmYUdUWFQ3NUlxbEZvOFg5Q0JDR3VFUDI3cUpwbXNhdk9rWEVnZi1TOXl4a1NVcWZ0dkNyNkN3?oc=5",
-   "quelle": "Investing.com",
-   "zeit": "2026-11-25T11:57:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "77b7cefe83e71b3c",
-   "k": "trading",
-   "titel": "Soros verkauft NVIDIA-Aktien im dritten Quartal: Was wussten die Großanleger vor der Affäre? - Finanzen.net",
-   "t": "Investor George Soros hat seine NVIDIA-Aktien im dritten Quartal verkauft, wie aus Meldepflichten hervorgeht.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1NTR21Mc2V3RkVhMWRUeFZfNjFBdks5bzBMd05vN2RHWHFfQ0FJazFmWkp4a1dRRmlKZ1BVOXJlRmZGaFlmZ2FXUnlqTVBrV21sWFBaMzZLd0RqalBaaXdaU254ZlAxM1dBdlhoVW1RaW5mMVJvTkRoN0YwSTR6c1N1OU8wZWtNbktVLWVlRkk4WEFqbkoyWXhzOUtQTl9DT1ZiakxKRXdjdUo2bUxLTy11YjFXSExJOG5Wam1UZ2tudDQ1RThpQ193eUhGV3J0d2g3aFZUOXlRN1hYUElVb2lRN3lwUzU3bGQ5UFFCcV8zYXE0MWJwTXdRekhKdw?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T11:55:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1f0627900a1e345c",
-   "k": "finanzen",
-   "titel": "Inflation: Jetzt übernehmen die Schuldensünder die EZB - WELT",
-   "t": "Die WELT analysiert, dass hochverschuldete Euro-Staaten mit ihren Anleihekäufen zunehmend Einfluss auf die EZB-Politik gewinnen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVFmY0ZudVd2Sjk5MGpUc2dwM2JRX3hEaUJ5MXRFMWNWdUFmd2VOekxnU2x4TngyVWVQb1BzV0RIREdBWHZleHRORUVIaGYxM2dRblQzSU1kX2poclprWmZLVXpfczEwZWdENy12YWJORWFESTNPbTF0SWZSbWxjZFg0N1VKQmwtSWNqLVZjTGFibUl1c2FCTVlVSVdvNnZReTJxbXg1ZVA4RVlfVm5oWVlFaC1yNUl4RVhTYw?oc=5",
-   "quelle": "WELT",
-   "zeit": "2026-11-25T11:54:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "0d518fcb791e7fdd",
-   "k": "usa",
-   "titel": "Victoria Broderick unseats Rep. Scott DesJarlais, giving Democrats their largest House majority in 36 years",
-   "t": "Victoria Broderick hat Rep. Scott DesJarlais geschlagen. Die Demokraten erhalten damit mindestens 259 Sitze im Repräsentantenhaus, ihre größte Mehrheit seit 36 Jahren.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/25/us-news/victoria-broderick-unseats-rep-scott-desjarlais-giving-democrats-their-largest-house-majority-in-36-years/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T11:52:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "cabb1eb64bf17a77",
-   "k": "trading",
-   "titel": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-   "t": "In Florida wurde ein Mann verurteilt, der mithilfe von KI den Streamer N3ON imitierte und Betreiber eines Meme-Coin-Projekts um 260.000 Dollar betrog.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T11:52:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "649b2b5312b0c814",
-   "k": "finanzen",
-   "titel": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-   "t": "Die von der Fed bevorzugte Inflationskennziffer wurde veröffentlicht, eine Zinserhöhung im Dezember ist laut Marktpreisen bereits eingepreist.",
-   "e": "",
-   "tk": "",
-   "s": 7,
-   "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T11:49:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "f2d0905a2ce0633a",
-   "k": "finanzen",
-   "titel": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
-   "t": "Der Euro ist gegenüber dem Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, getrieben vom KI-Boom in den USA.",
-   "e": "Der schwächere Euro verteuert Importe und verändert die Lage für exportierende Unternehmen und Sparer.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T11:47:38+00:00",
-   "tag": null
-  },
-  {
-   "id": "6ed5811125ec2b2e",
-   "k": "welt",
-   "titel": "Wenn der Bismarckhering sauer aufstösst: So macht Jean-Luc Mélenchon die Germanophobie wieder salonfähig",
-   "t": "Der französische Linkspolitiker Mélenchon reist nach Berlin, nachdem er seit Jahren vor deutscher Vorherrschaft in Europa warnt.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.nzz.ch/international/warum-jean-luc-melenchon-deutschland-als-feindbild-sieht-ld.10073238",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T11:46:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3103,7 +2986,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3118,7 +3001,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Welt",
@@ -3133,7 +3016,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -3203,7 +3086,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "The Block",
@@ -3250,7 +3133,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 11
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3259,9 +3142,8 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -3286,7 +3168,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 26
+    "n": 40
    }
   ],
   "markt": [],
