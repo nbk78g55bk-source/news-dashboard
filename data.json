@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T15:01:37.750393+00:00",
+ "aktualisiert": "2026-11-27T15:16:22.246952+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,27 €",
-   "delta": 0.3536682396589663
+   "wert": "126,22 €",
+   "delta": 0.31790428091356127
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,07 €",
-   "delta": 1.587378000901385
+   "wert": "43,12 €",
+   "delta": 1.6935175878537878
   },
   {
    "name": "Deka S&P 500",
@@ -18,28 +18,28 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "172,52 €",
-   "delta": 1.8177511297303273
+   "wert": "169,94 €",
+   "delta": 0.2950882621514772
   },
   {
    "name": "Deka DAX",
-   "wert": "221,10 €",
-   "delta": 0.31760713380255545
+   "wert": "221,40 €",
+   "delta": 0.45372329002209
   },
   {
    "name": "Bitcoin",
-   "wert": "59.257 $",
-   "delta": -2.3118398102372235
+   "wert": "59.606 $",
+   "delta": -0.9344999575346699
   },
   {
    "name": "Ethereum",
-   "wert": "1.659 $",
-   "delta": -2.23505571105644
+   "wert": "1.656 $",
+   "delta": -1.2780636734368034
   },
   {
    "name": "Gold",
-   "wert": "3.671 $",
-   "delta": 3.83505711011054
+   "wert": "3.659 $",
+   "delta": 3.4843585460299753
   },
   {
    "name": "EZB Zins",
@@ -55,52 +55,52 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.218",
-   "delta": 0.4956328316972902
+   "wert": "7.236",
+   "delta": 0.7459537455746235
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.207",
-   "delta": 0.6132346151732193
+   "wert": "26.319",
+   "delta": 1.0444413933909713
   },
   {
    "name": "DAX",
-   "wert": "25.311",
-   "delta": 0.3791334484761322
+   "wert": "25.360",
+   "delta": 0.5748065930998303
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,17",
-   "delta": 1.3805999010171544
+   "wert": "27,27",
+   "delta": 1.7537342399976952
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,89 %",
+   "wert": "4,90 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.257 $",
-   "delta": -2.3118398102372235
+   "wert": "59.606 $",
+   "delta": -0.9344999575346699
   },
   {
    "name": "Ethereum",
-   "wert": "1.659 $",
-   "delta": -2.23505571105644
+   "wert": "1.656 $",
+   "delta": -1.2780636734368034
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.06149264012080151
+   "delta": 1.6509262641026357
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,99 $",
-   "delta": 0.37045852496853104
+   "wert": "83,67 $",
+   "delta": -0.011950651457104389
   },
   {
    "name": "EUR/USD",
-   "wert": "1,0975",
+   "wert": "1,0957",
    "delta": null
   }
  ],
@@ -2458,32 +2458,6 @@
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-25T15:18:25+00:00",
    "tag": null
-  },
-  {
-   "id": "e22e0c3dfc91de9a",
-   "k": "nrw",
-   "titel": "Kita-Beiträge im MK: Neue Regeln ab August 2027 - Radio MK",
-   "t": "Im Märkischen Kreis gelten ab August 2027 neue Regeln für die Kita-Beiträge.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQUZHX0sxeHVCNzBlaGJYQUVvQzZJd1g2aEZLQzMwNWlIa0pMV0RZWXpMWHF3UTFxd2tjQ3dUQnppYld6X1o2SE9qYU83YWFuWlNvNXRiNWU2bmNyVW1uclJ5YjNlQ2d2djRoRTQyM3B4NGg1dGZmWGdjS3ZRRDhIdFAxZmtvamVqbFo5SDJLNA?oc=5",
-   "quelle": "Radio MK",
-   "zeit": "2026-11-25T15:08:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "3749c6800cd752ab",
-   "k": "trading",
-   "titel": "NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
-   "t": "Die Gründer von NovaTech sollen rund 1,3 Milliarden US-Dollar wegen eines Krypto-Schneeballsystems zahlen, das haitianische Anleger betraf.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T15:02:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2491,7 +2465,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -2501,7 +2475,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -2638,7 +2612,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 8
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2653,7 +2627,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Google News NRW",
