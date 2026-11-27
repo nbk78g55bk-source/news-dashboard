@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T05:31:43.136774+00:00",
+ "aktualisiert": "2026-11-27T05:46:15.583030+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.655 $",
-   "delta": 1.2344397717951487
+   "wert": "61.683 $",
+   "delta": 1.4662654663189891
   },
   {
    "name": "Ethereum",
-   "wert": "1.743 $",
-   "delta": 2.7147633592327054
+   "wert": "1.741 $",
+   "delta": 2.6722433006892947
   },
   {
    "name": "Gold",
-   "wert": "3.669 $",
-   "delta": 3.7558671117697617
+   "wert": "3.683 $",
+   "delta": 4.160301746153006
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.655 $",
-   "delta": 1.2344397717951487
+   "wert": "61.683 $",
+   "delta": 1.4662654663189891
   },
   {
    "name": "Ethereum",
-   "wert": "1.743 $",
-   "delta": 2.7147633592327054
+   "wert": "1.741 $",
+   "delta": 2.6722433006892947
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.742464454506861
+   "delta": 2.8947979192529614
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,19 $",
-   "delta": 2.999521612894851
+   "wert": "86,04 $",
+   "delta": 2.8202673114453347
   },
   {
    "name": "EUR/USD",
@@ -3576,32 +3576,6 @@
    "quelle": "IKZ-Online",
    "zeit": "2026-11-25T06:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "45d7b59eefc288b7",
-   "k": "trading",
-   "titel": "Der rätselhafte Abgang der Biontech-Gründer",
-   "t": "Monate nach der Ankündigung des Abschieds der Biontech-Gründer Özlem Türeci und Uğur Sahin sind wichtige Fragen zu Mitarbeitern und Patenten der neuen Firma weiter offen.",
-   "e": "",
-   "tk": "BNTX",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/plus6b0176d745d8681e4fca3b75/biontech-der-raetselhafte-abgang-der-biontech-gruender.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T05:40:44+00:00",
-   "tag": null
-  },
-  {
-   "id": "cac981a48f7fe300",
-   "k": "trading",
-   "titel": "Solana DEX Velocity halts trading over bug just months after relaunch",
-   "t": "Die Solana-DEX Velocity stoppt den Handel nach einem Fehler, nur wenige Monate nach dem Relaunch.",
-   "e": "",
-   "tk": "SOL",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T05:32:55+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3761,7 +3735,7 @@
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 35
+    "n": 37
    },
    {
     "name": "Google News Iserlohn",
@@ -3786,12 +3760,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 32
+    "n": 33
    }
   ],
   "markt": [],
