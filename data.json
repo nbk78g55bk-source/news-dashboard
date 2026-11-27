@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T01:31:27.612294+00:00",
+ "aktualisiert": "2026-11-27T01:46:22.194112+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.733 $",
-   "delta": 0.05522052781938377
+   "wert": "60.615 $",
+   "delta": -0.1264494056506545
   },
   {
    "name": "Ethereum",
-   "wert": "1.701 $",
-   "delta": 0.05701034160296109
+   "wert": "1.697 $",
+   "delta": -0.07700349366642914
   },
   {
    "name": "Gold",
-   "wert": "3.599 $",
-   "delta": 1.7846017959298521
+   "wert": "3.602 $",
+   "delta": 1.8609635800441504
   },
   {
    "name": "EZB Zins",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.216",
-   "delta": 0.7902748034427587
+   "delta": 2.078319249248728
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.733 $",
-   "delta": 0.05522052781938377
+   "wert": "60.615 $",
+   "delta": -0.1264494056506545
   },
   {
    "name": "Ethereum",
-   "wert": "1.701 $",
-   "delta": 0.05701034160296109
+   "wert": "1.697 $",
+   "delta": -0.07700349366642914
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.7693901620410823
+   "delta": 0.5927468557493789
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,30 $",
-   "delta": 1.935946090961016
+   "wert": "85,42 $",
+   "delta": 2.0793495321206334
   },
   {
    "name": "EUR/USD",
@@ -3862,58 +3862,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T02:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "9e9399b0c1fa7027",
-   "k": "welt",
-   "titel": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
-   "t": "Die Huthi haben erneut den Public Investment Fund Tower in der saudischen Hauptstadt Riad angegriffen, nachdem es am Donnerstag bereits einen Angriff gab.",
-   "e": "Die Angriffe zeigen die anhaltende Eskalation im Nahen Osten auch auf Saudi-Arabien.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T01:43:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b5ecc6e2683cd193",
-   "k": "finanzen",
-   "titel": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed - Yahoo Finance",
-   "t": "Wall-Street-Futures fallen, nachdem S&P 500 und Nasdaq tiefer schlossen. Inflationsdaten stehen im Fokus.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
-   "quelle": "Yahoo Finance",
-   "zeit": "2026-11-25T01:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d82c6430bea7d673",
-   "k": "trading",
-   "titel": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-   "t": "CleanSpark hat im September-Quartal 2.102 BTC verkauft, bei einer Produktion von 1.708 BTC, und erwägt weitere Verkäufe zur Risikoreduktion.",
-   "e": "",
-   "tk": "CLSK,BTC",
-   "s": 5,
-   "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T01:40:59+00:00",
-   "tag": null
-  },
-  {
-   "id": "a42b9e82eb3d7443",
-   "k": "welt",
-   "titel": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
-   "t": "Russland greift ukrainische Brücken an, die Ukraine schlägt zunehmend zurück, auch auf die Krim-Brücke. Beide Seiten gefährden damit Logistik und Versorgung.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-25T01:40:52+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3921,7 +3869,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3991,7 +3939,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "WSJ USA",
@@ -4037,7 +3985,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "CNBC Investing",
@@ -4068,7 +4016,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4097,13 +4045,14 @@
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 19
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 30
    }
   ],
   "markt": [],
