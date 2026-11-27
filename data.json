@@ -1,20 +1,20 @@
 {
- "aktualisiert": "2026-11-27T15:31:33.886696+00:00",
+ "aktualisiert": "2026-11-27T15:46:21.697061+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,59 €",
-   "delta": 0.6079897240708787
+   "wert": "126,66 €",
+   "delta": 0.6636225487859804
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,30 €",
-   "delta": 2.1298692231026095
+   "wert": "43,31 €",
+   "delta": 2.153455797980941
   },
   {
    "name": "Deka S&P 500",
-   "wert": "138,70 €",
-   "delta": 1.133833299862519
+   "wert": "137,53 €",
+   "delta": 0.2770758800547668
   },
   {
    "name": "Deka Nasdaq-100",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.764 $",
-   "delta": -0.803043637676823
+   "wert": "60.112 $",
+   "delta": -0.443205822494765
   },
   {
    "name": "Ethereum",
-   "wert": "1.662 $",
-   "delta": -1.1947804274410576
+   "wert": "1.674 $",
+   "delta": -0.7545366463517525
   },
   {
    "name": "Gold",
-   "wert": "3.653 $",
-   "delta": 3.3259785493484406
+   "wert": "3.656 $",
+   "delta": 3.402340333462761
   },
   {
    "name": "EZB Zins",
@@ -55,23 +55,23 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.244",
-   "delta": 0.850370144577961
+   "wert": "7.277",
+   "delta": 1.3162065059981964
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.371",
-   "delta": 1.2451255408944206
+   "wert": "26.540",
+   "delta": 1.8912408078786358
   },
   {
    "name": "DAX",
-   "wert": "25.383",
-   "delta": 0.6652667558251446
+   "wert": "25.411",
+   "delta": 0.7744852074452524
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,67",
-   "delta": -0.4850717938856275
+   "wert": "26,29",
+   "delta": -1.902982282011756
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.764 $",
-   "delta": -0.803043637676823
+   "wert": "60.112 $",
+   "delta": -0.443205822494765
   },
   {
    "name": "Ethereum",
-   "wert": "1.662 $",
-   "delta": -1.1947804274410576
+   "wert": "1.674 $",
+   "delta": -0.7545366463517525
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.4910756135146226
+   "delta": 1.9137623547998344
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,75 $",
-   "delta": 0.08365164264929614
+   "wert": "83,99 $",
+   "delta": 0.37045852496853104
   },
   {
    "name": "EUR/USD",
@@ -2419,19 +2419,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T16:02:07+00:00",
    "tag": null
-  },
-  {
-   "id": "d706cbcc8c7e53b5",
-   "k": "usa",
-   "titel": "'Grave concerns' mount as Army moves to restart DC helicopter training after deadly 2025 crash",
-   "t": "Die Armee will Hubschrauberflüge nahe Washington wieder aufnehmen, die FAA sagt, es sei kein Antrag eingegangen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/grave-concerns-mount-army-restarts-dc-helicopter-training-deadly-2025-crash",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T15:39:49+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2439,7 +2426,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
@@ -2586,7 +2573,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2601,7 +2588,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "Google News NRW",
@@ -2616,7 +2603,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 10
+    "n": 13
    },
    {
     "name": "Google News Fed",
