@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T19:31:32.287413+00:00",
+ "aktualisiert": "2026-11-27T19:46:19.397223+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.916 $",
-   "delta": -1.0710868978483286
+   "wert": "59.966 $",
+   "delta": -1.0533896887532757
   },
   {
    "name": "Ethereum",
-   "wert": "1.672 $",
-   "delta": -1.7751483653121465
+   "wert": "1.673 $",
+   "delta": -1.8466787606662562
   },
   {
    "name": "Gold",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.916 $",
-   "delta": -1.0710868978483286
+   "wert": "59.966 $",
+   "delta": -1.0533896887532757
   },
   {
    "name": "Ethereum",
-   "wert": "1.672 $",
-   "delta": -1.7751483653121465
+   "wert": "1.673 $",
+   "delta": -1.8466787606662562
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.2134360340436963
+   "delta": 1.424074127262981
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,01 $",
-   "delta": -0.8006695778350004
+   "wert": "83,08 $",
+   "delta": -0.7170175704918957
   },
   {
    "name": "EUR/USD",
@@ -1792,58 +1792,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-25T19:50:08+00:00",
    "tag": null
-  },
-  {
-   "id": "542c164820b24981",
-   "k": "trading",
-   "titel": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-   "t": "Die Nvidia-Aktie steuert auf einen \"Death Cross\" zu, den ersten seit März 2025, da der Kurs weiter schwach tendiert.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T19:43:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "39ad580dc94773ed",
-   "k": "welt",
-   "titel": "Ein Krater, so gross wie ein Fussballfeld: Die Raumsonde Hera fotografiert die Narben auf dem Asteroiden Dimorphos",
-   "t": "Die ESA-Raumsonde Hera hat Bilder des Asteroiden Dimorphos veröffentlicht, auf denen ein Krater von der Größe eines Fußballfelds zu sehen ist. Vier Jahre nach dem gezielten Einschlag einer NASA-Sonde zeigen die Aufnahmen das Ausmaß der Zerstörung.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.nzz.ch/wissenschaft/ein-krater-so-gross-wie-ein-fussballfeld-die-raumsonde-hera-fotografiert-die-narben-auf-dem-asteroiden-dimorphos-ld.10073156",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T19:39:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "7b6b3f78a654393e",
-   "k": "finanzen",
-   "titel": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-   "t": "Die Fed erklärt, die Inflation habe sich nicht verbessert. Vor der Dezember-Sitzung wird über eine mögliche Zinserhöhung in den USA diskutiert.",
-   "e": "Eine Zinserhöhung im Dezember wäre eine Wende und würde Aktien-, Krypto- und Anleihemärkte direkt betreffen.",
-   "tk": "",
-   "s": 7,
-   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T19:39:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b3f8cc0c2a8b06a3",
-   "k": "trading",
-   "titel": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-   "t": "Fidelity beantragt bei der SEC einen Spot-Chainlink-ETF mit geplanter Notierung an der Nasdaq.",
-   "e": "Ein Spot-ETF auf Chainlink wäre ein institutioneller Zugang zu einem großen Oracle-Netzwerk-Token.",
-   "tk": "LINK",
-   "s": 6,
-   "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T19:32:42+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1931,7 +1879,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "New York Post Politik",
@@ -1956,7 +1904,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 20
+    "n": 18
    },
    {
     "name": "Yahoo Finance",
@@ -1998,7 +1946,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 8
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2028,13 +1976,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 29
    }
   ],
   "markt": [],
