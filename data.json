@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T19:46:19.397223+00:00",
+ "aktualisiert": "2026-11-27T20:01:40.585329+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.966 $",
-   "delta": -1.0533896887532757
+   "wert": "59.860 $",
+   "delta": -1.2877101969048657
   },
   {
    "name": "Ethereum",
-   "wert": "1.673 $",
-   "delta": -1.8466787606662562
+   "wert": "1.670 $",
+   "delta": -1.9139837293920936
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.966 $",
-   "delta": -1.0533896887532757
+   "wert": "59.860 $",
+   "delta": -1.2877101969048657
   },
   {
    "name": "Ethereum",
-   "wert": "1.673 $",
-   "delta": -1.8466787606662562
+   "wert": "1.670 $",
+   "delta": -1.9139837293920936
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.424074127262981
+   "delta": 1.0431785952241954
   },
   {
    "name": "Rohöl WTI",
@@ -1740,58 +1740,6 @@
    "quelle": "Handelsblatt",
    "zeit": "2026-11-25T20:24:20+00:00",
    "tag": null
-  },
-  {
-   "id": "878122a7a4b1f97b",
-   "k": "trading",
-   "titel": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor - Bitcoin Magazine",
-   "t": "Der Gesetzentwurf für eine strategische Bitcoin-Reserve passiert einen Ausschuss des US-Repräsentantenhauses und geht an das Plenum.",
-   "e": "Eine staatliche Bitcoin-Reserve wäre ein regulatorischer Schritt mit möglichen Auswirkungen auf die Nachfrage.",
-   "tk": "BTC",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWxleFpSeVk1OE9WUTRPOEd5YTNxMG5BeHBNVlpiblVxNHRGcG5tRlpuUzlJaDdYWkhCZ0s5ZzBtOU5qMENSdWFGU2pwYVZjZ1lnajY4TS0tQ0VZTDlPQTBwREg0TlpYYXRILUJxelVXVHNNQXMxdmtJaDIzY1pRNA?oc=5",
-   "quelle": "Bitcoin Magazine",
-   "zeit": "2026-11-25T19:53:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "b8e65de04b89ed80",
-   "k": "welt",
-   "titel": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "t": "Die US-Telekomaufsicht FCC genehmigt SpaceX den Einsatz von bis zu einer Million Rechenzentrums-Satelliten im Orbit. Amazon hatte sich gegen den Antrag ausgesprochen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T19:52:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "1e8864975fa989cc",
-   "k": "trading",
-   "titel": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
-   "t": "Die Ratingagentur S&P droht Nvidia nach Führungswirren mit einer Herabstufung und sieht Schwächen in der Unternehmensführung.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 6,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T19:51:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "ff9e360c24e82724",
-   "k": "welt",
-   "titel": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
-   "t": "Israelische Richter empfehlen, den Bestechungsvorwurf gegen Ministerpräsident Netanjahu fallen zu lassen. Netanjahu muss sich weiterhin wegen Betrugs und Untreue vor Gericht verantworten.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T19:50:08+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1799,17 +1747,17 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 38
+    "n": 39
    },
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -1874,7 +1822,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 14
+    "n": 15
    },
    {
     "name": "Fox News Politik",
@@ -1899,7 +1847,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "The Block",
@@ -1946,7 +1894,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1980,8 +1928,9 @@
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 29
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
