@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T06:01:47.928939+00:00",
+ "aktualisiert": "2026-11-27T06:16:17.315738+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.698 $",
-   "delta": 1.7192450236504815
+   "wert": "61.870 $",
+   "delta": 2.2810709384536323
   },
   {
    "name": "Ethereum",
-   "wert": "1.739 $",
-   "delta": 2.821385527363423
+   "wert": "1.741 $",
+   "delta": 3.3415410070751257
   },
   {
    "name": "Gold",
-   "wert": "3.670 $",
-   "delta": 3.795462110940151
+   "wert": "3.671 $",
+   "delta": 3.832228895884082
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.698 $",
-   "delta": 1.7192450236504815
+   "wert": "61.870 $",
+   "delta": 2.2810709384536323
   },
   {
    "name": "Ethereum",
-   "wert": "1.739 $",
-   "delta": 2.821385527363423
+   "wert": "1.741 $",
+   "delta": 3.3415410070751257
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.094995968531912
+   "delta": 3.4634156792853643
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,21 $",
-   "delta": 3.023422186421443
+   "wert": "86,22 $",
+   "delta": 3.03537247318475
   },
   {
    "name": "EUR/USD",
@@ -3515,58 +3515,6 @@
    "quelle": "BigGo Finance",
    "zeit": "2026-11-25T06:25:00+00:00",
    "tag": null
-  },
-  {
-   "id": "84401528377dc2b3",
-   "k": "finanzen",
-   "titel": "Einkaufsmanagerindex: Deutschland auf Vierjahreshoch, Frankreich im Tief – wie viel EZB-Zinserhöhung verträgt der Aufschwung? - AktienCheck.de",
-   "t": "Der Einkaufsmanagerindex zeigt Deutschland auf einem Vierjahreshoch, Frankreich dagegen im Tief.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2UyamRvUGgwRS1UOFhZUHlqaWlsaXhPMTN3Y2xLaFd2ODNNNFRtckVmaWRZY1MzQ0VpZzVWX2tyUVJjdkJBeE82Ty0yYk91VjdRaTA0UVNyYTFnakJ6YWphTW5qbFpEQzNDOFVrVW8zazV6OVNJcG9QWmdCck5MMlNvU0Nwbk1YNGV2MHdqdlpWRG5LY1ZMUkxBemppVmxSRGJuVTItR3dPYWVhY2hz?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T06:16:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "de51aa15ec454d92",
-   "k": "trading",
-   "titel": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-   "t": "Zehn Konten erklären laut Bericht fast das gesamte Handelswachstum des XRP Ledger im letzten Quartal.",
-   "e": "",
-   "tk": "XRP",
-   "s": 3,
-   "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T06:15:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "e30268298e4b34b3",
-   "k": "deutschland",
-   "titel": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
-   "t": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber in Abschiebezentren nach Ruanda bringen. Ein Podcast ordnet die Entwicklung der europäischen Migrationspolitik ein.",
-   "e": "Die Pläne sind ein Schritt in der EU-Asylpolitik, der die Abschiebepraxis grundlegend verändern könnte.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T06:11:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "b11878426b754d75",
-   "k": "finanzen",
-   "titel": "Zinserhöhungen 2027: Welche Gefahr die Deutsche Bank für Aktien sieht - Finanzen.net",
-   "t": "Die Deutsche Bank sieht Risiken für Aktien durch mögliche Zinserhöhungen im Jahr 2027.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDJSLWUyUVlYTDZwem4zM3RkNE9PVlFBM3IzLXIyZGJaQlBOa25tSUJhbVE0NDBweUpQdVM1d3pHcEZZc0J1bXdSWmZGSl9RcERaNmd6ZVJUOHhPUUdRcHgwUDJ3OFdaMUZUSG1XOUYxd01RMzVGb0tFUkxYRm5sTTdXdElEbzRwbEtvUm9XMHpCaV9UOXhpU1lBcjRfaFZ1aUFfVzd0SXZNUkdNMFB1eElwLWNHelJCaUxtcnZTckZoY3UzVXhPTEJkZlFTS2VLSDE5QmF2dXJUd0lxdzZyZkF3OTNqMXJEaHc?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T06:11:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3579,7 +3527,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -3604,12 +3552,12 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 32
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "NZZ",
@@ -3618,9 +3566,8 @@
    },
    {
     "name": "Handelsblatt",
-    "ok": false,
-    "n": 0,
-    "fehler": "403 Client Error: Forbidden for url: https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "CNBC",
@@ -3722,12 +3669,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 35
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -3752,12 +3699,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 37
    }
   ],
   "markt": [],
