@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T00:01:36.550082+00:00",
+ "aktualisiert": "2026-11-27T00:16:22.286319+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.505 $",
-   "delta": 0.2175605734252076
+   "wert": "60.493 $",
+   "delta": -0.5288401815091079
   },
   {
    "name": "Ethereum",
-   "wert": "1.688 $",
-   "delta": -0.13599217336509128
+   "wert": "1.687 $",
+   "delta": -0.8830737423903825
   },
   {
    "name": "Gold",
-   "wert": "3.593 $",
-   "delta": 1.6120807281160277
+   "wert": "3.598 $",
+   "delta": 1.7478350109859209
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.505 $",
-   "delta": 0.2175605734252076
+   "wert": "60.493 $",
+   "delta": -0.5288401815091079
   },
   {
    "name": "Ethereum",
-   "wert": "1.688 $",
-   "delta": -0.13599217336509128
+   "wert": "1.687 $",
+   "delta": -0.8830737423903825
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.809867614831877
+   "delta": -0.09062248037511016
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,98 $",
-   "delta": 1.5535369145353695
+   "wert": "85,04 $",
+   "delta": 1.6252386351151893
   },
   {
    "name": "EUR/USD",
@@ -4005,32 +4005,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-25T00:34:15+00:00",
    "tag": null
-  },
-  {
-   "id": "16f2e854412a35cc",
-   "k": "trading",
-   "titel": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs — NVDA, DELL, TSLA, TGTX In Focus - Yahoo Finance",
-   "t": "S&P 500 und Nasdaq schließen tiefer, nachdem KI-Sorgen wegen Nvidia-Governance-Fragen und Berichten über neue Importzölle wieder aufkamen.",
-   "e": "Die Zollsorgen und die KI-Unsicherheit belasten derzeit die US-Indizes.",
-   "tk": "NVDA,DELL,TSLA",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXpVa25QTGpzYXFUdHh4cEZHblQ4cVl3NmJCREo4U2VueldtcEcxb0RSb0NVeGtjRy1CY1VzV0JPYnI5X29LVXI0WTdKY3lmU090bnl5M1g3TkY3VWlRNUJwZXJyR3ZSbkVqT0ZiUTE4NzJnLVRWa0g2RmJBV2VQajVtdXdtUmNhWUl6QnlDZkM?oc=5",
-   "quelle": "Yahoo Finance",
-   "zeit": "2026-11-25T00:12:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "40622851b912c244",
-   "k": "welt",
-   "titel": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-   "t": "Die WHO meldet, dass die Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken ist, die Säuglingssterblichkeit mehr als verdoppelt hat. WHO-Chef Tedros macht auch US-Sanktionen dafür verantwortlich.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T00:06:58+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4038,7 +4012,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 40
    },
    {
     "name": "Tagesschau Inland",
@@ -4048,7 +4022,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -4185,7 +4159,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 3
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4220,7 +4194,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 40
    }
   ],
   "markt": [],
