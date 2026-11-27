@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T02:31:31.099972+00:00",
+ "aktualisiert": "2026-11-27T02:46:19.651218+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.445 $",
-   "delta": 0.9861193538901661
+   "wert": "61.442 $",
+   "delta": 0.8037703014173222
   },
   {
    "name": "Ethereum",
-   "wert": "1.725 $",
-   "delta": 1.4404896666746354
+   "wert": "1.726 $",
+   "delta": 1.3859302720659423
   },
   {
    "name": "Gold",
-   "wert": "3.641 $",
-   "delta": 2.9781081994943337
+   "wert": "3.659 $",
+   "delta": 3.4871867602564333
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.445 $",
-   "delta": 0.9861193538901661
+   "wert": "61.442 $",
+   "delta": 0.8037703014173222
   },
   {
    "name": "Ethereum",
-   "wert": "1.725 $",
-   "delta": 1.4404896666746354
+   "wert": "1.726 $",
+   "delta": 1.3859302720659423
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.7469639396542953
+   "delta": 1.6578660924038182
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,58 $",
-   "delta": 2.2705541203334567
+   "wert": "85,68 $",
+   "delta": 2.3900569879664824
   },
   {
    "name": "EUR/USD",
@@ -3771,58 +3771,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T03:13:00+00:00",
    "tag": null
-  },
-  {
-   "id": "8929d058d8c302f9",
-   "k": "trading",
-   "titel": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
-   "t": "Ein New Yorker Senator schlägt eine 10-prozentige Steuer auf Gebühren von Prognosemärkten vor, die einen Vorschulfonds finanzieren soll.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T02:46:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "600c302a003030f3",
-   "k": "welt",
-   "titel": "China’s Military Ambitions in the Pacific Suffer Setback",
-   "t": "Die Salomonen schließen ausländische Militärstützpunkte auf ihrem Staatsgebiet aus, was Chinas Pazifik-Ambitionen einen Dämpfer versetzt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T02:44:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "d4c272d267709877",
-   "k": "welt",
-   "titel": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-   "t": "Eine US-Jury hat Huawei in einem Strafprozess wegen Bankbetrugs, Geldwäsche und Verschwörung zum Diebstahl von Geschäftsgeheimnissen schuldig gesprochen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T02:43:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "32626707c81e6f58",
-   "k": "welt",
-   "titel": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-   "t": "Die Huthi-Miliz hat den Tower des saudischen Staatsfonds PIF erneut angegriffen; dabei wurden elf Menschen verletzt. Es ist der zweite Angriff auf den Turm innerhalb von sechs Tagen.",
-   "e": "Die anhaltenden Angriffe in der Golfregion erhöhen die Risiken für Energie- und Schiffsrouten und damit für die Ölpreise.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T02:36:43+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3885,7 +3833,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 10
+    "n": 8
    },
    {
     "name": "CNBC Finance",
@@ -3900,7 +3848,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "WSJ USA",
@@ -3977,7 +3925,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4007,7 +3955,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 18
    },
    {
     "name": "Google News Fed",
