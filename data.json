@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T11:31:26.216941+00:00",
+ "aktualisiert": "2026-11-27T11:46:17.766538+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,40 €",
-   "delta": 1.2517409814885028
+   "wert": "127,25 €",
+   "delta": 1.1365015588643557
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,40 €",
-   "delta": 2.372810944349246
+   "delta": 2.363376314397936
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.640 $",
-   "delta": 1.7470823138904201
+   "wert": "61.699 $",
+   "delta": 1.691007796504371
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.6997143460317554
+   "wert": "1.728 $",
+   "delta": 1.7226918888453888
   },
   {
    "name": "Gold",
-   "wert": "3.702 $",
-   "delta": 4.7033188776325785
+   "wert": "3.704 $",
+   "delta": 4.748570305255861
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.437",
-   "delta": 0.8796585312276006
+   "wert": "25.414",
+   "delta": 0.7858274286374645
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,84",
-   "delta": -7.31343019722982
+   "wert": "24,98",
+   "delta": -6.791042122657043
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.640 $",
-   "delta": 1.7470823138904201
+   "wert": "61.699 $",
+   "delta": 1.691007796504371
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.6997143460317554
+   "wert": "1.728 $",
+   "delta": 1.7226918888453888
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.5030434084476343
+   "delta": 3.502166758177018
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,46 $",
-   "delta": 2.1271506791738393
+   "wert": "85,41 $",
+   "delta": 2.0673992453573264
   },
   {
    "name": "EUR/USD",
@@ -3096,32 +3096,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-25T11:46:15+00:00",
    "tag": null
-  },
-  {
-   "id": "5d9f5fbacb5f20f3",
-   "k": "welt",
-   "titel": "„Nebel des Krieges“ – Microsoft ruft nach Outlook-Ausfall „Code Red“ aus",
-   "t": "Microsoft ruft nach einer weltweiten Outlook-Störung intern die höchste Alarmstufe \"Code Red\" aus und will sein Krisenmanagement überarbeiten.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.welt.de/wirtschaft/video6b06c8b3cd4642ba2eb18549/globale-it-probleme-nebel-des-krieges-microsoft-ruft-nach-outlook-ausfall-code-red-aus.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T11:41:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "7d983a65090f3727",
-   "k": "nrw",
-   "titel": "Nach Unfall im MK: Betrunkener Fahranfänger flieht durch zwei Bäche vor Polizei - Come-on",
-   "t": "Im Märkischen Kreis flüchtete nach einem Unfall ein betrunkener Fahranfänger durch zwei Bäche vor der Polizei.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXFhenVTQzhiU2l1Ni01Nl9MdEV5OFpXRWhtYWxKZXBVVTlvRU5tVVAyNmdTejJ0YUJGNGhNZnVOZG5qbk5nUzFVNTVpT2E1OWczc09fRVlIUEg5SzBXZ2x1N2ZOU3dzXy1pcDdHaHprc0wtSmZCOEhFU1hwejdzT2NWYTV1Wjd1WmZKa1lsOEtldjBKa1Ezcmt4N1BxMnNmcUpqWmI1ajZBTTJLeUdHRlo3dw?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-25T11:40:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3144,7 +3118,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "Welt",
@@ -3276,7 +3250,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 11
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3285,13 +3259,14 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "Google News NRW",
@@ -3311,7 +3286,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 26
    }
   ],
   "markt": [],
