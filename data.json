@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T04:01:43.535162+00:00",
+ "aktualisiert": "2026-11-27T04:16:23.883763+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.349 $",
-   "delta": 1.0041714284810226
+   "wert": "61.429 $",
+   "delta": 0.8623948245684447
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.7624460255514385
+   "wert": "1.729 $",
+   "delta": 1.6861166495651958
   },
   {
    "name": "Gold",
-   "wert": "3.659 $",
-   "delta": 3.4815303318035173
+   "wert": "3.654 $",
+   "delta": 3.354260691612998
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.349 $",
-   "delta": 1.0041714284810226
+   "wert": "61.429 $",
+   "delta": 0.8623948245684447
   },
   {
    "name": "Ethereum",
-   "wert": "1.726 $",
-   "delta": 1.7624460255514385
+   "wert": "1.729 $",
+   "delta": 1.6861166495651958
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.2831508145960564
+   "delta": 2.1108177640798695
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,70 $",
-   "delta": 2.413957561493074
+   "wert": "85,75 $",
+   "delta": 2.473708995309587
   },
   {
    "name": "EUR/USD",
@@ -3719,19 +3719,6 @@
    "quelle": "NZZ",
    "zeit": "2026-11-25T04:30:00+00:00",
    "tag": null
-  },
-  {
-   "id": "3ab75070d9c6efee",
-   "k": "usa",
-   "titel": "Federal grand jury empaneled in Ilhan Omar immigration fraud case",
-   "t": "In New York wird eine Grand Jury im Einwanderungsbetrugsverfahren gegen die Abgeordnete Ilhan Omar eingesetzt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://nypost.com/2026/11/24/us-news/federal-grand-jury-empaneled-in-ilhan-omar-case/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T04:14:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3744,12 +3731,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3789,7 +3776,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "CNBC Politik",
@@ -3855,7 +3842,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "CNBC Investing",
@@ -3880,20 +3867,18 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 3
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 36
    },
    {
     "name": "Google News Iserlohn",
@@ -3902,9 +3887,8 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
+    "ok": true,
+    "n": 24
    },
    {
     "name": "Google News NRW",
@@ -3919,7 +3903,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 17
    },
    {
     "name": "Google News Fed",
