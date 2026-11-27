@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T15:46:21.697061+00:00",
+ "aktualisiert": "2026-11-27T16:01:47.306112+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,66 €",
-   "delta": 0.6636225487859804
+   "wert": "127,11 €",
+   "delta": 1.0252359094341523
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,31 €",
-   "delta": 2.153455797980941
+   "wert": "43,42 €",
+   "delta": 2.403473491691055
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.112 $",
-   "delta": -0.443205822494765
+   "wert": "60.127 $",
+   "delta": -0.7660954909077708
   },
   {
    "name": "Ethereum",
-   "wert": "1.674 $",
-   "delta": -0.7545366463517525
+   "wert": "1.673 $",
+   "delta": -1.0908851631155927
   },
   {
    "name": "Gold",
-   "wert": "3.656 $",
-   "delta": 3.402340333462761
+   "wert": "3.657 $",
+   "delta": 3.4249660472744026
   },
   {
    "name": "EZB Zins",
@@ -55,23 +55,23 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.277",
-   "delta": 1.3162065059981964
+   "wert": "7.267",
+   "delta": 1.169745103662856
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.540",
-   "delta": 1.8912408078786358
+   "wert": "26.493",
+   "delta": 1.7118758957418656
   },
   {
    "name": "DAX",
-   "wert": "25.411",
-   "delta": 0.7744852074452524
+   "wert": "25.440",
+   "delta": 0.8916749403927726
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "26,29",
-   "delta": -1.902982282011756
+   "wert": "25,33",
+   "delta": -5.485071936225094
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.112 $",
-   "delta": -0.443205822494765
+   "wert": "60.127 $",
+   "delta": -0.7660954909077708
   },
   {
    "name": "Ethereum",
-   "wert": "1.674 $",
-   "delta": -0.7545366463517525
+   "wert": "1.673 $",
+   "delta": -1.0908851631155927
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.9137623547998344
+   "delta": 1.5926794858905937
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,99 $",
-   "delta": 0.37045852496853104
+   "wert": "83,53 $",
+   "delta": -0.17925466614332475
   },
   {
    "name": "EUR/USD",
@@ -2481,7 +2481,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "CNBC Finance",
@@ -2573,7 +2573,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 8
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2582,8 +2582,9 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
