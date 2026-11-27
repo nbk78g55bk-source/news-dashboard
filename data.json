@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T17:16:21.574482+00:00",
+ "aktualisiert": "2026-11-27T17:31:35.848129+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.951 $",
-   "delta": -0.867246165681133
+   "wert": "59.752 $",
+   "delta": -1.0627861010581963
   },
   {
    "name": "Ethereum",
-   "wert": "1.671 $",
-   "delta": -1.26571019004102
+   "wert": "1.669 $",
+   "delta": -1.2483896183702115
   },
   {
    "name": "Gold",
-   "wert": "3.658 $",
-   "delta": 3.461732832218334
+   "wert": "3.662 $",
+   "delta": 3.5692049728236697
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.279",
-   "delta": 1.3333307954347395
+   "wert": "7.281",
+   "delta": 1.3646557151357541
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.568",
-   "delta": 2.0014612163320455
+   "wert": "26.561",
+   "delta": 1.975435086933408
   },
   {
    "name": "DAX",
@@ -70,8 +70,8 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,66",
-   "delta": -7.985072007394822
+   "wert": "24,84",
+   "delta": -7.31343019722982
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.951 $",
-   "delta": -0.867246165681133
+   "wert": "59.752 $",
+   "delta": -1.0627861010581963
   },
   {
    "name": "Ethereum",
-   "wert": "1.671 $",
-   "delta": -1.26571019004102
+   "wert": "1.669 $",
+   "delta": -1.2483896183702115
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.4554111618361483
+   "delta": 1.575357020303312
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,94 $",
-   "delta": -0.8843215851781161
+   "wert": "82,90 $",
+   "delta": -0.9321227322313108
   },
   {
    "name": "EUR/USD",
@@ -2210,32 +2210,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-25T17:33:22+00:00",
    "tag": null
-  },
-  {
-   "id": "7705bdbc02f455fb",
-   "k": "trading",
-   "titel": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
-   "t": "Bitcoin ist unter 58.000 Dollar gefallen, die Marktkapitalisierung der Kryptowährungen liegt auf dem niedrigsten Stand seit September 2024.",
-   "e": "Der Rückgang fällt mit steigender US-Inflation und schwächeren Aktienmärkten zusammen.",
-   "tk": "BTC",
-   "s": 6,
-   "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T17:26:55+00:00",
-   "tag": null
-  },
-  {
-   "id": "a12570182e01b4e0",
-   "k": "usa",
-   "titel": "Trump droht mit neuen Zöllen wegen Überkapazitäten – doch die EU will die USA lieber als Verbündete gegen China",
-   "t": "Trump droht mit neuen Zöllen wegen Überkapazitäten, vor allem im Zusammenhang mit China. Die EU sieht die Drohungen nach Angaben der NZZ derzeit weniger ernst.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.nzz.ch/wirtschaft/trump-droht-mit-neuen-zoellen-wegen-ueberkapazitaeten-doch-die-eu-will-die-usa-lieber-als-verbuendete-gegen-china-ld.10074714",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T17:23:05+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2318,7 +2292,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 14
    },
    {
     "name": "Fox News Politik",
@@ -2343,7 +2317,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "The Block",
@@ -2420,7 +2394,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Google News Fed",
