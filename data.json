@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T17:31:35.848129+00:00",
+ "aktualisiert": "2026-11-27T17:46:20.476005+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.752 $",
-   "delta": -1.0627861010581963
+   "wert": "59.560 $",
+   "delta": -1.3489346531412871
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -1.2483896183702115
+   "wert": "1.660 $",
+   "delta": -1.7394124964958786
   },
   {
    "name": "Gold",
-   "wert": "3.662 $",
-   "delta": 3.5692049728236697
+   "wert": "3.665 $",
+   "delta": 3.6653642565231737
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.281",
-   "delta": 1.3646557151357541
+   "wert": "7.274",
+   "delta": 1.270959399763405
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.561",
-   "delta": 1.975435086933408
+   "wert": "26.548",
+   "delta": 1.9241660307319775
   },
   {
    "name": "DAX",
@@ -70,8 +70,8 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,84",
-   "delta": -7.31343019722982
+   "wert": "24,73",
+   "delta": -7.723877970108428
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.752 $",
-   "delta": -1.0627861010581963
+   "wert": "59.560 $",
+   "delta": -1.3489346531412871
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -1.2483896183702115
+   "wert": "1.660 $",
+   "delta": -1.7394124964958786
   },
   {
    "name": "Solana",
-   "wert": "72 $",
-   "delta": 1.575357020303312
+   "wert": "71 $",
+   "delta": 0.8964429147449511
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,90 $",
-   "delta": -0.9321227322313108
+   "wert": "82,72 $",
+   "delta": -1.147227893970748
   },
   {
    "name": "EUR/USD",
@@ -2158,58 +2158,6 @@
    "quelle": "Cointelegraph",
    "zeit": "2026-11-25T17:53:10+00:00",
    "tag": null
-  },
-  {
-   "id": "b5ababc627f298ee",
-   "k": "welt",
-   "titel": "Wirtschaft: EU verhängt Millionenstrafen gegen Parfümkartell",
-   "t": "Die EU-Kommission hat Bußgelder von mehr als 470 Millionen Euro gegen das Parfümkartell Firmenich, Givaudan und IFF verhängt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/wirtschaft-eu-verhaengt-millionenstrafen-gegen-parfuemkartell/100272803.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T17:44:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "6d1a4922a8a8b11c",
-   "k": "usa",
-   "titel": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
-   "t": "Berichten zufolge sind sich Trump-Regierungsmitglieder uneins über die Rückkehr Huangs zu Nvidia; Bundesermittlungen zu Megaspeed und mutmaßlichen Chiplieferungen nach China laufen weiter.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/trump-officials-odds-tech-titan-comeback-national-security-concerns-linger",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T17:43:04+00:00",
-   "tag": null
-  },
-  {
-   "id": "a789f667ba83f7d1",
-   "k": "trading",
-   "titel": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-   "t": "Krypto-Veteranen rechnen mit weiteren Verlusten, nachdem Bitcoin stark gefallen ist.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T17:38:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "809d32fd8f008ad2",
-   "k": "trading",
-   "titel": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-   "t": "Bitcoin fällt Richtung 57.000 Dollar, belastet durch Zolldrohungen und einen heißeren PCE-Inflationsbericht, während der Nasdaq um 4 Prozent sinkt.",
-   "e": "Der Kursrückgang der Tech-Aktien geht mit Bitcoin einher, was die Korrelation zwischen beiden Märkten zeigt.",
-   "tk": "BTC",
-   "s": 7,
-   "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T17:33:22+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2217,7 +2165,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -2287,7 +2235,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -2317,7 +2265,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "The Block",
@@ -2364,7 +2312,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 7
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2399,7 +2347,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 27
    }
   ],
   "markt": [],
