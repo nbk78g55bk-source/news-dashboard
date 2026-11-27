@@ -1,20 +1,20 @@
 {
- "aktualisiert": "2026-11-27T09:16:18.153704+00:00",
+ "aktualisiert": "2026-11-27T09:31:34.351002+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,49 €",
-   "delta": 4.2948316655578855
+   "wert": "127,50 €",
+   "delta": 4.307102608180702
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,49 €",
-   "delta": 6.7946871700909295
+   "wert": "43,42 €",
+   "delta": 6.620338520077662
   },
   {
    "name": "Deka S&P 500",
-   "wert": "138,51 €",
-   "delta": 4.18969676852734
+   "wert": "138,99 €",
+   "delta": 4.546987357741883
   },
   {
    "name": "Deka Nasdaq-100",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.671 $",
-   "delta": 1.331250741827651
+   "wert": "61.670 $",
+   "delta": 1.5746638123917702
   },
   {
    "name": "Ethereum",
-   "wert": "1.729 $",
-   "delta": 1.7360955531438362
+   "wert": "1.731 $",
+   "delta": 1.959056436847378
   },
   {
    "name": "Gold",
-   "wert": "3.711 $",
-   "delta": 4.960686372240075
+   "wert": "3.706 $",
+   "delta": 4.8023063755585405
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.454",
-   "delta": 0.9447374996766289
+   "wert": "25.444",
+   "delta": 0.9057932297089399
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,60",
-   "delta": -8.208952610783149
+   "wert": "24,71",
+   "delta": -7.798504837904541
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.671 $",
-   "delta": 1.331250741827651
+   "wert": "61.670 $",
+   "delta": 1.5746638123917702
   },
   {
    "name": "Ethereum",
-   "wert": "1.729 $",
-   "delta": 1.7360955531438362
+   "wert": "1.731 $",
+   "delta": 1.959056436847378
   },
   {
    "name": "Solana",
-   "wert": "73 $",
-   "delta": 3.3938246645485295
+   "wert": "74 $",
+   "delta": 3.840986442924698
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,74 $",
-   "delta": 2.46175870854628
+   "wert": "85,55 $",
+   "delta": 2.234703260043558
   },
   {
    "name": "EUR/USD",
@@ -3420,7 +3420,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Handelsblatt",
@@ -3435,7 +3435,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 9
+    "n": 8
    },
    {
     "name": "CNBC Finance",
@@ -3527,7 +3527,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3557,12 +3557,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
