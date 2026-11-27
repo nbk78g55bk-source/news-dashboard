@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T22:01:44.727473+00:00",
+ "aktualisiert": "2026-11-27T22:16:23.296079+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.758 $",
-   "delta": -1.5536600319065559
+   "wert": "59.613 $",
+   "delta": -1.4688521015120426
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -2.288470398056228
+   "wert": "1.656 $",
+   "delta": -2.3223670308729054
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.758 $",
-   "delta": -1.5536600319065559
+   "wert": "59.613 $",
+   "delta": -1.4688521015120426
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -2.288470398056228
+   "wert": "1.656 $",
+   "delta": -2.3223670308729054
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.5854326641860833
+   "delta": 0.5721913569244227
   },
   {
    "name": "Rohöl WTI",
@@ -1402,45 +1402,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-25T22:20:02+00:00",
    "tag": null
-  },
-  {
-   "id": "f98e8200ec5b6d3c",
-   "k": "trading",
-   "titel": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-   "t": "Oracle, CoreWeave und andere Tech-Werte erholten sich am Mittwoch von frühen Verlusten nach einem starken Ausverkauf.",
-   "e": "",
-   "tk": "ORCL, CRWV",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T22:16:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "05d1c8c77702a944",
-   "k": "trading",
-   "titel": "MARA Aktie: 13.597 Bitcoin verkauft, 750 Millionen Dollar Kredit – geht den Minern das Geld aus? - AktienCheck.de",
-   "t": "Der Bitcoin-Miner MARA hat 13.597 Bitcoin verkauft und einen Kredit über 750 Millionen Dollar aufgenommen.",
-   "e": "Verkäufe von Mining-Beständen und neue Kreditlinien deuten auf finanziellen Druck bei Minern in einer schwachen Bitcoin-Phase hin.",
-   "tk": "MARA, BTC",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlVXR1VPb0ZRMm81WHlDUDdqZU5Lbzh3YzZZNkk0QkVBQ1lzTW9yRGd1RDRieGFKQ2hENHJuS3dDSGN2QUNtYjQwLXRfaTRkUmQ1dm93Q0E0ZHpHLWZKUmViNmpRRjl2QzZaeVBIdjl1aTk4X2F0S1l5Ti1nbHdlLWIxa1JwNkd2SDNpMEhrYzg?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T22:12:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "d540fe45c02858d8",
-   "k": "trading",
-   "titel": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-   "t": "Nvidia hat einen großen Teil des Montagsanstiegs wieder abgegeben, weil Käufer nach dem Rücksetzer Gewinne mitnehmen.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T22:11:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1453,7 +1414,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -1518,7 +1479,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 28
    },
    {
     "name": "WSJ USA",
@@ -1528,7 +1489,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "New York Post Politik",
@@ -1595,7 +1556,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1629,9 +1590,8 @@
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
