@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T10:46:16.362551+00:00",
+ "aktualisiert": "2026-11-27T11:01:47.184222+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,47 €",
-   "delta": 1.3034000330096829
+   "delta": 1.3073738062036044
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,41 €",
-   "delta": 2.3940388617397446
+   "delta": 2.3775282593249125
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.581 $",
-   "delta": 1.8375001161432278
+   "wert": "61.608 $",
+   "delta": 1.9033992135097204
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 2.009939910742998
+   "wert": "1.728 $",
+   "delta": 2.1043567754471946
   },
   {
    "name": "Gold",
-   "wert": "3.702 $",
-   "delta": 4.686349592273831
+   "wert": "3.706 $",
+   "delta": 4.819275660917266
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.437",
-   "delta": 0.8785084458619474
+   "wert": "25.439",
+   "delta": 0.8881453680637197
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,66",
-   "delta": -7.985072007394822
+   "wert": "24,60",
+   "delta": -8.208952610783149
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.581 $",
-   "delta": 1.8375001161432278
+   "wert": "61.608 $",
+   "delta": 1.9033992135097204
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 2.009939910742998
+   "wert": "1.728 $",
+   "delta": 2.1043567754471946
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.9264256755980895
+   "delta": 4.071734089497257
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,78 $",
-   "delta": 2.509559855599486
+   "wert": "85,46 $",
+   "delta": 2.1271506791738393
   },
   {
    "name": "EUR/USD",
@@ -106,32 +106,28 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 7,
-  "stand": "2026-11-27T06:01:47.928916+00:00",
+  "slot": 12,
+  "stand": "2026-11-27T11:01:47.184205+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Nvidia stoppt laut Bericht Chiplieferungen nach Südostasien, nachdem die USA ihre Exportkontrollen verschärft haben. Das Unternehmen reagiert damit auf die neuen US-Vorgaben."
+    "t": "Der Deka DAX kostet aktuell 222,05 €, der Deka S&P 500 138,99 € und der Deka Nasdaq-100 172,58 €. Der iShares MSCI World notiert bei 127,47 €, der iShares MSCI EM bei 43,41 €."
    },
    {
     "k": "finanzen",
-    "t": "Zur Marktlage: Deka DAX 220,40 €, Deka S&P 500 137,15 € und Deka Nasdaq-100 169,44 €; der EZB-Zins liegt bei 2,50 %, der Fed Funds Rate bei 3,88 %. Bitcoin notiert bei 61.698 $, Gold bei 3.670 $."
-   },
-   {
-    "k": "deutschland",
-    "t": "Die SPD zeigt sich im Rentenstreit kompromissbereit, die Union bringt eine Respektrente ins Spiel."
-   },
-   {
-    "k": "usa",
-    "t": "Eine US-Richterin hat eine Behörde der Trump-Regierung gestoppt. Im Raum stehen Vorwürfe, dass es einen Marschbefehl aus dem Weißen Haus gegeben habe."
+    "t": "Der EZB Zins liegt bei 2,50 %, der Fed Funds bei 3,88 %."
    },
    {
     "k": "finanzen",
-    "t": "Bayer sichert sich für einen Milliardenbetrag die weltweiten Rechte an einem experimentellen Krebsmittel des chinesischen Unternehmens Hansoh Pharma."
+    "t": "Bitcoin kostet 61.608 $, Ethereum 1.728 $ und Gold 3.706 $."
    },
    {
-    "k": "deutschland",
-    "t": "Der Brenner-Basistunnel ist mit 230 Kilometern fertig, die deutschen Anschlussstrecken sollen laut Bericht aber voraussichtlich erst nach 2040 gebaut werden."
+    "k": "welt",
+    "t": "Vor der Parlamentswahl in Spanien am Wochenende hat die konservative Volkspartei PP gute Aussichten, stärkste Kraft zu werden. Sie verspricht tiefgreifende Änderungen nach der Ära Sánchez."
+   },
+   {
+    "k": "welt",
+    "t": "Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Ein Seemann kam ums Leben, die spanischen Behörden aktivierten einen Notfallplan wegen möglicher Umweltgefahren."
    }
   ]
  },
@@ -3243,45 +3239,6 @@
    "quelle": "Finanzen.net",
    "zeit": "2026-11-25T11:05:18+00:00",
    "tag": null
-  },
-  {
-   "id": "44e151fe0915be03",
-   "k": "usa",
-   "titel": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
-   "t": "Republikanische Abgeordnete im Repräsentantenhaus drängen Außenminister Marco Rubio zu einer Präsidentschaftskandidatur 2028. Im Umfeld Trumps gibt es Uneinigkeit über Vance.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/marco-rubios-2028-stock-surges-among-house-republicans-trump-insiders-split-vance",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T11:00:37+00:00",
-   "tag": null
-  },
-  {
-   "id": "c03d381c9a88dd76",
-   "k": "welt",
-   "titel": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-   "t": "Die EU schlägt einen Fonds über 54,7 Milliarden US-Dollar für KI- und Quanten-Startups sowie Maßnahmen für post-quantensichere Verschlüsselung vor.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-25T11:00:27+00:00",
-   "tag": null
-  },
-  {
-   "id": "4640f6d829684e8b",
-   "k": "deutschland",
-   "titel": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
-   "t": "Der Bundestag hat eine Schweigeminute für Opfer von Femiziden eingelegt. Zahlreiche Abgeordnete trugen Orange, das Symbol des Orange Day.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-25T10:55:47+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3294,7 +3251,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Tagesschau Ausland",
@@ -3435,8 +3392,9 @@
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": true,
-    "n": 7
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+re"
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3451,7 +3409,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 30
+    "n": 29
    },
    {
     "name": "Google News NRW",
@@ -3465,13 +3423,15 @@
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 11
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 30
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
