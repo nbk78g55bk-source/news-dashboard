@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T07:31:34.452688+00:00",
+ "aktualisiert": "2026-11-27T07:46:17.427744+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.761 $",
-   "delta": 2.074822711152777
+   "wert": "61.489 $",
+   "delta": 1.5109621660992592
   },
   {
    "name": "Ethereum",
-   "wert": "1.733 $",
-   "delta": 2.6038916739382216
+   "wert": "1.726 $",
+   "delta": 2.031346806309833
   },
   {
    "name": "Gold",
-   "wert": "3.685 $",
-   "delta": 4.222522459135036
+   "wert": "3.690 $",
+   "delta": 4.3639331704578455
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.761 $",
-   "delta": 2.074822711152777
+   "wert": "61.489 $",
+   "delta": 1.5109621660992592
   },
   {
    "name": "Ethereum",
-   "wert": "1.733 $",
-   "delta": 2.6038916739382216
+   "wert": "1.726 $",
+   "delta": 2.031346806309833
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.8538761006080557
+   "delta": 2.8112629933895272
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,13 $",
-   "delta": 2.927819892315031
+   "wert": "86,11 $",
+   "delta": 2.9039193187884393
   },
   {
    "name": "EUR/USD",
@@ -3763,84 +3763,6 @@
    "quelle": "Bloomberg.com",
    "zeit": "2026-11-25T07:51:00+00:00",
    "tag": null
-  },
-  {
-   "id": "a1cb4567b16b410d",
-   "k": "finanzen",
-   "titel": "Treasury yields fall as investors await key inflation signal",
-   "t": "US-Staatsanleihenrenditen geben vor wichtigen Inflationsdaten nach.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T07:44:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "5978d8737ca6ed7f",
-   "k": "finanzen",
-   "titel": "Doch keine Wende?: Aufträge am Bau kurzfristig eingebrochen",
-   "t": "Die Auftragseingänge am Bau brechen im September nach einem starken August kurzfristig ein, besonders im Tiefbau.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/deutschland/doch-keine-wende-auftraege-am-bau-kurzfristig-eingebrochen/100272610.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T07:44:10+00:00",
-   "tag": null
-  },
-  {
-   "id": "9a172b69a95b7ab3",
-   "k": "trading",
-   "titel": "Business-Ticker: Trump: Begnadigung Huangs „immer eine Option“",
-   "t": "China Southern bestellt bei Boeing nach Angaben des Business-Tickers den größten China-Auftrag seit fast zehn Jahren.",
-   "e": "",
-   "tk": "BA",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-begnadigung-von-huang-immer-eine-option-faz-200452404.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-25T07:43:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "18b619ac61890085",
-   "k": "trading",
-   "titel": "HP-Aktie: Zahlen über den Erwartungen – doch Analysten bleiben skeptisch - Investing.com Deutsch",
-   "t": "HP übertrifft die Erwartungen bei den Zahlen, Analysten bleiben aber skeptisch.",
-   "e": "",
-   "tk": "HPQ",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDQ5cFJ4S1dadHZHcWpaS1NiY1VFYVVOUUstWVBadTdWTGs2Mi0xbWN2QjU5d0l1czd5ckFsM2luRlF1WHRXTHU0NDl0bXQ3ZHoyaXJjLTVtMlIyNk9MejZPY2lvYk53TFR4Q0d4Mk80WlhGN2hydXhQRk13Y0hoSU9OUV96aDNZU0w3REVTSGxSY1ZxTXk3aGluQVNDZ2pCa0ZqX0FjdUtsYUpKRUhZYnhITm1kZlpPbjZiVU1KaVM0NXc?oc=5",
-   "quelle": "Investing.com Deutsch",
-   "zeit": "2026-11-25T07:42:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0f8af6347cd39d24",
-   "k": "trading",
-   "titel": "AI Trade May Have Bottomed, Steno Says - Wisevoter",
-   "t": "Analyst Steno sieht den KI-Handel möglicherweise bereits am Boden.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CV0RLRlJtRUtSelFaU012R3c1bElMcDdnTm1iMzhmSXA0am9xR2FTaWtsNDlENXZKbFlQZk92ZnpwdVo2aXFBTkZIY2NIckhkcTE5NkhOdjdXMnIwLUFoTU52XzRiMkY4Q3FyZU1ydTZvVWdHOXNoMDA3UDREVmc?oc=5",
-   "quelle": "Wisevoter",
-   "zeit": "2026-11-25T07:38:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "fb15e4b69d5d3b3c",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Sperrung auf A1 - Fahrer bei Zusammenstoß schwer verletzt - n-tv.de",
-   "t": "Auf der A1 kommt es bei einem Zusammenstoß zu einer Sperrung, der Fahrer wird schwer verletzt.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFotVDk0a084Qk14NS1mTVc1d29veGJKeGhYaS1CcWRua2YxUUk1d2YwZjVWU2NwR0s1dTE1TU9GZXFZNms2NnFkaGxrSE9LTk5JRThRM1ZRcDRwRVBqZGphbGY1eU1PY0RjbkQ4ajRYYzYxV3dlVHdtRG1xREZSLThDNlI5ZkQyMGpUa1pIakdtMnQtZVNNMS1jcWFSNk40Q0cyTnpON0JWWmUzRjhZSlZKVnVHRXZjMkpKd29WWEs?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-25T07:34:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3995,7 +3917,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4025,12 +3947,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 17
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 40
    }
   ],
   "markt": [],
