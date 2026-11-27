@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T08:46:22.849684+00:00",
+ "aktualisiert": "2026-11-27T09:01:39.215141+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,27 €",
-   "delta": 4.110767526215597
+   "wert": "127,41 €",
+   "delta": 4.225296324028571
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,27 €",
-   "delta": 6.251996301739804
+   "wert": "43,37 €",
+   "delta": 6.500013395420634
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.713 $",
-   "delta": 1.6732908913782336
+   "wert": "61.672 $",
+   "delta": 1.3873292740353735
   },
   {
    "name": "Ethereum",
-   "wert": "1.729 $",
-   "delta": 2.323923636788445
+   "wert": "1.730 $",
+   "delta": 1.8203183614379899
   },
   {
    "name": "Gold",
-   "wert": "3.699 $",
-   "delta": 4.6043313797066165
+   "wert": "3.706 $",
+   "delta": 4.7994781613320825
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.406",
-   "delta": 0.7545371750687258
+   "wert": "25.444",
+   "delta": 0.9076175030475531
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,96",
-   "delta": -6.865668990453145
+   "wert": "24,75",
+   "delta": -7.6492511023123155
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.713 $",
-   "delta": 1.6732908913782336
+   "wert": "61.672 $",
+   "delta": 1.3873292740353735
   },
   {
    "name": "Ethereum",
-   "wert": "1.729 $",
-   "delta": 2.323923636788445
+   "wert": "1.730 $",
+   "delta": 1.8203183614379899
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.2425515045007924
+   "delta": 3.2341188248034265
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,98 $",
-   "delta": 2.748565590865515
+   "wert": "85,83 $",
+   "delta": 2.5693112894159986
   },
   {
    "name": "EUR/USD",
@@ -3373,123 +3373,6 @@
    "quelle": "Tagesschau Wirtschaft",
    "zeit": "2026-11-25T09:40:38+00:00",
    "tag": null
-  },
-  {
-   "id": "55fa32e502034587",
-   "k": "trading",
-   "titel": "Nach Ladendiebstahl geflüchtet - Polizei NRW",
-   "t": "Nach Nvidia-Zahlen bleiben die US-Aktien uneinheitlich, da die Quartalszahlen die Nervosität bei KI-Werten nicht beruhigen konnten.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82ZGxoVVl5dE4zSm1kTHd4QjZKaDRYeDFHTXRoUDNOdHRBQzZ2NWtOWjhwU05LRXVzR0thSURIbzlLYkhNRENlbTN1LUFRUnNmbDBmQ0M4Q3ViaVl2cWlmbW9OWnhUR05aRW1fRQ?oc=5",
-   "quelle": "Polizei NRW",
-   "zeit": "2026-11-25T08:58:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "000972e08ae1867d",
-   "k": "trading",
-   "titel": "Rückversicherer: Hannover Rück erwartet 2,9 Milliarden Euro Gewinn",
-   "t": "Die Hannover Rück erwartet für 2026 einen Gewinn von 2,9 Milliarden Euro. Sinkende Preise belasten die Rückversicherungsbranche, der Konzern will die Umsätze bis 2027 weiter steigern.",
-   "e": "",
-   "tk": "HNR1",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rueckversicherer-hannover-rueck-erwartet-29-milliarden-euro-gewinn/100272609.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T08:56:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "a72d3718b4fab5c3",
-   "k": "finanzen",
-   "titel": "INTERAKTIV - Strom und Gas so teuer wie zuletzt Anfang 2023 – die aktuellen Zahlen zur Energieversorgung in Deutschland",
-   "t": "Strom und Gas sind in Deutschland so teuer wie zuletzt Anfang 2023, so aktuelle Daten zur Energieversorgung.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T08:51:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "f567d925098b7e95",
-   "k": "welt",
-   "titel": "DATENANALYSE - Wie beliebt ist Donald Trump?",
-   "t": "In Europa wurde ein eigenes Satelliten-Werk eröffnet, das Teil der EU-Pläne für ein sicheres Kommunikationsnetz im All bis 2030 ist.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T08:50:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "ab032759ebc4b198",
-   "k": "finanzen",
-   "titel": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
-   "t": "Die deutsche Wirtschaft ist im dritten Quartal laut aktualisierter Schätzung nur um 0,1 Prozent gewachsen und damit langsamer als erwartet.",
-   "e": "Das schwache Wachstum ist für die Konjunkturerwartungen und die Zinsdebatte bei EZB und Bundesregierung relevant.",
-   "tk": "",
-   "s": 7,
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-25T08:49:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "32b6c3b670b7ac37",
-   "k": "deutschland",
-   "titel": "Erneuerbare Energien: Solarstrom knackt erstmals die Marke von 100 Terawattstunden",
-   "t": "In Deutschland wurde erstmals mehr als 100 Terawattstunden Solarstrom in einem Jahr erzeugt, ein neuer Rekord.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/erneuerbare-energien-solarstrom-knackt-erstmals-die-marke-von-100-terawattstunden-accg-201715487.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-25T08:48:56+00:00",
-   "tag": null
-  },
-  {
-   "id": "804e866c08d33dce",
-   "k": "trading",
-   "titel": "Semiconductor Manufacturing Aktie: CICC streicht das Kursziel um 31 % - Börse Global",
-   "t": "Der Nasdaq 100 steht unter Druck, weil Sorgen über die Bewertung von KI-Aktien zurückkehren.",
-   "e": "",
-   "tk": "NDX",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGZXR3dGUG1VcTRMTUkzaGtQNGVGVzctTUwzUnU3OVBmT0hWQS1rMFdkc2x4YTN3Y2VGZ3RUYkFvMVpCa1UyanZuR0xSNEpXQ0VHVTg1anZfSFhfWFpNVjNXX3MwN1cza1ltTDVxU1FTbWdWdkVsaHc2QmF6WE9YcUxFbVlIWlBjN3FJcUhZTzJ2ZlEwa0trWUtpQXVUYXA2QlhjQw?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-25T08:48:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "31b1823ba8a818e6",
-   "k": "deutschland",
-   "titel": "„Nur Spitze des Eisbergs“ – Mit einer Zahl macht Klöckner Ausmaß der Gewalt gegen Frauen deutlich",
-   "t": "Julia Klöckner verweist auf die Gewalt gegen Frauen in Deutschland: Fast jeden Tag wird eine Frau oder ein Mädchen gewaltsam getötet. Dies sei nur die Spitze des Eisbergs.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/deutschland/article6b069931d4a4a3142c57294a/schweigen-im-bundestag-nur-spitze-des-eisbergs-mit-einer-zahl-macht-kloeckner-ausmass-der-gewalt-gegen-frauen-deutlich.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-25T08:48:21+00:00",
-   "tag": null
-  },
-  {
-   "id": "85496396f566d954",
-   "k": "usa",
-   "titel": "So entwickeln sich Bitcoin, Ripple & Co am Vormittag am Kryptomarkt - Finanzen.net",
-   "t": "US-Medienberichten zufolge bereitet die Regierung neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt folgt auf die Einstufung früherer Zölle als illegal durch den Supreme Court.",
-   "e": "Neue Zölle auf EU-Waren könnten Exportwerte und Handelsbeziehungen belasten und die Märkte verunsichern.",
-   "tk": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenc4N0xBVlpsUEpSaGh1ZDRzRGI4VURHdDhqRmYyRzd3ZGp5bFpTbkhnRWc0dDh5MjZGUE5KaFJGdS1mU0sxdVJZQzhlSktueFJpSi13bzJEV1YwbFd0Vkw3cUdZZ19MYzlFV29WY0dGSlBERzVBLV9VVFBXdHVHRjRldEViSnFkWS1DbXNjSEo1UHVHWlhkZDVrS3VCdjJJWDd1WllGYXFIdXBHMWsxM2NMcXN4eFk?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T08:48:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3497,7 +3380,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -3547,7 +3430,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "CNBC Politik",
@@ -3613,7 +3496,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "CNBC Investing",
@@ -3644,7 +3527,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3668,8 +3551,9 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
@@ -3678,8 +3562,9 @@
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 27
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
