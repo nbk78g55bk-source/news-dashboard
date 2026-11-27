@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T19:16:20.797226+00:00",
+ "aktualisiert": "2026-11-27T19:31:32.287413+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.797 $",
-   "delta": -1.1198461243374325
+   "wert": "59.916 $",
+   "delta": -1.0710868978483286
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -1.7873570459178436
+   "wert": "1.672 $",
+   "delta": -1.7751483653121465
   },
   {
    "name": "Gold",
@@ -75,28 +75,28 @@
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,93 %",
+   "wert": "4,94 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.797 $",
-   "delta": -1.1198461243374325
+   "wert": "59.916 $",
+   "delta": -1.0710868978483286
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -1.7873570459178436
+   "wert": "1.672 $",
+   "delta": -1.7751483653121465
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.057951623416418
+   "delta": 1.2134360340436963
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,95 $",
-   "delta": -0.8723712984148091
+   "wert": "83,01 $",
+   "delta": -0.8006695778350004
   },
   {
    "name": "EUR/USD",
@@ -1844,136 +1844,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-25T19:32:42+00:00",
    "tag": null
-  },
-  {
-   "id": "a9cfc36e05be2016",
-   "k": "welt",
-   "titel": "„Die mentale Integrität muss erhalten bleiben“",
-   "t": "Ethikrat-Mitglied Aldo Faisal warnt bei Gehirn-Chip-Schnittstellen vor Abhängigkeiten und ausländischer Einflussnahme abseits medizinischer Anwendungen.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/videos/video6b0733ea0d5af5eba2d36724/neurotechnologie-die-mentale-integritaet-muss-erhalten-bleiben.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-25T19:31:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "a950039c7000522d",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Bombe wird in Dortmund entschärft - n-tv.de",
-   "t": "In Dortmund wird eine Bombe entschärft. Betroffene Bereiche werden für die Entschärfung geräumt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVRlZVI5OXdGZ2JaLTUwVEFBTEY5LWcyeUtUbWxpOFBiUnlseFpQN0loNVZFdElJTFotYWU1TnpCMm84dVNXNHo1cUZXN1BQTDBMRGNCdmtEWFU5WkJFVjlEbE9GSDJsc0RBOHpSdDZlWlVZZFkxNjc0RGhiSFllYkVFX2FQWkNRVDBLbGxLNHd6UnItZlBfMVZ4STc5cDYzSnpR?oc=5",
-   "quelle": "n-tv.de",
-   "zeit": "2026-11-25T19:29:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "76699ec43e3258b2",
-   "k": "trading",
-   "titel": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-   "t": "Nvidia will in einem Sammelklage-Verfahren 290 Millionen Dollar zahlen. Der Vorwurf: Der Konzern habe verschwiegen, wie viel Gaming-Umsatz 2017 und 2018 von Krypto-Minern stammte.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T19:28:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "f8dcee28a2865dc7",
-   "k": "trading",
-   "titel": "Bitcoin: CFTC-Staff erlaubt Bitcoin und Ether als Betriebsreserve von Terminbörsen, 20 Prozent Abschlag – wird Krypto zur anerkannten Sicherheit? - AktienCheck.de",
-   "t": "Die US-Terminbörsenaufsicht CFTC erlaubt Terminbörsen, Bitcoin und Ether als Betriebsreserve zu halten, mit einem Abschlag von 20 Prozent.",
-   "e": "Die Anerkennung von Krypto als Sicherheit könnte den institutionellen Zugang zu Kryptomärkten erleichtern.",
-   "tk": "BTC,ETH",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQU9vLTVyV2VRaHhZNDRnMS1CTDJVSmZUTlFqOUlsUHlHN1NTeU9ET2xiSXZWSVlQRnItTVRtWFVqQW9UNmt4cjlfYTNJWkd2d3VuaDMxYnBlS3ZLZ1lyNmI0VURQOTcxcVpZN2lHUHpkbWgzYnRwcHlycmZCYjhpcGpYZGJzb0FYeUZCYVEyaWdSVUhvWmFFMHlzM3R2SGE4?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T19:26:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "8bb09de850b81992",
-   "k": "trading",
-   "titel": "Galaxy Digital Aktie: Research nimmt Bitcoin-Boden-Call zurück, 58.525 Dollar als Schlüsselmarke – wie tief kann Bitcoin laut Galaxy noch fallen? - AktienCheck.de",
-   "t": "Galaxy Digital nimmt seine Prognose eines Bitcoin-Bodens zurück und nennt 58.525 Dollar als Schlüsselmarke.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1ZnV0pubXFPNldURG4yR1ExZjE3ZjYwUnNnZkc0Q2MtbGxwWjJ5SXpWeFRJd3dEdERCY0IweVhwcUFtMHQwTnZWNFJncGtyTVdVNFJlR2JJZDBmMk5FOHc0YzBXNXVTcm14R1JtNXFIOEtTRklOSDZNeElfZmtrMHUtcHhmRlRyNVBLZUdqMlN6OE4xQXZLNTE0V2VSQmVoUGJHNVI4alRfLXVYYlRN?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-25T19:26:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "41091010b439c3be",
-   "k": "welt",
-   "titel": "NATO boss says Ukraine ‘doing exceptionally well’ in war, as Trump admin sidelines plan to do business with Russia",
-   "t": "NATO-Generalsekretär Rutte bewertet die Lage der Ukraine im Krieg mit Russland als \"außergewöhnlich gut\". Berichten zufolge lässt die US-Regierung Pläne für Geschäfte mit Russland fallen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/25/us-news/nato-boss-says-ukraine-doing-exceptionally-well-in-war-as-trump-admin-drops-plans-to-do-business-with-russia/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T19:25:40+00:00",
-   "tag": null
-  },
-  {
-   "id": "7f9807236d699a12",
-   "k": "usa",
-   "titel": "DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees",
-   "t": "Justizminister Blanche hat Zivilanwälte des Justizministeriums mobilisiert, um rund 97.000 Habeas-Corpus-Anträge von inhaftierten Migranten abzuwehren.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T19:24:48+00:00",
-   "tag": null
-  },
-  {
-   "id": "5d19c362f2eb93f2",
-   "k": "finanzen",
-   "titel": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-   "t": "Die Verkäufe neu gebauter Häuser in den USA erreichen im Oktober ein Jahreshoch, Bauträger bieten Rabatte und günstige Hypotheken an.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T19:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "2723153b1493e322",
-   "k": "usa",
-   "titel": "Newsom shredded for ‘hypocritical’ claim Trump 'sells' pardons after moving to spare 548 death row inmates",
-   "t": "Gouverneur Newsom will 548 Todeskandidaten in Kalifornien verschonen und fordert eine Reform der presidentiellen Begnadigungsbefugnisse, was auf Kritik stößt.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.foxnews.com/politics/newsom-shredded-hypocritical-claim-trump-sells-pardons-after-moving-spare-548-death-row-inmates",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T19:16:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2150c757e97fa10",
-   "k": "trading",
-   "titel": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
-   "t": "Nvidia-Vorstände werden untersucht und sind bereits in einer Aktionärsklage als Beklagte benannt, der Vorwurf lautet mangelnde Aufsicht.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
-   "quelle": "CNBC Investing",
-   "zeit": "2026-11-25T19:16:24+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2011,7 +1881,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -2061,7 +1931,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "New York Post Politik",
@@ -2081,7 +1951,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 26
+    "n": 25
    },
    {
     "name": "The Block",
@@ -2128,7 +1998,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 8
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2162,8 +2032,9 @@
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 29
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
