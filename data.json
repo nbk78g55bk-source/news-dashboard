@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T06:16:17.315738+00:00",
+ "aktualisiert": "2026-11-27T06:31:33.819308+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.870 $",
-   "delta": 2.2810709384536323
+   "wert": "61.654 $",
+   "delta": 1.7861112926223204
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 3.3415410070751257
+   "wert": "1.734 $",
+   "delta": 2.7873055945392866
   },
   {
    "name": "Gold",
-   "wert": "3.671 $",
-   "delta": 3.832228895884082
+   "wert": "3.672 $",
+   "delta": 3.860511038148662
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.870 $",
-   "delta": 2.2810709384536323
+   "wert": "61.654 $",
+   "delta": 1.7861112926223204
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 3.3415410070751257
+   "wert": "1.734 $",
+   "delta": 2.7873055945392866
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.4634156792853643
+   "delta": 3.0479094686918002
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,22 $",
-   "delta": 3.03537247318475
+   "wert": "86,17 $",
+   "delta": 2.975621039368237
   },
   {
    "name": "EUR/USD",
@@ -3489,32 +3489,6 @@
    "quelle": "CoinDesk",
    "zeit": "2026-11-25T06:33:10+00:00",
    "tag": null
-  },
-  {
-   "id": "c221eebfc9242858",
-   "k": "trading",
-   "titel": "Marktbericht: DAX vor holprigem Start",
-   "t": "Der DAX startet nach dem Technologie-Beben holprig, in Asien fallen die Kurse wegen neuer Zollsorgen.",
-   "e": "",
-   "tk": "DAX",
-   "s": 5,
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-25T06:28:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "79deaff0832825e4",
-   "k": "finanzen",
-   "titel": "JPMorgan Warns: Five Major Risks Converge at Year-End, Threatening an \"Ugly Christmas\" - BigGo Finance",
-   "t": "JPMorgan nennt fünf große Risiken, die sich zum Jahresende bündeln könnten.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IeVVkRTFoenJtTF82di0yRnZWMHdPWGhOVTBTNVhNc19vMzk1TEtSMG9BeV8zNjdrbEhnci1GSC1adkxXZmxIejdVRVk4MGNsamNJOUlsOWowUTlxZ041bUZSVlRjNWtxZG1LTWZVVXMzS2F3dEE?oc=5",
-   "quelle": "BigGo Finance",
-   "zeit": "2026-11-25T06:25:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3537,7 +3511,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Welt",
@@ -3658,8 +3632,9 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
    },
    {
     "name": "Google News Krypto Kurs",
@@ -3669,12 +3644,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 40
+    "n": 37
    },
    {
     "name": "Google News Iserlohn",
@@ -3683,8 +3658,9 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 24
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
    },
    {
     "name": "Google News NRW",
@@ -3699,12 +3675,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 17
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 37
+    "n": 40
    }
   ],
   "markt": [],
