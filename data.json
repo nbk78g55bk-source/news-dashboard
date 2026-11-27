@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-27T16:46:18.895368+00:00",
+ "aktualisiert": "2026-11-27T17:01:48.494161+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,03 €",
-   "delta": 0.9576817651372416
+   "wert": "127,20 €",
+   "delta": 1.092790053731063
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,46 €",
-   "delta": 2.5166890511069795
+   "wert": "43,49 €",
+   "delta": 2.5898074332297405
   },
   {
    "name": "Deka S&P 500",
-   "wert": "138,19 €",
-   "delta": 0.7619641219034134
+   "wert": "138,47 €",
+   "delta": 0.9661275921554857
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "171,48 €",
-   "delta": 1.2039645474504646
+   "wert": "172,16 €",
+   "delta": 1.6052865435565167
   },
   {
    "name": "Deka DAX",
-   "wert": "222,05 €",
-   "delta": 0.7486416284977704
+   "wert": "222,30 €",
+   "delta": 0.8620717586807158
   },
   {
    "name": "Bitcoin",
-   "wert": "60.230 $",
-   "delta": -0.3900495554174839
+   "wert": "59.950 $",
+   "delta": -0.8818904962943654
   },
   {
    "name": "Ethereum",
-   "wert": "1.679 $",
-   "delta": -0.6472463878910418
+   "wert": "1.670 $",
+   "delta": -1.3504942512289733
   },
   {
    "name": "Gold",
-   "wert": "3.656 $",
-   "delta": 3.4108249761421128
+   "wert": "3.659 $",
+   "delta": 3.495671402935807
   },
   {
    "name": "EZB Zins",
@@ -55,23 +55,23 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.282",
-   "delta": 1.3744012457094001
+   "wert": "7.284",
+   "delta": 1.4057261654103925
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.582",
-   "delta": 2.0547228320788147
+   "wert": "26.579",
+   "delta": 2.0445028060485537
   },
   {
    "name": "DAX",
-   "wert": "25.431",
-   "delta": 0.85570502912935
+   "wert": "25.441",
+   "delta": 0.8951648546057678
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,14",
-   "delta": -6.194027180288142
+   "wert": "24,65",
+   "delta": -8.02238544129288
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.230 $",
-   "delta": -0.3900495554174839
+   "wert": "59.950 $",
+   "delta": -0.8818904962943654
   },
   {
    "name": "Ethereum",
-   "wert": "1.679 $",
-   "delta": -0.6472463878910418
+   "wert": "1.670 $",
+   "delta": -1.3504942512289733
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.7376407174667041
+   "delta": 1.5005715826333996
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,96 $",
-   "delta": -0.8604210116515243
+   "wert": "82,83 $",
+   "delta": -1.0157747395744265
   },
   {
    "name": "EUR/USD",
@@ -2301,45 +2301,6 @@
    "quelle": "FAZ Finanzen",
    "zeit": "2026-11-25T17:03:43+00:00",
    "tag": null
-  },
-  {
-   "id": "3ce97e6c01883edf",
-   "k": "deutschland",
-   "titel": "Bayerns riskante Gas-Lücke",
-   "t": "Die Gasspeicher sind besonders in Bayern niedrig gefüllt, ein geplanter Ausbau kommt für diesen Winter zu spät.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/wirtschaft/plus6b0687b9c75e09cb88d14dab/knappe-versorgung-bayerns-riskante-gas-luecke.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T16:55:53+00:00",
-   "tag": null
-  },
-  {
-   "id": "f7cd5935226ee942",
-   "k": "trading",
-   "titel": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-   "t": "Franklin Templeton nimmt HYPE, den Token von Hyperliquid, ab dem 1. Dezember in seinen Krypto-Index-ETF EZPZ auf.",
-   "e": "",
-   "tk": "HYPE",
-   "s": 5,
-   "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-   "quelle": "The Block",
-   "zeit": "2026-11-25T16:54:15+00:00",
-   "tag": null
-  },
-  {
-   "id": "56aecf8aa735cd7c",
-   "k": "trading",
-   "titel": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-   "t": "Bitcoin ist unter 58.000 US-Dollar gefallen, belastet durch Inflationsdaten, Zollpläne und einen erneuten KI-Ausverkauf an den Aktienmärkten.",
-   "e": "Der Rückgang zeigt, wie stark Krypto derzeit auf Zinserwartungen und Tech-Aktien reagiert.",
-   "tk": "BTC",
-   "s": 7,
-   "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T16:52:50+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2447,7 +2408,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "The Block",
@@ -2513,8 +2474,9 @@
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
@@ -2524,7 +2486,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Google News Fed",
