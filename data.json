@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T03:46:18.995398+00:00",
+ "aktualisiert": "2026-11-27T04:01:43.535162+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.472 $",
-   "delta": 1.3538854393335367
+   "wert": "61.349 $",
+   "delta": 1.0041714284810226
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 1.8937173960471212
+   "wert": "1.726 $",
+   "delta": 1.7624460255514385
   },
   {
    "name": "Gold",
-   "wert": "3.653 $",
-   "delta": 3.314665692442609
+   "wert": "3.659 $",
+   "delta": 3.4815303318035173
   },
   {
    "name": "EZB Zins",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.472 $",
-   "delta": 1.3538854393335367
+   "wert": "61.349 $",
+   "delta": 1.0041714284810226
   },
   {
    "name": "Ethereum",
-   "wert": "1.727 $",
-   "delta": 1.8937173960471212
+   "wert": "1.726 $",
+   "delta": 1.7624460255514385
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.503183586244275
+   "delta": 2.2831508145960564
   },
   {
    "name": "Rohöl WTI",
@@ -3732,32 +3732,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-25T04:14:15+00:00",
    "tag": null
-  },
-  {
-   "id": "944ec36d4f342549",
-   "k": "deutschland",
-   "titel": "Keine schnelle Lösung bei Gewalt gegen Frauen",
-   "t": "Zum Orange Day wird betont, dass Strafverschärfungen und Gesetzesänderungen angestoßen sind, schnelle Lösungen gegen Gewalt an Frauen aber nicht in Sicht sind.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
-   "quelle": "Tagesschau Inland",
-   "zeit": "2026-11-25T04:00:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "e05a025977ded563",
-   "k": "trading",
-   "titel": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
-   "t": "Xiamen Airlines bestellt 50 Boeing 737-8 zu einem Katalogpreis von rund 7,4 Milliarden Dollar.",
-   "e": "",
-   "tk": "BA",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T03:58:32+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3770,7 +3744,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 17
    },
    {
     "name": "Tagesschau Ausland",
@@ -3906,18 +3880,20 @@
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+whe"
    },
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -3926,8 +3902,9 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 24
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
    },
    {
     "name": "Google News NRW",
@@ -3946,8 +3923,9 @@
    },
    {
     "name": "Google News Fed",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
    }
   ],
   "markt": [],
