@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T16:31:45.839237+00:00",
+ "aktualisiert": "2026-11-27T16:46:18.895368+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,86 €",
-   "delta": 0.8185997033494985
+   "wert": "127,03 €",
+   "delta": 0.9576817651372416
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,36 €",
-   "delta": 2.2713886723725096
+   "wert": "43,46 €",
+   "delta": 2.5166890511069795
   },
   {
    "name": "Deka S&P 500",
@@ -18,28 +18,28 @@
   },
   {
    "name": "Deka Nasdaq-100",
-   "wert": "171,72 €",
-   "delta": 1.345607604899679
+   "wert": "171,48 €",
+   "delta": 1.2039645474504646
   },
   {
    "name": "Deka DAX",
-   "wert": "221,40 €",
-   "delta": 0.45372329002209
+   "wert": "222,05 €",
+   "delta": 0.7486416284977704
   },
   {
    "name": "Bitcoin",
-   "wert": "59.999 $",
-   "delta": -0.6278954844076566
+   "wert": "60.230 $",
+   "delta": -0.3900495554174839
   },
   {
    "name": "Ethereum",
-   "wert": "1.671 $",
-   "delta": -0.7588429657578671
+   "wert": "1.679 $",
+   "delta": -0.6472463878910418
   },
   {
    "name": "Gold",
-   "wert": "3.648 $",
-   "delta": 3.1845678380256315
+   "wert": "3.656 $",
+   "delta": 3.4108249761421128
   },
   {
    "name": "EZB Zins",
@@ -55,48 +55,48 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.272",
-   "delta": 1.2389383707357426
+   "wert": "7.282",
+   "delta": 1.3744012457094001
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.524",
-   "delta": 1.8334335456931639
+   "wert": "26.582",
+   "delta": 2.0547228320788147
   },
   {
    "name": "DAX",
-   "wert": "25.435",
-   "delta": 0.868554258731713
+   "wert": "25.431",
+   "delta": 0.85570502912935
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,49",
-   "delta": -4.888056993856205
+   "wert": "25,14",
+   "delta": -6.194027180288142
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,92 %",
+   "wert": "4,93 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.999 $",
-   "delta": -0.6278954844076566
+   "wert": "60.230 $",
+   "delta": -0.3900495554174839
   },
   {
    "name": "Ethereum",
-   "wert": "1.671 $",
-   "delta": -0.7588429657578671
+   "wert": "1.679 $",
+   "delta": -0.6472463878910418
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.8678665553669653
+   "delta": 1.7376407174667041
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,50 $",
-   "delta": -0.21510552643323466
+   "wert": "82,96 $",
+   "delta": -0.8604210116515243
   },
   {
    "name": "EUR/USD",
@@ -2340,19 +2340,6 @@
    "quelle": "Decrypt",
    "zeit": "2026-11-25T16:52:50+00:00",
    "tag": null
-  },
-  {
-   "id": "79f2643d273ca30a",
-   "k": "usa",
-   "titel": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
-   "t": "Ein Bundesgeschworenengericht in Minnesota prüft Beweise im Zusammenhang mit Vorwürfen gegen Ilhan Omar wegen ihrer Staatsbürgerschaft.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-ilhan-omar-investigation-court-records-use-3-versions-her-name",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T16:40:20+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2390,7 +2377,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 37
+    "n": 33
    },
    {
     "name": "FAZ Finanzen",
@@ -2496,9 +2483,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -2508,7 +2494,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2542,9 +2528,8 @@
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 27
    }
   ],
   "markt": [],
