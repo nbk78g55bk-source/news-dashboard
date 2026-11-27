@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T15:16:22.246952+00:00",
+ "aktualisiert": "2026-11-27T15:31:33.886696+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "126,22 €",
-   "delta": 0.31790428091356127
+   "wert": "126,59 €",
+   "delta": 0.6079897240708787
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,12 €",
-   "delta": 1.6935175878537878
+   "wert": "43,30 €",
+   "delta": 2.1298692231026095
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.606 $",
-   "delta": -0.9344999575346699
+   "wert": "59.764 $",
+   "delta": -0.803043637676823
   },
   {
    "name": "Ethereum",
-   "wert": "1.656 $",
-   "delta": -1.2780636734368034
+   "wert": "1.662 $",
+   "delta": -1.1947804274410576
   },
   {
    "name": "Gold",
-   "wert": "3.659 $",
-   "delta": 3.4843585460299753
+   "wert": "3.653 $",
+   "delta": 3.3259785493484406
   },
   {
    "name": "EZB Zins",
@@ -55,48 +55,48 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.236",
-   "delta": 0.7459537455746235
+   "wert": "7.244",
+   "delta": 0.850370144577961
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.319",
-   "delta": 1.0444413933909713
+   "wert": "26.371",
+   "delta": 1.2451255408944206
   },
   {
    "name": "DAX",
-   "wert": "25.360",
-   "delta": 0.5748065930998303
+   "wert": "25.383",
+   "delta": 0.6652667558251446
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "27,27",
-   "delta": 1.7537342399976952
+   "wert": "26,67",
+   "delta": -0.4850717938856275
   },
   {
    "name": "US 10J Rendite",
-   "wert": "4,90 %",
+   "wert": "4,91 %",
    "delta": null
   },
   {
    "name": "Bitcoin",
-   "wert": "59.606 $",
-   "delta": -0.9344999575346699
+   "wert": "59.764 $",
+   "delta": -0.803043637676823
   },
   {
    "name": "Ethereum",
-   "wert": "1.656 $",
-   "delta": -1.2780636734368034
+   "wert": "1.662 $",
+   "delta": -1.1947804274410576
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 1.6509262641026357
+   "wert": "72 $",
+   "delta": 1.4910756135146226
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,67 $",
-   "delta": -0.011950651457104389
+   "wert": "83,75 $",
+   "delta": 0.08365164264929614
   },
   {
    "name": "EUR/USD",
@@ -2432,32 +2432,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T15:39:49+00:00",
    "tag": null
-  },
-  {
-   "id": "bda1f86097404c82",
-   "k": "finanzen",
-   "titel": "BOE’s Bailey Sees Lower Peak for Inflation if Energy Prices Stay Where They Are",
-   "t": "BoE-Gouverneur Bailey erwartet einen niedrigeren Inflationsgipfel im Vereinigten Königreich, falls Öl- und Gaspreise auf dem aktuellen Niveau bleiben.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T15:24:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "8407373968e3e756",
-   "k": "usa",
-   "titel": "USA kündigen neue Zölle an - auch gegen EU und China",
-   "t": "Die USA haben neue Sonderzölle von 15 Prozent auf betroffene EU-Produkte und von 20 Prozent auf chinesische Waren angekündigt.",
-   "e": "Die Zölle treffen Handelspartner direkt und können Exportpreise sowie Erwartungen für Industrie und Konjunktur beeinflussen.",
-   "tk": "",
-   "s": 8,
-   "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-   "quelle": "Tagesschau Ausland",
-   "zeit": "2026-11-25T15:18:25+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2475,7 +2449,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -2495,7 +2469,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -2535,7 +2509,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "WSJ USA",
@@ -2612,7 +2586,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2642,7 +2616,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 11
+    "n": 10
    },
    {
     "name": "Google News Fed",
