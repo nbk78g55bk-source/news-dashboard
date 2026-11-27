@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T20:31:35.752357+00:00",
+ "aktualisiert": "2026-11-27T20:46:22.985410+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.745 $",
-   "delta": -1.4602535890004775
+   "wert": "59.782 $",
+   "delta": -1.5649840405955053
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.1122368016605106
+   "wert": "1.666 $",
+   "delta": -2.2396397304692304
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.745 $",
-   "delta": -1.4602535890004775
+   "wert": "59.782 $",
+   "delta": -1.5649840405955053
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.1122368016605106
+   "wert": "1.666 $",
+   "delta": -2.2396397304692304
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 1.0704081759452033
+   "delta": 0.9667109002344415
   },
   {
    "name": "Rohöl WTI",
@@ -1701,32 +1701,6 @@
    "quelle": "FAZ",
    "zeit": "2026-11-25T20:54:52+00:00",
    "tag": null
-  },
-  {
-   "id": "73ecb62e87ae2a54",
-   "k": "trading",
-   "titel": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-   "t": "Der Mining-Anbieter Braiins meldet \"Hashrate Hijacking\": Ein Angreifer leitet Rechenleistung über unverschlüsselte Verbindungen um und stiehlt Bitcoin-Mining-Belohnungen, über 1.000 Standorte in einer Sekunde betroffen.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T20:36:03+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd54bd4fc95dbf23",
-   "k": "trading",
-   "titel": "Markets Touch Record Highs Before Reversing As Chipmaker Selloff Drags Down S&P 500 And Nasdaq - Foreign Policy Journal",
-   "t": "Die Märkte erreichen kurz Rekordstände und drehen dann ins Minus, weil der Ausverkauf bei Chipwerten S&P 500 und Nasdaq nach unten zieht.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGsyeGsxWkJwRlZCZ2pDZ0JVNUY3VHFsdXdtN2N4UHZGZ1BGYWJqLS1BaVJtSjlwVC1wVmNCNUlVVUxDRWFZWDdnV19GRFh1SzhSZVlveUpyb1dLWHltd2FIcjJkek81bkpIbnJhTFd0MWNtbE9TVGg5Q1NQa1hJM2M2cE9ud1dFc1RTSTRtdzUyaUF3NGVDWVBfUWpreV9WeWl0Mi1RUVBSTXNMNnZod3ZBMWN0UFRQS0VLUlVfSm9oUV9oUko5cEZqRGtqV0RrenhDSnJpVmZEZw?oc=5",
-   "quelle": "Foreign Policy Journal",
-   "zeit": "2026-11-25T20:33:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1739,7 +1713,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Ausland",
@@ -1764,7 +1738,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 34
+    "n": 35
    },
    {
     "name": "FAZ Finanzen",
@@ -1814,7 +1788,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 24
+    "n": 22
    },
    {
     "name": "New York Post Politik",
@@ -1834,7 +1808,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "The Block",
@@ -1881,7 +1855,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1916,7 +1890,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 28
    }
   ],
   "markt": [],
