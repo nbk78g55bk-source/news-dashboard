@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T01:01:34.651671+00:00",
+ "aktualisiert": "2026-11-27T01:16:28.260644+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.616 $",
-   "delta": 0.3338921409762761
+   "wert": "60.731 $",
+   "delta": 0.07147994150172741
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 0.28665293840455397
+   "wert": "1.700 $",
+   "delta": -0.059673147083904914
   },
   {
    "name": "Gold",
-   "wert": "3.587 $",
-   "delta": 1.445216088755119
+   "wert": "3.598 $",
+   "delta": 1.7732889390240203
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.616 $",
-   "delta": 0.3338921409762761
+   "wert": "60.731 $",
+   "delta": 0.07147994150172741
   },
   {
    "name": "Ethereum",
-   "wert": "1.699 $",
-   "delta": 0.28665293840455397
+   "wert": "1.700 $",
+   "delta": -0.059673147083904914
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.6523695739793292
+   "delta": 0.5518722422787348
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,22 $",
-   "delta": 1.8403437968546044
+   "wert": "85,44 $",
+   "delta": 2.1032501056472253
   },
   {
    "name": "EUR/USD",
@@ -3940,32 +3940,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T01:21:10+00:00",
    "tag": null
-  },
-  {
-   "id": "5ae58108b953f23e",
-   "k": "welt",
-   "titel": "Nasdaq 100: AI Valuation Fears Meet Thanksgiving Seasonality - FOREX.com",
-   "t": "Die Ukraine-Krieg weitet sich laut NZZ-Analyse auf Ostsee und Nordafrika aus, wobei Nato und Russland direkte Konfrontationen vermeiden wollen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHFWVGFZSEQzeWJ5ek9Pdk5vOENTdWh3aHBvZ2p5LVBIcWctd3dYUTNYR3NNZU1TT0lrOFRNNXNPNlJkU0JMQUxSNVZrS0M2SDFDUEZSNE5NQXZNajVIaWFWcTlzMjl4S3VMcDhXU0tkT2h1UjZvYTJDVm1TTGFDWXUwNWFGQkxJSk1RcHJqTndSejhGR0xOOGJXRXpCU0QxUzlKNGxB?oc=5",
-   "quelle": "FOREX.com",
-   "zeit": "2026-11-25T01:12:14+00:00",
-   "tag": null
-  },
-  {
-   "id": "b560daf0f729fca3",
-   "k": "usa",
-   "titel": "Trump says NYC congestion pricing is ‘a killer’ for state — vows to block it from spreading",
-   "t": "Trump nennt die Staugebühr in New York City eine Belastung für den Bundesstaat und kündigt an, ihre Ausweitung auf andere Metropolregionen zu verhindern.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/24/us-news/trump-says-nyc-congestion-pricing-is-a-killer-for-state-vows-to-block-it-from-spreading/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T01:03:23+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4048,7 +4022,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Fox News Politik",
@@ -4120,7 +4094,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 0
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4150,12 +4124,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 22
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 30
    }
   ],
   "markt": [],
