@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T22:31:31.030606+00:00",
+ "aktualisiert": "2026-11-27T22:46:20.693136+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.709 $",
-   "delta": -1.3881510731884512
+   "wert": "59.723 $",
+   "delta": -1.402343315747896
   },
   {
    "name": "Ethereum",
-   "wert": "1.657 $",
-   "delta": -2.2610602448315076
+   "wert": "1.656 $",
+   "delta": -2.4000495619774673
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.709 $",
-   "delta": -1.3881510731884512
+   "wert": "59.723 $",
+   "delta": -1.402343315747896
   },
   {
    "name": "Ethereum",
-   "wert": "1.657 $",
-   "delta": -2.2610602448315076
+   "wert": "1.656 $",
+   "delta": -2.4000495619774673
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.4370835136773331
+   "delta": 0.40301067020844966
   },
   {
    "name": "Rohöl WTI",
@@ -1324,32 +1324,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-25T22:54:10+00:00",
    "tag": null
-  },
-  {
-   "id": "00f2a685a862af38",
-   "k": "trading",
-   "titel": "American Express Aktie News: American Express am Nachmittag mit negativen Vorzeichen - Finanzen.net",
-   "t": "Die American-Express-Aktie notierte am Nachmittag im Minus.",
-   "e": "",
-   "tk": "AXP",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbklTNXgtemQ1NkZvZjBOdWRPZ3o3bW42YllUbUtRWnBuVDRheHZWRjBFWFc4eEhKMm9FSTRvWUx4Slo3d3pUQjFsTk1YWHBoNGJOb0Jhc1JWR1duSjh0Zm1WcTJlcWh0S1FpTW50ZzA1d2twN2h4bUpycFZyb2p1Y0p3SDV3RHJiUmlkamF4YUxGQkJfRUxzMlBfM01pdw?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T22:40:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "58793a856ad1357a",
-   "k": "welt",
-   "titel": "China's Google Just Released Its Fast New AI Model for Free",
-   "t": "Baidu hat die Gewichte seines neuen schnellen Reasoning-Modells veröffentlicht, das Entwicklern kommerziell nutzbar zur Verfügung steht.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T22:38:09+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1457,7 +1431,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "The Block",
