@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T13:03:00.002986+00:00",
+ "aktualisiert": "2026-11-27T13:16:27.789530+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,08 €",
-   "delta": 0.9974194970766126
+   "wert": "127,15 €",
+   "delta": 1.0530523217917143
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,36 €",
-   "delta": 2.2713886723725096
+   "wert": "43,42 €",
+   "delta": 2.4129081216423875
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.554 $",
-   "delta": 1.2792372808623984
+   "wert": "61.461 $",
+   "delta": 1.1253220974791078
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 1.0935122282391678
+   "wert": "1.720 $",
+   "delta": 0.9175297914055062
   },
   {
    "name": "Gold",
-   "wert": "3.692 $",
-   "delta": 4.431810311892792
+   "wert": "3.697 $",
+   "delta": 4.54776709517748
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.362",
-   "delta": 0.5805966780440874
+   "wert": "25.380",
+   "delta": 0.6515053895534528
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,45",
-   "delta": -5.03731072944843
+   "wert": "25,22",
+   "delta": -5.895519709103714
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.554 $",
-   "delta": 1.2792372808623984
+   "wert": "61.461 $",
+   "delta": 1.1253220974791078
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 1.0935122282391678
+   "wert": "1.720 $",
+   "delta": 0.9175297914055062
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.044605098371933
+   "delta": 3.0024525229411263
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,00 $",
-   "delta": 1.5774374880619835
+   "wert": "85,07 $",
+   "delta": 1.661089495405088
   },
   {
    "name": "EUR/USD",
@@ -2667,32 +2667,6 @@
    "quelle": "scanx.trade",
    "zeit": "2026-11-25T13:32:13+00:00",
    "tag": null
-  },
-  {
-   "id": "d7a569243d992b67",
-   "k": "trading",
-   "titel": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-   "t": "Der französische Senat lehnt die Pflicht ab, Selbstverwahrungs-Wallets im Wert über 100.000 Euro zu melden.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T13:15:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b2040fa0f9ce1f6",
-   "k": "trading",
-   "titel": "Earnings call transcript: GDS beats Q3 2026 estimates but shares fall premarket - Investing.com",
-   "t": "GDS hat im dritten Quartal 2026 die Erwartungen übertroffen, die Aktie fiel dennoch vorbörslich.",
-   "e": "",
-   "tk": "GDS",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3BVcnh6Zm5xUmN4RzhZVUZnOENESDJMTTliZTREeVpyc2dWMlFjSzFJRkRjRF9oeHJ1SkF6NC1MaU1fUXFYeUM2VXd3NWRVQ092ZkNMV0hsU2tiMFo5LXBVRHV0clBsTHhPX1NxUTRvTG4xRjkyMk9CV3pWTkVaVVFHYTluck94S2Jlcl9idTRBZWRoRkxnUXBGbGVUNHZQRXRsOVo5cW5kZFRBN1VSTzhiU2lUYlFOWDVFU01scnNyWTlyLUZseUtCN3pYRDQ?oc=5",
-   "quelle": "Investing.com",
-   "zeit": "2026-11-25T13:05:26+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2755,7 +2729,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "CNBC Finance",
@@ -2800,7 +2774,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "The Block",
@@ -2836,63 +2810,53 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Qua"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+w"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+"
+    "ok": true,
+    "n": 10
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&"
+    "ok": true,
+    "n": 25
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d"
+    "ok": true,
+    "n": 14
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-"
+    "ok": true,
+    "n": 26
    }
   ],
   "markt": [],
