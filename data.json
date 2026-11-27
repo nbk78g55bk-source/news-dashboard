@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T17:46:20.476005+00:00",
+ "aktualisiert": "2026-11-27T18:01:52.857656+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.560 $",
-   "delta": -1.3489346531412871
+   "wert": "59.761 $",
+   "delta": -1.2001036707524808
   },
   {
    "name": "Ethereum",
-   "wert": "1.660 $",
-   "delta": -1.7394124964958786
+   "wert": "1.668 $",
+   "delta": -1.5196632127449063
   },
   {
    "name": "Gold",
-   "wert": "3.665 $",
-   "delta": 3.6653642565231737
+   "wert": "3.663 $",
+   "delta": 3.589002472408853
   },
   {
    "name": "EZB Zins",
@@ -55,13 +55,13 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.274",
-   "delta": 1.270959399763405
+   "wert": "7.298",
+   "delta": 1.605091876574094
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.548",
-   "delta": 1.9241660307319775
+   "wert": "26.726",
+   "delta": 2.608711974111011
   },
   {
    "name": "DAX",
@@ -70,8 +70,8 @@
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,73",
-   "delta": -7.723877970108428
+   "wert": "24,74",
+   "delta": -7.686564536210383
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.560 $",
-   "delta": -1.3489346531412871
+   "wert": "59.761 $",
+   "delta": -1.2001036707524808
   },
   {
    "name": "Ethereum",
-   "wert": "1.660 $",
-   "delta": -1.7394124964958786
+   "wert": "1.668 $",
+   "delta": -1.5196632127449063
   },
   {
    "name": "Solana",
-   "wert": "71 $",
-   "delta": 0.8964429147449511
+   "wert": "72 $",
+   "delta": 1.1953154096569414
   },
   {
    "name": "Rohöl WTI",
-   "wert": "82,72 $",
-   "delta": -1.147227893970748
+   "wert": "82,70 $",
+   "delta": -1.17112846749734
   },
   {
    "name": "EUR/USD",
@@ -106,28 +106,28 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 12,
-  "stand": "2026-11-27T11:01:47.184205+00:00",
+  "slot": 19,
+  "stand": "2026-11-27T18:01:52.857636+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Der Deka DAX kostet aktuell 222,05 €, der Deka S&P 500 138,99 € und der Deka Nasdaq-100 172,58 €. Der iShares MSCI World notiert bei 127,47 €, der iShares MSCI EM bei 43,41 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der EZB Zins liegt bei 2,50 %, der Fed Funds bei 3,88 %."
-   },
-   {
-    "k": "finanzen",
-    "t": "Bitcoin kostet 61.608 $, Ethereum 1.728 $ und Gold 3.706 $."
+    "t": "Die EZB Zins liegt bei 2,50 %, die Fed Funds bei 3,88 %. Die Marktdaten nennen keine Veränderungen gegenüber früheren Werten."
    },
    {
     "k": "welt",
-    "t": "Vor der Parlamentswahl in Spanien am Wochenende hat die konservative Volkspartei PP gute Aussichten, stärkste Kraft zu werden. Sie verspricht tiefgreifende Änderungen nach der Ära Sánchez."
+    "t": "Vor der Parlamentswahl am Wochenende hat die konservative Volkspartei PP laut Meldung gute Aussichten, stärkste Kraft zu werden. Sie verspricht tiefgreifende Änderungen nach der Ära Sánchez."
    },
    {
-    "k": "welt",
-    "t": "Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Ein Seemann kam ums Leben, die spanischen Behörden aktivierten einen Notfallplan wegen möglicher Umweltgefahren."
+    "k": "finanzen",
+    "t": "Deka DAX 222,30 €, iShares MSCI World 127,20 € und iShares MSCI EM 43,49 €. Diese Werte sind Kurse der ETFs bzw. Preise, keine Indexstände."
+   },
+   {
+    "k": "finanzen",
+    "t": "Deka S&P 500 138,47 € und Deka Nasdaq-100 172,16 €. Auch hier handelt es sich um ETF-Kurse, nicht um Indexstände."
+   },
+   {
+    "k": "finanzen",
+    "t": "Bitcoin kostet 59.761 $, Ethereum 1.668 $ und Gold 3.663 $."
    }
   ]
  },
@@ -2145,19 +2145,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-25T18:05:18+00:00",
    "tag": null
-  },
-  {
-   "id": "1eca9970cb0959a9",
-   "k": "finanzen",
-   "titel": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-   "t": "Die US-Inflation steigt im Oktober auf 3,8 Prozent, die Kerninflation liegt über den Erwartungen. Die Märkte rechnen vor der Fed-Sitzung im Dezember mit einer Zinserhöhung.",
-   "e": "Die höhere Inflation erhöht den Druck auf die Fed und belastet damit die Erwartungen für risikoreiche Anlagen wie Krypto.",
-   "tk": "",
-   "s": 7,
-   "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T17:53:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2265,7 +2252,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "The Block",
@@ -2312,7 +2299,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2326,8 +2313,9 @@
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": true,
-    "n": 27
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&hl"
    },
    {
     "name": "Google News NRW",
@@ -2341,13 +2329,14 @@
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 13
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 26
    }
   ],
   "markt": [],
