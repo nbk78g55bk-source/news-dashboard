@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T05:01:34.902082+00:00",
+ "aktualisiert": "2026-11-27T05:16:23.255272+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.350 $",
-   "delta": 0.7287408010957283
+   "wert": "61.624 $",
+   "delta": 1.297409373267924
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 1.744298396563201
+   "wert": "1.741 $",
+   "delta": 2.5409057577378364
   },
   {
    "name": "Gold",
-   "wert": "3.664 $",
-   "delta": 3.6370821142586163
+   "wert": "3.665 $",
+   "delta": 3.6568796138438
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.350 $",
-   "delta": 0.7287408010957283
+   "wert": "61.624 $",
+   "delta": 1.297409373267924
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 1.744298396563201
+   "wert": "1.741 $",
+   "delta": 2.5409057577378364
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.251073264092518
+   "delta": 2.6785391179269715
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,79 $",
-   "delta": 2.521510142362793
+   "wert": "85,81 $",
+   "delta": 2.5454107158893846
   },
   {
    "name": "EUR/USD",
@@ -3641,45 +3641,6 @@
    "quelle": "Tagesschau",
    "zeit": "2026-11-25T05:18:30+00:00",
    "tag": null
-  },
-  {
-   "id": "d150445f57550b7c",
-   "k": "finanzen",
-   "titel": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision - Kotak Neo",
-   "t": "Die US-Daten zur PCE-Inflation und zum BIP des dritten Quartals werden veröffentlicht, sie gelten als wichtige Signale vor der Zinsentscheidung der Fed im Dezember.",
-   "e": "Die PCE-Inflation ist der Maßstab, den die Fed für ihre Zinsentscheidungen bevorzugt.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5",
-   "quelle": "Kotak Neo",
-   "zeit": "2026-11-25T05:09:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "11e92423ec3a7c73",
-   "k": "welt",
-   "titel": "Putins Atombombe im All und das 98-Prozent-Szenario",
-   "t": "Westliche Geheimdienste warnen, dass Russland noch in diesem Jahr einen Nuklearsprengkopf im Orbit platzieren könnte.",
-   "e": "Eine Detonation im Orbit hätte laut Berichten verheerende Folgen für Satelliten und damit auch für Wirtschaft und Kommunikation.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T05:02:43+00:00",
-   "tag": null
-  },
-  {
-   "id": "3f6ddc700e90d7ee",
-   "k": "welt",
-   "titel": "Putins Atombombe im All und das 98-Prozent-Szenario",
-   "t": "Westliche Geheimdienste warnen, dass Russland noch in diesem Jahr einen Atomsprengkopf im Orbit platzieren könnte.",
-   "e": "Eine Detonation im All hätte laut Berichten verheerende Folgen für Satelliten und Infrastruktur.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T05:02:43+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3834,12 +3795,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 40
+    "n": 38
    },
    {
     "name": "Google News Iserlohn",
@@ -3853,8 +3814,9 @@
    },
    {
     "name": "Google News NRW",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
    },
    {
     "name": "Google News Zinsen",
@@ -3864,12 +3826,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 20
+    "n": 18
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 36
    }
   ],
   "markt": [],
