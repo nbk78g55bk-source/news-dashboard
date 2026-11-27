@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T14:16:31.947716+00:00",
+ "aktualisiert": "2026-11-27T14:31:53.373703+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,15 €",
-   "delta": 1.0530523217917143
+   "wert": "127,11 €",
+   "delta": 1.0212621362402308
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,40 €",
-   "delta": 2.3539416844466032
+   "wert": "43,38 €",
+   "delta": 2.318561822129128
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.434 $",
-   "delta": 1.1089990435737824
+   "wert": "61.360 $",
+   "delta": 1.0537015979015694
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 1.2407417122689712
+   "wert": "1.721 $",
+   "delta": 1.2226930907190183
   },
   {
    "name": "Gold",
-   "wert": "3.666 $",
-   "delta": 3.696474613014189
+   "wert": "3.668 $",
+   "delta": 3.750210683316868
   },
   {
    "name": "EZB Zins",
@@ -55,23 +55,23 @@
  "trading_markt": [
   {
    "name": "S&P 500",
-   "wert": "7.183",
-   "delta": -0.2542648980541684
+   "wert": "7.262",
+   "delta": 1.0995772835326045
   },
   {
    "name": "Nasdaq-100",
-   "wert": "26.047",
-   "delta": -0.6381049728964139
+   "wert": "26.438",
+   "delta": 1.50186626242792
   },
   {
    "name": "DAX",
-   "wert": "25.348",
-   "delta": 0.524599418172067
+   "wert": "25.336",
+   "delta": 0.4789925847068721
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "25,47",
-   "delta": -4.962683861652318
+   "wert": "25,66",
+   "delta": -4.253728617589259
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.434 $",
-   "delta": 1.1089990435737824
+   "wert": "61.360 $",
+   "delta": 1.0537015979015694
   },
   {
    "name": "Ethereum",
-   "wert": "1.723 $",
-   "delta": 1.2407417122689712
+   "wert": "1.721 $",
+   "delta": 1.2226930907190183
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.5316263193638036
+   "delta": 2.3019033523488908
   },
   {
    "name": "Rohöl WTI",
-   "wert": "84,44 $",
-   "delta": 0.908221429317102
+   "wert": "84,35 $",
+   "delta": 0.8006688484473834
   },
   {
    "name": "EUR/USD",
@@ -2549,33 +2549,6 @@
    "quelle": "Welt Wirtschaft",
    "zeit": "2026-11-25T14:42:59+00:00",
    "tag": null
-  },
-  {
-   "id": "e87e05a02b8b4d38",
-   "k": "usa",
-   "titel": "USA schlagen neuen 15-Prozent-Zoll für EU-Importe vor - radio rst",
-   "t": "Eine Liste der USA sieht bereits einen 15-Prozent-Zoll für EU-Importe vor.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3l1bk9EZC14bW0zUF9RRmd1WUhLWmVweXl3cjdKdkRITmJoZVVLRTVkVlI2ampadWRoa2xLSms1ejZCdm1BZURVemRzaFBZZWlVdXZzelFaQm1oSHdSZk1RMVR4dW9zM3FlNDFTWlU4QzFCZkxyLUVzLXF1aTRnUEpnLWdGUU8yZ3lFMU1LeXdHX1pm?oc=5",
-   "quelle": "radio rst",
-   "zeit": "2026-11-25T14:25:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "4fc9c7b0e27d86e5",
-   "k": "trading",
-   "titel": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "t": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-   "e": "",
-   "tk": "",
-   "p": false,
-   "s": 4,
-   "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "quelle": "CNBC Markets",
-   "zeit": "2026-11-25T14:18:45+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2643,7 +2616,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 8
+    "n": 7
    },
    {
     "name": "MarketWatch",
@@ -2699,7 +2672,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "CNBC Investing",
@@ -2730,7 +2703,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 10
+    "n": 11
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2760,12 +2733,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 12
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 40
    }
   ],
   "markt": [],
