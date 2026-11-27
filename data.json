@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T10:31:37.465724+00:00",
+ "aktualisiert": "2026-11-27T10:46:16.362551+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,31 €",
-   "delta": 1.1802130639976705
+   "wert": "127,47 €",
+   "delta": 1.3034000330096829
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,32 €",
-   "delta": 2.1770423728592503
+   "wert": "43,41 €",
+   "delta": 2.3940388617397446
   },
   {
    "name": "Deka S&P 500",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.633 $",
-   "delta": 1.4164090966583212
+   "wert": "61.581 $",
+   "delta": 1.8375001161432278
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 1.603213252216686
+   "wert": "1.727 $",
+   "delta": 2.009939910742998
   },
   {
    "name": "Gold",
-   "wert": "3.699 $",
-   "delta": 4.626957093518258
+   "wert": "3.702 $",
+   "delta": 4.686349592273831
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.410",
-   "delta": 0.7694486267060485
+   "wert": "25.437",
+   "delta": 0.8785084458619474
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,89",
-   "delta": -7.126863027739539
+   "wert": "24,66",
+   "delta": -7.985072007394822
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.633 $",
-   "delta": 1.4164090966583212
+   "wert": "61.581 $",
+   "delta": 1.8375001161432278
   },
   {
    "name": "Ethereum",
-   "wert": "1.728 $",
-   "delta": 1.603213252216686
+   "wert": "1.727 $",
+   "delta": 2.009939910742998
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.4310500333930785
+   "delta": 3.9264256755980895
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,82 $",
-   "delta": 2.5573610026526916
+   "wert": "85,78 $",
+   "delta": 2.509559855599486
   },
   {
    "name": "EUR/USD",
@@ -3282,32 +3282,6 @@
    "quelle": "Tagesschau Inland",
    "zeit": "2026-11-25T10:55:47+00:00",
    "tag": null
-  },
-  {
-   "id": "54c3fe773e42fc6f",
-   "k": "nrw",
-   "titel": "MK-Jugendamtschef geht Ende April in Ruhestand: Nachfolger steht schon heute fest - Come-on",
-   "t": "Der Jugendamtschef des Märkischen Kreises geht Ende April in den Ruhestand, sein Nachfolger steht bereits fest.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmxYemk0TUllQ2wxaFNaaURfWUs1NzVCYVpsSGh1THpUeHh4ckI1aWRZbVJSaTA5ajZGZGxBdDdBdEQ1RS0wRldKOFV0bVU2WVdaWXpxbTJfZkNJcFpZV3A5RFVYUkhReHBzT3N5S0Q5VHgxZmMtV3ROeFR6OWxxQXN4Y09xWG1tN294T3cweFpVMGJPRHduMVV3MUFtYVhnY0c2UFdySXFtZzNnQ3c?oc=5",
-   "quelle": "Come-on",
-   "zeit": "2026-11-25T10:41:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "1ca8e93e4153e278",
-   "k": "welt",
-   "titel": "„Vergeltungsmaßnahmen sind unvermeidlich, das sollte jedem bewusst sein“ – Putin droht der Ukraine",
-   "t": "Putin kündigt Vergeltungsmaßnahmen gegen die Ukraine an, nachdem die Ukraine in diesem Monat 15 russische Ölraffinerien angegriffen hat.",
-   "e": "Die Angriffe auf Raffinerien setzen Russlands Energiegeschäft unter Druck und könnten die Eskalation im Krieg verstärken.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.welt.de/wirtschaft/article6b06ae99366061b7ba3e4d2a/ukraine-krieg-vergeltungsmassnahmen-sind-unvermeidlich-das-sollte-jedem-bewusst-sein-putin-droht-der-ukraine.html",
-   "quelle": "Welt Wirtschaft",
-   "zeit": "2026-11-25T10:40:12+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3320,12 +3294,12 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -3415,7 +3389,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 29
+    "n": 28
    },
    {
     "name": "The Block",
@@ -3462,13 +3436,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -3478,7 +3451,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "Google News NRW",
@@ -3492,14 +3465,13 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 11
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 30
    }
   ],
   "markt": [],
