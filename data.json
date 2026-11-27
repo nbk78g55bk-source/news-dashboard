@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T20:46:22.985410+00:00",
+ "aktualisiert": "2026-11-27T21:01:37.382172+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.782 $",
-   "delta": -1.5649840405955053
+   "wert": "59.774 $",
+   "delta": -1.5648888532933602
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -2.2396397304692304
+   "wert": "1.667 $",
+   "delta": -2.151189073493203
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.782 $",
-   "delta": -1.5649840405955053
+   "wert": "59.774 $",
+   "delta": -1.5648888532933602
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -2.2396397304692304
+   "wert": "1.667 $",
+   "delta": -2.151189073493203
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.9667109002344415
+   "delta": 0.9282636262976108
   },
   {
    "name": "Rohöl WTI",
@@ -1675,32 +1675,6 @@
    "quelle": "AktienCheck.de",
    "zeit": "2026-11-25T21:04:27+00:00",
    "tag": null
-  },
-  {
-   "id": "a43727af48f144b4",
-   "k": "finanzen",
-   "titel": "Schwaches Wirtschaftswachstum: Die privaten Investitionen kommen einfach nicht in Gang",
-   "t": "Die schwachen privaten Investitionen gelten als wichtigster Grund für das langsame Wachstum der deutschen Wirtschaft; seit 2022 fehlen laut FAZ mehr als 125 Milliarden Euro Wirtschaftsleistung.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-25T20:59:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "64a97feb2c32725c",
-   "k": "welt",
-   "titel": "COP31 gescheitert: „Eine Antwort, die Öl und Gas befördert“",
-   "t": "Die Weltklimakonferenz COP31 ist ohne greifbares Ergebnis zu Ende gegangen; besonders pazifische Inselstaaten zeigen sich enttäuscht.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/ausland/gescheiterte-klimakonferenz-der-frust-der-inselstaaten-201712087.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-25T20:54:52+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1708,7 +1682,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 39
+    "n": 38
    },
    {
     "name": "Tagesschau Inland",
@@ -1738,7 +1712,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 36
    },
    {
     "name": "FAZ Finanzen",
@@ -1783,7 +1757,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Fox News Politik",
@@ -1808,7 +1782,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 24
+    "n": 25
    },
    {
     "name": "The Block",
@@ -1890,7 +1864,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 40
    }
   ],
   "markt": [],
