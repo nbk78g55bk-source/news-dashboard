@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T21:16:24.752546+00:00",
+ "aktualisiert": "2026-11-27T21:31:33.179855+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.805 $",
-   "delta": -1.5382222335954054
+   "wert": "59.789 $",
+   "delta": -1.7639647325818224
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -2.1603686999547236
+   "wert": "1.665 $",
+   "delta": -2.3266835631574887
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.805 $",
-   "delta": -1.5382222335954054
+   "wert": "59.789 $",
+   "delta": -1.7639647325818224
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -2.1603686999547236
+   "wert": "1.665 $",
+   "delta": -2.3266835631574887
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.7137467861804063
+   "delta": 0.43277843041152725
   },
   {
    "name": "Rohöl WTI",
@@ -1584,58 +1584,6 @@
    "quelle": "MarketWatch",
    "zeit": "2026-11-25T21:36:00+00:00",
    "tag": null
-  },
-  {
-   "id": "fecf3f8e22a2adae",
-   "k": "finanzen",
-   "titel": "Japans Preise steigen so stark wie seit 36 Jahren nicht mehr: Was das für Bitcoin bedeutet - Cryptonews.net",
-   "t": "Die Preise in Japan steigen so stark wie seit 36 Jahren nicht mehr.",
-   "e": "Höhere Inflation in Japan kann die Erwartungen an die Geldpolitik der Bank of Japan verändern und damit auch Bitcoin beeinflussen.",
-   "tk": "",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KVzJwSXRsQ2xJYnNlTG5CdmRhdkFJc3duX0F1MVJlRTZ5eE5HS1lZd2FzVzVuclFkUTVYZy1DcHJzVXZqTnNNZFk0VE4xczNHYktMOVlvbDVVUWxz?oc=5",
-   "quelle": "Cryptonews.net",
-   "zeit": "2026-11-25T21:29:05+00:00",
-   "tag": null
-  },
-  {
-   "id": "18ac47becb50419d",
-   "k": "trading",
-   "titel": "Hewlett Packard Enterprise Aktie News: Anleger greifen bei Hewlett Packard Enterprise am Mittwochabend zu - Finanzen.net",
-   "t": "Die Aktie von Hewlett Packard Enterprise legte am Mittwochabend zu, da Anleger zugriffen.",
-   "e": "",
-   "tk": "HPE",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVB6WTlEWXRUU3FmOFpaZEpSQWN3U1lYYmFETVlFRzRidWg3alV6WW1WTjViSVdOSjViUWUzTXRtTUpNNWhIWFBXUERtcUhjSUxmd0xiaE5ab0VIcG9DekxkOXI1SFRSZVktR3dSSk1rOWVjOEZIdnphXzJDQWJaSVRvUi1PNGtObFgzVHI3M0c1NDU2T0o4Wnc0T0U1NXhVVHY2UTFjQl9QYmM?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T21:27:39+00:00",
-   "tag": null
-  },
-  {
-   "id": "627e6aa7826ca3f4",
-   "k": "trading",
-   "titel": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-   "t": "Die Optionsmärkte deuten darauf hin, dass Händler mit einem niedrigeren VIX rechnen und große Schwankungen an den Aktienmärkten nachlassen könnten.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-25T21:26:47+00:00",
-   "tag": null
-  },
-  {
-   "id": "08a6baa922284cf3",
-   "k": "trading",
-   "titel": "KI-Ausverkauf eskaliert: NASDAQ-Aktien wie NVIDIA, AMD, Sandisk, Intel & Co. reihenweise auf Talfahrt - Finanzen.net",
-   "t": "Nasdaq-Aktien wie Nvidia, AMD, Sandisk und Intel geraten im KI-Ausverkauf reihenweise unter Druck.",
-   "e": "Der Ausverkauf bei Chipwerten belastet den Nasdaq 100 deutlich und setzt die Stimmung am Techmarkt unter Druck.",
-   "tk": "NVDA,AMD,INTC",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaGVadEJQWkcxZkp1LVN5bjJNRS01cXp1QjlOTnVlMEI0ZldwR25DalB6MkY3WHdWQTZ3LUgtYmhCYUZ6UmIyeERDdUwzQ1V0YXlDeXNWVXAtNEF1V3FzeVJNS3QxMXZIb2JLYVZiR3Fjc2IyRmtybHZMcVBiaFpJdkFtTlZTdjIzeWtvZnVCdGRucENMck1IMTVqbnN2cnd5ZDVBM1dhSENfdzZuRG14SVhGZUdUS2hoV2d3eEtOejJabVVBZnAwSmtGYmVmY3NLMnBzSzBVOGZhWm5TOGxvYjQtU05EWDR3NDFFS0hmLTFKNVhOTmdQMnMySWd5SEQwS204Q0JHN0I?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-25T21:17:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1743,7 +1691,7 @@
    {
     "name": "Decrypt",
     "ok": true,
-    "n": 25
+    "n": 24
    },
    {
     "name": "The Block",
@@ -1790,7 +1738,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1825,7 +1773,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 40
    }
   ],
   "markt": [],
