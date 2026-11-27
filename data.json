@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T01:46:22.194112+00:00",
+ "aktualisiert": "2026-11-27T02:01:37.649547+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.615 $",
-   "delta": -0.1264494056506545
+   "wert": "60.636 $",
+   "delta": -0.20067057819587042
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": -0.07700349366642914
+   "wert": "1.700 $",
+   "delta": 0.0733476195907908
   },
   {
    "name": "Gold",
-   "wert": "3.602 $",
-   "delta": 1.8609635800441504
+   "wert": "3.604 $",
+   "delta": 1.9175278645732874
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.615 $",
-   "delta": -0.1264494056506545
+   "wert": "60.636 $",
+   "delta": -0.20067057819587042
   },
   {
    "name": "Ethereum",
-   "wert": "1.697 $",
-   "delta": -0.07700349366642914
+   "wert": "1.700 $",
+   "delta": 0.0733476195907908
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.5927468557493789
+   "delta": 0.551039184435963
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,42 $",
-   "delta": 2.0793495321206334
+   "wert": "85,46 $",
+   "delta": 2.1271506791738393
   },
   {
    "name": "EUR/USD",
@@ -3836,32 +3836,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-25T02:09:45+00:00",
    "tag": null
-  },
-  {
-   "id": "0aa65fc7f6f6b85e",
-   "k": "trading",
-   "titel": "【US Pre-Market】Anthropic Set to Go Public, US Futures Rise; Alibaba, PDD Gain Post-Earnings as Gold and Silver Hit 52-Week Lows - TradingKey",
-   "t": "Anthropic will an die Börse gehen, US-Futures steigen. Alibaba und PDD legen nach Zahlen zu, während Gold und Silber auf 52-Wochen-Tiefs notieren.",
-   "e": "",
-   "tk": "BABA,PDD",
-   "s": 6,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUG5HV2JGbXFXN1lpME9BQzNQMHlqb0Y3ZWJJM2RreEt2aXVxNFNhRDBxQkJkcG9CcURLRngwaHdiaFhnUE5HQ2VJQ2h3dlhldnBONjdCTGxDZFE2M3I2WW1zZ1JHSkVlWGJ2Yl8xUGRoN2JIQU43djhsZGRkVktaa3VlTDJjRk1NbFJOaXVqRVZac3VlMmY3eFg2emlGdw?oc=5",
-   "quelle": "TradingKey",
-   "zeit": "2026-11-25T02:00:23+00:00",
-   "tag": null
-  },
-  {
-   "id": "8c18cd9c702ead48",
-   "k": "usa",
-   "titel": "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu",
-   "t": "Pennsylvanias Gouverneur Shapiro wirft Biden vor, in Bezug auf Netanjahu nicht genug getan zu haben.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-25T02:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4045,14 +4019,13 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 19
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 40
    }
   ],
   "markt": [],
