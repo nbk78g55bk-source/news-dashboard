@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T03:32:52.821685+00:00",
+ "aktualisiert": "2026-11-27T03:46:18.995398+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.593 $",
-   "delta": 1.578643702151944
+   "wert": "61.472 $",
+   "delta": 1.3538854393335367
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 2.106941853351169
+   "wert": "1.727 $",
+   "delta": 1.8937173960471212
   },
   {
    "name": "Gold",
-   "wert": "3.655 $",
-   "delta": 3.362745334292372
+   "wert": "3.653 $",
+   "delta": 3.314665692442609
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.593 $",
-   "delta": 1.578643702151944
+   "wert": "61.472 $",
+   "delta": 1.3538854393335367
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 2.106941853351169
+   "wert": "1.727 $",
+   "delta": 1.8937173960471212
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.8370796841668393
+   "delta": 2.503183586244275
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,83 $",
-   "delta": 2.5693112894159986
+   "wert": "85,70 $",
+   "delta": 2.413957561493074
   },
   {
    "name": "EUR/USD",
@@ -3820,7 +3820,7 @@
    {
     "name": "CNBC Politik",
     "ok": true,
-    "n": 8
+    "n": 9
    },
    {
     "name": "CNBC Finance",
@@ -3901,63 +3901,53 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Qua"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Bitcoin+OR+Ethereum+OR+Krypto+Kurs+w"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Premarket Movers",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=stocks+premarket+movers+OR+earnings+"
+    "ok": true,
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22M%C3%A4rkischer+Kreis%22+when:2d&"
+    "ok": true,
+    "n": 24
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d"
+    "ok": true,
+    "n": 20
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-"
+    "ok": true,
+    "n": 40
    }
   ],
   "markt": [],
