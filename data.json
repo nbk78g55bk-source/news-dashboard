@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T01:16:28.260644+00:00",
+ "aktualisiert": "2026-11-27T01:31:27.612294+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.731 $",
-   "delta": 0.07147994150172741
+   "wert": "60.733 $",
+   "delta": 0.05522052781938377
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": -0.059673147083904914
+   "wert": "1.701 $",
+   "delta": 0.05701034160296109
   },
   {
    "name": "Gold",
-   "wert": "3.598 $",
-   "delta": 1.7732889390240203
+   "wert": "3.599 $",
+   "delta": 1.7846017959298521
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.731 $",
-   "delta": 0.07147994150172741
+   "wert": "60.733 $",
+   "delta": 0.05522052781938377
   },
   {
    "name": "Ethereum",
-   "wert": "1.700 $",
-   "delta": -0.059673147083904914
+   "wert": "1.701 $",
+   "delta": 0.05701034160296109
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": 0.5518722422787348
+   "delta": 0.7693901620410823
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,44 $",
-   "delta": 2.1032501056472253
+   "wert": "85,30 $",
+   "delta": 1.935946090961016
   },
   {
    "name": "EUR/USD",
@@ -3914,32 +3914,6 @@
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-25T01:40:52+00:00",
    "tag": null
-  },
-  {
-   "id": "0d6cc1b78a68384e",
-   "k": "usa",
-   "titel": "Trump declares he’s ‘certainly not corrupt’ and hits out at ‘real’ grift in Minnesota, other Dem states",
-   "t": "Trump weist Korruptionsvorwürfe zurück und kritisiert Betrug in demokratisch regierten Bundesstaaten wie Minnesota.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://nypost.com/2026/11/24/us-news/trump-declares-hes-certainly-not-corrupt-and-hits-out-at-real-grift-in-minnesota-other-dem-states/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T01:29:50+00:00",
-   "tag": null
-  },
-  {
-   "id": "af9e67d45a209c89",
-   "k": "usa",
-   "titel": "California prosecutors, victim advocates challenge Newsom's mass death sentence commutation",
-   "t": "Kalifornische Staatsanwälte und Opferschützer kritisieren Gouverneur Newsoms Umwandlung von 548 Todesurteilen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.foxnews.com/politics/california-prosecutors-victim-advocates-challenge-newsoms-mass-death-sentence-commutation",
-   "quelle": "Fox News Politik",
-   "zeit": "2026-11-25T01:21:10+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4022,7 +3996,7 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Fox News Politik",
@@ -4094,7 +4068,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4129,7 +4103,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 29
    }
   ],
   "markt": [],
