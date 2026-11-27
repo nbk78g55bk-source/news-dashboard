@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T00:31:26.891687+00:00",
+ "aktualisiert": "2026-11-27T00:46:17.008061+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.458 $",
-   "delta": -0.46071058797568926
+   "wert": "60.615 $",
+   "delta": 0.10933889410733903
   },
   {
    "name": "Ethereum",
-   "wert": "1.687 $",
-   "delta": -0.8862508345556677
+   "wert": "1.694 $",
+   "delta": -0.04677686344981978
   },
   {
    "name": "Gold",
    "wert": "3.596 $",
-   "delta": 1.7110682260419896
+   "delta": 1.6997553691361578
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.458 $",
-   "delta": -0.46071058797568926
+   "wert": "60.615 $",
+   "delta": 0.10933889410733903
   },
   {
    "name": "Ethereum",
-   "wert": "1.687 $",
-   "delta": -0.8862508345556677
+   "wert": "1.694 $",
+   "delta": -0.04677686344981978
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -0.03546563318182033
+   "delta": 0.5067836786690283
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,10 $",
-   "delta": 1.696940355694987
+   "wert": "85,25 $",
+   "delta": 1.8761946571445032
   },
   {
    "name": "EUR/USD",
@@ -3979,32 +3979,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-25T00:55:35+00:00",
    "tag": null
-  },
-  {
-   "id": "bcff325301dd7515",
-   "k": "deutschland",
-   "titel": "„Wir dürfen nicht einfach zuschauen“ – Grüne fordern Sofortprogramm zur Rettung von Dorfkneipen",
-   "t": "Die Grünen fordern ein Sofortprogramm von über zehn Millionen Euro gegen das Sterben von Dorfkneipen.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/politik/article6b062bddcd4642ba2eb179fd/begegnungsorte-wir-duerfen-nicht-einfach-zuschauen-gruene-fordern-sofortprogramm-zur-rettung-von-dorfkneipen.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-25T00:37:33+00:00",
-   "tag": null
-  },
-  {
-   "id": "75eadcbe34133bf4",
-   "k": "usa",
-   "titel": "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
-   "t": "Trump sagt, der Iran-Krieg sei bis Januar finanziert, und äußert sich zu israelischen Zielen eines Regimewechsels in Teheran. Er kritisiert zugleich Demokraten im Kongress, die den Konflikt stoppen wollen.",
-   "e": "Die Finanzierung und Dauer des Konflikts sind zentral für Ölpreis und Risikostimmung an den Märkten.",
-   "tk": "",
-   "s": 7,
-   "link": "https://nypost.com/2026/11/24/us-news/trump-says-iran-war-funded-through-january-and-addresses-israels-goal-of-tehran-regime-change/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T00:34:15+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4159,7 +4133,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 1
+    "n": 0
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4189,12 +4163,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 16
+    "n": 22
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 32
    }
   ],
   "markt": [],
