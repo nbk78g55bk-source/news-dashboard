@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T07:01:42.550290+00:00",
+ "aktualisiert": "2026-11-27T07:16:20.402855+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.642 $",
-   "delta": 1.9193492696583256
+   "wert": "61.713 $",
+   "delta": 2.1735609632914663
   },
   {
    "name": "Ethereum",
    "wert": "1.733 $",
-   "delta": 2.7956548680664737
+   "delta": 2.875382410301325
   },
   {
    "name": "Gold",
-   "wert": "3.680 $",
-   "delta": 4.081111747812227
+   "wert": "3.692 $",
+   "delta": 4.417669240760502
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.642 $",
-   "delta": 1.9193492696583256
+   "wert": "61.713 $",
+   "delta": 2.1735609632914663
   },
   {
    "name": "Ethereum",
    "wert": "1.733 $",
-   "delta": 2.7956548680664737
+   "delta": 2.875382410301325
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.3149209288713464
+   "delta": 3.0685295872297838
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,89 $",
-   "delta": 2.6410130099957962
+   "wert": "86,42 $",
+   "delta": 3.274378208450779
   },
   {
    "name": "EUR/USD",
@@ -3971,32 +3971,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-25T07:18:00+00:00",
    "tag": null
-  },
-  {
-   "id": "24ce2e9f9f1620d8",
-   "k": "welt",
-   "titel": "Kritik an Berlin: Le Pen spricht vom Ende des „deutschen Europas“",
-   "t": "Marine Le Pen kritisiert Deutschland und spricht vom Ende des deutschen Europas, kurz vor dem Berlin-Besuch von Mélenchon.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.faz.net/aktuell/politik/ausland/le-pen-prangert-deutsche-dominanz-in-der-eu-an-accg-201714505.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-25T07:14:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "ebe254e3949d3897",
-   "k": "welt",
-   "titel": "Bombenanschlag vor dem Jahrestag des Friedensvertrags in Kolumbien",
-   "t": "Bei einem Bombenanschlag in Kolumbien kurz vor dem Jahrestag des Friedensvertrags werden zwanzig Menschen verletzt.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.nzz.ch/international/bombenanschlag-vor-dem-jahrestag-des-friedensvertrags-in-kolumbien-ld.10074120",
-   "quelle": "NZZ",
-   "zeit": "2026-11-25T07:03:02+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -4044,7 +4018,7 @@
    {
     "name": "NZZ",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Handelsblatt",
@@ -4140,9 +4114,8 @@
    },
    {
     "name": "Google News Aktien Kurssprung",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Aktie+Kurssprung+OR+Kurssturz+OR+Quart"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Krypto Kurs",
@@ -4152,7 +4125,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -4171,9 +4144,8 @@
    },
    {
     "name": "Google News NRW",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nordrhein-Westfalen+when:1d&hl=de&gl=D"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Zinsen",
@@ -4183,12 +4155,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 31
+    "n": 29
    }
   ],
   "markt": [],
