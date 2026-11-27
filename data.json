@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T21:31:33.179855+00:00",
+ "aktualisiert": "2026-11-27T21:46:21.338086+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.789 $",
-   "delta": -1.7639647325818224
+   "wert": "59.781 $",
+   "delta": -1.7348839539723924
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.3266835631574887
+   "wert": "1.664 $",
+   "delta": -2.455726519944034
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.789 $",
-   "delta": -1.7639647325818224
+   "wert": "59.781 $",
+   "delta": -1.7348839539723924
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.3266835631574887
+   "wert": "1.664 $",
+   "delta": -2.455726519944034
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.43277843041152725
+   "delta": 0.394003784461741
   },
   {
    "name": "Rohöl WTI",
@@ -1519,71 +1519,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T21:48:11+00:00",
    "tag": null
-  },
-  {
-   "id": "02b8088468663805",
-   "k": "trading",
-   "titel": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-   "t": "US-Geheimdienste fanden laut Bericht keine Belege, dass Peking Alice Huang angewiesen hat, Nvidia-CEO auszuspionieren; sie bleibt aber mit Einreiseverboten und Prüfung ihrer Geschäftsbeziehungen konfrontiert.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-   "quelle": "Decrypt",
-   "zeit": "2026-11-25T21:46:02+00:00",
-   "tag": null
-  },
-  {
-   "id": "4a232999a513818c",
-   "k": "deutschland",
-   "titel": "„Kuhhandel“ statt Sparpolitik – Wirtschaftsweise warnt vor 100 Prozent Schuldenquote bis 2040",
-   "t": "Die Wirtschaftsweise Monika Schnitzer kritisiert die Haushaltsplanung der Bundesregierung und warnt vor einer Schuldenquote von 100 Prozent bis 2040.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-25T21:45:20+00:00",
-   "tag": null
-  },
-  {
-   "id": "0c5d1844013e2d17",
-   "k": "deutschland",
-   "titel": "Arbeitgeber und Beschäftigte der Metall- und Elektroindustrie starten in vierte Verhandlungsrunde",
-   "t": "In der Tarifrunde der Metall- und Elektroindustrie beginnt die vierte Verhandlungsrunde zwischen Arbeitgebern und Beschäftigten.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/tagesthemen/video-1690020.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-25T21:40:54+00:00",
-   "tag": null
-  },
-  {
-   "id": "d22d1134cb9b61c5",
-   "k": "trading",
-   "titel": "Nvidia whiplash shows how much investors’ financial futures depend on tech as the AI boom falters - Fortune",
-   "t": "Die Nvidia-Kursschwankungen zeigen, wie stark Anlegerportfolios am Tech-Sektor hängen, während der KI-Boom ins Stocken gerät.",
-   "e": "",
-   "tk": "NVDA",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlpzTlhsUUpWNDFpbHlobWdGV1B5NlR1RE43QUdlckZUZENLdkNuckM3ZVV4NlFyWXFVN0RBQ2J5Wnc2TmIzRlFIQ3RwTjZIZjBZa3ZmekhQWXFJOE55aWZzaG83ZmJvLTFuRnJrQTNmTUNHZHExRE15RmFneS16SnJ4R3Z1RmI3SUZqb0w4YUFtbGtqNjdHUndZYjNYMGY4?oc=5",
-   "quelle": "Fortune",
-   "zeit": "2026-11-25T21:37:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "af7e86344eeb4e11",
-   "k": "trading",
-   "titel": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-   "t": "Die HP-Aktie zählt im Technologie-Ausverkauf zu den Gewinnern, nachdem das Unternehmen die Erwartungen übertroffen hat.",
-   "e": "",
-   "tk": "HPQ",
-   "s": 4,
-   "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-25T21:36:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1641,7 +1576,7 @@
    {
     "name": "CNBC",
     "ok": true,
-    "n": 29
+    "n": 30
    },
    {
     "name": "CNBC Politik",
@@ -1707,7 +1642,7 @@
    {
     "name": "CNBC Markets",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "CNBC Investing",
