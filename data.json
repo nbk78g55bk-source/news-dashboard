@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T05:46:15.583030+00:00",
+ "aktualisiert": "2026-11-27T06:01:47.928939+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,18 +28,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.683 $",
-   "delta": 1.4662654663189891
+   "wert": "61.698 $",
+   "delta": 1.7192450236504815
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 2.6722433006892947
+   "wert": "1.739 $",
+   "delta": 2.821385527363423
   },
   {
    "name": "Gold",
-   "wert": "3.683 $",
-   "delta": 4.160301746153006
+   "wert": "3.670 $",
+   "delta": 3.795462110940151
   },
   {
    "name": "EZB Zins",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.683 $",
-   "delta": 1.4662654663189891
+   "wert": "61.698 $",
+   "delta": 1.7192450236504815
   },
   {
    "name": "Ethereum",
-   "wert": "1.741 $",
-   "delta": 2.6722433006892947
+   "wert": "1.739 $",
+   "delta": 2.821385527363423
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 2.8947979192529614
+   "delta": 3.094995968531912
   },
   {
    "name": "Rohöl WTI",
-   "wert": "86,04 $",
-   "delta": 2.8202673114453347
+   "wert": "86,21 $",
+   "delta": 3.023422186421443
   },
   {
    "name": "EUR/USD",
@@ -106,28 +106,32 @@
  ],
  "basiszins_seit": "01.07.2026",
  "briefing": {
-  "slot": 19,
-  "stand": "2026-11-26T18:01:57.717781+00:00",
+  "slot": 7,
+  "stand": "2026-11-27T06:01:47.928916+00:00",
   "punkte": [
    {
     "k": "finanzen",
-    "t": "Am Markt wird eine US-Zinserhöhung im Dezember inzwischen mit rund 98 Prozent eingepreist. Der Leitzins der Fed liegt bei 3,88 %, der Kern-PCE stieg auf 3,3 %, während die EZB ihren Zins bei 2,50 % belässt und die Entscheidung über die doppelte Mindestreserve vertagt hat."
+    "t": "Nvidia stoppt laut Bericht Chiplieferungen nach Südostasien, nachdem die USA ihre Exportkontrollen verschärft haben. Das Unternehmen reagiert damit auf die neuen US-Vorgaben."
    },
    {
     "k": "finanzen",
-    "t": "Im KI-Ausverkauf geraten Nasdaq-Aktien wie Nvidia, AMD und Intel reihenweise unter Druck, und S&P 500 sowie Nasdaq ziehen nach einem kurzen Rekordhoch ins Minus. Der Deka Nasdaq-100 notiert bei 169,44 €, der Deka S&P 500 bei 137,15 €."
-   },
-   {
-    "k": "finanzen",
-    "t": "Der Deka DAX notiert bei 220,40 € und der iShares MSCI World bei 125,83 €. Bitcoin kostet 60.463 $, Ethereum 1.692 $ und Gold 3.594 $. Die US-Terminbörsenaufsicht CFTC erlaubt Bitcoin und Ether als Betriebsreserve mit 20 Prozent Abschlag."
+    "t": "Zur Marktlage: Deka DAX 220,40 €, Deka S&P 500 137,15 € und Deka Nasdaq-100 169,44 €; der EZB-Zins liegt bei 2,50 %, der Fed Funds Rate bei 3,88 %. Bitcoin notiert bei 61.698 $, Gold bei 3.670 $."
    },
    {
     "k": "deutschland",
-    "t": "In der SPD formiert sich der linke Flügel für einen Machtkampf um die Neuausrichtung der Partei und kritisiert Vizekanzler Klingbeil. Unionsabgeordnete schlagen im Rentenstreit eine „Respekt-Rente“ vor, die Geringverdienern nach 45 Beitragsjahren abschlagsfreie Frühverrentung ermöglichen soll."
+    "t": "Die SPD zeigt sich im Rentenstreit kompromissbereit, die Union bringt eine Respektrente ins Spiel."
    },
    {
-    "k": "welt",
-    "t": "Trump und NATO-Generalsekretär Rutte fordern nach einem Treffen in Mar-a-Lago, dass Russland jede Ausweitung des Kriegs in der Ukraine unterlässt. Der Iran steht unter Druck durch die US-Blockade, die Kürzungen bei Treibstoff- und Lebensmittelsubventionen treffen die Bevölkerung."
+    "k": "usa",
+    "t": "Eine US-Richterin hat eine Behörde der Trump-Regierung gestoppt. Im Raum stehen Vorwürfe, dass es einen Marschbefehl aus dem Weißen Haus gegeben habe."
+   },
+   {
+    "k": "finanzen",
+    "t": "Bayer sichert sich für einen Milliardenbetrag die weltweiten Rechte an einem experimentellen Krebsmittel des chinesischen Unternehmens Hansoh Pharma."
+   },
+   {
+    "k": "deutschland",
+    "t": "Der Brenner-Basistunnel ist mit 230 Kilometern fertig, die deutschen Anschlussstrecken sollen laut Bericht aber voraussichtlich erst nach 2040 gebaut werden."
    }
   ]
  },
@@ -3563,19 +3567,6 @@
    "quelle": "Finanzen.net",
    "zeit": "2026-11-25T06:11:00+00:00",
    "tag": null
-  },
-  {
-   "id": "004357445286eff4",
-   "k": "nrw",
-   "titel": "„Das Gewaltpotenzial ist gestiegen“: Tag gegen Gewalt an Frauen in Iserlohn - IKZ-Online",
-   "t": "In Iserlohn wird der Tag gegen Gewalt an Frauen begangen, lokale Stimmen sehen ein gestiegenes Gewaltpotenzial.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSzRpcGduOFdmSDBqdi1HZXNxa2xlUVB5VndVVFRWNHBncTJqWG5GQWlPb3Flb3Jpck1pNm1Qb3R0NGo1WjJOWkc4VmtKR1J6eHdtbTVSXzYxcUdwS2JEVjdkQWU2Wl94VkRwMmdUY285WG1FRklDSnZCU19JcHlnamJYdzdvTGJDa2J4VE5CTzkwVU1MVlAzMFJWZU1xd1FFb3lic3dmVklrZ2phOG12UUxNUDRmYWZFV19vQ0p0M1JNQTAwV3NpX0RDa1BtWjBURFJz?oc=5",
-   "quelle": "IKZ-Online",
-   "zeit": "2026-11-25T06:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3613,7 +3604,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 35
+    "n": 32
    },
    {
     "name": "FAZ Finanzen",
@@ -3627,8 +3618,9 @@
    },
    {
     "name": "Handelsblatt",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "403 Client Error: Forbidden for url: https://www.handelsblatt.com/contentexport/feed/schlagzeilen"
    },
    {
     "name": "CNBC",
@@ -3730,12 +3722,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 2
    },
    {
     "name": "Google News Nasdaq Futures",
     "ok": true,
-    "n": 37
+    "n": 35
    },
    {
     "name": "Google News Iserlohn",
@@ -3760,12 +3752,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 33
+    "n": 40
    }
   ],
   "markt": [],
