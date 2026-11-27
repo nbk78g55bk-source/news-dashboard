@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-27T18:46:21.761428+00:00",
+ "aktualisiert": "2026-11-27T19:01:44.749659+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.758 $",
-   "delta": -1.3569173973680448
+   "wert": "59.858 $",
+   "delta": -0.9240265032079127
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -1.9404385363984737
+   "wert": "1.670 $",
+   "delta": -1.65696626962188
   },
   {
    "name": "Gold",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.758 $",
-   "delta": -1.3569173973680448
+   "wert": "59.858 $",
+   "delta": -0.9240265032079127
   },
   {
    "name": "Ethereum",
-   "wert": "1.666 $",
-   "delta": -1.9404385363984737
+   "wert": "1.670 $",
+   "delta": -1.65696626962188
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.7559455318614438
+   "delta": 0.9604271398411546
   },
   {
    "name": "Rohöl WTI",
-   "wert": "83,10 $",
-   "delta": -0.6931169969653039
+   "wert": "82,88 $",
+   "delta": -0.9560233057579248
   },
   {
    "name": "EUR/USD",
@@ -2027,71 +2027,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-25T19:03:45+00:00",
    "tag": null
-  },
-  {
-   "id": "1c7fb237ed7b514f",
-   "k": "finanzen",
-   "titel": "Börsen: Die Furcht vor einem KI-Crash will nicht weichen: Was kann die Angst der Anleger jetzt stoppen?",
-   "t": "Die US-Börsen haben hohe Anfangsverluste am Mittwoch weitgehend aufgeholt. Neue Zolldrohungen und die Aussicht auf höhere Zinsen belasten weiterhin, die Sorge vor einem KI-Crash bleibt.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-die-angst-vor-einem-ki-crash-haelt-an/100272767.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T19:01:06+00:00",
-   "tag": null
-  },
-  {
-   "id": "90a7b7150e678ae2",
-   "k": "usa",
-   "titel": "‘I don’t think’ Jensen Huang needs a pardon, JD Vance says: ‘I talked to the attorney general’",
-   "t": "Vizepräsident Vance sagt, Nvidia-CEO Jensen Huang brauche keine Begnadigung, da das Justizministerium gegen ihn keine Ermittlungen führe.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://nypost.com/2026/11/25/us-news/i-dont-think-jensen-huang-needs-a-pardon-jd-vance-says-i-talked-to-the-attorney-general/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-25T18:58:42+00:00",
-   "tag": null
-  },
-  {
-   "id": "c2931875919e0435",
-   "k": "nrw",
-   "titel": "Nordrhein-Westfalen: Nach Gewalttat im Juni in Hamm: Zufallsfestnahme bei einer Verkehrskontrolle - tagesschau.de",
-   "t": "Nach einer Gewalttat im Juni in Hamm wurde ein Verdächtiger bei einer Verkehrskontrolle zufällig festgenommen.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEhGWDFXeEszZkdyVF83dThmbXM2Sk5PSWFoc09mMVNFRzNsSEJBUFdicEJ6TFhLYjgwQlJibTNKdjlUQjNqeW94TV81QXFrOXJBa1YwVGRuQ3NEV2tSYlMxczd3aHBfTmZLTWg5QXlBdzQ5WndscURhNjRyNUZ1eVI4bl9JYW9ENzMtS3BPZ3JfQW9WQk9pUUZfdFlkM08xelZpTzY1a3VGd2hHZUdUek9aQ0kzdjlFUnRLUEFidkYtVXVQaHl3WmJ1N2NUVW9xSDRFUUUyQ0FURFFXb0dveW1B?oc=5",
-   "quelle": "tagesschau.de",
-   "zeit": "2026-11-25T18:58:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "bdc43d85741ba79e",
-   "k": "trading",
-   "titel": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-   "t": "Die Ethereum Foundation setzt auf Keccak-256 als Schutz gegen Quanten- und KI-Bedrohungen, vor einem der größten Sicherheitsumbauten seit dem Merge.",
-   "e": "",
-   "tk": "ETH",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-25T18:54:51+00:00",
-   "tag": null
-  },
-  {
-   "id": "020b13e4e25e8c80",
-   "k": "welt",
-   "titel": "+++ Ukraine-Krieg +++: Ukraine: Drei russische Kampfjets und zwei Bomber beschädigt",
-   "t": "Laut Newsblog wurden drei russische Kampfjets und zwei Bomber in der Ukraine beschädigt, Russland rechnet mit einem Rückgang der Getreideexporte.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-aendert-wohl-strategie-zu-geschaeftsabschluessen-mit-russland/27982126.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-25T18:52:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -2246,7 +2181,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -2275,8 +2210,9 @@
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 13
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
