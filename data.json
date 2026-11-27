@@ -1,45 +1,45 @@
 {
- "aktualisiert": "2026-11-27T09:31:34.351002+00:00",
+ "aktualisiert": "2026-11-27T09:46:29.049185+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,50 €",
-   "delta": 4.307102608180702
+   "wert": "127,46 €",
+   "delta": 1.2994262598157391
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,42 €",
-   "delta": 6.620338520077662
+   "wert": "43,40 €",
+   "delta": 2.3657349718857468
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,99 €",
-   "delta": 4.546987357741883
+   "delta": 1.3452883226236168
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,26 €",
-   "delta": 6.149865230327034
+   "delta": 1.6643044841603505
   },
   {
    "name": "Deka DAX",
-   "wert": "222,25 €",
-   "delta": 3.036626399827669
+   "wert": "222,15 €",
+   "delta": 0.7940136805709486
   },
   {
    "name": "Bitcoin",
-   "wert": "61.670 $",
-   "delta": 1.5746638123917702
+   "wert": "61.642 $",
+   "delta": 1.237239228700165
   },
   {
    "name": "Ethereum",
-   "wert": "1.731 $",
-   "delta": 1.959056436847378
+   "wert": "1.729 $",
+   "delta": 1.5522910882100995
   },
   {
    "name": "Gold",
    "wert": "3.706 $",
-   "delta": 4.8023063755585405
+   "delta": 4.813619232464372
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.444",
-   "delta": 0.9057932297089399
+   "wert": "25.440",
+   "delta": 0.8920318634372704
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,71",
-   "delta": -7.798504837904541
+   "wert": "24,66",
+   "delta": -7.985072007394822
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.670 $",
-   "delta": 1.5746638123917702
+   "wert": "61.642 $",
+   "delta": 1.237239228700165
   },
   {
    "name": "Ethereum",
-   "wert": "1.731 $",
-   "delta": 1.959056436847378
+   "wert": "1.729 $",
+   "delta": 1.5522910882100995
   },
   {
    "name": "Solana",
    "wert": "74 $",
-   "delta": 3.840986442924698
+   "delta": 3.361388759139952
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,55 $",
-   "delta": 2.234703260043558
+   "wert": "85,86 $",
+   "delta": 2.6051621497058974
   },
   {
    "name": "EUR/USD",
@@ -3360,19 +3360,6 @@
    "quelle": "Fox News Politik",
    "zeit": "2026-11-25T10:00:09+00:00",
    "tag": null
-  },
-  {
-   "id": "85e2c46a62b80d30",
-   "k": "deutschland",
-   "titel": "Kerzen dürften deutlich teurer werden",
-   "t": "Hersteller rechnen laut Bericht mit Preissteigerungen von 30 bis 50 Prozent bei Adventskerzen.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
-   "quelle": "Tagesschau Wirtschaft",
-   "zeit": "2026-11-25T09:40:38+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -3410,7 +3397,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 33
+    "n": 34
    },
    {
     "name": "FAZ Finanzen",
@@ -3527,7 +3514,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 2
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3542,7 +3529,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 26
+    "n": 27
    },
    {
     "name": "Google News NRW",
@@ -3551,13 +3538,14 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
    },
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 17
+    "n": 18
    },
    {
     "name": "Google News Fed",
