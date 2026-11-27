@@ -1,15 +1,15 @@
 {
- "aktualisiert": "2026-11-27T09:01:39.215141+00:00",
+ "aktualisiert": "2026-11-27T09:16:18.153704+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
-   "wert": "127,41 €",
-   "delta": 4.225296324028571
+   "wert": "127,49 €",
+   "delta": 4.2948316655578855
   },
   {
    "name": "iShares MSCI EM",
-   "wert": "43,37 €",
-   "delta": 6.500013395420634
+   "wert": "43,49 €",
+   "delta": 6.7946871700909295
   },
   {
    "name": "Deka S&P 500",
@@ -23,23 +23,23 @@
   },
   {
    "name": "Deka DAX",
-   "wert": "221,90 €",
-   "delta": 2.8743639960484124
+   "wert": "222,25 €",
+   "delta": 3.036626399827669
   },
   {
    "name": "Bitcoin",
-   "wert": "61.672 $",
-   "delta": 1.3873292740353735
+   "wert": "61.671 $",
+   "delta": 1.331250741827651
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 1.8203183614379899
+   "wert": "1.729 $",
+   "delta": 1.7360955531438362
   },
   {
    "name": "Gold",
-   "wert": "3.706 $",
-   "delta": 4.7994781613320825
+   "wert": "3.711 $",
+   "delta": 4.960686372240075
   },
   {
    "name": "EZB Zins",
@@ -65,13 +65,13 @@
   },
   {
    "name": "DAX",
-   "wert": "25.444",
-   "delta": 0.9076175030475531
+   "wert": "25.454",
+   "delta": 0.9447374996766289
   },
   {
    "name": "VIX (Angstbarometer)",
-   "wert": "24,75",
-   "delta": -7.6492511023123155
+   "wert": "24,60",
+   "delta": -8.208952610783149
   },
   {
    "name": "US 10J Rendite",
@@ -80,23 +80,23 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "61.672 $",
-   "delta": 1.3873292740353735
+   "wert": "61.671 $",
+   "delta": 1.331250741827651
   },
   {
    "name": "Ethereum",
-   "wert": "1.730 $",
-   "delta": 1.8203183614379899
+   "wert": "1.729 $",
+   "delta": 1.7360955531438362
   },
   {
    "name": "Solana",
    "wert": "73 $",
-   "delta": 3.2341188248034265
+   "delta": 3.3938246645485295
   },
   {
    "name": "Rohöl WTI",
-   "wert": "85,83 $",
-   "delta": 2.5693112894159986
+   "wert": "85,74 $",
+   "delta": 2.46175870854628
   },
   {
    "name": "EUR/USD",
@@ -3527,7 +3527,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 1
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -3551,9 +3551,8 @@
    },
    {
     "name": "Google News Zinsen",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=EZB+OR+Fed+OR+Leitzins+OR+Basiszins+wh"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News USA",
@@ -3562,9 +3561,8 @@
    },
    {
     "name": "Google News Fed",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Federal+Reserve%22+when:1d&hl=en-US"
+    "ok": true,
+    "n": 27
    }
   ],
   "markt": [],
