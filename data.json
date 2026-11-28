@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T04:01:40.602358+00:00",
+ "aktualisiert": "2026-11-28T04:16:19.004066+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.926 $",
-   "delta": -2.336005575046831
+   "wert": "59.991 $",
+   "delta": -2.3710905805898017
   },
   {
    "name": "Ethereum",
    "wert": "1.664 $",
-   "delta": -3.6267745808364547
+   "delta": -3.8404795475230653
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.926 $",
-   "delta": -2.336005575046831
+   "wert": "59.991 $",
+   "delta": -2.3710905805898017
   },
   {
    "name": "Ethereum",
    "wert": "1.664 $",
-   "delta": -3.6267745808364547
+   "delta": -3.8404795475230653
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -1.2742911207531067
+   "delta": -1.4525325225971912
   },
   {
    "name": "Rohöl WTI",
@@ -1038,19 +1038,6 @@
    "quelle": "Finanzen.net",
    "zeit": "2026-11-26T04:38:57+00:00",
    "tag": null
-  },
-  {
-   "id": "bc65f424d11bb944",
-   "k": "trading",
-   "titel": "Medios Aktie: Rückkauf läuft an, Kurs zieht mit - Börse Global",
-   "t": "Medios startet einen Aktienrückkauf, der Kurs zieht an.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTBsN3VuNEc2R2JRMWVuaFJFVnFZM1ZvN3Atei1HczViNkhuQjdLRGp3dkoyb2l0X1hkcjBEX2s1d2o2ZGR6N05LbGgyOHltQUgwTi1sajFLRWdyUTlXaUh2WUFnbWVxaF9oX3N1SE5CdEFweWtKRTEzbmxZWmNqY1owdEtQTW1pZGkw?oc=5",
-   "quelle": "Börse Global",
-   "zeit": "2026-11-26T04:09:22+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1143,7 +1130,7 @@
    {
     "name": "New York Post Politik",
     "ok": true,
-    "n": 20
+    "n": 19
    },
    {
     "name": "CoinDesk",
@@ -1163,7 +1150,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 15
+    "n": 16
    },
    {
     "name": "Yahoo Finance",
@@ -1205,7 +1192,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1240,7 +1227,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 29
    }
   ],
   "markt": [],
