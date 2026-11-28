@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T05:31:32.326364+00:00",
+ "aktualisiert": "2026-11-28T05:46:18.336469+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.792 $",
-   "delta": -3.1279359580009105
+   "wert": "59.684 $",
+   "delta": -3.2715546996551303
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -5.069815522504823
+   "wert": "1.654 $",
+   "delta": -5.056790624169932
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.792 $",
-   "delta": -3.1279359580009105
+   "wert": "59.684 $",
+   "delta": -3.2715546996551303
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -5.069815522504823
+   "wert": "1.654 $",
+   "delta": -5.056790624169932
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -2.4102636450356942
+   "delta": -2.680453689421459
   },
   {
    "name": "Rohöl WTI",
@@ -882,19 +882,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-26T05:50:34+00:00",
    "tag": null
-  },
-  {
-   "id": "bab08614e0cc99bb",
-   "k": "trading",
-   "titel": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
-   "t": "Fidelity hat einen Spot-Chainlink-ETF eingereicht.",
-   "e": "",
-   "tk": "LINK",
-   "s": 5,
-   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
-   "quelle": "The Block",
-   "zeit": "2026-11-26T05:45:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -962,7 +949,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "MarketWatch",
@@ -1007,7 +994,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 15
+    "n": 14
    },
    {
     "name": "Yahoo Finance",
@@ -1049,7 +1036,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1058,9 +1045,8 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -1085,7 +1071,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 40
    }
   ],
   "markt": [],
