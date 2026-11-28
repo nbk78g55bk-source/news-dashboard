@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T08:01:34.927635+00:00",
+ "aktualisiert": "2026-11-28T08:16:14.091133+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.795 $",
-   "delta": -2.9593452566139176
+   "wert": "59.660 $",
+   "delta": -3.530719574861256
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -4.338518112663352
+   "wert": "1.654 $",
+   "delta": -4.663374483597341
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.795 $",
-   "delta": -2.9593452566139176
+   "wert": "59.660 $",
+   "delta": -3.530719574861256
   },
   {
    "name": "Ethereum",
-   "wert": "1.658 $",
-   "delta": -4.338518112663352
+   "wert": "1.654 $",
+   "delta": -4.663374483597341
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -2.751696203429224
+   "delta": -2.9339486640794403
   },
   {
    "name": "Rohöl WTI",
@@ -732,7 +732,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 24
+    "n": 23
    },
    {
     "name": "Cointelegraph",
@@ -804,7 +804,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 21
    },
    {
     "name": "Google News NRW",
@@ -824,7 +824,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
