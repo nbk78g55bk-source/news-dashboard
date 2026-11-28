@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T07:16:15.702663+00:00",
+ "aktualisiert": "2026-11-28T07:31:28.231935+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.556 $",
-   "delta": -3.5039977015107784
+   "wert": "59.638 $",
+   "delta": -3.4893257953392744
   },
   {
    "name": "Ethereum",
-   "wert": "1.651 $",
-   "delta": -4.708213129632027
+   "wert": "1.653 $",
+   "delta": -4.600013487658101
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.556 $",
-   "delta": -3.5039977015107784
+   "wert": "59.638 $",
+   "delta": -3.4893257953392744
   },
   {
    "name": "Ethereum",
-   "wert": "1.651 $",
-   "delta": -4.708213129632027
+   "wert": "1.653 $",
+   "delta": -4.600013487658101
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -2.4906703361836775
+   "delta": -2.5103956665668536
   },
   {
    "name": "Rohöl WTI",
@@ -647,7 +647,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 20
    },
    {
     "name": "Tagesschau Ausland",
@@ -657,7 +657,7 @@
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 22
+    "n": 23
    },
    {
     "name": "Welt",
@@ -702,7 +702,7 @@
    {
     "name": "CNBC Finance",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "MarketWatch",
@@ -789,7 +789,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 8
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -824,7 +824,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 27
    }
   ],
   "markt": [],
