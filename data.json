@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T06:46:16.036527+00:00",
+ "aktualisiert": "2026-11-28T07:01:39.773556+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.794 $",
-   "delta": -3.0025250940233157
+   "wert": "59.705 $",
+   "delta": -3.0708687791408864
   },
   {
    "name": "Ethereum",
-   "wert": "1.659 $",
-   "delta": -4.186969463692715
+   "wert": "1.657 $",
+   "delta": -4.312852275566524
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.794 $",
-   "delta": -3.0025250940233157
+   "wert": "59.705 $",
+   "delta": -3.0708687791408864
   },
   {
    "name": "Ethereum",
-   "wert": "1.659 $",
-   "delta": -4.186969463692715
+   "wert": "1.657 $",
+   "delta": -4.312852275566524
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -1.968457012429697
+   "delta": -2.042420186879105
   },
   {
    "name": "Rohöl WTI",
@@ -635,84 +635,6 @@
    "quelle": "Tagesschau Ausland",
    "zeit": "2026-11-26T13:02:45+00:00",
    "tag": null
-  },
-  {
-   "id": "f0d68213f0dbbaaf",
-   "k": "deutschland",
-   "titel": "Die Denkfehler in der Broschüre, mit der die Bundeszentrale fürs Gendern wirbt",
-   "t": "Die Bundeszentrale für politische Bildung verteidigt eine Broschüre zum Gendern, Kritiker sehen Denkfehler.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/kultur/plus6b059f3aaabf9675c80f37a7/sprachkampf-die-denkfehler-in-der-broschuere-mit-der-die-bundeszentrale-fuers-gendern-wirbt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-26T06:58:28+00:00",
-   "tag": null
-  },
-  {
-   "id": "01618173cb2c4476",
-   "k": "usa",
-   "titel": "\"Marschbefehl\" aus dem Weißen Haus? Richterin stoppt Trump-Behörde - GMX.AT",
-   "t": "Eine Richterin hat eine Trump-Behörde gestoppt, die Vorwürfe eines Marschbefehls aus dem Weißen Haus stehen im Raum.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlpURGFhT3B1VGxiaGRUWVo5MUY5WkFTbzJibkc0ZGcyZ2hTZEtEUUdXaXc1MnE5cWhWY0lUSkplVi11NzBuUFZqcTFCTldhaHJkM2FnS25rbGdscGhjajdEb1JHTk1sRmtLbFI5aDRNS0ppQ2hSVk5zeml5UTNSdVRBTWRRaGxXSFhxY2FjWWFoQjRMNVlqcWkyeGcxbTlna3U1dldMOVNvQ0ZWUVdiQVdxaw?oc=5",
-   "quelle": "GMX.AT",
-   "zeit": "2026-11-26T06:50:36+00:00",
-   "tag": null
-  },
-  {
-   "id": "d192416f743c2bbc",
-   "k": "deutschland",
-   "titel": "Güterverkehr: Durchbruch am Brenner-Basistunnel – aber das Desaster bei deutschen Anschlussstrecken eskaliert",
-   "t": "Der Brenner-Basistunnel ist mit 230 Kilometern fertig, die deutschen Anschlussstrecken werden aber voraussichtlich erst nach 2040 gebaut.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutschland-das-brennertunnel-desaster-wird-immer-groesser/100272322.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-26T06:50:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "b6a5cef39142a699",
-   "k": "deutschland",
-   "titel": "Deutschland Liveblog: SPD verspricht, im Rentenstreit „kompromissbereit“ zu sein",
-   "t": "Die SPD zeigt sich im Rentenstreit kompromissbereit, die Union bringt eine Respektrente ins Spiel.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-spd-verspricht-im-rentenstreit-kompromissbereit-zu-sein-faz-110093143.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-26T06:48:24+00:00",
-   "tag": null
-  },
-  {
-   "id": "19128a458d67603f",
-   "k": "trading",
-   "titel": "KI: US-Verbote: Nvidia stoppt offenbar Chiplieferungen nach Südostasien",
-   "t": "Nvidia stoppt laut Bericht Chiplieferungen nach Südostasien, nachdem die USA ihre Exportkontrollen verschärft haben.",
-   "e": "Die Exportbeschränkungen betreffen nun auch Länder außerhalb Chinas und können das Nvidia-Geschäft mit KI-Chips belasten.",
-   "tk": "NVDA",
-   "s": 7,
-   "link": "https://www.handelsblatt.com/technik/ki/ki-nvidia-stoppt-offenbar-chiplieferungen-nach-suedostasien/100272868.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-26T06:48:08+00:00",
-   "tag": null
-  },
-  {
-   "id": "4068012ecfe426e9",
-   "k": "trading",
-   "titel": "Onkologie: Bayer sichert sich für Milliardenbetrag Rechte an Krebsmittel in China",
-   "t": "Bayer sichert sich für einen Milliardenbetrag die weltweiten Rechte an einem experimentellen Krebsmittel von Hansoh Pharma aus China.",
-   "e": "",
-   "tk": "BAYN",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/pharma-bayer-sichert-sich-fuer-milliardenbetrag-rechte-an-krebsmittel-in-china/100272762.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-26T06:48:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -755,7 +677,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "NZZ",
@@ -800,7 +722,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "New York Post Politik",
@@ -882,7 +804,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 24
+    "n": 26
    },
    {
     "name": "Google News NRW",
@@ -897,12 +819,12 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 15
+    "n": 13
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
