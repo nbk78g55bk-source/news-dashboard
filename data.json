@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T02:16:24.320680+00:00",
+ "aktualisiert": "2026-11-28T02:31:28.010112+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.151 $",
-   "delta": -1.7031507341636536
+   "wert": "60.100 $",
+   "delta": -2.3588312859037597
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -2.617441350942197
+   "wert": "1.668 $",
+   "delta": -3.4815379295746287
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.151 $",
-   "delta": -1.7031507341636536
+   "wert": "60.100 $",
+   "delta": -2.3588312859037597
   },
   {
    "name": "Ethereum",
-   "wert": "1.669 $",
-   "delta": -2.617441350942197
+   "wert": "1.668 $",
+   "delta": -3.4815379295746287
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.028829149724286157
+   "delta": -0.7023923520099643
   },
   {
    "name": "Rohöl WTI",
@@ -1116,19 +1116,6 @@
    "quelle": "www.tmgm.com",
    "zeit": "2026-11-26T02:40:42+00:00",
    "tag": null
-  },
-  {
-   "id": "5aae2f36981e2f76",
-   "k": "welt",
-   "titel": "Ägypten: Mindestens 31 Tote bei Großbrand in Gizeh bei Kairo",
-   "t": "Bei einem Großbrand in Gizeh bei Kairo sind nach einem brennenden Lastwagen mindestens 31 Menschen ums Leben gekommen.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/grossbrand-in-gizeh-mindestens-31-tote-nach-lkw-unfall-accg-201718163.html",
-   "quelle": "FAZ",
-   "zeit": "2026-11-26T02:22:01+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1241,7 +1228,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Yahoo Finance",
@@ -1283,7 +1270,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
