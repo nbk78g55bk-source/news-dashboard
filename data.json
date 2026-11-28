@@ -1,40 +1,40 @@
 {
- "aktualisiert": "2026-11-28T09:31:34.269045+00:00",
+ "aktualisiert": "2026-11-28T09:46:16.488729+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
    "wert": "127,20 €",
-   "delta": 4.057593441516705
+   "delta": 1.092790053731063
   },
   {
    "name": "iShares MSCI EM",
    "wert": "43,49 €",
-   "delta": 6.806965244035523
+   "delta": 2.5898074332297405
   },
   {
    "name": "Deka S&P 500",
    "wert": "138,47 €",
-   "delta": 4.155848186391231
+   "delta": 0.9661275921554857
   },
   {
    "name": "Deka Nasdaq-100",
    "wert": "172,16 €",
-   "delta": 6.088243341768851
+   "delta": 1.6052865435565167
   },
   {
    "name": "Deka DAX",
    "wert": "222,30 €",
-   "delta": 3.0598067432247245
+   "delta": 0.8620717586807158
   },
   {
    "name": "Bitcoin",
-   "wert": "59.593 $",
-   "delta": -3.3842748432001586
+   "wert": "59.513 $",
+   "delta": -3.47903848595419
   },
   {
    "name": "Ethereum",
-   "wert": "1.650 $",
-   "delta": -4.64932637144339
+   "wert": "1.649 $",
+   "delta": -4.6668897074679965
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.593 $",
-   "delta": -3.3842748432001586
+   "wert": "59.513 $",
+   "delta": -3.47903848595419
   },
   {
    "name": "Ethereum",
-   "wert": "1.650 $",
-   "delta": -4.64932637144339
+   "wert": "1.649 $",
+   "delta": -4.6668897074679965
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -3.6076932528291743
+   "delta": -3.6690552219122785
   },
   {
    "name": "Rohöl WTI",
@@ -647,7 +647,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Tagesschau Ausland",
@@ -732,7 +732,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 23
+    "n": 24
    },
    {
     "name": "Cointelegraph",
@@ -747,7 +747,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 12
+    "n": 11
    },
    {
     "name": "Yahoo Finance",
@@ -789,7 +789,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 8
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -804,7 +804,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Google News NRW",
@@ -824,7 +824,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 27
    }
   ],
   "markt": [],
