@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T11:01:40.037206+00:00",
+ "aktualisiert": "2026-11-28T11:16:24.185296+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.214 $",
-   "delta": -3.8431906627518586
+   "wert": "59.213 $",
+   "delta": -3.824940554283295
   },
   {
    "name": "Ethereum",
-   "wert": "1.645 $",
-   "delta": -4.791598078514952
+   "wert": "1.646 $",
+   "delta": -4.576473656687074
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.214 $",
-   "delta": -3.8431906627518586
+   "wert": "59.213 $",
+   "delta": -3.824940554283295
   },
   {
    "name": "Ethereum",
-   "wert": "1.645 $",
-   "delta": -4.791598078514952
+   "wert": "1.646 $",
+   "delta": -4.576473656687074
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -3.5327364388297395
+   "delta": -3.3894157978950505
   },
   {
    "name": "Rohöl WTI",
@@ -642,7 +642,7 @@
    {
     "name": "Tagesschau",
     "ok": true,
-    "n": 37
+    "n": 36
    },
    {
     "name": "Tagesschau Inland",
@@ -652,12 +652,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 21
+    "n": 20
    },
    {
     "name": "Welt",
@@ -677,7 +677,7 @@
    {
     "name": "FAZ Finanzen",
     "ok": true,
-    "n": 13
+    "n": 16
    },
    {
     "name": "NZZ",
@@ -717,12 +717,12 @@
    {
     "name": "WSJ USA",
     "ok": true,
-    "n": 12
+    "n": 13
    },
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "New York Post Politik",
@@ -789,13 +789,12 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 7
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Iserlohn",
@@ -819,9 +818,8 @@
    },
    {
     "name": "Google News USA",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
+    "ok": true,
+    "n": 10
    },
    {
     "name": "Google News Fed",
