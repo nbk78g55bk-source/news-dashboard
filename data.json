@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T03:01:38.627870+00:00",
+ "aktualisiert": "2026-11-28T03:16:19.788661+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.930 $",
-   "delta": -2.203999497521437
+   "wert": "59.938 $",
+   "delta": -2.5037561003455346
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -3.340593273368391
+   "wert": "1.663 $",
+   "delta": -3.6894550660538252
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.930 $",
-   "delta": -2.203999497521437
+   "wert": "59.938 $",
+   "delta": -2.5037561003455346
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -3.340593273368391
+   "wert": "1.663 $",
+   "delta": -3.6894550660538252
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -0.8807286744353172
+   "delta": -1.4169646251747623
   },
   {
    "name": "Rohöl WTI",
@@ -1051,19 +1051,6 @@
    "quelle": "Börse Global",
    "zeit": "2026-11-26T04:09:22+00:00",
    "tag": null
-  },
-  {
-   "id": "52dc201b7e90f59f",
-   "k": "usa",
-   "titel": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-   "t": "Ein Ausschuss des Repräsentantenhauses hat den Gesetzentwurf zur Strategischen Bitcoin-Reserve vorangebracht.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-   "quelle": "The Block",
-   "zeit": "2026-11-26T03:03:01+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1141,7 +1128,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 27
+    "n": 29
    },
    {
     "name": "WSJ USA",
@@ -1176,7 +1163,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Yahoo Finance",
@@ -1218,7 +1205,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1227,9 +1214,8 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": false,
-    "n": 0,
-    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
+    "ok": true,
+    "n": 40
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -1254,7 +1240,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 28
+    "n": 40
    }
   ],
   "markt": [],
