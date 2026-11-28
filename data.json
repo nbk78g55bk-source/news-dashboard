@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T06:16:19.751302+00:00",
+ "aktualisiert": "2026-11-28T06:31:24.601269+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.683 $",
-   "delta": -3.4561751317996903
+   "wert": "59.768 $",
+   "delta": -3.0504164347480316
   },
   {
    "name": "Ethereum",
-   "wert": "1.655 $",
-   "delta": -4.821382802852723
+   "wert": "1.659 $",
+   "delta": -4.364246438463591
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.683 $",
-   "delta": -3.4561751317996903
+   "wert": "59.768 $",
+   "delta": -3.0504164347480316
   },
   {
    "name": "Ethereum",
-   "wert": "1.655 $",
-   "delta": -4.821382802852723
+   "wert": "1.659 $",
+   "delta": -4.364246438463591
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -2.5912186382858837
+   "delta": -2.1064352467072665
   },
   {
    "name": "Rohöl WTI",
@@ -791,58 +791,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-26T06:36:54+00:00",
    "tag": null
-  },
-  {
-   "id": "3ab2b53ccda89680",
-   "k": "trading",
-   "titel": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
-   "t": "Die erste Spot-Bitcoin-ETF Europas startet an der SIX Swiss Exchange mit 350 BTC an Vermögen.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
-   "quelle": "The Block",
-   "zeit": "2026-11-26T06:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "fd71a95492e07c87",
-   "k": "nrw",
-   "titel": "Gemeinde Bestwig führt Ehrenamtskarte NRW ein: Vergünstigungen für engagierte Bürger - SauerlandKurier",
-   "t": "Die Gemeinde Bestwig führt die Ehrenamtskarte NRW ein, mit Vergünstigungen für engagierte Bürger.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeU5mVVpSOFlySUg3bk9GUGVsbzJDdFo4S2R0RFZ5aVVGbDRiUk9JazJsRmNRRnl6eFJER25GME5oVC1qSVE2aVdRSDMyLUNLLTkyYmp5MUpBTFZ3UVRRQVVYTFN2NGRwQmlic004eml0TWtqemtHbHJnVVBxXzgxLTNHNjd3ajFXMjZOOXN4dlZ2OEdBdm4za2JYcDRsU1k3c2hialdJeTZla0xqR1kyOGhvTzNmLWk2WllIV0JoS000NWpTYjZRSjBNblJGZkhlQjU3NjNkbG9DdXF6WGI4aXVhMVdtY29KLVRIbE5BMG0?oc=5",
-   "quelle": "SauerlandKurier",
-   "zeit": "2026-11-26T06:30:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "0b4ccd55d380f71d",
-   "k": "welt",
-   "titel": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder",
-   "t": "Die EU will Europäern Führungsposten in russischen Unternehmen verbieten, Altkanzler Schröder müsste sein Aufsichtsratsmandat niederlegen.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/politik/international/eu-neue-russland-sanktionen-treffen-altkanzler-gerhard-schroeder-01/100272497.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-26T06:20:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "5d13da8e270c93bf",
-   "k": "trading",
-   "titel": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-   "t": "Mehr als 1.000 Bitcoin-Miner wurden laut Bericht durch eine gefälschte Internetroute zur Arbeit für einen Dieb verleitet.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-26T06:19:09+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -955,7 +903,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 14
+    "n": 13
    },
    {
     "name": "Yahoo Finance",
@@ -997,7 +945,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1012,7 +960,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 25
+    "n": 26
    },
    {
     "name": "Google News NRW",
@@ -1032,7 +980,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 28
    }
   ],
   "markt": [],
