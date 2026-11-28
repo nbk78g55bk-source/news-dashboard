@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T02:31:28.010112+00:00",
+ "aktualisiert": "2026-11-28T02:46:26.002284+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.100 $",
-   "delta": -2.3588312859037597
+   "wert": "59.983 $",
+   "delta": -2.3682935829207032
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -3.4815379295746287
+   "wert": "1.664 $",
+   "delta": -3.4075802250972593
   },
   {
    "name": "Gold",
@@ -66,7 +66,7 @@
   {
    "name": "DAX",
    "wert": "25.441",
-   "delta": 2.9920865727439683
+   "delta": 0.8951648546057678
   },
   {
    "name": "VIX (Angstbarometer)",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.100 $",
-   "delta": -2.3588312859037597
+   "wert": "59.983 $",
+   "delta": -2.3682935829207032
   },
   {
    "name": "Ethereum",
-   "wert": "1.668 $",
-   "delta": -3.4815379295746287
+   "wert": "1.664 $",
+   "delta": -3.4075802250972593
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -0.7023923520099643
+   "delta": -0.9295898482774703
   },
   {
    "name": "Rohöl WTI",
@@ -1090,32 +1090,6 @@
    "quelle": "WSJ Welt",
    "zeit": "2026-11-26T03:00:00+00:00",
    "tag": null
-  },
-  {
-   "id": "c7ba2ed0519d8b44",
-   "k": "usa",
-   "titel": "Unterhaltungskonzern: US-Richterin stoppt Lizenzentzug für Disney-Sender – Rückschlag für Trump",
-   "t": "Eine US-Richterin hat den Lizenzentzug für Disney-Sender vorläufig gestoppt. Das Urteil stellt einen Rückschlag für Trumps Vorgehen gegen Medienunternehmen dar.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.handelsblatt.com/unternehmen/unterhaltungskonzern-us-richterin-stoppt-lizenzentzug-fuer-disney-sender-rueckschlag-fuer-trump/100272836.html",
-   "quelle": "Handelsblatt",
-   "zeit": "2026-11-26T02:44:58+00:00",
-   "tag": null
-  },
-  {
-   "id": "77a907db7a7f8125",
-   "k": "trading",
-   "titel": "Ethereum-Kursprognose: ETH bleibt unter 1.700 US-Dollar, während ETF-Abflüsse 1,2 Milliarden US-Dollar übersteigen - www.tmgm.com",
-   "t": "Ethereum notiert unter 1.700 US-Dollar, während die Abflüsse aus Ethereum-ETFs 1,2 Milliarden US-Dollar übersteigen.",
-   "e": "",
-   "tk": "ETH",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckVHTGJMRGMtbjJEOXlfM05NcF8zaGJHOGRNMEZyTjVGV0lPTEtkd0o1U1MtSUg5ZHZlREFscUNmUmc0XzVZMzk3Y1k4Rl9QaEtyc2JSeVp0djJ4cjM5d2tTXy1CUmhwTEpGVE9GS0lMV3F3SkFiRFFGWVg3WENJSHBNU0t0YjY4UHRnaXBaYjV4aGNUZS1pdHJfZmJwYzliMzZIRk1yX2l6NW1fUEZ2VGg3RldMTUdmRHBOanJiVDBDdDVVMUtzX2ptYjZ4Y0FfNWxwVmVtd0pBdw?oc=5",
-   "quelle": "www.tmgm.com",
-   "zeit": "2026-11-26T02:40:42+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1270,7 +1244,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
