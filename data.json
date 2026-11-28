@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T02:46:26.002284+00:00",
+ "aktualisiert": "2026-11-28T03:01:38.627870+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.983 $",
-   "delta": -2.3682935829207032
+   "wert": "59.930 $",
+   "delta": -2.203999497521437
   },
   {
    "name": "Ethereum",
    "wert": "1.664 $",
-   "delta": -3.4075802250972593
+   "delta": -3.340593273368391
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.983 $",
-   "delta": -2.3682935829207032
+   "wert": "59.930 $",
+   "delta": -2.203999497521437
   },
   {
    "name": "Ethereum",
    "wert": "1.664 $",
-   "delta": -3.4075802250972593
+   "delta": -3.340593273368391
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -0.9295898482774703
+   "delta": -0.8807286744353172
   },
   {
    "name": "Rohöl WTI",
@@ -1064,32 +1064,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-26T03:03:01+00:00",
    "tag": null
-  },
-  {
-   "id": "8b21f3829c3afb9d",
-   "k": "welt",
-   "titel": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
-   "t": "Der Iran gerät durch die US-Blockade wirtschaftlich unter Druck, Kürzungen bei Subventionen für Treibstoff und Lebensmittel treffen die Bevölkerung.",
-   "e": "Die Subventionskürzungen verschärfen die innenpolitischen Spannungen im Land.",
-   "tk": "",
-   "s": 6,
-   "link": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-26T03:00:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "078f0db3e71247ad",
-   "k": "welt",
-   "titel": "Behind France’s Unrest Lies a Historic Decline in Spending Power",
-   "t": "In Frankreich wachsen die Proteste, da die Reallöhne trotz steigender Inflation sinken.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.wsj.com/world/europe/behind-frances-unrest-lies-a-historic-decline-in-spending-power-ab0c7d65?mod=rss_worldnews",
-   "quelle": "WSJ Welt",
-   "zeit": "2026-11-26T03:00:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1167,7 +1141,7 @@
    {
     "name": "WSJ Welt",
     "ok": true,
-    "n": 28
+    "n": 27
    },
    {
     "name": "WSJ USA",
@@ -1244,7 +1218,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1253,8 +1227,9 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -1279,7 +1254,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 28
    }
   ],
   "markt": [],
