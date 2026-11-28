@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T10:46:18.296331+00:00",
+ "aktualisiert": "2026-11-28T11:01:40.037206+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.212 $",
-   "delta": -3.8328470032258073
+   "wert": "59.214 $",
+   "delta": -3.8431906627518586
   },
   {
    "name": "Ethereum",
-   "wert": "1.648 $",
-   "delta": -4.5802166708257515
+   "wert": "1.645 $",
+   "delta": -4.791598078514952
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.212 $",
-   "delta": -3.8328470032258073
+   "wert": "59.214 $",
+   "delta": -3.8431906627518586
   },
   {
    "name": "Ethereum",
-   "wert": "1.648 $",
-   "delta": -4.5802166708257515
+   "wert": "1.645 $",
+   "delta": -4.791598078514952
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -3.559749665897523
+   "delta": -3.5327364388297395
   },
   {
    "name": "Rohöl WTI",
@@ -652,12 +652,12 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 16
+    "n": 17
    },
    {
     "name": "Tagesschau Wirtschaft",
     "ok": true,
-    "n": 23
+    "n": 21
    },
    {
     "name": "Welt",
@@ -672,7 +672,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
@@ -722,7 +722,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 22
+    "n": 21
    },
    {
     "name": "New York Post Politik",
@@ -732,7 +732,7 @@
    {
     "name": "CoinDesk",
     "ok": true,
-    "n": 23
+    "n": 22
    },
    {
     "name": "Cointelegraph",
@@ -789,12 +789,13 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 9
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq+OR+%22S%26P+500%22+futures+when"
    },
    {
     "name": "Google News Iserlohn",
@@ -804,7 +805,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "Google News NRW",
@@ -818,16 +819,17 @@
    },
    {
     "name": "Google News USA",
-    "ok": true,
-    "n": 11
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=USA+Politik+Wei%C3%9Fes+Haus+when:1d&h"
    },
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 27
+    "n": 40
    }
   ],
   "markt": [],
-  "briefing": "Slot 7: keine Punkte erhalten"
+  "briefing": "Slot 12: keine Punkte erhalten"
  }
 }
