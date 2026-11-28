@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T00:46:20.832854+00:00",
+ "aktualisiert": "2026-11-28T01:01:44.539703+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.952 $",
-   "delta": -1.117967551812877
+   "wert": "59.849 $",
+   "delta": -1.3298361469221671
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -1.8313247214769564
+   "wert": "1.660 $",
+   "delta": -2.3755037087866375
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.952 $",
-   "delta": -1.117967551812877
+   "wert": "59.849 $",
+   "delta": -1.3298361469221671
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -1.8313247214769564
+   "wert": "1.660 $",
+   "delta": -2.3755037087866375
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.6651770974324736
+   "delta": 0.5902850173604604
   },
   {
    "name": "Rohöl WTI",
@@ -1233,32 +1233,6 @@
    "quelle": "36Kr",
    "zeit": "2026-11-26T01:04:25+00:00",
    "tag": null
-  },
-  {
-   "id": "40606517baff6dbf",
-   "k": "finanzen",
-   "titel": "Gold weitet Verluste aus, da heiße US-Inflation Erwartungen einer Fed-Zinserhöhung festigt - MarketScreener Deutschland",
-   "t": "Gold hat Verluste ausgeweitet, nachdem hohe US-Inflationsdaten die Erwartungen an eine Zinserhöhung der Fed gefestigt haben.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUl8wWTVxQ1ZsZFRYS2ZsWFZUejg4cWNyb3BNWXFZLUg5aG9HR0stTERnOGt3RmNMMzBhRFROMS1HdFY2Ti1PREF2N2pPOS1ELU1zTUxBYVN2MjRPYU1ESnpPamZRT0lGVTllWGJrNERqZ0d5M3RoclV3NUE1VTVmd3dYUC1xaTVMMlVDNzMwUHZOSlFFZXdPQVpvLWJuQjFKSFhEYktKVmRGdmpMQ2NyYVI3NFJpU1UzMzJsdTh3Q25JeHlyQjFjMmZwRmtKd21Wbm13S1BfeUJfVV9EcDZYTlB0MDl4bVZUOWRpcERB?oc=5",
-   "quelle": "MarketScreener Deutschland",
-   "zeit": "2026-11-26T01:00:32+00:00",
-   "tag": null
-  },
-  {
-   "id": "c580d188b1b44884",
-   "k": "nrw",
-   "titel": "NRW verbietet Gesichtsschleier im Unterricht",
-   "t": "Der NRW-Landtag hat Verschärfungen der Schulregeln beschlossen, darunter ein Verbot von Gesichtsschleiern für Schülerinnen und Schüler.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.welt.de/politik/article6b077766c75e09cb88d1649a/verschaerfung-der-schulregeln-nrw-verbietet-gesichtsschleier-im-unterricht.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-26T00:46:33+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1448,7 +1422,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 30
    }
   ],
   "markt": [],
