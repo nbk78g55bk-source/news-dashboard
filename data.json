@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T04:31:29.292550+00:00",
+ "aktualisiert": "2026-11-28T04:46:20.812191+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.978 $",
-   "delta": -2.346910221772564
+   "wert": "59.982 $",
+   "delta": -2.4056459320757226
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -3.803730730614998
+   "wert": "1.663 $",
+   "delta": -4.1581984013518545
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.978 $",
-   "delta": -2.346910221772564
+   "wert": "59.982 $",
+   "delta": -2.4056459320757226
   },
   {
    "name": "Ethereum",
-   "wert": "1.664 $",
-   "delta": -3.803730730614998
+   "wert": "1.663 $",
+   "delta": -4.1581984013518545
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -1.5404032153751521
+   "delta": -1.7037981397005735
   },
   {
    "name": "Rohöl WTI",
@@ -1012,32 +1012,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-26T04:49:03+00:00",
    "tag": null
-  },
-  {
-   "id": "90c96db823e24f01",
-   "k": "trading",
-   "titel": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-   "t": "Ein Gesetz, das US-Regierungsbitcoin für 20 Jahre sperren soll, wurde ins Plenum des Repräsentantenhauses weitergereicht.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-   "quelle": "CoinDesk",
-   "zeit": "2026-11-26T04:46:01+00:00",
-   "tag": null
-  },
-  {
-   "id": "1f7f6255b7ebece8",
-   "k": "trading",
-   "titel": "Siemens Energy Aktie News: Siemens Energy gibt am Mittwochvormittag ab - Finanzen.net",
-   "t": "Siemens Energy gibt am Mittwochvormittag an der Börse nach.",
-   "e": "",
-   "tk": "ENR",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQl9rUUhoWFkxd191YlBPR0dWaXpNc3dIbjM5RDFCMldkVzRYa3Y1SGVobVl6TzY1Nzk1LThuQkwxdkphZHRvOV84b3NHakVwT21WVEtZTUY2V0FKV0hDT3hEdVJraURsM1liMjZUcXEwa00wTWR0MDFzZmFvYWJKY2t6UExSVTdWbGVuQXF0UTlZSExPVHlEVzd6SQ?oc=5",
-   "quelle": "Finanzen.net",
-   "zeit": "2026-11-26T04:38:57+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1055,7 +1029,7 @@
    {
     "name": "Tagesschau Ausland",
     "ok": true,
-    "n": 17
+    "n": 16
    },
    {
     "name": "Tagesschau Wirtschaft",
@@ -1192,7 +1166,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 7
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1207,7 +1181,7 @@
    {
     "name": "Google News Märkischer Kreis",
     "ok": true,
-    "n": 27
+    "n": 26
    },
    {
     "name": "Google News NRW",
@@ -1227,7 +1201,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 40
    }
   ],
   "markt": [],
