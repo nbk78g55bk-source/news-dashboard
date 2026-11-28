@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T05:16:24.167120+00:00",
+ "aktualisiert": "2026-11-28T05:31:32.326364+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.747 $",
-   "delta": -3.037010713014506
+   "wert": "59.792 $",
+   "delta": -3.1279359580009105
   },
   {
    "name": "Ethereum",
-   "wert": "1.657 $",
-   "delta": -4.816815570726895
+   "wert": "1.658 $",
+   "delta": -5.069815522504823
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.747 $",
-   "delta": -3.037010713014506
+   "wert": "59.792 $",
+   "delta": -3.1279359580009105
   },
   {
    "name": "Ethereum",
-   "wert": "1.657 $",
-   "delta": -4.816815570726895
+   "wert": "1.658 $",
+   "delta": -5.069815522504823
   },
   {
    "name": "Solana",
    "wert": "71 $",
-   "delta": -2.3374457251788603
+   "delta": -2.4102636450356942
   },
   {
    "name": "Rohöl WTI",
@@ -895,32 +895,6 @@
    "quelle": "The Block",
    "zeit": "2026-11-26T05:45:00+00:00",
    "tag": null
-  },
-  {
-   "id": "9292e907af688d85",
-   "k": "trading",
-   "titel": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
-   "t": "Sky schlägt wegen Liquiditätsdruck eine Notfall-Abstimmung über eine Übertragung von 25 Millionen US-Dollar vor.",
-   "e": "",
-   "tk": "SKY",
-   "s": 4,
-   "link": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "quelle": "Cointelegraph",
-   "zeit": "2026-11-26T05:29:26+00:00",
-   "tag": null
-  },
-  {
-   "id": "e8164bf49417bf63",
-   "k": "trading",
-   "titel": "Urban Outfitters Aktie: Rekordumsatz, Kurs minus 10 Prozent – warum Anleger dem Modehändler vor Black Friday nicht trauen - AktienCheck.de",
-   "t": "Urban Outfitters verzeichnete einen Rekordumsatz, die Aktie verlor jedoch rund 10 Prozent.",
-   "e": "",
-   "tk": "URBN",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMENVZW8tanAxLUxacWV6dWJETUdIelNvbHg0cG1Mb0x4RnFqRm5yemxIYTlsNTNfeVNzMnYwMXJNMVF3ZVhrWGxlNEs0QzN3NXlxQ1VZWkRUeHA3TlluTHVCeGh3UjBJenBGblhlNzBRdmV0eGNXU0dJdFFYNlRWWVI4YnRRTGR2cVJGZDFlUWVGRmNlRG1qU3pGV0Y3aVdGVnAwcUJSS0dMVTA?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-26T05:19:51+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1033,7 +1007,7 @@
    {
     "name": "The Block",
     "ok": true,
-    "n": 16
+    "n": 15
    },
    {
     "name": "Yahoo Finance",
@@ -1075,7 +1049,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 6
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1084,8 +1058,9 @@
    },
    {
     "name": "Google News Iserlohn",
-    "ok": true,
-    "n": 40
+    "ok": false,
+    "n": 0,
+    "fehler": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Iserlohn+when:2d&hl=de&gl=DE&ceid=DE:d"
    },
    {
     "name": "Google News Märkischer Kreis",
@@ -1105,7 +1080,7 @@
    {
     "name": "Google News USA",
     "ok": true,
-    "n": 13
+    "n": 14
    },
    {
     "name": "Google News Fed",
