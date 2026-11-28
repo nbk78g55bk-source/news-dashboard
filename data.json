@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T01:16:23.086658+00:00",
+ "aktualisiert": "2026-11-28T01:31:31.459109+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.027 $",
-   "delta": -1.1711567989322904
+   "wert": "60.080 $",
+   "delta": -1.0620337642284368
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.0806387508931494
+   "wert": "1.667 $",
+   "delta": -2.0094161923687617
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.027 $",
-   "delta": -1.1711567989322904
+   "wert": "60.080 $",
+   "delta": -1.0620337642284368
   },
   {
    "name": "Ethereum",
-   "wert": "1.665 $",
-   "delta": -2.0806387508931494
+   "wert": "1.667 $",
+   "delta": -2.0094161923687617
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.6136884265948548
+   "delta": 0.7247353567235439
   },
   {
    "name": "Rohöl WTI",
@@ -1181,32 +1181,6 @@
    "quelle": "Rock Hill Herald",
    "zeit": "2026-11-26T01:34:00+00:00",
    "tag": null
-  },
-  {
-   "id": "ce7c3dda40fa5c9c",
-   "k": "finanzen",
-   "titel": "Euro verharrt gegenüber dem USD unter 1,1000; blickt auf EZB-Konten als Impulsgeber - TradingView",
-   "t": "Der Euro notiert gegenüber dem US-Dollar weiterhin unter 1,1000 US-Dollar; der Markt richtet den Blick auf die EZB-Protokolle.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9keEtNb2dIQmcxMVV6WnFWZjhpQ0VuVVRSd1FmRDlYN09GV0JhbUpXWTdQQ0szNFlTVm1NSXh5SHU1WjNZNC1YdnpoR25wdmZSV25HejZWb2hzZGpZSENkZC1jZzNtdTh0?oc=5",
-   "quelle": "TradingView",
-   "zeit": "2026-11-26T01:22:00+00:00",
-   "tag": null
-  },
-  {
-   "id": "f27e9c7b9c50bdbd",
-   "k": "welt",
-   "titel": "Meth im Millionenwert von nigerianischen Behörden beschlagnahmt",
-   "t": "Nigerianische Behörden haben Methamphetamin im Wert von 226,8 Millionen US-Dollar beschlagnahmt; fünf mexikanische Staatsangehörige wurden festgenommen.",
-   "e": "",
-   "tk": "",
-   "s": 3,
-   "link": "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-meth-im-millionenwert-von-nigerianischen-behoerden-beschlagnahmt.html",
-   "quelle": "Welt",
-   "zeit": "2026-11-26T01:19:04+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1361,7 +1335,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1396,7 +1370,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 29
    }
   ],
   "markt": [],
