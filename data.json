@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T01:31:31.459109+00:00",
+ "aktualisiert": "2026-11-28T01:46:19.420569+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.080 $",
-   "delta": -1.0620337642284368
+   "wert": "60.147 $",
+   "delta": -0.7959437748214974
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -2.0094161923687617
+   "wert": "1.668 $",
+   "delta": -1.7728194024766084
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "60.080 $",
-   "delta": -1.0620337642284368
+   "wert": "60.147 $",
+   "delta": -0.7959437748214974
   },
   {
    "name": "Ethereum",
-   "wert": "1.667 $",
-   "delta": -2.0094161923687617
+   "wert": "1.668 $",
+   "delta": -1.7728194024766084
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.7247353567235439
+   "delta": 0.9568204777011688
   },
   {
    "name": "Rohöl WTI",
@@ -1168,19 +1168,6 @@
    "quelle": "CNBC",
    "zeit": "2026-11-26T01:50:21+00:00",
    "tag": null
-  },
-  {
-   "id": "8ddb4ed8789b38b1",
-   "k": "finanzen",
-   "titel": "Asia shares bounce, AI and tariffs lurk in background - Rock Hill Herald",
-   "t": "Asiatische Aktienmärkte haben sich erholt, während KI-Sorgen und Zölle im Hintergrund bleiben.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPMmZQdlAzZWpud1BPLXNmTl9XR0ViNDBjV3pxV0JYX0dXbm5RNXJmcmZ1MXE4QVRRVW1Ddl9MODZzclhtSTNvWm41alVRenJtLW9YWC1WXzRRQWlWbjNfaEVLODZSVklEWS14RE1Ec2xDZw?oc=5",
-   "quelle": "Rock Hill Herald",
-   "zeit": "2026-11-26T01:34:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1335,7 +1322,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1370,7 +1357,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 29
+    "n": 40
    }
   ],
   "markt": [],
