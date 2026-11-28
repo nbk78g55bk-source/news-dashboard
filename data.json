@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T01:01:44.539703+00:00",
+ "aktualisiert": "2026-11-28T01:16:23.086658+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.849 $",
-   "delta": -1.3298361469221671
+   "wert": "60.027 $",
+   "delta": -1.1711567989322904
   },
   {
    "name": "Ethereum",
-   "wert": "1.660 $",
-   "delta": -2.3755037087866375
+   "wert": "1.665 $",
+   "delta": -2.0806387508931494
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.849 $",
-   "delta": -1.3298361469221671
+   "wert": "60.027 $",
+   "delta": -1.1711567989322904
   },
   {
    "name": "Ethereum",
-   "wert": "1.660 $",
-   "delta": -2.3755037087866375
+   "wert": "1.665 $",
+   "delta": -2.0806387508931494
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.5902850173604604
+   "delta": 0.6136884265948548
   },
   {
    "name": "Rohöl WTI",
@@ -1207,32 +1207,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-26T01:19:04+00:00",
    "tag": null
-  },
-  {
-   "id": "0a7b0663055fe4b6",
-   "k": "finanzen",
-   "titel": "US interest rates — December Hike Probability Hits 98% - The Korea Daily",
-   "t": "Am Markt wird die Wahrscheinlichkeit einer US-Zinserhöhung im Dezember inzwischen auf rund 98 Prozent taxiert.",
-   "e": "Nach dem erhöhten Kern-PCE-Wert steigen die Erwartungen an weitere Zinsschritte der Fed deutlich.",
-   "tk": "",
-   "s": 7,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSElaWjBNZFJiWDdGSERpQm8wRjFkUDJsN0JzOG1nZk9tSmowNzg2dUJReldFeEtZWktSd2JkWnZMLWFndXQ4SURyMGRpdTZiNmxrOEltVXRlV1cyMFVNb3BiZ2dPYUFhRndzNVlkenUyTXdCMW5CRDBfcndRMUlFX1NYbHpsNFR1?oc=5",
-   "quelle": "The Korea Daily",
-   "zeit": "2026-11-26T01:14:34+00:00",
-   "tag": null
-  },
-  {
-   "id": "d807dd5e05155f3a",
-   "k": "finanzen",
-   "titel": "Bank of America 2027 Economic Outlook: AI Investment as the Top US Economy Uncertainty, Fed Projected to Hike Interest Rates 3 More Times - 36Kr",
-   "t": "Bank of America erwartet in seinem Ausblick für 2027 KI-Investitionen als größte Unsicherheit für die US-Wirtschaft und drei weitere Zinserhöhungen der Fed.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xb3FtSDNtTGVMVVBkNDZIRXoxS2JCZ2Q1NGZlbDJXMUxnVVRta3hTV3J4NHZfXy1tazBieXFmNXp1d2JOU0VfLTg0N1VfUlFXTnk0?oc=5",
-   "quelle": "36Kr",
-   "zeit": "2026-11-26T01:04:25+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1387,7 +1361,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 5
+    "n": 4
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1422,7 +1396,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 40
    }
   ],
   "markt": [],
