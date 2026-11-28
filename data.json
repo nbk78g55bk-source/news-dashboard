@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T05:01:40.865849+00:00",
+ "aktualisiert": "2026-11-28T05:16:24.167120+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.944 $",
-   "delta": -2.364466111545267
+   "wert": "59.747 $",
+   "delta": -3.037010713014506
   },
   {
    "name": "Ethereum",
-   "wert": "1.662 $",
-   "delta": -4.088551689510238
+   "wert": "1.657 $",
+   "delta": -4.816815570726895
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.944 $",
-   "delta": -2.364466111545267
+   "wert": "59.747 $",
+   "delta": -3.037010713014506
   },
   {
    "name": "Ethereum",
-   "wert": "1.662 $",
-   "delta": -4.088551689510238
+   "wert": "1.657 $",
+   "delta": -4.816815570726895
   },
   {
    "name": "Solana",
-   "wert": "72 $",
-   "delta": -1.6182146685562615
+   "wert": "71 $",
+   "delta": -2.3374457251788603
   },
   {
    "name": "Rohöl WTI",
@@ -921,45 +921,6 @@
    "quelle": "AktienCheck.de",
    "zeit": "2026-11-26T05:19:51+00:00",
    "tag": null
-  },
-  {
-   "id": "7f7b9c3a8a05212b",
-   "k": "trading",
-   "titel": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
-   "t": "Galaxy hebt die Einschätzung zum Bitcoin-Boden auf und warnt vor tieferen Verlusten unter 58.525 US-Dollar.",
-   "e": "",
-   "tk": "BTC",
-   "s": 5,
-   "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-   "quelle": "The Block",
-   "zeit": "2026-11-26T05:16:11+00:00",
-   "tag": null
-  },
-  {
-   "id": "3b53a85ae46c02cc",
-   "k": "finanzen",
-   "titel": "Schwellenländer-Anleihen: ETF-Anleger ziehen 437 Millionen Dollar aus dem EMB ab – bremst die Fed-Angst die Jagd nach Rendite? - AktienCheck.de",
-   "t": "Anleger ziehen 437 Millionen US-Dollar aus dem EMB-ETF für Schwellenländeranleihen ab.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk93aVRLNC1paV9qdlVLaEJpXzB1R3F0bjAtM0pxWDctMnVkRVp0U2lhYWVpVDNiN2hMV3F2YXpRTVlUMHl4eVpjM0dtVE4wMjJXZ3FRYnlWanlfcGhRUXNPQk92Q3RpMUlhREJEN0g5X2k2ckJtVXRSS3RHX0hsbXJDbEpvU2JXNERIUnlwMjdqNm9DbnNZNGRZU1M2MHNMc205UDJRbDVEODJYaTFhYw?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-26T05:11:46+00:00",
-   "tag": null
-  },
-  {
-   "id": "468f042a759739fb",
-   "k": "welt",
-   "titel": "Russia must avoid ‘any actions’ expanding war in Ukraine — Trump, NATO chief say after Mar-a-Lago meeting",
-   "t": "Trump und NATO-Generalsekretär Rutte fordern nach einem Treffen in Mar-a-Lago, dass Russland jede Ausweitung des Kriegs in der Ukraine unterlässt.",
-   "e": "",
-   "tk": "",
-   "s": 6,
-   "link": "https://nypost.com/2026/11/26/us-news/russia-must-avoid-any-actions-expanding-war-in-ukraine-trump-nato-chief-say-after-mar-a-lago-meeting/",
-   "quelle": "New York Post Politik",
-   "zeit": "2026-11-26T05:04:49+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1052,7 +1013,7 @@
    {
     "name": "New York Post Politik",
     "ok": true,
-    "n": 19
+    "n": 18
    },
    {
     "name": "CoinDesk",
@@ -1114,7 +1075,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 6
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1149,7 +1110,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 40
+    "n": 28
    }
   ],
   "markt": [],
