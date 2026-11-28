@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T00:31:29.931735+00:00",
+ "aktualisiert": "2026-11-28T00:46:20.832854+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.931 $",
-   "delta": -0.9535421923135282
+   "wert": "59.952 $",
+   "delta": -1.117967551812877
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -1.5495128489881116
+   "wert": "1.664 $",
+   "delta": -1.8313247214769564
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.931 $",
-   "delta": -0.9535421923135282
+   "wert": "59.952 $",
+   "delta": -1.117967551812877
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -1.5495128489881116
+   "wert": "1.664 $",
+   "delta": -1.8313247214769564
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": 0.8213782291328214
+   "delta": 0.6651770974324736
   },
   {
    "name": "Rohöl WTI",
@@ -1259,19 +1259,6 @@
    "quelle": "Welt",
    "zeit": "2026-11-26T00:46:33+00:00",
    "tag": null
-  },
-  {
-   "id": "149629a9ce451488",
-   "k": "trading",
-   "titel": "Why this stock-market selloff is probably going to get worse before it gets better",
-   "t": "Die Erholung nach dem jüngsten Ausverkauf an der Wall Street gilt Marktbeobachtern als zu schwach; tiefere Probleme seien noch nicht gelöst.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-   "quelle": "MarketWatch",
-   "zeit": "2026-11-26T00:33:00+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1359,7 +1346,7 @@
    {
     "name": "Fox News Politik",
     "ok": true,
-    "n": 21
+    "n": 22
    },
    {
     "name": "New York Post Politik",
@@ -1426,7 +1413,7 @@
    {
     "name": "Google News Premarket Movers",
     "ok": true,
-    "n": 4
+    "n": 5
    },
    {
     "name": "Google News Nasdaq Futures",
@@ -1461,7 +1448,7 @@
    {
     "name": "Google News Fed",
     "ok": true,
-    "n": 30
+    "n": 40
    }
   ],
   "markt": [],
