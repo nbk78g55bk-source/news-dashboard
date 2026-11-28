@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-28T04:46:20.812191+00:00",
+ "aktualisiert": "2026-11-28T05:01:40.865849+00:00",
  "markt": [
   {
    "name": "iShares MSCI World",
@@ -28,13 +28,13 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.982 $",
-   "delta": -2.4056459320757226
+   "wert": "59.944 $",
+   "delta": -2.364466111545267
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -4.1581984013518545
+   "wert": "1.662 $",
+   "delta": -4.088551689510238
   },
   {
    "name": "Gold",
@@ -80,18 +80,18 @@
   },
   {
    "name": "Bitcoin",
-   "wert": "59.982 $",
-   "delta": -2.4056459320757226
+   "wert": "59.944 $",
+   "delta": -2.364466111545267
   },
   {
    "name": "Ethereum",
-   "wert": "1.663 $",
-   "delta": -4.1581984013518545
+   "wert": "1.662 $",
+   "delta": -4.088551689510238
   },
   {
    "name": "Solana",
    "wert": "72 $",
-   "delta": -1.7037981397005735
+   "delta": -1.6182146685562615
   },
   {
    "name": "Rohöl WTI",
@@ -960,58 +960,6 @@
    "quelle": "New York Post Politik",
    "zeit": "2026-11-26T05:04:49+00:00",
    "tag": null
-  },
-  {
-   "id": "b3cc795a372fdc4e",
-   "k": "deutschland",
-   "titel": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
-   "t": "Recherchen von WDR, NDR und SZ zufolge soll ein deutscher Firmenchef Schleuser im Ärmelkanal mit Schlauchbooten oder Motoren beliefert haben.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-26T05:00:30+00:00",
-   "tag": null
-  },
-  {
-   "id": "056a1b4c49d2ae93",
-   "k": "deutschland",
-   "titel": "Deutschland verfehlt EU-Frist für besseren Schutz von Lieferfahrern",
-   "t": "Deutschland hat die EU-Frist für besseren Schutz von Lieferfahrern verpasst, ein Gesetzentwurf fehlt bislang.",
-   "e": "",
-   "tk": "",
-   "s": 4,
-   "link": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
-   "quelle": "Tagesschau",
-   "zeit": "2026-11-26T05:00:09+00:00",
-   "tag": null
-  },
-  {
-   "id": "21e5e17a6d647263",
-   "k": "trading",
-   "titel": "Infineon-Aktie: 20-Milliarden-Ziel, aber minus 9,7 Prozent an einem Tag – trägt der Chip-Rebound aus Asien? - AktienCheck.de",
-   "t": "Infineon verlor an einem Tag 9,7 Prozent, obwohl das Unternehmen ein Umsatzziel von 20 Milliarden Euro nennt.",
-   "e": "",
-   "tk": "IFX",
-   "s": 5,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkxIdERJRkEtYml6djZUcHNzWEhCeVhwelZ3X2s1dUJFYTI1M1owTXItUzFQWDdIc2FybUxkVW1qbXlRVEZISzk2SHRKeEtRRUFuazNlb1k5UnlzdGVPWkFBeEtjSG4yTk5JcEJpSHNfdE1nMmVMdTZ2dUF5ZTh1WWFNVW5KYlppS2xoLVFIMDN4WS14UnJVcXhkNkVHVDhTT1BBZDVKb1lVczlNUF84?oc=5",
-   "quelle": "AktienCheck.de",
-   "zeit": "2026-11-26T04:51:22+00:00",
-   "tag": null
-  },
-  {
-   "id": "62bdeb72533b2d8c",
-   "k": "trading",
-   "titel": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-   "t": "Der südkoreanische Kospi führt die Gewinne in Asien an, da die Techwerte nach den neuen US-Zöllen erholt sind.",
-   "e": "",
-   "tk": "",
-   "s": 5,
-   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "quelle": "CNBC",
-   "zeit": "2026-11-26T04:49:03+00:00",
-   "tag": null
   }
  ],
  "status": {
@@ -1024,7 +972,7 @@
    {
     "name": "Tagesschau Inland",
     "ok": true,
-    "n": 18
+    "n": 19
    },
    {
     "name": "Tagesschau Ausland",
@@ -1049,7 +997,7 @@
    {
     "name": "FAZ",
     "ok": true,
-    "n": 36
+    "n": 37
    },
    {
     "name": "FAZ Finanzen",
